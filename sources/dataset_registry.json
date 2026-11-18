@@ -1,0 +1,131 @@
+{
+  "project": "SerpentShaper",
+  "research_date": "2026-11-17",
+  "scope": "Dataset discovery and raw-file audit; no merged training dataset",
+  "sources": [
+    {
+      "id": "museum_published",
+      "title": "MuseumVenomics published venom proteomes",
+      "url": "https://github.com/DEsquerre/MuseumVenomics",
+      "local_path": "data/raw/museum_venomics/PublishedProteomes.csv",
+      "status": "downloaded_and_audited",
+      "license": "CC0-1.0",
+      "role": "initial composition reference",
+      "families_as_reported": ["Elapidae", "Viperidae"],
+      "profile_count": 413,
+      "distinct_taxon_labels": 220,
+      "commit": "44f7965fc77f019da1f3cba59ebb2effec3739c9",
+      "limitations": ["taxonomic reconciliation pending", "parent and component columns overlap", "study overlap with other sources"]
+    },
+    {
+      "id": "museum_experimental",
+      "title": "MuseumVenomics experimental sample summaries",
+      "url": "https://github.com/DEsquerre/MuseumVenomics",
+      "local_path": "data/raw/museum_venomics/SummaryResults_ThisStudy.csv",
+      "status": "downloaded_and_audited",
+      "license": "CC0-1.0",
+      "role": "supplementary composition evidence",
+      "row_count": 92,
+      "limitations": ["mixed milked venom and gland sample types", "taxon labels need review"]
+    },
+    {
+      "id": "venom_diet_2023",
+      "title": "Snake's venom and diet diversity",
+      "url": "https://doi.org/10.6084/m9.figshare.22179949.v1",
+      "publication_doi": "10.3390/toxins15040251",
+      "local_path": "data/raw/venom_diet_2023/",
+      "status": "downloaded_and_audited",
+      "license": "CC-BY-4.0",
+      "role": "supplementary venom and diet evidence",
+      "raw_venom_records": 356,
+      "distinct_source_species_strings": 174,
+      "limitations": ["proteomic and transcriptomic data mixed", "source label typos", "derived cached spreadsheet errors", "overlap with other compilations"]
+    },
+    {
+      "id": "boomslang_2017",
+      "title": "Combined venom gland transcriptomic, venomic and antivenomic analysis of Dispholidus typus",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5335903/",
+      "local_path": "data/raw/boomslang_2017/supplementary.zip",
+      "status": "downloaded_archive_and_verified_xlsx_structure",
+      "license": "CC-BY-4.0",
+      "role": "selected Colubridae primary composition evidence",
+      "limitations": ["quantitative table requires reviewed aggregation", "possible duplicate biological sample in compilations"]
+    },
+    {
+      "id": "african_venoms_2022",
+      "title": "High-throughput proteomics and in vitro functional characterization of 26 African elapids and vipers",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9744630/",
+      "local_path": "data/raw/african_venoms_2022/supplementary.zip",
+      "status": "downloaded_archive_listing_verified",
+      "license": "CC-BY-4.0",
+      "role": "composition and functional assay evidence",
+      "limitations": ["nested legacy XLS table not parsed", "assay context must be preserved"]
+    },
+    {
+      "id": "atractaspis_2013",
+      "title": "Atractaspis aterrima Toxins",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3847709/",
+      "local_path": "data/raw/atractaspis_2013/supplementary.zip",
+      "status": "article_and_supplementary_archive_downloaded",
+      "license": "CC-BY-3.0",
+      "role": "Atractaspididae supporting evidence",
+      "measurement_type": "transcriptomics",
+      "limitations": ["not quantitative secreted-venom composition"]
+    },
+    {
+      "id": "proteome_review_2017",
+      "title": "A Review and Database of Snake Venom Proteomes",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5618223/",
+      "local_path": "sources/PMC5618223.xml",
+      "status": "article_with_tables_downloaded",
+      "license": "CC-BY-4.0",
+      "role": "source bibliography and foundational tables",
+      "limitations": ["overlaps newer compilations", "not all described species appear in main tables"]
+    },
+    {
+      "id": "repttraits",
+      "title": "ReptTraits",
+      "url": "https://doi.org/10.6084/m9.figshare.24572683.v4",
+      "publication_doi": "10.1038/s41597-024-03079-5",
+      "local_path": "data/raw/repttraits/ReptTraits dataset v1-2.xlsx",
+      "status": "downloaded_and_audited",
+      "license": "CC-BY-4.0",
+      "role": "habitat, diet, morphology, and other species traits",
+      "reptile_rows": 12060,
+      "snake_rows": 4073,
+      "exact_name_overlap_with_museum_published": 170,
+      "limitations": ["trait completeness varies", "taxonomy differs between sources", "exact name overlap is not a validated join"]
+    },
+    {
+      "id": "squamatabase",
+      "title": "Squamatabase predator-prey records",
+      "url": "https://github.com/blueraleigh/squamatabase",
+      "local_path": "data/raw/squamatabase/diet.csv",
+      "status": "downloaded_and_audited",
+      "license": "CC0 as declared in package DESCRIPTION",
+      "role": "diet observations and references",
+      "rows": 11057,
+      "distinct_predator_labels": 1481,
+      "exact_name_overlap_with_museum_published": 82,
+      "limitations": ["not every row is one prey individual or one event", "downloaded snapshot differs from README archive count"]
+    },
+    {
+      "id": "venom_environment_2021",
+      "title": "Ecological and biogeographic processes drive the proteome evolution of snake venom",
+      "url": "https://doi.org/10.5061/dryad.nzs7h44qs",
+      "status": "metadata_downloaded_data_download_http_401",
+      "license": "verify dataset terms before ingestion",
+      "role": "candidate composition and environmental context",
+      "limitations": ["data file not downloaded or audited"]
+    },
+    {
+      "id": "squambase",
+      "title": "SquamBase squamate species traits",
+      "url": "https://doi.org/10.5061/dryad.76hdr7t3b",
+      "status": "metadata_downloaded_data_download_http_401",
+      "license": "verify dataset terms before ingestion",
+      "role": "additional candidate traits and allometry",
+      "limitations": ["data files not downloaded or audited", "distinct resource from Squamatabase"]
+    }
+  ]
+}

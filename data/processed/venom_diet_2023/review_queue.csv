@@ -1,0 +1,167 @@
+profile_id,field,code,severity,original_value,detail
+vd2023_e2d1aa974518_r31,AZ31,literal_formula_verified,info,35.07,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r32,AZ32,literal_formula_verified,info,8.24,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r33,AZ33,literal_formula_verified,info,35.1,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r37,AZ37,literal_formula_verified,info,39.6,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r38,ED38,literal_formula_verified,info,5.3,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r46,component_sum_pct,total_outside_review_range,blocking,94.7999999999999936,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r61,ED61,literal_formula_verified,info,10.399999999999999,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r63,AZ63,literal_formula_verified,info,68.599999999999994,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r64,T64,literal_formula_verified,info,44.26,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r64,AZ64,literal_formula_verified,info,42.06,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r67,AZ67,literal_formula_verified,info,34.200000000000003,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r83,component_sum_pct,total_outside_review_range,blocking,153.819999999999997,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r84,measurement_type,measurement_typo_corrected,info,trancriptome,Applied explicit alias trancriptome -> transcriptomics.
+vd2023_e2d1aa974518_r84,component_sum_pct,total_outside_review_range,blocking,85,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r85,measurement_type,measurement_typo_corrected,info,trancriptome,Applied explicit alias trancriptome -> transcriptomics.
+vd2023_e2d1aa974518_r85,component_sum_pct,total_outside_review_range,blocking,83,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r86,measurement_type,measurement_typo_corrected,info,trancriptome,Applied explicit alias trancriptome -> transcriptomics.
+vd2023_e2d1aa974518_r86,component_sum_pct,total_outside_review_range,blocking,76,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r87,measurement_type,measurement_typo_corrected,info,trancriptome,Applied explicit alias trancriptome -> transcriptomics.
+vd2023_e2d1aa974518_r87,component_sum_pct,total_outside_review_range,blocking,72,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r88,measurement_type,measurement_typo_corrected,info,trancriptome,Applied explicit alias trancriptome -> transcriptomics.
+vd2023_e2d1aa974518_r88,component_sum_pct,total_outside_review_range,blocking,86,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r89,measurement_type,measurement_typo_corrected,info,trancriptome,Applied explicit alias trancriptome -> transcriptomics.
+vd2023_e2d1aa974518_r89,component_sum_pct,total_outside_review_range,blocking,91,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r91,AZ91,literal_formula_verified,info,74.12,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r92,M92,literal_formula_verified,info,0.09,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r92,ED92,literal_formula_verified,info,0.19,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r110,measurement_type,unknown_measurement_type,blocking,unknown,Resolve using the underlying source; do not infer from spelling similarity.
+vd2023_e2d1aa974518_r110,components,no_numeric_composition,blocking,,No valid numerical component values.
+vd2023_e2d1aa974518_r115,component_sum_pct,total_outside_review_range,blocking,107.1099999999999995,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r116,component_sum_pct,total_outside_review_range,blocking,92.1999999999999997,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r119,component_sum_pct,total_outside_review_range,blocking,111,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r131,component_sum_pct,total_outside_review_range,blocking,94.3000000000000011,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r170,component_sum_pct,total_outside_review_range,blocking,94.37,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r171,component_sum_pct,total_outside_review_range,blocking,92.1300000000000002,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r177,component_sum_pct,total_outside_review_range,blocking,61.3,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r187,AZ187,literal_formula_verified,info,9.5,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r192,component_sum_pct,total_outside_review_range,blocking,82.6000000000000058,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r211,BJ211,invalid_percentage,blocking,"0,002,","Expected a finite number from 0 to 100; original retained, numeric value NULL."
+vd2023_e2d1aa974518_r222,R222,literal_formula_verified,info,65.81,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r227,component_sum_pct,total_outside_review_range,blocking,94.1000000000000012,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r246,measurement_type,unknown_measurement_type,blocking,proteoje,Resolve using the underlying source; do not infer from spelling similarity.
+vd2023_e2d1aa974518_r259,AZ259,literal_formula_verified,info,31.560000000000002,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r268,measurement_type,measurement_typo_corrected,info,trancriptome,Applied explicit alias trancriptome -> transcriptomics.
+vd2023_e2d1aa974518_r294,R294,literal_formula_verified,info,10.629999999999999,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r295,T295,literal_formula_verified,info,69.699999999999989,Literal addition independently recomputed and matched cached value within 1e-9 percentage points. Original formula and cached value retained.
+vd2023_e2d1aa974518_r296,component_sum_pct,total_outside_review_range,blocking,91.2000000000000001,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r338,component_sum_pct,total_outside_review_range,blocking,94.8399999999999996,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+vd2023_e2d1aa974518_r345,component_sum_pct,total_outside_review_range,blocking,132,Outside configured 95–105% review range; source values preserved without normalization. Incomplete reporting or overlapping labels require review.
+,vd2023_G,unreviewed_toxin_label,dictionary_review,CREGF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_I,unreviewed_toxin_label,dictionary_review,C-NP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_J,unreviewed_toxin_label,dictionary_review,BTX,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_K,unreviewed_toxin_label,dictionary_review,MYO,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_L,unreviewed_toxin_label,dictionary_review,RYN,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_M,unreviewed_toxin_label,dictionary_review,WAP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_N,unreviewed_toxin_label,dictionary_review,NWAP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_O,unreviewed_toxin_label,dictionary_review,SWAP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_P,unreviewed_toxin_label,dictionary_review,FCN,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_Q,unreviewed_toxin_label,dictionary_review,LCN,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_R,unreviewed_toxin_label,dictionary_review,NTX,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_S,unreviewed_toxin_label,dictionary_review,TCX,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_U,unreviewed_toxin_label,dictionary_review,PLA2i,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_V,unreviewed_toxin_label,dictionary_review,PLB,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_W,unreviewed_toxin_label,dictionary_review,PLD,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_X,unreviewed_toxin_label,dictionary_review,LA,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_Y,unreviewed_toxin_label,dictionary_review,PNPLA,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AA,unreviewed_toxin_label,dictionary_review,KTIL,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AB,unreviewed_toxin_label,dictionary_review,GBL,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AE,unreviewed_toxin_label,dictionary_review,VEGF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AF,unreviewed_toxin_label,dictionary_review,NGF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AG,unreviewed_toxin_label,dictionary_review,FGF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AH,unreviewed_toxin_label,dictionary_review,EGF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AI,unreviewed_toxin_label,dictionary_review,PDGF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AJ,unreviewed_toxin_label,dictionary_review,V-Factor,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AK,unreviewed_toxin_label,dictionary_review,X-Factor,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AL,unreviewed_toxin_label,dictionary_review,DC,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AO,unreviewed_toxin_label,dictionary_review,BiP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AP,unreviewed_toxin_label,dictionary_review,BNP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AQ,unreviewed_toxin_label,dictionary_review,OHA,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AR,unreviewed_toxin_label,dictionary_review,VESP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AS,unreviewed_toxin_label,dictionary_review,OLP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AT,unreviewed_toxin_label,dictionary_review,CYS,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AU,unreviewed_toxin_label,dictionary_review,CYSi,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AV,unreviewed_toxin_label,dictionary_review,CVF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AW,unreviewed_toxin_label,dictionary_review,VF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AX,unreviewed_toxin_label,dictionary_review,NF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_AY,unreviewed_toxin_label,dictionary_review,CLP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BA,unreviewed_toxin_label,dictionary_review,MMP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BB,unreviewed_toxin_label,dictionary_review,NUC,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BC,unreviewed_toxin_label,dictionary_review,PDE,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BD,unreviewed_toxin_label,dictionary_review,MPE,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BE,unreviewed_toxin_label,dictionary_review,5-NUC,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BF,unreviewed_toxin_label,dictionary_review,SVMPi,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BH,unreviewed_toxin_label,dictionary_review,AChE,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BI,unreviewed_toxin_label,dictionary_review,ChE,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BK,unreviewed_toxin_label,dictionary_review,HYA,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BL,unreviewed_toxin_label,dictionary_review,SVSPi,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BM,unreviewed_toxin_label,dictionary_review,SPiL,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BN,unreviewed_toxin_label,dictionary_review,KLK,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BO,unreviewed_toxin_label,dictionary_review,RLAP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BP,unreviewed_toxin_label,dictionary_review,PEP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BQ,unreviewed_toxin_label,dictionary_review,GPCT,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BR,unreviewed_toxin_label,dictionary_review,PSAP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BS,unreviewed_toxin_label,dictionary_review,ACF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BT,unreviewed_toxin_label,dictionary_review,AP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BU,unreviewed_toxin_label,dictionary_review,EP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BV,unreviewed_toxin_label,dictionary_review,DPP 4,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BW,unreviewed_toxin_label,dictionary_review,ADP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BX,unreviewed_toxin_label,dictionary_review,TPG,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BY,unreviewed_toxin_label,dictionary_review,BP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_BZ,unreviewed_toxin_label,dictionary_review,TBP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CA,unreviewed_toxin_label,dictionary_review,KTC,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CB,unreviewed_toxin_label,dictionary_review,GPx,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CC,unreviewed_toxin_label,dictionary_review,RIB,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CD,unreviewed_toxin_label,dictionary_review,NMG,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CE,unreviewed_toxin_label,dictionary_review,LIPA,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CF,unreviewed_toxin_label,dictionary_review,AMP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CG,unreviewed_toxin_label,dictionary_review,FMO,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CH,unreviewed_toxin_label,dictionary_review,CELF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CI,unreviewed_toxin_label,dictionary_review,DRE,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CJ,unreviewed_toxin_label,dictionary_review,SEL,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CK,unreviewed_toxin_label,dictionary_review,ILGF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CL,unreviewed_toxin_label,dictionary_review,OSC,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CM,unreviewed_toxin_label,dictionary_review,QC,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CN,unreviewed_toxin_label,dictionary_review,PRX,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CO,unreviewed_toxin_label,dictionary_review,ALB,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CP,unreviewed_toxin_label,dictionary_review,CRO,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CQ,unreviewed_toxin_label,dictionary_review,CTX,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CR,unreviewed_toxin_label,dictionary_review,NEP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CS,unreviewed_toxin_label,dictionary_review,ANG,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CT,unreviewed_toxin_label,dictionary_review,CBP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CU,unreviewed_toxin_label,dictionary_review,VIP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CV,unreviewed_toxin_label,dictionary_review,CVX,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CW,unreviewed_toxin_label,dictionary_review,TRA,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CX,unreviewed_toxin_label,dictionary_review,ACPH,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CY,unreviewed_toxin_label,dictionary_review,ET,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_CZ,unreviewed_toxin_label,dictionary_review,MFG,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DA,unreviewed_toxin_label,dictionary_review,PDI,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DB,unreviewed_toxin_label,dictionary_review,MUC,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DC,unreviewed_toxin_label,dictionary_review,VAP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DD,unreviewed_toxin_label,dictionary_review,MTX,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DE,unreviewed_toxin_label,dictionary_review,BD,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DF,unreviewed_toxin_label,dictionary_review,TF,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DG,unreviewed_toxin_label,dictionary_review,NT,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DH,unreviewed_toxin_label,dictionary_review,GLO,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DI,unreviewed_toxin_label,dictionary_review,GH,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DJ,unreviewed_toxin_label,dictionary_review,IBP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DK,unreviewed_toxin_label,dictionary_review,PTA,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DL,unreviewed_toxin_label,dictionary_review,SVAP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DM,unreviewed_toxin_label,dictionary_review,WAG,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DN,unreviewed_toxin_label,dictionary_review,CCP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DO,unreviewed_toxin_label,dictionary_review,CAT,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DP,unreviewed_toxin_label,dictionary_review,CTS,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DQ,unreviewed_toxin_label,dictionary_review,PEBP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DR,unreviewed_toxin_label,dictionary_review,MT(LP),"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DS,unreviewed_toxin_label,dictionary_review,ACE,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DT,unreviewed_toxin_label,dictionary_review,SVTL,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DU,unreviewed_toxin_label,dictionary_review,ATH,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DV,unreviewed_toxin_label,dictionary_review,AKS,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DW,unreviewed_toxin_label,dictionary_review,AG,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DX,unreviewed_toxin_label,dictionary_review,AKT,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DY,unreviewed_toxin_label,dictionary_review,AKH,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_DZ,unreviewed_toxin_label,dictionary_review,NESP,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_EA,unreviewed_toxin_label,dictionary_review,CA,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_EB,unreviewed_toxin_label,dictionary_review,HBG,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."
+,vd2023_EC,unreviewed_toxin_label,dictionary_review,CDTX,"Preserved as a distinct source category. No expansion, hierarchy or biological function inferred."

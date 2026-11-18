@@ -1,0 +1,686 @@
+{
+  "published_proteomes": {
+    "profiles": 413,
+    "distinct_taxon_labels": 220,
+    "by_family": {
+      "Elapidae": {
+        "profiles": 199,
+        "taxon_labels": 90
+      },
+      "Viperidae": {
+        "profiles": 214,
+        "taxon_labels": 130
+      }
+    },
+    "missing_doi_rows": 0,
+    "reported_total_outside_95_105": [
+      {
+        "csv_row": 8,
+        "taxon": "Bungarus caeruleus",
+        "reported_total": "94.7"
+      },
+      {
+        "csv_row": 9,
+        "taxon": "Bungarus caeruleus",
+        "reported_total": "85.1"
+      },
+      {
+        "csv_row": 26,
+        "taxon": "Bungarus fasciatus",
+        "reported_total": "80.8"
+      },
+      {
+        "csv_row": 40,
+        "taxon": "Dendroaspis angusticeps",
+        "reported_total": "94.2"
+      },
+      {
+        "csv_row": 52,
+        "taxon": "Hoplocephalus stephensii",
+        "reported_total": "91.2"
+      },
+      {
+        "csv_row": 60,
+        "taxon": "Hydrophis platurus",
+        "reported_total": "93.6"
+      },
+      {
+        "csv_row": 68,
+        "taxon": "Micrurus browni",
+        "reported_total": "92.6"
+      },
+      {
+        "csv_row": 69,
+        "taxon": "Micrurus clarki",
+        "reported_total": "93.5"
+      },
+      {
+        "csv_row": 78,
+        "taxon": "Micrurus lemniscatus",
+        "reported_total": "90.0"
+      },
+      {
+        "csv_row": 91,
+        "taxon": "Micrurus spixii",
+        "reported_total": "93.3"
+      },
+      {
+        "csv_row": 96,
+        "taxon": "Micrurus yatesi",
+        "reported_total": "92.9"
+      },
+      {
+        "csv_row": 99,
+        "taxon": "Naja annulifera",
+        "reported_total": "87.71"
+      },
+      {
+        "csv_row": 173,
+        "taxon": "Naja sumatrana",
+        "reported_total": "89.8"
+      },
+      {
+        "csv_row": 178,
+        "taxon": "Ophiophagus hannah",
+        "reported_total": "91.2"
+      },
+      {
+        "csv_row": 179,
+        "taxon": "Ophiophagus kaalinga",
+        "reported_total": "94.871"
+      },
+      {
+        "csv_row": 188,
+        "taxon": "Pseudonaja guttatus",
+        "reported_total": "86.134"
+      },
+      {
+        "csv_row": 271,
+        "taxon": "Bothrops brazilli",
+        "reported_total": "88.3"
+      },
+      {
+        "csv_row": 313,
+        "taxon": "Crotalus durissus cascavella",
+        "reported_total": "94.15"
+      },
+      {
+        "csv_row": 330,
+        "taxon": "Daboia russelii",
+        "reported_total": "105.3"
+      }
+    ],
+    "columns": [
+      "Sample",
+      "D.E.Venom.Collection.Number",
+      "Family",
+      "Genus",
+      "Species",
+      "Species2",
+      "Locality",
+      "Form_short",
+      "Sex",
+      "3FTx",
+      "L-3FTx",
+      "S-3FTx",
+      "Non-standard 3FTx",
+      "Not Classified 3FTx",
+      "Plesiotypic 3FTx",
+      "α-neurotoxins oxy. A",
+      "α-neurotoxins oxy. B",
+      "Cytotoxic 3FTx",
+      "PLA2",
+      "SV-GI-PLA2",
+      "SV-GII-PLA2",
+      "PLA2 β-neurotoxins",
+      "PLA2 other",
+      "SVMP",
+      "SVSP",
+      "fX serine protease",
+      "fV multicopper oxid",
+      "CTL",
+      "CRiSP",
+      "Kun",
+      "LAAO",
+      "5N",
+      "AChE",
+      "AmPep",
+      "Cys",
+      "Dis",
+      "Hyal",
+      "NGF",
+      "NP",
+      "Oha-Vesp",
+      "PDE",
+      "PLB",
+      "PLC",
+      "VEGF",
+      "Venom factor",
+      "Venom peroxiredoxin",
+      "Waprin",
+      "DEF (Defensin, Crotamine)",
+      "Mpi (snake venom metalloprotease inhibitor)",
+      "Waglerin",
+      "Endopeptidase",
+      "Trypsinogen",
+      "Protease inhibitor",
+      "Peptides",
+      "Other",
+      "Unidentified",
+      "TOTAL",
+      "Technique",
+      "Reference",
+      "DOI"
+    ],
+    "warning": "Distinct taxon labels are not reconciled accepted species; parent/subfamily toxin columns overlap."
+  },
+  "museum_experiment": {
+    "rows": 92,
+    "columns": [
+      "Sample",
+      "D.E.Venom.Collection.Number",
+      "Family",
+      "Genus",
+      "Species",
+      "Species2",
+      "Form_short",
+      "Sex",
+      "Date.collected",
+      "SVL",
+      "Tail.length",
+      "3FTx",
+      "PLA2",
+      "SVMP",
+      "SVSP",
+      "CTL",
+      "CRiSP",
+      "Kun",
+      "LAAO",
+      "5N",
+      "AChE",
+      "AmPep",
+      "Cys",
+      "Dis",
+      "Hyal",
+      "NGF",
+      "NP",
+      "Oha-Vesp",
+      "PDE",
+      "PLB",
+      "PLC",
+      "VEGF",
+      "Venom factor",
+      "Venom peroxiredoxin",
+      "Waprin",
+      "Other"
+    ],
+    "sample_types": {
+      "MilkedVenom": 32,
+      "PreservedFixedGland": 55,
+      "FrozenEthanolGland": 5
+    },
+    "taxon_labels": 42
+  },
+  "venom_diet_2023": {
+    "raw_records": 356,
+    "taxon_labels": 174,
+    "analysis_types": {
+      "proteome": 288,
+      "transcriptome": 58,
+      "trancriptome": 7,
+      "unknown": 1,
+      "proteome ": 1,
+      "proteoje": 1
+    },
+    "header_cells": {
+      "A": "Species",
+      "B": "Location",
+      "C": "",
+      "D": "     ",
+      "E": "3FTx",
+      "F": "CRiSP",
+      "G": "CREGF",
+      "H": "NP",
+      "I": "C-NP",
+      "J": "BTX",
+      "K": "MYO",
+      "L": "RYN",
+      "M": "WAP",
+      "N": "NWAP",
+      "O": "SWAP",
+      "P": "FCN",
+      "Q": "LCN",
+      "R": "NTX",
+      "S": "TCX",
+      "T": "PLA2",
+      "U": "PLA2i",
+      "V": "PLB",
+      "W": "PLD",
+      "X": "LA",
+      "Y": "PNPLA",
+      "Z": "KSPI",
+      "AA": "KTIL",
+      "AB": "GBL",
+      "AC": "CTL",
+      "AD": "CLP (Snaclec)",
+      "AE": "VEGF",
+      "AF": "NGF",
+      "AG": "FGF",
+      "AH": "EGF",
+      "AI": "PDGF",
+      "AJ": "V-Factor",
+      "AK": "X-Factor",
+      "AL": "DC",
+      "AM": "DIS",
+      "AN": "BPP",
+      "AO": "BiP",
+      "AP": "BNP",
+      "AQ": "OHA",
+      "AR": "VESP",
+      "AS": "OLP",
+      "AT": "CYS",
+      "AU": "CYSi",
+      "AV": "CVF",
+      "AW": "VF",
+      "AX": "NF",
+      "AY": "CLP",
+      "AZ": "SVMP",
+      "BA": "MMP",
+      "BB": "NUC",
+      "BC": "PDE",
+      "BD": "MPE",
+      "BE": "5-NUC",
+      "BF": "SVMPi",
+      "BG": "SVSP",
+      "BH": "AChE",
+      "BI": "ChE",
+      "BJ": "LAAO",
+      "BK": "HYA",
+      "BL": "SVSPi",
+      "BM": "SPiL",
+      "BN": "KLK",
+      "BO": "RLAP",
+      "BP": "PEP",
+      "BQ": "GPCT",
+      "BR": "PSAP",
+      "BS": "ACF",
+      "BT": "AP",
+      "BU": "EP",
+      "BV": "DPP 4",
+      "BW": "ADP",
+      "BX": "TPG",
+      "BY": "BP",
+      "BZ": "TBP",
+      "CA": "KTC",
+      "CB": "GPx",
+      "CC": "RIB",
+      "CD": "NMG",
+      "CE": "LIPA",
+      "CF": "AMP",
+      "CG": "FMO",
+      "CH": "CELF",
+      "CI": "DRE",
+      "CJ": "SEL",
+      "CK": "ILGF",
+      "CL": "OSC",
+      "CM": "QC",
+      "CN": "PRX",
+      "CO": "ALB",
+      "CP": "CRO",
+      "CQ": "CTX",
+      "CR": "NEP",
+      "CS": "ANG",
+      "CT": "CBP",
+      "CU": "VIP",
+      "CV": "CVX",
+      "CW": "TRA",
+      "CX": "ACPH",
+      "CY": "ET",
+      "CZ": "MFG",
+      "DA": "PDI",
+      "DB": "MUC",
+      "DC": "VAP",
+      "DD": "MTX",
+      "DE": "BD",
+      "DF": "TF",
+      "DG": "NT",
+      "DH": "GLO",
+      "DI": "GH",
+      "DJ": "IBP",
+      "DK": "PTA",
+      "DL": "SVAP",
+      "DM": "WAG",
+      "DN": "CCP",
+      "DO": "CAT",
+      "DP": "CTS",
+      "DQ": "PEBP",
+      "DR": "MT(LP)",
+      "DS": "ACE",
+      "DT": "SVTL",
+      "DU": "ATH",
+      "DV": "AKS",
+      "DW": "AG",
+      "DX": "AKT",
+      "DY": "AKH",
+      "DZ": "NESP",
+      "EA": "CA",
+      "EB": "HBG",
+      "EC": "CDTX",
+      "ED": "No ID",
+      "EE": "total %",
+      "EF": "Nb prot families",
+      "EG": "N(N-1)",
+      "EH": "n(n-1)",
+      "EI": "venom_simpson_index",
+      "EJ": "p=Nbprot/N",
+      "EK": "p*ln(p)",
+      "EL": "venom_shannon_index"
+    },
+    "non_elapid_viperid_candidate_taxa": [
+      "Boiga_irregularis",
+      "Dispholidus_typus",
+      "Philodryas_olfersii",
+      "Thelotornis_mossambicanus"
+    ],
+    "sheets": [
+      {
+        "name": "RAW_DATABASE_VENOM",
+        "nonempty_rows": 357,
+        "cached_error_cells": 6
+      },
+      {
+        "name": "RAW_DATABASE_DIET_FAMILIES",
+        "nonempty_rows": 176,
+        "cached_error_cells": 259
+      },
+      {
+        "name": "RAW_DATABASE_DIET_ORDERS",
+        "nonempty_rows": 176,
+        "cached_error_cells": 245
+      },
+      {
+        "name": "RAW_DATABASE_SUMMARY_INDEX",
+        "nonempty_rows": 357,
+        "cached_error_cells": 452
+      }
+    ]
+  },
+  "squamatabase": {
+    "rows": 11057,
+    "columns": [
+      "predator",
+      "predator_verbatim",
+      "predator_rank",
+      "predator_taxon",
+      "predator_age",
+      "predator_sex",
+      "predator_count",
+      "predator_mass",
+      "predator_svl",
+      "predator_tl",
+      "predator_voucher",
+      "prey",
+      "prey_verbatim",
+      "prey_rank",
+      "prey_taxon",
+      "prey_age",
+      "prey_sex",
+      "prey_count",
+      "prey_mass",
+      "prey_tl",
+      "prey_ingested",
+      "prey_voucher",
+      "locality_adm0_name",
+      "locality_adm1_name",
+      "locality_adm2_name",
+      "locality_misc",
+      "locality_longitude",
+      "locality_latitude",
+      "event_basis",
+      "event_setting",
+      "event_date",
+      "event_start",
+      "event_end",
+      "event_outcome",
+      "event_habitat",
+      "event_habitat_verbatim",
+      "event_remark",
+      "reference"
+    ],
+    "distinct_predator_labels": 1481,
+    "published_proteome_exact_name_overlap": 82
+  },
+  "repttraits": {
+    "version": "v1-2",
+    "species_rows": 12060,
+    "snake_rows": 4073,
+    "snake_family_counts": {
+      "Elapidae": 398,
+      "Xenodermidae": 34,
+      "Boidae": 67,
+      "Acrochordidae": 3,
+      "Typhlopidae": 280,
+      "Colubridae": 2105,
+      "Viperidae": 383,
+      "Pseudoxyrhophiidae": 88,
+      "Lamprophiidae": 93,
+      "Atractaspididae": 69,
+      "Aniliidae": 1,
+      "Anomalepididae": 20,
+      "Anomochilidae": 3,
+      "Pythonidae": 38,
+      "Pareidae": 45,
+      "Homalopsidae": 58,
+      "Bolyeriidae": 2,
+      "Gerrhopilidae": 29,
+      "Cyclocoridae": 8,
+      "Cylindrophiidae": 15,
+      "Psammophiidae": 57,
+      "Leptotyphlopidae": 143,
+      "Loxocemidae": 1,
+      "Uropeltidae": 65,
+      "Micrelapidae": 3,
+      "Prosymnidae": 18,
+      "Pseudaspididae": 4,
+      "Tropidophiidae": 37,
+      "Xenopeltidae": 3,
+      "Xenophidiidae": 2,
+      "Xenotyphlopidae": 1
+    },
+    "published_proteome_exact_name_overlap": 170,
+    "columns": {
+      "A": "Species",
+      "B": "Order",
+      "C": "Suborder",
+      "D": "Family",
+      "E": "Genus",
+      "F": "Description author/s",
+      "G": "Description year",
+      "H": "Subspecies ",
+      "I": "Main biogeographic region",
+      "J": "Microhabitat",
+      "K": "Habitat type",
+      "L": "Minimal elevation (m)",
+      "M": "Maximum elevation (m)",
+      "N": "Mean Annual Temperature (°C)",
+      "O": "Temperature Seasonality (standard deviation*100)",
+      "P": "Seasonality Precipitation (coefficient of variation × 100)",
+      "Q": "Insular/endemic (yes or no)",
+      "R": "Venomous (yes or no)",
+      "S": "Diet ",
+      "T": "Diet: comments",
+      "U": "Active time",
+      "V": "Dorsal colour",
+      "W": "Dorsal pattern",
+      "X": "Foraging mode",
+      "Y": "Pupil Shape",
+      "Z": "Fangs",
+      "AA": "Maximum Longevity (years)",
+      "AB": "Maximum body mass (g)",
+      "AC": "Maximum total length (\"TL\", mm)",
+      "AD": "Maximum length (\"SVL\", mm)/straight carapace length for turtles (\"SCL\", mm)",
+      "AE": "Maximum female length (\"SVL\", mm)/straight carapace length for turtles (\"SCL\", mm)",
+      "AF": "Maximum male length (\"SVL\", mm)/straight carapace length for turtles (\"SCL\", mm)",
+      "AG": "Maximum juvenile length (\"SVL\", mm)/straight carapace length for turtles (\"SCL\", mm)",
+      "AH": "Hatchling/neonate mass (g)",
+      "AI": "Reproductive mode",
+      "AJ": "Sex-determining mechanism (GSD or TSD)",
+      "AK": "Mean number of offspring per litter or number of eggs per clutch",
+      "AL": "Smallest clutch size",
+      "AM": "Largest clutch size",
+      "AN": "Number of litters or clutches produced per year",
+      "AO": "Egg length (mm)",
+      "AP": "Egg width (mm)",
+      "AQ": "Mean Tb",
+      "AR": "Minimum Tb",
+      "AS": "Maximum Tb",
+      "AT": "Genetic data (yes or not)",
+      "AU": "IUCN redlist assessment",
+      "AV": "IUCN population trend"
+    }
+  },
+  "archive_spreadsheets": [
+    {
+      "archive": "data/raw/boomslang_2017/supplementary.zip",
+      "file": "mmc1.xlsx",
+      "sheets": [
+        {
+          "name": "Hoja1",
+          "stored_rows": 582,
+          "first_rows": [
+            {
+              "row": 1,
+              "cells": {
+                "A": "",
+                "B": "",
+                "G": "",
+                "H": ""
+              }
+            },
+            {
+              "row": 2,
+              "cells": {
+                "A": "Supplementary Table S1: MS/MS identification and quantification of the boomslang (Dispholidus typus) venom proteins separated by RP-HPLC and SDS-PAGE as in Figure 2",
+                "B": "",
+                "C": "",
+                "D": "",
+                "E": "",
+                "F": "",
+                "G": "",
+                "H": "",
+                "I": "",
+                "J": "",
+                "K": "",
+                "L": "",
+                "M": ""
+              }
+            },
+            {
+              "row": 3,
+              "cells": {
+                "A": "",
+                "G": ""
+              }
+            }
+          ]
+        },
+        {
+          "name": "Hoja2",
+          "stored_rows": 15,
+          "first_rows": [
+            {
+              "row": 1,
+              "cells": {
+                "A": "#",
+                "B": "Time",
+                "C": "Area%"
+              }
+            },
+            {
+              "row": 2,
+              "cells": {
+                "A": "1",
+                "B": "30.359000000000002",
+                "C": "3.9020000000000001"
+              }
+            },
+            {
+              "row": 3,
+              "cells": {
+                "A": "2",
+                "B": "31.573",
+                "C": "0.72"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Hoja3",
+          "stored_rows": 13,
+          "first_rows": [
+            {
+              "row": 2,
+              "cells": {
+                "A": "50",
+                "B": "509",
+                "C": "2073",
+                "D": "3502",
+                "H": "97 K",
+                "I": "66",
+                "J": "56",
+                "K": "50",
+                "L": "40",
+                "M": "33",
+                "N": "31",
+                "O": "25",
+                "P": "21"
+              }
+            },
+            {
+              "row": 3,
+              "cells": {
+                "A": "14",
+                "B": "510",
+                "C": "2532",
+                "D": "3035",
+                "H": "50",
+                "I": "2073",
+                "J": "50",
+                "K": "59",
+                "L": "50",
+                "M": "803",
+                "N": "50",
+                "O": "50",
+                "P": "59"
+              }
+            },
+            {
+              "row": 4,
+              "cells": {
+                "A": "59",
+                "B": "803",
+                "H": "2532",
+                "I": "3502",
+                "J": "510",
+                "K": "50",
+                "L": "510",
+                "M": "197",
+                "N": "510"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "nested_archives": [
+    {
+      "archive": "data/raw/african_venoms_2022/supplementary.zip",
+      "inner": "giac121_supplemental_figure_and_table.zip",
+      "files": [
+        "FigureS1.pdf",
+        "TableS1-Supplementary Material revision.xls"
+      ]
+    }
+  ]
+}

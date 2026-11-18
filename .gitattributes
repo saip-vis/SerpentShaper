@@ -1,0 +1,3 @@
+# Preserve research files and generated ingestion tables byte-for-byte.
+data/** -text -whitespace
+sources/** -text -whitespace

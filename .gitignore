@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite-journal
+*.tmp
+.pytest_cache/
+.coverage
+data/processed/cleaning-validation-*/

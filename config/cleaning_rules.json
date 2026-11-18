@@ -1,0 +1,20 @@
+{
+  "measurement_aliases": {"proteome": "proteomics", "transcriptome": "transcriptomics", "trancriptome": "transcriptomics"},
+  "profile_overrides": {},
+  "total_review_range_pct": [95, 105],
+  "toxin_labels": {
+    "3FTx": {"canonical_id": "3ftx", "name": "Three-finger toxins"},
+    "PLA2": {"canonical_id": "pla2", "name": "Phospholipases A2"},
+    "SVMP": {"canonical_id": "svmp", "name": "Snake venom metalloproteinases"},
+    "SVSP": {"canonical_id": "svsp", "name": "Snake venom serine proteases"},
+    "KSPI": {"canonical_id": "kunitz", "name": "Kunitz-type serine protease inhibitors"},
+    "CTL": {"canonical_id": "ctl", "name": "C-type lectins"},
+    "CLP (Snaclec)": {"canonical_id": "snaclec", "name": "C-type lectin-like proteins (snaclecs)"},
+    "CRiSP": {"canonical_id": "crisp", "name": "Cysteine-rich secretory proteins"},
+    "LAAO": {"canonical_id": "laao", "name": "L-amino acid oxidases"},
+    "DIS": {"canonical_id": "disintegrin", "name": "Disintegrins"},
+    "NP": {"canonical_id": "natriuretic_peptide", "name": "Natriuretic peptides"},
+    "BPP": {"canonical_id": "bradykinin_potentiating_peptide", "name": "Bradykinin-potentiating peptides"},
+    "No ID": {"canonical_id": "unidentified", "name": "Unidentified components"}
+  }
+}

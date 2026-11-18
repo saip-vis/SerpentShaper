@@ -1,0 +1,390 @@
+[
+  {
+    "url": "https://api.github.com/repos/DEsquerre/MuseumVenomics/commits/main",
+    "final_url": "https://api.github.com/repos/DEsquerre/MuseumVenomics/commits/main",
+    "path": "sources/museum_commit.json",
+    "status": "downloaded",
+    "bytes": 12277,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "c6c3d191bacae1b7a139b01029cd2b3aa94c28da6893d699174c0cc034e714df",
+    "retrieved_at": "2026-11-17T21:06:42.774210+00:00"
+  },
+  {
+    "url": "https://api.figshare.com/v2/articles/22179949",
+    "final_url": "https://api.figshare.com/v2/articles/22179949",
+    "path": "sources/figshare_22179949.json",
+    "status": "downloaded",
+    "bytes": 3412,
+    "content_type": "application/json",
+    "sha256": "d39f7d908ea5c5fc6e1e3885df55dede63c702a1b4da8d8a65b33211c7a13b83",
+    "retrieved_at": "2026-11-17T21:06:42.909495+00:00"
+  },
+  {
+    "url": "https://api.datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.nzs7h44qs",
+    "path": "sources/dryad_nzs7h44qs.json",
+    "status": "failed",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5618223/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5618223/fullTextXML",
+    "path": "sources/PMC5618223.xml",
+    "status": "downloaded",
+    "bytes": 366672,
+    "content_type": "application/xml",
+    "sha256": "91e5c2f28cdac5307c12085a02f590e4f3140d5a95f8db125be6633a5f993a2d",
+    "retrieved_at": "2026-11-17T21:06:51.016075+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5335903/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5335903/fullTextXML",
+    "path": "sources/PMC5335903.xml",
+    "status": "downloaded",
+    "bytes": 172804,
+    "content_type": "application/xml",
+    "sha256": "c673fb014456f0f15dc0d785cbd60c9e1ee4226bdd10ad3da358da052b5233a0",
+    "retrieved_at": "2026-11-17T21:06:48.659267+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3847709/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3847709/fullTextXML",
+    "path": "sources/PMC3847709.xml",
+    "status": "downloaded",
+    "bytes": 109287,
+    "content_type": "application/xml",
+    "sha256": "1a68fcb9794a26323d25b0939c35f5410b9269a9a2553133619ea645303f1c4c",
+    "retrieved_at": "2026-11-17T21:06:43.591854+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9744630/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9744630/fullTextXML",
+    "path": "sources/PMC9744630.xml",
+    "status": "downloaded",
+    "bytes": 171850,
+    "content_type": "application/xml",
+    "sha256": "2e9fce28a8028ed134e16d44090bd310ff383aa86eb47c39fca82d42e7bf9158",
+    "retrieved_at": "2026-11-17T21:06:44.544489+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/README.md",
+    "final_url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/README.md",
+    "path": "data/raw/museum_venomics/README.md",
+    "status": "downloaded",
+    "bytes": 7804,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "451d91383a84d58b7a8a5d2c8bde8dabb86b828c4f76cdfea87d7de606cc0841",
+    "retrieved_at": "2026-11-17T21:06:51.305428+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/PublishedProteomes.csv",
+    "final_url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/PublishedProteomes.csv",
+    "path": "data/raw/museum_venomics/PublishedProteomes.csv",
+    "status": "downloaded",
+    "bytes": 201488,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "67d0a1683ca0be279c3e7a075ca7a7c366995af8e8698a676e53a38b0dc1c7c8",
+    "retrieved_at": "2026-11-17T21:06:51.509122+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/SummaryResults_VenomMassSpecExperiment.csv",
+    "path": "data/raw/museum_venomics/SummaryResults_VenomMassSpecExperiment.csv",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/39408244",
+    "final_url": "https://44c1cec316ec56bca76dfd65d2882b20.r2.cloudflarestorage.com/figshare-com-storage/39408244/Supp.Mat.1.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ff06dacca0bd4b78c42274ace031d878/20261117/auto/s3/aws4_request&X-Amz-Date=20261117T210652Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Supp.%2520Mat.%25201.xlsx%22&response-content-type=application%2Foctet-stream&X-Amz-Signature=13e0c773fca603e2214c5bb4714832d8a48c79ada7adce8a70f773469169df8b",
+    "path": "data/raw/venom_diet_2023/Supp. Mat. 1.xlsx",
+    "status": "downloaded",
+    "bytes": 233396,
+    "content_type": "application/octet-stream",
+    "sha256": "e2d1aa97451838dcdf9ee61fa4c476533d79e3c4a66144536c0c42976b93824b",
+    "retrieved_at": "2026-11-17T21:06:52.990951+00:00"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/39408247",
+    "final_url": "https://44c1cec316ec56bca76dfd65d2882b20.r2.cloudflarestorage.com/figshare-com-storage/39408247/Supp.Mat.2.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ff06dacca0bd4b78c42274ace031d878/20261117/auto/s3/aws4_request&X-Amz-Date=20261117T210653Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Supp.%2520Mat.%25202.xlsx%22&response-content-type=application%2Foctet-stream&X-Amz-Signature=acb290c32be7e2661ac81d0cd4b3784652034c1236c78341178a59fb64f2d624",
+    "path": "data/raw/venom_diet_2023/Supp. Mat. 2.xlsx",
+    "status": "downloaded",
+    "bytes": 40995,
+    "content_type": "application/octet-stream",
+    "sha256": "c17fb6a63fa2d0ba2e8c5b8083888a945439cb51606bea4b7e4bd8ba594822a9",
+    "retrieved_at": "2026-11-17T21:06:53.999317+00:00"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/39408250",
+    "final_url": "https://44c1cec316ec56bca76dfd65d2882b20.r2.cloudflarestorage.com/figshare-com-storage/39408250/Supp.Mat.3.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ff06dacca0bd4b78c42274ace031d878/20261117/auto/s3/aws4_request&X-Amz-Date=20261117T210654Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Supp.%2520Mat.%25203.xlsx%22&response-content-type=application%2Foctet-stream&X-Amz-Signature=72a7773cb43ee8dc5f92e9499d6bafac7e27d664cfcfce2359f979d4958a0e3d",
+    "path": "data/raw/venom_diet_2023/Supp. Mat. 3.xlsx",
+    "status": "downloaded",
+    "bytes": 12047,
+    "content_type": "application/octet-stream",
+    "sha256": "a9b35403fe2e86d6c7b125f42e16df17881acffee81a4c4ed533d7f5f019fd74",
+    "retrieved_at": "2026-11-17T21:06:54.874779+00:00"
+  },
+  {
+    "url": "https://api.github.com/repos/DEsquerre/MuseumVenomics/contents",
+    "final_url": "https://api.github.com/repos/DEsquerre/MuseumVenomics/contents",
+    "path": "sources/museum_contents.json",
+    "status": "downloaded",
+    "bytes": 6960,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "ead9c444de77582bda5d2fdbbd678e4d9cd91c676c7410d960041409a33e30ab",
+    "retrieved_at": "2026-11-17T21:07:53.707935+00:00"
+  },
+  {
+    "url": "https://api.github.com/repos/blueraleigh/squamatabase/commits/master",
+    "final_url": "https://api.github.com/repos/blueraleigh/squamatabase/commits/master",
+    "path": "sources/squamatabase_commit.json",
+    "status": "downloaded",
+    "bytes": 3951,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "667d3ca706d73b73e91bc8272c7ee4ac68610d6ee98f9c64645d968d92f0c5e0",
+    "retrieved_at": "2026-11-17T21:07:53.823364+00:00"
+  },
+  {
+    "url": "https://api.github.com/repos/blueraleigh/squamatabase/git/trees/master?recursive=1",
+    "final_url": "https://api.github.com/repos/blueraleigh/squamatabase/git/trees/master?recursive=1",
+    "path": "sources/squamatabase_tree.json",
+    "status": "downloaded",
+    "bytes": 4937,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "4e673b9713bec55c436998209fede0d01417f11aa06a689629644d42c4793970",
+    "retrieved_at": "2026-11-17T21:07:53.741137+00:00"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.nzs7h44qs",
+    "final_url": "https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.nzs7h44qs",
+    "path": "sources/dryad_nzs7h44qs.json",
+    "status": "downloaded",
+    "bytes": 20526,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "f77e1262b6a2b206f97ad6b7926813e0ff4e6c95f7f854de8aecfd987199774f",
+    "retrieved_at": "2026-11-17T21:07:53.845180+00:00"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.76hdr7t3b",
+    "final_url": "https://datadryad.org/api/v2/datasets/doi%3A10.5061%2Fdryad.76hdr7t3b",
+    "path": "sources/squambase_dryad.json",
+    "status": "downloaded",
+    "bytes": 3656,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "956b2032d6c5219f281bbaab766105632256b74ef292163b5f74dbcbf8c66e64",
+    "retrieved_at": "2026-11-17T21:07:53.753519+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5335903/supplementaryFiles",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5335903/supplementaryFiles",
+    "path": "data/raw/boomslang_2017/supplementary.zip",
+    "status": "downloaded",
+    "bytes": 546710,
+    "content_type": "application/zip",
+    "sha256": "db2fb5f8c250617e5438f7e33da3279f8e614da1477728f126c2b97815e2f4e7",
+    "retrieved_at": "2026-11-17T21:07:54.994430+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9744630/supplementaryFiles",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9744630/supplementaryFiles",
+    "path": "data/raw/african_venoms_2022/supplementary.zip",
+    "status": "downloaded",
+    "bytes": 6647364,
+    "content_type": "application/zip",
+    "sha256": "10acb4c09abbba3ae4149e6522c8c81e9d8d23bb762ae52cb788bf4ca186147e",
+    "retrieved_at": "2026-11-17T21:07:58.132958+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3847709/supplementaryFiles",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3847709/supplementaryFiles",
+    "path": "data/raw/atractaspis_2013/supplementary.zip",
+    "status": "downloaded",
+    "bytes": 2182225,
+    "content_type": "application/zip",
+    "sha256": "06134c46ccd0d0990b9d946aa9bbc0aa8080a159d0ba9332618d50b1379312de",
+    "retrieved_at": "2026-11-17T21:07:57.587959+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1038/s41597-024-03079-5&format=json",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1038/s41597-024-03079-5&format=json",
+    "path": "sources/repttraits_lookup.json",
+    "status": "downloaded",
+    "bytes": 1015,
+    "content_type": "application/json;charset=UTF-8",
+    "sha256": "93811ed2cf2a4d91696ab041e15cb70cc2a4b73cd6a2bb2d7b2e1cb3fd040a2d",
+    "retrieved_at": "2026-11-17T21:07:58.315345+00:00"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/versions/132004",
+    "final_url": "https://datadryad.org/api/v2/versions/132004",
+    "path": "sources/dryad_nzs7h44qs_version.json",
+    "status": "downloaded",
+    "bytes": 20487,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "3de6447f0dcc29ff3a7177dfe71de99287ac05ee46a11ceb069cd949cf91455d",
+    "retrieved_at": "2026-11-17T21:07:58.693365+00:00"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/versions/308445",
+    "final_url": "https://datadryad.org/api/v2/versions/308445",
+    "path": "sources/squambase_dryad_version.json",
+    "status": "downloaded",
+    "bytes": 3472,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "ec440e34c791ec937d5efaccd1f0bc521e5be2c6057cad1e09c28502881a652a",
+    "retrieved_at": "2026-11-17T21:07:59.040837+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/blueraleigh/squamatabase/97cf7d756f59e3ee0fb72d4c3fe5e1c1fccb42ec/inst/diet.csv",
+    "final_url": "https://raw.githubusercontent.com/blueraleigh/squamatabase/97cf7d756f59e3ee0fb72d4c3fe5e1c1fccb42ec/inst/diet.csv",
+    "path": "data/raw/squamatabase/diet.csv",
+    "status": "downloaded",
+    "bytes": 6229532,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "9aa6a1d1ede3ac3b01b22dc06536bf896b695a15e3b2a5c16df02a8dade2d71b",
+    "retrieved_at": "2026-11-17T21:07:59.974419+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/blueraleigh/squamatabase/97cf7d756f59e3ee0fb72d4c3fe5e1c1fccb42ec/README.md",
+    "final_url": "https://raw.githubusercontent.com/blueraleigh/squamatabase/97cf7d756f59e3ee0fb72d4c3fe5e1c1fccb42ec/README.md",
+    "path": "data/raw/squamatabase/README.md",
+    "status": "downloaded",
+    "bytes": 10179,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "024002588a353db0b4c5032ee4e5dbd4637d7112a72c528675ead2c5aa7bbee7",
+    "retrieved_at": "2026-11-17T21:08:00.177927+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/blueraleigh/squamatabase/97cf7d756f59e3ee0fb72d4c3fe5e1c1fccb42ec/DESCRIPTION",
+    "final_url": "https://raw.githubusercontent.com/blueraleigh/squamatabase/97cf7d756f59e3ee0fb72d4c3fe5e1c1fccb42ec/DESCRIPTION",
+    "path": "data/raw/squamatabase/DESCRIPTION",
+    "status": "downloaded",
+    "bytes": 306,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "93845f5419ee3804aa8427d6075a8fec080f6efe121878f74221106d55f07db8",
+    "retrieved_at": "2026-11-17T21:08:00.564217+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/blueraleigh/squamatabase/97cf7d756f59e3ee0fb72d4c3fe5e1c1fccb42ec/man/diet.Rd",
+    "final_url": "https://raw.githubusercontent.com/blueraleigh/squamatabase/97cf7d756f59e3ee0fb72d4c3fe5e1c1fccb42ec/man/diet.Rd",
+    "path": "data/raw/squamatabase/diet.Rd",
+    "status": "downloaded",
+    "bytes": 6618,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "546aa66eaf298229e816d7992f596b684891d895ec0c41819e2cadccbd400c4b",
+    "retrieved_at": "2026-11-17T21:08:00.821583+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10899194/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10899194/fullTextXML",
+    "path": "sources/PMC10899194.xml",
+    "status": "downloaded",
+    "bytes": 54381,
+    "content_type": "application/xml",
+    "sha256": "45bfb0e42def06b10c2e9b40d6c54b5153e447f40cf718ddfb23ac6a9bff69df",
+    "retrieved_at": "2026-11-17T21:08:01.797238+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/SummaryResults_ThisStudy.csv",
+    "final_url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/SummaryResults_ThisStudy.csv",
+    "path": "data/raw/museum_venomics/SummaryResults_ThisStudy.csv",
+    "status": "downloaded",
+    "bytes": 29455,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "e587097539842fcc03cb5eae0e7bc100b4f9485a7872065e63b9c76779e5a81a",
+    "retrieved_at": "2026-11-17T21:08:46.550280+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/LICENSE",
+    "final_url": "https://raw.githubusercontent.com/DEsquerre/MuseumVenomics/44f7965fc77f019da1f3cba59ebb2effec3739c9/LICENSE",
+    "path": "data/raw/museum_venomics/LICENSE",
+    "status": "downloaded",
+    "bytes": 7048,
+    "content_type": "text/plain; charset=utf-8",
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+    "retrieved_at": "2026-11-17T21:08:46.548802+00:00"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/versions/132004/files",
+    "final_url": "https://datadryad.org/api/v2/versions/132004/files",
+    "path": "sources/dryad_nzs7h44qs_files.json",
+    "status": "downloaded",
+    "bytes": 926,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "342ca2ab995db94c4765f96de98fce7e4d112aacb6127a16ea2704e8f1cb3e78",
+    "retrieved_at": "2026-11-17T21:08:46.629695+00:00"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/versions/308445/files",
+    "final_url": "https://datadryad.org/api/v2/versions/308445/files",
+    "path": "sources/squambase_dryad_files.json",
+    "status": "downloaded",
+    "bytes": 3684,
+    "content_type": "application/json; charset=utf-8",
+    "sha256": "22cb8caf81eb047ad4ac7f84b2c270dd8a33a05aaf130042455558797ebc7de6",
+    "retrieved_at": "2026-11-17T21:08:46.652586+00:00"
+  },
+  {
+    "url": "https://api.figshare.com/v2/articles/24572683",
+    "final_url": "https://api.figshare.com/v2/articles/24572683",
+    "path": "sources/repttraits_figshare.json",
+    "status": "downloaded",
+    "bytes": 5310,
+    "content_type": "application/json",
+    "sha256": "c74d6f9939d9d8692c7f71b25b136c118b9b5c23ddbab0e45034491a04aa8268",
+    "retrieved_at": "2026-11-17T21:08:47.183569+00:00"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/files/846038/download",
+    "path": "data/raw/venom_environment_2021/Siqueira_et_al2021_Supplementary_Material.docx",
+    "status": "failed",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/files/2884614/download",
+    "path": "data/raw/squambase/README.md",
+    "status": "failed",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/files/2884612/download",
+    "path": "data/raw/squambase/Supplementary_Table_S1_-_squamBase1.xlsx",
+    "status": "failed",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/files/2884607/download",
+    "path": "data/raw/squambase/Supplementary_Table_S2_-_squamBase_literature_dataset.xlsx",
+    "status": "failed",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/files/2884606/download",
+    "path": "data/raw/squambase/Supplementary_Table_S3_-_trait_metadata.xlsx",
+    "status": "failed",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "url": "https://datadryad.org/api/v2/files/2884611/download",
+    "path": "data/raw/squambase/Supplementary_Table_S4_-_length_mass_allometric_equations.xlsx",
+    "status": "failed",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/44351534",
+    "final_url": "https://44c1cec316ec56bca76dfd65d2882b20.r2.cloudflarestorage.com/figshare-com-storage/44351534/ReptTraitsdatasetv11.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ff06dacca0bd4b78c42274ace031d878/20261117/auto/s3/aws4_request&X-Amz-Date=20261117T210848Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22ReptTraits%2520dataset%2520v1-1.xlsx%22&response-content-type=application%2Foctet-stream&X-Amz-Signature=5ef346fb704d6f20ad8988b1d837fc3b7de6e50506957f5af1e33839e661136d",
+    "path": "data/raw/repttraits/ReptTraits dataset v1-1.xlsx",
+    "status": "downloaded",
+    "bytes": 18475288,
+    "content_type": "application/octet-stream",
+    "sha256": "7e32a42672dcb806d5ec8774cec4e40bbd122add166703eb652ac5e105a5219c",
+    "retrieved_at": "2026-11-17T21:08:51.044818+00:00"
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/45408133",
+    "final_url": "https://44c1cec316ec56bca76dfd65d2882b20.r2.cloudflarestorage.com/figshare-com-storage/45408133/ReptTraitsdatasetv12.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ff06dacca0bd4b78c42274ace031d878/20261117/auto/s3/aws4_request&X-Amz-Date=20261117T210851Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22ReptTraits%2520dataset%2520v1-2.xlsx%22&response-content-type=application%2Foctet-stream&X-Amz-Signature=6f873e9229a6ce9eae40d3c0054e9a48ec2308a0f685859d1adb72bdb947e16a",
+    "path": "data/raw/repttraits/ReptTraits dataset v1-2.xlsx",
+    "status": "downloaded",
+    "bytes": 18545434,
+    "content_type": "application/octet-stream",
+    "sha256": "74eb6fd0e2626c75bdbeacb50a08b1762eee42e2b3cfda4a0f1134b84971718a",
+    "retrieved_at": "2026-11-17T21:08:53.491242+00:00"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "source_sha256": "e2d1aa97451838dcdf9ee61fa4c476533d79e3c4a66144536c0c42976b93824b",
+  "rules_sha256": "f7bebb84de0351a0339fd70527151203b405442e1013da65179b0bad3d501dca",
+  "schema_version": 1,
+  "cleaner_sha256": "b35b312f0c6f793d5e9f2f7f0684ce3f09eb2b8f2f8317f24f3527bc883de5b4",
+  "source_id": "vd2023_e2d1aa974518",
+  "counts": {
+    "profiles": 356,
+    "components": 46280,
+    "toxin_dictionary": 130,
+    "review_queue": 166,
+    "ready_profiles": 333,
+    "ready_proteomic_profiles": 276,
+    "ready_transcriptomic_profiles": 57
+  },
+  "measurement_types": {
+    "proteomics": 289,
+    "transcriptomics": 65,
+    "unknown": 2
+  },
+  "issues_by_code": {
+    "literal_formula_verified": 18,
+    "total_outside_review_range": 20,
+    "measurement_typo_corrected": 7,
+    "unknown_measurement_type": 2,
+    "no_numeric_composition": 1,
+    "invalid_percentage": 1,
+    "unreviewed_toxin_label": 117
+  },
+  "component_statuses": {
+    "missing": 42609,
+    "reported_positive": 3670,
+    "invalid": 1
+  },
+  "excluded_sheets": [
+    "RAW_DATABASE_DIET_FAMILIES",
+    "RAW_DATABASE_DIET_ORDERS",
+    "RAW_DATABASE_SUMMARY_INDEX"
+  ],
+  "excluded_columns": "D (empty unlabeled column); EE:EL (source-derived calculations, cached EE total retained only as provenance)",
+  "limitations": [
+    "Not a taxonomically reconciled dataset.",
+    "No per-profile primary citation assignment inferred.",
+    "Ready means structurally ingestible with caveats, not scientifically validated.",
+    "Unreviewed toxin labels remain distinct and are excluded from named_components.",
+    "Parent-child relationships are NULL until reviewed; no family aggregation performed."
+  ]
+}

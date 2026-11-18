@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "original_component_cells_reconciled": 46280,
+  "profile_rows_reconciled": 356,
+  "raw_download_hashes_verified": 16,
+  "foreign_keys": "passed",
+  "database_integrity": "ok",
+  "csv_row_counts": "matched_database",
+  "blocking_issues_excluded_from_ready_views": true,
+  "repeated_import": "all_export_and_database_bytes_identical",
+  "scope": "cleaning and ingestion validation only"
+}
