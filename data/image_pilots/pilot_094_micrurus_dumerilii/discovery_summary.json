@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T09:03:47.216243+00:00",
+  "results": [
+    {
+      "species": "Micrurus dumerilii",
+      "status": "metadata_checked",
+      "eligible_observations_available": 10,
+      "observations_examined": 10,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

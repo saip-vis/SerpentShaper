@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:46:12.546474+00:00",
+  "results": [
+    {
+      "species": "Bothrops cotiara",
+      "status": "metadata_checked",
+      "eligible_observations_available": 1,
+      "observations_examined": 1,
+      "candidates_selected": 1
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

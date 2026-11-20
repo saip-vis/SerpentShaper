@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:52:40.737580+00:00",
+  "results": [
+    {
+      "species": "Crotalus basiliscus",
+      "status": "metadata_checked",
+      "eligible_observations_available": 42,
+      "observations_examined": 20,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

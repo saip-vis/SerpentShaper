@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T09:02:18.675538+00:00",
+  "results": [
+    {
+      "species": "Micrurus alleni",
+      "status": "metadata_checked",
+      "eligible_observations_available": 22,
+      "observations_examined": 20,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

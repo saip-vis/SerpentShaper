@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "source": "User instructions, 2026-11-20",
+  "injured_or_deformed": "Exclude from rendering training by default.",
+  "reference_exception": "Retain only when uniquely useful anatomy is documented and unavailable in other images; reference-only, not a rendering-training example.",
+  "uncertain_body_condition": "Hold out of rendering training pending review; do not infer injury solely from posture or color.",
+  "severe_hand_occlusion": "Reject when the visible anatomy adds little beyond clearer available images.",
+  "training_gate": "Explicit accepted status, no rendering exclusion, no reference-only exception, and no rejected/supplemental suitability category. Missing review status is not acceptance.",
+  "original_files": "Preserve original files, source labels, attribution, and review history. Rejection is exclusion, not deletion."
+}

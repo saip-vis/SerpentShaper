@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:48:46.300784+00:00",
+  "results": [
+    {
+      "species": "Bothrops pictus",
+      "status": "metadata_checked",
+      "eligible_observations_available": 1,
+      "observations_examined": 1,
+      "candidates_selected": 2
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

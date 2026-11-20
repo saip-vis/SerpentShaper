@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:44:14.235887+00:00",
+  "results": [
+    {
+      "species": "Bothriechis schlegelii",
+      "status": "metadata_checked",
+      "eligible_observations_available": 11,
+      "observations_examined": 11,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

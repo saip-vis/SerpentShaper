@@ -1,0 +1,3334 @@
+{
+  "status": "provisional_metadata_only",
+  "research_date": "2026-11-18",
+  "official_source": "https://www.imageclef.org/node/319",
+  "download_source": "https://huggingface.co/pengdadaaa/SnakeCLEF2024/tree/main/metadata",
+  "mirror_commit": "786f6a6a17453a8686d1cb9af7407525292d0d7c",
+  "metadata_files": [
+    {
+      "name": "SnakeCLEF2023-TrainMetadata-HM.csv",
+      "rows": 13843,
+      "columns": [
+        "observation_id",
+        "binomial_name",
+        "image_path",
+        "subset",
+        "code",
+        "endemic",
+        "class_id"
+      ]
+    },
+    {
+      "name": "SnakeCLEF2023-TrainMetadata-iNat.csv",
+      "rows": 154301,
+      "columns": [
+        "observation_id",
+        "endemic",
+        "binomial_name",
+        "code",
+        "image_path",
+        "class_id",
+        "subset"
+      ]
+    },
+    {
+      "name": "SnakeCLEF2023-ValMetadata.csv",
+      "rows": 14117,
+      "columns": [
+        "observation_id",
+        "captive",
+        "endemic",
+        "binomial_name",
+        "code",
+        "image_path",
+        "class_id",
+        "subset"
+      ]
+    }
+  ],
+  "distinct_metadata_species_names": 1784,
+  "eligible_proteomic_profiles": {
+    "venom_taxon_labels": 149,
+    "exact_name_matches": 125,
+    "unmatched_names": [
+      "Atropoides picadoi",
+      "Bothrops ayerbei",
+      "Bothrops barnetti",
+      "Bothrops caribbaeus",
+      "Bothrops colombiensis",
+      "Bothrops insularis",
+      "Bothrops lanceolatus",
+      "Bothrops pirajai",
+      "Bungarus sindanus",
+      "Cryptelytrops purpureomaculatus",
+      "Gloydius brevicaudus",
+      "Macrovipera lebetina",
+      "Micropechis ikaheka",
+      "Micrurus paraensis",
+      "Naja katiensis",
+      "Naja nubiae",
+      "Ophryacus sphenophrys",
+      "Protobothrops kelomohy",
+      "Pseudechis papuanus",
+      "Toxicocalamus longissimus",
+      "Trimeresurus puniceus",
+      "Trimeresurus wiroti",
+      "Vipera orlovi",
+      "Vipera renardii"
+    ],
+    "metadata_image_records_for_matched_names": 21012,
+    "taxa": [
+      {
+        "venom_name": "Agkistrodon bilineatus",
+        "metadata_image_records": 72,
+        "metadata_observations": 53,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 65,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Agkistrodon contortrix",
+        "metadata_image_records": 119,
+        "metadata_observations": 89,
+        "by_subset": {
+          "train": 115,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Agkistrodon piscivorus",
+        "metadata_image_records": 133,
+        "metadata_observations": 93,
+        "by_subset": {
+          "train": 121,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Agkistrodon taylori",
+        "metadata_image_records": 37,
+        "metadata_observations": 25,
+        "by_subset": {
+          "train": 34,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Aipysurus laevis",
+        "metadata_image_records": 184,
+        "metadata_observations": 85,
+        "by_subset": {
+          "train": 163,
+          "val": 21
+        }
+      },
+      {
+        "venom_name": "Aspidelaps lubricus",
+        "metadata_image_records": 85,
+        "metadata_observations": 47,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 75,
+          "val": 8
+        }
+      },
+      {
+        "venom_name": "Aspidelaps scutatus",
+        "metadata_image_records": 60,
+        "metadata_observations": 29,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 57,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Atropoides picadoi",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bitis arietans",
+        "metadata_image_records": 602,
+        "metadata_observations": 357,
+        "by_subset": {
+          "train-hm": 49,
+          "train": 497,
+          "val": 56
+        }
+      },
+      {
+        "venom_name": "Bitis caudalis",
+        "metadata_image_records": 244,
+        "metadata_observations": 114,
+        "by_subset": {
+          "train-hm": 16,
+          "train": 204,
+          "val": 24
+        }
+      },
+      {
+        "venom_name": "Bitis gabonica",
+        "metadata_image_records": 118,
+        "metadata_observations": 72,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 108,
+          "val": 7
+        }
+      },
+      {
+        "venom_name": "Bitis nasicornis",
+        "metadata_image_records": 59,
+        "metadata_observations": 34,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 55,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Bothriechis aurifer",
+        "metadata_image_records": 45,
+        "metadata_observations": 27,
+        "by_subset": {
+          "train": 44,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothriechis bicolor",
+        "metadata_image_records": 16,
+        "metadata_observations": 14,
+        "by_subset": {
+          "train": 15,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothriechis marchi",
+        "metadata_image_records": 26,
+        "metadata_observations": 19,
+        "by_subset": {
+          "train": 24,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Bothriechis nigroviridis",
+        "metadata_image_records": 81,
+        "metadata_observations": 45,
+        "by_subset": {
+          "train": 76,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothriechis schlegelii",
+        "metadata_image_records": 604,
+        "metadata_observations": 330,
+        "by_subset": {
+          "train-hm": 118,
+          "train": 450,
+          "val": 36
+        }
+      },
+      {
+        "venom_name": "Bothriechis supraciliaris",
+        "metadata_image_records": 34,
+        "metadata_observations": 21,
+        "by_subset": {
+          "train": 32,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Bothriechis thalassinus",
+        "metadata_image_records": 21,
+        "metadata_observations": 13,
+        "by_subset": {
+          "train": 19,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Bothrocophias campbelli",
+        "metadata_image_records": 69,
+        "metadata_observations": 34,
+        "by_subset": {
+          "train-hm": 8,
+          "train": 56,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothrops alternatus",
+        "metadata_image_records": 255,
+        "metadata_observations": 139,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 240,
+          "val": 14
+        }
+      },
+      {
+        "venom_name": "Bothrops asper",
+        "metadata_image_records": 678,
+        "metadata_observations": 474,
+        "by_subset": {
+          "train-hm": 119,
+          "train": 513,
+          "val": 46
+        }
+      },
+      {
+        "venom_name": "Bothrops atrox",
+        "metadata_image_records": 701,
+        "metadata_observations": 436,
+        "by_subset": {
+          "train-hm": 73,
+          "train": 582,
+          "val": 46
+        }
+      },
+      {
+        "venom_name": "Bothrops ayerbei",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops barnetti",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops caribbaeus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops colombiensis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops cotiara",
+        "metadata_image_records": 25,
+        "metadata_observations": 12,
+        "by_subset": {
+          "train": 24,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothrops diporus",
+        "metadata_image_records": 114,
+        "metadata_observations": 65,
+        "by_subset": {
+          "train-hm": 6,
+          "train": 103,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothrops erythromelas",
+        "metadata_image_records": 30,
+        "metadata_observations": 19,
+        "by_subset": {
+          "train": 27,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Bothrops insularis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops jararaca",
+        "metadata_image_records": 110,
+        "metadata_observations": 53,
+        "by_subset": {
+          "train": 102,
+          "val": 8
+        }
+      },
+      {
+        "venom_name": "Bothrops jararacussu",
+        "metadata_image_records": 108,
+        "metadata_observations": 60,
+        "by_subset": {
+          "train": 98,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Bothrops lanceolatus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops leucurus",
+        "metadata_image_records": 53,
+        "metadata_observations": 35,
+        "by_subset": {
+          "train": 51,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Bothrops neuwiedi",
+        "metadata_image_records": 97,
+        "metadata_observations": 44,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 90,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothrops pauloensis",
+        "metadata_image_records": 37,
+        "metadata_observations": 21,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 30,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Bothrops pictus",
+        "metadata_image_records": 11,
+        "metadata_observations": 7,
+        "by_subset": {
+          "train": 10,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothrops pirajai",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops punctatus",
+        "metadata_image_records": 62,
+        "metadata_observations": 32,
+        "by_subset": {
+          "train": 57,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bungarus caeruleus",
+        "metadata_image_records": 173,
+        "metadata_observations": 117,
+        "by_subset": {
+          "train-hm": 72,
+          "train": 99,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Bungarus candidus",
+        "metadata_image_records": 293,
+        "metadata_observations": 174,
+        "by_subset": {
+          "train-hm": 80,
+          "train": 200,
+          "val": 13
+        }
+      },
+      {
+        "venom_name": "Bungarus fasciatus",
+        "metadata_image_records": 458,
+        "metadata_observations": 276,
+        "by_subset": {
+          "train-hm": 39,
+          "train": 391,
+          "val": 28
+        }
+      },
+      {
+        "venom_name": "Bungarus flaviceps",
+        "metadata_image_records": 68,
+        "metadata_observations": 40,
+        "by_subset": {
+          "train-hm": 12,
+          "train": 51,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bungarus multicinctus",
+        "metadata_image_records": 303,
+        "metadata_observations": 213,
+        "by_subset": {
+          "train-hm": 34,
+          "train": 231,
+          "val": 38
+        }
+      },
+      {
+        "venom_name": "Bungarus sindanus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Cerastes cerastes",
+        "metadata_image_records": 106,
+        "metadata_observations": 75,
+        "by_subset": {
+          "train-hm": 10,
+          "train": 91,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Cerastes vipera",
+        "metadata_image_records": 47,
+        "metadata_observations": 30,
+        "by_subset": {
+          "train": 44,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Cerrophidion godmani",
+        "metadata_image_records": 133,
+        "metadata_observations": 76,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 125,
+          "val": 7
+        }
+      },
+      {
+        "venom_name": "Cerrophidion sasai",
+        "metadata_image_records": 46,
+        "metadata_observations": 30,
+        "by_subset": {
+          "train": 45,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Crotalus adamanteus",
+        "metadata_image_records": 130,
+        "metadata_observations": 94,
+        "by_subset": {
+          "train": 118,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Crotalus atrox",
+        "metadata_image_records": 204,
+        "metadata_observations": 136,
+        "by_subset": {
+          "train": 191,
+          "val": 13
+        }
+      },
+      {
+        "venom_name": "Crotalus basiliscus",
+        "metadata_image_records": 98,
+        "metadata_observations": 63,
+        "by_subset": {
+          "train-hm": 8,
+          "train": 80,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Crotalus culminatus",
+        "metadata_image_records": 76,
+        "metadata_observations": 47,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 72,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Crotalus durissus",
+        "metadata_image_records": 303,
+        "metadata_observations": 180,
+        "by_subset": {
+          "train-hm": 21,
+          "train": 263,
+          "val": 19
+        }
+      },
+      {
+        "venom_name": "Crotalus horridus",
+        "metadata_image_records": 124,
+        "metadata_observations": 89,
+        "by_subset": {
+          "train": 120,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Crotalus oreganus",
+        "metadata_image_records": 309,
+        "metadata_observations": 188,
+        "by_subset": {
+          "train": 284,
+          "val": 25
+        }
+      },
+      {
+        "venom_name": "Crotalus polystictus",
+        "metadata_image_records": 70,
+        "metadata_observations": 48,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 66,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Crotalus scutulatus",
+        "metadata_image_records": 219,
+        "metadata_observations": 137,
+        "by_subset": {
+          "train": 200,
+          "val": 19
+        }
+      },
+      {
+        "venom_name": "Crotalus simus",
+        "metadata_image_records": 258,
+        "metadata_observations": 146,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 220,
+          "val": 36
+        }
+      },
+      {
+        "venom_name": "Crotalus tigris",
+        "metadata_image_records": 161,
+        "metadata_observations": 105,
+        "by_subset": {
+          "train": 152,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Crotalus tzabcan",
+        "metadata_image_records": 120,
+        "metadata_observations": 73,
+        "by_subset": {
+          "train-hm": 17,
+          "train": 92,
+          "val": 11
+        }
+      },
+      {
+        "venom_name": "Crotalus viridis",
+        "metadata_image_records": 218,
+        "metadata_observations": 149,
+        "by_subset": {
+          "train": 202,
+          "val": 16
+        }
+      },
+      {
+        "venom_name": "Cryptelytrops purpureomaculatus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Daboia russelii",
+        "metadata_image_records": 117,
+        "metadata_observations": 69,
+        "by_subset": {
+          "train": 105,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Daboia siamensis",
+        "metadata_image_records": 51,
+        "metadata_observations": 41,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 42,
+          "val": 7
+        }
+      },
+      {
+        "venom_name": "Deinagkistrodon acutus",
+        "metadata_image_records": 111,
+        "metadata_observations": 72,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 100,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Dendroaspis angusticeps",
+        "metadata_image_records": 122,
+        "metadata_observations": 81,
+        "by_subset": {
+          "train": 110,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Dendroaspis polylepis",
+        "metadata_image_records": 245,
+        "metadata_observations": 127,
+        "by_subset": {
+          "train-hm": 27,
+          "train": 205,
+          "val": 13
+        }
+      },
+      {
+        "venom_name": "Dispholidus typus",
+        "metadata_image_records": 350,
+        "metadata_observations": 175,
+        "by_subset": {
+          "train-hm": 28,
+          "train": 299,
+          "val": 23
+        }
+      },
+      {
+        "venom_name": "Echis carinatus",
+        "metadata_image_records": 269,
+        "metadata_observations": 184,
+        "by_subset": {
+          "train-hm": 75,
+          "train": 163,
+          "val": 31
+        }
+      },
+      {
+        "venom_name": "Echis ocellatus",
+        "metadata_image_records": 17,
+        "metadata_observations": 13,
+        "by_subset": {
+          "train": 16,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Gloydius brevicaudus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Hemachatus haemachatus",
+        "metadata_image_records": 79,
+        "metadata_observations": 52,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 73,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Hydrophis curtus",
+        "metadata_image_records": 76,
+        "metadata_observations": 34,
+        "by_subset": {
+          "train": 70,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Hydrophis platurus",
+        "metadata_image_records": 355,
+        "metadata_observations": 208,
+        "by_subset": {
+          "train-hm": 26,
+          "train": 302,
+          "val": 27
+        }
+      },
+      {
+        "venom_name": "Hydrophis schistosus",
+        "metadata_image_records": 124,
+        "metadata_observations": 68,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 101,
+          "val": 22
+        }
+      },
+      {
+        "venom_name": "Hypnale hypnale",
+        "metadata_image_records": 197,
+        "metadata_observations": 129,
+        "by_subset": {
+          "train-hm": 38,
+          "train": 145,
+          "val": 14
+        }
+      },
+      {
+        "venom_name": "Lachesis acrochorda",
+        "metadata_image_records": 62,
+        "metadata_observations": 35,
+        "by_subset": {
+          "train": 57,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Lachesis melanocephala",
+        "metadata_image_records": 14,
+        "metadata_observations": 12,
+        "by_subset": {
+          "train": 11,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Lachesis muta",
+        "metadata_image_records": 247,
+        "metadata_observations": 138,
+        "by_subset": {
+          "train-hm": 47,
+          "train": 192,
+          "val": 8
+        }
+      },
+      {
+        "venom_name": "Lachesis stenophrys",
+        "metadata_image_records": 36,
+        "metadata_observations": 28,
+        "by_subset": {
+          "train": 33,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Laticauda colubrina",
+        "metadata_image_records": 430,
+        "metadata_observations": 255,
+        "by_subset": {
+          "train-hm": 15,
+          "train": 383,
+          "val": 32
+        }
+      },
+      {
+        "venom_name": "Macrovipera lebetina",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Metlapilcoatlus nummifer",
+        "metadata_image_records": 49,
+        "metadata_observations": 35,
+        "by_subset": {
+          "train": 45,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Micropechis ikaheka",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Micrurus alleni",
+        "metadata_image_records": 119,
+        "metadata_observations": 68,
+        "by_subset": {
+          "train-hm": 11,
+          "train": 93,
+          "val": 15
+        }
+      },
+      {
+        "venom_name": "Micrurus altirostris",
+        "metadata_image_records": 163,
+        "metadata_observations": 72,
+        "by_subset": {
+          "train": 151,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Micrurus browni",
+        "metadata_image_records": 151,
+        "metadata_observations": 74,
+        "by_subset": {
+          "train": 133,
+          "val": 18
+        }
+      },
+      {
+        "venom_name": "Micrurus clarki",
+        "metadata_image_records": 14,
+        "metadata_observations": 6,
+        "by_subset": {
+          "train": 14
+        }
+      },
+      {
+        "venom_name": "Micrurus corallinus",
+        "metadata_image_records": 95,
+        "metadata_observations": 54,
+        "by_subset": {
+          "train": 90,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Micrurus dumerilii",
+        "metadata_image_records": 102,
+        "metadata_observations": 58,
+        "by_subset": {
+          "train": 98,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Micrurus frontalis",
+        "metadata_image_records": 42,
+        "metadata_observations": 22,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 38,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Micrurus lemniscatus",
+        "metadata_image_records": 260,
+        "metadata_observations": 145,
+        "by_subset": {
+          "train-hm": 37,
+          "train": 206,
+          "val": 17
+        }
+      },
+      {
+        "venom_name": "Micrurus mipartitus",
+        "metadata_image_records": 127,
+        "metadata_observations": 81,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 120,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Micrurus mosquitensis",
+        "metadata_image_records": 157,
+        "metadata_observations": 82,
+        "by_subset": {
+          "train-hm": 15,
+          "train": 133,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Micrurus nigrocinctus",
+        "metadata_image_records": 332,
+        "metadata_observations": 197,
+        "by_subset": {
+          "train-hm": 7,
+          "train": 310,
+          "val": 15
+        }
+      },
+      {
+        "venom_name": "Micrurus paraensis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Micrurus spixii",
+        "metadata_image_records": 10,
+        "metadata_observations": 6,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 6,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Micrurus surinamensis",
+        "metadata_image_records": 175,
+        "metadata_observations": 108,
+        "by_subset": {
+          "train-hm": 35,
+          "train": 130,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Micrurus tschudii",
+        "metadata_image_records": 16,
+        "metadata_observations": 8,
+        "by_subset": {
+          "train": 15,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Montivipera raddei",
+        "metadata_image_records": 29,
+        "metadata_observations": 18,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 26,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Naja annulifera",
+        "metadata_image_records": 182,
+        "metadata_observations": 95,
+        "by_subset": {
+          "train-hm": 9,
+          "train": 164,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Naja atra",
+        "metadata_image_records": 278,
+        "metadata_observations": 177,
+        "by_subset": {
+          "train-hm": 23,
+          "train": 239,
+          "val": 16
+        }
+      },
+      {
+        "venom_name": "Naja haje",
+        "metadata_image_records": 53,
+        "metadata_observations": 29,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 48,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Naja kaouthia",
+        "metadata_image_records": 220,
+        "metadata_observations": 134,
+        "by_subset": {
+          "train-hm": 47,
+          "train": 159,
+          "val": 14
+        }
+      },
+      {
+        "venom_name": "Naja katiensis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Naja melanoleuca",
+        "metadata_image_records": 39,
+        "metadata_observations": 22,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 33,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Naja mossambica",
+        "metadata_image_records": 173,
+        "metadata_observations": 119,
+        "by_subset": {
+          "train-hm": 31,
+          "train": 130,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Naja naja",
+        "metadata_image_records": 148,
+        "metadata_observations": 81,
+        "by_subset": {
+          "train": 135,
+          "val": 13
+        }
+      },
+      {
+        "venom_name": "Naja nigricollis",
+        "metadata_image_records": 138,
+        "metadata_observations": 78,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 123,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Naja nubiae",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Naja pallida",
+        "metadata_image_records": 22,
+        "metadata_observations": 10,
+        "by_subset": {
+          "train": 18,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Naja sputatrix",
+        "metadata_image_records": 137,
+        "metadata_observations": 51,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 132,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Notechis scutatus",
+        "metadata_image_records": 122,
+        "metadata_observations": 79,
+        "by_subset": {
+          "train-hm": 34,
+          "train": 85,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Ophiophagus hannah",
+        "metadata_image_records": 515,
+        "metadata_observations": 296,
+        "by_subset": {
+          "train-hm": 48,
+          "train": 438,
+          "val": 29
+        }
+      },
+      {
+        "venom_name": "Ophryacus sphenophrys",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Ovophis convictus",
+        "metadata_image_records": 10,
+        "metadata_observations": 5,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 9
+        }
+      },
+      {
+        "venom_name": "Ovophis monticola",
+        "metadata_image_records": 81,
+        "metadata_observations": 47,
+        "by_subset": {
+          "train-hm": 9,
+          "train": 68,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Ovophis okinavensis",
+        "metadata_image_records": 39,
+        "metadata_observations": 25,
+        "by_subset": {
+          "train-hm": 4,
+          "train": 32,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Ovophis tonkinensis",
+        "metadata_image_records": 61,
+        "metadata_observations": 36,
+        "by_subset": {
+          "train": 58,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Oxyuranus scutellatus",
+        "metadata_image_records": 97,
+        "metadata_observations": 43,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 83,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Porthidium lansbergii",
+        "metadata_image_records": 182,
+        "metadata_observations": 90,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 165,
+          "val": 14
+        }
+      },
+      {
+        "venom_name": "Porthidium nasutum",
+        "metadata_image_records": 306,
+        "metadata_observations": 184,
+        "by_subset": {
+          "train-hm": 11,
+          "train": 266,
+          "val": 29
+        }
+      },
+      {
+        "venom_name": "Porthidium ophryomegas",
+        "metadata_image_records": 170,
+        "metadata_observations": 98,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 151,
+          "val": 16
+        }
+      },
+      {
+        "venom_name": "Porthidium porrasi",
+        "metadata_image_records": 48,
+        "metadata_observations": 37,
+        "by_subset": {
+          "train-hm": 13,
+          "train": 34,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Protobothrops flavoviridis",
+        "metadata_image_records": 52,
+        "metadata_observations": 35,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 48,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Protobothrops kelomohy",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Protobothrops mucrosquamatus",
+        "metadata_image_records": 315,
+        "metadata_observations": 178,
+        "by_subset": {
+          "train-hm": 80,
+          "train": 212,
+          "val": 23
+        }
+      },
+      {
+        "venom_name": "Pseudechis australis",
+        "metadata_image_records": 135,
+        "metadata_observations": 64,
+        "by_subset": {
+          "train-hm": 41,
+          "train": 80,
+          "val": 14
+        }
+      },
+      {
+        "venom_name": "Pseudechis papuanus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Rhinobothryum bovallii",
+        "metadata_image_records": 95,
+        "metadata_observations": 58,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 87,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Sistrurus catenatus",
+        "metadata_image_records": 212,
+        "metadata_observations": 138,
+        "by_subset": {
+          "train": 192,
+          "val": 20
+        }
+      },
+      {
+        "venom_name": "Sistrurus miliarius",
+        "metadata_image_records": 145,
+        "metadata_observations": 96,
+        "by_subset": {
+          "train": 129,
+          "val": 16
+        }
+      },
+      {
+        "venom_name": "Toxicocalamus longissimus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Trimeresurus albolabris",
+        "metadata_image_records": 466,
+        "metadata_observations": 298,
+        "by_subset": {
+          "train": 421,
+          "val": 45
+        }
+      },
+      {
+        "venom_name": "Trimeresurus insularis",
+        "metadata_image_records": 92,
+        "metadata_observations": 67,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 87,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Trimeresurus puniceus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Trimeresurus purpureomaculatus",
+        "metadata_image_records": 204,
+        "metadata_observations": 98,
+        "by_subset": {
+          "train-hm": 13,
+          "train": 176,
+          "val": 15
+        }
+      },
+      {
+        "venom_name": "Trimeresurus stejnegeri",
+        "metadata_image_records": 298,
+        "metadata_observations": 183,
+        "by_subset": {
+          "train-hm": 100,
+          "train": 178,
+          "val": 20
+        }
+      },
+      {
+        "venom_name": "Trimeresurus wiroti",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Tropidolaemus wagleri",
+        "metadata_image_records": 310,
+        "metadata_observations": 200,
+        "by_subset": {
+          "train-hm": 28,
+          "train": 264,
+          "val": 18
+        }
+      },
+      {
+        "venom_name": "Vipera aspis",
+        "metadata_image_records": 405,
+        "metadata_observations": 275,
+        "by_subset": {
+          "train-hm": 43,
+          "train": 330,
+          "val": 32
+        }
+      },
+      {
+        "venom_name": "Vipera berus",
+        "metadata_image_records": 1381,
+        "metadata_observations": 973,
+        "by_subset": {
+          "train": 1275,
+          "val": 106
+        }
+      },
+      {
+        "venom_name": "Vipera kaznakovi",
+        "metadata_image_records": 22,
+        "metadata_observations": 9,
+        "by_subset": {
+          "train": 12,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Vipera nikolskii",
+        "metadata_image_records": 130,
+        "metadata_observations": 65,
+        "by_subset": {
+          "train": 121,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Vipera orlovi",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera renardii",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera ursinii",
+        "metadata_image_records": 179,
+        "metadata_observations": 123,
+        "by_subset": {
+          "train-hm": 16,
+          "train": 157,
+          "val": 6
+        }
+      }
+    ]
+  },
+  "published_compilation": {
+    "venom_taxon_labels": 220,
+    "exact_name_matches": 161,
+    "unmatched_names": [
+      "Agkistrodon contortrix contortrix",
+      "Agkistrodon contortrix mokasen",
+      "Agkistrodon contortrix phaeogaster",
+      "Agkistrodon laticinctus pictigaster",
+      "Agkistrodon piscivorus luecostoma",
+      "Agkistrodon piscivorus piscivorus",
+      "Bothriechis nigroadspersus",
+      "Bothriechis supracilaris",
+      "Bothrops asper rhombeatus",
+      "Bothrops atrox ex B. colombiensis",
+      "Bothrops barnetti smaragdinus",
+      "Bothrops bilineatus bilineatus",
+      "Bothrops bilineatus smaragdinus",
+      "Bothrops brazilli",
+      "Bothrops carribbaeus",
+      "Bothrops fonescai",
+      "Bothrops jaracara",
+      "Bothrops sanctaecrucis",
+      "Bungarus bungaroides",
+      "Bungarus suzhenae",
+      "Calliophis bivirgata",
+      "Crotalus durissus cascavella",
+      "Crotalus durissus terrificus",
+      "Crotalus molossus molossus",
+      "Crotalus molossus nigrescens",
+      "Crotalus molossus oaxacus",
+      "Echis carinatus carinatus",
+      "Echis carinatus sochureki",
+      "Lachesis muta muta",
+      "Lachesis rhombeata rhombeata",
+      "Macrovipera lebetinus obtusa",
+      "Macrovipera lebetinus transmediterranea",
+      "Micrurus coralinus",
+      "Micrurus helleri",
+      "Micrurus sp.",
+      "Micrurus yatesi",
+      "Montivipera albizona",
+      "Naja sagittifera",
+      "Naja senegalensis",
+      "Ophiophagus bungarus",
+      "Ophiophagus kaalinga",
+      "Oxyuranus temporalis",
+      "Porthidium landsbergii",
+      "Porthidium ophryomegus",
+      "Porthidium volcanicum",
+      "Pseudonaja guttatus",
+      "Pseudonaja ingrami",
+      "Sistrurus miliaris barbouri",
+      "Sistrurus tergeminus edwardsii",
+      "Sistrurus tergeminus tergeminus",
+      "Trimeresurus purpuromaculatus",
+      "Vipera ammodytes montandoni",
+      "Vipera ammodytes transcaucasiana",
+      "Vipera anatolica anatolica",
+      "Vipera anatolica senliki",
+      "Vipera aspis aspis",
+      "Vipera berus berus",
+      "Walterinnesia aegyptia",
+      "Walterinnesia morgani"
+    ],
+    "metadata_image_records_for_matched_names": 18109,
+    "taxa": [
+      {
+        "venom_name": "Agkistrodon bilineatus",
+        "metadata_image_records": 72,
+        "metadata_observations": 53,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 65,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Agkistrodon conanti",
+        "metadata_image_records": 94,
+        "metadata_observations": 69,
+        "by_subset": {
+          "train": 83,
+          "val": 11
+        }
+      },
+      {
+        "venom_name": "Agkistrodon contortrix contortrix",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Agkistrodon contortrix mokasen",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Agkistrodon contortrix phaeogaster",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Agkistrodon howardgloydi",
+        "metadata_image_records": 12,
+        "metadata_observations": 9,
+        "by_subset": {
+          "train": 9,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Agkistrodon laticinctus",
+        "metadata_image_records": 136,
+        "metadata_observations": 93,
+        "by_subset": {
+          "train": 116,
+          "val": 20
+        }
+      },
+      {
+        "venom_name": "Agkistrodon laticinctus pictigaster",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Agkistrodon piscivorus luecostoma",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Agkistrodon piscivorus piscivorus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Agkistrodon taylori",
+        "metadata_image_records": 37,
+        "metadata_observations": 25,
+        "by_subset": {
+          "train": 34,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Aipysurus laevis",
+        "metadata_image_records": 184,
+        "metadata_observations": 85,
+        "by_subset": {
+          "train": 163,
+          "val": 21
+        }
+      },
+      {
+        "venom_name": "Aspidelaps lubricus",
+        "metadata_image_records": 85,
+        "metadata_observations": 47,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 75,
+          "val": 8
+        }
+      },
+      {
+        "venom_name": "Aspidelaps scutatus",
+        "metadata_image_records": 60,
+        "metadata_observations": 29,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 57,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Atropoides picadoi",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bitis arietans",
+        "metadata_image_records": 602,
+        "metadata_observations": 357,
+        "by_subset": {
+          "train-hm": 49,
+          "train": 497,
+          "val": 56
+        }
+      },
+      {
+        "venom_name": "Bitis caudalis",
+        "metadata_image_records": 244,
+        "metadata_observations": 114,
+        "by_subset": {
+          "train-hm": 16,
+          "train": 204,
+          "val": 24
+        }
+      },
+      {
+        "venom_name": "Bitis gabonica",
+        "metadata_image_records": 118,
+        "metadata_observations": 72,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 108,
+          "val": 7
+        }
+      },
+      {
+        "venom_name": "Bitis nasicornis",
+        "metadata_image_records": 59,
+        "metadata_observations": 34,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 55,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Bitis rhinoceros",
+        "metadata_image_records": 19,
+        "metadata_observations": 10,
+        "by_subset": {
+          "train": 18,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothriechis aurifer",
+        "metadata_image_records": 45,
+        "metadata_observations": 27,
+        "by_subset": {
+          "train": 44,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothriechis bicolor",
+        "metadata_image_records": 16,
+        "metadata_observations": 14,
+        "by_subset": {
+          "train": 15,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothriechis lateralis",
+        "metadata_image_records": 105,
+        "metadata_observations": 70,
+        "by_subset": {
+          "train-hm": 14,
+          "train": 85,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Bothriechis marchi",
+        "metadata_image_records": 26,
+        "metadata_observations": 19,
+        "by_subset": {
+          "train": 24,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Bothriechis nigroadspersus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothriechis nigroviridis",
+        "metadata_image_records": 81,
+        "metadata_observations": 45,
+        "by_subset": {
+          "train": 76,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothriechis supracilaris",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothriechis thalassinus",
+        "metadata_image_records": 21,
+        "metadata_observations": 13,
+        "by_subset": {
+          "train": 19,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Bothrocophias campbelli",
+        "metadata_image_records": 69,
+        "metadata_observations": 34,
+        "by_subset": {
+          "train-hm": 8,
+          "train": 56,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothrocophias myersi",
+        "metadata_image_records": 6,
+        "metadata_observations": 5,
+        "by_subset": {
+          "train": 6
+        }
+      },
+      {
+        "venom_name": "Bothrops alternatus",
+        "metadata_image_records": 255,
+        "metadata_observations": 139,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 240,
+          "val": 14
+        }
+      },
+      {
+        "venom_name": "Bothrops asper",
+        "metadata_image_records": 678,
+        "metadata_observations": 474,
+        "by_subset": {
+          "train-hm": 119,
+          "train": 513,
+          "val": 46
+        }
+      },
+      {
+        "venom_name": "Bothrops asper rhombeatus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops atrox",
+        "metadata_image_records": 701,
+        "metadata_observations": 436,
+        "by_subset": {
+          "train-hm": 73,
+          "train": 582,
+          "val": 46
+        }
+      },
+      {
+        "venom_name": "Bothrops atrox ex B. colombiensis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops ayerbei",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops barnetti",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops barnetti smaragdinus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops bilineatus bilineatus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops bilineatus smaragdinus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops brazilli",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops carribbaeus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops cotiara",
+        "metadata_image_records": 25,
+        "metadata_observations": 12,
+        "by_subset": {
+          "train": 24,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothrops diporus",
+        "metadata_image_records": 114,
+        "metadata_observations": 65,
+        "by_subset": {
+          "train-hm": 6,
+          "train": 103,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothrops erythromelas",
+        "metadata_image_records": 30,
+        "metadata_observations": 19,
+        "by_subset": {
+          "train": 27,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Bothrops fonescai",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops insularis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops jaracara",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops jararaca",
+        "metadata_image_records": 110,
+        "metadata_observations": 53,
+        "by_subset": {
+          "train": 102,
+          "val": 8
+        }
+      },
+      {
+        "venom_name": "Bothrops lanceolatus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops moojeni",
+        "metadata_image_records": 125,
+        "metadata_observations": 72,
+        "by_subset": {
+          "train-hm": 15,
+          "train": 105,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothrops neuwiedi",
+        "metadata_image_records": 97,
+        "metadata_observations": 44,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 90,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothrops pauloensis",
+        "metadata_image_records": 37,
+        "metadata_observations": 21,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 30,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Bothrops pictus",
+        "metadata_image_records": 11,
+        "metadata_observations": 7,
+        "by_subset": {
+          "train": 10,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Bothrops pirajai",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bothrops punctatus",
+        "metadata_image_records": 62,
+        "metadata_observations": 32,
+        "by_subset": {
+          "train": 57,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bothrops sanctaecrucis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bungarus bungaroides",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bungarus caeruleus",
+        "metadata_image_records": 173,
+        "metadata_observations": 117,
+        "by_subset": {
+          "train-hm": 72,
+          "train": 99,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Bungarus candidus",
+        "metadata_image_records": 293,
+        "metadata_observations": 174,
+        "by_subset": {
+          "train-hm": 80,
+          "train": 200,
+          "val": 13
+        }
+      },
+      {
+        "venom_name": "Bungarus fasciatus",
+        "metadata_image_records": 458,
+        "metadata_observations": 276,
+        "by_subset": {
+          "train-hm": 39,
+          "train": 391,
+          "val": 28
+        }
+      },
+      {
+        "venom_name": "Bungarus flaviceps",
+        "metadata_image_records": 68,
+        "metadata_observations": 40,
+        "by_subset": {
+          "train-hm": 12,
+          "train": 51,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Bungarus multicinctus",
+        "metadata_image_records": 303,
+        "metadata_observations": 213,
+        "by_subset": {
+          "train-hm": 34,
+          "train": 231,
+          "val": 38
+        }
+      },
+      {
+        "venom_name": "Bungarus sindanus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Bungarus suzhenae",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Calliophis bivirgata",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Calliophis intestinalis",
+        "metadata_image_records": 209,
+        "metadata_observations": 116,
+        "by_subset": {
+          "train-hm": 6,
+          "train": 182,
+          "val": 21
+        }
+      },
+      {
+        "venom_name": "Calloselasma rhodostoma",
+        "metadata_image_records": 195,
+        "metadata_observations": 125,
+        "by_subset": {
+          "train": 173,
+          "val": 22
+        }
+      },
+      {
+        "venom_name": "Cerastes cerastes",
+        "metadata_image_records": 106,
+        "metadata_observations": 75,
+        "by_subset": {
+          "train-hm": 10,
+          "train": 91,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Cerrophidion sasai",
+        "metadata_image_records": 46,
+        "metadata_observations": 30,
+        "by_subset": {
+          "train": 45,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Craspedocephalus puniceus",
+        "metadata_image_records": 92,
+        "metadata_observations": 66,
+        "by_subset": {
+          "train": 85,
+          "val": 7
+        }
+      },
+      {
+        "venom_name": "Craspedocephalus wiroti",
+        "metadata_image_records": 4,
+        "metadata_observations": 3,
+        "by_subset": {
+          "train": 4
+        }
+      },
+      {
+        "venom_name": "Crotalus atrox",
+        "metadata_image_records": 204,
+        "metadata_observations": 136,
+        "by_subset": {
+          "train": 191,
+          "val": 13
+        }
+      },
+      {
+        "venom_name": "Crotalus basiliscus",
+        "metadata_image_records": 98,
+        "metadata_observations": 63,
+        "by_subset": {
+          "train-hm": 8,
+          "train": 80,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Crotalus culminatus",
+        "metadata_image_records": 76,
+        "metadata_observations": 47,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 72,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Crotalus durissus cascavella",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Crotalus durissus terrificus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Crotalus molossus molossus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Crotalus molossus nigrescens",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Crotalus molossus oaxacus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Crotalus polystictus",
+        "metadata_image_records": 70,
+        "metadata_observations": 48,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 66,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Crotalus simus",
+        "metadata_image_records": 258,
+        "metadata_observations": 146,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 220,
+          "val": 36
+        }
+      },
+      {
+        "venom_name": "Crotalus tigris",
+        "metadata_image_records": 161,
+        "metadata_observations": 105,
+        "by_subset": {
+          "train": 152,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Crotalus viridis",
+        "metadata_image_records": 218,
+        "metadata_observations": 149,
+        "by_subset": {
+          "train": 202,
+          "val": 16
+        }
+      },
+      {
+        "venom_name": "Daboia mauritanica",
+        "metadata_image_records": 48,
+        "metadata_observations": 39,
+        "by_subset": {
+          "train-hm": 4,
+          "train": 39,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Daboia palaestinae",
+        "metadata_image_records": 96,
+        "metadata_observations": 74,
+        "by_subset": {
+          "train": 92,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Daboia russelii",
+        "metadata_image_records": 117,
+        "metadata_observations": 69,
+        "by_subset": {
+          "train": 105,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Daboia siamensis",
+        "metadata_image_records": 51,
+        "metadata_observations": 41,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 42,
+          "val": 7
+        }
+      },
+      {
+        "venom_name": "Deinagkistrodon acutus",
+        "metadata_image_records": 111,
+        "metadata_observations": 72,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 100,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Dendroaspis angusticeps",
+        "metadata_image_records": 122,
+        "metadata_observations": 81,
+        "by_subset": {
+          "train": 110,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Dendroaspis jamesoni",
+        "metadata_image_records": 77,
+        "metadata_observations": 36,
+        "by_subset": {
+          "train-hm": 14,
+          "train": 60,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Dendroaspis polylepis",
+        "metadata_image_records": 245,
+        "metadata_observations": 127,
+        "by_subset": {
+          "train-hm": 27,
+          "train": 205,
+          "val": 13
+        }
+      },
+      {
+        "venom_name": "Dendroaspis viridis",
+        "metadata_image_records": 18,
+        "metadata_observations": 12,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 15
+        }
+      },
+      {
+        "venom_name": "Echis carinatus carinatus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Echis carinatus sochureki",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Echis leucogaster",
+        "metadata_image_records": 50,
+        "metadata_observations": 22,
+        "by_subset": {
+          "train": 48,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Echis ocellatus",
+        "metadata_image_records": 17,
+        "metadata_observations": 13,
+        "by_subset": {
+          "train": 16,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Echis pyramidum",
+        "metadata_image_records": 17,
+        "metadata_observations": 12,
+        "by_subset": {
+          "train": 17
+        }
+      },
+      {
+        "venom_name": "Gloydius brevicaudus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Hemachatus haemachatus",
+        "metadata_image_records": 79,
+        "metadata_observations": 52,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 73,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Hoplocephalus stephensii",
+        "metadata_image_records": 153,
+        "metadata_observations": 71,
+        "by_subset": {
+          "train": 141,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Hydrophis curtus",
+        "metadata_image_records": 76,
+        "metadata_observations": 34,
+        "by_subset": {
+          "train": 70,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Hydrophis cyanocinctus",
+        "metadata_image_records": 33,
+        "metadata_observations": 11,
+        "by_subset": {
+          "train": 33
+        }
+      },
+      {
+        "venom_name": "Hydrophis platurus",
+        "metadata_image_records": 355,
+        "metadata_observations": 208,
+        "by_subset": {
+          "train-hm": 26,
+          "train": 302,
+          "val": 27
+        }
+      },
+      {
+        "venom_name": "Hydrophis schistosus",
+        "metadata_image_records": 124,
+        "metadata_observations": 68,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 101,
+          "val": 22
+        }
+      },
+      {
+        "venom_name": "Hypnale hypnale",
+        "metadata_image_records": 197,
+        "metadata_observations": 129,
+        "by_subset": {
+          "train-hm": 38,
+          "train": 145,
+          "val": 14
+        }
+      },
+      {
+        "venom_name": "Lachesis acrochorda",
+        "metadata_image_records": 62,
+        "metadata_observations": 35,
+        "by_subset": {
+          "train": 57,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Lachesis melanocephala",
+        "metadata_image_records": 14,
+        "metadata_observations": 12,
+        "by_subset": {
+          "train": 11,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Lachesis muta muta",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Lachesis rhombeata rhombeata",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Lachesis stenophrys",
+        "metadata_image_records": 36,
+        "metadata_observations": 28,
+        "by_subset": {
+          "train": 33,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Laticauda colubrina",
+        "metadata_image_records": 430,
+        "metadata_observations": 255,
+        "by_subset": {
+          "train-hm": 15,
+          "train": 383,
+          "val": 32
+        }
+      },
+      {
+        "venom_name": "Macrovipera lebetinus obtusa",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Macrovipera lebetinus transmediterranea",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Metlapilcoatlus mexicanus",
+        "metadata_image_records": 216,
+        "metadata_observations": 137,
+        "by_subset": {
+          "train": 201,
+          "val": 15
+        }
+      },
+      {
+        "venom_name": "Metlapilcoatlus nummifer",
+        "metadata_image_records": 49,
+        "metadata_observations": 35,
+        "by_subset": {
+          "train": 45,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Micropechis ikaheka",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Micrurus alleni",
+        "metadata_image_records": 119,
+        "metadata_observations": 68,
+        "by_subset": {
+          "train-hm": 11,
+          "train": 93,
+          "val": 15
+        }
+      },
+      {
+        "venom_name": "Micrurus altirostris",
+        "metadata_image_records": 163,
+        "metadata_observations": 72,
+        "by_subset": {
+          "train": 151,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Micrurus browni",
+        "metadata_image_records": 151,
+        "metadata_observations": 74,
+        "by_subset": {
+          "train": 133,
+          "val": 18
+        }
+      },
+      {
+        "venom_name": "Micrurus clarki",
+        "metadata_image_records": 14,
+        "metadata_observations": 6,
+        "by_subset": {
+          "train": 14
+        }
+      },
+      {
+        "venom_name": "Micrurus coralinus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Micrurus dumerilii",
+        "metadata_image_records": 102,
+        "metadata_observations": 58,
+        "by_subset": {
+          "train": 98,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Micrurus frontalis",
+        "metadata_image_records": 42,
+        "metadata_observations": 22,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 38,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Micrurus helleri",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Micrurus ibiboboca",
+        "metadata_image_records": 90,
+        "metadata_observations": 53,
+        "by_subset": {
+          "train": 84,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Micrurus lemniscatus",
+        "metadata_image_records": 260,
+        "metadata_observations": 145,
+        "by_subset": {
+          "train-hm": 37,
+          "train": 206,
+          "val": 17
+        }
+      },
+      {
+        "venom_name": "Micrurus medemi",
+        "metadata_image_records": 19,
+        "metadata_observations": 10,
+        "by_subset": {
+          "train": 17,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Micrurus mipartitus",
+        "metadata_image_records": 127,
+        "metadata_observations": 81,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 120,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Micrurus mosquitensis",
+        "metadata_image_records": 157,
+        "metadata_observations": 82,
+        "by_subset": {
+          "train-hm": 15,
+          "train": 133,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Micrurus multifasciatus",
+        "metadata_image_records": 23,
+        "metadata_observations": 20,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 20,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Micrurus nigrocinctus",
+        "metadata_image_records": 332,
+        "metadata_observations": 197,
+        "by_subset": {
+          "train-hm": 7,
+          "train": 310,
+          "val": 15
+        }
+      },
+      {
+        "venom_name": "Micrurus pyrrhocryptus",
+        "metadata_image_records": 139,
+        "metadata_observations": 83,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 134,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Micrurus ruatanus",
+        "metadata_image_records": 12,
+        "metadata_observations": 8,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 10
+        }
+      },
+      {
+        "venom_name": "Micrurus sangilensis",
+        "metadata_image_records": 44,
+        "metadata_observations": 19,
+        "by_subset": {
+          "train": 39,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Micrurus sp.",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Micrurus spixii",
+        "metadata_image_records": 10,
+        "metadata_observations": 6,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 6,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Micrurus surinamensis",
+        "metadata_image_records": 175,
+        "metadata_observations": 108,
+        "by_subset": {
+          "train-hm": 35,
+          "train": 130,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Micrurus tschudii",
+        "metadata_image_records": 16,
+        "metadata_observations": 8,
+        "by_subset": {
+          "train": 15,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Micrurus yatesi",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Mixcoatlus melanurus",
+        "metadata_image_records": 25,
+        "metadata_observations": 16,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 19,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Montivipera albizona",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Montivipera bulgardaghica",
+        "metadata_image_records": 6,
+        "metadata_observations": 4,
+        "by_subset": {
+          "train": 3,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Montivipera raddei",
+        "metadata_image_records": 29,
+        "metadata_observations": 18,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 26,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Naja anchietae",
+        "metadata_image_records": 28,
+        "metadata_observations": 18,
+        "by_subset": {
+          "train": 25,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Naja annulifera",
+        "metadata_image_records": 182,
+        "metadata_observations": 95,
+        "by_subset": {
+          "train-hm": 9,
+          "train": 164,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Naja ashei",
+        "metadata_image_records": 21,
+        "metadata_observations": 12,
+        "by_subset": {
+          "train": 20,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Naja atra",
+        "metadata_image_records": 278,
+        "metadata_observations": 177,
+        "by_subset": {
+          "train-hm": 23,
+          "train": 239,
+          "val": 16
+        }
+      },
+      {
+        "venom_name": "Naja haje",
+        "metadata_image_records": 53,
+        "metadata_observations": 29,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 48,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Naja kaouthia",
+        "metadata_image_records": 220,
+        "metadata_observations": 134,
+        "by_subset": {
+          "train-hm": 47,
+          "train": 159,
+          "val": 14
+        }
+      },
+      {
+        "venom_name": "Naja katiensis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Naja melanoleuca",
+        "metadata_image_records": 39,
+        "metadata_observations": 22,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 33,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Naja mossambica",
+        "metadata_image_records": 173,
+        "metadata_observations": 119,
+        "by_subset": {
+          "train-hm": 31,
+          "train": 130,
+          "val": 12
+        }
+      },
+      {
+        "venom_name": "Naja naja",
+        "metadata_image_records": 148,
+        "metadata_observations": 81,
+        "by_subset": {
+          "train": 135,
+          "val": 13
+        }
+      },
+      {
+        "venom_name": "Naja nigricincta",
+        "metadata_image_records": 97,
+        "metadata_observations": 46,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 93,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Naja nigricollis",
+        "metadata_image_records": 138,
+        "metadata_observations": 78,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 123,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Naja nivea",
+        "metadata_image_records": 204,
+        "metadata_observations": 96,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 171,
+          "val": 28
+        }
+      },
+      {
+        "venom_name": "Naja nubiae",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Naja pallida",
+        "metadata_image_records": 22,
+        "metadata_observations": 10,
+        "by_subset": {
+          "train": 18,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Naja philippinensis",
+        "metadata_image_records": 28,
+        "metadata_observations": 7,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 16,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Naja sagittifera",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Naja samarensis",
+        "metadata_image_records": 17,
+        "metadata_observations": 14,
+        "by_subset": {
+          "train": 17
+        }
+      },
+      {
+        "venom_name": "Naja senegalensis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Naja siamensis",
+        "metadata_image_records": 158,
+        "metadata_observations": 71,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 149,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Naja sputatrix",
+        "metadata_image_records": 137,
+        "metadata_observations": 51,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 132,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Naja sumatrana",
+        "metadata_image_records": 290,
+        "metadata_observations": 137,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 255,
+          "val": 30
+        }
+      },
+      {
+        "venom_name": "Notechis scutatus",
+        "metadata_image_records": 122,
+        "metadata_observations": 79,
+        "by_subset": {
+          "train-hm": 34,
+          "train": 85,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Ophiophagus bungarus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Ophiophagus hannah",
+        "metadata_image_records": 515,
+        "metadata_observations": 296,
+        "by_subset": {
+          "train-hm": 48,
+          "train": 438,
+          "val": 29
+        }
+      },
+      {
+        "venom_name": "Ophiophagus kaalinga",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Ophryacus sphenophrys",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Ovophis convictus",
+        "metadata_image_records": 10,
+        "metadata_observations": 5,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 9
+        }
+      },
+      {
+        "venom_name": "Ovophis monticola",
+        "metadata_image_records": 81,
+        "metadata_observations": 47,
+        "by_subset": {
+          "train-hm": 9,
+          "train": 68,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Ovophis okinavensis",
+        "metadata_image_records": 39,
+        "metadata_observations": 25,
+        "by_subset": {
+          "train-hm": 4,
+          "train": 32,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Ovophis tonkinensis",
+        "metadata_image_records": 61,
+        "metadata_observations": 36,
+        "by_subset": {
+          "train": 58,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Oxyuranus microlepidotus",
+        "metadata_image_records": 16,
+        "metadata_observations": 7,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 9,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Oxyuranus scutellatus",
+        "metadata_image_records": 97,
+        "metadata_observations": 43,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 83,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Oxyuranus temporalis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Porthidium arcosae",
+        "metadata_image_records": 27,
+        "metadata_observations": 11,
+        "by_subset": {
+          "train": 27
+        }
+      },
+      {
+        "venom_name": "Porthidium landsbergii",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Porthidium nasutum",
+        "metadata_image_records": 306,
+        "metadata_observations": 184,
+        "by_subset": {
+          "train-hm": 11,
+          "train": 266,
+          "val": 29
+        }
+      },
+      {
+        "venom_name": "Porthidium ophryomegus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Porthidium porrasi",
+        "metadata_image_records": 48,
+        "metadata_observations": 37,
+        "by_subset": {
+          "train-hm": 13,
+          "train": 34,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Porthidium volcanicum",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Protobothrops flavoviridis",
+        "metadata_image_records": 52,
+        "metadata_observations": 35,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 48,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Protobothrops mucrosquamatus",
+        "metadata_image_records": 315,
+        "metadata_observations": 178,
+        "by_subset": {
+          "train-hm": 80,
+          "train": 212,
+          "val": 23
+        }
+      },
+      {
+        "venom_name": "Pseudechis colletti",
+        "metadata_image_records": 8,
+        "metadata_observations": 7,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 5,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Pseudechis papuanus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Pseudonaja guttatus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Pseudonaja ingrami",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Pseudonaja modesta",
+        "metadata_image_records": 81,
+        "metadata_observations": 45,
+        "by_subset": {
+          "train-hm": 2,
+          "train": 74,
+          "val": 5
+        }
+      },
+      {
+        "venom_name": "Pseudonaja nuchalis",
+        "metadata_image_records": 43,
+        "metadata_observations": 25,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 37,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Pseudonaja textilis",
+        "metadata_image_records": 148,
+        "metadata_observations": 94,
+        "by_subset": {
+          "train-hm": 58,
+          "train": 86,
+          "val": 4
+        }
+      },
+      {
+        "venom_name": "Sinomicrurus kelloggi",
+        "metadata_image_records": 11,
+        "metadata_observations": 9,
+        "by_subset": {
+          "train-hm": 5,
+          "train": 5,
+          "val": 1
+        }
+      },
+      {
+        "venom_name": "Sinomicrurus macclellandi",
+        "metadata_image_records": 99,
+        "metadata_observations": 78,
+        "by_subset": {
+          "train-hm": 22,
+          "train": 69,
+          "val": 8
+        }
+      },
+      {
+        "venom_name": "Sistrurus catenatus",
+        "metadata_image_records": 212,
+        "metadata_observations": 138,
+        "by_subset": {
+          "train": 192,
+          "val": 20
+        }
+      },
+      {
+        "venom_name": "Sistrurus miliaris barbouri",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Sistrurus tergeminus edwardsii",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Sistrurus tergeminus tergeminus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Toxicocalamus longissimus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Trimeresurus insularis",
+        "metadata_image_records": 92,
+        "metadata_observations": 67,
+        "by_subset": {
+          "train-hm": 3,
+          "train": 87,
+          "val": 2
+        }
+      },
+      {
+        "venom_name": "Trimeresurus nebularis",
+        "metadata_image_records": 20,
+        "metadata_observations": 14,
+        "by_subset": {
+          "train-hm": 1,
+          "train": 16,
+          "val": 3
+        }
+      },
+      {
+        "venom_name": "Trimeresurus purpureomaculatus",
+        "metadata_image_records": 204,
+        "metadata_observations": 98,
+        "by_subset": {
+          "train-hm": 13,
+          "train": 176,
+          "val": 15
+        }
+      },
+      {
+        "venom_name": "Trimeresurus purpuromaculatus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Trimeresurus stejnegeri",
+        "metadata_image_records": 298,
+        "metadata_observations": 183,
+        "by_subset": {
+          "train-hm": 100,
+          "train": 178,
+          "val": 20
+        }
+      },
+      {
+        "venom_name": "Tropidolaemus wagleri",
+        "metadata_image_records": 310,
+        "metadata_observations": 200,
+        "by_subset": {
+          "train-hm": 28,
+          "train": 264,
+          "val": 18
+        }
+      },
+      {
+        "venom_name": "Vermicella annulata",
+        "metadata_image_records": 114,
+        "metadata_observations": 60,
+        "by_subset": {
+          "train-hm": 13,
+          "train": 90,
+          "val": 11
+        }
+      },
+      {
+        "venom_name": "Vipera ammodytes montandoni",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera ammodytes transcaucasiana",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera anatolica anatolica",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera anatolica senliki",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera aspis aspis",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera berus berus",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera kaznakovi",
+        "metadata_image_records": 22,
+        "metadata_observations": 9,
+        "by_subset": {
+          "train": 12,
+          "val": 10
+        }
+      },
+      {
+        "venom_name": "Vipera nikolskii",
+        "metadata_image_records": 130,
+        "metadata_observations": 65,
+        "by_subset": {
+          "train": 121,
+          "val": 9
+        }
+      },
+      {
+        "venom_name": "Vipera orlovi",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera renardii",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Vipera ursinii",
+        "metadata_image_records": 179,
+        "metadata_observations": 123,
+        "by_subset": {
+          "train-hm": 16,
+          "train": 157,
+          "val": 6
+        }
+      },
+      {
+        "venom_name": "Walterinnesia aegyptia",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      },
+      {
+        "venom_name": "Walterinnesia morgani",
+        "metadata_image_records": 0,
+        "metadata_observations": 0,
+        "by_subset": {}
+      }
+    ]
+  },
+  "limitations": [
+    "Exact-name matches only; synonyms/subspecies and taxonomy changes are not resolved.",
+    "Image existence, quality, viewpoint and reuse permission are not verified by metadata matches.",
+    "No viewing-angle, photographer or photo-license columns occur in these metadata CSVs.",
+    "Participant mirror has not been byte-compared to the official downloads, which failed certificate verification.",
+    "SnakeCLEF reuses iNaturalist images; treat sources as overlapping rather than additive."
+  ]
+}

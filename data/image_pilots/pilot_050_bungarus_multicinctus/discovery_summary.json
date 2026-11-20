@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:50:33.938795+00:00",
+  "results": [
+    {
+      "species": "Bungarus multicinctus",
+      "status": "metadata_checked",
+      "eligible_observations_available": 194,
+      "observations_examined": 20,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

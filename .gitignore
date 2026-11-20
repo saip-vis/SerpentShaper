@@ -13,3 +13,13 @@ venv/
 .pytest_cache/
 .coverage
 data/processed/cleaning-validation-*/
+data/image_pilots/*/images/
+data/image_pilots/*/api_cache/
+data/image_pilots/_archive/
+data/image_pilots/_review_previews/
+data/image_pilots/_review_backups/
+data/image_pilots/*/*_contact_sheet.jpg
+data/image_pilots/*/review.html
+data/image_pilots/*/collection.log
+data/image_pilots/index.html
+data/image_pilots/rendering_manifest.json

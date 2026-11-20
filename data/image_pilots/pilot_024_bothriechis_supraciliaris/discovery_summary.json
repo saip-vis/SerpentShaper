@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:44:35.290948+00:00",
+  "results": [
+    {
+      "species": "Bothriechis supraciliaris",
+      "status": "metadata_checked",
+      "eligible_observations_available": 5,
+      "observations_examined": 5,
+      "candidates_selected": 7
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:42:21.341738+00:00",
+  "results": [
+    {
+      "species": "Atropoides picadoi",
+      "status": "metadata_checked",
+      "eligible_observations_available": 2,
+      "observations_examined": 2,
+      "candidates_selected": 4
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

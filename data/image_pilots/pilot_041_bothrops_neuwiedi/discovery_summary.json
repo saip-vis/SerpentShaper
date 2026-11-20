@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:48:05.544458+00:00",
+  "results": [
+    {
+      "species": "Bothrops neuwiedi",
+      "status": "metadata_checked",
+      "eligible_observations_available": 13,
+      "observations_examined": 13,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

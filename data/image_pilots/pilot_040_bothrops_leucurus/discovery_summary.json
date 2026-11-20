@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:47:44.867814+00:00",
+  "results": [
+    {
+      "species": "Bothrops leucurus",
+      "status": "metadata_checked",
+      "eligible_observations_available": 14,
+      "observations_examined": 14,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

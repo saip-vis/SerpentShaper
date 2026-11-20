@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:55:12.888880+00:00",
+  "results": [
+    {
+      "species": "Crotalus tigris",
+      "status": "metadata_checked",
+      "eligible_observations_available": 51,
+      "observations_examined": 20,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

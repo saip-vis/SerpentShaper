@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:43:13.272387+00:00",
+  "results": [
+    {
+      "species": "Bothriechis aurifer",
+      "status": "metadata_checked",
+      "eligible_observations_available": 4,
+      "observations_examined": 4,
+      "candidates_selected": 5
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-20",
+  "batches": [
+    {
+      "batch": "pilot_007_boomslang",
+      "species": "Dispholidus typus",
+      "downloaded": 10,
+      "observation_groups": 10,
+      "suitability": {
+        "candidate": 4,
+        "supplemental": 5,
+        "rejected": 1
+      }
+    },
+    {
+      "batch": "pilot_008_olive_sea_snake",
+      "species": "Aipysurus laevis",
+      "downloaded": 10,
+      "observation_groups": 10,
+      "suitability": {
+        "supplemental": 6,
+        "candidate": 3,
+        "rejected": 1
+      }
+    },
+    {
+      "batch": "pilot_009_gaboon_viper",
+      "species": "Bitis gabonica",
+      "downloaded": 10,
+      "observation_groups": 10,
+      "suitability": {
+        "supplemental": 4,
+        "candidate": 4,
+        "rejected": 2
+      }
+    }
+  ],
+  "note": "Screened for visual suitability, not independently species-verified or accepted for training."
+}

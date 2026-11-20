@@ -1,0 +1,722 @@
+{
+  "created_at": "2026-11-20T08:39:26.172637+00:00",
+  "initial_species": [
+    "Aipysurus laevis",
+    "Bitis arietans",
+    "Bitis gabonica",
+    "Bothrops jararaca",
+    "Crotalus atrox",
+    "Dendroaspis polylepis",
+    "Dispholidus typus",
+    "Naja naja",
+    "Oxyuranus scutellatus"
+  ],
+  "jobs": [
+    {
+      "species": "Agkistrodon bilineatus",
+      "lookup_name": "Agkistrodon bilineatus",
+      "batch": "pilot_010_agkistrodon_bilineatus"
+    },
+    {
+      "species": "Agkistrodon contortrix",
+      "lookup_name": "Agkistrodon contortrix",
+      "batch": "pilot_011_agkistrodon_contortrix"
+    },
+    {
+      "species": "Agkistrodon piscivorus",
+      "lookup_name": "Agkistrodon piscivorus",
+      "batch": "pilot_012_agkistrodon_piscivorus"
+    },
+    {
+      "species": "Agkistrodon taylori",
+      "lookup_name": "Agkistrodon taylori",
+      "batch": "pilot_013_agkistrodon_taylori"
+    },
+    {
+      "species": "Aspidelaps lubricus",
+      "lookup_name": "Aspidelaps lubricus",
+      "batch": "pilot_014_aspidelaps_lubricus"
+    },
+    {
+      "species": "Aspidelaps scutatus",
+      "lookup_name": "Aspidelaps scutatus",
+      "batch": "pilot_015_aspidelaps_scutatus"
+    },
+    {
+      "species": "Atropoides picadoi",
+      "lookup_name": "Atropoides picadoi",
+      "batch": "pilot_016_atropoides_picadoi"
+    },
+    {
+      "species": "Bitis caudalis",
+      "lookup_name": "Bitis caudalis",
+      "batch": "pilot_017_bitis_caudalis"
+    },
+    {
+      "species": "Bitis nasicornis",
+      "lookup_name": "Bitis nasicornis",
+      "batch": "pilot_018_bitis_nasicornis"
+    },
+    {
+      "species": "Bothriechis aurifer",
+      "lookup_name": "Bothriechis aurifer",
+      "batch": "pilot_019_bothriechis_aurifer"
+    },
+    {
+      "species": "Bothriechis bicolor",
+      "lookup_name": "Bothriechis bicolor",
+      "batch": "pilot_020_bothriechis_bicolor"
+    },
+    {
+      "species": "Bothriechis marchi",
+      "lookup_name": "Bothriechis marchi",
+      "batch": "pilot_021_bothriechis_marchi"
+    },
+    {
+      "species": "Bothriechis nigroviridis",
+      "lookup_name": "Bothriechis nigroviridis",
+      "batch": "pilot_022_bothriechis_nigroviridis"
+    },
+    {
+      "species": "Bothriechis schlegelii",
+      "lookup_name": "Bothriechis schlegelii",
+      "batch": "pilot_023_bothriechis_schlegelii"
+    },
+    {
+      "species": "Bothriechis supraciliaris",
+      "lookup_name": "Bothriechis supraciliaris",
+      "batch": "pilot_024_bothriechis_supraciliaris"
+    },
+    {
+      "species": "Bothriechis thalassinus",
+      "lookup_name": "Bothriechis thalassinus",
+      "batch": "pilot_025_bothriechis_thalassinus"
+    },
+    {
+      "species": "Bothrocophias campbelli",
+      "lookup_name": "Bothrocophias campbelli",
+      "batch": "pilot_026_bothrocophias_campbelli"
+    },
+    {
+      "species": "Bothrops alternatus",
+      "lookup_name": "Bothrops alternatus",
+      "batch": "pilot_027_bothrops_alternatus"
+    },
+    {
+      "species": "Bothrops asper",
+      "lookup_name": "Bothrops asper",
+      "batch": "pilot_028_bothrops_asper"
+    },
+    {
+      "species": "Bothrops atrox",
+      "lookup_name": "Bothrops atrox",
+      "batch": "pilot_029_bothrops_atrox"
+    },
+    {
+      "species": "Bothrops ayerbei",
+      "lookup_name": "Bothrops ayerbei",
+      "batch": "pilot_030_bothrops_ayerbei"
+    },
+    {
+      "species": "Bothrops barnetti",
+      "lookup_name": "Bothrops barnetti",
+      "batch": "pilot_031_bothrops_barnetti"
+    },
+    {
+      "species": "Bothrops caribbaeus",
+      "lookup_name": "Bothrops caribbaeus",
+      "batch": "pilot_032_bothrops_caribbaeus"
+    },
+    {
+      "species": "Bothrops colombiensis",
+      "lookup_name": "Bothrops colombiensis",
+      "batch": "pilot_033_bothrops_colombiensis"
+    },
+    {
+      "species": "Bothrops cotiara",
+      "lookup_name": "Bothrops cotiara",
+      "batch": "pilot_034_bothrops_cotiara"
+    },
+    {
+      "species": "Bothrops diporus",
+      "lookup_name": "Bothrops diporus",
+      "batch": "pilot_035_bothrops_diporus"
+    },
+    {
+      "species": "Bothrops erythromelas",
+      "lookup_name": "Bothrops erythromelas",
+      "batch": "pilot_036_bothrops_erythromelas"
+    },
+    {
+      "species": "Bothrops insularis",
+      "lookup_name": "Bothrops insularis",
+      "batch": "pilot_037_bothrops_insularis"
+    },
+    {
+      "species": "Bothrops jararacussu",
+      "lookup_name": "Bothrops jararacussu",
+      "batch": "pilot_038_bothrops_jararacussu"
+    },
+    {
+      "species": "Bothrops lanceolatus",
+      "lookup_name": "Bothrops lanceolatus",
+      "batch": "pilot_039_bothrops_lanceolatus"
+    },
+    {
+      "species": "Bothrops leucurus",
+      "lookup_name": "Bothrops leucurus",
+      "batch": "pilot_040_bothrops_leucurus"
+    },
+    {
+      "species": "Bothrops neuwiedi",
+      "lookup_name": "Bothrops neuwiedi",
+      "batch": "pilot_041_bothrops_neuwiedi"
+    },
+    {
+      "species": "Bothrops pauloensis",
+      "lookup_name": "Bothrops pauloensis",
+      "batch": "pilot_042_bothrops_pauloensis"
+    },
+    {
+      "species": "Bothrops pictus",
+      "lookup_name": "Bothrops pictus",
+      "batch": "pilot_043_bothrops_pictus"
+    },
+    {
+      "species": "Bothrops pirajai",
+      "lookup_name": "Bothrops pirajai",
+      "batch": "pilot_044_bothrops_pirajai"
+    },
+    {
+      "species": "Bothrops punctatus",
+      "lookup_name": "Bothrops punctatus",
+      "batch": "pilot_045_bothrops_punctatus"
+    },
+    {
+      "species": "Bungarus caeruleus",
+      "lookup_name": "Bungarus caeruleus",
+      "batch": "pilot_046_bungarus_caeruleus"
+    },
+    {
+      "species": "Bungarus candidus",
+      "lookup_name": "Bungarus candidus",
+      "batch": "pilot_047_bungarus_candidus"
+    },
+    {
+      "species": "Bungarus fasciatus",
+      "lookup_name": "Bungarus fasciatus",
+      "batch": "pilot_048_bungarus_fasciatus"
+    },
+    {
+      "species": "Bungarus flaviceps",
+      "lookup_name": "Bungarus flaviceps",
+      "batch": "pilot_049_bungarus_flaviceps"
+    },
+    {
+      "species": "Bungarus multicinctus",
+      "lookup_name": "Bungarus multicinctus",
+      "batch": "pilot_050_bungarus_multicinctus"
+    },
+    {
+      "species": "Bungarus sindanus",
+      "lookup_name": "Bungarus sindanus",
+      "batch": "pilot_051_bungarus_sindanus"
+    },
+    {
+      "species": "Cerastes cerastes",
+      "lookup_name": "Cerastes cerastes",
+      "batch": "pilot_052_cerastes_cerastes"
+    },
+    {
+      "species": "Cerastes vipera",
+      "lookup_name": "Cerastes vipera",
+      "batch": "pilot_053_cerastes_vipera"
+    },
+    {
+      "species": "Cerrophidion godmani",
+      "lookup_name": "Cerrophidion godmani",
+      "batch": "pilot_054_cerrophidion_godmani"
+    },
+    {
+      "species": "Cerrophidion sasai",
+      "lookup_name": "Cerrophidion sasai",
+      "batch": "pilot_055_cerrophidion_sasai"
+    },
+    {
+      "species": "Crotalus adamanteus",
+      "lookup_name": "Crotalus adamanteus",
+      "batch": "pilot_056_crotalus_adamanteus"
+    },
+    {
+      "species": "Crotalus basiliscus",
+      "lookup_name": "Crotalus basiliscus",
+      "batch": "pilot_057_crotalus_basiliscus"
+    },
+    {
+      "species": "Crotalus culminatus",
+      "lookup_name": "Crotalus culminatus",
+      "batch": "pilot_058_crotalus_culminatus"
+    },
+    {
+      "species": "Crotalus durissus",
+      "lookup_name": "Crotalus durissus",
+      "batch": "pilot_059_crotalus_durissus"
+    },
+    {
+      "species": "Crotalus horridus",
+      "lookup_name": "Crotalus horridus",
+      "batch": "pilot_060_crotalus_horridus"
+    },
+    {
+      "species": "Crotalus oreganus",
+      "lookup_name": "Crotalus oreganus",
+      "batch": "pilot_061_crotalus_oreganus"
+    },
+    {
+      "species": "Crotalus polystictus",
+      "lookup_name": "Crotalus polystictus",
+      "batch": "pilot_062_crotalus_polystictus"
+    },
+    {
+      "species": "Crotalus scutulatus",
+      "lookup_name": "Crotalus scutulatus",
+      "batch": "pilot_063_crotalus_scutulatus"
+    },
+    {
+      "species": "Crotalus simus",
+      "lookup_name": "Crotalus simus",
+      "batch": "pilot_064_crotalus_simus"
+    },
+    {
+      "species": "Crotalus tigris",
+      "lookup_name": "Crotalus tigris",
+      "batch": "pilot_065_crotalus_tigris"
+    },
+    {
+      "species": "Crotalus tzabcan",
+      "lookup_name": "Crotalus tzabcan",
+      "batch": "pilot_066_crotalus_tzabcan"
+    },
+    {
+      "species": "Crotalus viridis",
+      "lookup_name": "Crotalus viridis",
+      "batch": "pilot_067_crotalus_viridis"
+    },
+    {
+      "species": "Cryptelytrops purpureomaculatus",
+      "lookup_name": "Trimeresurus purpureomaculatus",
+      "batch": "pilot_068_cryptelytrops_purpureomaculatus"
+    },
+    {
+      "species": "Daboia russelii",
+      "lookup_name": "Daboia russelii",
+      "batch": "pilot_069_daboia_russelii"
+    },
+    {
+      "species": "Daboia siamensis",
+      "lookup_name": "Daboia siamensis",
+      "batch": "pilot_070_daboia_siamensis"
+    },
+    {
+      "species": "Deinagkistrodon acutus",
+      "lookup_name": "Deinagkistrodon acutus",
+      "batch": "pilot_071_deinagkistrodon_acutus"
+    },
+    {
+      "species": "Dendroaspis angusticeps",
+      "lookup_name": "Dendroaspis angusticeps",
+      "batch": "pilot_072_dendroaspis_angusticeps"
+    },
+    {
+      "species": "Echis carinatus",
+      "lookup_name": "Echis carinatus",
+      "batch": "pilot_073_echis_carinatus"
+    },
+    {
+      "species": "Echis ocellatus",
+      "lookup_name": "Echis ocellatus",
+      "batch": "pilot_074_echis_ocellatus"
+    },
+    {
+      "species": "Gloydius brevicaudus",
+      "lookup_name": "Gloydius brevicauda",
+      "batch": "pilot_075_gloydius_brevicaudus"
+    },
+    {
+      "species": "Hemachatus haemachatus",
+      "lookup_name": "Hemachatus haemachatus",
+      "batch": "pilot_076_hemachatus_haemachatus"
+    },
+    {
+      "species": "Hydrophis curtus",
+      "lookup_name": "Hydrophis curtus",
+      "batch": "pilot_077_hydrophis_curtus"
+    },
+    {
+      "species": "Hydrophis platurus",
+      "lookup_name": "Hydrophis platurus",
+      "batch": "pilot_078_hydrophis_platurus"
+    },
+    {
+      "species": "Hydrophis schistosus",
+      "lookup_name": "Hydrophis schistosus",
+      "batch": "pilot_079_hydrophis_schistosus"
+    },
+    {
+      "species": "Hypnale hypnale",
+      "lookup_name": "Hypnale hypnale",
+      "batch": "pilot_080_hypnale_hypnale"
+    },
+    {
+      "species": "Lachesis acrochorda",
+      "lookup_name": "Lachesis acrochorda",
+      "batch": "pilot_081_lachesis_acrochorda"
+    },
+    {
+      "species": "Lachesis melanocephala",
+      "lookup_name": "Lachesis melanocephala",
+      "batch": "pilot_082_lachesis_melanocephala"
+    },
+    {
+      "species": "Lachesis muta",
+      "lookup_name": "Lachesis muta",
+      "batch": "pilot_083_lachesis_muta"
+    },
+    {
+      "species": "Lachesis stenophrys",
+      "lookup_name": "Lachesis stenophrys",
+      "batch": "pilot_084_lachesis_stenophrys"
+    },
+    {
+      "species": "Laticauda colubrina",
+      "lookup_name": "Laticauda colubrina",
+      "batch": "pilot_085_laticauda_colubrina"
+    },
+    {
+      "species": "Macrovipera lebetina",
+      "lookup_name": "Macrovipera lebetinus",
+      "batch": "pilot_086_macrovipera_lebetina"
+    },
+    {
+      "species": "Metlapilcoatlus nummifer",
+      "lookup_name": "Metlapilcoatlus nummifer",
+      "batch": "pilot_087_metlapilcoatlus_nummifer"
+    },
+    {
+      "species": "Micropechis ikaheka",
+      "lookup_name": "Micropechis ikaheca",
+      "batch": "pilot_088_micropechis_ikaheka"
+    },
+    {
+      "species": "Micrurus alleni",
+      "lookup_name": "Micrurus alleni",
+      "batch": "pilot_089_micrurus_alleni"
+    },
+    {
+      "species": "Micrurus altirostris",
+      "lookup_name": "Micrurus altirostris",
+      "batch": "pilot_090_micrurus_altirostris"
+    },
+    {
+      "species": "Micrurus browni",
+      "lookup_name": "Micrurus browni",
+      "batch": "pilot_091_micrurus_browni"
+    },
+    {
+      "species": "Micrurus clarki",
+      "lookup_name": "Micrurus clarki",
+      "batch": "pilot_092_micrurus_clarki"
+    },
+    {
+      "species": "Micrurus corallinus",
+      "lookup_name": "Micrurus corallinus",
+      "batch": "pilot_093_micrurus_corallinus"
+    },
+    {
+      "species": "Micrurus dumerilii",
+      "lookup_name": "Micrurus dumerilii",
+      "batch": "pilot_094_micrurus_dumerilii"
+    },
+    {
+      "species": "Micrurus frontalis",
+      "lookup_name": "Micrurus frontalis",
+      "batch": "pilot_095_micrurus_frontalis"
+    },
+    {
+      "species": "Micrurus lemniscatus",
+      "lookup_name": "Micrurus lemniscatus",
+      "batch": "pilot_096_micrurus_lemniscatus"
+    },
+    {
+      "species": "Micrurus mipartitus",
+      "lookup_name": "Micrurus mipartitus",
+      "batch": "pilot_097_micrurus_mipartitus"
+    },
+    {
+      "species": "Micrurus mosquitensis",
+      "lookup_name": "Micrurus mosquitensis",
+      "batch": "pilot_098_micrurus_mosquitensis"
+    },
+    {
+      "species": "Micrurus nigrocinctus",
+      "lookup_name": "Micrurus nigrocinctus",
+      "batch": "pilot_099_micrurus_nigrocinctus"
+    },
+    {
+      "species": "Micrurus paraensis",
+      "lookup_name": "Micrurus paraensis",
+      "batch": "pilot_100_micrurus_paraensis"
+    },
+    {
+      "species": "Micrurus spixii",
+      "lookup_name": "Micrurus spixii",
+      "batch": "pilot_101_micrurus_spixii"
+    },
+    {
+      "species": "Micrurus surinamensis",
+      "lookup_name": "Micrurus surinamensis",
+      "batch": "pilot_102_micrurus_surinamensis"
+    },
+    {
+      "species": "Micrurus tschudii",
+      "lookup_name": "Micrurus tschudii",
+      "batch": "pilot_103_micrurus_tschudii"
+    },
+    {
+      "species": "Montivipera raddei",
+      "lookup_name": "Montivipera raddei",
+      "batch": "pilot_104_montivipera_raddei"
+    },
+    {
+      "species": "Naja annulifera",
+      "lookup_name": "Naja annulifera",
+      "batch": "pilot_105_naja_annulifera"
+    },
+    {
+      "species": "Naja atra",
+      "lookup_name": "Naja atra",
+      "batch": "pilot_106_naja_atra"
+    },
+    {
+      "species": "Naja haje",
+      "lookup_name": "Naja haje",
+      "batch": "pilot_107_naja_haje"
+    },
+    {
+      "species": "Naja kaouthia",
+      "lookup_name": "Naja kaouthia",
+      "batch": "pilot_108_naja_kaouthia"
+    },
+    {
+      "species": "Naja katiensis",
+      "lookup_name": "Naja katiensis",
+      "batch": "pilot_109_naja_katiensis"
+    },
+    {
+      "species": "Naja melanoleuca",
+      "lookup_name": "Naja melanoleuca",
+      "batch": "pilot_110_naja_melanoleuca"
+    },
+    {
+      "species": "Naja mossambica",
+      "lookup_name": "Naja mossambica",
+      "batch": "pilot_111_naja_mossambica"
+    },
+    {
+      "species": "Naja nigricollis",
+      "lookup_name": "Naja nigricollis",
+      "batch": "pilot_112_naja_nigricollis"
+    },
+    {
+      "species": "Naja nubiae",
+      "lookup_name": "Naja nubiae",
+      "batch": "pilot_113_naja_nubiae"
+    },
+    {
+      "species": "Naja pallida",
+      "lookup_name": "Naja pallida",
+      "batch": "pilot_114_naja_pallida"
+    },
+    {
+      "species": "Naja sputatrix",
+      "lookup_name": "Naja sputatrix",
+      "batch": "pilot_115_naja_sputatrix"
+    },
+    {
+      "species": "Notechis scutatus",
+      "lookup_name": "Notechis scutatus",
+      "batch": "pilot_116_notechis_scutatus"
+    },
+    {
+      "species": "Ophiophagus hannah",
+      "lookup_name": "Ophiophagus hannah",
+      "batch": "pilot_117_ophiophagus_hannah"
+    },
+    {
+      "species": "Ophryacus sphenophrys",
+      "lookup_name": "Ophryacus sphenophrys",
+      "batch": "pilot_118_ophryacus_sphenophrys"
+    },
+    {
+      "species": "Ovophis convictus",
+      "lookup_name": "Ovophis convictus",
+      "batch": "pilot_119_ovophis_convictus"
+    },
+    {
+      "species": "Ovophis monticola",
+      "lookup_name": "Ovophis monticola",
+      "batch": "pilot_120_ovophis_monticola"
+    },
+    {
+      "species": "Ovophis okinavensis",
+      "lookup_name": "Ovophis okinavensis",
+      "batch": "pilot_121_ovophis_okinavensis"
+    },
+    {
+      "species": "Ovophis tonkinensis",
+      "lookup_name": "Ovophis tonkinensis",
+      "batch": "pilot_122_ovophis_tonkinensis"
+    },
+    {
+      "species": "Porthidium lansbergii",
+      "lookup_name": "Porthidium lansbergii",
+      "batch": "pilot_123_porthidium_lansbergii"
+    },
+    {
+      "species": "Porthidium nasutum",
+      "lookup_name": "Porthidium nasutum",
+      "batch": "pilot_124_porthidium_nasutum"
+    },
+    {
+      "species": "Porthidium ophryomegas",
+      "lookup_name": "Porthidium ophryomegas",
+      "batch": "pilot_125_porthidium_ophryomegas"
+    },
+    {
+      "species": "Porthidium porrasi",
+      "lookup_name": "Porthidium porrasi",
+      "batch": "pilot_126_porthidium_porrasi"
+    },
+    {
+      "species": "Protobothrops flavoviridis",
+      "lookup_name": "Protobothrops flavoviridis",
+      "batch": "pilot_127_protobothrops_flavoviridis"
+    },
+    {
+      "species": "Protobothrops kelomohy",
+      "lookup_name": "Protobothrops kelomohy",
+      "batch": "pilot_128_protobothrops_kelomohy"
+    },
+    {
+      "species": "Protobothrops mucrosquamatus",
+      "lookup_name": "Protobothrops mucrosquamatus",
+      "batch": "pilot_129_protobothrops_mucrosquamatus"
+    },
+    {
+      "species": "Pseudechis australis",
+      "lookup_name": "Pseudechis australis",
+      "batch": "pilot_130_pseudechis_australis"
+    },
+    {
+      "species": "Pseudechis papuanus",
+      "lookup_name": "Pseudechis papuanus",
+      "batch": "pilot_131_pseudechis_papuanus"
+    },
+    {
+      "species": "Rhinobothryum bovallii",
+      "lookup_name": "Rhinobothryum bovallii",
+      "batch": "pilot_132_rhinobothryum_bovallii"
+    },
+    {
+      "species": "Sistrurus catenatus",
+      "lookup_name": "Sistrurus catenatus",
+      "batch": "pilot_133_sistrurus_catenatus"
+    },
+    {
+      "species": "Sistrurus miliarius",
+      "lookup_name": "Sistrurus miliarius",
+      "batch": "pilot_134_sistrurus_miliarius"
+    },
+    {
+      "species": "Toxicocalamus longissimus",
+      "lookup_name": "Toxicocalamus longissimus",
+      "batch": "pilot_135_toxicocalamus_longissimus"
+    },
+    {
+      "species": "Trimeresurus albolabris",
+      "lookup_name": "Trimeresurus albolabris",
+      "batch": "pilot_136_trimeresurus_albolabris"
+    },
+    {
+      "species": "Trimeresurus insularis",
+      "lookup_name": "Trimeresurus insularis",
+      "batch": "pilot_137_trimeresurus_insularis"
+    },
+    {
+      "species": "Trimeresurus puniceus",
+      "lookup_name": "Craspedocephalus puniceus",
+      "batch": "pilot_138_trimeresurus_puniceus"
+    },
+    {
+      "species": "Trimeresurus purpureomaculatus",
+      "lookup_name": "Trimeresurus purpureomaculatus",
+      "batch": "pilot_139_trimeresurus_purpureomaculatus"
+    },
+    {
+      "species": "Trimeresurus stejnegeri",
+      "lookup_name": "Trimeresurus stejnegeri",
+      "batch": "pilot_140_trimeresurus_stejnegeri"
+    },
+    {
+      "species": "Trimeresurus wiroti",
+      "lookup_name": "Craspedocephalus wiroti",
+      "batch": "pilot_141_trimeresurus_wiroti"
+    },
+    {
+      "species": "Tropidolaemus wagleri",
+      "lookup_name": "Tropidolaemus wagleri",
+      "batch": "pilot_142_tropidolaemus_wagleri"
+    },
+    {
+      "species": "Vipera aspis",
+      "lookup_name": "Vipera aspis",
+      "batch": "pilot_143_vipera_aspis"
+    },
+    {
+      "species": "Vipera berus",
+      "lookup_name": "Vipera berus",
+      "batch": "pilot_144_vipera_berus"
+    },
+    {
+      "species": "Vipera kaznakovi",
+      "lookup_name": "Vipera kaznakovi",
+      "batch": "pilot_145_vipera_kaznakovi"
+    },
+    {
+      "species": "Vipera nikolskii",
+      "lookup_name": "Vipera nikolskii",
+      "batch": "pilot_146_vipera_nikolskii"
+    },
+    {
+      "species": "Vipera orlovi",
+      "lookup_name": "Vipera orlovi",
+      "batch": "pilot_147_vipera_orlovi"
+    },
+    {
+      "species": "Vipera renardii",
+      "lookup_name": "Vipera renardi",
+      "batch": "pilot_148_vipera_renardii"
+    },
+    {
+      "species": "Vipera ursinii",
+      "lookup_name": "Vipera ursinii",
+      "batch": "pilot_149_vipera_ursinii"
+    }
+  ],
+  "limits": {
+    "observations_per_species": 20,
+    "candidates_per_species": 10,
+    "max_per_observation": 2
+  },
+  "source": "Bounded public iNaturalist metadata samples; not an exhaustive occurrence export."
+}

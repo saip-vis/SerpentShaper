@@ -10,6 +10,12 @@ For ingestion, see [the cleaning report](reports/cleaning_report.md). The SQLite
 
 To browse the cleaned data and test custom inputs locally, run `python3 InitialInterfaceTest.py` and open `http://127.0.0.1:8765`. See [interface usage and API](InitialInterfaceTest.md).
 
+For the first image collection batch, see [the image pilot instructions](docs/ImageCollection.md). Run `python3 scripts/collect_image_pilot.py discover` to collect a small licensed-photo candidate manifest, then `python3 scripts/collect_image_pilot.py download --limit 10` to download candidates separately. Images remain unreviewed until inspected; use provider exports for bulk acquisition.
+
+To curate the downloaded candidates, run **`./start_image_review.sh`** and open **http://127.0.0.1:8767**. The [image review interface](docs/ImageReviewInterface.md) saves accept/reject/flag/reference decisions and anatomy labels directly to manifests, provides bounded previews, backups and undo, and refreshes the filtered rendering export after every save.
+
+The [image review policy](config/image_review_policy.json) excludes injury/deformity examples from rendering training and keeps any documented unique-anatomy exceptions reference-only. Run `python3 scripts/export_rendering_manifest.py` to export explicitly accepted, non-excluded records for later ingestion; original download folders also contain rejected and pending files.
+
 ## Contents
 
 - `data/raw/`: unmodified downloaded data files and original supplementary archives.

@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-20",
+  "batches": [
+    {
+      "folder": "pilot_004_western_diamondback",
+      "species": "Crotalus atrox",
+      "downloaded": 10,
+      "observation_groups": 8,
+      "rejected_documents": 0
+    },
+    {
+      "folder": "pilot_005_puff_adder",
+      "species": "Bitis arietans",
+      "downloaded": 10,
+      "observation_groups": 4,
+      "rejected_documents": 2
+    },
+    {
+      "folder": "pilot_006_jararaca",
+      "species": "Bothrops jararaca",
+      "downloaded": 10,
+      "observation_groups": 4,
+      "rejected_documents": 0
+    }
+  ],
+  "note": "Provider labels; snake photos await species verification. SHA-256 and file paths verified."
+}

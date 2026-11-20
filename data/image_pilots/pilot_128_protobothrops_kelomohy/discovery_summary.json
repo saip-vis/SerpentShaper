@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T09:12:57.828388+00:00",
+  "results": [
+    {
+      "species": "Protobothrops kelomohy",
+      "status": "metadata_checked",
+      "eligible_observations_available": 0,
+      "observations_examined": 0,
+      "candidates_selected": 0
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

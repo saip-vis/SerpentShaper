@@ -1,0 +1,1855 @@
+{
+  "research_date": "2026-11-18",
+  "scope": "149 source labels in eligible proteomic profiles; not every venomous snake",
+  "status_counts": {
+    "candidate_pool": 116,
+    "no_metadata_match": 17,
+    "sparse_metadata": 16
+  },
+  "sparse_threshold": 30,
+  "threshold_note": "Acquisition triage only, not a validated minimum training-set size.",
+  "limitations": [
+    "No photographs downloaded or visually reviewed; no species certified as reliably imaged.",
+    "SnakeCLEF paths are metadata references, not verified usable or licensed images.",
+    "iNaturalist counts are research-grade observations with a CC0/CC BY photo, not image counts.",
+    "iNaturalist and SnakeCLEF overlap; counts must not be added.",
+    "Aliases are provider lookup crosswalks; original venom names remain unchanged.",
+    "Taxonomy and specimen identity need further review, especially historical species complexes."
+  ],
+  "taxa": [
+    {
+      "source_name": "Agkistrodon bilineatus",
+      "image_lookup_name": "Agkistrodon bilineatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 72,
+      "snakeclef_observations": 53,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Agkistrodon contortrix",
+      "image_lookup_name": "Agkistrodon contortrix",
+      "alias_reference": null,
+      "snakeclef_image_records": 119,
+      "snakeclef_observations": 89,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Agkistrodon piscivorus",
+      "image_lookup_name": "Agkistrodon piscivorus",
+      "alias_reference": null,
+      "snakeclef_image_records": 133,
+      "snakeclef_observations": 93,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Agkistrodon taylori",
+      "image_lookup_name": "Agkistrodon taylori",
+      "alias_reference": null,
+      "snakeclef_image_records": 37,
+      "snakeclef_observations": 25,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Aipysurus laevis",
+      "image_lookup_name": "Aipysurus laevis",
+      "alias_reference": null,
+      "snakeclef_image_records": 184,
+      "snakeclef_observations": 85,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Aspidelaps lubricus",
+      "image_lookup_name": "Aspidelaps lubricus",
+      "alias_reference": null,
+      "snakeclef_image_records": 85,
+      "snakeclef_observations": 47,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Aspidelaps scutatus",
+      "image_lookup_name": "Aspidelaps scutatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 60,
+      "snakeclef_observations": 29,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Atropoides picadoi",
+      "image_lookup_name": "Atropoides picadoi",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Atropoides picadoi",
+        "lookup_name": "Atropoides picadoi",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30870,
+        "provider_name": "Atropoides picadoi",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 2,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30870&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bitis arietans",
+      "image_lookup_name": "Bitis arietans",
+      "alias_reference": null,
+      "snakeclef_image_records": 602,
+      "snakeclef_observations": 357,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bitis caudalis",
+      "image_lookup_name": "Bitis caudalis",
+      "alias_reference": null,
+      "snakeclef_image_records": 244,
+      "snakeclef_observations": 114,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bitis gabonica",
+      "image_lookup_name": "Bitis gabonica",
+      "alias_reference": null,
+      "snakeclef_image_records": 118,
+      "snakeclef_observations": 72,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bitis nasicornis",
+      "image_lookup_name": "Bitis nasicornis",
+      "alias_reference": null,
+      "snakeclef_image_records": 59,
+      "snakeclef_observations": 34,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothriechis aurifer",
+      "image_lookup_name": "Bothriechis aurifer",
+      "alias_reference": null,
+      "snakeclef_image_records": 45,
+      "snakeclef_observations": 27,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothriechis bicolor",
+      "image_lookup_name": "Bothriechis bicolor",
+      "alias_reference": null,
+      "snakeclef_image_records": 16,
+      "snakeclef_observations": 14,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothriechis bicolor",
+        "lookup_name": "Bothriechis bicolor",
+        "alias_reference": null,
+        "snakeclef_image_records": 16,
+        "snakeclef_observations": 14,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30848,
+        "provider_name": "Bothriechis bicolor",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 11,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30848&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothriechis marchi",
+      "image_lookup_name": "Bothriechis marchi",
+      "alias_reference": null,
+      "snakeclef_image_records": 26,
+      "snakeclef_observations": 19,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothriechis marchi",
+        "lookup_name": "Bothriechis marchi",
+        "alias_reference": null,
+        "snakeclef_image_records": 26,
+        "snakeclef_observations": 19,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30846,
+        "provider_name": "Bothriechis marchi",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 2,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30846&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothriechis nigroviridis",
+      "image_lookup_name": "Bothriechis nigroviridis",
+      "alias_reference": null,
+      "snakeclef_image_records": 81,
+      "snakeclef_observations": 45,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothriechis schlegelii",
+      "image_lookup_name": "Bothriechis schlegelii",
+      "alias_reference": null,
+      "snakeclef_image_records": 604,
+      "snakeclef_observations": 330,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothriechis supraciliaris",
+      "image_lookup_name": "Bothriechis supraciliaris",
+      "alias_reference": null,
+      "snakeclef_image_records": 34,
+      "snakeclef_observations": 21,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothriechis thalassinus",
+      "image_lookup_name": "Bothriechis thalassinus",
+      "alias_reference": null,
+      "snakeclef_image_records": 21,
+      "snakeclef_observations": 13,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothriechis thalassinus",
+        "lookup_name": "Bothriechis thalassinus",
+        "alias_reference": null,
+        "snakeclef_image_records": 21,
+        "snakeclef_observations": 13,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30849,
+        "provider_name": "Bothriechis thalassinus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30849&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrocophias campbelli",
+      "image_lookup_name": "Bothrocophias campbelli",
+      "alias_reference": null,
+      "snakeclef_image_records": 69,
+      "snakeclef_observations": 34,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops alternatus",
+      "image_lookup_name": "Bothrops alternatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 255,
+      "snakeclef_observations": 139,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops asper",
+      "image_lookup_name": "Bothrops asper",
+      "alias_reference": null,
+      "snakeclef_image_records": 678,
+      "snakeclef_observations": 474,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops atrox",
+      "image_lookup_name": "Bothrops atrox",
+      "alias_reference": null,
+      "snakeclef_image_records": 701,
+      "snakeclef_observations": 436,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops ayerbei",
+      "image_lookup_name": "Bothrops ayerbei",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops ayerbei",
+        "lookup_name": "Bothrops ayerbei",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 121123,
+        "provider_name": "Bothrops ayerbei",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=121123&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrops barnetti",
+      "image_lookup_name": "Bothrops barnetti",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops barnetti",
+        "lookup_name": "Bothrops barnetti",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30795,
+        "provider_name": "Bothrops barnetti",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30795&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrops caribbaeus",
+      "image_lookup_name": "Bothrops caribbaeus",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops caribbaeus",
+        "lookup_name": "Bothrops caribbaeus",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 95913,
+        "provider_name": "Bothrops caribbaeus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=95913&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrops colombiensis",
+      "image_lookup_name": "Bothrops colombiensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops colombiensis",
+        "lookup_name": "Bothrops colombiensis",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "status": "taxon_unresolved",
+        "candidate_names": [
+          "Bothrops atrox"
+        ]
+      }
+    },
+    {
+      "source_name": "Bothrops cotiara",
+      "image_lookup_name": "Bothrops cotiara",
+      "alias_reference": null,
+      "snakeclef_image_records": 25,
+      "snakeclef_observations": 12,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops cotiara",
+        "lookup_name": "Bothrops cotiara",
+        "alias_reference": null,
+        "snakeclef_image_records": 25,
+        "snakeclef_observations": 12,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 539049,
+        "provider_name": "Bothrops cotiara",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=539049&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrops diporus",
+      "image_lookup_name": "Bothrops diporus",
+      "alias_reference": null,
+      "snakeclef_image_records": 114,
+      "snakeclef_observations": 65,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops erythromelas",
+      "image_lookup_name": "Bothrops erythromelas",
+      "alias_reference": null,
+      "snakeclef_image_records": 30,
+      "snakeclef_observations": 19,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops insularis",
+      "image_lookup_name": "Bothrops insularis",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops insularis",
+        "lookup_name": "Bothrops insularis",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 539415,
+        "provider_name": "Bothrops insularis",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 5,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=539415&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrops jararaca",
+      "image_lookup_name": "Bothrops jararaca",
+      "alias_reference": null,
+      "snakeclef_image_records": 110,
+      "snakeclef_observations": 53,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops jararacussu",
+      "image_lookup_name": "Bothrops jararacussu",
+      "alias_reference": null,
+      "snakeclef_image_records": 108,
+      "snakeclef_observations": 60,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops lanceolatus",
+      "image_lookup_name": "Bothrops lanceolatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops lanceolatus",
+        "lookup_name": "Bothrops lanceolatus",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30788,
+        "provider_name": "Bothrops lanceolatus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 2,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30788&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrops leucurus",
+      "image_lookup_name": "Bothrops leucurus",
+      "alias_reference": null,
+      "snakeclef_image_records": 53,
+      "snakeclef_observations": 35,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops neuwiedi",
+      "image_lookup_name": "Bothrops neuwiedi",
+      "alias_reference": null,
+      "snakeclef_image_records": 97,
+      "snakeclef_observations": 44,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops pauloensis",
+      "image_lookup_name": "Bothrops pauloensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 37,
+      "snakeclef_observations": 21,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bothrops pictus",
+      "image_lookup_name": "Bothrops pictus",
+      "alias_reference": null,
+      "snakeclef_image_records": 11,
+      "snakeclef_observations": 7,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops pictus",
+        "lookup_name": "Bothrops pictus",
+        "alias_reference": null,
+        "snakeclef_image_records": 11,
+        "snakeclef_observations": 7,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30768,
+        "provider_name": "Bothrops pictus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30768&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrops pirajai",
+      "image_lookup_name": "Bothrops pirajai",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bothrops pirajai",
+        "lookup_name": "Bothrops pirajai",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30769,
+        "provider_name": "Bothrops pirajai",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30769&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Bothrops punctatus",
+      "image_lookup_name": "Bothrops punctatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 62,
+      "snakeclef_observations": 32,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bungarus caeruleus",
+      "image_lookup_name": "Bungarus caeruleus",
+      "alias_reference": null,
+      "snakeclef_image_records": 173,
+      "snakeclef_observations": 117,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bungarus candidus",
+      "image_lookup_name": "Bungarus candidus",
+      "alias_reference": null,
+      "snakeclef_image_records": 293,
+      "snakeclef_observations": 174,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bungarus fasciatus",
+      "image_lookup_name": "Bungarus fasciatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 458,
+      "snakeclef_observations": 276,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bungarus flaviceps",
+      "image_lookup_name": "Bungarus flaviceps",
+      "alias_reference": null,
+      "snakeclef_image_records": 68,
+      "snakeclef_observations": 40,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bungarus multicinctus",
+      "image_lookup_name": "Bungarus multicinctus",
+      "alias_reference": null,
+      "snakeclef_image_records": 303,
+      "snakeclef_observations": 213,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Bungarus sindanus",
+      "image_lookup_name": "Bungarus sindanus",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Bungarus sindanus",
+        "lookup_name": "Bungarus sindanus",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30437,
+        "provider_name": "Bungarus sindanus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30437&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Cerastes cerastes",
+      "image_lookup_name": "Cerastes cerastes",
+      "alias_reference": null,
+      "snakeclef_image_records": 106,
+      "snakeclef_observations": 75,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Cerastes vipera",
+      "image_lookup_name": "Cerastes vipera",
+      "alias_reference": null,
+      "snakeclef_image_records": 47,
+      "snakeclef_observations": 30,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Cerrophidion godmani",
+      "image_lookup_name": "Cerrophidion godmani",
+      "alias_reference": null,
+      "snakeclef_image_records": 133,
+      "snakeclef_observations": 76,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Cerrophidion sasai",
+      "image_lookup_name": "Cerrophidion sasai",
+      "alias_reference": null,
+      "snakeclef_image_records": 46,
+      "snakeclef_observations": 30,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus adamanteus",
+      "image_lookup_name": "Crotalus adamanteus",
+      "alias_reference": null,
+      "snakeclef_image_records": 130,
+      "snakeclef_observations": 94,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus atrox",
+      "image_lookup_name": "Crotalus atrox",
+      "alias_reference": null,
+      "snakeclef_image_records": 204,
+      "snakeclef_observations": 136,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus basiliscus",
+      "image_lookup_name": "Crotalus basiliscus",
+      "alias_reference": null,
+      "snakeclef_image_records": 98,
+      "snakeclef_observations": 63,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus culminatus",
+      "image_lookup_name": "Crotalus culminatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 76,
+      "snakeclef_observations": 47,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus durissus",
+      "image_lookup_name": "Crotalus durissus",
+      "alias_reference": null,
+      "snakeclef_image_records": 303,
+      "snakeclef_observations": 180,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus horridus",
+      "image_lookup_name": "Crotalus horridus",
+      "alias_reference": null,
+      "snakeclef_image_records": 124,
+      "snakeclef_observations": 89,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus oreganus",
+      "image_lookup_name": "Crotalus oreganus",
+      "alias_reference": null,
+      "snakeclef_image_records": 309,
+      "snakeclef_observations": 188,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus polystictus",
+      "image_lookup_name": "Crotalus polystictus",
+      "alias_reference": null,
+      "snakeclef_image_records": 70,
+      "snakeclef_observations": 48,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus scutulatus",
+      "image_lookup_name": "Crotalus scutulatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 219,
+      "snakeclef_observations": 137,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus simus",
+      "image_lookup_name": "Crotalus simus",
+      "alias_reference": null,
+      "snakeclef_image_records": 258,
+      "snakeclef_observations": 146,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus tigris",
+      "image_lookup_name": "Crotalus tigris",
+      "alias_reference": null,
+      "snakeclef_image_records": 161,
+      "snakeclef_observations": 105,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus tzabcan",
+      "image_lookup_name": "Crotalus tzabcan",
+      "alias_reference": null,
+      "snakeclef_image_records": 120,
+      "snakeclef_observations": 73,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Crotalus viridis",
+      "image_lookup_name": "Crotalus viridis",
+      "alias_reference": null,
+      "snakeclef_image_records": 218,
+      "snakeclef_observations": 149,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Cryptelytrops purpureomaculatus",
+      "image_lookup_name": "Trimeresurus purpureomaculatus",
+      "alias_reference": "https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/487",
+      "snakeclef_image_records": 204,
+      "snakeclef_observations": 98,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Cryptelytrops purpureomaculatus",
+        "lookup_name": "Trimeresurus purpureomaculatus",
+        "alias_reference": "https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/487",
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 98700,
+        "provider_name": "Trimeresurus purpureomaculatus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 39,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=98700&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Daboia russelii",
+      "image_lookup_name": "Daboia russelii",
+      "alias_reference": null,
+      "snakeclef_image_records": 117,
+      "snakeclef_observations": 69,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Daboia siamensis",
+      "image_lookup_name": "Daboia siamensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 51,
+      "snakeclef_observations": 41,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Deinagkistrodon acutus",
+      "image_lookup_name": "Deinagkistrodon acutus",
+      "alias_reference": null,
+      "snakeclef_image_records": 111,
+      "snakeclef_observations": 72,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Dendroaspis angusticeps",
+      "image_lookup_name": "Dendroaspis angusticeps",
+      "alias_reference": null,
+      "snakeclef_image_records": 122,
+      "snakeclef_observations": 81,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Dendroaspis polylepis",
+      "image_lookup_name": "Dendroaspis polylepis",
+      "alias_reference": null,
+      "snakeclef_image_records": 245,
+      "snakeclef_observations": 127,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Dispholidus typus",
+      "image_lookup_name": "Dispholidus typus",
+      "alias_reference": null,
+      "snakeclef_image_records": 350,
+      "snakeclef_observations": 175,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Echis carinatus",
+      "image_lookup_name": "Echis carinatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 269,
+      "snakeclef_observations": 184,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Echis ocellatus",
+      "image_lookup_name": "Echis ocellatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 17,
+      "snakeclef_observations": 13,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Echis ocellatus",
+        "lookup_name": "Echis ocellatus",
+        "alias_reference": null,
+        "snakeclef_image_records": 17,
+        "snakeclef_observations": 13,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 99689,
+        "provider_name": "Echis ocellatus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=99689&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Gloydius brevicaudus",
+      "image_lookup_name": "Gloydius brevicauda",
+      "alias_reference": "https://reptile-database.reptarium.cz/Gloydius/brevicaudus",
+      "snakeclef_image_records": 214,
+      "snakeclef_observations": 93,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Gloydius brevicaudus",
+        "lookup_name": "Gloydius brevicauda",
+        "alias_reference": "https://reptile-database.reptarium.cz/Gloydius/brevicaudus",
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 101504,
+        "provider_name": "Gloydius brevicaudus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 26,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=101504&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Hemachatus haemachatus",
+      "image_lookup_name": "Hemachatus haemachatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 79,
+      "snakeclef_observations": 52,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Hydrophis curtus",
+      "image_lookup_name": "Hydrophis curtus",
+      "alias_reference": null,
+      "snakeclef_image_records": 76,
+      "snakeclef_observations": 34,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Hydrophis platurus",
+      "image_lookup_name": "Hydrophis platurus",
+      "alias_reference": null,
+      "snakeclef_image_records": 355,
+      "snakeclef_observations": 208,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Hydrophis schistosus",
+      "image_lookup_name": "Hydrophis schistosus",
+      "alias_reference": null,
+      "snakeclef_image_records": 124,
+      "snakeclef_observations": 68,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Hypnale hypnale",
+      "image_lookup_name": "Hypnale hypnale",
+      "alias_reference": null,
+      "snakeclef_image_records": 197,
+      "snakeclef_observations": 129,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Lachesis acrochorda",
+      "image_lookup_name": "Lachesis acrochorda",
+      "alias_reference": null,
+      "snakeclef_image_records": 62,
+      "snakeclef_observations": 35,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Lachesis melanocephala",
+      "image_lookup_name": "Lachesis melanocephala",
+      "alias_reference": null,
+      "snakeclef_image_records": 14,
+      "snakeclef_observations": 12,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Lachesis melanocephala",
+        "lookup_name": "Lachesis melanocephala",
+        "alias_reference": null,
+        "snakeclef_image_records": 14,
+        "snakeclef_observations": 12,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 31049,
+        "provider_name": "Lachesis melanocephala",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=31049&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Lachesis muta",
+      "image_lookup_name": "Lachesis muta",
+      "alias_reference": null,
+      "snakeclef_image_records": 247,
+      "snakeclef_observations": 138,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Lachesis stenophrys",
+      "image_lookup_name": "Lachesis stenophrys",
+      "alias_reference": null,
+      "snakeclef_image_records": 36,
+      "snakeclef_observations": 28,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Laticauda colubrina",
+      "image_lookup_name": "Laticauda colubrina",
+      "alias_reference": null,
+      "snakeclef_image_records": 430,
+      "snakeclef_observations": 255,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Macrovipera lebetina",
+      "image_lookup_name": "Macrovipera lebetinus",
+      "alias_reference": "https://reptile-database.reptarium.cz/Macrovipera/lebetinus",
+      "snakeclef_image_records": 173,
+      "snakeclef_observations": 102,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Macrovipera lebetina",
+        "lookup_name": "Macrovipera lebetinus",
+        "alias_reference": "https://reptile-database.reptarium.cz/Macrovipera/lebetinus",
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 105083,
+        "provider_name": "Macrovipera lebetinus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 47,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=105083&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Metlapilcoatlus nummifer",
+      "image_lookup_name": "Metlapilcoatlus nummifer",
+      "alias_reference": null,
+      "snakeclef_image_records": 49,
+      "snakeclef_observations": 35,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micropechis ikaheka",
+      "image_lookup_name": "Micropechis ikaheca",
+      "alias_reference": "https://reptile-database.reptarium.cz/Micropechis/ikaheca",
+      "snakeclef_image_records": 18,
+      "snakeclef_observations": 13,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Micropechis ikaheka",
+        "lookup_name": "Micropechis ikaheca",
+        "alias_reference": "https://reptile-database.reptarium.cz/Micropechis/ikaheca",
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 539987,
+        "provider_name": "Micropechis ikaheca",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=539987&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Micrurus alleni",
+      "image_lookup_name": "Micrurus alleni",
+      "alias_reference": null,
+      "snakeclef_image_records": 119,
+      "snakeclef_observations": 68,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus altirostris",
+      "image_lookup_name": "Micrurus altirostris",
+      "alias_reference": null,
+      "snakeclef_image_records": 163,
+      "snakeclef_observations": 72,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus browni",
+      "image_lookup_name": "Micrurus browni",
+      "alias_reference": null,
+      "snakeclef_image_records": 151,
+      "snakeclef_observations": 74,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus clarki",
+      "image_lookup_name": "Micrurus clarki",
+      "alias_reference": null,
+      "snakeclef_image_records": 14,
+      "snakeclef_observations": 6,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Micrurus clarki",
+        "lookup_name": "Micrurus clarki",
+        "alias_reference": null,
+        "snakeclef_image_records": 14,
+        "snakeclef_observations": 6,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30599,
+        "provider_name": "Micrurus clarki",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30599&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Micrurus corallinus",
+      "image_lookup_name": "Micrurus corallinus",
+      "alias_reference": null,
+      "snakeclef_image_records": 95,
+      "snakeclef_observations": 54,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus dumerilii",
+      "image_lookup_name": "Micrurus dumerilii",
+      "alias_reference": null,
+      "snakeclef_image_records": 102,
+      "snakeclef_observations": 58,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus frontalis",
+      "image_lookup_name": "Micrurus frontalis",
+      "alias_reference": null,
+      "snakeclef_image_records": 42,
+      "snakeclef_observations": 22,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus lemniscatus",
+      "image_lookup_name": "Micrurus lemniscatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 260,
+      "snakeclef_observations": 145,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus mipartitus",
+      "image_lookup_name": "Micrurus mipartitus",
+      "alias_reference": null,
+      "snakeclef_image_records": 127,
+      "snakeclef_observations": 81,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus mosquitensis",
+      "image_lookup_name": "Micrurus mosquitensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 157,
+      "snakeclef_observations": 82,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus nigrocinctus",
+      "image_lookup_name": "Micrurus nigrocinctus",
+      "alias_reference": null,
+      "snakeclef_image_records": 332,
+      "snakeclef_observations": 197,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus paraensis",
+      "image_lookup_name": "Micrurus paraensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Micrurus paraensis",
+        "lookup_name": "Micrurus paraensis",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30526,
+        "provider_name": "Micrurus paraensis",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30526&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Micrurus spixii",
+      "image_lookup_name": "Micrurus spixii",
+      "alias_reference": null,
+      "snakeclef_image_records": 10,
+      "snakeclef_observations": 6,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Micrurus spixii",
+        "lookup_name": "Micrurus spixii",
+        "alias_reference": null,
+        "snakeclef_image_records": 10,
+        "snakeclef_observations": 6,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30517,
+        "provider_name": "Micrurus spixii",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 3,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30517&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Micrurus surinamensis",
+      "image_lookup_name": "Micrurus surinamensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 175,
+      "snakeclef_observations": 108,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Micrurus tschudii",
+      "image_lookup_name": "Micrurus tschudii",
+      "alias_reference": null,
+      "snakeclef_image_records": 16,
+      "snakeclef_observations": 8,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Micrurus tschudii",
+        "lookup_name": "Micrurus tschudii",
+        "alias_reference": null,
+        "snakeclef_image_records": 16,
+        "snakeclef_observations": 8,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30504,
+        "provider_name": "Micrurus tschudii",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 3,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30504&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Montivipera raddei",
+      "image_lookup_name": "Montivipera raddei",
+      "alias_reference": null,
+      "snakeclef_image_records": 29,
+      "snakeclef_observations": 18,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Montivipera raddei",
+        "lookup_name": "Montivipera raddei",
+        "alias_reference": null,
+        "snakeclef_image_records": 29,
+        "snakeclef_observations": 18,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 200945,
+        "provider_name": "Montivipera raddei",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 4,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=200945&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Naja annulifera",
+      "image_lookup_name": "Naja annulifera",
+      "alias_reference": null,
+      "snakeclef_image_records": 182,
+      "snakeclef_observations": 95,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Naja atra",
+      "image_lookup_name": "Naja atra",
+      "alias_reference": null,
+      "snakeclef_image_records": 278,
+      "snakeclef_observations": 177,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Naja haje",
+      "image_lookup_name": "Naja haje",
+      "alias_reference": null,
+      "snakeclef_image_records": 53,
+      "snakeclef_observations": 29,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Naja kaouthia",
+      "image_lookup_name": "Naja kaouthia",
+      "alias_reference": null,
+      "snakeclef_image_records": 220,
+      "snakeclef_observations": 134,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Naja katiensis",
+      "image_lookup_name": "Naja katiensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Naja katiensis",
+        "lookup_name": "Naja katiensis",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30490,
+        "provider_name": "Naja katiensis",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30490&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Naja melanoleuca",
+      "image_lookup_name": "Naja melanoleuca",
+      "alias_reference": null,
+      "snakeclef_image_records": 39,
+      "snakeclef_observations": 22,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Naja mossambica",
+      "image_lookup_name": "Naja mossambica",
+      "alias_reference": null,
+      "snakeclef_image_records": 173,
+      "snakeclef_observations": 119,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Naja naja",
+      "image_lookup_name": "Naja naja",
+      "alias_reference": null,
+      "snakeclef_image_records": 148,
+      "snakeclef_observations": 81,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Naja nigricollis",
+      "image_lookup_name": "Naja nigricollis",
+      "alias_reference": null,
+      "snakeclef_image_records": 138,
+      "snakeclef_observations": 78,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Naja nubiae",
+      "image_lookup_name": "Naja nubiae",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Naja nubiae",
+        "lookup_name": "Naja nubiae",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 106448,
+        "provider_name": "Naja nubiae",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=106448&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Naja pallida",
+      "image_lookup_name": "Naja pallida",
+      "alias_reference": null,
+      "snakeclef_image_records": 22,
+      "snakeclef_observations": 10,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Naja pallida",
+        "lookup_name": "Naja pallida",
+        "alias_reference": null,
+        "snakeclef_image_records": 22,
+        "snakeclef_observations": 10,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30486,
+        "provider_name": "Naja pallida",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 1,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30486&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Naja sputatrix",
+      "image_lookup_name": "Naja sputatrix",
+      "alias_reference": null,
+      "snakeclef_image_records": 137,
+      "snakeclef_observations": 51,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Notechis scutatus",
+      "image_lookup_name": "Notechis scutatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 122,
+      "snakeclef_observations": 79,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Ophiophagus hannah",
+      "image_lookup_name": "Ophiophagus hannah",
+      "alias_reference": null,
+      "snakeclef_image_records": 515,
+      "snakeclef_observations": 296,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Ophryacus sphenophrys",
+      "image_lookup_name": "Ophryacus sphenophrys",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Ophryacus sphenophrys",
+        "lookup_name": "Ophryacus sphenophrys",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 540012,
+        "provider_name": "Ophryacus sphenophrys",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=540012&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Ovophis convictus",
+      "image_lookup_name": "Ovophis convictus",
+      "alias_reference": null,
+      "snakeclef_image_records": 10,
+      "snakeclef_observations": 5,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Ovophis convictus",
+        "lookup_name": "Ovophis convictus",
+        "alias_reference": null,
+        "snakeclef_image_records": 10,
+        "snakeclef_observations": 5,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 145779,
+        "provider_name": "Ovophis convictus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 3,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=145779&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Ovophis monticola",
+      "image_lookup_name": "Ovophis monticola",
+      "alias_reference": null,
+      "snakeclef_image_records": 81,
+      "snakeclef_observations": 47,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Ovophis okinavensis",
+      "image_lookup_name": "Ovophis okinavensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 39,
+      "snakeclef_observations": 25,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Ovophis tonkinensis",
+      "image_lookup_name": "Ovophis tonkinensis",
+      "alias_reference": null,
+      "snakeclef_image_records": 61,
+      "snakeclef_observations": 36,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Oxyuranus scutellatus",
+      "image_lookup_name": "Oxyuranus scutellatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 97,
+      "snakeclef_observations": 43,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Porthidium lansbergii",
+      "image_lookup_name": "Porthidium lansbergii",
+      "alias_reference": null,
+      "snakeclef_image_records": 182,
+      "snakeclef_observations": 90,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Porthidium nasutum",
+      "image_lookup_name": "Porthidium nasutum",
+      "alias_reference": null,
+      "snakeclef_image_records": 306,
+      "snakeclef_observations": 184,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Porthidium ophryomegas",
+      "image_lookup_name": "Porthidium ophryomegas",
+      "alias_reference": null,
+      "snakeclef_image_records": 170,
+      "snakeclef_observations": 98,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Porthidium porrasi",
+      "image_lookup_name": "Porthidium porrasi",
+      "alias_reference": null,
+      "snakeclef_image_records": 48,
+      "snakeclef_observations": 37,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Protobothrops flavoviridis",
+      "image_lookup_name": "Protobothrops flavoviridis",
+      "alias_reference": null,
+      "snakeclef_image_records": 52,
+      "snakeclef_observations": 35,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Protobothrops kelomohy",
+      "image_lookup_name": "Protobothrops kelomohy",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Protobothrops kelomohy",
+        "lookup_name": "Protobothrops kelomohy",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 1119897,
+        "provider_name": "Protobothrops kelomohy",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=1119897&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Protobothrops mucrosquamatus",
+      "image_lookup_name": "Protobothrops mucrosquamatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 315,
+      "snakeclef_observations": 178,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Pseudechis australis",
+      "image_lookup_name": "Pseudechis australis",
+      "alias_reference": null,
+      "snakeclef_image_records": 135,
+      "snakeclef_observations": 64,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Pseudechis papuanus",
+      "image_lookup_name": "Pseudechis papuanus",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Pseudechis papuanus",
+        "lookup_name": "Pseudechis papuanus",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 35160,
+        "provider_name": "Pseudechis papuanus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=35160&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Rhinobothryum bovallii",
+      "image_lookup_name": "Rhinobothryum bovallii",
+      "alias_reference": null,
+      "snakeclef_image_records": 95,
+      "snakeclef_observations": 58,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Sistrurus catenatus",
+      "image_lookup_name": "Sistrurus catenatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 212,
+      "snakeclef_observations": 138,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Sistrurus miliarius",
+      "image_lookup_name": "Sistrurus miliarius",
+      "alias_reference": null,
+      "snakeclef_image_records": 145,
+      "snakeclef_observations": 96,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Toxicocalamus longissimus",
+      "image_lookup_name": "Toxicocalamus longissimus",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Toxicocalamus longissimus",
+        "lookup_name": "Toxicocalamus longissimus",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 35091,
+        "provider_name": "Toxicocalamus longissimus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 0,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=35091&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Trimeresurus albolabris",
+      "image_lookup_name": "Trimeresurus albolabris",
+      "alias_reference": null,
+      "snakeclef_image_records": 466,
+      "snakeclef_observations": 298,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Trimeresurus insularis",
+      "image_lookup_name": "Trimeresurus insularis",
+      "alias_reference": null,
+      "snakeclef_image_records": 92,
+      "snakeclef_observations": 67,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Trimeresurus puniceus",
+      "image_lookup_name": "Craspedocephalus puniceus",
+      "alias_reference": "https://reptile-database.reptarium.cz/Craspedocephalus/puniceus",
+      "snakeclef_image_records": 92,
+      "snakeclef_observations": 66,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Trimeresurus puniceus",
+        "lookup_name": "Craspedocephalus puniceus",
+        "alias_reference": "https://reptile-database.reptarium.cz/Craspedocephalus/puniceus",
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 1304709,
+        "provider_name": "Craspedocephalus puniceus",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 6,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=1304709&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Trimeresurus purpureomaculatus",
+      "image_lookup_name": "Trimeresurus purpureomaculatus",
+      "alias_reference": null,
+      "snakeclef_image_records": 204,
+      "snakeclef_observations": 98,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Trimeresurus stejnegeri",
+      "image_lookup_name": "Trimeresurus stejnegeri",
+      "alias_reference": null,
+      "snakeclef_image_records": 298,
+      "snakeclef_observations": 183,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Trimeresurus wiroti",
+      "image_lookup_name": "Craspedocephalus wiroti",
+      "alias_reference": "https://reptile-database.reptarium.cz/Craspedocephalus/wiroti",
+      "snakeclef_image_records": 4,
+      "snakeclef_observations": 3,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Trimeresurus wiroti",
+        "lookup_name": "Craspedocephalus wiroti",
+        "alias_reference": "https://reptile-database.reptarium.cz/Craspedocephalus/wiroti",
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 1304713,
+        "provider_name": "Craspedocephalus wiroti",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 3,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=1304713&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Tropidolaemus wagleri",
+      "image_lookup_name": "Tropidolaemus wagleri",
+      "alias_reference": null,
+      "snakeclef_image_records": 310,
+      "snakeclef_observations": 200,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Vipera aspis",
+      "image_lookup_name": "Vipera aspis",
+      "alias_reference": null,
+      "snakeclef_image_records": 405,
+      "snakeclef_observations": 275,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Vipera berus",
+      "image_lookup_name": "Vipera berus",
+      "alias_reference": null,
+      "snakeclef_image_records": 1381,
+      "snakeclef_observations": 973,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Vipera kaznakovi",
+      "image_lookup_name": "Vipera kaznakovi",
+      "alias_reference": null,
+      "snakeclef_image_records": 22,
+      "snakeclef_observations": 9,
+      "acquisition_status": "sparse_metadata",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Vipera kaznakovi",
+        "lookup_name": "Vipera kaznakovi",
+        "alias_reference": null,
+        "snakeclef_image_records": 22,
+        "snakeclef_observations": 9,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 73999,
+        "provider_name": "Vipera kaznakovi",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 3,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=73999&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Vipera nikolskii",
+      "image_lookup_name": "Vipera nikolskii",
+      "alias_reference": null,
+      "snakeclef_image_records": 130,
+      "snakeclef_observations": 65,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    },
+    {
+      "source_name": "Vipera orlovi",
+      "image_lookup_name": "Vipera orlovi",
+      "alias_reference": null,
+      "snakeclef_image_records": 0,
+      "snakeclef_observations": 0,
+      "acquisition_status": "no_metadata_match",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Vipera orlovi",
+        "lookup_name": "Vipera orlovi",
+        "alias_reference": null,
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 30913,
+        "provider_name": "Vipera orlovi",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 2,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=30913&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Vipera renardii",
+      "image_lookup_name": "Vipera renardi",
+      "alias_reference": "https://reptile-database.reptarium.cz/Vipera/renardi",
+      "snakeclef_image_records": 177,
+      "snakeclef_observations": 103,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed",
+      "inaturalist_check": {
+        "source_name": "Vipera renardii",
+        "lookup_name": "Vipera renardi",
+        "alias_reference": "https://reptile-database.reptarium.cz/Vipera/renardi",
+        "snakeclef_image_records": 0,
+        "snakeclef_observations": 0,
+        "visual_quality": "not_reviewed",
+        "taxon_id": 114991,
+        "provider_name": "Vipera renardi",
+        "status": "metadata_checked",
+        "research_grade_observations_with_cc0_or_ccby_photo": 210,
+        "provider_query_url": "https://api.inaturalist.org/v1/observations?taxon_id=114991&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1"
+      }
+    },
+    {
+      "source_name": "Vipera ursinii",
+      "image_lookup_name": "Vipera ursinii",
+      "alias_reference": null,
+      "snakeclef_image_records": 179,
+      "snakeclef_observations": 123,
+      "acquisition_status": "candidate_pool",
+      "visual_quality": "not_reviewed"
+    }
+  ]
+}

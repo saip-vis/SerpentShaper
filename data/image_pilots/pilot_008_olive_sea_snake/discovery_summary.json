@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:20:12.851581+00:00",
+  "results": [
+    {
+      "species": "Aipysurus laevis",
+      "status": "metadata_checked",
+      "eligible_observations_available": 12,
+      "observations_examined": 12,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

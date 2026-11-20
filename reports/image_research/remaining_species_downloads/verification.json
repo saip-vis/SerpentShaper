@@ -1,0 +1,378 @@
+{
+  "requested_labels": 140,
+  "attempted_labels": 140,
+  "new_labels_with_downloads": 128,
+  "new_downloaded_photo_records": 1073,
+  "new_file_paths": 1073,
+  "new_distinct_content_hashes": 1063,
+  "new_accepted_for_rendering": 0,
+  "new_bytes_on_disk": 1456472743,
+  "all_labels_with_downloads": 137,
+  "all_distinct_provider_taxa": 136,
+  "all_downloaded_photo_records": 1163,
+  "all_file_paths": 1163,
+  "all_distinct_content_hashes": 1153,
+  "provider_taxa_with_multiple_source_labels": {
+    "98700": [
+      "Cryptelytrops purpureomaculatus",
+      "Trimeresurus purpureomaculatus"
+    ]
+  },
+  "cross_label_exact_duplicate_groups": {
+    "78e60274ce5d7cdd9ad00c4b7201665c336668e41e048ac2f2ec1dfd407f4884": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_20707514",
+        "review_id": "Cryptelytrops_purpureomaculatus01",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/78e60274ce5d7cdd9ad00c4b7201665c336668e41e048ac2f2ec1dfd407f4884.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_20707514",
+        "review_id": "Trimeresurus_purpureomaculatus01",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/78e60274ce5d7cdd9ad00c4b7201665c336668e41e048ac2f2ec1dfd407f4884.jpg"
+      }
+    ],
+    "83d72ccc55da3007512e57b0beaf39eb73e9cb6f8c28cda2251f6d7cd835013d": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_102728517",
+        "review_id": "Cryptelytrops_purpureomaculatus02",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/83d72ccc55da3007512e57b0beaf39eb73e9cb6f8c28cda2251f6d7cd835013d.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_102728517",
+        "review_id": "Trimeresurus_purpureomaculatus02",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/83d72ccc55da3007512e57b0beaf39eb73e9cb6f8c28cda2251f6d7cd835013d.jpg"
+      }
+    ],
+    "eb25b1d9252aa84f6e6505fbb100cd1d045da4ac5098e0d5df933de570c8c8d9": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_102730331",
+        "review_id": "Cryptelytrops_purpureomaculatus03",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/eb25b1d9252aa84f6e6505fbb100cd1d045da4ac5098e0d5df933de570c8c8d9.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_102730331",
+        "review_id": "Trimeresurus_purpureomaculatus03",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/eb25b1d9252aa84f6e6505fbb100cd1d045da4ac5098e0d5df933de570c8c8d9.jpg"
+      }
+    ],
+    "0d9dfb02bfb8ec032e433dfd6f0f3001a7239ab621cbf8b3fb41b48e7c34a4ad": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_102848909",
+        "review_id": "Cryptelytrops_purpureomaculatus04",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/0d9dfb02bfb8ec032e433dfd6f0f3001a7239ab621cbf8b3fb41b48e7c34a4ad.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_102848909",
+        "review_id": "Trimeresurus_purpureomaculatus04",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/0d9dfb02bfb8ec032e433dfd6f0f3001a7239ab621cbf8b3fb41b48e7c34a4ad.jpg"
+      }
+    ],
+    "ad894a30e25bc254ed9fdd79f496ac9648b99bb4604fba7445e9b134637a227f": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_104328904",
+        "review_id": "Cryptelytrops_purpureomaculatus05",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/ad894a30e25bc254ed9fdd79f496ac9648b99bb4604fba7445e9b134637a227f.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_104328904",
+        "review_id": "Trimeresurus_purpureomaculatus05",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/ad894a30e25bc254ed9fdd79f496ac9648b99bb4604fba7445e9b134637a227f.jpg"
+      }
+    ],
+    "b5be856fcfe8cc88ef798e21c7d672ad49a2674044357997cb17e2485677fd5a": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_113274388",
+        "review_id": "Cryptelytrops_purpureomaculatus06",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/b5be856fcfe8cc88ef798e21c7d672ad49a2674044357997cb17e2485677fd5a.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_113274388",
+        "review_id": "Trimeresurus_purpureomaculatus06",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/b5be856fcfe8cc88ef798e21c7d672ad49a2674044357997cb17e2485677fd5a.jpg"
+      }
+    ],
+    "5f1e08ab2eb4b29fa9d176284f1793534245ecf7a82f9b4f344adc2fc5eccee6": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_114148241",
+        "review_id": "Cryptelytrops_purpureomaculatus07",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/5f1e08ab2eb4b29fa9d176284f1793534245ecf7a82f9b4f344adc2fc5eccee6.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_114148241",
+        "review_id": "Trimeresurus_purpureomaculatus07",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/5f1e08ab2eb4b29fa9d176284f1793534245ecf7a82f9b4f344adc2fc5eccee6.jpg"
+      }
+    ],
+    "71efd2e7a86c4ad848f894ad88e5cff2b7505070d9f4507546d3d5438a4ba5b2": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_137842115",
+        "review_id": "Cryptelytrops_purpureomaculatus08",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/71efd2e7a86c4ad848f894ad88e5cff2b7505070d9f4507546d3d5438a4ba5b2.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_137842115",
+        "review_id": "Trimeresurus_purpureomaculatus08",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/71efd2e7a86c4ad848f894ad88e5cff2b7505070d9f4507546d3d5438a4ba5b2.jpg"
+      }
+    ],
+    "b14346975d3eb0013e29904cc82b5ca6ba09f406a5dba30d9ef490713d977ec2": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_139165934",
+        "review_id": "Cryptelytrops_purpureomaculatus09",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/b14346975d3eb0013e29904cc82b5ca6ba09f406a5dba30d9ef490713d977ec2.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_139165934",
+        "review_id": "Trimeresurus_purpureomaculatus09",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/b14346975d3eb0013e29904cc82b5ca6ba09f406a5dba30d9ef490713d977ec2.jpg"
+      }
+    ],
+    "ba989cce339d6a3740c3c1d4fd4b1f872fa6d04da9e1e4d53306c888f29f77c4": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_139165997",
+        "review_id": "Cryptelytrops_purpureomaculatus10",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/ba989cce339d6a3740c3c1d4fd4b1f872fa6d04da9e1e4d53306c888f29f77c4.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_139165997",
+        "review_id": "Trimeresurus_purpureomaculatus10",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/ba989cce339d6a3740c3c1d4fd4b1f872fa6d04da9e1e4d53306c888f29f77c4.jpg"
+      }
+    ]
+  },
+  "repeated_photo_id_groups": {
+    "inat_20707514": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_20707514",
+        "review_id": "Cryptelytrops_purpureomaculatus01",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/78e60274ce5d7cdd9ad00c4b7201665c336668e41e048ac2f2ec1dfd407f4884.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_20707514",
+        "review_id": "Trimeresurus_purpureomaculatus01",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/78e60274ce5d7cdd9ad00c4b7201665c336668e41e048ac2f2ec1dfd407f4884.jpg"
+      }
+    ],
+    "inat_102728517": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_102728517",
+        "review_id": "Cryptelytrops_purpureomaculatus02",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/83d72ccc55da3007512e57b0beaf39eb73e9cb6f8c28cda2251f6d7cd835013d.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_102728517",
+        "review_id": "Trimeresurus_purpureomaculatus02",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/83d72ccc55da3007512e57b0beaf39eb73e9cb6f8c28cda2251f6d7cd835013d.jpg"
+      }
+    ],
+    "inat_102730331": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_102730331",
+        "review_id": "Cryptelytrops_purpureomaculatus03",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/eb25b1d9252aa84f6e6505fbb100cd1d045da4ac5098e0d5df933de570c8c8d9.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_102730331",
+        "review_id": "Trimeresurus_purpureomaculatus03",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/eb25b1d9252aa84f6e6505fbb100cd1d045da4ac5098e0d5df933de570c8c8d9.jpg"
+      }
+    ],
+    "inat_102848909": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_102848909",
+        "review_id": "Cryptelytrops_purpureomaculatus04",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/0d9dfb02bfb8ec032e433dfd6f0f3001a7239ab621cbf8b3fb41b48e7c34a4ad.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_102848909",
+        "review_id": "Trimeresurus_purpureomaculatus04",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/0d9dfb02bfb8ec032e433dfd6f0f3001a7239ab621cbf8b3fb41b48e7c34a4ad.jpg"
+      }
+    ],
+    "inat_104328904": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_104328904",
+        "review_id": "Cryptelytrops_purpureomaculatus05",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/ad894a30e25bc254ed9fdd79f496ac9648b99bb4604fba7445e9b134637a227f.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_104328904",
+        "review_id": "Trimeresurus_purpureomaculatus05",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/ad894a30e25bc254ed9fdd79f496ac9648b99bb4604fba7445e9b134637a227f.jpg"
+      }
+    ],
+    "inat_113274388": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_113274388",
+        "review_id": "Cryptelytrops_purpureomaculatus06",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/b5be856fcfe8cc88ef798e21c7d672ad49a2674044357997cb17e2485677fd5a.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_113274388",
+        "review_id": "Trimeresurus_purpureomaculatus06",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/b5be856fcfe8cc88ef798e21c7d672ad49a2674044357997cb17e2485677fd5a.jpg"
+      }
+    ],
+    "inat_114148241": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_114148241",
+        "review_id": "Cryptelytrops_purpureomaculatus07",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/5f1e08ab2eb4b29fa9d176284f1793534245ecf7a82f9b4f344adc2fc5eccee6.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_114148241",
+        "review_id": "Trimeresurus_purpureomaculatus07",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/5f1e08ab2eb4b29fa9d176284f1793534245ecf7a82f9b4f344adc2fc5eccee6.jpg"
+      }
+    ],
+    "inat_137842115": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_137842115",
+        "review_id": "Cryptelytrops_purpureomaculatus08",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/71efd2e7a86c4ad848f894ad88e5cff2b7505070d9f4507546d3d5438a4ba5b2.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_137842115",
+        "review_id": "Trimeresurus_purpureomaculatus08",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/71efd2e7a86c4ad848f894ad88e5cff2b7505070d9f4507546d3d5438a4ba5b2.jpg"
+      }
+    ],
+    "inat_139165934": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_139165934",
+        "review_id": "Cryptelytrops_purpureomaculatus09",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/b14346975d3eb0013e29904cc82b5ca6ba09f406a5dba30d9ef490713d977ec2.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_139165934",
+        "review_id": "Trimeresurus_purpureomaculatus09",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/b14346975d3eb0013e29904cc82b5ca6ba09f406a5dba30d9ef490713d977ec2.jpg"
+      }
+    ],
+    "inat_139165997": [
+      {
+        "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+        "species": "Cryptelytrops purpureomaculatus",
+        "image_id": "inat_139165997",
+        "review_id": "Cryptelytrops_purpureomaculatus10",
+        "local_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/images/ba989cce339d6a3740c3c1d4fd4b1f872fa6d04da9e1e4d53306c888f29f77c4.jpg"
+      },
+      {
+        "batch": "pilot_139_trimeresurus_purpureomaculatus",
+        "species": "Trimeresurus purpureomaculatus",
+        "image_id": "inat_139165997",
+        "review_id": "Trimeresurus_purpureomaculatus10",
+        "local_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/images/ba989cce339d6a3740c3c1d4fd4b1f872fa6d04da9e1e4d53306c888f29f77c4.jpg"
+      }
+    ]
+  },
+  "actual_resolution_shortfalls": [],
+  "dimension_metadata_mismatches": [
+    {
+      "batch": "pilot_104_montivipera_raddei",
+      "species": "Montivipera raddei",
+      "image_id": "inat_83527",
+      "review_id": "Montivipera_raddei01",
+      "local_path": "data/image_pilots/pilot_104_montivipera_raddei/images/59d571899a69a88dc51f5e7353e79a5e8d5eac7f22d353084b27920697f1817a.jpg",
+      "actual_width": 13094,
+      "actual_height": 9199,
+      "reported_width": 1024,
+      "reported_height": 719
+    }
+  ],
+  "gallery_errors": [],
+  "large_originals": [
+    {
+      "batch": "pilot_104_montivipera_raddei",
+      "species": "Montivipera raddei",
+      "image_id": "inat_83527",
+      "review_id": "Montivipera_raddei01",
+      "local_path": "data/image_pilots/pilot_104_montivipera_raddei/images/59d571899a69a88dc51f5e7353e79a5e8d5eac7f22d353084b27920697f1817a.jpg",
+      "actual_width": 13094,
+      "actual_height": 9199,
+      "note": "Large original; plan bounded-resolution preprocessing before model ingestion."
+    }
+  ],
+  "passed": true,
+  "limitations": [
+    "Source labels and provider taxa are not equivalent to independent biological species or specimens.",
+    "SHA-256 detects identical bytes, not similar crops or resized duplicates.",
+    "Rendering eligibility follows explicit review; unaccepted new records must remain excluded."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:51:39.165328+00:00",
+  "results": [
+    {
+      "species": "Cerrophidion godmani",
+      "status": "metadata_checked",
+      "eligible_observations_available": 12,
+      "observations_examined": 12,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

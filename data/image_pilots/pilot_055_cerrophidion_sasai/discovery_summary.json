@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:51:59.173414+00:00",
+  "results": [
+    {
+      "species": "Cerrophidion sasai",
+      "status": "metadata_checked",
+      "eligible_observations_available": 6,
+      "observations_examined": 6,
+      "candidates_selected": 9
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:46:09.659090+00:00",
+  "results": [
+    {
+      "species": "Bothrops colombiensis",
+      "status": "taxon_unresolved",
+      "candidates": [
+        "Bothrops atrox"
+      ]
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

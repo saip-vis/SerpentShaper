@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T09:16:32.071748+00:00",
+  "results": [
+    {
+      "species": "Trimeresurus wiroti",
+      "status": "metadata_checked",
+      "eligible_observations_available": 3,
+      "observations_examined": 3,
+      "candidates_selected": 5
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

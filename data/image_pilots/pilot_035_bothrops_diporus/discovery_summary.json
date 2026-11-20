@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:46:17.957341+00:00",
+  "results": [
+    {
+      "species": "Bothrops diporus",
+      "status": "metadata_checked",
+      "eligible_observations_available": 68,
+      "observations_examined": 20,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

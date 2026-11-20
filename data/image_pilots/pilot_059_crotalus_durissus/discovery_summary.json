@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:53:21.481656+00:00",
+  "results": [
+    {
+      "species": "Crotalus durissus",
+      "status": "metadata_checked",
+      "eligible_observations_available": 167,
+      "observations_examined": 20,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

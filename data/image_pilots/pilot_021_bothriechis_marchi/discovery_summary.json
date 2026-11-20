@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:43:45.460131+00:00",
+  "results": [
+    {
+      "species": "Bothriechis marchi",
+      "status": "metadata_checked",
+      "eligible_observations_available": 2,
+      "observations_examined": 2,
+      "candidates_selected": 3
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

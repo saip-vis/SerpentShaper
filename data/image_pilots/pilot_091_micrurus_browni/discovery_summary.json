@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T09:03:00.854768+00:00",
+  "results": [
+    {
+      "species": "Micrurus browni",
+      "status": "metadata_checked",
+      "eligible_observations_available": 9,
+      "observations_examined": 9,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

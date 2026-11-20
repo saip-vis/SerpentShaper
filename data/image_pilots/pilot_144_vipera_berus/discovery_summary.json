@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T09:17:26.411094+00:00",
+  "results": [
+    {
+      "species": "Vipera berus",
+      "status": "metadata_checked",
+      "eligible_observations_available": 1837,
+      "observations_examined": 20,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

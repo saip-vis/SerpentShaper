@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T08:50:12.869070+00:00",
+  "results": [
+    {
+      "species": "Bungarus flaviceps",
+      "status": "metadata_checked",
+      "eligible_observations_available": 7,
+      "observations_examined": 7,
+      "candidates_selected": 10
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

@@ -1,0 +1,3475 @@
+{
+  "started_at": "2026-11-20T08:39:26.173771+00:00",
+  "species": {
+    "Agkistrodon bilineatus": {
+      "species": "Agkistrodon bilineatus",
+      "lookup_name": "Agkistrodon bilineatus",
+      "batch": "pilot_010_agkistrodon_bilineatus",
+      "started_at": "2026-11-20T08:40:23.376024+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Agkistrodon bilineatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 16,
+        "observations_examined": 16,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38,
+        "too_small_or_dimensions_missing": 2
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 16170982,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:40:42.968201+00:00"
+    },
+    "Agkistrodon contortrix": {
+      "species": "Agkistrodon contortrix",
+      "lookup_name": "Agkistrodon contortrix",
+      "batch": "pilot_011_agkistrodon_contortrix",
+      "started_at": "2026-11-20T08:40:44.175124+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Agkistrodon contortrix",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1403,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38,
+        "too_small_or_dimensions_missing": 5
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 6622832,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:41:03.233884+00:00"
+    },
+    "Agkistrodon piscivorus": {
+      "species": "Agkistrodon piscivorus",
+      "lookup_name": "Agkistrodon piscivorus",
+      "batch": "pilot_012_agkistrodon_piscivorus",
+      "started_at": "2026-11-20T08:41:04.440694+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Agkistrodon piscivorus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1713,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 25,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10403700,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:41:23.744032+00:00"
+    },
+    "Agkistrodon taylori": {
+      "species": "Agkistrodon taylori",
+      "lookup_name": "Agkistrodon taylori",
+      "batch": "pilot_013_agkistrodon_taylori",
+      "started_at": "2026-11-20T08:41:24.951014+00:00",
+      "downloaded": 6,
+      "discovery": {
+        "species": "Agkistrodon taylori",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 6
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 9
+      },
+      "selected": 6,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 10359554,
+      "status": "downloaded_partial",
+      "notes": "Only 6 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:41:37.759895+00:00"
+    },
+    "Aspidelaps lubricus": {
+      "species": "Aspidelaps lubricus",
+      "lookup_name": "Aspidelaps lubricus",
+      "batch": "pilot_014_aspidelaps_lubricus",
+      "started_at": "2026-11-20T08:41:38.966746+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Aspidelaps lubricus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 14,
+        "observations_examined": 14,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 26,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11728228,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:41:58.422313+00:00"
+    },
+    "Aspidelaps scutatus": {
+      "species": "Aspidelaps scutatus",
+      "lookup_name": "Aspidelaps scutatus",
+      "batch": "pilot_015_aspidelaps_scutatus",
+      "started_at": "2026-11-20T08:41:59.627766+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Aspidelaps scutatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 8,
+        "observations_examined": 8,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 15
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 8,
+      "bytes_downloaded": 9122105,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:42:18.426177+00:00"
+    },
+    "Atropoides picadoi": {
+      "species": "Atropoides picadoi",
+      "lookup_name": "Atropoides picadoi",
+      "batch": "pilot_016_atropoides_picadoi",
+      "started_at": "2026-11-20T08:42:19.633170+00:00",
+      "downloaded": 4,
+      "discovery": {
+        "species": "Atropoides picadoi",
+        "status": "metadata_checked",
+        "eligible_observations_available": 2,
+        "observations_examined": 2,
+        "candidates_selected": 4
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 6
+      },
+      "selected": 4,
+      "download_errors": [],
+      "observation_groups": 2,
+      "bytes_downloaded": 6811607,
+      "status": "downloaded_partial",
+      "notes": "Only 4 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:42:28.308855+00:00"
+    },
+    "Bitis caudalis": {
+      "species": "Bitis caudalis",
+      "lookup_name": "Bitis caudalis",
+      "batch": "pilot_017_bitis_caudalis",
+      "started_at": "2026-11-20T08:42:29.516125+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bitis caudalis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 37,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 25,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14475754,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:42:49.695134+00:00"
+    },
+    "Bitis nasicornis": {
+      "species": "Bitis nasicornis",
+      "lookup_name": "Bitis nasicornis",
+      "batch": "pilot_018_bitis_nasicornis",
+      "started_at": "2026-11-20T08:42:50.901242+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bitis nasicornis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 8,
+        "observations_examined": 8,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 12,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 7,
+      "bytes_downloaded": 17118902,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:43:10.209761+00:00"
+    },
+    "Bothriechis aurifer": {
+      "species": "Bothriechis aurifer",
+      "lookup_name": "Bothriechis aurifer",
+      "batch": "pilot_019_bothriechis_aurifer",
+      "started_at": "2026-11-20T08:43:11.416864+00:00",
+      "downloaded": 5,
+      "discovery": {
+        "species": "Bothriechis aurifer",
+        "status": "metadata_checked",
+        "eligible_observations_available": 4,
+        "observations_examined": 4,
+        "candidates_selected": 5
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 11
+      },
+      "selected": 5,
+      "download_errors": [],
+      "observation_groups": 4,
+      "bytes_downloaded": 7079644,
+      "status": "downloaded_partial",
+      "notes": "Only 5 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:43:21.961756+00:00"
+    },
+    "Bothriechis bicolor": {
+      "species": "Bothriechis bicolor",
+      "lookup_name": "Bothriechis bicolor",
+      "batch": "pilot_020_bothriechis_bicolor",
+      "started_at": "2026-11-20T08:43:23.167673+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothriechis bicolor",
+        "status": "metadata_checked",
+        "eligible_observations_available": 11,
+        "observations_examined": 11,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 21
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 13274516,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:43:42.496015+00:00"
+    },
+    "Bothriechis marchi": {
+      "species": "Bothriechis marchi",
+      "lookup_name": "Bothriechis marchi",
+      "batch": "pilot_021_bothriechis_marchi",
+      "started_at": "2026-11-20T08:43:43.703180+00:00",
+      "downloaded": 3,
+      "discovery": {
+        "species": "Bothriechis marchi",
+        "status": "metadata_checked",
+        "eligible_observations_available": 2,
+        "observations_examined": 2,
+        "candidates_selected": 3
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 3
+      },
+      "selected": 3,
+      "download_errors": [],
+      "observation_groups": 2,
+      "bytes_downloaded": 2220359,
+      "status": "downloaded_partial",
+      "notes": "Only 3 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:43:50.380359+00:00"
+    },
+    "Bothriechis nigroviridis": {
+      "species": "Bothriechis nigroviridis",
+      "lookup_name": "Bothriechis nigroviridis",
+      "batch": "pilot_022_bothriechis_nigroviridis",
+      "started_at": "2026-11-20T08:43:51.587639+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothriechis nigroviridis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 8,
+        "observations_examined": 8,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 14
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 8,
+      "bytes_downloaded": 15293341,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:44:10.746673+00:00"
+    },
+    "Bothriechis schlegelii": {
+      "species": "Bothriechis schlegelii",
+      "lookup_name": "Bothriechis schlegelii",
+      "batch": "pilot_023_bothriechis_schlegelii",
+      "started_at": "2026-11-20T08:44:11.954037+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothriechis schlegelii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 11,
+        "observations_examined": 11,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 35,
+        "too_small_or_dimensions_missing": 5
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 17175812,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:44:32.216714+00:00"
+    },
+    "Bothriechis supraciliaris": {
+      "species": "Bothriechis supraciliaris",
+      "lookup_name": "Bothriechis supraciliaris",
+      "batch": "pilot_024_bothriechis_supraciliaris",
+      "started_at": "2026-11-20T08:44:33.422419+00:00",
+      "downloaded": 7,
+      "discovery": {
+        "species": "Bothriechis supraciliaris",
+        "status": "metadata_checked",
+        "eligible_observations_available": 5,
+        "observations_examined": 5,
+        "candidates_selected": 7
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 8
+      },
+      "selected": 7,
+      "download_errors": [],
+      "observation_groups": 5,
+      "bytes_downloaded": 6445440,
+      "status": "downloaded_partial",
+      "notes": "Only 7 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:44:47.255420+00:00"
+    },
+    "Bothriechis thalassinus": {
+      "species": "Bothriechis thalassinus",
+      "lookup_name": "Bothriechis thalassinus",
+      "batch": "pilot_025_bothriechis_thalassinus",
+      "started_at": "2026-11-20T08:44:48.462838+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Bothriechis thalassinus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Bothrocophias campbelli": {
+      "species": "Bothrocophias campbelli",
+      "lookup_name": "Bothrocophias campbelli",
+      "batch": "pilot_026_bothrocophias_campbelli",
+      "started_at": "2026-11-20T08:44:51.198766+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrocophias campbelli",
+        "status": "metadata_checked",
+        "eligible_observations_available": 6,
+        "observations_examined": 6,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 18
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 6,
+      "bytes_downloaded": 17089949,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:45:10.580177+00:00"
+    },
+    "Bothrops alternatus": {
+      "species": "Bothrops alternatus",
+      "lookup_name": "Bothrops alternatus",
+      "batch": "pilot_027_bothrops_alternatus",
+      "started_at": "2026-11-20T08:45:11.784592+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops alternatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 253,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 26
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 12774979,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:45:31.832981+00:00"
+    },
+    "Bothrops asper": {
+      "species": "Bothrops asper",
+      "lookup_name": "Bothrops asper",
+      "batch": "pilot_028_bothrops_asper",
+      "started_at": "2026-11-20T09:19:26.649231+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops asper",
+        "status": "metadata_checked",
+        "eligible_observations_available": 404,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 36,
+        "too_small_or_dimensions_missing": 4
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14942843,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:19:49.692315+00:00",
+      "previous_attempts": [
+        {
+          "species": "Bothrops asper",
+          "lookup_name": "Bothrops asper",
+          "batch": "pilot_028_bothrops_asper",
+          "status": "failed_unexpected",
+          "downloaded": 0,
+          "notes": "TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'"
+        }
+      ]
+    },
+    "Bothrops atrox": {
+      "species": "Bothrops atrox",
+      "lookup_name": "Bothrops atrox",
+      "batch": "pilot_029_bothrops_atrox",
+      "started_at": "2026-11-20T08:45:36.788844+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops atrox",
+        "status": "metadata_checked",
+        "eligible_observations_available": 158,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 37
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10244208,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:45:56.001114+00:00"
+    },
+    "Bothrops ayerbei": {
+      "species": "Bothrops ayerbei",
+      "lookup_name": "Bothrops ayerbei",
+      "batch": "pilot_030_bothrops_ayerbei",
+      "started_at": "2026-11-20T08:45:57.207383+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Bothrops ayerbei",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Bothrops barnetti": {
+      "species": "Bothrops barnetti",
+      "lookup_name": "Bothrops barnetti",
+      "batch": "pilot_031_bothrops_barnetti",
+      "started_at": "2026-11-20T08:45:59.938943+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Bothrops barnetti",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Bothrops caribbaeus": {
+      "species": "Bothrops caribbaeus",
+      "lookup_name": "Bothrops caribbaeus",
+      "batch": "pilot_032_bothrops_caribbaeus",
+      "started_at": "2026-11-20T08:46:02.634758+00:00",
+      "downloaded": 2,
+      "discovery": {
+        "species": "Bothrops caribbaeus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 2
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 3
+      },
+      "selected": 2,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 8184217,
+      "status": "downloaded_partial",
+      "notes": "Only 2 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:46:08.150889+00:00"
+    },
+    "Bothrops colombiensis": {
+      "species": "Bothrops colombiensis",
+      "lookup_name": "Bothrops colombiensis",
+      "batch": "pilot_033_bothrops_colombiensis",
+      "started_at": "2026-11-20T08:46:09.358388+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Bothrops colombiensis",
+        "status": "taxon_unresolved",
+        "candidates": [
+          "Bothrops atrox"
+        ]
+      },
+      "status": "skipped_taxon_unresolved",
+      "notes": "No unique supported species-name match. Provider candidates: Bothrops atrox"
+    },
+    "Bothrops cotiara": {
+      "species": "Bothrops cotiara",
+      "lookup_name": "Bothrops cotiara",
+      "batch": "pilot_034_bothrops_cotiara",
+      "started_at": "2026-11-20T08:46:10.872690+00:00",
+      "downloaded": 1,
+      "discovery": {
+        "species": "Bothrops cotiara",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 1
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 1
+      },
+      "selected": 1,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 1302195,
+      "status": "downloaded_partial",
+      "notes": "Only 1 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:46:14.410010+00:00"
+    },
+    "Bothrops diporus": {
+      "species": "Bothrops diporus",
+      "lookup_name": "Bothrops diporus",
+      "batch": "pilot_035_bothrops_diporus",
+      "started_at": "2026-11-20T08:46:15.614036+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops diporus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 68,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 36
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 8663690,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:46:34.617319+00:00"
+    },
+    "Bothrops erythromelas": {
+      "species": "Bothrops erythromelas",
+      "lookup_name": "Bothrops erythromelas",
+      "batch": "pilot_036_bothrops_erythromelas",
+      "started_at": "2026-11-20T08:46:35.825027+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops erythromelas",
+        "status": "metadata_checked",
+        "eligible_observations_available": 23,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 24166465,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:46:56.391572+00:00"
+    },
+    "Bothrops insularis": {
+      "species": "Bothrops insularis",
+      "lookup_name": "Bothrops insularis",
+      "batch": "pilot_037_bothrops_insularis",
+      "started_at": "2026-11-20T08:46:57.597364+00:00",
+      "downloaded": 6,
+      "discovery": {
+        "species": "Bothrops insularis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 5,
+        "observations_examined": 5,
+        "candidates_selected": 6
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 6
+      },
+      "selected": 6,
+      "download_errors": [],
+      "observation_groups": 5,
+      "bytes_downloaded": 10359774,
+      "status": "downloaded_partial",
+      "notes": "Only 6 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:47:10.166784+00:00"
+    },
+    "Bothrops jararacussu": {
+      "species": "Bothrops jararacussu",
+      "lookup_name": "Bothrops jararacussu",
+      "batch": "pilot_038_bothrops_jararacussu",
+      "started_at": "2026-11-20T08:47:11.374433+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops jararacussu",
+        "status": "metadata_checked",
+        "eligible_observations_available": 42,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 39
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10663807,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:47:31.015480+00:00"
+    },
+    "Bothrops lanceolatus": {
+      "species": "Bothrops lanceolatus",
+      "lookup_name": "Bothrops lanceolatus",
+      "batch": "pilot_039_bothrops_lanceolatus",
+      "started_at": "2026-11-20T08:47:32.222663+00:00",
+      "downloaded": 4,
+      "discovery": {
+        "species": "Bothrops lanceolatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 2,
+        "observations_examined": 2,
+        "candidates_selected": 4
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 8
+      },
+      "selected": 4,
+      "download_errors": [],
+      "observation_groups": 2,
+      "bytes_downloaded": 9893569,
+      "status": "downloaded_partial",
+      "notes": "Only 4 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:47:41.488062+00:00"
+    },
+    "Bothrops leucurus": {
+      "species": "Bothrops leucurus",
+      "lookup_name": "Bothrops leucurus",
+      "batch": "pilot_040_bothrops_leucurus",
+      "started_at": "2026-11-20T08:47:42.698252+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops leucurus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 14,
+        "observations_examined": 14,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38,
+        "too_small_or_dimensions_missing": 2
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14244307,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:48:02.129162+00:00"
+    },
+    "Bothrops neuwiedi": {
+      "species": "Bothrops neuwiedi",
+      "lookup_name": "Bothrops neuwiedi",
+      "batch": "pilot_041_bothrops_neuwiedi",
+      "started_at": "2026-11-20T08:48:03.337019+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops neuwiedi",
+        "status": "metadata_checked",
+        "eligible_observations_available": 13,
+        "observations_examined": 13,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 40
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10925240,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:48:22.917328+00:00"
+    },
+    "Bothrops pauloensis": {
+      "species": "Bothrops pauloensis",
+      "lookup_name": "Bothrops pauloensis",
+      "batch": "pilot_042_bothrops_pauloensis",
+      "started_at": "2026-11-20T08:48:24.124525+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bothrops pauloensis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 13,
+        "observations_examined": 13,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 25
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 8724799,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:48:43.477146+00:00"
+    },
+    "Bothrops pictus": {
+      "species": "Bothrops pictus",
+      "lookup_name": "Bothrops pictus",
+      "batch": "pilot_043_bothrops_pictus",
+      "started_at": "2026-11-20T08:48:44.684789+00:00",
+      "downloaded": 2,
+      "discovery": {
+        "species": "Bothrops pictus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 2
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 4
+      },
+      "selected": 2,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 2667404,
+      "status": "downloaded_partial",
+      "notes": "Only 2 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:48:49.768080+00:00"
+    },
+    "Bothrops pirajai": {
+      "species": "Bothrops pirajai",
+      "lookup_name": "Bothrops pirajai",
+      "batch": "pilot_044_bothrops_pirajai",
+      "started_at": "2026-11-20T08:48:50.975486+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Bothrops pirajai",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Bothrops punctatus": {
+      "species": "Bothrops punctatus",
+      "lookup_name": "Bothrops punctatus",
+      "batch": "pilot_045_bothrops_punctatus",
+      "started_at": "2026-11-20T08:48:53.681238+00:00",
+      "downloaded": 7,
+      "discovery": {
+        "species": "Bothrops punctatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 4,
+        "observations_examined": 4,
+        "candidates_selected": 7
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 7
+      },
+      "selected": 7,
+      "download_errors": [],
+      "observation_groups": 4,
+      "bytes_downloaded": 10240790,
+      "status": "downloaded_partial",
+      "notes": "Only 7 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:49:07.729837+00:00"
+    },
+    "Bungarus caeruleus": {
+      "species": "Bungarus caeruleus",
+      "lookup_name": "Bungarus caeruleus",
+      "batch": "pilot_046_bungarus_caeruleus",
+      "started_at": "2026-11-20T08:49:08.938032+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bungarus caeruleus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 96,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15268522,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:49:28.559116+00:00"
+    },
+    "Bungarus candidus": {
+      "species": "Bungarus candidus",
+      "lookup_name": "Bungarus candidus",
+      "batch": "pilot_047_bungarus_candidus",
+      "started_at": "2026-11-20T08:49:29.766366+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bungarus candidus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 18,
+        "observations_examined": 18,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 33
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 13785052,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:49:48.991193+00:00"
+    },
+    "Bungarus fasciatus": {
+      "species": "Bungarus fasciatus",
+      "lookup_name": "Bungarus fasciatus",
+      "batch": "pilot_048_bungarus_fasciatus",
+      "started_at": "2026-11-20T08:49:50.198767+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bungarus fasciatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 36,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 54
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15559032,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:50:09.705188+00:00"
+    },
+    "Bungarus flaviceps": {
+      "species": "Bungarus flaviceps",
+      "lookup_name": "Bungarus flaviceps",
+      "batch": "pilot_049_bungarus_flaviceps",
+      "started_at": "2026-11-20T08:50:10.909254+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bungarus flaviceps",
+        "status": "metadata_checked",
+        "eligible_observations_available": 7,
+        "observations_examined": 7,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 37
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 7,
+      "bytes_downloaded": 24306591,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:50:30.634060+00:00"
+    },
+    "Bungarus multicinctus": {
+      "species": "Bungarus multicinctus",
+      "lookup_name": "Bungarus multicinctus",
+      "batch": "pilot_050_bungarus_multicinctus",
+      "started_at": "2026-11-20T08:50:31.841990+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Bungarus multicinctus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 194,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 25
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 16643173,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:50:51.798008+00:00"
+    },
+    "Bungarus sindanus": {
+      "species": "Bungarus sindanus",
+      "lookup_name": "Bungarus sindanus",
+      "batch": "pilot_051_bungarus_sindanus",
+      "started_at": "2026-11-20T08:50:53.005547+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Bungarus sindanus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Cerastes cerastes": {
+      "species": "Cerastes cerastes",
+      "lookup_name": "Cerastes cerastes",
+      "batch": "pilot_052_cerastes_cerastes",
+      "started_at": "2026-11-20T08:50:55.785768+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Cerastes cerastes",
+        "status": "metadata_checked",
+        "eligible_observations_available": 54,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 21,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 7104220,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:51:14.999321+00:00"
+    },
+    "Cerastes vipera": {
+      "species": "Cerastes vipera",
+      "lookup_name": "Cerastes vipera",
+      "batch": "pilot_053_cerastes_vipera",
+      "started_at": "2026-11-20T08:51:16.207150+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Cerastes vipera",
+        "status": "metadata_checked",
+        "eligible_observations_available": 11,
+        "observations_examined": 11,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 26
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15040822,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:51:35.898797+00:00"
+    },
+    "Cerrophidion godmani": {
+      "species": "Cerrophidion godmani",
+      "lookup_name": "Cerrophidion godmani",
+      "batch": "pilot_054_cerrophidion_godmani",
+      "started_at": "2026-11-20T08:51:37.106318+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Cerrophidion godmani",
+        "status": "metadata_checked",
+        "eligible_observations_available": 12,
+        "observations_examined": 12,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 22
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11401298,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:51:56.116724+00:00"
+    },
+    "Cerrophidion sasai": {
+      "species": "Cerrophidion sasai",
+      "lookup_name": "Cerrophidion sasai",
+      "batch": "pilot_055_cerrophidion_sasai",
+      "started_at": "2026-11-20T08:51:57.324515+00:00",
+      "downloaded": 9,
+      "discovery": {
+        "species": "Cerrophidion sasai",
+        "status": "metadata_checked",
+        "eligible_observations_available": 6,
+        "observations_examined": 6,
+        "candidates_selected": 9
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 10
+      },
+      "selected": 9,
+      "download_errors": [],
+      "observation_groups": 6,
+      "bytes_downloaded": 10875005,
+      "status": "downloaded_partial",
+      "notes": "Only 9 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:52:15.164031+00:00"
+    },
+    "Crotalus adamanteus": {
+      "species": "Crotalus adamanteus",
+      "lookup_name": "Crotalus adamanteus",
+      "batch": "pilot_056_crotalus_adamanteus",
+      "started_at": "2026-11-20T08:52:16.368849+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus adamanteus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 200,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38,
+        "too_small_or_dimensions_missing": 4
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15286041,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:52:37.093290+00:00"
+    },
+    "Crotalus basiliscus": {
+      "species": "Crotalus basiliscus",
+      "lookup_name": "Crotalus basiliscus",
+      "batch": "pilot_057_crotalus_basiliscus",
+      "started_at": "2026-11-20T08:52:38.301819+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus basiliscus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 42,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 45
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10798013,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:53:02.274088+00:00"
+    },
+    "Crotalus culminatus": {
+      "species": "Crotalus culminatus",
+      "lookup_name": "Crotalus culminatus",
+      "batch": "pilot_058_crotalus_culminatus",
+      "started_at": "2026-11-20T08:53:03.481885+00:00",
+      "downloaded": 7,
+      "discovery": {
+        "species": "Crotalus culminatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 5,
+        "observations_examined": 5,
+        "candidates_selected": 7
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 7
+      },
+      "selected": 7,
+      "download_errors": [],
+      "observation_groups": 5,
+      "bytes_downloaded": 12596731,
+      "status": "downloaded_partial",
+      "notes": "Only 7 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:53:17.795485+00:00"
+    },
+    "Crotalus durissus": {
+      "species": "Crotalus durissus",
+      "lookup_name": "Crotalus durissus",
+      "batch": "pilot_059_crotalus_durissus",
+      "started_at": "2026-11-20T08:53:19.003957+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus durissus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 167,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 54,
+        "too_small_or_dimensions_missing": 4
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 8955580,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:53:38.649994+00:00"
+    },
+    "Crotalus horridus": {
+      "species": "Crotalus horridus",
+      "lookup_name": "Crotalus horridus",
+      "batch": "pilot_060_crotalus_horridus",
+      "started_at": "2026-11-20T08:53:39.858306+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus horridus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 658,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38,
+        "too_small_or_dimensions_missing": 9
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10733102,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:53:59.797368+00:00"
+    },
+    "Crotalus oreganus": {
+      "species": "Crotalus oreganus",
+      "lookup_name": "Crotalus oreganus",
+      "batch": "pilot_061_crotalus_oreganus",
+      "started_at": "2026-11-20T08:54:01.005165+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus oreganus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 2185,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 33,
+        "too_small_or_dimensions_missing": 4
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11032204,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:54:21.505306+00:00"
+    },
+    "Crotalus polystictus": {
+      "species": "Crotalus polystictus",
+      "lookup_name": "Crotalus polystictus",
+      "batch": "pilot_062_crotalus_polystictus",
+      "started_at": "2026-11-20T08:54:22.710531+00:00",
+      "downloaded": 2,
+      "discovery": {
+        "species": "Crotalus polystictus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 2,
+        "observations_examined": 2,
+        "candidates_selected": 2
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 2
+      },
+      "selected": 2,
+      "download_errors": [],
+      "observation_groups": 2,
+      "bytes_downloaded": 3169594,
+      "status": "downloaded_partial",
+      "notes": "Only 2 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:54:27.838187+00:00"
+    },
+    "Crotalus scutulatus": {
+      "species": "Crotalus scutulatus",
+      "lookup_name": "Crotalus scutulatus",
+      "batch": "pilot_063_crotalus_scutulatus",
+      "started_at": "2026-11-20T08:54:29.046502+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus scutulatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 239,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 41,
+        "too_small_or_dimensions_missing": 2
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14744712,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:54:49.058483+00:00"
+    },
+    "Crotalus simus": {
+      "species": "Crotalus simus",
+      "lookup_name": "Crotalus simus",
+      "batch": "pilot_064_crotalus_simus",
+      "started_at": "2026-11-20T08:54:50.265808+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus simus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 7,
+        "observations_examined": 7,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 10
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 7,
+      "bytes_downloaded": 10175944,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:55:09.242659+00:00"
+    },
+    "Crotalus tigris": {
+      "species": "Crotalus tigris",
+      "lookup_name": "Crotalus tigris",
+      "batch": "pilot_065_crotalus_tigris",
+      "started_at": "2026-11-20T08:55:10.450367+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus tigris",
+        "status": "metadata_checked",
+        "eligible_observations_available": 51,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 43,
+        "too_small_or_dimensions_missing": 2
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 13295675,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:55:30.263798+00:00"
+    },
+    "Crotalus tzabcan": {
+      "species": "Crotalus tzabcan",
+      "lookup_name": "Crotalus tzabcan",
+      "batch": "pilot_066_crotalus_tzabcan",
+      "started_at": "2026-11-20T08:55:31.471808+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus tzabcan",
+        "status": "metadata_checked",
+        "eligible_observations_available": 40,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 29,
+        "too_small_or_dimensions_missing": 2
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14796393,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:55:51.193198+00:00"
+    },
+    "Crotalus viridis": {
+      "species": "Crotalus viridis",
+      "lookup_name": "Crotalus viridis",
+      "batch": "pilot_067_crotalus_viridis",
+      "started_at": "2026-11-20T08:55:52.401286+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Crotalus viridis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 500,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 22
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 7623984,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:56:11.693414+00:00"
+    },
+    "Cryptelytrops purpureomaculatus": {
+      "species": "Cryptelytrops purpureomaculatus",
+      "lookup_name": "Trimeresurus purpureomaculatus",
+      "batch": "pilot_068_cryptelytrops_purpureomaculatus",
+      "started_at": "2026-11-20T08:56:12.901742+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Cryptelytrops purpureomaculatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 39,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 30
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11674682,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:56:32.441271+00:00"
+    },
+    "Daboia russelii": {
+      "species": "Daboia russelii",
+      "lookup_name": "Daboia russelii",
+      "batch": "pilot_069_daboia_russelii",
+      "started_at": "2026-11-20T08:56:33.649415+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Daboia russelii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 206,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 32
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15017386,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:56:55.274123+00:00"
+    },
+    "Daboia siamensis": {
+      "species": "Daboia siamensis",
+      "lookup_name": "Daboia siamensis",
+      "batch": "pilot_070_daboia_siamensis",
+      "started_at": "2026-11-20T08:56:56.481977+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Daboia siamensis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 10,
+        "observations_examined": 10,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 11,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 9,
+      "bytes_downloaded": 19455110,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:57:16.547230+00:00"
+    },
+    "Deinagkistrodon acutus": {
+      "species": "Deinagkistrodon acutus",
+      "lookup_name": "Deinagkistrodon acutus",
+      "batch": "pilot_071_deinagkistrodon_acutus",
+      "started_at": "2026-11-20T08:57:17.755393+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Deinagkistrodon acutus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 20,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 51
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15821224,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:57:37.367887+00:00"
+    },
+    "Dendroaspis angusticeps": {
+      "species": "Dendroaspis angusticeps",
+      "lookup_name": "Dendroaspis angusticeps",
+      "batch": "pilot_072_dendroaspis_angusticeps",
+      "started_at": "2026-11-20T08:57:38.577410+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Dendroaspis angusticeps",
+        "status": "metadata_checked",
+        "eligible_observations_available": 9,
+        "observations_examined": 9,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 16
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 9,
+      "bytes_downloaded": 9397079,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:57:57.468393+00:00"
+    },
+    "Echis carinatus": {
+      "species": "Echis carinatus",
+      "lookup_name": "Echis carinatus",
+      "batch": "pilot_073_echis_carinatus",
+      "started_at": "2026-11-20T08:57:58.672380+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Echis carinatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 134,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 25,
+        "too_small_or_dimensions_missing": 3
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15771806,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:58:18.405972+00:00"
+    },
+    "Echis ocellatus": {
+      "species": "Echis ocellatus",
+      "lookup_name": "Echis ocellatus",
+      "batch": "pilot_074_echis_ocellatus",
+      "started_at": "2026-11-20T08:58:19.614010+00:00",
+      "downloaded": 1,
+      "discovery": {
+        "species": "Echis ocellatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 1
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 1
+      },
+      "selected": 1,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 1840026,
+      "status": "downloaded_partial",
+      "notes": "Only 1 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:58:23.392716+00:00"
+    },
+    "Gloydius brevicaudus": {
+      "species": "Gloydius brevicaudus",
+      "lookup_name": "Gloydius brevicauda",
+      "batch": "pilot_075_gloydius_brevicaudus",
+      "started_at": "2026-11-20T08:58:24.600368+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Gloydius brevicaudus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 26,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 61,
+        "too_small_or_dimensions_missing": 36
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 16946428,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:58:44.387898+00:00"
+    },
+    "Hemachatus haemachatus": {
+      "species": "Hemachatus haemachatus",
+      "lookup_name": "Hemachatus haemachatus",
+      "batch": "pilot_076_hemachatus_haemachatus",
+      "started_at": "2026-11-20T08:58:45.596076+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Hemachatus haemachatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 9,
+        "observations_examined": 9,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 11
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 9,
+      "bytes_downloaded": 12132226,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:59:04.658145+00:00"
+    },
+    "Hydrophis curtus": {
+      "species": "Hydrophis curtus",
+      "lookup_name": "Hydrophis curtus",
+      "batch": "pilot_077_hydrophis_curtus",
+      "started_at": "2026-11-20T08:59:05.865942+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Hydrophis curtus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 6,
+        "observations_examined": 6,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 23
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 6,
+      "bytes_downloaded": 13879725,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:59:25.167715+00:00"
+    },
+    "Hydrophis platurus": {
+      "species": "Hydrophis platurus",
+      "lookup_name": "Hydrophis platurus",
+      "batch": "pilot_078_hydrophis_platurus",
+      "started_at": "2026-11-20T08:59:26.376232+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Hydrophis platurus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 43,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 37,
+        "too_small_or_dimensions_missing": 2
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 9752904,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T08:59:46.117429+00:00"
+    },
+    "Hydrophis schistosus": {
+      "species": "Hydrophis schistosus",
+      "lookup_name": "Hydrophis schistosus",
+      "batch": "pilot_079_hydrophis_schistosus",
+      "started_at": "2026-11-20T08:59:47.325226+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Hydrophis schistosus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 16,
+        "observations_examined": 16,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 60
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14777377,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:00:07.398546+00:00"
+    },
+    "Hypnale hypnale": {
+      "species": "Hypnale hypnale",
+      "lookup_name": "Hypnale hypnale",
+      "batch": "pilot_080_hypnale_hypnale",
+      "started_at": "2026-11-20T09:00:08.606558+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Hypnale hypnale",
+        "status": "metadata_checked",
+        "eligible_observations_available": 104,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 33
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10767951,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:00:28.082226+00:00"
+    },
+    "Lachesis acrochorda": {
+      "species": "Lachesis acrochorda",
+      "lookup_name": "Lachesis acrochorda",
+      "batch": "pilot_081_lachesis_acrochorda",
+      "started_at": "2026-11-20T09:00:29.290255+00:00",
+      "downloaded": 8,
+      "discovery": {
+        "species": "Lachesis acrochorda",
+        "status": "metadata_checked",
+        "eligible_observations_available": 6,
+        "observations_examined": 6,
+        "candidates_selected": 8
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 12
+      },
+      "selected": 8,
+      "download_errors": [],
+      "observation_groups": 6,
+      "bytes_downloaded": 10797991,
+      "status": "downloaded_partial",
+      "notes": "Only 8 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:00:45.305311+00:00"
+    },
+    "Lachesis melanocephala": {
+      "species": "Lachesis melanocephala",
+      "lookup_name": "Lachesis melanocephala",
+      "batch": "pilot_082_lachesis_melanocephala",
+      "started_at": "2026-11-20T09:00:46.509926+00:00",
+      "downloaded": 2,
+      "discovery": {
+        "species": "Lachesis melanocephala",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 2
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 7
+      },
+      "selected": 2,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 2580839,
+      "status": "downloaded_partial",
+      "notes": "Only 2 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:00:51.967216+00:00"
+    },
+    "Lachesis muta": {
+      "species": "Lachesis muta",
+      "lookup_name": "Lachesis muta",
+      "batch": "pilot_083_lachesis_muta",
+      "started_at": "2026-11-20T09:00:53.175369+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Lachesis muta",
+        "status": "metadata_checked",
+        "eligible_observations_available": 14,
+        "observations_examined": 14,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 46
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11449543,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:01:12.927282+00:00"
+    },
+    "Lachesis stenophrys": {
+      "species": "Lachesis stenophrys",
+      "lookup_name": "Lachesis stenophrys",
+      "batch": "pilot_084_lachesis_stenophrys",
+      "started_at": "2026-11-20T09:01:14.136363+00:00",
+      "downloaded": 1,
+      "discovery": {
+        "species": "Lachesis stenophrys",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 1
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 1
+      },
+      "selected": 1,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 670189,
+      "status": "downloaded_partial",
+      "notes": "Only 1 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:01:17.867131+00:00"
+    },
+    "Laticauda colubrina": {
+      "species": "Laticauda colubrina",
+      "lookup_name": "Laticauda colubrina",
+      "batch": "pilot_085_laticauda_colubrina",
+      "started_at": "2026-11-20T09:01:19.075229+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Laticauda colubrina",
+        "status": "metadata_checked",
+        "eligible_observations_available": 127,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 50,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11580167,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:01:38.279497+00:00"
+    },
+    "Macrovipera lebetina": {
+      "species": "Macrovipera lebetina",
+      "lookup_name": "Macrovipera lebetinus",
+      "batch": "pilot_086_macrovipera_lebetina",
+      "started_at": "2026-11-20T09:01:39.488187+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Macrovipera lebetina",
+        "status": "metadata_checked",
+        "eligible_observations_available": 47,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 29,
+        "too_small_or_dimensions_missing": 3
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 17072309,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:02:00.029853+00:00"
+    },
+    "Metlapilcoatlus nummifer": {
+      "species": "Metlapilcoatlus nummifer",
+      "lookup_name": "Metlapilcoatlus nummifer",
+      "batch": "pilot_087_metlapilcoatlus_nummifer",
+      "started_at": "2026-11-20T09:02:01.237045+00:00",
+      "downloaded": 3,
+      "discovery": {
+        "species": "Metlapilcoatlus nummifer",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 3
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 3
+      },
+      "selected": 3,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 6489725,
+      "status": "downloaded_partial",
+      "notes": "Only 3 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:02:08.768730+00:00"
+    },
+    "Micropechis ikaheka": {
+      "species": "Micropechis ikaheka",
+      "lookup_name": "Micropechis ikaheca",
+      "batch": "pilot_088_micropechis_ikaheka",
+      "started_at": "2026-11-20T09:02:09.976784+00:00",
+      "downloaded": 2,
+      "discovery": {
+        "species": "Micropechis ikaheka",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 2
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 2
+      },
+      "selected": 2,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 3106547,
+      "status": "downloaded_partial",
+      "notes": "Only 2 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:02:15.375208+00:00"
+    },
+    "Micrurus alleni": {
+      "species": "Micrurus alleni",
+      "lookup_name": "Micrurus alleni",
+      "batch": "pilot_089_micrurus_alleni",
+      "started_at": "2026-11-20T09:02:16.579610+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus alleni",
+        "status": "metadata_checked",
+        "eligible_observations_available": 22,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 32,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 13285812,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:02:35.867450+00:00"
+    },
+    "Micrurus altirostris": {
+      "species": "Micrurus altirostris",
+      "lookup_name": "Micrurus altirostris",
+      "batch": "pilot_090_micrurus_altirostris",
+      "started_at": "2026-11-20T09:02:37.075628+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus altirostris",
+        "status": "metadata_checked",
+        "eligible_observations_available": 23,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 68
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 18208641,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:02:57.723201+00:00"
+    },
+    "Micrurus browni": {
+      "species": "Micrurus browni",
+      "lookup_name": "Micrurus browni",
+      "batch": "pilot_091_micrurus_browni",
+      "started_at": "2026-11-20T09:02:58.932034+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus browni",
+        "status": "metadata_checked",
+        "eligible_observations_available": 9,
+        "observations_examined": 9,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 48
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 9,
+      "bytes_downloaded": 12826413,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:03:18.478261+00:00"
+    },
+    "Micrurus clarki": {
+      "species": "Micrurus clarki",
+      "lookup_name": "Micrurus clarki",
+      "batch": "pilot_092_micrurus_clarki",
+      "started_at": "2026-11-20T09:03:19.685786+00:00",
+      "downloaded": 1,
+      "discovery": {
+        "species": "Micrurus clarki",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 1
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 1
+      },
+      "selected": 1,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 884369,
+      "status": "downloaded_partial",
+      "notes": "Only 1 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:03:23.195287+00:00"
+    },
+    "Micrurus corallinus": {
+      "species": "Micrurus corallinus",
+      "lookup_name": "Micrurus corallinus",
+      "batch": "pilot_093_micrurus_corallinus",
+      "started_at": "2026-11-20T09:03:24.403509+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus corallinus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 76,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 46,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 13526855,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:03:43.894440+00:00"
+    },
+    "Micrurus dumerilii": {
+      "species": "Micrurus dumerilii",
+      "lookup_name": "Micrurus dumerilii",
+      "batch": "pilot_094_micrurus_dumerilii",
+      "started_at": "2026-11-20T09:03:45.104193+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus dumerilii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 10,
+        "observations_examined": 10,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 16
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 17257167,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:04:04.846857+00:00"
+    },
+    "Micrurus frontalis": {
+      "species": "Micrurus frontalis",
+      "lookup_name": "Micrurus frontalis",
+      "batch": "pilot_095_micrurus_frontalis",
+      "started_at": "2026-11-20T09:04:06.052650+00:00",
+      "downloaded": 5,
+      "discovery": {
+        "species": "Micrurus frontalis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 5
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 11
+      },
+      "selected": 5,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 16835789,
+      "status": "downloaded_partial",
+      "notes": "Only 5 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:04:17.723036+00:00"
+    },
+    "Micrurus lemniscatus": {
+      "species": "Micrurus lemniscatus",
+      "lookup_name": "Micrurus lemniscatus",
+      "batch": "pilot_096_micrurus_lemniscatus",
+      "started_at": "2026-11-20T09:04:18.931847+00:00",
+      "downloaded": 4,
+      "discovery": {
+        "species": "Micrurus lemniscatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 4
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 4
+      },
+      "selected": 4,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 9095574,
+      "status": "downloaded_partial",
+      "notes": "Only 4 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:04:28.011940+00:00"
+    },
+    "Micrurus mipartitus": {
+      "species": "Micrurus mipartitus",
+      "lookup_name": "Micrurus mipartitus",
+      "batch": "pilot_097_micrurus_mipartitus",
+      "started_at": "2026-11-20T09:04:29.220370+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus mipartitus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 29,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 36
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 12670660,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:04:48.816123+00:00"
+    },
+    "Micrurus mosquitensis": {
+      "species": "Micrurus mosquitensis",
+      "lookup_name": "Micrurus mosquitensis",
+      "batch": "pilot_098_micrurus_mosquitensis",
+      "started_at": "2026-11-20T09:04:50.024399+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus mosquitensis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 21,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 51
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15460867,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:05:09.543710+00:00"
+    },
+    "Micrurus nigrocinctus": {
+      "species": "Micrurus nigrocinctus",
+      "lookup_name": "Micrurus nigrocinctus",
+      "batch": "pilot_099_micrurus_nigrocinctus",
+      "started_at": "2026-11-20T09:05:10.747925+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus nigrocinctus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 55,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 42,
+        "too_small_or_dimensions_missing": 3
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 12451579,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:05:30.750689+00:00"
+    },
+    "Micrurus paraensis": {
+      "species": "Micrurus paraensis",
+      "lookup_name": "Micrurus paraensis",
+      "batch": "pilot_100_micrurus_paraensis",
+      "started_at": "2026-11-20T09:05:31.956410+00:00",
+      "downloaded": 2,
+      "discovery": {
+        "species": "Micrurus paraensis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 2
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 3
+      },
+      "selected": 2,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 3165596,
+      "status": "downloaded_partial",
+      "notes": "Only 2 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:05:37.150152+00:00"
+    },
+    "Micrurus spixii": {
+      "species": "Micrurus spixii",
+      "lookup_name": "Micrurus spixii",
+      "batch": "pilot_101_micrurus_spixii",
+      "started_at": "2026-11-20T09:05:38.356325+00:00",
+      "downloaded": 5,
+      "discovery": {
+        "species": "Micrurus spixii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 5
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 5
+      },
+      "selected": 5,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 11669196,
+      "status": "downloaded_partial",
+      "notes": "Only 5 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:05:50.164551+00:00"
+    },
+    "Micrurus surinamensis": {
+      "species": "Micrurus surinamensis",
+      "lookup_name": "Micrurus surinamensis",
+      "batch": "pilot_102_micrurus_surinamensis",
+      "started_at": "2026-11-20T09:05:51.373018+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Micrurus surinamensis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 9,
+        "observations_examined": 9,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 15
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 9,
+      "bytes_downloaded": 12498826,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:06:10.668492+00:00"
+    },
+    "Micrurus tschudii": {
+      "species": "Micrurus tschudii",
+      "lookup_name": "Micrurus tschudii",
+      "batch": "pilot_103_micrurus_tschudii",
+      "started_at": "2026-11-20T09:06:11.873202+00:00",
+      "downloaded": 6,
+      "discovery": {
+        "species": "Micrurus tschudii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 6
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 9
+      },
+      "selected": 6,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 11677544,
+      "status": "downloaded_partial",
+      "notes": "Only 6 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:06:24.409000+00:00"
+    },
+    "Montivipera raddei": {
+      "species": "Montivipera raddei",
+      "lookup_name": "Montivipera raddei",
+      "batch": "pilot_104_montivipera_raddei",
+      "started_at": "2026-11-20T09:06:25.617932+00:00",
+      "downloaded": 3,
+      "discovery": {
+        "species": "Montivipera raddei",
+        "status": "metadata_checked",
+        "eligible_observations_available": 4,
+        "observations_examined": 4,
+        "candidates_selected": 3
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 4,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 3,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 7217825,
+      "status": "downloaded_partial",
+      "notes": "Only 3 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:06:33.952416+00:00"
+    },
+    "Naja annulifera": {
+      "species": "Naja annulifera",
+      "lookup_name": "Naja annulifera",
+      "batch": "pilot_105_naja_annulifera",
+      "started_at": "2026-11-20T09:06:35.161493+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Naja annulifera",
+        "status": "metadata_checked",
+        "eligible_observations_available": 28,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 47,
+        "too_small_or_dimensions_missing": 2
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 9247814,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:06:54.555798+00:00"
+    },
+    "Naja atra": {
+      "species": "Naja atra",
+      "lookup_name": "Naja atra",
+      "batch": "pilot_106_naja_atra",
+      "started_at": "2026-11-20T09:06:55.759075+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Naja atra",
+        "status": "metadata_checked",
+        "eligible_observations_available": 93,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 31
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10848322,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:07:15.323634+00:00"
+    },
+    "Naja haje": {
+      "species": "Naja haje",
+      "lookup_name": "Naja haje",
+      "batch": "pilot_107_naja_haje",
+      "started_at": "2026-11-20T09:07:16.531566+00:00",
+      "downloaded": 7,
+      "discovery": {
+        "species": "Naja haje",
+        "status": "metadata_checked",
+        "eligible_observations_available": 8,
+        "observations_examined": 8,
+        "candidates_selected": 7
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 13,
+        "too_small_or_dimensions_missing": 4
+      },
+      "selected": 7,
+      "download_errors": [],
+      "observation_groups": 6,
+      "bytes_downloaded": 5481078,
+      "status": "downloaded_partial",
+      "notes": "Only 7 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:07:30.568583+00:00"
+    },
+    "Naja kaouthia": {
+      "species": "Naja kaouthia",
+      "lookup_name": "Naja kaouthia",
+      "batch": "pilot_108_naja_kaouthia",
+      "started_at": "2026-11-20T09:07:31.778965+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Naja kaouthia",
+        "status": "metadata_checked",
+        "eligible_observations_available": 24,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 40
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 8227606,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:07:51.244286+00:00"
+    },
+    "Naja katiensis": {
+      "species": "Naja katiensis",
+      "lookup_name": "Naja katiensis",
+      "batch": "pilot_109_naja_katiensis",
+      "started_at": "2026-11-20T09:07:52.448142+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Naja katiensis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Naja melanoleuca": {
+      "species": "Naja melanoleuca",
+      "lookup_name": "Naja melanoleuca",
+      "batch": "pilot_110_naja_melanoleuca",
+      "started_at": "2026-11-20T09:07:55.173063+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Naja melanoleuca",
+        "status": "metadata_checked",
+        "eligible_observations_available": 6,
+        "observations_examined": 6,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 14
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 6,
+      "bytes_downloaded": 5603172,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:08:13.255365+00:00"
+    },
+    "Naja mossambica": {
+      "species": "Naja mossambica",
+      "lookup_name": "Naja mossambica",
+      "batch": "pilot_111_naja_mossambica",
+      "started_at": "2026-11-20T09:08:14.460964+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Naja mossambica",
+        "status": "metadata_checked",
+        "eligible_observations_available": 73,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 33,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 3154407,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:08:33.121853+00:00"
+    },
+    "Naja nigricollis": {
+      "species": "Naja nigricollis",
+      "lookup_name": "Naja nigricollis",
+      "batch": "pilot_112_naja_nigricollis",
+      "started_at": "2026-11-20T09:08:34.330116+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Naja nigricollis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 20,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 40
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 12500531,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:08:54.648896+00:00"
+    },
+    "Naja nubiae": {
+      "species": "Naja nubiae",
+      "lookup_name": "Naja nubiae",
+      "batch": "pilot_113_naja_nubiae",
+      "started_at": "2026-11-20T09:08:55.857113+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Naja nubiae",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Naja pallida": {
+      "species": "Naja pallida",
+      "lookup_name": "Naja pallida",
+      "batch": "pilot_114_naja_pallida",
+      "started_at": "2026-11-20T09:08:58.552275+00:00",
+      "downloaded": 2,
+      "discovery": {
+        "species": "Naja pallida",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1,
+        "observations_examined": 1,
+        "candidates_selected": 2
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 2
+      },
+      "selected": 2,
+      "download_errors": [],
+      "observation_groups": 1,
+      "bytes_downloaded": 3460109,
+      "status": "downloaded_partial",
+      "notes": "Only 2 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:09:03.801503+00:00"
+    },
+    "Naja sputatrix": {
+      "species": "Naja sputatrix",
+      "lookup_name": "Naja sputatrix",
+      "batch": "pilot_115_naja_sputatrix",
+      "started_at": "2026-11-20T09:09:05.010082+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Naja sputatrix",
+        "status": "metadata_checked",
+        "eligible_observations_available": 7,
+        "observations_examined": 7,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 14
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 7,
+      "bytes_downloaded": 13818158,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:09:25.007704+00:00"
+    },
+    "Notechis scutatus": {
+      "species": "Notechis scutatus",
+      "lookup_name": "Notechis scutatus",
+      "batch": "pilot_116_notechis_scutatus",
+      "started_at": "2026-11-20T09:09:26.217000+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Notechis scutatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 385,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 45
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14033511,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:09:45.959496+00:00"
+    },
+    "Ophiophagus hannah": {
+      "species": "Ophiophagus hannah",
+      "lookup_name": "Ophiophagus hannah",
+      "batch": "pilot_117_ophiophagus_hannah",
+      "started_at": "2026-11-20T09:09:47.168797+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Ophiophagus hannah",
+        "status": "metadata_checked",
+        "eligible_observations_available": 38,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 29
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 12775599,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:10:07.384209+00:00"
+    },
+    "Ophryacus sphenophrys": {
+      "species": "Ophryacus sphenophrys",
+      "lookup_name": "Ophryacus sphenophrys",
+      "batch": "pilot_118_ophryacus_sphenophrys",
+      "started_at": "2026-11-20T09:10:08.590020+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Ophryacus sphenophrys",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Ovophis convictus": {
+      "species": "Ovophis convictus",
+      "lookup_name": "Ovophis convictus",
+      "batch": "pilot_119_ovophis_convictus",
+      "started_at": "2026-11-20T09:10:11.291657+00:00",
+      "downloaded": 5,
+      "discovery": {
+        "species": "Ovophis convictus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 5
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 5
+      },
+      "selected": 5,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 8817784,
+      "status": "downloaded_partial",
+      "notes": "Only 5 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:10:21.988875+00:00"
+    },
+    "Ovophis monticola": {
+      "species": "Ovophis monticola",
+      "lookup_name": "Ovophis monticola",
+      "batch": "pilot_120_ovophis_monticola",
+      "started_at": "2026-11-20T09:10:23.196692+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Ovophis monticola",
+        "status": "metadata_checked",
+        "eligible_observations_available": 17,
+        "observations_examined": 17,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 36
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15774182,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:10:43.564009+00:00"
+    },
+    "Ovophis okinavensis": {
+      "species": "Ovophis okinavensis",
+      "lookup_name": "Ovophis okinavensis",
+      "batch": "pilot_121_ovophis_okinavensis",
+      "started_at": "2026-11-20T09:10:44.772692+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Ovophis okinavensis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 33,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 42
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 15890395,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:11:04.707706+00:00"
+    },
+    "Ovophis tonkinensis": {
+      "species": "Ovophis tonkinensis",
+      "lookup_name": "Ovophis tonkinensis",
+      "batch": "pilot_122_ovophis_tonkinensis",
+      "started_at": "2026-11-20T09:11:05.916802+00:00",
+      "downloaded": 8,
+      "discovery": {
+        "species": "Ovophis tonkinensis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 8,
+        "observations_examined": 8,
+        "candidates_selected": 8
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 8
+      },
+      "selected": 8,
+      "download_errors": [],
+      "observation_groups": 8,
+      "bytes_downloaded": 14890324,
+      "status": "downloaded_partial",
+      "notes": "Only 8 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:11:22.067286+00:00"
+    },
+    "Porthidium lansbergii": {
+      "species": "Porthidium lansbergii",
+      "lookup_name": "Porthidium lansbergii",
+      "batch": "pilot_123_porthidium_lansbergii",
+      "started_at": "2026-11-20T09:11:23.278756+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Porthidium lansbergii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 26,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 67
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 16157261,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:11:43.726766+00:00"
+    },
+    "Porthidium nasutum": {
+      "species": "Porthidium nasutum",
+      "lookup_name": "Porthidium nasutum",
+      "batch": "pilot_124_porthidium_nasutum",
+      "started_at": "2026-11-20T09:11:44.933493+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Porthidium nasutum",
+        "status": "metadata_checked",
+        "eligible_observations_available": 56,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 33
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14576618,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:12:05.768670+00:00"
+    },
+    "Porthidium ophryomegas": {
+      "species": "Porthidium ophryomegas",
+      "lookup_name": "Porthidium ophryomegas",
+      "batch": "pilot_125_porthidium_ophryomegas",
+      "started_at": "2026-11-20T09:12:06.978107+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Porthidium ophryomegas",
+        "status": "metadata_checked",
+        "eligible_observations_available": 16,
+        "observations_examined": 16,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 12387750,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:12:26.129825+00:00"
+    },
+    "Porthidium porrasi": {
+      "species": "Porthidium porrasi",
+      "lookup_name": "Porthidium porrasi",
+      "batch": "pilot_126_porthidium_porrasi",
+      "started_at": "2026-11-20T09:12:27.338113+00:00",
+      "downloaded": 3,
+      "discovery": {
+        "species": "Porthidium porrasi",
+        "status": "metadata_checked",
+        "eligible_observations_available": 2,
+        "observations_examined": 2,
+        "candidates_selected": 3
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 4
+      },
+      "selected": 3,
+      "download_errors": [],
+      "observation_groups": 2,
+      "bytes_downloaded": 1867519,
+      "status": "downloaded_partial",
+      "notes": "Only 3 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:12:34.266413+00:00"
+    },
+    "Protobothrops flavoviridis": {
+      "species": "Protobothrops flavoviridis",
+      "lookup_name": "Protobothrops flavoviridis",
+      "batch": "pilot_127_protobothrops_flavoviridis",
+      "started_at": "2026-11-20T09:12:35.474888+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Protobothrops flavoviridis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 17,
+        "observations_examined": 17,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 34
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 18140477,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:12:55.123528+00:00"
+    },
+    "Protobothrops kelomohy": {
+      "species": "Protobothrops kelomohy",
+      "lookup_name": "Protobothrops kelomohy",
+      "batch": "pilot_128_protobothrops_kelomohy",
+      "started_at": "2026-11-20T09:12:56.332651+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Protobothrops kelomohy",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Protobothrops mucrosquamatus": {
+      "species": "Protobothrops mucrosquamatus",
+      "lookup_name": "Protobothrops mucrosquamatus",
+      "batch": "pilot_129_protobothrops_mucrosquamatus",
+      "started_at": "2026-11-20T09:12:59.050747+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Protobothrops mucrosquamatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 228,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 33
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14993977,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:13:19.401308+00:00"
+    },
+    "Pseudechis australis": {
+      "species": "Pseudechis australis",
+      "lookup_name": "Pseudechis australis",
+      "batch": "pilot_130_pseudechis_australis",
+      "started_at": "2026-11-20T09:13:20.610497+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Pseudechis australis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 72,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 42,
+        "too_small_or_dimensions_missing": 10
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 6547156,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:13:39.570224+00:00"
+    },
+    "Pseudechis papuanus": {
+      "species": "Pseudechis papuanus",
+      "lookup_name": "Pseudechis papuanus",
+      "batch": "pilot_131_pseudechis_papuanus",
+      "started_at": "2026-11-20T09:13:40.777920+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Pseudechis papuanus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Rhinobothryum bovallii": {
+      "species": "Rhinobothryum bovallii",
+      "lookup_name": "Rhinobothryum bovallii",
+      "batch": "pilot_132_rhinobothryum_bovallii",
+      "started_at": "2026-11-20T09:13:43.541321+00:00",
+      "downloaded": 8,
+      "discovery": {
+        "species": "Rhinobothryum bovallii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 6,
+        "observations_examined": 6,
+        "candidates_selected": 8
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 8
+      },
+      "selected": 8,
+      "download_errors": [],
+      "observation_groups": 6,
+      "bytes_downloaded": 10304135,
+      "status": "downloaded_partial",
+      "notes": "Only 8 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:13:59.303704+00:00"
+    },
+    "Sistrurus catenatus": {
+      "species": "Sistrurus catenatus",
+      "lookup_name": "Sistrurus catenatus",
+      "batch": "pilot_133_sistrurus_catenatus",
+      "started_at": "2026-11-20T09:14:00.512900+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Sistrurus catenatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 179,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 32
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 10970833,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:14:19.964904+00:00"
+    },
+    "Sistrurus miliarius": {
+      "species": "Sistrurus miliarius",
+      "lookup_name": "Sistrurus miliarius",
+      "batch": "pilot_134_sistrurus_miliarius",
+      "started_at": "2026-11-20T09:14:21.169902+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Sistrurus miliarius",
+        "status": "metadata_checked",
+        "eligible_observations_available": 221,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 43
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 9862287,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:14:45.525335+00:00"
+    },
+    "Toxicocalamus longissimus": {
+      "species": "Toxicocalamus longissimus",
+      "lookup_name": "Toxicocalamus longissimus",
+      "batch": "pilot_135_toxicocalamus_longissimus",
+      "started_at": "2026-11-20T09:14:46.734878+00:00",
+      "downloaded": 0,
+      "discovery": {
+        "species": "Toxicocalamus longissimus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 0,
+        "observations_examined": 0,
+        "candidates_selected": 0
+      },
+      "photo_filter_diagnostics": {},
+      "selected": 0,
+      "status": "skipped_no_licensed_observations",
+      "notes": "0 observations matched the research-grade / licensed-photo query; no photo candidates passed all selection filters in the inspected sample."
+    },
+    "Trimeresurus albolabris": {
+      "species": "Trimeresurus albolabris",
+      "lookup_name": "Trimeresurus albolabris",
+      "batch": "pilot_136_trimeresurus_albolabris",
+      "started_at": "2026-11-20T09:14:49.472364+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Trimeresurus albolabris",
+        "status": "metadata_checked",
+        "eligible_observations_available": 247,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 20
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 9120285,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:15:08.712506+00:00"
+    },
+    "Trimeresurus insularis": {
+      "species": "Trimeresurus insularis",
+      "lookup_name": "Trimeresurus insularis",
+      "batch": "pilot_137_trimeresurus_insularis",
+      "started_at": "2026-11-20T09:15:09.928308+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Trimeresurus insularis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 50,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 27
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11934511,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:15:29.485973+00:00"
+    },
+    "Trimeresurus puniceus": {
+      "species": "Trimeresurus puniceus",
+      "lookup_name": "Craspedocephalus puniceus",
+      "batch": "pilot_138_trimeresurus_puniceus",
+      "started_at": "2026-11-20T09:15:30.695468+00:00",
+      "downloaded": 9,
+      "discovery": {
+        "species": "Trimeresurus puniceus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 6,
+        "observations_examined": 6,
+        "candidates_selected": 9
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 29
+      },
+      "selected": 9,
+      "download_errors": [],
+      "observation_groups": 6,
+      "bytes_downloaded": 12169582,
+      "status": "downloaded_partial",
+      "notes": "Only 9 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:15:48.148207+00:00"
+    },
+    "Trimeresurus purpureomaculatus": {
+      "species": "Trimeresurus purpureomaculatus",
+      "lookup_name": "Trimeresurus purpureomaculatus",
+      "batch": "pilot_139_trimeresurus_purpureomaculatus",
+      "started_at": "2026-11-20T09:15:49.357232+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Trimeresurus purpureomaculatus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 39,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 30
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11674682,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:16:08.714123+00:00"
+    },
+    "Trimeresurus stejnegeri": {
+      "species": "Trimeresurus stejnegeri",
+      "lookup_name": "Trimeresurus stejnegeri",
+      "batch": "pilot_140_trimeresurus_stejnegeri",
+      "started_at": "2026-11-20T09:16:09.923528+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Trimeresurus stejnegeri",
+        "status": "metadata_checked",
+        "eligible_observations_available": 282,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 25
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11173566,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:16:29.140542+00:00"
+    },
+    "Trimeresurus wiroti": {
+      "species": "Trimeresurus wiroti",
+      "lookup_name": "Craspedocephalus wiroti",
+      "batch": "pilot_141_trimeresurus_wiroti",
+      "started_at": "2026-11-20T09:16:30.349807+00:00",
+      "downloaded": 5,
+      "discovery": {
+        "species": "Trimeresurus wiroti",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 5
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 5
+      },
+      "selected": 5,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 6866493,
+      "status": "downloaded_partial",
+      "notes": "Only 5 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:16:40.821111+00:00"
+    },
+    "Tropidolaemus wagleri": {
+      "species": "Tropidolaemus wagleri",
+      "lookup_name": "Tropidolaemus wagleri",
+      "batch": "pilot_142_tropidolaemus_wagleri",
+      "started_at": "2026-11-20T09:16:42.030428+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Tropidolaemus wagleri",
+        "status": "metadata_checked",
+        "eligible_observations_available": 135,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 38,
+        "license_not_allowed": 2,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 7742243,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:17:01.139489+00:00"
+    },
+    "Vipera aspis": {
+      "species": "Vipera aspis",
+      "lookup_name": "Vipera aspis",
+      "batch": "pilot_143_vipera_aspis",
+      "started_at": "2026-11-20T09:17:02.349115+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Vipera aspis",
+        "status": "metadata_checked",
+        "eligible_observations_available": 380,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 48,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 13837340,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:17:22.495489+00:00"
+    },
+    "Vipera berus": {
+      "species": "Vipera berus",
+      "lookup_name": "Vipera berus",
+      "batch": "pilot_144_vipera_berus",
+      "started_at": "2026-11-20T09:17:23.702122+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Vipera berus",
+        "status": "metadata_checked",
+        "eligible_observations_available": 1837,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 26,
+        "too_small_or_dimensions_missing": 2
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 11489532,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:17:44.757473+00:00"
+    },
+    "Vipera kaznakovi": {
+      "species": "Vipera kaznakovi",
+      "lookup_name": "Vipera kaznakovi",
+      "batch": "pilot_145_vipera_kaznakovi",
+      "started_at": "2026-11-20T09:17:45.965691+00:00",
+      "downloaded": 5,
+      "discovery": {
+        "species": "Vipera kaznakovi",
+        "status": "metadata_checked",
+        "eligible_observations_available": 3,
+        "observations_examined": 3,
+        "candidates_selected": 5
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 6
+      },
+      "selected": 5,
+      "download_errors": [],
+      "observation_groups": 3,
+      "bytes_downloaded": 7254746,
+      "status": "downloaded_partial",
+      "notes": "Only 5 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:17:56.514101+00:00"
+    },
+    "Vipera nikolskii": {
+      "species": "Vipera nikolskii",
+      "lookup_name": "Vipera nikolskii",
+      "batch": "pilot_146_vipera_nikolskii",
+      "started_at": "2026-11-20T09:17:57.723359+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Vipera nikolskii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 38,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 31
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 21578313,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:18:18.808373+00:00"
+    },
+    "Vipera orlovi": {
+      "species": "Vipera orlovi",
+      "lookup_name": "Vipera orlovi",
+      "batch": "pilot_147_vipera_orlovi",
+      "started_at": "2026-11-20T09:18:20.018379+00:00",
+      "downloaded": 3,
+      "discovery": {
+        "species": "Vipera orlovi",
+        "status": "metadata_checked",
+        "eligible_observations_available": 2,
+        "observations_examined": 2,
+        "candidates_selected": 3
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 4,
+        "too_small_or_dimensions_missing": 1
+      },
+      "selected": 3,
+      "download_errors": [],
+      "observation_groups": 2,
+      "bytes_downloaded": 5000720,
+      "status": "downloaded_partial",
+      "notes": "Only 3 of the target 10 candidates downloaded from this sample. ",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:18:27.065840+00:00"
+    },
+    "Vipera renardii": {
+      "species": "Vipera renardii",
+      "lookup_name": "Vipera renardi",
+      "batch": "pilot_148_vipera_renardii",
+      "started_at": "2026-11-20T09:18:28.275490+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Vipera renardii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 210,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 31
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 19033934,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:18:49.525420+00:00"
+    },
+    "Vipera ursinii": {
+      "species": "Vipera ursinii",
+      "lookup_name": "Vipera ursinii",
+      "batch": "pilot_149_vipera_ursinii",
+      "started_at": "2026-11-20T09:18:50.735585+00:00",
+      "downloaded": 10,
+      "discovery": {
+        "species": "Vipera ursinii",
+        "status": "metadata_checked",
+        "eligible_observations_available": 74,
+        "observations_examined": 20,
+        "candidates_selected": 10
+      },
+      "photo_filter_diagnostics": {
+        "photos_examined": 57
+      },
+      "selected": 10,
+      "download_errors": [],
+      "observation_groups": 10,
+      "bytes_downloaded": 14969144,
+      "status": "downloaded_target",
+      "notes": "10 candidates downloaded; visual and species review pending.",
+      "review_gallery": "ready",
+      "finished_at": "2026-11-20T09:19:13.264802+00:00"
+    }
+  },
+  "updated_at": "2026-11-20T09:23:04.181337+00:00",
+  "attempted": 140,
+  "downloaded": 1073,
+  "status_counts": {
+    "downloaded_target": 91,
+    "downloaded_partial": 37,
+    "skipped_no_licensed_observations": 11,
+    "skipped_taxon_unresolved": 1
+  },
+  "remaining": 0
+}

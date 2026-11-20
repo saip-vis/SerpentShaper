@@ -1,0 +1,13 @@
+{
+  "run_at": "2026-11-20T09:18:21.760129+00:00",
+  "results": [
+    {
+      "species": "Vipera orlovi",
+      "status": "metadata_checked",
+      "eligible_observations_available": 2,
+      "observations_examined": 2,
+      "candidates_selected": 3
+    }
+  ],
+  "note": "Bounded, cached sample; not exhaustive or visually verified. Sources overlap with SnakeCLEF."
+}

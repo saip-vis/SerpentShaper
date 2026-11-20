@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-20",
+  "automated_tests_passed": 17,
+  "real_manifests_unchanged_during_qa": 149,
+  "checks": [
+    "saved review persists after browser reload",
+    "undo restores previous review and export",
+    "injury acceptance blocked",
+    "reference-only exception excluded from export",
+    "keyboard flagging and auto-advance",
+    "flagged filter",
+    "empty species shows collection reason",
+    "large original preview bounded to 1600x1124",
+    "desktop and mobile layouts fit viewport",
+    "original image checksums verified"
+  ],
+  "browser_save_tests": "isolated temporary dataset only",
+  "preview": "reports/image_review/interface_preview.jpg"
+}
