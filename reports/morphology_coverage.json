@@ -1,0 +1,48 @@
+{
+  "catalog_labels": 174,
+  "workbook_matches": 170,
+  "with_descriptive_traits": 149,
+  "starter_references": 4,
+  "coverage_statuses": {
+    "descriptive_reference": 145,
+    "compilation_only": 23,
+    "unresolved_reference": 2,
+    "starter_reference": 4
+  },
+  "unmatched_workbook_labels": [
+    "Bothrops colombiensis",
+    "Calliophis bivirgata",
+    "Macrovipera mauritanica",
+    "Thamnodynastes strigatus"
+  ],
+  "with_juvenile_statistic_conflict": 7,
+  "compilation_only_labels": [
+    "Bothrocophias campbelli",
+    "Bothrops ayerbei",
+    "Bothrops barnetti",
+    "Bothrops insularis",
+    "Bothrops neuwiedi",
+    "Bungarus sindanus",
+    "Cerberus rynchops",
+    "Conophis lineatus",
+    "Crotalus basiliscus",
+    "Crotalus culminatus",
+    "Crotalus durissus",
+    "Crotalus tigris",
+    "Deinagkistrodon acutus",
+    "Echis coloratus",
+    "Gloydius brevicaudus",
+    "Metlapilcoatlus nummifer",
+    "Micrurus browni",
+    "Micrurus spixii",
+    "Naja melanoleuca",
+    "Porthidium lansbergii",
+    "Toxicocalamus longissimus",
+    "Vipera anatolica",
+    "Vipera renardii"
+  ],
+  "unresolved_reference_labels": [
+    "Bothrops colombiensis",
+    "Macrovipera mauritanica"
+  ]
+}

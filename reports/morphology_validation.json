@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "new_tests_passed": 5,
+  "species_catalog_regression_tests_passed": 3,
+  "profiles": 174,
+  "input_fingerprints_verified": true,
+  "catalog_ids_unique": true,
+  "pilot_links_verified": true,
+  "manual_image_reviews_changed": false,
+  "limitation": "Reference coverage varies; see morphology_coverage.json."
+}

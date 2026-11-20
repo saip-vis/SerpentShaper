@@ -28,3 +28,7 @@ The [image review policy](config/image_review_policy.json) excludes injury/defor
 Run the audit with `python3 scripts/audit_sources.py` from this folder. It reads the downloaded files and writes the JSON audit. The download scripts make network requests; they are retained for provenance and are not needed to read the data.
 
 Original files remain unchanged. The processed workbook tables preserve source values and separate records requiring review. They have not been normalized, merged with other sources, or analyzed with ML or correlations.
+
+For species-level venom/image links, run `python3 scripts/build_species_catalog.py`. See [the species catalog guide](docs/SpeciesCatalog.md) for the JSON structure, coverage and limitations.
+
+For physical characteristics across the species catalog, see [physical reference profiles](docs/PhysicalProfiles.md) and the [complete species outline](docs/physical_profiles/AllSpeciesPhysicalProfiles.md). Rebuild the JSON export with `python3 scripts/build_physical_profiles.py`.

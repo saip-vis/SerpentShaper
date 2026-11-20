@@ -1,0 +1,43 @@
+{
+  "status": "literature_reference_only",
+  "reviewed_on": "2026-11-20",
+  "profile_document": "docs/StarterSpeciesPhysicalProfiles.md",
+  "species": [
+    {
+      "species_id": "source_e118ec6ca1495b09",
+      "source_species_name": "Naja naja",
+      "pilot_folders": [
+        "data/image_pilots/pilot_001_spectacled_cobra"
+      ],
+      "numerical_shape_ratios": null,
+      "venom_trait_mapping": null
+    },
+    {
+      "species_id": "source_e5ebffd298c4b05c",
+      "source_species_name": "Oxyuranus scutellatus",
+      "pilot_folders": [
+        "data/image_pilots/pilot_002_coastal_taipan"
+      ],
+      "numerical_shape_ratios": null,
+      "venom_trait_mapping": null
+    },
+    {
+      "species_id": "source_f6ff95ec9c29f153",
+      "source_species_name": "Dendroaspis polylepis",
+      "pilot_folders": [
+        "data/image_pilots/pilot_003_black_mamba"
+      ],
+      "numerical_shape_ratios": null,
+      "venom_trait_mapping": null
+    },
+    {
+      "species_id": "source_99757be7d95046fb",
+      "source_species_name": "Crotalus atrox",
+      "pilot_folders": [
+        "data/image_pilots/pilot_004_western_diamondback"
+      ],
+      "numerical_shape_ratios": null,
+      "venom_trait_mapping": null
+    }
+  ]
+}
