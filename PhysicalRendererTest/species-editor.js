@@ -18,7 +18,7 @@ $('modelNotes').replaceChildren();for(const text of p.evidence.modeling_observat
   $('sourceLinks').replaceChildren();
   for(const r of p.evidence.sources.filter(r=>r.url)) {const a=document.createElement('a');a.href=r.url;a.textContent=new URL(r.url).hostname;a.target='_blank';a.rel='noopener noreferrer';$('sourceLinks').append(a,document.createElement('br'));}
   $('width').disabled=art.body_plan!=='cobra';
-  const markEnabled=(art.pattern!=='plain'||art.ventrolateral_stripe) && (surface==='dorsal'||['rings','coral_triads'].includes(art.pattern));
+  const markEnabled=(art.pattern!=='plain'||art.ventrolateral_stripe) && (surface==='dorsal'||['rings','coral_triads','band_sequence'].includes(art.pattern));
   $('ringSize').disabled=!markEnabled||['plain','edged_scales','reticulated','speckled'].includes(art.pattern);$('ringColor').disabled=!markEnabled;
   $('hood').textContent=art.body_plan==='cobra'?'Hood detail':'Head detail';
   for(const [id,on] of [['back',surface==='dorsal'],['front',surface==='ventral'],['full',framing==='full'],['hood',framing==='hood']])$(id).setAttribute('aria-pressed',String(on));

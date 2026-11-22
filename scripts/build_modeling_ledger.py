@@ -18,7 +18,8 @@ def main():
  summary={status:sum(r['status']==status for r in rows) for status in sorted({r['status'] for r in rows})}
  counts={'catalog_source_labels':len(rows),'editable_draft_presets':len(presets),
          'source_labels_without_presets':sum(r['preset_id'] is None for r in rows),
-         'pending_visual_review':summary.get('pending_visual_review',0)+summary.get('unreviewed_starter',0),
+         'pending_visual_review':summary.get('pending_visual_review',0)+summary.get('unreviewed_starter',0)+summary.get('initial_model_awaiting_refinement',0),
+         'initial_models_awaiting_refinement':summary.get('initial_model_awaiting_refinement',0),
          'unreviewed_starter_presets':summary.get('unreviewed_starter',0)}
  target.write_text(json.dumps({'policy':'A photo count is not a reviewed angle. Draft presets are not validated anatomy. Pending species are not analyzed or modeled.','counts':counts,'summary':summary,'species':rows},indent=2,ensure_ascii=False)+'\n')
  print(summary)

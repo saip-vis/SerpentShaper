@@ -41,11 +41,11 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/austrelaps_labialis.json",
-      "sha256": "f050178f4300a9d6a2bf7c977a9da79b91659e07f1fda863aa1207a80afda396"
+      "sha256": "c49156f55d4a978a0272a28b0983da930a7f2f569ff7b04a171a3d9db3ce4389"
     },
     {
       "path": "config/species_presets/azemiops_feae.json",
-      "sha256": "b99ae2e31c964d272d67e568f1534dd744b33efed1b7fc37573a593944aa106c"
+      "sha256": "de3645fda358fbc66a77eb262e518a07333151ae5dbdf590e9688e23b2eae266"
     },
     {
       "path": "config/species_presets/bitis_arietans.json",
@@ -65,11 +65,11 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/boiga_irregularis.json",
-      "sha256": "e00ee4962d4eddb676490966f198209c6b7640e255d873fbc7ed52bb65528f8c"
+      "sha256": "b83ab229f86f80dcc1819d9c2b09903eaeeaaa7b523174b627bae57d75715060"
     },
     {
       "path": "config/species_presets/borikenophis_portoricensis.json",
-      "sha256": "8abd162b56ad8d9b1002824c450cb5a6b41b369e8e6eae4ac7a12e2e8e0976df"
+      "sha256": "9a26b68382ab2b7a388e2583b5e74870591be74a6fa4f65acc3be6819826b188"
     },
     {
       "path": "config/species_presets/bothriechis_aurifer.json",
@@ -97,7 +97,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bothriechis_thalassinus.json",
-      "sha256": "8cc4c84a7ab2191a5f72cbf37d120f809aa908fc3cb75dd92bdd697d2bff0637"
+      "sha256": "900734704687df26629fdee079f7470c34893143d1ceee2ff408492d7e055787"
     },
     {
       "path": "config/species_presets/bothrocophias_campbelli.json",
@@ -117,11 +117,11 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bothrops_ayerbei.json",
-      "sha256": "4ee2f52124003aa46893c454f68df590839ead7ec9900b1980dba3f407d3451d"
+      "sha256": "3357eb40b4835f79547ed2a2fc5a4e3298c0abee204cbebce8786fb33d23864d"
     },
     {
       "path": "config/species_presets/bothrops_barnetti.json",
-      "sha256": "d2a986aedf51c9bfab84ccef09548aa5d4984625e900d0958f9001830bbce44a"
+      "sha256": "f46ee9baca0e908cbbc2021559d41726c4457ff2ba009e603e9b127bae3eda7b"
     },
     {
       "path": "config/species_presets/bothrops_caribbaeus.json",
@@ -129,11 +129,11 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bothrops_colombiensis.json",
-      "sha256": "fdf076f966da6687aeba5da328d5a07a8bf63d0916653ceffee9b226831bf5db"
+      "sha256": "14a3164f475fae7ed1ab68845413d2d870c78d24caadad7a2a1449fd1c9b63cd"
     },
     {
       "path": "config/species_presets/bothrops_cotiara.json",
-      "sha256": "ab5e51a3e3b0ee2f6a1ae82846d7a79b56af48b2026d23f2b1ff3e0295ee8c99"
+      "sha256": "efd91d52689d09651ef7be0f30b71915da8c80617142101fb37c9d345f07fa97"
     },
     {
       "path": "config/species_presets/bothrops_diporus.json",
@@ -145,7 +145,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bothrops_fonsecai.json",
-      "sha256": "892ad9073ddbd92091f02128ff31867bd6f4a31796f2aab502d0cd710430bb0f"
+      "sha256": "e499a3d95284aa16f172b4c46fb6611e98251cd12225680313493476b9ae905f"
     },
     {
       "path": "config/species_presets/bothrops_insularis.json",
@@ -153,7 +153,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bothrops_jararaca.json",
-      "sha256": "117a4773740481f6ed860c8f897279c8654bca54fc6e83e8007d3cc095753151"
+      "sha256": "8dc191d1e8a63dbcb98aae2a49c1fcb8d564c351862bb72fa0d302ecde8a2214"
     },
     {
       "path": "config/species_presets/bothrops_jararacussu.json",
@@ -161,7 +161,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bothrops_lanceolatus.json",
-      "sha256": "5b34fd0ecc57c08ff3706c49f2f89268d399e1ec6d3c1b01ee548d380cc0e6a7"
+      "sha256": "53fc3fe5145bb8a11cc29872caebbe33cb9be4f5924b9d0848d434439e93ba75"
     },
     {
       "path": "config/species_presets/bothrops_leucurus.json",
@@ -169,7 +169,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bothrops_moojeni.json",
-      "sha256": "543609eaa3249e2b5b2ea856fbd6fe46b44260a083d0fb0ceb2d0b9bcef17207"
+      "sha256": "405003a3ccdb96450e4a3d0a2fbcaaae194e9f60f191fa7e3ca89145cd9a663d"
     },
     {
       "path": "config/species_presets/bothrops_neuwiedi.json",
@@ -181,11 +181,11 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bothrops_pictus.json",
-      "sha256": "971a2aa9c4f8af83bf0d28756db8e96c0d09924f51d039586334565832b0729c"
+      "sha256": "d72002c3d1cdac097f69705dd37681f48651639b0a4c435ae9302f9734e3ce8a"
     },
     {
       "path": "config/species_presets/bothrops_pirajai.json",
-      "sha256": "fbf06de2086069174c5e426247964ea2465aedf7d9d7b4cb7497fea7f1d26dea"
+      "sha256": "d9ef0da30ed31e2098f819f2f39bdebc785183731e9f3436b90b9226f19863fa"
     },
     {
       "path": "config/species_presets/bothrops_punctatus.json",
@@ -213,19 +213,19 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/bungarus_sindanus.json",
-      "sha256": "e44e4ab63a2faa6f2cbca92f2e45b5f827e18989eb9846c2b60f24f203d441e8"
+      "sha256": "29e4e768d6778d66ff55d874a79562f7feca16087f3401c835d2ea5448385919"
     },
     {
       "path": "config/species_presets/calliophis_bivirgata.json",
-      "sha256": "26a16e31aaa4964ffbe203c5ccab4d311ab32d68386a4b30a510a3565d84f51e"
+      "sha256": "aa59ed02a55661a6f1b9958db969f9cc469db4f65b8e380058f5a3a36257ecbd"
     },
     {
       "path": "config/species_presets/calliophis_intestinalis.json",
-      "sha256": "9170be34382c7e29d0c54535c52a934c27b511b36fbdeeec6c688cf998547dd3"
+      "sha256": "367953ba8309d25890133890d6bcb1372bde5b6ab7d868a184f529de03346727"
     },
     {
       "path": "config/species_presets/calloselasma_rhodostoma.json",
-      "sha256": "5cb824bb26c798cac98ded87f9fc0ad3b62d98a374d41454ab28aa31e5b6e73e"
+      "sha256": "cbc741f141ee609668375d917ecef42ca18815cf5eee63edb92734718f8570a9"
     },
     {
       "path": "config/species_presets/cerastes_cerastes.json",
@@ -237,7 +237,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/cerberus_rynchops.json",
-      "sha256": "4fe6cdd7ee4b8da6c7e871602a8b72d1e3dcf14af42d6ce754fe093006d65eaa"
+      "sha256": "a0d1890a435b2a5eae55fd1e8d57db19dc2b4ad080b292188bfaef270340c98f"
     },
     {
       "path": "config/species_presets/cerrophidion_godmani.json",
@@ -249,7 +249,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/conophis_lineatus.json",
-      "sha256": "7c4bc6e3fbe85fcddc5025a6eaf4688a72578399c753071fdc72949e3c7473fa"
+      "sha256": "ea2de2940d12e7fd641f5b2ec4fb15005122151b1e7bf10a32ad56482df38888"
     },
     {
       "path": "config/species_presets/crotalus_adamanteus.json",
@@ -333,7 +333,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/drysdalia_coronoides.json",
-      "sha256": "9c9a436378c4f80e96fb2d7e8749ab1bc1f8b2ba5509184063d58fa691ecf571"
+      "sha256": "df4a14aa80bec9d56aef8d25cf8d59cfd970e0c8e6727f710d2e6beb7d78062e"
     },
     {
       "path": "config/species_presets/echis_carinatus.json",
@@ -341,15 +341,15 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/echis_coloratus.json",
-      "sha256": "3e07093a71e66e1a9d99e9367cc746631e7544b9eff74993bb97372388d26158"
+      "sha256": "d4623fd2b6ed0b17ddcac9c621bfdf3f931d74f617d24f4f4651a4599565e0d5"
     },
     {
       "path": "config/species_presets/echis_ocellatus.json",
-      "sha256": "e8803990742ed09fd1009d68fadd542afe881c6910a8a457beb28f2f57c2e653"
+      "sha256": "175cd9130703abd9d63281edcdd6a1c7d09d9c46351b788d38ce2495f8aa7c3c"
     },
     {
       "path": "config/species_presets/echis_pyramidum.json",
-      "sha256": "f455c101e5626f9f8d61f3b7df965de03a250be05969a9cdd87e9b434f0d1aa5"
+      "sha256": "6de87c9a494ece2bed504a9e6a3b621a586121f2c36c83f48494931f8a12ac2c"
     },
     {
       "path": "config/species_presets/gloydius_brevicaudus.json",
@@ -365,7 +365,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/hydrophis_cyanocinctus.json",
-      "sha256": "1ed87243c3ec61ba782da4a28b19553bde6f9e7e595516c1cf1e369fde8b1574"
+      "sha256": "81ea033b224a973a6e6841c273b91eac7971bf0ababec1fa698f86c8f449be0e"
     },
     {
       "path": "config/species_presets/hydrophis_platurus.json",
@@ -401,51 +401,51 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/macrovipera_lebetina.json",
-      "sha256": "94be11353e6f3923365e530277a05eaaa535e1fdab12219d38dd408bbbaf2e1b"
+      "sha256": "f66705b656d988bdf328b45663d41f230ae343b872c42dd8b304e53201477e17"
     },
     {
       "path": "config/species_presets/macrovipera_mauritanica.json",
-      "sha256": "c8c0ea62d6b28e54620514d9de53a61e40eb5f4d3dfe410454a97af53d451919"
+      "sha256": "0edb5d845e26f64757386533ac3480bbbc0e9bdf9d001fed426b4cbbcc6e6c7c"
     },
     {
       "path": "config/species_presets/metlapilcoatlus_nummifer.json",
-      "sha256": "4b6cb23ff04065a5517643174971a6299fc6526fbcb0b2551950d1ba58f1bb86"
+      "sha256": "681ff9744a0044eb88954b934d0ff19cb7e22cc3c59c9955c847deb3b4df19a0"
     },
     {
       "path": "config/species_presets/micropechis_ikaheka.json",
-      "sha256": "4bf60eac54a06e6751fabd31c910f63b8c9fc84c0267bbfcda4975336a64b409"
+      "sha256": "1e5e7ce43567d2a105b80f1de374237d17cea517a0a8d1d84d9543b4b85e0f22"
     },
     {
       "path": "config/species_presets/micrurus_alleni.json",
-      "sha256": "89744692ebf5b5226fe794e284eb4dd7bf38a83480bed6f89522563ca3d225fc"
+      "sha256": "cbe2d3bf7e256f659c0d5c1db33378a65620cd81a16a22172fb7e0b1d3605a7a"
     },
     {
       "path": "config/species_presets/micrurus_altirostris.json",
-      "sha256": "50f3d03133554762fe91fc2eda124bb609f68b58412995bb24ba4b14d42524e4"
+      "sha256": "1b95a2ba2e2175e14a37cdf2033643dc17d78b99a40ceded1ef5e5a0e24b65eb"
     },
     {
       "path": "config/species_presets/micrurus_browni.json",
-      "sha256": "76010929eae10e90a741a12e4f5ce52be3d1d9187e2ff421f286699cf26b6d16"
+      "sha256": "836567bfa50ba7323b9246b5983885104192a25ea76f4fda72eaf49b47d0e66b"
     },
     {
       "path": "config/species_presets/micrurus_clarki.json",
-      "sha256": "20eb421e167e5c50c5635d80df65bc8b7ba41975bea4a541f11490cb53a7c4c5"
+      "sha256": "d59c5765a9d09f5b24d7e79cc98ed4c26321848173dbe26b6d5e1ac745a494a7"
     },
     {
       "path": "config/species_presets/micrurus_corallinus.json",
-      "sha256": "03e0e5ed2a00233d2d1567a0dcdce356349cfc745c19528d19226924da593a06"
+      "sha256": "9625fba2008538e95c90ff19c4a56e00b34c89cca02860842637f866609a04e0"
     },
     {
       "path": "config/species_presets/micrurus_dumerilii.json",
-      "sha256": "01854bb884880843e27f87f939e56eac1cf6953a5b06e3f08205fe53271462cb"
+      "sha256": "a4439c1801a0e2b4ee7bf8ecdb9c83f1ec6ff5d444637ad69ee31e1f59fe3472"
     },
     {
       "path": "config/species_presets/micrurus_frontalis.json",
-      "sha256": "311f04f9be0d2f21ddcb5e421426cb4927b707f4a12aab2061de8fe02fbbdc03"
+      "sha256": "d4c94223eafb8d15af0a1dadaa4ade482f91ae5fe88ba8344d96927f06605db0"
     },
     {
       "path": "config/species_presets/micrurus_fulvius.json",
-      "sha256": "ec014c2d499c0856ef6d3e458a4e2c7ad1ca28e5dd607e48d08317d9dfbe789e"
+      "sha256": "dda25b10ff0859f16cca1d4330d1f05aba5a127f9ad09f76846c048f9cbd887b"
     },
     {
       "path": "config/species_presets/micrurus_lemniscatus.json",
@@ -453,35 +453,35 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/micrurus_mipartitus.json",
-      "sha256": "ab58085429205567a276757cb74446bdb23f4ea7546852e974c625e89a7d6c1d"
+      "sha256": "c6a736c6c54bd602bf5a2c47e7f9befe04f337bef6555ef3f83584853f970da1"
     },
     {
       "path": "config/species_presets/micrurus_mosquitensis.json",
-      "sha256": "2dff893e1a9bf8ab8c12a413dc4b6d1af43cf109d17fe9610e113ed75f0fd808"
+      "sha256": "b0a974d95aad39b5e69e721edae57c8a58633428f2f0d17ab981f5a0ad5e830b"
     },
     {
       "path": "config/species_presets/micrurus_nigrocinctus.json",
-      "sha256": "ddf0c1c7bcd59755c2f3b5a3d5ecc1e3497a3fa4f0ecdbd25927186028a4e160"
+      "sha256": "fb7e49634ed7dff547ab131a3b78a6bd2a3d06ea2d058828444ceed42612e790"
     },
     {
       "path": "config/species_presets/micrurus_paraensis.json",
-      "sha256": "8388cc5ad4797a9068865c0d5763c4b5f53d18e3e723c6d3bff0767c8512fb2b"
+      "sha256": "3edc467ec3add4723a3c764c855776a1aa1f8d2dbfa07230c337660468ecbbe5"
     },
     {
       "path": "config/species_presets/micrurus_spixii.json",
-      "sha256": "653c56b7c8cb92324dad35a49c5d1e7aebdcfa7a587c74b4c8c6083f154ff84c"
+      "sha256": "25083dde917a034cfc0ffab5beefeee911c6ac4e44551f3bc1ce30b5f21f5b82"
     },
     {
       "path": "config/species_presets/micrurus_surinamensis.json",
-      "sha256": "db4b4995dbd65d6066f44d77a389fb13023463dfa903bc5ab750ee6dd8f886c7"
+      "sha256": "37c2eb4d873fd0284a3715041cdba9001da4955f753022a5d9e68b5c35b49325"
     },
     {
       "path": "config/species_presets/micrurus_tschudii.json",
-      "sha256": "2187f0577a22aaa424c71e2ed21e61f6edbb2573e1d18488c222338b6fd840fe"
+      "sha256": "6db59bef05eb73ac6b8fbe2d5c49fd9eaead405e5a5d6826792e7488892503ac"
     },
     {
       "path": "config/species_presets/montivipera_raddei.json",
-      "sha256": "cb9517906c40326b882a649c2c97b8e080547f724bbdd1a279dba1b4c581f7d2"
+      "sha256": "0eca0d4d3c2480a41001d4a62453b75c6da60583be5794c35f9e452a37de74c0"
     },
     {
       "path": "config/species_presets/naja_annulifera.json",
@@ -501,7 +501,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/naja_katiensis.json",
-      "sha256": "e177239e4d50d987a598509b37e3ca4baff39757c2437175209301987a601b23"
+      "sha256": "507d2882cfdbf981bda754df00c1b3c44bcdf768dbe4a01a7a6ae5f8a242c6ba"
     },
     {
       "path": "config/species_presets/naja_melanoleuca.json",
@@ -521,7 +521,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/naja_nubiae.json",
-      "sha256": "23d9e31779728ab111486bbeb656dcc014d4e1da9cf773ca5825ab72c8041abb"
+      "sha256": "8430375d160d2dada24a92972ffe90941c5434b336ea1c0a2471a5fdba438812"
     },
     {
       "path": "config/species_presets/naja_pallida.json",
@@ -533,7 +533,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/notechis_scutatus.json",
-      "sha256": "021cf777fce1b0534c17164b87d744eadd72ba4d93cec14291545f167e84c8ff"
+      "sha256": "16bee7d390ed5ee38985ec563b2bc9f3dc358afddfc3118077141235041f4346"
     },
     {
       "path": "config/species_presets/ophiophagus_hannah.json",
@@ -541,23 +541,23 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/ophryacus_sphenophrys.json",
-      "sha256": "376343ae43f894e58c84a59a82c7f2acbb7b6cc7237fd4f335db14d2b57693ce"
+      "sha256": "d5429ad7e8ab91114dc6d2c0b13b1cadb4349978de1622ef9e1e63d1024dbd5c"
     },
     {
       "path": "config/species_presets/ovophis_convictus.json",
-      "sha256": "c6da6c05b7e0e45f785395503bebbaf840f919012b3e4dc97c434c27de64f95f"
+      "sha256": "d7035e739fdbeb0a964c77af110d7a1ee2a9588a5750836cc4a14fc9e5a0c823"
     },
     {
       "path": "config/species_presets/ovophis_monticola.json",
-      "sha256": "8e8fee145e70696a16f51173c0c3d3dc2eb51e1b668ab5dc8ac5da09f343f72a"
+      "sha256": "6b15b005163efcd2c5e978de651dba94276c25ae36fc98e9a11b217367a3a65d"
     },
     {
       "path": "config/species_presets/ovophis_okinavensis.json",
-      "sha256": "5c14de2bcc33cb150296f96b74377d8be936ad41b942ad0cecfdaf65b581a318"
+      "sha256": "8356d99435f9d23ff23c9350cd99b2856d6ba84405c5a844ad5d9e1db7523248"
     },
     {
       "path": "config/species_presets/ovophis_tonkinensis.json",
-      "sha256": "72cf8c62289695aed5f9e94445691f444d3390e48b3efa5b9f862ee3878ac708"
+      "sha256": "f3242f77291ed2e7e678f6089e87779565cf6e31c6861eaac7e78cf9dcd1cbc7"
     },
     {
       "path": "config/species_presets/oxyuranus_scutellatus.json",
@@ -565,111 +565,111 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/philodryas_olfersii.json",
-      "sha256": "1bbf22873f11e347cc72c847fa160535912534ab8bb4656edad339d5684f70b3"
+      "sha256": "14fcfb699e6bf7590df000e7455bc788d220c2e6b05fc2fb4c7d7d13301642eb"
     },
     {
       "path": "config/species_presets/porthidium_lansbergii.json",
-      "sha256": "381a84c33f0468cf7ccc84165389aa724132f151dd9f686ac38b9d369110efcd"
+      "sha256": "31b2ab8cd11bd8bdbaf9a3df11a2687df8f65b7732f24e06abf74fe9bb9c05ca"
     },
     {
       "path": "config/species_presets/porthidium_nasutum.json",
-      "sha256": "a555269f9146fd40b34ea483c31b98590d486ef03a4eb1aecea1546e9e763570"
+      "sha256": "c91c9abe11435faa9694aa20a1cb560de41c9dad1f3aebce7f87d4dc65a14d41"
     },
     {
       "path": "config/species_presets/porthidium_ophryomegas.json",
-      "sha256": "c94625a8010835cae4dccc40a47ed3d60142883886d3f8f1ce0790c3036557e2"
+      "sha256": "172291340f63d35935e03a7e23c9abbd85927eacb2be295025df4b96ee127484"
     },
     {
       "path": "config/species_presets/porthidium_porrasi.json",
-      "sha256": "cbfa04717024dd5ddf9f354f18de66a2af01e460f584dbd9ab3ac3f0ea5fdb7a"
+      "sha256": "5fa382448edf9a9eab17ce178aa2ab5b3625ac2fc9efd39b522e0c1a8aa04f4a"
     },
     {
       "path": "config/species_presets/protobothrops_flavoviridis.json",
-      "sha256": "0238572cf626ea0d7ac33bce461033d670db340d49986454f9d073a42885cc67"
+      "sha256": "4009b2d5f351b813249125f19520a0c84e18528134709698be1b2e7407247889"
     },
     {
       "path": "config/species_presets/protobothrops_kelomohy.json",
-      "sha256": "b0b1ff6a3e3fb194c142244fd7094b957c585459cabac0c86e9d95b717fe91f8"
+      "sha256": "95c12981aca6b9bcade098f740e5339d0a867b48a5cd7e0eb05fc8f8214dc3f9"
     },
     {
       "path": "config/species_presets/protobothrops_mucrosquamatus.json",
-      "sha256": "d337bddb0d95c563f1d3ef20309b274cb70fe19b81c36011439b38a015010bf3"
+      "sha256": "4f58b8c49df9092dc9e4995171d49ef15c861bdcfaa80f685d3dfaceee9042e2"
     },
     {
       "path": "config/species_presets/pseudechis_australis.json",
-      "sha256": "358fea6d0a97e4a4bcda8b0743d7dc3d320bf7d460dabb5b4286bddec3a5db26"
+      "sha256": "076a245d0a82761da5fb8292c7ea6f5b877f42817bc95c80c7cd517af9c9210e"
     },
     {
       "path": "config/species_presets/pseudechis_papuanus.json",
-      "sha256": "852bff9cbe4fe8f2b18727a52f59a76fb7f405fd4ff3520194903868e4233f0d"
+      "sha256": "f8326ec7f8b5e91d2d273b3e483bdba4aba65cbe4857f7d87d528d52ac2ae8bf"
     },
     {
       "path": "config/species_presets/rhinobothryum_bovallii.json",
-      "sha256": "2ee9b1ba86db5b82b445db9bb6efc3c0287ecc11fa460b445791b952a4a64392"
+      "sha256": "9943c0c7c3707b445be8de7f7d0d8aae4ca44d293c5011017c07bc0ea12c7059"
     },
     {
       "path": "config/species_presets/sistrurus_catenatus.json",
-      "sha256": "fa3f58b8631ea233fae1b2fd92d05a6562ed03b72063940fa74c2d2af47b73e9"
+      "sha256": "a2c6a5dbcaa0760266c64f4d9a18c46b70920408c2bec25aae1828a110551179"
     },
     {
       "path": "config/species_presets/sistrurus_miliarius.json",
-      "sha256": "e4e28333fcf3c3a69396683802d010ac6e2feebca1c8f057e6152ed9b2807d24"
+      "sha256": "8ea33647ff6978ce541a0834af0ce6de76a2a11a4a283215ab7cb2f6c7903e1e"
     },
     {
       "path": "config/species_presets/tantilla_nigriceps.json",
-      "sha256": "62b7c6443f44baf055c1d3b24eea30d9531dddc902c9820e79dc46af65eea5d8"
+      "sha256": "bcdd85fe65072313ff6b73f2449f5d9f65218856b491cb3acda47a54a36d5b45"
     },
     {
       "path": "config/species_presets/thamnodynastes_strigatus.json",
-      "sha256": "90b506f5074a12b687ffd1a15252521db495dcf0940ce6f545dbbb887759e336"
+      "sha256": "38805aa07d6a7f20b68551600d2dfcb5e2e6149ade2cb5c93d9bf0961ea9fbb7"
     },
     {
       "path": "config/species_presets/thelotornis_mossambicanus.json",
-      "sha256": "a67dc2a2828a3291995350c3e4101f4e4c45444b17ce926dbecc930ba83d74a4"
+      "sha256": "33e5cf07dd129d1a787fc34241a6177f9a57e61e7aa0314c096feed35f94d921"
     },
     {
       "path": "config/species_presets/toxicocalamus_longissimus.json",
-      "sha256": "fc4e8e19f7ad1ebc38892ce7decdf2eeb1d91966545895c1fda3551e880ebfb0"
+      "sha256": "1e8d00a70914918ed92e5cada65b7d622ba0901260f9f8804c94ebf9147b4b6b"
     },
     {
       "path": "config/species_presets/trimeresurus_albolabris.json",
-      "sha256": "2e82b12b344945b76023d756f599255dfe08c925d919df11ddb0b09f1cdb286e"
+      "sha256": "d408dbd5ff5ffeaa4aa54a2dca1a95d21cf5384c2b7d96c67698f09259625435"
     },
     {
       "path": "config/species_presets/trimeresurus_insularis.json",
-      "sha256": "7a490b58ead7e2a156e35fbf599e77e5d2532e8f502d7fc11833e0889ffcddf1"
+      "sha256": "dc5af9fc072e3551462b0c2cf56b4426fa0e50361ee39869479a9d32da837700"
     },
     {
       "path": "config/species_presets/trimeresurus_nebularis.json",
-      "sha256": "7c31090c95d7f26a3ebfe209b562cb2a250e54b201f59a3b604abd125255b2c6"
+      "sha256": "e65a81c38d0886bb193f9e056bb338422fc151caee6d640462a5e868cf2ba6bf"
     },
     {
       "path": "config/species_presets/trimeresurus_puniceus.json",
-      "sha256": "5deb3cc7bd85131cbc0e2cbdd5bf60e448654810e11b902e0a38ce50fd2f3193"
+      "sha256": "75bbbbe605991738ccd1c38001edc2e98019fb8a9ca86f2805b110d330665799"
     },
     {
       "path": "config/species_presets/trimeresurus_purpureomaculatus.json",
-      "sha256": "a24e7e2ff914a8f75fedb7cb52707d7b7dedb205aebfeefac400186654939880"
+      "sha256": "af1845ccf18c99b9c64b6937f14840f0309be15fda3c877450465146afd10967"
     },
     {
       "path": "config/species_presets/trimeresurus_stejnegeri.json",
-      "sha256": "7794fdbfa7b8a7a8945d067986ebf7a141382f7c42bd6d78e5fd2d746b477f94"
+      "sha256": "e10ad2a42eaf4cea2ecba40663d955e2aacaf227891dcefa8960022c8f37ff8f"
     },
     {
       "path": "config/species_presets/trimeresurus_wiroti.json",
-      "sha256": "79a11b0c50cb8d7202fd571664a067a7f905f3fa71faf830ab65681ec62615cf"
+      "sha256": "27932c598212e44ccc6b85a7915f2fe35ae3e503a24dd4abaeb0fa63b3e13eed"
     },
     {
       "path": "config/species_presets/tropidolaemus_wagleri.json",
-      "sha256": "430bf562ce7a612a590074ffb7e5526ac8e19a04cb5e2ab7d9166c802594738b"
+      "sha256": "52b59876756eeec48a2388542d08b942146e201580b3937f2cda3c132c120b35"
     },
     {
       "path": "config/species_presets/vipera_ammodytes.json",
-      "sha256": "3bd4ce7eccc537519d989c285f5e7b37499c491a317cc2d2ee0356548f458486"
+      "sha256": "8180fb309510709af210bcfbece53afc226e0396a24986d901b4606f982913e0"
     },
     {
       "path": "config/species_presets/vipera_anatolica.json",
-      "sha256": "4d2cadc3a788cb5bdd57e5bb7f049b785e6f574e86431eeeb33647149ece54b1"
+      "sha256": "865ac20a8e7a2020eb036dd10796e57583b872cacefa5369ff3e01e15322de3c"
     },
     {
       "path": "config/species_presets/vipera_aspis.json",
@@ -681,7 +681,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/vipera_kaznakovi.json",
-      "sha256": "888345af4c9864a1f0579558c58700ff53b68b40dc14a61d07696c7dcc18a7cb"
+      "sha256": "faea56a546c515515fe006d2c0937fe2e609ba8851fb97026c68531071af7e4f"
     },
     {
       "path": "config/species_presets/vipera_nikolskii.json",
@@ -689,7 +689,7 @@ window.SERPENT_PRESETS = {
     },
     {
       "path": "config/species_presets/vipera_orlovi.json",
-      "sha256": "29173895b860d942e170ac0c6d1d502531ecc13c122a087de7f0ddb076e61391"
+      "sha256": "cfd86bbff4a77579abb68a09b54d12a92b9df31aa5ea6cd2035479ac60dbda7d"
     },
     {
       "path": "config/species_presets/vipera_renardii.json",
@@ -3326,14 +3326,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_4cf9f8e23eac8e4f",
       "source_species_name": "Austrelaps labialis",
       "common_name": "Pygmy Copperhead",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gray pygmy copperhead with pale barred lips.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://australian.museum/learn/animals/reptiles/copperhead/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://biomedicalsciences.unimelb.edu.au/__data/assets/pdf_file/0004/3216739/A-Clinicians-Guide-to-Venomous-Bites-and-Stings-2013.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -3348,126 +3348,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; anatomical and color details need direct image comparison.",
+          "This depicts one gray form, not the species range of variation."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Published accounts describe a small gray copperhead; its narrow head, pale barred lips and light underside are represented.",
+            "Shape and scale counts are artistic approximations."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#6c6964",
+        "marking_color": "#514c48",
+        "belly_color": "#c8c0b2",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "short",
+        "scale_pitch": 4.4,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 47,
+          "neck": 8,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              33,
+              -10,
+              39,
+              -8
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              39,
+              -8,
+              42,
+              -8,
+              45,
+              -8,
+              47,
+              -8
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
-              9,
+              18,
+              8,
+              28,
+              10,
               34,
-              12,
-              57,
-              12,
-              69,
-              9
+              9,
+              39,
+              8
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              39,
+              8,
+              42,
+              8,
+              45,
+              8,
+              47,
+              8
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            19,
+            -1,
+            3.1,
+            3.1
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 43 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -3475,23 +3473,31 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M3 4 L5 10 M11 5 L13 10 M19 6 L21 11 M28 6 L30 11",
+              "fill": "none",
+              "stroke": "#403d3b",
+              "width": 1
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            8
           ],
           [
             281,
             242,
-            9
+            10
           ],
           [
             370,
             265,
-            12.5
+            12
           ],
           [
             463,
@@ -3501,52 +3507,52 @@ window.SERPENT_PRESETS = {
           [
             515,
             344,
-            14.2
+            15
           ],
           [
             506,
             395,
-            13.8
+            15
           ],
           [
             441,
             430,
-            13.1
+            14.5
           ],
           [
             341,
             443,
-            12
+            14
           ],
           [
             257,
             472,
-            10.6
+            13.5
           ],
           [
             252,
             515,
-            8.8
+            13
           ],
           [
             324,
             550,
-            6.6
+            12
           ],
           [
             425,
             562,
-            4.7
+            11
           ],
           [
             527,
             548,
-            2.8
+            10
           ],
           [
             603,
             519,
-            1.3
+            8
           ],
           [
             654,
@@ -3559,7 +3565,8 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -3567,7 +3574,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -3576,14 +3583,18 @@ window.SERPENT_PRESETS = {
       "species_id": "source_d8c7d1a9e4ee5af1",
       "source_species_name": "Azemiops feae",
       "common_name": "Fea's Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Dark Fea viper with orange crossbands and a light head.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://repository.si.edu/server/api/core/bitstreams/74d47658-0caf-4d92-9649-c4b1c3093edd/content",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13211529/",
+            "scope": "Published description for the selected illustrative form."
+          },
+          {
+            "url": "https://vietsnake.edu.vn/en/list-of-snakes/feas-viper/",
+            "scope": "Description of narrow orange/yellow bands, light head and dark stripes; variation and taxonomy require review."
           }
         ],
         "photo_references": [],
@@ -3595,126 +3606,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; accurate head color and pattern vary across forms and taxonomy needs care.",
+          "Tail and ventral details are not verified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Sources describe a dark body with narrow orange to pale crossbands and a light head with dark markings.",
+            "A smooth-scaled body, relatively flat plated head and narrow transverse marks are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
-        "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "body_plan": "viper",
+        "pattern": "crossbands",
+        "skin_color": "#252934",
+        "marking_color": "#c6845e",
+        "belly_color": "#c9b59c",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
-        "mark_spacing": 63,
+        "tail_type": "short",
+        "scale_pitch": 4.5,
+        "mark_spacing": 65,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
-        "pupil": "round",
+        "head_style": "rounded",
+        "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 52,
+          "neck": 8,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              38,
+              -10,
+              44,
+              -8
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              44,
+              -8,
+              47,
+              -8,
+              50,
+              -8,
+              52,
+              -8
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              39,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              44,
+              8
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              44,
+              8,
+              47,
+              8,
+              50,
+              8,
+              52,
+              8
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
+            21,
+            -1,
+            3.5,
             3.5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 48 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -3722,78 +3731,86 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M9 -8 L19 -5 L36 -6 L44 -3 M15 1 L31 2 L42 0",
+              "fill": "none",
+              "stroke": "#594838",
+              "width": 1.5
+            }
+          ],
+          "iris_color": "#a98c68"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            8
           ],
           [
             281,
             242,
-            9
+            11
           ],
           [
             370,
             265,
-            12.5
+            15
           ],
           [
             463,
             295,
-            14
+            18
           ],
           [
             515,
             344,
-            14.2
+            19
           ],
           [
             506,
             395,
-            13.8
+            19
           ],
           [
             441,
             430,
-            13.1
+            18.5
           ],
           [
             341,
             443,
-            12
+            18
           ],
           [
             257,
             472,
-            10.6
+            17
           ],
           [
             252,
             515,
-            8.8
+            16
           ],
           [
             324,
             550,
-            6.6
+            14
           ],
           [
             425,
             562,
-            4.7
+            12
           ],
           [
             527,
             548,
-            2.8
+            9.5
           ],
           [
             603,
             519,
-            1.3
+            7
           ],
           [
             654,
@@ -3806,7 +3823,9 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false,
+        "head_color": "#d0ad75"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -3814,7 +3833,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -5021,14 +5040,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_11bc3e7c2ce06692",
       "source_species_name": "Boiga irregularis",
       "common_name": "Brown Tree Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown tree snake with a broad head, narrow neck, large eyes and subdued crossbands.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://dlnr.hawaii.gov/hisc/info/invasive-species-profiles/brown-tree-snake/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://lifg.australian.museum/Group.html?groupId=OeslUwpQ",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -5041,75 +5060,73 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local images; broad head proportions and body shape need visual comparison.",
+          "Irregular natural markings and variation are simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Australian Museum describes a long slender snake with a broad head, distinct neck, large vertically pupilled eyes and indistinct darker bands.",
+            "An elongated head, enlarged eye, slender body and brown banding are represented."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "crossbands",
+        "skin_color": "#b59978",
+        "marking_color": "#735e4e",
+        "belly_color": "#d0bba0",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
-        "mark_spacing": 63,
+        "tail_type": "long",
+        "scale_pitch": 4.6,
+        "mark_spacing": 45,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
-        "pupil": "round",
+        "head_style": "rounded",
+        "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
+          "length": 60,
           "neck": 7,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
-              -10,
               12,
-              -11
+              -8
             ],
             [
               12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
+              -8,
+              22,
+              -14,
+              46,
+              -17,
+              52,
+              -7
             ],
             [
-              69,
-              -11,
-              75,
-              -9,
-              78,
+              52,
               -7,
-              84,
+              55,
+              -7,
+              58,
+              -7,
+              60,
               -7
             ]
           ],
@@ -5117,50 +5134,50 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
-              9,
-              34,
+              18,
+              8,
+              32,
+              13,
+              47,
               12,
-              57,
-              12,
-              69,
-              9
+              52,
+              7
             ],
             [
-              69,
-              9,
-              75,
+              52,
               7,
-              79,
+              55,
               7,
-              84,
+              58,
+              7,
+              60,
               7
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            28,
+            -1,
+            5,
+            5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 56 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -5168,7 +5185,8 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [],
+          "iris_color": "#b99a5d"
         },
         "body_stations": [
           [
@@ -5184,62 +5202,62 @@ window.SERPENT_PRESETS = {
           [
             370,
             265,
-            12.5
+            11
           ],
           [
             463,
             295,
-            14
+            13
           ],
           [
             515,
             344,
-            14.2
+            14
           ],
           [
             506,
             395,
-            13.8
+            14
           ],
           [
             441,
             430,
-            13.1
+            13.5
           ],
           [
             341,
             443,
-            12
+            13
           ],
           [
             257,
             472,
-            10.6
+            12.5
           ],
           [
             252,
             515,
-            8.8
+            11.5
           ],
           [
             324,
             550,
-            6.6
+            10.5
           ],
           [
             425,
             562,
-            4.7
+            9.5
           ],
           [
             527,
             548,
-            2.8
+            8
           ],
           [
             603,
             519,
-            1.3
+            6
           ],
           [
             654,
@@ -5252,7 +5270,8 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -5260,7 +5279,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -5269,14 +5288,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_974773da3b08f0cb",
       "source_species_name": "Borikenophis portoricensis",
       "common_name": "Puerto Rican Racer",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Olive brown Puerto Rican racer with a pale belly.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://home.army.mil/buchanan/7915/7615/4136/Wildlife_of_Ft._Buchanan_Field_Guide_2018-FINAL_Final_12.11.18.PDF",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -5290,126 +5309,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; head, scale edging and taper need photo comparison.",
+          "Neck flattening in defensive posture is not represented."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Fort Buchanan field guide describes an olive-brown dorsum, whitish ventral color and sometimes dark scale edges.",
+            "The draft selects that color range and a slim racer body."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#766e55",
+        "marking_color": "#4b4739",
+        "belly_color": "#dfd8c6",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "long",
+        "scale_pitch": 4.1,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 58,
+          "neck": 8,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              44,
+              -10,
+              50,
+              -8
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              50,
+              -8,
+              53,
+              -8,
+              56,
+              -8,
+              58,
+              -8
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              45,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              50,
+              8
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              50,
+              8,
+              53,
+              8,
+              56,
+              8,
+              58,
+              8
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            25,
+            -1,
+            3.3,
+            3.3
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 54 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -5417,78 +5434,79 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            8
           ],
           [
             281,
             242,
-            9
+            11
           ],
           [
             370,
             265,
-            12.5
+            14
           ],
           [
             463,
             295,
-            14
+            16
           ],
           [
             515,
             344,
-            14.2
+            17
           ],
           [
             506,
             395,
-            13.8
+            17
           ],
           [
             441,
             430,
-            13.1
+            16
           ],
           [
             341,
             443,
-            12
+            15
           ],
           [
             257,
             472,
-            10.6
+            14
           ],
           [
             252,
             515,
-            8.8
+            13
           ],
           [
             324,
             550,
-            6.6
+            12
           ],
           [
             425,
             562,
-            4.7
+            11
           ],
           [
             527,
             548,
-            2.8
+            9.5
           ],
           [
             603,
             519,
-            1.3
+            7
           ],
           [
             654,
@@ -5501,7 +5519,9 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false,
+        "scale_tip_color": "#544e3e"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -5509,7 +5529,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -7269,14 +7289,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_d3bfb6586db80136",
       "source_species_name": "Bothriechis thalassinus",
       "common_name": "Merendon Palm-pitviper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Green jade palm pit viper with pale turquoise markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://iris.paho.org/xmlui/bitstream/handle/123456789/34498/manualidentificacion-spa.pdf?isAllowed=y.&sequence=1",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442000000400025&script=sci_arttext",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -7290,37 +7310,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot photos; blotch geometry, head dimensions and tail need comparison with living specimens.",
+          "Periodic blotches are placeholders for irregular markings and the ventral gradient is simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The species description records a leaf-green individual with irregular pale turquoise dorsal markings, turquoise postocular stripe and a cream to yellow-green underside.",
+            "Other individuals vary and may have dark mottling; this is one illustrative variant."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#58a36a",
+        "marking_color": "#87c9c3",
+        "belly_color": "#d9d8ac",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.2,
+        "mark_spacing": 58,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -7329,37 +7347,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 68,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              46,
+              -17,
+              55,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              55,
+              -14.62,
+              60,
+              -12.24,
+              64,
               -8.5,
-              79,
+              68,
               -8.5
             ]
           ],
@@ -7369,44 +7387,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              48,
+              13,
+              56,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              56,
+              9.5,
+              61,
               8.5,
-              75.05,
+              65,
               8.5,
-              79,
+              68,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            4.1,
+            4.1
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -7414,19 +7432,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 50 7 L64 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M31 -2 L52 1 L59 4 L42 1Z",
+              "fill": "#8bc8c3"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 51 4 L70 5 L70 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a6a765"
         },
         "body_stations": [
           [
@@ -7437,72 +7461,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            19
           ],
           [
             502,
             397,
-            24
+            18
           ],
           [
             430,
             431,
-            22
+            17
           ],
           [
             330,
             445,
-            20
+            16
           ],
           [
             253,
             476,
-            17
+            15
           ],
           [
             253,
             515,
-            13
+            13.5
           ],
           [
             324,
             550,
-            8
+            11.5
           ],
           [
             400,
             555,
-            5
+            9
           ],
           [
             460,
             546,
-            2.8
+            6.7
           ],
           [
             510,
             528,
-            1
+            3.8
           ],
           [
             545,
@@ -7517,7 +7541,9 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "tail_color": "#496d6a",
+        "tail_color_length": 52
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -7525,7 +7551,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -8764,6 +8790,10 @@ window.SERPENT_PRESETS = {
           {
             "url": "https://doi.org/10.6084/m9.figshare.24572683",
             "scope": "Existing source profile; not yet applied to this template."
+          },
+          {
+            "url": "https://nuevo.metarevistas.org/Record/oai%3Arevistasojs.ucaldas.edu.co%3Aarticle_4466",
+            "scope": "Published taxonomic note reporting the name as unavailable."
           }
         ],
         "photo_references": [],
@@ -8783,7 +8813,8 @@ window.SERPENT_PRESETS = {
         "modeling_flags": [
           "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
           "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local image candidates in species catalog; seek reliable reference imagery.",
+          "Taxonomy: Bothrops ayerbei has been reported as an unavailable name; independent taxonomic resolution is needed before treating this as a distinct species."
         ],
         "modeling_review_status": "unreviewed_starter",
         "modeling_observations": {
@@ -9023,14 +9054,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_372e84a90b6025db",
       "source_species_name": "Bothrops barnetti",
       "common_name": "Barnett's Lancehead",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Barnett lancehead with pale-bordered dark blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://repositorio.unprg.edu.pe/bitstream/handle/20.500.12893/773/BC-TES-3132.pdf?isAllowed=y&sequence=1",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -9046,37 +9077,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; head shape and specific arrangement of blotches need reference comparison.",
+          "Alternating side blotches and fine markings are simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "A Peruvian university description records a brown-to-gray ground with pale-bordered dark triangular or trapezoid markings and a dark head V.",
+            "A stout body, pale-edged markings and head V are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "trapezoids",
+        "skin_color": "#a89a87",
+        "marking_color": "#574941",
+        "belly_color": "#d7cab6",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 62,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -9085,37 +9114,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 70,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              48,
+              -17,
+              57,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              57,
+              -14.62,
+              62,
+              -12.24,
+              66,
               -8.5,
-              79,
+              70,
               -8.5
             ]
           ],
@@ -9125,44 +9154,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              50,
+              13,
+              58,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              58,
+              9.5,
+              63,
               8.5,
-              75.05,
+              67,
               8.5,
-              79,
+              70,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -9170,19 +9199,27 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 52 7 L66 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M14 -9 L30 -4 L44 -9",
+              "fill": "none",
+              "stroke": "#52443d",
+              "width": 2
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -9193,32 +9230,32 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
             249,
-            20
+            19
           ],
           [
             390,
             271,
-            25
+            23
           ],
           [
             471,
             302,
-            27
+            24
           ],
           [
             514,
             347,
-            26
+            24
           ],
           [
             502,
             397,
-            24
+            23
           ],
           [
             430,
@@ -9228,37 +9265,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            20
+            21
           ],
           [
             253,
             476,
-            17
+            19
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -9273,7 +9310,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#e0d2bc"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -9281,7 +9319,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -9561,14 +9599,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_0f8209edf5e0b63f",
       "source_species_name": "Bothrops colombiensis",
       "common_name": "Bothrops colombiensis",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Bothrops colombiensis source label: brown lancehead approximation.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://serpientesdevenezuela.org/bothrops-colombiensis/",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -9584,37 +9622,36 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "Taxonomic status requires authoritative reconciliation: the source treats this name as an atrox synonym.",
+          "No local pilot photos; morphology and pattern require reference comparison.",
+          "The triangles are stylized rather than individually reconstructed."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The reference describes variable brown or gray coloration and dark triangular or trapezoidal side markings.",
+            "The source treats this name as a synonym of B. atrox; the original dataset label is retained pending taxonomic review."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "flank_triangles",
+        "skin_color": "#81796d",
+        "marking_color": "#4b423d",
+        "belly_color": "#d2c2ab",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -9623,37 +9660,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 75,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              53,
+              -18,
+              62,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              62,
+              -15.48,
+              67,
+              -12.959999999999999,
+              71,
               -8.5,
-              79,
+              75,
               -8.5
             ]
           ],
@@ -9663,44 +9700,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              55,
               14,
-              66.36,
-              9.799999999999999
+              63,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              63,
+              9.5,
+              68,
               8.5,
-              75.05,
+              72,
               8.5,
-              79,
+              75,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -9708,19 +9745,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 57 7 L71 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 58 4 L77 5 L77 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -9731,7 +9769,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -9741,17 +9779,17 @@ window.SERPENT_PRESETS = {
           [
             390,
             271,
-            25
+            24
           ],
           [
             471,
             302,
-            27
+            25
           ],
           [
             514,
             347,
-            26
+            25
           ],
           [
             502,
@@ -9761,42 +9799,42 @@ window.SERPENT_PRESETS = {
           [
             430,
             431,
-            22
+            23
           ],
           [
             330,
             445,
-            20
+            22
           ],
           [
             253,
             476,
-            17
+            20
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -9811,7 +9849,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#d6c7b3"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -9819,7 +9858,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1
+      "model_revision": 2
     },
     {
       "schema_version": 1,
@@ -9827,14 +9866,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_4138084189bba204",
       "source_species_name": "Bothrops cotiara",
       "common_name": "Cotiara",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Olive-gray cotiara with pale-edged dark markings and a dark belly.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.furg.br/arquivos/Noticias/2024/13-06-2024-Reconstrucao_-_Volume_I_-_Rio_Grande_2024-furg.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/publicacoes/guia-animais-peconhentos-do-brasil.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -9848,36 +9887,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The only local photo is a severely damaged carcass and was rejected; healthy photographs are needed.",
+          "Horseshoe marks, the head V and black belly are simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Brazilian health guide describes an olive or gray dorsal body, dark trapezoidal markings with pale borders and a black belly.",
+            "A dark-bellied form and pale head mark are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "hooks",
+        "skin_color": "#797d68",
+        "marking_color": "#393b36",
+        "belly_color": "#252926",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 67,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -9886,37 +9924,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 68,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              46,
+              -18,
+              55,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              55,
+              -15.48,
+              60,
+              -12.959999999999999,
+              64,
               -8.5,
-              79,
+              68,
               -8.5
             ]
           ],
@@ -9926,44 +9964,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              48,
               14,
-              66.36,
-              9.799999999999999
+              56,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              56,
+              9.5,
+              61,
               8.5,
-              75.05,
+              65,
               8.5,
-              79,
+              68,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -9971,19 +10009,27 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 50 7 L64 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M8 -5 L24 -2 L38 -6",
+              "fill": "none",
+              "stroke": "#d1c9b8",
+              "width": 1.4
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 51 4 L70 5 L70 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -9994,7 +10040,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -10004,17 +10050,17 @@ window.SERPENT_PRESETS = {
           [
             390,
             271,
-            25
+            24
           ],
           [
             471,
             302,
-            27
+            25
           ],
           [
             514,
             347,
-            26
+            25
           ],
           [
             502,
@@ -10024,42 +10070,42 @@ window.SERPENT_PRESETS = {
           [
             430,
             431,
-            22
+            23
           ],
           [
             330,
             445,
-            20
+            22
           ],
           [
             253,
             476,
-            17
+            20
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -10074,7 +10120,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#d0c2ad"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -10082,7 +10129,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -10687,14 +10734,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_6aad2d29de4e0921",
       "source_species_name": "Bothrops fonsecai",
       "common_name": "Fonseca's Lancehead",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Dark Fonseca lancehead with pale head marking and dark belly.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://repositorio.butantan.gov.br/bitstream/butantan/5010/1/Adriana%20Da%20Silva%20Fernandes%20Ribas.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/publicacoes/guia-animais-peconhentos-do-brasil.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -10707,37 +10754,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot image; precise body pattern and head mark need photo comparison.",
+          "The complex paired side ocelli and ventral details are simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The health guide describes dark brown ground color, pale-edged trapezoidal markings, a pale longitudinal head mark and a dark belly.",
+            "These features have separate editable colors and head markings."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "hooks",
+        "skin_color": "#66534b",
+        "marking_color": "#352d2a",
+        "belly_color": "#333a36",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -10746,37 +10791,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 70,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              48,
+              -18,
+              57,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              57,
+              -15.48,
+              62,
+              -12.959999999999999,
+              66,
               -8.5,
-              79,
+              70,
               -8.5
             ]
           ],
@@ -10786,44 +10831,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              50,
               14,
-              66.36,
-              9.799999999999999
+              58,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              58,
+              9.5,
+              63,
               8.5,
-              75.05,
+              67,
               8.5,
-              79,
+              70,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -10831,19 +10876,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 52 7 L66 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M12 -9 L35 -10 L43 -7 L36 -5 L12 -6Z",
+              "fill": "#d3c8b9"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -10854,32 +10905,32 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
             249,
-            20
+            19
           ],
           [
             390,
             271,
-            25
+            23
           ],
           [
             471,
             302,
-            27
+            24
           ],
           [
             514,
             347,
-            26
+            24
           ],
           [
             502,
             397,
-            24
+            23
           ],
           [
             430,
@@ -10889,37 +10940,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            20
+            21
           ],
           [
             253,
             476,
-            17
+            19
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -10934,7 +10985,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#bead9b"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -10942,7 +10994,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -11257,14 +11309,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_4807cdf47c6893e5",
       "source_species_name": "Bothrops jararaca",
       "common_name": "Yarará Lancehead",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown jararaca with dark horseshoe-shaped side markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://ciatox.saude.sc.gov.br/index.php/servicos/agentes-toxicos/animais-peconhentos/serpentes",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://butantan.gov.br/bubutantan/uma-jararaca-nada-comum-conheca-a-maior-causadora-de-acidentes-com-cobras-do-brasil",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -11278,36 +11330,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Pilot photos need species confirmation; none were used for this draft.",
+          "Horseshoe spacing, head details and ventral flecking are simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Instituto Butantan account describes variable brown, green, gray or yellow ground colors with dark horseshoe-shaped lateral markings.",
+            "This brown variant uses individually adjustable head, taper and horseshoe pattern."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "hooks",
+        "skin_color": "#a08e70",
+        "marking_color": "#4e4337",
+        "belly_color": "#d2c6a8",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -11316,37 +11367,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 71,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              49,
+              -17,
+              58,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              58,
+              -14.62,
+              63,
+              -12.24,
+              67,
               -8.5,
-              79,
+              71,
               -8.5
             ]
           ],
@@ -11356,44 +11407,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              51,
+              13,
+              59,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              59,
+              9.5,
+              64,
               8.5,
-              75.05,
+              68,
               8.5,
-              79,
+              71,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -11401,19 +11452,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 53 7 L67 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 54 4 L73 5 L73 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -11429,32 +11481,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -11464,32 +11516,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -11504,7 +11556,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#d4c3aa"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -11512,7 +11565,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -11829,14 +11882,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_6bf8e92c92f11ac5",
       "source_species_name": "Bothrops lanceolatus",
       "common_name": "Martinique Lancehead",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Light brown Martinique lancehead with dark geometric markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.acq.osd.mil/eie/afpmb/docs/dveps/Caribbean.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.biodiversite-martinique.fr/sites/default/files/petit_guide_illustre_des_amphibiens_et_des_reptiles_de_la_martinique_m._dewynter_2022_0.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -11849,35 +11902,34 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Local carcass photos were rejected and the remaining photos appear to show shed skin; no pilot image was used for fitting.",
+          "Lateral marks, underside and head proportions require comparison with healthy animals."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Martinique field guide illustrates a lance-shaped head, a sensory pit and a dark postocular band.",
+            "A brown form with dark geometric markings is selected; males and females and individuals can differ markedly in color."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "hooks",
+        "skin_color": "#9b826c",
+        "marking_color": "#423931",
+        "belly_color": "#c9b293",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
+        "scale_pitch": 4.2,
         "mark_spacing": 65,
         "mark_size": 1,
         "tail_segments": 0,
@@ -11887,37 +11939,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 76,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              54,
+              -17,
+              63,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              63,
+              -14.62,
+              68,
+              -12.24,
+              72,
               -8.5,
-              79,
+              76,
               -8.5
             ]
           ],
@@ -11927,44 +11979,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              56,
+              13,
+              64,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              64,
+              9.5,
+              69,
               8.5,
-              75.05,
+              73,
               8.5,
-              79,
+              76,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -11972,19 +12024,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 58 7 L72 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M28 -2 L53 1 L62 7 L45 4Z",
+              "fill": "#44382f"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 59 4 L78 5 L78 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -12000,27 +12058,27 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            24
           ],
           [
             514,
             347,
-            26
+            24
           ],
           [
             502,
             397,
-            24
+            23
           ],
           [
             430,
@@ -12030,37 +12088,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            20
+            21
           ],
           [
             253,
             476,
-            17
+            19
           ],
           [
             253,
             515,
-            13
+            16.5
           ],
           [
             324,
             550,
-            8
+            13.5
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -12075,7 +12133,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#c9aa8c"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -12083,7 +12142,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -12391,14 +12450,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_da3de14e4b7da286",
       "source_species_name": "Bothrops moojeni",
       "common_name": "Brazilian Lancehead",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown Brazilian lancehead with dark trapezoidal markings and pale belly.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://bibliotecadigital.butantan.gov.br/arquivos/103/PDF/12.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://sib.gob.ar/especies/bothrops-moojeni",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -12411,37 +12470,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; the head and body require photo comparison.",
+          "Trapezoid placement and pale borders are periodic approximations."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Argentine national parks account describes a robust brown snake, dark trapezoidal blotches, dark crown and pale underside.",
+            "These features and an elongated head are represented schematically."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "trapezoids",
+        "skin_color": "#927f6b",
+        "marking_color": "#463d38",
+        "belly_color": "#ded1bc",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 66,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -12450,37 +12507,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 77,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              55,
+              -18,
+              64,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              64,
+              -15.48,
+              69,
+              -12.959999999999999,
+              73,
               -8.5,
-              79,
+              77,
               -8.5
             ]
           ],
@@ -12490,44 +12547,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              57,
               14,
-              66.36,
-              9.799999999999999
+              65,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              65,
+              9.5,
+              70,
               8.5,
-              75.05,
+              74,
               8.5,
-              79,
+              77,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -12535,19 +12592,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 59 7 L73 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M3 -15 H58 V-1 L3 -2Z",
+              "fill": "#443933"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 60 4 L79 5 L79 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -12558,7 +12621,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -12568,12 +12631,12 @@ window.SERPENT_PRESETS = {
           [
             390,
             271,
-            25
+            24
           ],
           [
             471,
             302,
-            27
+            26
           ],
           [
             514,
@@ -12583,47 +12646,47 @@ window.SERPENT_PRESETS = {
           [
             502,
             397,
-            24
+            25
           ],
           [
             430,
             431,
-            22
+            24
           ],
           [
             330,
             445,
-            20
+            23
           ],
           [
             253,
             476,
-            17
+            21
           ],
           [
             253,
             515,
-            13
+            18
           ],
           [
             324,
             550,
-            8
+            15
           ],
           [
             400,
             555,
-            5
+            11
           ],
           [
             460,
             546,
-            2.8
+            7.5
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -12638,7 +12701,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#d4c3ac"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -12646,7 +12710,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -13255,14 +13319,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_c53d6f5b9bb41cd5",
       "source_species_name": "Bothrops pictus",
       "common_name": "Desert Lancehead",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Pale gray-brown coastal lancehead with dark dorsal markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.academia.edu/167003311/Caracterizaci%C3%B3n_bioqu%C3%ADmica_biol%C3%B3gica_y_molecular_de_la_L_amino%C3%A1cido_oxidasa_del_veneno_de_la_serpiente_peruana_Bothrops_pictus_Jerg%C3%B3n_de_Costa",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://alicia.concytec.gob.pe/vufind/index.php/Record/UNMS_c8f85f81c09cf75db14b5aaa7d894670",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -13274,36 +13338,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Local pilot photos have not been compared for this rendering.",
+          "The zigzag and head markings are schematic and require visual validation."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Peruvian research reports morphological and color-pattern variation in this coastal lancehead.",
+            "The draft uses a light gray-brown ground, dark dorsal blotches, pale belly and differentiated viper head."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "trapezoids",
+        "skin_color": "#b5aa9b",
+        "marking_color": "#4d4049",
+        "belly_color": "#ddd7c6",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 62,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -13312,37 +13375,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 69,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              47,
+              -17,
+              56,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              56,
+              -14.62,
+              61,
+              -12.24,
+              65,
               -8.5,
-              79,
+              69,
               -8.5
             ]
           ],
@@ -13352,44 +13415,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              49,
+              13,
+              57,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              57,
+              9.5,
+              62,
               8.5,
-              75.05,
+              66,
               8.5,
-              79,
+              69,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -13397,19 +13460,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 51 7 L65 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M30 -2 L51 1 L61 6 L46 4Z",
+              "fill": "#544447"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 52 4 L71 5 L71 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -13420,7 +13489,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -13430,17 +13499,17 @@ window.SERPENT_PRESETS = {
           [
             390,
             271,
-            25
+            24
           ],
           [
             471,
             302,
-            27
+            25
           ],
           [
             514,
             347,
-            26
+            25
           ],
           [
             502,
@@ -13450,42 +13519,42 @@ window.SERPENT_PRESETS = {
           [
             430,
             431,
-            22
+            23
           ],
           [
             330,
             445,
-            20
+            22
           ],
           [
             253,
             476,
-            17
+            20
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -13500,7 +13569,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#786a6b"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -13508,7 +13578,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -13517,14 +13587,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_cbcdccac700bc002",
       "source_species_name": "Bothrops pirajai",
       "common_name": "Piraja's Lancehead",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Reddish-brown Piraja lancehead with pale-edged markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://threatenedtaxa.org/index.php/JoTT/article/download/1126/2033",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/publicacoes/guia-animais-peconhentos-do-brasil.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -13538,37 +13608,35 @@ window.SERPENT_PRESETS = {
           "eyes",
           "special"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; pattern, head and proportion need photo comparison.",
+          "Dark ventral flecking and small ocelli are not modeled."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Brazilian health guide describes light to reddish-brown ground color with pale-edged open trapezoidal markings and a light spotted belly.",
+            "A broad head, stout body and pale-bordered side markings are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "hooks",
+        "skin_color": "#9d7562",
+        "marking_color": "#563d35",
+        "belly_color": "#d7c0a9",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 66,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -13577,37 +13645,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 72,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              50,
+              -17,
+              59,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              59,
+              -14.62,
+              64,
+              -12.24,
+              68,
               -8.5,
-              79,
+              72,
               -8.5
             ]
           ],
@@ -13617,44 +13685,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              52,
               14,
-              66.36,
-              9.799999999999999
+              60,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              60,
+              9.5,
+              65,
               8.5,
-              75.05,
+              69,
               8.5,
-              79,
+              72,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -13662,19 +13730,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 54 7 L68 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 55 4 L74 5 L74 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c70"
         },
         "body_stations": [
           [
@@ -13685,7 +13754,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -13700,7 +13769,7 @@ window.SERPENT_PRESETS = {
           [
             471,
             302,
-            27
+            26
           ],
           [
             514,
@@ -13710,47 +13779,47 @@ window.SERPENT_PRESETS = {
           [
             502,
             397,
-            24
+            25
           ],
           [
             430,
             431,
-            22
+            24
           ],
           [
             330,
             445,
-            20
+            23
           ],
           [
             253,
             476,
-            17
+            21
           ],
           [
             253,
             515,
-            13
+            18
           ],
           [
             324,
             550,
-            8
+            15
           ],
           [
             400,
             555,
-            5
+            11
           ],
           [
             460,
             546,
-            2.8
+            7.5
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -13765,7 +13834,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "pattern_border_color": "#d8bfa5"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -13773,7 +13843,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -15481,14 +15551,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_00a41a7f14994119",
       "source_species_name": "Bungarus sindanus",
       "common_name": "Sind Krait",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Dark Sind krait with narrow pale bands.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://indiansnakes.org/snakedetails/sind%20krait",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -15504,37 +15574,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; paired band arrangements and exact proportions need photo comparison.",
+          "Band spacing and head coloration are illustrative."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The cited description reports a glossy dark body with narrow paired or single white bands.",
+            "The dark body, pale bands and small head are modeled schematically."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "rings",
+        "skin_color": "#20232d",
+        "marking_color": "#e2e0d1",
+        "belly_color": "#e2e0d1",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.2,
+        "mark_spacing": 36,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -15543,37 +15611,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 44,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
+              12,
+              -8,
+              22,
+              -10,
+              30,
+              -10,
+              36,
+              -8
             ],
             [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              36,
               -8,
-              42.3,
+              39,
               -8,
-              45,
+              42,
+              -8,
+              44,
               -8
             ]
           ],
@@ -15581,58 +15649,64 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
+              -1,
+              3,
+              8,
+              6,
+              18,
+              8
             ],
             [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
+              18,
+              8,
+              28,
+              10,
+              31,
+              9,
+              36,
+              8
             ],
             [
-              36.9,
-              5.720000000000001,
-              39.6,
+              36,
               8,
-              42.3,
+              39,
               8,
-              45,
+              42,
+              8,
+              44,
               8
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.8,
+            2.8
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 40 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
-          "markings": []
+          "markings": [
+            {
+              "path": "M-2 -15 H43 V15 H-2Z",
+              "fill": "#20232d"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -15648,27 +15722,27 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            13
           ],
           [
             471,
             302,
-            18
+            14
           ],
           [
             514,
             347,
-            17
+            14
           ],
           [
             502,
             397,
-            15
+            13.5
           ],
           [
             430,
@@ -15678,37 +15752,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            11
+            12.5
           ],
           [
             253,
             476,
-            9
+            12
           ],
           [
             253,
             515,
-            6.5
+            11.5
           ],
           [
             324,
             550,
-            4.5
+            11
           ],
           [
             425,
             562,
-            2.7
+            10
           ],
           [
             527,
             548,
-            1.6
+            8
           ],
           [
             610,
             516,
-            0.7
+            4.5
           ],
           [
             669,
@@ -15722,7 +15796,7 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.15
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -15730,7 +15804,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -15739,14 +15813,18 @@ window.SERPENT_PRESETS = {
       "species_id": "source_8116bfd6afea5f6c",
       "source_species_name": "Calliophis bivirgata",
       "common_name": "Calliophis bivirgata",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Blue Malayan coral snake with a dark blue back, pale blue side stripes and red head, belly and tail.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
+            "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/481",
+            "scope": "Species description: small head, slender body, navy back, blue lateral stripe, red underside, head and tail."
+          },
+          {
             "url": "https://m.singapore.biodiversity.online/taxo4254/mainSpace/Calliophis%20bivirgatus.html",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Description of body stripe placement and short red tail; catalog uses bivirgata spelling."
           }
         ],
         "photo_references": [],
@@ -15758,36 +15836,36 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; there are no local pilot images and no direct photograph-to-model fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; head shape, body geometry and color need photo comparison.",
+          "Blue stripe placement, red tail length and all scale proportions are illustrative.",
+          "The catalog uses Calliophis bivirgata while references use C. bivirgatus; taxonomy requires reconciliation."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Singapore government and biodiversity descriptions report a slender dark navy body, blue side stripe and red head, belly and tail.",
+            "An editable head shape, thin body, short tail and separated dorsal and ventral colors approximate that description.",
+            "The side stripe was widened after visual inspection of the first rendering."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "A single stylized projection; not fitted to local images or verified across angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#102242",
+        "marking_color": "#55bddd",
+        "belly_color": "#db3931",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
+        "scale_pitch": 4,
         "mark_spacing": 68,
         "mark_size": 1,
         "tail_segments": 0,
@@ -15797,172 +15875,173 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
-          "neck": 8,
+          "length": 46,
+          "neck": 7,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
-              5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
-            ],
-            [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
-            ],
-            [
-              35.1,
-              -7.800000000000001,
-              38.7,
-              -8,
-              42.3,
-              -8,
-              45,
+              -1,
+              -4,
+              4,
+              -7,
+              12,
               -8
+            ],
+            [
+              12,
+              -8,
+              23,
+              -10,
+              33,
+              -10,
+              38,
+              -7
+            ],
+            [
+              38,
+              -7,
+              41,
+              -7,
+              44,
+              -7,
+              46,
+              -7
             ]
           ],
           "lower": [
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
+              -1,
+              3,
+              7,
+              6,
+              18,
+              7.5
             ],
             [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
+              18,
+              7.5,
+              28,
+              9,
+              35,
+              9,
+              39,
+              7
             ],
             [
-              36.9,
-              5.720000000000001,
-              39.6,
-              8,
-              42.3,
-              8,
-              45,
-              8
+              39,
+              7,
+              42,
+              7,
+              44,
+              7,
+              46,
+              7
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.6,
+            2.7
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 41 5",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [],
+          "iris_color": "#292526"
         },
         "body_stations": [
           [
             224,
             211,
-            8
+            7
           ],
           [
             258,
             227,
-            10
+            8
           ],
           [
             305,
             249,
-            14
+            9.5
           ],
           [
             390,
             271,
-            17
+            11
           ],
           [
             471,
             302,
-            18
+            11.5
           ],
           [
             514,
             347,
-            17
+            11.5
           ],
           [
             502,
             397,
-            15
+            11.2
           ],
           [
             430,
             431,
-            13
+            11
           ],
           [
             330,
             445,
-            11
+            10.5
           ],
           [
             253,
             476,
-            9
+            10
           ],
           [
             253,
             515,
-            6.5
+            9.5
           ],
           [
             324,
             550,
-            4.5
+            9
           ],
           [
             425,
             562,
-            2.7
+            8
           ],
           [
             527,
             548,
-            1.6
+            6.5
           ],
           [
             610,
             516,
-            0.7
+            4
           ],
           [
             669,
@@ -15976,7 +16055,12 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "head_color": "#db3931",
+        "tail_color": "#db3931",
+        "tail_color_length": 80,
+        "ventrolateral_stripe": true,
+        "ventrolateral_stripe_start": 0.65
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -15984,7 +16068,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1
+      "model_revision": 2
     },
     {
       "schema_version": 1,
@@ -15992,14 +16076,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_5887e831a80e1221",
       "source_species_name": "Calliophis intestinalis",
       "common_name": "Banded Malaysian Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Dark banded Malayan coral snake with a red dorsal line and banded underside.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/6/4/6450",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -16012,36 +16096,34 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local images; body shape and individual band widths need image comparison.",
+          "Ventral band count and the position at which the red tail begins are illustrative."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The cited description specifies a slender dark brown back with a red midline, a black-and-white underside, and a red-and-black ventral tail.",
+            "The separate dorsal and ventral patterns are an editable interpretation, not a photo fit."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#3d2927",
+        "marking_color": "#ad5046",
+        "belly_color": "#e7dfcf",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
+        "scale_pitch": 4,
         "mark_spacing": 68,
         "mark_size": 1,
         "tail_segments": 0,
@@ -16051,142 +16133,143 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
-          "neck": 8,
+          "length": 44,
+          "neck": 7,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
-            ],
-            [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
-            ],
-            [
-              35.1,
-              -7.800000000000001,
-              38.7,
-              -8,
-              42.3,
-              -8,
-              45,
+              -7,
+              12,
               -8
+            ],
+            [
+              12,
+              -8,
+              22,
+              -10,
+              30,
+              -10,
+              36,
+              -7
+            ],
+            [
+              36,
+              -7,
+              39,
+              -7,
+              42,
+              -7,
+              44,
+              -7
             ]
           ],
           "lower": [
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
-            ],
-            [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
-            ],
-            [
-              36.9,
-              5.720000000000001,
-              39.6,
+              -1,
+              3,
               8,
-              42.3,
-              8,
-              45,
+              6,
+              18,
               8
+            ],
+            [
+              18,
+              8,
+              28,
+              10,
+              31,
+              9,
+              36,
+              7
+            ],
+            [
+              36,
+              7,
+              39,
+              7,
+              42,
+              7,
+              44,
+              7
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.5,
+            2.5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 40 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
-          "markings": []
+          "markings": [],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             224,
             211,
-            8
+            7
           ],
           [
             258,
             227,
-            10
+            8
           ],
           [
             305,
             249,
-            14
+            9
           ],
           [
             390,
             271,
-            17
+            10
           ],
           [
             471,
             302,
-            18
+            11
           ],
           [
             514,
             347,
-            17
+            11
           ],
           [
             502,
             397,
-            15
+            10.5
           ],
           [
             430,
             431,
-            13
+            10
           ],
           [
             330,
             445,
-            11
+            9.5
           ],
           [
             253,
@@ -16196,27 +16279,27 @@ window.SERPENT_PRESETS = {
           [
             253,
             515,
-            6.5
+            8.6
           ],
           [
             324,
             550,
-            4.5
+            8
           ],
           [
             425,
             562,
-            2.7
+            7
           ],
           [
             527,
             548,
-            1.6
+            5.5
           ],
           [
             610,
             516,
-            0.7
+            3.5
           ],
           [
             669,
@@ -16230,7 +16313,14 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "dorsal_midline_color": "#bf4d42",
+        "dorsal_midline_width": 0.07,
+        "tail_band_length": 70,
+        "ventral_pattern": "bands",
+        "ventral_band_dark": "#282523",
+        "ventral_band_spacing": 18,
+        "ventral_tail_light": "#d44a3e"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -16238,7 +16328,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -16247,14 +16337,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_e827007c57811f3a",
       "source_species_name": "Calloselasma rhodostoma",
       "common_name": "Malayan Pit Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Malayan pit viper with dark triangular side markings and a pale lip.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://sipus-old.unpak.ac.id/file/PANDUAN%20BERGAMBAR%20ULAR%20JAWA_compressed.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.mybis.gov.my/art/217",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -16267,37 +16357,35 @@ window.SERPENT_PRESETS = {
           "eyes",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; head, shape and pattern need visual comparison.",
+          "Dorsal pattern and side-to-side asymmetry are simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Malaysia biodiversity description reports a brown, moderately stout snake with dark triangular side markings, small eyes, a dark crown and a pale lip.",
+            "The head, narrow neck and triangle pattern are drawn as an editable approximation."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "flank_triangles",
+        "skin_color": "#aa8270",
+        "marking_color": "#543a31",
+        "belly_color": "#d3b9aa",
         "body_build": 1,
-        "scale_texture": "keeled",
+        "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.5,
+        "mark_spacing": 66,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -16306,37 +16394,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 70,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -11.200000000000001,
+              48,
+              -14,
+              57,
+              -12.04
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              57,
+              -12.04,
+              62,
+              -10.08,
+              66,
               -8.5,
-              79,
+              70,
               -8.5
             ]
           ],
@@ -16346,44 +16434,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              50,
+              13,
+              58,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              58,
+              9.5,
+              63,
               8.5,
-              75.05,
+              67,
               8.5,
-              79,
+              70,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            26,
+            -1.5,
+            3.4,
+            3.4
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -16391,19 +16479,29 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 52 7 L66 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M10 -14 H53 V-4 L36 -2 L10 -5Z",
+              "fill": "#49342e"
+            },
+            {
+              "path": "M25 -3 L48 0 L61 5 L58 8 L45 4 L25 0Z",
+              "fill": "#49342e"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a18170"
         },
         "body_stations": [
           [
@@ -16419,32 +16517,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -16454,32 +16552,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -16502,7 +16600,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -17085,14 +17183,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_7fd271ae997a9bb3",
       "source_species_name": "Cerberus rynchops",
       "common_name": "Asian Bockadam",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown dog-faced water snake with a dark eye stripe.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://singapore.biodiversity.online/taxo4254/mainSpace/Cerberus%20rynchops.html",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -17108,126 +17206,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; head shape, stripe and color variation need photo comparison.",
+          "Water-snake eye placement and body stripe geometry are simplified in this single view."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The NUS account describes a distinct elongate head, small high-set eyes and a dark stripe through each eye.",
+            "It also describes keeled scales and varied colors and patterns."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#77695c",
+        "marking_color": "#443a34",
+        "belly_color": "#d2c5b5",
         "body_build": 1,
-        "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "scale_texture": "keeled",
+        "tail_type": "long",
+        "scale_pitch": 4,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 58,
+          "neck": 8,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              44,
+              -10,
+              50,
+              -8
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              50,
+              -8,
+              53,
+              -8,
+              56,
+              -8,
+              58,
+              -8
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              45,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              50,
+              8
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              50,
+              8,
+              53,
+              8,
+              56,
+              8,
+              58,
+              8
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            23,
+            -1,
+            2.5,
+            2.5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 54 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -17235,78 +17331,85 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M4 -2 L25 -3 L48 1 L55 3 L40 3 L25 0 L4 0Z",
+              "fill": "#3d342e"
+            }
+          ],
+          "iris_color": "#292723",
+          "micro_scales": true
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            8
           ],
           [
             281,
             242,
-            9
+            12
           ],
           [
             370,
             265,
-            12.5
+            15
           ],
           [
             463,
             295,
-            14
+            18
           ],
           [
             515,
             344,
-            14.2
+            19
           ],
           [
             506,
             395,
-            13.8
+            19
           ],
           [
             441,
             430,
-            13.1
+            18
           ],
           [
             341,
             443,
-            12
+            17
           ],
           [
             257,
             472,
-            10.6
+            16
           ],
           [
             252,
             515,
-            8.8
+            15
           ],
           [
             324,
             550,
-            6.6
+            13
           ],
           [
             425,
             562,
-            4.7
+            11
           ],
           [
             527,
             548,
-            2.8
+            9
           ],
           [
             603,
             519,
-            1.3
+            7
           ],
           [
             654,
@@ -17319,7 +17422,10 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false,
+        "dorsal_midline_color": "#51453c",
+        "dorsal_midline_width": 0.07
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -17327,7 +17433,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -17930,14 +18036,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_484310c4eb2c1202",
       "source_species_name": "Conophis lineatus",
       "common_name": "Road Guarder",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown road guarder with longitudinal striping.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.gutenberg.org/cache/epub/37512/pg37512-images.html",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -17953,75 +18059,73 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot photos; proportions and color require comparison with healthy animals.",
+          "Stripe count and placement are schematic and vary geographically."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The taxonomic revision describes variable dorsal striping and a lateral head stripe in this species complex.",
+            "Six longitudinal dark stripes and a head stripe are shown as an editable illustrative variant."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#b7a184",
+        "marking_color": "#54483c",
+        "belly_color": "#e1d5bf",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "long",
+        "scale_pitch": 4.1,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
+          "length": 54,
           "neck": 7,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              40,
+              -10,
+              46,
+              -7
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
+              46,
               -7,
-              84,
+              49,
+              -7,
+              52,
+              -7,
+              54,
               -7
             ]
           ],
@@ -18029,50 +18133,50 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              41,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              46,
+              7
             ],
             [
-              69,
-              9,
-              75,
+              46,
               7,
-              79,
+              49,
               7,
-              84,
+              52,
+              7,
+              54,
               7
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            23,
+            -1,
+            3,
+            3
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 50 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -18080,7 +18184,13 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M6 -3 L25 -4 L44 -2 L51 1 L38 1 L25 -1 L6 0Z",
+              "fill": "#514338"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -18091,67 +18201,67 @@ window.SERPENT_PRESETS = {
           [
             281,
             242,
-            9
+            10
           ],
           [
             370,
             265,
-            12.5
+            13
           ],
           [
             463,
             295,
-            14
+            15
           ],
           [
             515,
             344,
-            14.2
+            16
           ],
           [
             506,
             395,
-            13.8
+            16
           ],
           [
             441,
             430,
-            13.1
+            15
           ],
           [
             341,
             443,
-            12
+            14
           ],
           [
             257,
             472,
-            10.6
+            13
           ],
           [
             252,
             515,
-            8.8
+            12
           ],
           [
             324,
             550,
-            6.6
+            11
           ],
           [
             425,
             562,
-            4.7
+            10
           ],
           [
             527,
             548,
-            2.8
+            8
           ],
           [
             603,
             519,
-            1.3
+            6
           ],
           [
             654,
@@ -18164,7 +18274,17 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false,
+        "longitudinal_stripe_offsets": [
+          -0.72,
+          -0.46,
+          -0.2,
+          0.2,
+          0.46,
+          0.72
+        ],
+        "longitudinal_stripe_width": 0.045
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -18172,7 +18292,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -23921,14 +24041,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_e8b86139fe58e822",
       "source_species_name": "Drysdalia coronoides",
       "common_name": "White-lipped Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown white-lipped snake with pink underside.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://collections.museumsvictoria.com.au/species/8789",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -23941,75 +24061,73 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; stripe placement and head dimensions require photo comparison.",
+          "Underside is represented by a uniform color only."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Museums Victoria describes a variable gray, brown or black back, pale pink underside and white lip stripe.",
+            "The selected brown form uses a slim body and independent white lip stripe."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#655a50",
+        "marking_color": "#3e3732",
+        "belly_color": "#d4a999",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "long",
+        "scale_pitch": 4,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
+          "length": 46,
           "neck": 7,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              32,
+              -10,
+              38,
+              -7
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
+              38,
               -7,
-              84,
+              41,
+              -7,
+              44,
+              -7,
+              46,
               -7
             ]
           ],
@@ -24017,50 +24135,50 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              33,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              38,
+              7
             ],
             [
-              69,
-              9,
-              75,
+              38,
               7,
-              79,
+              41,
               7,
-              84,
+              44,
+              7,
+              46,
               7
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            19,
+            -1,
+            2.5,
+            2.5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 42 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -24068,7 +24186,15 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M3 2 Q20 1 39 4",
+              "fill": "none",
+              "stroke": "#eee5d4",
+              "width": 2
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -24084,27 +24210,27 @@ window.SERPENT_PRESETS = {
           [
             370,
             265,
-            12.5
+            11
           ],
           [
             463,
             295,
-            14
+            12
           ],
           [
             515,
             344,
-            14.2
+            13
           ],
           [
             506,
             395,
-            13.8
+            13
           ],
           [
             441,
             430,
-            13.1
+            12.5
           ],
           [
             341,
@@ -24114,32 +24240,32 @@ window.SERPENT_PRESETS = {
           [
             257,
             472,
-            10.6
+            11.5
           ],
           [
             252,
             515,
-            8.8
+            11
           ],
           [
             324,
             550,
-            6.6
+            10
           ],
           [
             425,
             562,
-            4.7
+            9
           ],
           [
             527,
             548,
-            2.8
+            8
           ],
           [
             603,
             519,
-            1.3
+            6
           ],
           [
             654,
@@ -24152,7 +24278,8 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -24160,7 +24287,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -24460,14 +24587,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_e4151782ba3f4a11",
       "source_species_name": "Echis coloratus",
       "common_name": "Palestine Saw-scaled Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gray-brown painted saw-scaled viper with pale dorsal blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.just.edu.jo/FacultiesandDepartments/FacultyofScienceandArts/Pages/Echis-coloratus-.aspx",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -24483,76 +24610,74 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; pale blotch shapes and head markings require photo comparison.",
+          "Variation in color and tail and underside features remains unmodeled."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The source describes a distinct head, variable gray-to-reddish ground colors and irregular pale dorsal blotches.",
+            "A stout body, keeled scales and pale-edged pattern were drafted."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#91786d",
+        "marking_color": "#cbb3a1",
+        "belly_color": "#d6c9ba",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 62,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 64,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              42,
+              -18,
+              51,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              51,
+              -15.48,
+              56,
+              -12.959999999999999,
+              60,
               -8.5,
-              79,
+              64,
               -8.5
             ]
           ],
@@ -24562,64 +24687,66 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              44,
               14,
-              66.36,
-              9.799999999999999
+              52,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              52,
+              9.5,
+              57,
               8.5,
-              75.05,
+              61,
               8.5,
-              79,
+              64,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            25,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 46 7 L60 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M13 -3 L27 -8 L41 -3 L36 0 L27 -3 L18 0Z",
+              "fill": "#d2c3ae"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 47 4 L66 5 L66 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#b29879"
         },
         "body_stations": [
           [
@@ -24635,32 +24762,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -24670,32 +24797,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -24710,7 +24837,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "blotch_border": "#574a43"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -24718,7 +24846,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -24727,18 +24855,27 @@ window.SERPENT_PRESETS = {
       "species_id": "source_99ceb9b6a3a4f3e5",
       "source_species_name": "Echis ocellatus",
       "common_name": "African Saw-scaled Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Ocellated carpet viper with gray-brown markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2025-07/010093823.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_074_echis_ocellatus/manifest.json",
+            "image_id": "inat_617695574",
+            "sha256": "e7ea1829d7469cb224c30795128b14a6eacbba4f77bf6ce3b79b9452447cde83",
+            "use": "Visual reference for the gray-brown patterned form; provider identity not independently verified."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_617695574": "Coiled, gray-brown patterned body; head and underside not clearly resolved."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -24748,75 +24885,76 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Qualitative color and pattern comparison only; provider identification and anatomy not independently verified.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The sole local pilot image remains provider-labelled and needs independent confirmation.",
+          "Actual species identification, pattern placement, head markings and underside need closer review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The regional taxonomic study documents the West African carpet viper complex; its pilot image shows a heavily patterned gray-brown viper.",
+            "A short viper outline, patterned body and no loreal heat pit are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "Only one coiled view has been consulted; head, underside and full body proportions are not validated.",
+          "reference_ids": [
+            "inat_617695574"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "ocelli",
+        "skin_color": "#a49987",
+        "marking_color": "#5b5049",
+        "belly_color": "#d7caba",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 3.7,
+        "mark_spacing": 46,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 59,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -12.8,
+              37,
+              -16,
+              46,
+              -13.76
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              46,
+              -13.76,
+              51,
+              -11.52,
+              55,
               -8.5,
-              79,
+              59,
               -8.5
             ]
           ],
@@ -24826,64 +24964,61 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              12,
+              39,
+              12,
+              47,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              47,
+              9.5,
+              52,
               8.5,
-              75.05,
+              56,
               8.5,
-              79,
+              59,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            23,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 41 7 L55 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 42 4 L61 5 L61 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#af986e"
         },
         "body_stations": [
           [
@@ -24894,72 +25029,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            20
           ],
           [
             502,
             397,
-            24
+            19
           ],
           [
             430,
             431,
-            22
+            18
           ],
           [
             330,
             445,
-            20
-          ],
-          [
-            253,
-            476,
             17
           ],
           [
             253,
+            476,
+            15.5
+          ],
+          [
+            253,
             515,
-            13
+            13.5
           ],
           [
             324,
             550,
-            8
+            11
           ],
           [
             400,
             555,
-            5
+            8.5
           ],
           [
             460,
             546,
-            2.8
+            6
           ],
           [
             510,
             528,
-            1
+            3.5
           ],
           [
             545,
@@ -24982,7 +25117,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -24991,14 +25126,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_94276255099b606a",
       "source_species_name": "Echis pyramidum",
       "common_name": "Egyptian Saw-scaled Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown Egyptian saw-scaled viper with light transverse marks.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.snakesociety.nl/jaargangen/1987e/Litteratura%20Serpentium%207-6%20272-277%20Pezzano%2C%20Reproduction%20of%20Echis%20pyramidum%20in%20captivity.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.acq.osd.mil/eie/afpmb/docs/dveps/Djibouti.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -25013,76 +25148,74 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; oblique marks and dark head pattern need photo comparison.",
+          "Head, tail and ventral details are stylized and taxonomic variation needs review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The cited description reports a brown or gray body with oblique pale crossbars.",
+            "A distinct head, short stout body and light markings are illustrated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "crossbands",
+        "skin_color": "#8d7867",
+        "marking_color": "#cab8a1",
+        "belly_color": "#d6c9ba",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 55,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 62,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              40,
+              -18,
+              49,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              49,
+              -15.48,
+              54,
+              -12.959999999999999,
+              58,
               -8.5,
-              79,
+              62,
               -8.5
             ]
           ],
@@ -25092,64 +25225,66 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              42,
               14,
-              66.36,
-              9.799999999999999
+              50,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              50,
+              9.5,
+              55,
               8.5,
-              75.05,
+              59,
               8.5,
-              79,
+              62,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            25,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 44 7 L58 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M13 -3 L27 -8 L41 -3 L36 0 L27 -3 L18 0Z",
+              "fill": "#d2c3ae"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 45 4 L64 5 L64 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#b29879"
         },
         "body_stations": [
           [
@@ -25165,32 +25300,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -25200,32 +25335,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -25248,7 +25383,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -25992,14 +26127,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_7abfe98eca8290c3",
       "source_species_name": "Hydrophis cyanocinctus",
       "common_name": "Annulated Sea Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Yellow-gray banded sea snake with a paddle tail.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://portals.iucn.org/library/sites/library/files/documents/2022-018-En.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.biosch.hku.hk/ecology/hkreptiles/snake/Hydrophis_cyanocinctus.html",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -26011,37 +26146,35 @@ window.SERPENT_PRESETS = {
           "eyes",
           "special"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; ring counts and paddle tail proportions require photo comparison.",
+          "The 2D paddle is schematic and cannot show its real three-dimensional compression."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Aipysurus laevis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The University of Hong Kong account describes yellow to gray ground color, dark body rings and a laterally compressed paddle tail.",
+            "A yellow-gray variant with blue-black rings and a paddle-tail setting is represented."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "aipysurus_laevis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "marine",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "rings",
+        "skin_color": "#c4b77d",
+        "marking_color": "#293435",
+        "belly_color": "#d5cfac",
         "body_build": 1,
-        "scale_texture": "smooth",
+        "scale_texture": "keeled",
         "tail_type": "paddle",
-        "scale_pitch": 7.4,
-        "mark_spacing": 63,
+        "scale_pitch": 3.8,
+        "mark_spacing": 21,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -26049,176 +26182,183 @@ window.SERPENT_PRESETS = {
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 53,
-          "neck": 8,
+          "length": 44,
+          "neck": 6.5,
           "upper": [
             [
               0,
               0,
-              0,
-              -6,
-              3,
-              -10,
-              11,
-              -10
-            ],
-            [
-              11,
-              -10,
-              22,
-              -11,
-              31,
-              -12,
-              40,
-              -9
-            ],
-            [
-              40,
-              -9,
-              45,
-              -8,
-              48,
-              -8,
-              53,
+              -1,
+              -4,
+              5,
+              -7,
+              12,
               -8
+            ],
+            [
+              12,
+              -8,
+              22,
+              -10,
+              30,
+              -10,
+              36,
+              -6.5
+            ],
+            [
+              36,
+              -6.5,
+              39,
+              -6.5,
+              42,
+              -6.5,
+              44,
+              -6.5
             ]
           ],
           "lower": [
             [
               0,
               0,
-              0,
-              6,
-              6,
-              10,
-              14,
-              10
-            ],
-            [
-              14,
-              10,
-              25,
-              12,
-              36,
-              11,
-              42,
-              9
-            ],
-            [
-              42,
-              9,
-              47,
+              -1,
+              3,
               8,
-              49,
-              8,
-              53,
+              6,
+              18,
               8
+            ],
+            [
+              18,
+              8,
+              28,
+              10,
+              31,
+              9,
+              36,
+              6.5
+            ],
+            [
+              36,
+              6.5,
+              39,
+              6.5,
+              42,
+              6.5,
+              44,
+              6.5
             ]
           ],
           "eye": [
             17,
-            -2,
+            -1,
             2.2,
-            2.3
+            2.2
           ],
           "nostril": [
-            5,
-            -5
+            6,
+            -1.5
           ],
-          "jaw": "M2 4 Q20 7 40 6 L48 5",
+          "jaw": "M1 3 Q18 5 40 7",
           "shields": [
-            "M5 -6 L14 -8 L21 -3 L18 4",
-            "M14 -8 L27 -9 L34 -4 L31 5 L18 4",
-            "M8 5 L9 9 M18 6 L19 10 M29 6 L31 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": false,
+          "lip": true,
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M33 -12 L46 -9 L46 -2 L33 -4Z",
+              "fill": "#58615a"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             225,
             212,
-            8
+            6.5
           ],
           [
             265,
             232,
-            13
+            8
           ],
           [
             340,
             259,
-            23
+            10
           ],
           [
             436,
             283,
-            26
+            11
           ],
           [
             503,
             326,
-            26
+            12
           ],
           [
             515,
             380,
-            25
+            12.5
           ],
           [
             461,
             421,
-            23
+            13
           ],
           [
             364,
             438,
-            21
+            13
           ],
           [
             273,
             462,
-            18
+            13
           ],
           [
             248,
             500,
-            15
+            12.5
           ],
           [
             286,
             535,
-            11
+            12
           ],
           [
             369,
             558,
-            9
+            11
           ],
           [
             444,
             562,
-            8
+            10
           ],
           [
             498,
             552,
-            15
+            12
           ],
           [
             545,
             530,
-            19
+            16
           ],
           [
             574,
             503,
-            14
+            13
           ],
           [
             583,
@@ -26231,7 +26371,9 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false,
+        "band_fraction": 0.38
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -26239,7 +26381,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -28593,18 +28735,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_6cf1e0c619c8b9c0",
       "source_species_name": "Macrovipera lebetina",
       "common_name": "Levantine viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown-gray Levantine viper with broad head and muted dorsal patches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.senckenberg.de/wp-content/uploads/2019/08/01_vertebrate_zoology_61-2_amr_179.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.just.edu.jo/FacultiesandDepartments/FacultyofScienceandArts/Pages/Macrovipera-lebetina.aspx",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_086_macrovipera_lebetina/manifest.json",
+            "image_id": "inat_152390854",
+            "sha256": "1c23d32f93484bdd384589af73625234d7fc8bb877cfe41328edf5215f024e53",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_086_macrovipera_lebetina/manifest.json",
+            "image_id": "inat_100100085",
+            "sha256": "61567924cdc0f0f6e3fd474c5d8af7077b7ef48ec28f0040aba2ed03aaff5edd",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_152390854": "Thick brown-gray snake with broad head and muted irregular dorsal patches.",
+          "inat_100100085": "Top view of broad rounded head and heavy body with brown transverse markings."
+        },
         "unextracted_fields": [
           "tail",
           "scales",
@@ -28614,75 +28772,78 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The two selected individuals vary in color and pattern; this is an illustrative intermediate.",
+          "Side markings, underside and tail need further validation.",
+          "Species identification remains provider supplied."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Pilot views show a heavy-bodied viper with a broad, comparatively blunt head and brown-gray patching.",
+            "The head and body were reshaped, with no loreal heat pit drawn."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_152390854",
+            "inat_100100085"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#b7a58b",
+        "marking_color": "#88755e",
+        "belly_color": "#d5c8ae",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.5,
+        "mark_spacing": 69,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 72,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              50,
+              -18,
+              59,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              59,
+              -15.48,
+              64,
+              -12.959999999999999,
+              68,
               -8.5,
-              79,
+              72,
               -8.5
             ]
           ],
@@ -28692,64 +28853,61 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              15,
+              52,
+              15,
+              60,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              60,
+              9.5,
+              65,
               8.5,
-              75.05,
+              69,
               8.5,
-              79,
+              72,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 54 7 L68 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 55 4 L74 5 L74 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a58c68"
         },
         "body_stations": [
           [
@@ -28760,7 +28918,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -28780,52 +28938,52 @@ window.SERPENT_PRESETS = {
           [
             514,
             347,
-            26
+            27
           ],
           [
             502,
             397,
-            24
+            26
           ],
           [
             430,
             431,
-            22
+            25
           ],
           [
             330,
             445,
-            20
+            23
           ],
           [
             253,
             476,
-            17
+            21
           ],
           [
             253,
             515,
-            13
+            18
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -28848,7 +29006,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://www.just.edu.jo/FacultiesandDepartments/FacultyofScienceandArts/Pages/Macrovipera-lebetina.aspx"
     },
     {
@@ -28857,14 +29015,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_1e642e4d0c23c99e",
       "source_species_name": "Macrovipera mauritanica",
       "common_name": "Macrovipera mauritanica",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown-gray Moorish viper with dark dorsal markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://biomedicalsciences.unimelb.edu.au/__data/assets/pdf_file/0010/3216736/AFRO-Snakebite-Management-Guidelines-2010.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -28880,76 +29038,74 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot photos; head, pattern and body shape need photo comparison.",
+          "Dorsal blotches, head markings and underside are simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The WHO Africa guide illustrates and describes a large viper with a brownish-gray body and a patterned back.",
+            "A stout body, dark zigzag and scaled head are represented."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "dorsal_zigzag",
+        "skin_color": "#a89580",
+        "marking_color": "#5f5149",
+        "belly_color": "#d6c5ae",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 54,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 70,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              48,
+              -18,
+              57,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              57,
+              -15.48,
+              62,
+              -12.959999999999999,
+              66,
               -8.5,
-              79,
+              70,
               -8.5
             ]
           ],
@@ -28959,64 +29115,61 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              50,
               14,
-              66.36,
-              9.799999999999999
+              58,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              58,
+              9.5,
+              63,
               8.5,
-              75.05,
+              67,
               8.5,
-              79,
+              70,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            3.6,
+            3.6
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 52 7 L66 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a38f70"
         },
         "body_stations": [
           [
@@ -29027,7 +29180,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -29037,12 +29190,12 @@ window.SERPENT_PRESETS = {
           [
             390,
             271,
-            25
+            24
           ],
           [
             471,
             302,
-            27
+            26
           ],
           [
             514,
@@ -29052,47 +29205,47 @@ window.SERPENT_PRESETS = {
           [
             502,
             397,
-            24
+            25
           ],
           [
             430,
             431,
-            22
+            24
           ],
           [
             330,
             445,
-            20
+            22
           ],
           [
             253,
             476,
-            17
+            20
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -29107,7 +29260,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "zigzag_width": 0.33
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -29115,7 +29269,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1
+      "model_revision": 2
     },
     {
       "schema_version": 1,
@@ -29123,14 +29277,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_432f92659252c945",
       "source_species_name": "Metlapilcoatlus nummifer",
       "common_name": "Mexican Jumping Pit Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gray Mexican jumping pit viper with dark dorsal blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://redtoxdev.nmn.mx/especies/metlapilcoatlus-nummifer",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -29146,36 +29300,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Three local photographs have not been fitted or independently identified.",
+          "Lateral spots, ventral flecks and exact diamond arrangement are simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Mexican Redtox account describes a short, very robust viper with a large head and dark rhomboid dorsal spots on a gray or brown ground.",
+            "A broad head, robust taper and dark diamonds are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "diamonds",
+        "skin_color": "#8d8275",
+        "marking_color": "#c7b9a4",
+        "belly_color": "#d8cbb5",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.1,
+        "mark_spacing": 62,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -29184,37 +29337,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 70,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -15.200000000000001,
+              48,
+              -19,
+              57,
+              -16.34
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              57,
+              -16.34,
+              62,
+              -13.68,
+              66,
               -8.5,
-              79,
+              70,
               -8.5
             ]
           ],
@@ -29224,44 +29377,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              15,
+              50,
+              15,
+              58,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              58,
+              9.5,
+              63,
               8.5,
-              75.05,
+              67,
               8.5,
-              79,
+              70,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            3.6,
+            3.6
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -29269,19 +29422,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 52 7 L66 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M30 -2 L54 0 L63 5 L45 4Z",
+              "fill": "#44372f"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a48d69"
         },
         "body_stations": [
           [
@@ -29292,12 +29451,12 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            15
           ],
           [
             305,
             249,
-            20
+            21
           ],
           [
             390,
@@ -29312,52 +29471,52 @@ window.SERPENT_PRESETS = {
           [
             514,
             347,
-            26
+            27
           ],
           [
             502,
             397,
-            24
+            26
           ],
           [
             430,
             431,
-            22
+            25
           ],
           [
             330,
             445,
-            20
+            23
           ],
           [
             253,
             476,
-            17
+            21
           ],
           [
             253,
             515,
-            13
+            18
           ],
           [
             324,
             550,
-            8
+            15
           ],
           [
             400,
             555,
-            5
+            11
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -29372,7 +29531,10 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "tail_color": "#4e4946",
+        "tail_color_length": 40,
+        "diamond_center_color": "#453a34"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -29380,7 +29542,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -29389,14 +29551,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_2c37d5b6901581fa",
       "source_species_name": "Micropechis ikaheka",
       "common_name": "Micropechis ikaheka",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Pale New Guinea small-eyed snake with darker head and bands.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://www.kingsnake.com/aho/pngsmc/Clinical_Management_of_Snakebite_in_PNG.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -29410,125 +29572,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The local photos have not been used for fitting; condition and identification need further review.",
+          "Band progression from the midbody and the short tail need closer modeling."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The PNG guide describes a thick body, grayish head, light ground color and variable dark bands.",
+            "The draft uses small eyes, a dark head, pale body and dark scale tips."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "crossbands",
+        "skin_color": "#d7c9a5",
+        "marking_color": "#726257",
+        "belly_color": "#e0d4b8",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
-        "mark_spacing": 63,
+        "tail_type": "short",
+        "scale_pitch": 4.2,
+        "mark_spacing": 65,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 49,
+          "neck": 10,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              35,
+              -10,
+              41,
+              -10
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              41,
+              -10,
+              44,
+              -10,
+              47,
+              -10,
+              49,
+              -10
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              36,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              41,
+              10
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              41,
+              10,
+              44,
+              10,
+              47,
+              10,
+              49,
+              10
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            18,
+            -1,
+            1.9,
+            1.9
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 45 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -29536,78 +29697,79 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            10
           ],
           [
             281,
             242,
-            9
+            14
           ],
           [
             370,
             265,
-            12.5
+            18
           ],
           [
             463,
             295,
-            14
+            21
           ],
           [
             515,
             344,
-            14.2
+            22
           ],
           [
             506,
             395,
-            13.8
+            22
           ],
           [
             441,
             430,
-            13.1
+            21
           ],
           [
             341,
             443,
-            12
+            20
           ],
           [
             257,
             472,
-            10.6
+            19
           ],
           [
             252,
             515,
-            8.8
+            17
           ],
           [
             324,
             550,
-            6.6
+            15
           ],
           [
             425,
             562,
-            4.7
+            13
           ],
           [
             527,
             548,
-            2.8
+            10
           ],
           [
             603,
             519,
-            1.3
+            7
           ],
           [
             654,
@@ -29620,7 +29782,10 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false,
+        "head_color": "#5f5953",
+        "scale_tip_color": "#827264"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -29628,7 +29793,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1
+      "model_revision": 2
     },
     {
       "schema_version": 1,
@@ -29636,18 +29801,27 @@ window.SERPENT_PRESETS = {
       "species_id": "source_ee00622858707fbd",
       "source_species_name": "Micrurus alleni",
       "common_name": "Allen's Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Orange-red coral snake with broad black rings and narrow pale borders.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/micrurus-alleni",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Existing species profile; not independently checked for this draft."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_089_micrurus_alleni/manifest.json",
+            "image_id": "inat_13480729",
+            "sha256": "91c898bdd88b2e3293506ff9f58b6fe744f9628c3ce204cb2ac5c09f4a7092a5",
+            "use": "Visual reference for the listed visible features; provider identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_13480729": "Coiled snake with orange-red areas, broad black rings edged in narrow cream, and dark flecks on red scales."
+        },
         "unextracted_fields": [
           "tail",
           "scales",
@@ -29656,36 +29830,39 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Photo-informed color and ring-pattern draft; the single projected head, body, ventral surface and tail are not anatomically validated.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Ring counts, exact scale-tip pattern, tail-specific markings, and geographic variation are not calibrated.",
+          "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+          "Provider identification and the model need independent expert review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The photographed body has orange-red sections with dark flecks, black rings, and narrow cream borders; the rendered flecks and tail pattern remain simplified.",
+            "Body thickness and eye size are illustrative edits, not measurements.",
+            "The exaggerated thin tail was replaced by a fuller, short-tapering illustrative silhouette, and dark tips were added to red scales."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "One editable projected drawing; cannot validate other angles from this reference.",
+          "reference_ids": [
+            "inat_13480729"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
-        "body_build": 1,
+        "pattern": "band_sequence",
+        "skin_color": "#e55520",
+        "marking_color": "#1d2021",
+        "belly_color": "#f0ead6",
+        "body_build": 0.9,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.1,
+        "mark_spacing": 91,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -29763,8 +29940,8 @@ window.SERPENT_PRESETS = {
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.8,
+            3.0
           ],
           "nostril": [
             7,
@@ -29782,8 +29959,13 @@ window.SERPENT_PRESETS = {
             "M29 -8 L38 -7 L40 3 L31 6",
             "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -20 H32 V20 H-3Z",
+              "fill": "#1d2021"
+            }
+          ]
         },
         "body_stations": [
           [
@@ -29799,67 +29981,67 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            14
           ],
           [
             471,
             302,
-            18
+            15
           ],
           [
             514,
             347,
-            17
+            15
           ],
           [
             502,
             397,
-            15
+            14
           ],
           [
             430,
             431,
-            13
+            13.8
           ],
           [
             330,
             445,
-            11
+            13.5
           ],
           [
             253,
             476,
-            9
+            13
           ],
           [
             253,
             515,
-            6.5
+            12.5
           ],
           [
             324,
             550,
-            4.5
+            12
           ],
           [
             425,
             562,
-            2.7
+            11
           ],
           [
             527,
             548,
-            1.6
+            9
           ],
           [
             610,
             516,
-            0.7
+            5.5
           ],
           [
             669,
@@ -29873,7 +30055,26 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.49
+          },
+          {
+            "color": "belly",
+            "fraction": 0.065
+          },
+          {
+            "color": "marking",
+            "fraction": 0.38
+          },
+          {
+            "color": "belly",
+            "fraction": 0.065
+          }
+        ],
+        "scale_tip_color": "#281c1a"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -29881,7 +30082,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -29890,14 +30091,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_1ffc9dd77f25c98d",
       "source_species_name": "Micrurus altirostris",
       "common_name": "Uruguayan Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Southern coral snake with red intervals and dark triads.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.scielo.br/j/paz/a/LFTXH7dWPSxLgsG43hZsDdj/?format=html",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://sib.gob.ar/especies/micrurus-altirostris",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -29912,36 +30113,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Several pilot images show injured animals and are not used; healthy specimens require closer review.",
+          "Counts and proportions of the bands are illustrative, and the head markings need independent verification."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Argentine national parks describes red interspaces, black triads separated by white or yellow rings, and black-tipped scales.",
+            "The dark snout and red posterior head are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#c14534",
+        "marking_color": "#242526",
+        "belly_color": "#e2d59c",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4,
+        "mark_spacing": 95,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -29950,37 +30150,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 46,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
+              12,
+              -8,
+              22,
+              -10,
+              32,
+              -10,
+              38,
+              -8
             ],
             [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              38,
               -8,
-              42.3,
+              41,
               -8,
-              45,
+              44,
+              -8,
+              46,
               -8
             ]
           ],
@@ -29988,58 +30188,72 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
+              -1,
+              3,
+              8,
+              6,
+              18,
+              8
             ],
             [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
+              18,
+              8,
+              28,
+              10,
+              33,
+              9,
+              38,
+              8
             ],
             [
-              36.9,
-              5.720000000000001,
-              39.6,
+              38,
               8,
-              42.3,
+              41,
               8,
-              45,
+              44,
+              8,
+              46,
               8
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.4,
+            2.4
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 42 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -15 H25 V15 H-3Z",
+              "fill": "#252627"
+            },
+            {
+              "path": "M11 -15 H13 V15 H11Z M20 -15 H22 V15 H20Z",
+              "fill": "#e5dcb6"
+            },
+            {
+              "path": "M25 -15 H50 V15 H25Z",
+              "fill": "#bc4939"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -30055,27 +30269,27 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            13
           ],
           [
             471,
             302,
-            18
+            14
           ],
           [
             514,
             347,
-            17
+            14
           ],
           [
             502,
             397,
-            15
+            13.5
           ],
           [
             430,
@@ -30085,37 +30299,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            11
+            12.5
           ],
           [
             253,
             476,
-            9
+            12
           ],
           [
             253,
             515,
-            6.5
+            11.5
           ],
           [
             324,
             550,
-            4.5
+            10.5
           ],
           [
             425,
             562,
-            2.7
+            9
           ],
           [
             527,
             548,
-            1.6
+            7
           ],
           [
             610,
             516,
-            0.7
+            4
           ],
           [
             669,
@@ -30129,7 +30343,34 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "scale_tip_color": "#342c27",
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.38
+          },
+          {
+            "color": "marking",
+            "fraction": 0.14
+          },
+          {
+            "color": "belly",
+            "fraction": 0.08
+          },
+          {
+            "color": "marking",
+            "fraction": 0.14
+          },
+          {
+            "color": "belly",
+            "fraction": 0.08
+          },
+          {
+            "color": "marking",
+            "fraction": 0.18
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -30137,7 +30378,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -30146,18 +30387,27 @@ window.SERPENT_PRESETS = {
       "species_id": "source_f074d6b92f420193",
       "source_species_name": "Micrurus browni",
       "common_name": "Brown's Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Red and black coral snake with narrow yellow borders and a yellow neck collar.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Existing species profile; not independently checked for this draft."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_091_micrurus_browni/manifest.json",
+            "image_id": "inat_411849",
+            "sha256": "5ef0ad7d6a53f64f13946be10f084e07784f0e010528e7830b1a3e905ef6eed6",
+            "use": "Visual reference for the listed visible features; provider identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_411849": "Living snake with red sections, black rings edged in yellow, and a dark head with a yellow collar."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -30169,36 +30419,39 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Photo-informed color and ring-pattern draft; the single projected head, body, ventral surface and tail are not anatomically validated.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Ring counts, exact scale-tip pattern, tail-specific markings, and geographic variation are not calibrated.",
+          "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+          "Provider identification and the model need independent expert review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Pilot image shows bright red, black and yellow bands and a dark head with yellow collar; rendered bands simplify black flecks on red scales.",
+            "Body thickness and eye size are illustrative edits, not measurements.",
+            "The exaggerated thin tail was replaced by a fuller, short-tapering illustrative silhouette, and dark tips were added to red scales."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "One editable projected drawing; cannot validate other angles from this reference.",
+          "reference_ids": [
+            "inat_411849"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
-        "body_build": 1,
+        "pattern": "band_sequence",
+        "skin_color": "#d92d12",
+        "marking_color": "#191c1a",
+        "belly_color": "#f3c920",
+        "body_build": 0.86,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.2,
+        "mark_spacing": 96,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -30276,8 +30529,8 @@ window.SERPENT_PRESETS = {
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.6,
+            2.8
           ],
           "nostril": [
             7,
@@ -30295,8 +30548,17 @@ window.SERPENT_PRESETS = {
             "M29 -8 L38 -7 L40 3 L31 6",
             "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -20 H32 V20 H-3Z",
+              "fill": "#191c1a"
+            },
+            {
+              "path": "M30 -20 H39 V20 H30Z",
+              "fill": "#f3c920"
+            }
+          ]
         },
         "body_stations": [
           [
@@ -30307,32 +30569,32 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            10
+            9.8
           ],
           [
             305,
             249,
-            14
+            11.5
           ],
           [
             390,
             271,
-            17
+            13
           ],
           [
             471,
             302,
-            18
+            14
           ],
           [
             514,
             347,
-            17
+            14
           ],
           [
             502,
             397,
-            15
+            13.5
           ],
           [
             430,
@@ -30342,37 +30604,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            11
+            12.8
           ],
           [
             253,
             476,
-            9
+            12.2
           ],
           [
             253,
             515,
-            6.5
+            11.8
           ],
           [
             324,
             550,
-            4.5
+            11.2
           ],
           [
             425,
             562,
-            2.7
+            10.2
           ],
           [
             527,
             548,
-            1.6
+            8.1
           ],
           [
             610,
             516,
-            0.7
+            4.9
           ],
           [
             669,
@@ -30386,7 +30648,26 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.54
+          },
+          {
+            "color": "belly",
+            "fraction": 0.075
+          },
+          {
+            "color": "marking",
+            "fraction": 0.31
+          },
+          {
+            "color": "belly",
+            "fraction": 0.075
+          }
+        ],
+        "scale_tip_color": "#281c1a"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -30394,7 +30675,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -30403,14 +30684,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_3c7c51577a7a55e1",
       "source_species_name": "Micrurus clarki",
       "common_name": "Clark's Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Clark coral snake with red body intervals and yellow-black tail.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4885053/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://serpientes.ins.gov.co/en/Paginas/files/Micrurus-clarki.aspx",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -30423,36 +30704,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The single local photo has not been used for fitting; more independent images are needed.",
+          "The exact ring count and widths and the pale neck band need reference comparison."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Colombian national health institute describes a black head cap, red-black-yellow monads and a black-yellow banded tail.",
+            "The drawing includes an independently controlled two-color tail."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#c64230",
+        "marking_color": "#242426",
+        "belly_color": "#e5d079",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "tail_type": "long",
+        "scale_pitch": 4,
+        "mark_spacing": 95,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -30461,37 +30741,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 47,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
-            ],
-            [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              12,
               -8,
-              42.3,
+              22,
+              -10,
+              33,
+              -10,
+              39,
+              -8
+            ],
+            [
+              39,
+              -8,
+              42,
               -8,
               45,
+              -8,
+              47,
               -8
             ]
           ],
@@ -30499,58 +30779,68 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
-            ],
-            [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
-            ],
-            [
-              36.9,
-              5.720000000000001,
-              39.6,
+              -1,
+              3,
               8,
-              42.3,
+              6,
+              18,
+              8
+            ],
+            [
+              18,
+              8,
+              28,
+              10,
+              34,
+              9,
+              39,
+              8
+            ],
+            [
+              39,
+              8,
+              42,
               8,
               45,
+              8,
+              47,
               8
             ]
           ],
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.5,
+            2.5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 43 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -15 H31 V15 H-3Z",
+              "fill": "#242426"
+            },
+            {
+              "path": "M31 -15 H41 V15 H31Z",
+              "fill": "#e1d394"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -30566,27 +30856,27 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            13
           ],
           [
             471,
             302,
-            18
+            14
           ],
           [
             514,
             347,
-            17
+            14
           ],
           [
             502,
             397,
-            15
+            13.5
           ],
           [
             430,
@@ -30596,37 +30886,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            11
+            12.5
           ],
           [
             253,
             476,
-            9
+            12
           ],
           [
             253,
             515,
-            6.5
+            11.5
           ],
           [
             324,
             550,
-            4.5
+            10.5
           ],
           [
             425,
             562,
-            2.7
+            9
           ],
           [
             527,
             548,
-            1.6
+            7
           ],
           [
             610,
             516,
-            0.7
+            4
           ],
           [
             669,
@@ -30640,7 +30930,30 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "tail_pattern": "alternating_bands",
+        "tail_band_light": "#dfcb7a",
+        "tail_band_dark": "#242426",
+        "tail_band_spacing": 17,
+        "tail_band_length": 80,
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.6
+          },
+          {
+            "color": "belly",
+            "fraction": 0.05
+          },
+          {
+            "color": "marking",
+            "fraction": 0.3
+          },
+          {
+            "color": "belly",
+            "fraction": 0.05
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -30648,7 +30961,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -30657,18 +30970,27 @@ window.SERPENT_PRESETS = {
       "species_id": "source_05b5040ece161a8f",
       "source_species_name": "Micrurus corallinus",
       "common_name": "Painted Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Red coral snake with broad black rings separated from red by narrow pale bands.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://ecoevo.com.br/publicacoes/pesquisadores/otavio_marques/teses/tesemestradohistorianaturalmicruruscorallinus_1992.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Existing species profile; not independently checked for this draft."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_093_micrurus_corallinus/manifest.json",
+            "image_id": "inat_102213101",
+            "sha256": "b17f36cf48596586b1919ba2ac6cbb67b75c22d39b463232c9c5ed8ee57cd6ed",
+            "use": "Visual reference for the listed visible features; provider identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_102213101": "Close view of red body segments with black scale tips, broad black rings with thin white edges, dark head and pale neck, and mostly black-and-white tail."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -30678,36 +31000,39 @@ window.SERPENT_PRESETS = {
           "eyes",
           "special"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Photo-informed color and ring-pattern draft; the single projected head, body, ventral surface and tail are not anatomically validated.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Ring counts, exact scale-tip pattern, tail-specific markings, and geographic variation are not calibrated.",
+          "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+          "Provider identification and the model need independent expert review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "A close image shows red sections with black scale tips, black rings and narrow pale borders; its tail is darker than the simplified rendered tail.",
+            "Body thickness and eye size are illustrative edits, not measurements.",
+            "The exaggerated thin tail was replaced by a fuller, short-tapering illustrative silhouette, and dark tips were added to red scales."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "One editable projected drawing; cannot validate other angles from this reference.",
+          "reference_ids": [
+            "inat_102213101"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
-        "body_build": 1,
+        "pattern": "band_sequence",
+        "skin_color": "#d93d2d",
+        "marking_color": "#1d2022",
+        "belly_color": "#f4ead9",
+        "body_build": 0.98,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.3,
+        "mark_spacing": 106,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -30783,10 +31108,10 @@ window.SERPENT_PRESETS = {
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.8,
+            2.9
           ],
           "nostril": [
             7,
@@ -30804,8 +31129,17 @@ window.SERPENT_PRESETS = {
             "M29 -8 L38 -7 L40 3 L31 6",
             "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -20 H32 V20 H-3Z",
+              "fill": "#1d2022"
+            },
+            {
+              "path": "M31 -20 H39 V20 H31Z",
+              "fill": "#f4ead9"
+            }
+          ]
         },
         "body_stations": [
           [
@@ -30821,67 +31155,67 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            13
           ],
           [
             390,
             271,
-            17
+            15.5
           ],
           [
             471,
             302,
-            18
+            16.5
           ],
           [
             514,
             347,
-            17
+            16
           ],
           [
             502,
             397,
-            15
+            15.5
           ],
           [
             430,
             431,
-            13
+            15
           ],
           [
             330,
             445,
-            11
+            14.5
           ],
           [
             253,
             476,
-            9
+            14
           ],
           [
             253,
             515,
-            6.5
+            13.7
           ],
           [
             324,
             550,
-            4.5
+            13
           ],
           [
             425,
             562,
-            2.7
+            11.5
           ],
           [
             527,
             548,
-            1.6
+            9.4
           ],
           [
             610,
             516,
-            0.7
+            5.8
           ],
           [
             669,
@@ -30895,7 +31229,26 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.56
+          },
+          {
+            "color": "belly",
+            "fraction": 0.055
+          },
+          {
+            "color": "marking",
+            "fraction": 0.33
+          },
+          {
+            "color": "belly",
+            "fraction": 0.055
+          }
+        ],
+        "scale_tip_color": "#281c1a"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -30903,7 +31256,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -30912,18 +31265,27 @@ window.SERPENT_PRESETS = {
       "species_id": "source_44f04494e1a59e6b",
       "source_species_name": "Micrurus dumerilii",
       "common_name": "Transandean Capuchin Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Red and black coral snake with thin cream borders and a dark head.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://repository.si.edu/bitstream/handle/10088/15389/USNMP-67_2596_1925.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Existing species profile; not independently checked for this draft."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_094_micrurus_dumerilii/manifest.json",
+            "image_id": "inat_165176095",
+            "sha256": "c54e61d56e0d5c0f4206041b01e67ffd3f58b18a53ed46233ed9868388646698",
+            "use": "Visual reference for the listed visible features; provider identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_165176095": "Head and forward body show red scales with dark tips, black rings edged in pale, and black head with pale lip and neck accents."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -30934,36 +31296,39 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Photo-informed color and ring-pattern draft; the single projected head, body, ventral surface and tail are not anatomically validated.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Ring counts, exact scale-tip pattern, tail-specific markings, and geographic variation are not calibrated.",
+          "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+          "Provider identification and the model need independent expert review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Pilot close-up shows red scales with dark tips, single black rings with fine pale borders and pale markings beside the dark head.",
+            "Body thickness and eye size are illustrative edits, not measurements.",
+            "The exaggerated thin tail was replaced by a fuller, short-tapering illustrative silhouette, and dark tips were added to red scales."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "One editable projected drawing; cannot validate other angles from this reference.",
+          "reference_ids": [
+            "inat_165176095"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
-        "body_build": 1,
+        "pattern": "band_sequence",
+        "skin_color": "#e13b21",
+        "marking_color": "#1b1d1e",
+        "belly_color": "#f0e6cf",
+        "body_build": 0.88,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.0,
+        "mark_spacing": 105,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -31041,8 +31406,8 @@ window.SERPENT_PRESETS = {
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.5,
+            2.7
           ],
           "nostril": [
             7,
@@ -31060,8 +31425,17 @@ window.SERPENT_PRESETS = {
             "M29 -8 L38 -7 L40 3 L31 6",
             "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -20 H32 V20 H-3Z",
+              "fill": "#1b1d1e"
+            },
+            {
+              "path": "M31 -20 H39 V20 H31Z",
+              "fill": "#f0e6cf"
+            }
+          ]
         },
         "body_stations": [
           [
@@ -31077,67 +31451,67 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12.2
           ],
           [
             390,
             271,
-            17
+            14.2
           ],
           [
             471,
             302,
-            18
+            15
           ],
           [
             514,
             347,
-            17
+            14.8
           ],
           [
             502,
             397,
-            15
+            14.2
           ],
           [
             430,
             431,
-            13
+            13.8
           ],
           [
             330,
             445,
-            11
+            13.3
           ],
           [
             253,
             476,
-            9
+            12.8
           ],
           [
             253,
             515,
-            6.5
+            12.3
           ],
           [
             324,
             550,
-            4.5
+            11.6
           ],
           [
             425,
             562,
-            2.7
+            10.6
           ],
           [
             527,
             548,
-            1.6
+            8.7
           ],
           [
             610,
             516,
-            0.7
+            5.4
           ],
           [
             669,
@@ -31151,7 +31525,26 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.62
+          },
+          {
+            "color": "belly",
+            "fraction": 0.04
+          },
+          {
+            "color": "marking",
+            "fraction": 0.3
+          },
+          {
+            "color": "belly",
+            "fraction": 0.04
+          }
+        ],
+        "scale_tip_color": "#281c1a"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -31159,7 +31552,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -31168,18 +31561,27 @@ window.SERPENT_PRESETS = {
       "species_id": "source_4a468c829ded40b6",
       "source_species_name": "Micrurus frontalis",
       "common_name": "Southern Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Red coral snake with black and pale band groups and a patterned face.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://ecoevo.com.br/publicacoes/alunos/murilo_rodrigues/atividadecoralsulsudbr_2006.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Existing species profile; not independently checked for this draft."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_095_micrurus_frontalis/manifest.json",
+            "image_id": "inat_155417463",
+            "sha256": "cd2be374315a799f370eb9ad1d9b4e5f9a5a9b967e176e6899b6a710b9aeddc8",
+            "use": "Visual reference for the listed visible features; provider identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_155417463": "Close view shows red head and neck region, dark facial cap outlined in white, and black bands separated by pale bands."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -31190,36 +31592,40 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Photo-informed color and ring-pattern draft; the single projected head, body, ventral surface and tail are not anatomically validated.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Ring counts, exact scale-tip pattern, tail-specific markings, and geographic variation are not calibrated.",
+          "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+          "Provider identification and the model need independent expert review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The close-up shows black-pale-black-pale-black bands next to a red collar and a dark face with pale scale outlines; facial markings remain simplified.",
+            "Body thickness and eye size are illustrative edits, not measurements.",
+            "The exaggerated thin tail was replaced by a fuller, short-tapering illustrative silhouette, and dark tips were added to red scales.",
+            "The head approximates the photographed dark-and-pale facial scales and red posterior region; individual shield geometry remains schematic."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "One editable projected drawing; cannot validate other angles from this reference.",
+          "reference_ids": [
+            "inat_155417463"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
-        "body_build": 1,
+        "pattern": "band_sequence",
+        "skin_color": "#dc3e1f",
+        "marking_color": "#1d1e1d",
+        "belly_color": "#eae7d4",
+        "body_build": 0.9,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.2,
+        "mark_spacing": 112,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -31295,10 +31701,10 @@ window.SERPENT_PRESETS = {
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.8,
+            2.8
           ],
           "nostril": [
             7,
@@ -31316,8 +31722,18 @@ window.SERPENT_PRESETS = {
             "M29 -8 L38 -7 L40 3 L31 6",
             "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -17 H24 V17 H-3Z",
+              "fill": "#eee9db"
+            },
+            {
+              "path": "M0 -9 L8 -12 L12 -6 L10 0 L2 1 L-2 -4Z M10 -12 L19 -12 L22 -7 L19 -2 L13 -4Z M2 2 L10 1 L13 6 L8 10 L1 7Z M14 -2 L20 -3 L23 2 L21 8 L14 8 L11 4Z",
+              "fill": "#252526"
+            }
+          ],
+          "iris_color": "#292824"
         },
         "body_stations": [
           [
@@ -31333,67 +31749,67 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12.5
           ],
           [
             390,
             271,
-            17
+            14.5
           ],
           [
             471,
             302,
-            18
+            15.5
           ],
           [
             514,
             347,
-            17
+            15.5
           ],
           [
             502,
             397,
-            15
+            14.8
           ],
           [
             430,
             431,
-            13
+            14.3
           ],
           [
             330,
             445,
-            11
+            13.7
           ],
           [
             253,
             476,
-            9
+            13.2
           ],
           [
             253,
             515,
-            6.5
+            12.8
           ],
           [
             324,
             550,
-            4.5
+            12
           ],
           [
             425,
             562,
-            2.7
+            11
           ],
           [
             527,
             548,
-            1.6
+            9
           ],
           [
             610,
             516,
-            0.7
+            5.5
           ],
           [
             669,
@@ -31407,7 +31823,34 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.38
+          },
+          {
+            "color": "marking",
+            "fraction": 0.14
+          },
+          {
+            "color": "belly",
+            "fraction": 0.09
+          },
+          {
+            "color": "marking",
+            "fraction": 0.14
+          },
+          {
+            "color": "belly",
+            "fraction": 0.09
+          },
+          {
+            "color": "marking",
+            "fraction": 0.16
+          }
+        ],
+        "scale_tip_color": "#281c1a"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -31415,7 +31858,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -31424,14 +31867,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_1fd581df6fe7f638",
       "source_species_name": "Micrurus fulvius",
       "common_name": "Eastern Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Eastern coral snake with red, black and yellow bands and a black snout.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://edis.ifas.ufl.edu/publication/UW258/pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.floridamuseum.ufl.edu/florida-snake-id/snake/harlequin-coralsnake/",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -31444,37 +31887,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local images; head, band widths and proportions need photo comparison.",
+          "Exact ring count, scale-tip markings and tail coloration vary and are approximate."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The museum description supports a thin body, black snout and red/black rings separated by narrow yellow rings.",
+            "Band order, black head and lightly flecked red sections were added procedurally."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#d6422c",
+        "marking_color": "#1b1c1d",
+        "belly_color": "#e4c743",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4,
+        "mark_spacing": 96,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -31483,37 +31924,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 46,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
+              12,
+              -8,
+              22,
+              -10,
+              32,
+              -10,
+              38,
+              -8
             ],
             [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              38,
               -8,
-              42.3,
+              41,
               -8,
-              45,
+              44,
+              -8,
+              46,
               -8
             ]
           ],
@@ -31521,58 +31962,68 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
+              -1,
+              3,
+              8,
+              6,
+              18,
+              8
             ],
             [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
+              18,
+              8,
+              28,
+              10,
+              33,
+              9,
+              38,
+              8
             ],
             [
-              36.9,
-              5.720000000000001,
-              39.6,
+              38,
               8,
-              42.3,
+              41,
               8,
-              45,
+              44,
+              8,
+              46,
               8
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.6,
+            2.6
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 42 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -16 H29 V16 H-3Z",
+              "fill": "#1b1c1d"
+            },
+            {
+              "path": "M25 -16 H37 V16 H25Z",
+              "fill": "#e4c743"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -31588,27 +32039,27 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            13
           ],
           [
             471,
             302,
-            18
+            14
           ],
           [
             514,
             347,
-            17
+            14
           ],
           [
             502,
             397,
-            15
+            13.5
           ],
           [
             430,
@@ -31618,37 +32069,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            11
+            12.5
           ],
           [
             253,
             476,
-            9
+            12
           ],
           [
             253,
             515,
-            6.5
+            11.5
           ],
           [
             324,
             550,
-            4.5
+            11
           ],
           [
             425,
             562,
-            2.7
+            10
           ],
           [
             527,
             548,
-            1.6
+            8
           ],
           [
             610,
             516,
-            0.7
+            4.5
           ],
           [
             669,
@@ -31662,7 +32113,26 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "scale_tip_color": "#2c2422",
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.44
+          },
+          {
+            "color": "belly",
+            "fraction": 0.08
+          },
+          {
+            "color": "marking",
+            "fraction": 0.4
+          },
+          {
+            "color": "belly",
+            "fraction": 0.08
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -31670,7 +32140,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -31967,18 +32437,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_90d96f1863e77284",
       "source_species_name": "Micrurus mipartitus",
       "common_name": "Redtail Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Dark-bodied coral snake with pale rings and red head and tail accents.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/micrurus-mipartitus",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/micrurus-mipartitus",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_097_micrurus_mipartitus/manifest.json",
+            "image_id": "inat_126462389",
+            "sha256": "4e306f2e8bf9d15c7d490fff60ad64c4abbeddc3baeb3d7647b8977b90d5b171",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_097_micrurus_mipartitus/manifest.json",
+            "image_id": "inat_27160952",
+            "sha256": "22f020f4f7cb0acf8b74016096b5bd3b29658ac3d7b90e4ea6d48c30c585c982",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_126462389": "Close view of dark snout, orange-red head band and black body with narrow cream rings.",
+          "inat_27160952": "Whole-body view of dark trunk, narrow pale rings and contrasting red-and-black tail."
+        },
         "unextracted_fields": [
           "body",
           "scales",
@@ -31987,36 +32473,39 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Number and widths of bands and geographic variation are not calibrated.",
+          "Underside and tail boundaries need additional angle-specific review.",
+          "Provider identification and morphology require independent verification."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Small blunt head, narrow pale rings on a predominantly dark body, and a red-and-black tail are visible in the chosen photographs.",
+            "The head outline, eye size and body taper have been adjusted as illustrative approximations."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_126462389",
+            "inat_27160952"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "rings",
+        "skin_color": "#1c2221",
+        "marking_color": "#eee6bd",
+        "belly_color": "#e5dfc1",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.0,
+        "mark_spacing": 29,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -32094,8 +32583,8 @@ window.SERPENT_PRESETS = {
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.3,
+            2.4
           ],
           "nostril": [
             7,
@@ -32113,8 +32602,14 @@ window.SERPENT_PRESETS = {
             "M29 -8 L38 -7 L40 3 L31 6",
             "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M10 -17 H32 V17 H10Z",
+              "fill": "#e45331"
+            }
+          ],
+          "iris_color": "#22211f"
         },
         "body_stations": [
           [
@@ -32130,67 +32625,67 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            13.5
           ],
           [
             471,
             302,
-            18
+            14
           ],
           [
             514,
             347,
-            17
+            14
           ],
           [
             502,
             397,
-            15
+            13.7
           ],
           [
             430,
             431,
-            13
+            13.5
           ],
           [
             330,
             445,
-            11
+            13
           ],
           [
             253,
             476,
-            9
+            12.5
           ],
           [
             253,
             515,
-            6.5
+            12
           ],
           [
             324,
             550,
-            4.5
+            11.4
           ],
           [
             425,
             562,
-            2.7
+            10.4
           ],
           [
             527,
             548,
-            1.6
+            8.4
           ],
           [
             610,
             516,
-            0.7
+            4.8
           ],
           [
             669,
@@ -32204,7 +32699,13 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.22,
+        "tail_pattern": "alternating_bands",
+        "tail_band_light": "#d84328",
+        "tail_band_dark": "#202120",
+        "tail_band_dark_fraction": 0.43,
+        "tail_band_spacing": 15,
+        "tail_band_length": 82
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -32212,7 +32713,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -32221,18 +32722,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_5d36097f267930c5",
       "source_species_name": "Micrurus mosquitensis",
       "common_name": "Costa Rican Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Red, black and yellow Mosquitian coral snake.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.icp.ucr.ac.cr/es/informacion-y-materiales/serpientes-venenosas-de-costa-rica/micrurus-mosquitensis",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/micrurus-mosquitensis",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_098_micrurus_mosquitensis/manifest.json",
+            "image_id": "inat_13481178",
+            "sha256": "3864158fa1288d93c5e9b90d690be5bf1a3fee59cd6c57e4ea7e4ed2bbcea17a",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_098_micrurus_mosquitensis/manifest.json",
+            "image_id": "inat_150546320",
+            "sha256": "2a590cf3d4be5c692d7704aaa49c1902adb401efc53a66132bddf8ca5f39748f",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_13481178": "Red body bands flecked with black, broad black bands edged in yellow, and dark head with yellow band.",
+          "inat_150546320": "Additional view of red, black and yellow bands with part of the underside visible."
+        },
         "unextracted_fields": [
           "tail",
           "scales",
@@ -32241,36 +32758,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Band count, scale detail and ventral pattern are approximate.",
+          "Tail, geographic variation and photo identity require additional review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The selected individual has red scales with dark tips, broad black rings with yellow borders and a yellow band on the dark head.",
+            "Its head, body proportions and band sizes are an editable qualitative draft."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_13481178",
+            "inat_150546320"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#d83e20",
+        "marking_color": "#1b1e20",
+        "belly_color": "#e0bd31",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.1,
+        "mark_spacing": 93,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -32279,37 +32798,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 47,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
-            ],
-            [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              12,
               -8,
-              42.3,
+              22,
+              -10,
+              33,
+              -10,
+              39,
+              -8
+            ],
+            [
+              39,
+              -8,
+              42,
               -8,
               45,
+              -8,
+              47,
               -8
             ]
           ],
@@ -32317,58 +32836,68 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
-            ],
-            [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
-            ],
-            [
-              36.9,
-              5.720000000000001,
-              39.6,
+              -1,
+              4,
               8,
-              42.3,
+              7,
+              18,
+              8
+            ],
+            [
+              18,
+              8,
+              28,
+              10,
+              34,
+              9,
+              39,
+              7.5
+            ],
+            [
+              39,
+              7.5,
+              42,
               8,
               45,
+              8,
+              47,
               8
             ]
           ],
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.7,
+            2.8
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 43 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -16 H42 V16 H-3Z",
+              "fill": "#1b1e20"
+            },
+            {
+              "path": "M11 -16 H23 V16 H11Z",
+              "fill": "#e0bd31"
+            }
+          ],
+          "iris_color": "#2b2825"
         },
         "body_stations": [
           [
@@ -32384,67 +32913,67 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            14
           ],
           [
             471,
             302,
-            18
+            15
           ],
           [
             514,
             347,
-            17
+            15
           ],
           [
             502,
             397,
-            15
+            14.5
           ],
           [
             430,
             431,
-            13
+            14
           ],
           [
             330,
             445,
-            11
+            13.5
           ],
           [
             253,
             476,
-            9
+            13
           ],
           [
             253,
             515,
-            6.5
+            12.5
           ],
           [
             324,
             550,
-            4.5
+            12
           ],
           [
             425,
             562,
-            2.7
+            11
           ],
           [
             527,
             548,
-            1.6
+            9
           ],
           [
             610,
             516,
-            0.7
+            5.5
           ],
           [
             669,
@@ -32458,7 +32987,26 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "scale_tip_color": "#271d1d",
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.49
+          },
+          {
+            "color": "belly",
+            "fraction": 0.08
+          },
+          {
+            "color": "marking",
+            "fraction": 0.35
+          },
+          {
+            "color": "belly",
+            "fraction": 0.08
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -32466,7 +33014,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -32475,18 +33023,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_a309f49d00e59306",
       "source_species_name": "Micrurus nigrocinctus",
       "common_name": "Central American Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Red and black Central American coral snake with narrow cream ring borders.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/micrurus-nigrocinctus",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_099_micrurus_nigrocinctus/manifest.json",
+            "image_id": "inat_61495253",
+            "sha256": "ec009b720b09aaa7de123f4cb98e723ee2952732529c8efdd238b61eca855c13",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_099_micrurus_nigrocinctus/manifest.json",
+            "image_id": "inat_63413599",
+            "sha256": "38a62cb0b54c29a83824d139af27eb10b82f399ac3830ef9f2ebdfe695ed9262",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_61495253": "Head close-up showing black snout, light head band and red-black-cream rings.",
+          "inat_63413599": "Whole-body segment showing red areas with dark rings edged in pale cream."
+        },
         "unextracted_fields": [
           "tail",
           "scales",
@@ -32495,36 +33059,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Color and head-band variation exist within the species.",
+          "Full tail and ventral markings need additional references; identification is not independently verified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The photo shows a black snout, pale head band and dark body rings edged in cream against red areas.",
+            "Band dimensions and the head shape were adjusted for the selected color form."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_61495253",
+            "inat_63413599"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#bb3929",
+        "marking_color": "#1b1e20",
+        "belly_color": "#e6d9b8",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.1,
+        "mark_spacing": 100,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -32533,37 +33099,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 46,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
+              12,
+              -8,
+              22,
+              -10,
+              32,
+              -10,
+              38,
+              -8
             ],
             [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              38,
               -8,
-              42.3,
+              41,
               -8,
-              45,
+              44,
+              -8,
+              46,
               -8
             ]
           ],
@@ -32571,58 +33137,68 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
+              -1,
+              4,
+              8,
+              7,
+              18,
+              8
             ],
             [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
+              18,
+              8,
+              28,
+              10,
+              33,
+              9,
+              38,
+              7.5
             ],
             [
-              36.9,
-              5.720000000000001,
-              39.6,
+              38,
+              7.5,
+              41,
               8,
-              42.3,
+              44,
               8,
-              45,
+              46,
               8
             ]
           ],
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.7,
+            2.8
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 42 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -16 H40 V16 H-3Z",
+              "fill": "#1b1e20"
+            },
+            {
+              "path": "M14 -16 H25 V16 H14Z",
+              "fill": "#e6d9b8"
+            }
+          ],
+          "iris_color": "#2b2825"
         },
         "body_stations": [
           [
@@ -32638,22 +33214,22 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12.5
           ],
           [
             390,
             271,
-            17
+            14.5
           ],
           [
             471,
             302,
-            18
+            15.5
           ],
           [
             514,
             347,
-            17
+            15.5
           ],
           [
             502,
@@ -32663,42 +33239,42 @@ window.SERPENT_PRESETS = {
           [
             430,
             431,
-            13
+            14.5
           ],
           [
             330,
             445,
-            11
+            14
           ],
           [
             253,
             476,
-            9
+            13.4
           ],
           [
             253,
             515,
-            6.5
+            12.8
           ],
           [
             324,
             550,
-            4.5
+            12
           ],
           [
             425,
             562,
-            2.7
+            11
           ],
           [
             527,
             548,
-            1.6
+            9
           ],
           [
             610,
             516,
-            0.7
+            5.5
           ],
           [
             669,
@@ -32712,7 +33288,26 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "scale_tip_color": "#271d1d",
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.52
+          },
+          {
+            "color": "belly",
+            "fraction": 0.06
+          },
+          {
+            "color": "marking",
+            "fraction": 0.36
+          },
+          {
+            "color": "belly",
+            "fraction": 0.06
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -32720,7 +33315,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -32729,14 +33324,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_7619ab922285d4c7",
       "source_species_name": "Micrurus paraensis",
       "common_name": "Pará Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Long-tailed Pará coral snake with single black rings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.mapress.com/zootaxa/2007f/z01470p046f.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://reptile-database.reptarium.cz/Micrurus/paraensis?search_param=%28%28search%3D%27Uma%27%29%29",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -32749,36 +33344,35 @@ window.SERPENT_PRESETS = {
           "eyes",
           "special"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Pilot photographs have not yet been assessed for this draft.",
+          "Ring count and widths are schematic; the black head cap does not extend exactly onto the neck."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The published diagnosis describes 12–21 black body rings bordered by narrow white rings, long red intervals, and a black and white tail.",
+            "A black snout and pale neck ring are included."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#b74336",
+        "marking_color": "#242426",
+        "belly_color": "#eadbba",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "tail_type": "long",
+        "scale_pitch": 4,
+        "mark_spacing": 100,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -32787,37 +33381,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 47,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
-            ],
-            [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              12,
               -8,
-              42.3,
+              22,
+              -10,
+              33,
+              -10,
+              39,
+              -8
+            ],
+            [
+              39,
+              -8,
+              42,
               -8,
               45,
+              -8,
+              47,
               -8
             ]
           ],
@@ -32825,58 +33419,68 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
-            ],
-            [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
-            ],
-            [
-              36.9,
-              5.720000000000001,
-              39.6,
+              -1,
+              3,
               8,
-              42.3,
+              6,
+              18,
+              8
+            ],
+            [
+              18,
+              8,
+              28,
+              10,
+              34,
+              9,
+              39,
+              8
+            ],
+            [
+              39,
+              8,
+              42,
               8,
               45,
+              8,
+              47,
               8
             ]
           ],
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.5,
+            2.5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 43 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -14 H29 V14 H-3Z",
+              "fill": "#252427"
+            },
+            {
+              "path": "M29 -14 H40 V14 H29Z",
+              "fill": "#e4d9c4"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -32892,27 +33496,27 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            13
           ],
           [
             471,
             302,
-            18
+            14
           ],
           [
             514,
             347,
-            17
+            14
           ],
           [
             502,
             397,
-            15
+            13.5
           ],
           [
             430,
@@ -32922,37 +33526,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            11
+            12.5
           ],
           [
             253,
             476,
-            9
+            12
           ],
           [
             253,
             515,
-            6.5
+            11.5
           ],
           [
             324,
             550,
-            4.5
+            10.5
           ],
           [
             425,
             562,
-            2.7
+            9
           ],
           [
             527,
             548,
-            1.6
+            7
           ],
           [
             610,
             516,
-            0.7
+            4
           ],
           [
             669,
@@ -32966,7 +33570,30 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "tail_pattern": "alternating_bands",
+        "tail_band_light": "#e9ddc4",
+        "tail_band_dark": "#262526",
+        "tail_band_spacing": 17,
+        "tail_band_length": 85,
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.7
+          },
+          {
+            "color": "belly",
+            "fraction": 0.035
+          },
+          {
+            "color": "marking",
+            "fraction": 0.23
+          },
+          {
+            "color": "belly",
+            "fraction": 0.035
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -32974,7 +33601,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -32983,18 +33610,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_d8bac9a0371bd233",
       "source_species_name": "Micrurus spixii",
       "common_name": "Amazon Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Amazon coral snake with dark ring triads and black-tipped scales.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://ppbio.inpa.gov.br/sites/default/files/guia-cobras-regiaoManaus_PPBio_CENBAM.pdf",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_101_micrurus_spixii/manifest.json",
+            "image_id": "inat_204731869",
+            "sha256": "be9238f79d8eb2e14c30270875d357364078c2d381ee38882f04a53c70fa19e5",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_101_micrurus_spixii/manifest.json",
+            "image_id": "inat_161988103",
+            "sha256": "fa9d7bfd97a1fe0a0c062a9cab40fcad6f7d6bd1b321b4ae85b9342d030c12b5",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_204731869": "Whole body: dark, pale and red ring sequence.",
+          "inat_161988103": "Head: dark head and pale neck marking; provider identity unverified."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -33006,36 +33649,39 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Provider-labelled pilot identity has not been independently confirmed.",
+          "The stripe/ring widths and exact ordering need close comparison against additional healthy specimens.",
+          "Head proportions and underside require independent visual review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Manaus field guide describes black triads separated internally by pale rings, red intervals, and dark scale tips.",
+            "The pilot images show a dark head and contrasting red, dark and pale body bands."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_204731869",
+            "inat_161988103"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#b74b39",
+        "marking_color": "#232426",
+        "belly_color": "#dfd5b4",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4,
+        "mark_spacing": 95,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -33044,37 +33690,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 47,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
-            ],
-            [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              12,
               -8,
-              42.3,
+              22,
+              -10,
+              33,
+              -10,
+              39,
+              -8
+            ],
+            [
+              39,
+              -8,
+              42,
               -8,
               45,
+              -8,
+              47,
               -8
             ]
           ],
@@ -33082,58 +33728,68 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
-            ],
-            [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
-            ],
-            [
-              36.9,
-              5.720000000000001,
-              39.6,
+              -1,
+              3,
               8,
-              42.3,
+              6,
+              18,
+              8
+            ],
+            [
+              18,
+              8,
+              28,
+              10,
+              34,
+              9,
+              39,
+              8
+            ],
+            [
+              39,
+              8,
+              42,
               8,
               45,
+              8,
+              47,
               8
             ]
           ],
           "eye": [
             18,
             -1,
-            3.7,
-            3.9
+            2.5,
+            2.5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 43 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -15 H25 V15 H-3Z",
+              "fill": "#252628"
+            },
+            {
+              "path": "M25 -15 H34 V15 H25Z",
+              "fill": "#ddd3b2"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -33149,27 +33805,27 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            13
           ],
           [
             471,
             302,
-            18
+            14
           ],
           [
             514,
             347,
-            17
+            14
           ],
           [
             502,
             397,
-            15
+            13.5
           ],
           [
             430,
@@ -33179,37 +33835,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            11
+            12.5
           ],
           [
             253,
             476,
-            9
+            12
           ],
           [
             253,
             515,
-            6.5
+            11.5
           ],
           [
             324,
             550,
-            4.5
+            10.5
           ],
           [
             425,
             562,
-            2.7
+            9
           ],
           [
             527,
             548,
-            1.6
+            7
           ],
           [
             610,
             516,
-            0.7
+            4
           ],
           [
             669,
@@ -33223,7 +33879,34 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "scale_tip_color": "#342b28",
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.2
+          },
+          {
+            "color": "marking",
+            "fraction": 0.16
+          },
+          {
+            "color": "belly",
+            "fraction": 0.14
+          },
+          {
+            "color": "marking",
+            "fraction": 0.16
+          },
+          {
+            "color": "belly",
+            "fraction": 0.14
+          },
+          {
+            "color": "marking",
+            "fraction": 0.2
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -33231,7 +33914,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -33240,18 +33923,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_886a77b690dfb405",
       "source_species_name": "Micrurus surinamensis",
       "common_name": "Aquatic Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Aquatic coral snake with a red head, red sections and black-pale triads.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://serpientes.ins.gov.co/Paginas/Fichas-es/Micrurus-surinamensis.aspx",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://serpientes.ins.gov.co/en/Paginas/files/Micrurus-surinamensis.aspx",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_102_micrurus_surinamensis/manifest.json",
+            "image_id": "inat_97723036",
+            "sha256": "ea2fd7a55898dc275f65107765398aad6fad1231593b8811eb9581bdc48a874d",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_102_micrurus_surinamensis/manifest.json",
+            "image_id": "inat_230481536",
+            "sha256": "bf1af641303cf523c1620070f5550c1c384d350a53d73de6f71ee2f25aef5756",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_97723036": "Coiled snake showing red head and red bands, black triads and pale separators.",
+          "inat_230481536": "Close view of red head with dark scale borders and adjacent black and pale bands."
+        },
         "unextracted_fields": [
           "tail",
           "scales",
@@ -33260,36 +33959,39 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "A lateral view cannot establish the true dorsal eye and nostril positions or flattened head.",
+          "Ventral color variation, band counts and tail pattern need further review.",
+          "Photograph identity and species anatomy are not independently verified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The chosen photographs show a red head with dark scale outlines, broad body and black triads with pale separators.",
+            "A relatively broad head and body, red head and individually sized triad bands are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_97723036",
+            "inat_230481536"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#dc4a20",
+        "marking_color": "#1b1e20",
+        "belly_color": "#e5dfc7",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.1,
+        "mark_spacing": 112,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -33298,37 +34000,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": false,
         "head_geometry": {
-          "length": 45,
+          "length": 49,
           "neck": 8,
           "upper": [
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
+              12,
+              -8,
+              22,
+              -10,
+              35,
+              -10,
+              41,
+              -8
             ],
             [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              41,
               -8,
-              42.3,
+              44,
               -8,
-              45,
+              47,
+              -8,
+              49,
               -8
             ]
           ],
@@ -33336,58 +34038,59 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
+              -1,
+              4,
+              8,
+              7,
+              18,
+              8
             ],
             [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
+              18,
+              8,
+              28,
+              10,
+              36,
+              9,
+              41,
+              7.5
             ],
             [
-              36.9,
-              5.720000000000001,
-              39.6,
+              41,
+              7.5,
+              44,
               8,
-              42.3,
+              47,
               8,
-              45,
+              49,
               8
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.7,
+            2.8
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 45 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [],
+          "iris_color": "#2b2825"
         },
         "body_stations": [
           [
@@ -33398,7 +34101,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            10
+            11
           ],
           [
             305,
@@ -33418,52 +34121,52 @@ window.SERPENT_PRESETS = {
           [
             514,
             347,
-            17
+            18
           ],
           [
             502,
             397,
-            15
+            17.5
           ],
           [
             430,
             431,
-            13
+            17
           ],
           [
             330,
             445,
-            11
+            16.5
           ],
           [
             253,
             476,
-            9
+            16
           ],
           [
             253,
             515,
-            6.5
+            15
           ],
           [
             324,
             550,
-            4.5
+            14
           ],
           [
             425,
             562,
-            2.7
+            12.5
           ],
           [
             527,
             548,
-            1.6
+            10
           ],
           [
             610,
             516,
-            0.7
+            6
           ],
           [
             669,
@@ -33477,7 +34180,34 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "scale_tip_color": "#271d1d",
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.29
+          },
+          {
+            "color": "marking",
+            "fraction": 0.12
+          },
+          {
+            "color": "belly",
+            "fraction": 0.07
+          },
+          {
+            "color": "marking",
+            "fraction": 0.25
+          },
+          {
+            "color": "belly",
+            "fraction": 0.07
+          },
+          {
+            "color": "marking",
+            "fraction": 0.2
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -33485,7 +34215,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -33494,18 +34224,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_ce67552e717ef86f",
       "source_species_name": "Micrurus tschudii",
       "common_name": "Desert Coralsnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Desert coral snake with orange-red head band and black-pale triads.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://bioweb.bio/faunaweb/reptiliaweb/FichaEspecie/Micrurus%20tschudii",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_103_micrurus_tschudii/manifest.json",
+            "image_id": "inat_11713963",
+            "sha256": "f2b9d89b9b6bfc28ec7edf7e90895eca07692d09553a53c46b7ad429e12e5570",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_103_micrurus_tschudii/manifest.json",
+            "image_id": "inat_11713966",
+            "sha256": "6ec8d89ae84e5c17ad91db8c0154f15bdbaf892204f8b170c38458d4c11be28f",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_11713963": "Orange-red, black and pale ring triads, with red head band.",
+          "inat_11713966": "Close view of black head with an orange-red band and pale scale outlines."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -33516,36 +34262,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The photographs come from one observation and do not establish range of variation.",
+          "Underside, tail and specimen identity need further review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Pilot images show a black head crossed by an orange-red band and dark triads separated by pale rings.",
+            "Head marking, ring arrangement and body taper are approximate editable geometry."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bungarus_candidus"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_11713963",
+            "inat_11713966"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#e65d28",
+        "marking_color": "#1b1e20",
+        "belly_color": "#eee9d9",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.5,
-        "mark_spacing": 68,
+        "scale_pitch": 4.1,
+        "mark_spacing": 96,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "rounded",
@@ -33560,29 +34308,29 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.5,
-              -6.0,
+              -1,
+              -4,
               5,
-              -8.399999999999999,
-              10.799999999999999,
-              -10.2
+              -7,
+              12,
+              -8
             ],
             [
-              10.799999999999999,
-              -10.2,
-              19.35,
-              -13.200000000000001,
-              30.6,
-              -12.600000000000001,
-              35.1,
-              -7.800000000000001
-            ],
-            [
-              35.1,
-              -7.800000000000001,
-              38.7,
+              12,
               -8,
-              42.3,
+              22,
+              -10,
+              31,
+              -10,
+              37,
+              -8
+            ],
+            [
+              37,
+              -8,
+              40,
+              -8,
+              43,
               -8,
               45,
               -8
@@ -33592,58 +34340,68 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              -1.2,
-              4.4,
-              8.55,
-              7.699999999999999,
-              18.0,
-              9.35
-            ],
-            [
-              18.0,
-              9.35,
-              27.0,
-              11,
-              32.85,
-              9.35,
-              36.9,
-              5.720000000000001
-            ],
-            [
-              36.9,
-              5.720000000000001,
-              39.6,
+              -1,
+              4,
               8,
-              42.3,
+              7,
+              18,
+              8
+            ],
+            [
+              18,
+              8,
+              28,
+              10,
+              32,
+              9,
+              37,
+              7.5
+            ],
+            [
+              37,
+              7.5,
+              40,
+              8,
+              43,
               8,
               45,
               8
             ]
           ],
           "eye": [
-            18,
+            17,
             -1,
-            3.7,
-            3.9
+            2.7,
+            2.8
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+          "jaw": "M1 3 Q18 5 41 7",
           "shields": [
-            "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
-            "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
-            "M29 -8 L38 -7 L40 3 L31 6",
-            "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
-          "markings": []
+          "lip": false,
+          "markings": [
+            {
+              "path": "M-3 -15 H40 V15 H-3Z",
+              "fill": "#1b1e20"
+            },
+            {
+              "path": "M12 -15 H24 V15 H12Z",
+              "fill": "#e65d28"
+            }
+          ],
+          "iris_color": "#2b2825"
         },
         "body_stations": [
           [
@@ -33659,67 +34417,67 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            14
+            12
           ],
           [
             390,
             271,
-            17
+            13.5
           ],
           [
             471,
             302,
-            18
+            14.5
           ],
           [
             514,
             347,
-            17
+            14.5
           ],
           [
             502,
             397,
-            15
+            14
           ],
           [
             430,
             431,
-            13
+            13.5
           ],
           [
             330,
             445,
-            11
+            13
           ],
           [
             253,
             476,
-            9
+            12.5
           ],
           [
             253,
             515,
-            6.5
+            12
           ],
           [
             324,
             550,
-            4.5
+            11.5
           ],
           [
             425,
             562,
-            2.7
+            10.5
           ],
           [
             527,
             548,
-            1.6
+            8.5
           ],
           [
             610,
             516,
-            0.7
+            5
           ],
           [
             669,
@@ -33733,7 +34491,34 @@ window.SERPENT_PRESETS = {
           170,
           120
         ],
-        "band_fraction": 0.4
+        "band_fraction": 0.4,
+        "scale_tip_color": "#271d1d",
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.23
+          },
+          {
+            "color": "marking",
+            "fraction": 0.14
+          },
+          {
+            "color": "belly",
+            "fraction": 0.08
+          },
+          {
+            "color": "marking",
+            "fraction": 0.25
+          },
+          {
+            "color": "belly",
+            "fraction": 0.08
+          },
+          {
+            "color": "marking",
+            "fraction": 0.22
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -33741,7 +34526,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -33750,18 +34535,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_056759e6c9b89fa7",
       "source_species_name": "Montivipera raddei",
       "common_name": "Armenian Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Armenian viper with orange-brown dorsal blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://backoffice.biblio.ugent.be/download/4246982/4336883",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://stlzoo.org/animals/reptiles/snakes/armenian-viper",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_104_montivipera_raddei/manifest.json",
+            "image_id": "inat_83527",
+            "sha256": "59d571899a69a88dc51f5e7353e79a5e8d5eac7f22d353084b27920697f1817a",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_104_montivipera_raddei/manifest.json",
+            "image_id": "inat_14991591",
+            "sha256": "425c082007f2249be24000c765500ae4ddf0b7763bf826300c0f281814ffae94",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_83527": "Thick gray-brown snake with orange-brown markings and dark side spots.",
+          "inat_14991591": "Coiled brown-orange viper in rocky habitat."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -33772,35 +34573,37 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Real markings are irregular and not perfect repeated rings.",
+          "Tail, underside and photo identity need further review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The selected views show a stocky gray-brown snake with orange-brown dorsal areas and darker spots.",
+            "A broad head, heavy body and orange-centered dark markings are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_83527",
+            "inat_14991591"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "ocelli",
+        "skin_color": "#8b8174",
+        "marking_color": "#4d453e",
+        "belly_color": "#c0aea0",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
+        "scale_pitch": 4.4,
         "mark_spacing": 65,
         "mark_size": 1,
         "tail_segments": 0,
@@ -33808,39 +34611,39 @@ window.SERPENT_PRESETS = {
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 68,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              46,
+              -18,
+              55,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              55,
+              -15.48,
+              60,
+              -12.959999999999999,
+              64,
               -8.5,
-              79,
+              68,
               -8.5
             ]
           ],
@@ -33850,64 +34653,61 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              48,
               14,
-              66.36,
-              9.799999999999999
+              56,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              56,
+              9.5,
+              61,
               8.5,
-              75.05,
+              65,
               8.5,
-              79,
+              68,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            3.6,
+            3.6
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 50 7 L64 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 51 4 L70 5 L70 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a78667"
         },
         "body_stations": [
           [
@@ -33918,32 +34718,32 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
             249,
-            20
+            19
           ],
           [
             390,
             271,
-            25
+            23
           ],
           [
             471,
             302,
-            27
+            24
           ],
           [
             514,
             347,
-            26
+            24
           ],
           [
             502,
             397,
-            24
+            23
           ],
           [
             430,
@@ -33953,37 +34753,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            20
+            21
           ],
           [
             253,
             476,
-            17
+            19
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -33998,7 +34798,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "ocelli_center_color": "#a36545"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -34006,7 +34807,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -34990,14 +35791,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_8f96c694ab63c1e7",
       "source_species_name": "Naja katiensis",
       "common_name": "Katian Spitting Cobra",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown Mali spitting cobra with two dark throat bands.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers19-11/010037390.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -35011,41 +35812,34 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery.",
-          "Hood geometry smoothed; species-specific appearance still requires reference review.",
-          "Generic throat marks removed; actual throat pattern has not yet been reviewed and represented.",
-          "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views.",
-          "No species-specific full reference review yet; hood and colors remain preliminary."
+          "No local pilot photos; head and hood measurements are not species-validated.",
+          "The rendering shows one illustrative posture rather than full individual variation."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Naja kaouthia; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement.",
-            "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+            "An African herpetological guide describes a uniformly brown back and yellowish belly with two dark transverse neck bands.",
+            "A smoother expanded hood profile and the two dark throat bands are illustrated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "naja_kaouthia"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "cobra",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#9a7561",
+        "marking_color": "#463c36",
+        "belly_color": "#d9c4a5",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "pointed",
-        "scale_pitch": 8.2,
+        "scale_pitch": 6.2,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
@@ -35060,39 +35854,39 @@ window.SERPENT_PRESETS = {
           ],
           [
             178,
-            57
+            48
           ],
           [
             200,
-            72.9
+            60
           ],
           [
             220,
-            78
+            63
           ],
           [
             235,
-            78
+            63
           ],
           [
             250,
-            75.7
+            61
           ],
           [
             270,
-            64.7
+            53
           ],
           [
             290,
-            56.6
+            46
           ],
           [
             310,
-            40
+            36
           ],
           [
             330,
-            32.0
+            30
           ],
           [
             350,
@@ -35196,7 +35990,17 @@ window.SERPENT_PRESETS = {
               ]
             ]
           ]
-        }
+        },
+        "throat_bands": [
+          {
+            "y": 190,
+            "height": 14
+          },
+          {
+            "y": 225,
+            "height": 13
+          }
+        ]
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -35204,7 +36008,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 2,
+      "model_revision": 3,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -36232,14 +37036,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_c02cc2aa03400e94",
       "source_species_name": "Naja nubiae",
       "common_name": "Nubian Spitting Cobra",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gray Nubian spitting cobra with a pale belly and dark neck band.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://academic.oup.com/trstmh/article/119/5/541/7931943",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -36254,41 +37058,34 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery.",
-          "Hood geometry smoothed; species-specific appearance still requires reference review.",
-          "Generic throat marks removed; actual throat pattern has not yet been reviewed and represented.",
-          "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views.",
-          "No species-specific full reference review yet; hood and colors remain preliminary."
+          "No local pilot photos; head and hood measurements are not species-validated.",
+          "Dark scale edging and the neck band are stylized approximations."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Naja kaouthia; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement.",
-            "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+            "A Sudan review describes gray coloration with dark-edged scales, a pale underside and a dark neck band.",
+            "An expanded hood, gray body and dark throat band are illustrated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "naja_kaouthia"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "cobra",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#77736d",
+        "marking_color": "#463c36",
+        "belly_color": "#d6cdb5",
         "body_build": 1,
         "scale_texture": "smooth",
         "tail_type": "pointed",
-        "scale_pitch": 8.2,
+        "scale_pitch": 6.2,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
@@ -36303,39 +37100,39 @@ window.SERPENT_PRESETS = {
           ],
           [
             178,
-            57
+            46
           ],
           [
             200,
-            72.9
+            57
           ],
           [
             220,
-            78
+            60
           ],
           [
             235,
-            78
+            60
           ],
           [
             250,
-            75.7
+            58
           ],
           [
             270,
-            64.7
+            51
           ],
           [
             290,
-            56.6
+            45
           ],
           [
             310,
-            40
+            35
           ],
           [
             330,
-            32.0
+            30
           ],
           [
             350,
@@ -36439,7 +37236,14 @@ window.SERPENT_PRESETS = {
               ]
             ]
           ]
-        }
+        },
+        "throat_bands": [
+          {
+            "y": 195,
+            "height": 19
+          }
+        ],
+        "scale_tip_color": "#4d4946"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -36447,7 +37251,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 2,
+      "model_revision": 3,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -36952,18 +37756,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_f372b171661314bc",
       "source_species_name": "Notechis scutatus",
       "common_name": "Tiger Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Dark banded tiger snake with narrow golden crossbands and a yellowish underside.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://australian.museum/learn/animals/reptiles/tiger-snake/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_116_notechis_scutatus/manifest.json",
+            "image_id": "inat_23328479",
+            "sha256": "dc544231cdd42c792de821a630bca6a50d29ea34208bce20fedea938e30260b6",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_116_notechis_scutatus/manifest.json",
+            "image_id": "inat_49645698",
+            "sha256": "75ada2fcd93217cc1b696c7a149d4827009e5698f76d543555c803e1bbf2e888",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_23328479": "Banded brown-and-yellow tiger snake with broad body; long side view.",
+          "inat_49645698": "Coiled dark individual with moderately broad head and robust torso."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -36973,218 +37793,217 @@ window.SERPENT_PRESETS = {
           "eyes",
           "special"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Tiger snakes vary widely, including unbanded dark forms; this is one banded form.",
+          "Striping is periodic and does not reproduce the exact irregular band positions.",
+          "Tail and underside remain approximations; identity and anatomy need expert verification."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The selected banded tiger snake has a muscular body, dark transverse markings and a yellow lower side.",
+            "The head is only moderately distinct from the neck; head outline and body taper were individually reshaped.",
+            "Visual review of the first render corrected the palette from a light ground with dark bands to a dark ground with lighter golden bands, matching the chosen side view more closely."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_23328479",
+            "inat_49645698"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "crossbands",
+        "skin_color": "#49483f",
+        "marking_color": "#bd985e",
+        "belly_color": "#c9ab63",
         "body_build": 1,
-        "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_texture": "smooth",
+        "tail_type": "long",
+        "scale_pitch": 4.8,
+        "mark_spacing": 34,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "triangular",
+        "head_style": "rounded",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
-          "neck": 8.5,
+          "length": 51,
+          "neck": 9,
           "upper": [
             [
               0,
               0,
-              0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -1,
+              -4,
+              6,
+              -7,
+              14,
+              -8
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              14,
+              -8,
+              27,
+              -11,
+              34,
+              -11,
+              42,
+              -9
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
-              -8.5,
-              79,
-              -8.5
+              42,
+              -9,
+              45,
+              -9,
+              48,
+              -9,
+              51,
+              -9
             ]
           ],
           "lower": [
             [
               0,
               0,
-              3,
+              0,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
-            ],
-            [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
-            ],
-            [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
-              8.5,
-              75.05,
-              8.5,
-              79,
+              10,
+              7,
+              23,
               8.5
+            ],
+            [
+              23,
+              8.5,
+              35,
+              10,
+              37,
+              10,
+              42,
+              8.5
+            ],
+            [
+              42,
+              8.5,
+              45,
+              9,
+              48,
+              9,
+              51,
+              9
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            20,
+            -1,
+            3.1,
+            3.1
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q18 6 45 7",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M2 -6 Q6 -9 10 -5 L8 4 L2 5Z",
+            "M11 -8 L20 -9 L28 -6 L25 0 L15 1Z",
+            "M29 -7 L40 -7 L42 3 L31 6",
+            "M3 5 L13 7 L25 8 M13 4 L13 8 M24 5 L24 9"
           ],
           "lip": true,
           "markings": [],
           "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "micro_scales": true,
+          "iris_color": "#544136"
         },
         "body_stations": [
           [
             224,
             211,
-            8.5
+            9
           ],
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            20
           ],
           [
             471,
             302,
-            27
+            22
           ],
           [
             514,
             347,
-            26
+            21.5
           ],
           [
             502,
             397,
-            24
+            21
           ],
           [
             430,
             431,
-            22
+            20
           ],
           [
             330,
             445,
-            20
+            19
           ],
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            12
           ],
           [
             460,
             546,
-            2.8
+            9
           ],
           [
             510,
             528,
-            1
+            5.5
           ],
           [
             545,
@@ -37207,7 +38026,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -37469,14 +38288,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_68b7620d431f7b7d",
       "source_species_name": "Ophryacus sphenophrys",
       "common_name": "Broad-horned Pitviper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Yellow broad-horned pit viper with dark zigzag.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://www.herp.mx/pubs/2015-Grunwald-et-al-Ophryacus.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -37491,37 +38310,35 @@ window.SERPENT_PRESETS = {
           "eyes",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; the horn and head need visual verification against the source illustrations.",
+          "Paired side markings and fine stippling are not yet fully represented."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "A published account describes a yellow form with black stippling and paired dark blotches connected along the back.",
+            "The head silhouette includes a single visible wedge-like supraocular scale."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "dorsal_zigzag",
+        "skin_color": "#b9ad66",
+        "marking_color": "#504b30",
+        "belly_color": "#d5c991",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 48,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -37530,37 +38347,67 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 67,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              21,
+              -10,
+              23,
+              -11,
+              25,
+              -12
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              25,
+              -12,
+              26,
+              -14,
+              27,
+              -18,
+              29,
+              -19
+            ],
+            [
+              29,
+              -19,
+              31,
+              -18,
+              32,
+              -15,
+              35,
+              -14
+            ],
+            [
+              35,
+              -14,
+              43,
+              -16,
+              49,
+              -15,
+              54,
+              -13
+            ],
+            [
+              54,
+              -13,
+              60,
+              -11,
+              64,
               -8.5,
-              79,
+              67,
               -8.5
             ]
           ],
@@ -37570,44 +38417,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              47,
+              13,
+              55,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              55,
+              9.5,
+              60,
               8.5,
-              75.05,
+              64,
               8.5,
-              79,
+              67,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            26,
+            -1.5,
+            3.9,
+            3.9
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -37615,19 +38462,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 49 7 L63 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 50 4 L69 5 L69 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a38e57"
         },
         "body_stations": [
           [
@@ -37638,47 +38486,47 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            20
           ],
           [
             502,
             397,
-            24
+            19
           ],
           [
             430,
             431,
-            22
+            18
           ],
           [
             330,
             445,
-            20
+            17
           ],
           [
             253,
             476,
-            17
+            15
           ],
           [
             253,
@@ -37688,22 +38536,22 @@ window.SERPENT_PRESETS = {
           [
             324,
             550,
-            8
+            11
           ],
           [
             400,
             555,
-            5
+            9
           ],
           [
             460,
             546,
-            2.8
+            6
           ],
           [
             510,
             528,
-            1
+            3.5
           ],
           [
             545,
@@ -37718,7 +38566,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "zigzag_width": 0.3
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -37726,7 +38575,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -37735,18 +38584,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_4b660ae3e7497876",
       "source_species_name": "Ovophis convictus",
       "common_name": "Indo-Malayan mountain pitviper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown mountain pit viper with dark dorsal patches and light facial accents.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.mdpi.com/2072-6651/13/8/514",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8402492/",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_119_ovophis_convictus/manifest.json",
+            "image_id": "inat_543309616",
+            "sha256": "22637f49369b94f31424e57583652ea245a470075bccdbcf42f64fd9a34c30e7",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_119_ovophis_convictus/manifest.json",
+            "image_id": "inat_224733238",
+            "sha256": "827fc6be3c6bc9692ad33ba38589ecc7a1becd596c782bd103d63284d0ede373",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_543309616": "Brown head, dark facial stripe with pale markings and body patches.",
+          "inat_224733238": "Whole animal in natural setting, showing stout body and short tail."
+        },
         "unextracted_fields": [
           "tail",
           "ventral",
@@ -37754,35 +38619,37 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Ventral flecking and irregular pigment remain simplified.",
+          "Photograph identification and geometry need independent review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected views show a stout brown snake with a dark facial stripe and pale markings along the jaw.",
+            "The broad head, short taper and body markings are modeled as a qualitative sketch."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_543309616",
+            "inat_224733238"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#927867",
+        "marking_color": "#5a433b",
+        "belly_color": "#d5bbaa",
         "body_build": 1,
-        "scale_texture": "keeled",
+        "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.7,
+        "scale_pitch": 4.2,
         "mark_spacing": 65,
         "mark_size": 1,
         "tail_segments": 0,
@@ -37792,37 +38659,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 68,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -12.0,
+              46,
+              -15,
+              55,
+              -12.9
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              55,
+              -12.9,
+              60,
+              -10.799999999999999,
+              64,
               -8.5,
-              79,
+              68,
               -8.5
             ]
           ],
@@ -37832,44 +38699,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              48,
+              13,
+              56,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              56,
+              9.5,
+              61,
               8.5,
-              75.05,
+              65,
               8.5,
-              79,
+              68,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -37877,19 +38744,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 50 7 L64 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M22 -4 L45 -2 L59 3 L57 7 L43 3 L22 0Z",
+              "fill": "#55423d"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 51 4 L70 5 L70 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#967667"
         },
         "body_stations": [
           [
@@ -37905,32 +38778,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -37940,32 +38813,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -37988,7 +38861,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -37997,18 +38870,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_cdc86d4fe264d4ac",
       "source_species_name": "Ovophis monticola",
       "common_name": "Chinese Mountain Pit Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown mountain pit viper with dark rectangular blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11161677/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_120_ovophis_monticola/manifest.json",
+            "image_id": "inat_543307801",
+            "sha256": "9c489dd194b0ab06bfd1020a4ee6fcea0f826699a50b1a0085e94cc155859d67",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_120_ovophis_monticola/manifest.json",
+            "image_id": "inat_435196370",
+            "sha256": "f2dbde31a2bdd1455a882d0bd18aebfc9445f601857603ad0aa20be8a03819a1",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_543307801": "Brown patterned snake and dark crown in a close natural view.",
+          "inat_435196370": "Head and neck with fine speckling, dark eye and pale markings."
+        },
         "unextracted_fields": [
           "head",
           "tail",
@@ -38018,36 +38907,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Small side spots and real irregular markings are not fully reproduced.",
+          "Identity, tail and underside require further review; taxonomy in this complex has changed."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The photos show brown ground color, dark blotches and a comparatively narrow, dark-crowned head.",
+            "Body taper, dark patches and head markings are illustrative and distinct from the other selected Ovophis forms."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_543307801",
+            "inat_435196370"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#a48772",
+        "marking_color": "#483932",
+        "belly_color": "#d5baaa",
         "body_build": 1,
-        "scale_texture": "keeled",
+        "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 58,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -38056,37 +38947,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 66,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -11.200000000000001,
+              44,
+              -14,
+              53,
+              -12.04
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              53,
+              -12.04,
+              58,
+              -10.08,
+              62,
               -8.5,
-              79,
+              66,
               -8.5
             ]
           ],
@@ -38096,44 +38987,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              12,
+              46,
+              12,
+              54,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              54,
+              9.5,
+              59,
               8.5,
-              75.05,
+              63,
               8.5,
-              79,
+              66,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            26,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -38141,19 +39032,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 48 7 L62 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M23 -7 L45 -8 L54 -4 L47 0 L23 -2Z",
+              "fill": "#4f3c36"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 49 4 L68 5 L68 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a27367"
         },
         "body_stations": [
           [
@@ -38164,72 +39061,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            20
           ],
           [
             502,
             397,
-            24
+            19
           ],
           [
             430,
             431,
-            22
+            18
           ],
           [
             330,
             445,
-            20
-          ],
-          [
-            253,
-            476,
             17
           ],
           [
             253,
+            476,
+            16
+          ],
+          [
+            253,
             515,
-            13
+            14
           ],
           [
             324,
             550,
-            8
+            12
           ],
           [
             400,
             555,
-            5
+            9.5
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -38252,7 +39149,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -38261,18 +39158,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_281407af92a078a1",
       "source_species_name": "Ovophis okinavensis",
       "common_name": "Okinawa Pitviper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Okinawan pit viper with a stout body and dark patches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://zoologicalstudies.springeropen.com/counter/pdf/10.1186/s40555-015-0110-2",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://biodiversity.okinawa/en/video_pages/reference/himehabu.html",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_121_ovophis_okinavensis/manifest.json",
+            "image_id": "inat_354541256",
+            "sha256": "e8d255d7a6e3939a991a9eb2ecc3dd4c8e29e4563fbc8e76f39ba4d9fc48ccee",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_121_ovophis_okinavensis/manifest.json",
+            "image_id": "inat_321547823",
+            "sha256": "e4e570e6b9641b57f7d725487e7981e0d8e2ead36eefc58c9021bf35f7004c7b",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_354541256": "Brown-gray body with dark irregular markings and a dark light-edged cheek.",
+          "inat_321547823": "Coiled dark individual with broad head and short, thick body."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -38283,36 +39196,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "This is one of several color forms in the images.",
+          "Fine lateral patches, underside and species identification require more review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Pilot views show a short, stout body, broad head and dark markings on a brown-gray base.",
+            "The body taper, head contour and cheek marking were individually adjusted."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_354541256",
+            "inat_321547823"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#ad9e8d",
+        "marking_color": "#51443f",
+        "belly_color": "#ddd0bd",
         "body_build": 1,
-        "scale_texture": "keeled",
+        "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 62,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -38321,37 +39236,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 67,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              45,
+              -17,
+              54,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              54,
+              -14.62,
+              59,
+              -12.24,
+              63,
               -8.5,
-              79,
+              67,
               -8.5
             ]
           ],
@@ -38361,44 +39276,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              47,
               14,
-              66.36,
-              9.799999999999999
+              55,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              55,
+              9.5,
+              60,
               8.5,
-              75.05,
+              64,
               8.5,
-              79,
+              67,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -38406,19 +39321,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 49 7 L63 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M21 -2 L46 -1 L60 5 L56 8 L43 3 L21 1Z",
+              "fill": "#4e3e39"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 50 4 L69 5 L69 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a88d70"
         },
         "body_stations": [
           [
@@ -38429,32 +39350,32 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
             249,
-            20
+            19
           ],
           [
             390,
             271,
-            25
+            23
           ],
           [
             471,
             302,
-            27
+            24
           ],
           [
             514,
             347,
-            26
+            24
           ],
           [
             502,
             397,
-            24
+            23
           ],
           [
             430,
@@ -38464,37 +39385,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            20
+            21
           ],
           [
             253,
             476,
-            17
+            19
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -38517,7 +39438,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -38526,18 +39447,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_16c115628b44a466",
       "source_species_name": "Ovophis tonkinensis",
       "common_name": "Tonkin Pit Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Tonkin pit viper with dark head and brown dorsal blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11161677/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.acq.osd.mil/eie/afpmb/docs/dveps/China.pdf",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_122_ovophis_tonkinensis/manifest.json",
+            "image_id": "inat_173175564",
+            "sha256": "eeb81df85d43d910fe65177b5e524620c0f7fcf8b110ccfd80a67189e68aaf90",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_122_ovophis_tonkinensis/manifest.json",
+            "image_id": "inat_339006990",
+            "sha256": "405916c141dbe29d187ba07ce1de32a290972e83f692f9ea20c2ac618fba9947",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_173175564": "Stocky brown snake with dark dorsal patches and darker head.",
+          "inat_339006990": "Head and neck close-up showing dark crown, light facial markings and fine scales."
+        },
         "unextracted_fields": [
           "body",
           "tail",
@@ -38547,36 +39484,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The head markings, side spots and dorsal pattern are simplified.",
+          "Tail and underside are insufficiently shown; identification and taxonomy need review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected photos show a short snout, dark crown and irregular dark brown dorsal blotches.",
+            "The head, body outline and brown palette were authored as an editable approximation."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_173175564",
+            "inat_339006990"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#ac8c6d",
+        "marking_color": "#62483b",
+        "belly_color": "#d3baa2",
         "body_build": 1,
-        "scale_texture": "keeled",
+        "scale_texture": "smooth",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 67,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -38585,37 +39524,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 64,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -12.8,
+              42,
+              -16,
+              51,
+              -13.76
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              51,
+              -13.76,
+              56,
+              -11.52,
+              60,
               -8.5,
-              79,
+              64,
               -8.5
             ]
           ],
@@ -38625,44 +39564,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              44,
+              13,
+              52,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              52,
+              9.5,
+              57,
               8.5,
-              75.05,
+              61,
               8.5,
-              79,
+              64,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            25,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -38670,19 +39609,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 46 7 L60 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M5 -12 H52 V-1 Q25 0 5 -3Z",
+              "fill": "#4a3732"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 47 4 L66 5 L66 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a98e72"
         },
         "body_stations": [
           [
@@ -38698,32 +39643,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -38733,32 +39678,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -38781,7 +39726,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -39054,14 +39999,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_93738ef524d0ffd2",
       "source_species_name": "Philodryas olfersii",
       "common_name": "Lichtenstein's Green Racer",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Green racer with a narrow brown dorsal stripe.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.thebhs.org/publications/the-herpetological-bulletin/issue-number-166-winter-2023/3908-04-a-potential-mimic-of-the-venomous-dipsadid-snake-i-philodryas-olfersii-i/file",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://prefeitura.poa.br/sites/default/files/usu_doc/sites/smamus/fauna_e_flora%20REBIO%20Lami.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -39076,75 +40021,73 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; stripe, head and body taper need photo comparison.",
+          "Stripe follows the dorsal centerline schematically."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Lami biological reserve guide describes a long-tailed, light-green snake with a narrow brown or gold vertebral stripe that continues onto the head.",
+            "The editable draft uses a green body, pale belly, long tail and brown midline."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#5ba94e",
+        "marking_color": "#375a34",
+        "belly_color": "#cbde9d",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "long",
+        "scale_pitch": 4.2,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
+          "length": 60,
           "neck": 7,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              46,
+              -10,
+              52,
+              -7
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
+              52,
               -7,
-              84,
+              55,
+              -7,
+              58,
+              -7,
+              60,
               -7
             ]
           ],
@@ -39152,50 +40095,50 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              47,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              52,
+              7
             ],
             [
-              69,
-              9,
-              75,
+              52,
               7,
-              79,
+              55,
               7,
-              84,
+              58,
+              7,
+              60,
               7
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
+            26,
+            -1,
+            3.5,
             3.5
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 56 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -39203,7 +40146,15 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M4 -8 Q28 -12 56 -8",
+              "fill": "none",
+              "stroke": "#8c7548",
+              "width": 1.2
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
@@ -39219,27 +40170,27 @@ window.SERPENT_PRESETS = {
           [
             370,
             265,
-            12.5
+            11
           ],
           [
             463,
             295,
-            14
+            12
           ],
           [
             515,
             344,
-            14.2
+            13
           ],
           [
             506,
             395,
-            13.8
+            13
           ],
           [
             441,
             430,
-            13.1
+            12.5
           ],
           [
             341,
@@ -39249,32 +40200,32 @@ window.SERPENT_PRESETS = {
           [
             257,
             472,
-            10.6
+            11.5
           ],
           [
             252,
             515,
-            8.8
+            11
           ],
           [
             324,
             550,
-            6.6
+            10.5
           ],
           [
             425,
             562,
-            4.7
+            9.5
           ],
           [
             527,
             548,
-            2.8
+            8
           ],
           [
             603,
             519,
-            1.3
+            6
           ],
           [
             654,
@@ -39287,7 +40238,10 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false,
+        "dorsal_midline_color": "#8c7548",
+        "dorsal_midline_width": 0.045
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -39295,7 +40249,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -39304,18 +40258,38 @@ window.SERPENT_PRESETS = {
       "species_id": "source_29ea2817faadcac7",
       "source_species_name": "Porthidium lansbergii",
       "common_name": "Lansberg's Hognose Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gray-brown Lansberg hognosed viper with dark dorsal blocks.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://babel.banrepcultural.org/digital/collection/p17054coll33/id/1402/",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
+          },
+          {
+            "url": "https://serpientesdevenezuela.org/porthidium-lansbergii-rozei/",
+            "scope": "Description of pale mid-dorsal line and variable body markings in a named form."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_123_porthidium_lansbergii/manifest.json",
+            "image_id": "inat_310150489",
+            "sha256": "46ca938526fb70be8e084d8456e04b2afb6d38573cebbf65822b48930da038b0",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_123_porthidium_lansbergii/manifest.json",
+            "image_id": "inat_169915379",
+            "sha256": "0acddf53f8f56f674c3d2f4fb1038efe4a7ae64e501febf3316461e8cefe1504",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_310150489": "Coiled gray-brown snake with broad head and dark dorsal blocks.",
+          "inat_169915379": "Salmon-colored coiled animal demonstrating color variation."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -39327,36 +40301,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Snout shape, natural side markings and color variation are simplified.",
+          "Tail and underside need additional views; photographs retain provider identifications."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected images show a broad triangular head and dark blocks against a gray-brown or salmon ground.",
+            "Body taper and block pattern were adjusted and a pale dorsal line added from the cited descriptive material."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_310150489",
+            "inat_169915379"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "trapezoids",
+        "skin_color": "#907c78",
+        "marking_color": "#504247",
+        "belly_color": "#ccbbb0",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.1,
+        "mark_spacing": 59,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -39365,37 +40341,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 68,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              46,
+              -17,
+              55,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              55,
+              -14.62,
+              60,
+              -12.24,
+              64,
               -8.5,
-              79,
+              68,
               -8.5
             ]
           ],
@@ -39405,44 +40381,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              48,
               14,
-              66.36,
-              9.799999999999999
+              56,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              56,
+              9.5,
+              61,
               8.5,
-              75.05,
+              65,
               8.5,
-              79,
+              68,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            26,
+            -1.5,
+            3.7,
+            3.7
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -39450,19 +40426,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 50 7 L64 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 51 4 L70 5 L70 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a88c72"
         },
         "body_stations": [
           [
@@ -39473,32 +40450,32 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
             249,
-            20
+            19
           ],
           [
             390,
             271,
-            25
+            23
           ],
           [
             471,
             302,
-            27
+            24
           ],
           [
             514,
             347,
-            26
+            24
           ],
           [
             502,
             397,
-            24
+            23
           ],
           [
             430,
@@ -39508,37 +40485,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            20
+            21
           ],
           [
             253,
             476,
-            17
+            19
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            14
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -39553,7 +40530,9 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "dorsal_midline_color": "#b39b87",
+        "dorsal_midline_width": 0.05
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -39561,7 +40540,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -39570,18 +40549,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_0f175f72dd0caacc",
       "source_species_name": "Porthidium nasutum",
       "common_name": "Rainforest Hognose Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Hognosed pit viper with an upturned snout and dark dorsal blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/porthidium-nasutum",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/porthidium-nasutum",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_124_porthidium_nasutum/manifest.json",
+            "image_id": "inat_28026256",
+            "sha256": "9b596368429095e41b7b56c13a357fc3441d65bba8fce4fa04a707bbddc15d69",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_124_porthidium_nasutum/manifest.json",
+            "image_id": "inat_13463148",
+            "sha256": "ba0c06816180c5ea2d13fd5131162f87e3ca37e9a27279ec51331ee15e3059e6",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_28026256": "Close view of raised snout tip, dark cheek, keeled scales and contrasting dorsal patches.",
+          "inat_13463148": "Coiled brown snake with a triangular head and dark dorsal markings."
+        },
         "unextracted_fields": [
           "body",
           "ventral",
@@ -39589,36 +40584,40 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The exact pattern, raised nose and scale geometry are simplified.",
+          "The underside and full tail need better reference views.",
+          "Provider identity and anatomy need independent review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The chosen close-up shows a prominently raised snout tip, dark cheek and a gray-brown body with dark patterning.",
+            "The nose curve and head profile were authored separately, alongside an illustrative stout body and dorsal pattern.",
+            "A fine pale vertebral line has been included based on the cited Instituto Clodomiro Picado description."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_28026256",
+            "inat_13463148"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "trapezoids",
+        "skin_color": "#80766c",
+        "marking_color": "#493c38",
+        "belly_color": "#c6bca5",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.1,
+        "mark_spacing": 58,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -39627,37 +40626,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 68,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -1,
+              2,
+              -0.5,
+              6,
+              -1
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              6,
+              -1,
+              14,
+              -2,
+              26,
+              -9,
+              42,
+              -13
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
-              -8.5,
-              79,
+              42,
+              -13,
+              50,
+              -14,
+              60,
+              -10,
+              68,
               -8.5
             ]
           ],
@@ -39667,44 +40666,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              48,
+              13,
+              56,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              56,
+              9.5,
+              61,
               8.5,
-              75.05,
+              65,
               8.5,
-              79,
+              68,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            25,
+            -1.5,
+            4.0,
+            4.0
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -39712,19 +40711,26 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 50 7 L64 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M13 -3 L37 3 L53 7 L50 11 L29 7 L12 1Z",
+              "fill": "#493c38",
+              "opacity": 0.7
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 51 4 L70 5 L70 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#ad8d6b"
         },
         "body_stations": [
           [
@@ -39740,32 +40746,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -39775,32 +40781,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -39815,7 +40821,9 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "dorsal_midline_color": "#d5b695",
+        "dorsal_midline_width": 0.05
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -39823,7 +40831,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -39832,54 +40840,74 @@ window.SERPENT_PRESETS = {
       "species_id": "source_7f65f6be6029af65",
       "source_species_name": "Porthidium ophryomegas",
       "common_name": "Slender Hognose Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Slender hognosed pit viper with dark dorsal blotches and a pale lip.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/porthidium-ophryomegas",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/porthidium-ophryomegas",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_125_porthidium_ophryomegas/manifest.json",
+            "image_id": "inat_157436137",
+            "sha256": "1ed57b7eec09b2701e7e97a34d341e21a3e9e0266569ee9732197a280018bdbb",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_125_porthidium_ophryomegas/manifest.json",
+            "image_id": "inat_8496129",
+            "sha256": "44f050b448ac81d77cd4471575d96a01fdf1f015676d125236103e3b79802cb8",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_157436137": "Brown snake with broad head, light lip and repeated dark dorsal blotches.",
+          "inat_8496129": "Coiled specimen displaying brown, cream and dark dorsal markings."
+        },
         "unextracted_fields": [
           "ventral",
           "eyes",
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Dorsal blotches are simplified and repeat regularly.",
+          "The tail and underside are not fully established in the selected references.",
+          "Provider identity and anatomy are not independently verified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Pilot images show a brown body with dark block-like dorsal markings and a broad head.",
+            "The model has its own head, eye position and body taper; unlike the hognosed species, it has no raised snout extension.",
+            "A fine pale vertebral line has been included based on the cited Instituto Clodomiro Picado description."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_157436137",
+            "inat_8496129"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#9b795f",
+        "marking_color": "#513a2d",
+        "belly_color": "#ddc6a2",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.3,
+        "mark_spacing": 58,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -39888,37 +40916,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 69,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              47,
+              -17,
+              56,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              56,
+              -14.62,
+              61,
+              -12.24,
+              65,
               -8.5,
-              79,
+              69,
               -8.5
             ]
           ],
@@ -39928,44 +40956,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              49,
+              13,
+              57,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              57,
+              9.5,
+              62,
               8.5,
-              75.05,
+              66,
               8.5,
-              79,
+              69,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -39973,19 +41001,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 51 7 L65 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 52 4 L71 5 L71 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#b89872"
         },
         "body_stations": [
           [
@@ -40001,67 +41030,67 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            21
           ],
           [
             471,
             302,
-            27
+            22
           ],
           [
             514,
             347,
-            26
+            22
           ],
           [
             502,
             397,
-            24
+            21
           ],
           [
             430,
             431,
-            22
+            20
           ],
           [
             330,
             445,
-            20
+            19
           ],
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13.5
           ],
           [
             400,
             555,
-            5
+            11
           ],
           [
             460,
             546,
-            2.8
+            8
           ],
           [
             510,
             528,
-            1
+            4.5
           ],
           [
             545,
@@ -40076,7 +41105,9 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "dorsal_midline_color": "#d5b695",
+        "dorsal_midline_width": 0.05
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -40084,7 +41115,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -40093,14 +41124,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_32fcac3e3443d5f4",
       "source_species_name": "Porthidium porrasi",
       "common_name": "White-tailed Hognose Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Orange-tan white-tailed hognose pit viper.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442003000300022&script=sci_arttext&tlng=en",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -40115,36 +41146,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The three local photos have not been fitted or independently identified.",
+          "Band shape and the relative extent of pale tail color need photo comparison."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The original description reports a tan-orange individual, transverse bands and retention of a pale tail tip in adults.",
+            "A slightly upturned snout and pale tail tip are illustrated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "crossbands",
+        "skin_color": "#ae927b",
+        "marking_color": "#705748",
+        "belly_color": "#d9c4ac",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 3.9,
+        "mark_spacing": 50,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -40153,37 +41183,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 68,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -1,
+              2,
+              -0.5,
+              6,
+              -1
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              6,
+              -1,
+              14,
+              -2,
+              26,
+              -9,
+              42,
+              -13
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
-              -8.5,
-              79,
+              42,
+              -13,
+              50,
+              -14,
+              60,
+              -10,
+              68,
               -8.5
             ]
           ],
@@ -40193,44 +41223,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              48,
+              13,
+              56,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              56,
+              9.5,
+              61,
               8.5,
-              75.05,
+              65,
               8.5,
-              79,
+              68,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
+            25,
+            -1.5,
             4,
-            4.2
+            4
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -40238,19 +41268,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 50 7 L64 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 51 4 L70 5 L70 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a88968"
         },
         "body_stations": [
           [
@@ -40266,32 +41297,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -40301,32 +41332,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -40341,7 +41372,9 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "tail_color": "#e4ddcc",
+        "tail_color_length": 30
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -40349,7 +41382,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -40358,18 +41391,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_e477dd1d3fb79671",
       "source_species_name": "Protobothrops flavoviridis",
       "common_name": "Habu",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Yellow-green habu with dark, yellow-edged markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.mlit.go.jp/kankocho/content/001594984.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/67641/2/01_Aird_Snake_venoms_are_integrated_2015.pdf",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_127_protobothrops_flavoviridis/manifest.json",
+            "image_id": "inat_285176627",
+            "sha256": "ce052c41b8264cfa3df938b092a0138137b5db86f564453595b0bff696612552",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_127_protobothrops_flavoviridis/manifest.json",
+            "image_id": "inat_334458014",
+            "sha256": "5d761d77bb66a220cdfad185c1787fb8e94af98525206fe3508de55584d88dbb",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_285176627": "Yellow-green snake with dark yellow-edged irregular body patches, yellow head and dark eye stripe.",
+          "inat_334458014": "Whole animal showing a long taper and yellow-edged dark markings."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -40380,36 +41429,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Blotches and their borders are periodic approximations; natural markings fuse and vary.",
+          "Underside and full tail need further inspection; identity remains provider supplied."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected photos show an olive-yellow body, dark irregular blotches outlined in yellow, and a dark stripe behind the eye.",
+            "The head, eye, long taper, yellow palette and dark patches were independently adjusted."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_285176627",
+            "inat_334458014"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#a2954e",
+        "marking_color": "#464936",
+        "belly_color": "#d9c975",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 3.9,
+        "mark_spacing": 71,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -40418,37 +41469,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 75,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -12.8,
+              53,
+              -16,
+              62,
+              -13.76
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              62,
+              -13.76,
+              67,
+              -11.52,
+              71,
               -8.5,
-              79,
+              75,
               -8.5
             ]
           ],
@@ -40458,44 +41509,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              55,
+              13,
+              63,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              63,
+              9.5,
+              68,
               8.5,
-              75.05,
+              72,
               8.5,
-              79,
+              75,
               8.5
             ]
           ],
           "eye": [
             30,
-            -2,
+            -1.5,
             4,
-            4.2
+            4
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -40503,19 +41554,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 57 7 L71 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M25 -4 L49 -3 L62 1 L60 4 L48 1 L25 -1Z",
+              "fill": "#48432e"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 58 4 L77 5 L77 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#c5a950"
         },
         "body_stations": [
           [
@@ -40526,72 +41583,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            20
           ],
           [
             502,
             397,
-            24
+            19
           ],
           [
             430,
             431,
-            22
+            18
           ],
           [
             330,
             445,
-            20
-          ],
-          [
-            253,
-            476,
             17
           ],
           [
             253,
+            476,
+            15.5
+          ],
+          [
+            253,
             515,
-            13
+            14
           ],
           [
             324,
             550,
-            8
+            12
           ],
           [
             400,
             555,
-            5
+            9.5
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -40606,7 +41663,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "blotch_border": "#e2c967"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -40614,7 +41672,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -40623,14 +41681,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_34a66e77bf8f69ae",
       "source_species_name": "Protobothrops kelomohy",
       "common_name": "Omkoi Lance-headed Pit Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Reddish brown Omkoi lancehead with facial stripes.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://journals.sagepub.com/doi/10.1016/j.wem.2020.11.001",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://reptile-database.reptarium.cz/Protobothrops/kelomohy?search_param=%28%28taxon%3D%27Crotalinae%27%2Cexact%29%29",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -40645,37 +41703,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot photos; proportions and facial stripes require visual comparison.",
+          "Pale-edged lateral blotches are not reproduced by the current zigzag model."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The species diagnosis describes a reddish-brown body with dark-edged scales, dark blotches and three facial stripes.",
+            "A lance-shaped head, facial lines, dark scale tips and dorsal zigzag are represented."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "dorsal_zigzag",
+        "skin_color": "#a97668",
+        "marking_color": "#523b38",
+        "belly_color": "#d8c3a3",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.3,
+        "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -40684,37 +41740,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 75,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              53,
+              -17,
+              62,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              62,
+              -14.62,
+              67,
+              -12.24,
+              71,
               -8.5,
-              79,
+              75,
               -8.5
             ]
           ],
@@ -40724,44 +41780,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              55,
+              13,
+              63,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              63,
+              9.5,
+              68,
               8.5,
-              75.05,
+              72,
               8.5,
-              79,
+              75,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            29,
+            -1.5,
+            3.7,
+            3.7
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -40769,19 +41825,27 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 57 7 L71 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M10 -7 L18 5 M19 -8 L27 4 M28 -8 L36 3 M32 -2 L54 2 L65 7",
+              "fill": "none",
+              "stroke": "#483331",
+              "width": 2
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 58 4 L77 5 L77 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#b29672"
         },
         "body_stations": [
           [
@@ -40797,32 +41861,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            21
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -40832,32 +41896,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -40872,7 +41936,9 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "zigzag_width": 0.34,
+        "scale_tip_color": "#503d38"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -40880,7 +41946,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -40889,18 +41955,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_552cc07bf78be753",
       "source_species_name": "Protobothrops mucrosquamatus",
       "common_name": "Brown spotted pitviper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown pointed-scale pit viper with dark triangular side marks.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://collections.culture.tw/ntm_collectionsweb/EN/Collection?GID=04M6MZ0EMB",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.afcd.gov.hk/english/conservation/hkbiodiversity/database/popup_record.php?id=3897",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_129_protobothrops_mucrosquamatus/manifest.json",
+            "image_id": "inat_27656916",
+            "sha256": "b8434dfa8fa5833e935bf50a4e414ed29f68e39586aa50aeb99ff0df14c030be",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_129_protobothrops_mucrosquamatus/manifest.json",
+            "image_id": "inat_96557256",
+            "sha256": "7509f87925c4d819d126d8339cedc872e9057e9e130e93963d4a88c667cd4350",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_27656916": "Broad-headed brown pit viper with prominent dark triangular side markings and pale edges.",
+          "inat_96557256": "Brown coiled animal showing regular dark patches and pale background."
+        },
         "unextracted_fields": [
           "body",
           "tail",
@@ -40909,36 +41991,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Triangle arrangement and fine head markings are simplified.",
+          "Tail, underside and photograph identification need further review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected images show brown markings edged in light cream, a broad head and a dark stripe behind the eye.",
+            "Head profile, body taper and angular markings were modeled as editable approximations."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_27656916",
+            "inat_96557256"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "flank_triangles",
+        "skin_color": "#b6a383",
+        "marking_color": "#4b392d",
+        "belly_color": "#dfcfad",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.2,
+        "mark_spacing": 62,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -40947,37 +42031,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 73,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -15.200000000000001,
+              51,
+              -19,
+              60,
+              -16.34
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              60,
+              -16.34,
+              65,
+              -13.68,
+              69,
               -8.5,
-              79,
+              73,
               -8.5
             ]
           ],
@@ -40987,44 +42071,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              53,
               14,
-              66.36,
-              9.799999999999999
+              61,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              61,
+              9.5,
+              66,
               8.5,
-              75.05,
+              70,
               8.5,
-              79,
+              73,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            29,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -41032,19 +42116,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 55 7 L69 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M24 -3 L47 -1 L61 5 L58 8 L44 2 L24 0Z",
+              "fill": "#5b4536"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 56 4 L75 5 L75 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#ac8c68"
         },
         "body_stations": [
           [
@@ -41060,32 +42150,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -41095,32 +42185,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -41143,7 +42233,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -41152,18 +42242,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_6f3d50def5751b60",
       "source_species_name": "Pseudechis australis",
       "common_name": "Mulga Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown mulga snake with dark-edged scales and a blunt broad head.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://australian.museum/learn/animals/reptiles/mulga-snake/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_130_pseudechis_australis/manifest.json",
+            "image_id": "inat_88684771",
+            "sha256": "c243764a6c58ec862aebd4166fdd884ca4a5c1bca1813639503f275a8fc469b2",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_130_pseudechis_australis/manifest.json",
+            "image_id": "inat_89005990",
+            "sha256": "feb468a3ac2ae4ba327868005fa02edec006033673d754b80fa2cdba445de50a",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_88684771": "Close view of a brown, heavy-bodied snake with broad blunt head and dark-edged scales.",
+          "inat_89005990": "Side view of brown body, pale lower head and gradually tapered profile."
+        },
         "unextracted_fields": [
           "tail",
           "scales",
@@ -41173,125 +42279,128 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "This is one brown color form; other color variations are not represented.",
+          "Ventral markings, exact scale counts and tail proportions need additional references.",
+          "Photograph identification and anatomy have not been verified independently."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The chosen animals show a broad blunt head, brown smooth scales with darker margins, a pale jaw and a robust body.",
+            "The head, eye, trunk and taper are drawn with a separate species-specific geometry."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_88684771",
+            "inat_89005990"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "edged_scales",
+        "skin_color": "#9c876a",
+        "marking_color": "#4b4032",
+        "belly_color": "#cfc0a3",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
-        "mark_spacing": 63,
+        "tail_type": "long",
+        "scale_pitch": 5.1,
+        "mark_spacing": 65,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 58,
+          "neck": 9,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              6,
               -7,
-              4,
-              -10,
-              12,
-              -11
+              14,
+              -8
             ],
             [
-              12,
+              14,
+              -8,
+              27,
               -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
+              41,
+              -11,
+              49,
+              -9
             ],
             [
-              69,
-              -11,
-              75,
+              49,
               -9,
-              78,
-              -7,
-              84,
-              -7
+              52,
+              -9,
+              55,
+              -9,
+              58,
+              -9
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
-              6,
+              0,
+              4,
+              10,
               7,
-              9,
-              15,
-              9
+              23,
+              8.5
             ],
             [
-              15,
-              9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              23,
+              8.5,
+              35,
+              10,
+              44,
+              10,
+              49,
+              8.5
             ],
             [
-              69,
+              49,
+              8.5,
+              52,
               9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              55,
+              9,
+              58,
+              9
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            24,
+            -1,
+            3.2,
+            3.2
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 6 52 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -6 Q6 -9 10 -5 L8 4 L2 5Z",
+            "M11 -8 L20 -9 L28 -6 L25 0 L15 1Z",
+            "M29 -7 L40 -7 L42 3 L31 6",
+            "M3 5 L13 7 L25 8 M13 4 L13 8 M24 5 L24 9"
           ],
           "lip": true,
           "origin": [
@@ -41299,78 +42408,79 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [],
+          "iris_color": "#544136"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            9
           ],
           [
             281,
             242,
-            9
+            13
           ],
           [
             370,
             265,
-            12.5
+            18
           ],
           [
             463,
             295,
-            14
+            22
           ],
           [
             515,
             344,
-            14.2
+            23
           ],
           [
             506,
             395,
-            13.8
+            23
           ],
           [
             441,
             430,
-            13.1
+            22.5
           ],
           [
             341,
             443,
-            12
+            22
           ],
           [
             257,
             472,
-            10.6
+            21
           ],
           [
             252,
             515,
-            8.8
+            19.5
           ],
           [
             324,
             550,
-            6.6
+            17.5
           ],
           [
             425,
             562,
-            4.7
+            15
           ],
           [
             527,
             548,
-            2.8
+            12.5
           ],
           [
             603,
             519,
-            1.3
+            9.5
           ],
           [
             654,
@@ -41383,7 +42493,8 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -41391,7 +42502,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -41400,14 +42511,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_708f790bdb7c5a6b",
       "source_species_name": "Pseudechis papuanus",
       "common_name": "Papuan Black Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gunmetal Papuan blacksnake with pale snout and throat.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.markoshea.info/downloads/oshea_1990_dangerous_snakes_png.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.kingsnake.com/aho/pngsmc/Chapter%202%20Snakes%20of%20Papua%20New%20Guinea.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -41418,126 +42529,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; the head-neck connection, snout and belly need photo comparison.",
+          "The light throat does not extend across the separate ventral projection yet."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Papua New Guinea clinical guide describes a heavy-bodied gunmetal black snake whose head is indistinct from the neck, sometimes with a pale nose and throat.",
+            "A black dorsal and dark gray ventral form is represented with a broad body."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#303335",
+        "marking_color": "#222628",
+        "belly_color": "#484b49",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "long",
+        "scale_pitch": 4.6,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 56,
+          "neck": 10,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              42,
+              -10,
+              48,
+              -10
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              48,
+              -10,
+              51,
+              -10,
+              54,
+              -10,
+              56,
+              -10
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              43,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              48,
+              10
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              48,
+              10,
+              51,
+              10,
+              54,
+              10,
+              56,
+              10
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            23,
+            -1,
+            3.1,
+            3.1
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 52 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -41545,78 +42654,86 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M0 3 Q7 5 14 6 L20 7",
+              "fill": "none",
+              "stroke": "#ccbfa5",
+              "width": 1.7
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            10
           ],
           [
             281,
             242,
-            9
+            15
           ],
           [
             370,
             265,
-            12.5
+            20
           ],
           [
             463,
             295,
-            14
+            23
           ],
           [
             515,
             344,
-            14.2
+            24
           ],
           [
             506,
             395,
-            13.8
+            24
           ],
           [
             441,
             430,
-            13.1
+            23
           ],
           [
             341,
             443,
-            12
+            22
           ],
           [
             257,
             472,
-            10.6
+            21
           ],
           [
             252,
             515,
-            8.8
+            19
           ],
           [
             324,
             550,
-            6.6
+            17
           ],
           [
             425,
             562,
-            4.7
+            15
           ],
           [
             527,
             548,
-            2.8
+            12
           ],
           [
             603,
             519,
-            1.3
+            8
           ],
           [
             654,
@@ -41629,7 +42746,8 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -41637,7 +42755,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -41646,18 +42764,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_a039bde5fc9091a3",
       "source_species_name": "Rhinobothryum bovallii",
       "common_name": "False Tree Coral",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Red, black and white Ecuadorian banded snake with a patterned head.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.sciencedirect.com/science/article/abs/pii/S1874391920302505",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://bioweb.bio/reptilia/taxa/card?lang=en&name=Rhinobothryum+bovallii&rank=species",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_132_rhinobothryum_bovallii/manifest.json",
+            "image_id": "inat_309124629",
+            "sha256": "67400c287b94846f6354c58aa30009bc52c3975c6f73be9b4bbc026791c82e6b",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_132_rhinobothryum_bovallii/manifest.json",
+            "image_id": "inat_463827955",
+            "sha256": "f73e99bdf2272bb36125f9aae5ada2edab26aaec65e9a721c19bc0dc3ebc7807",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_309124629": "Black, white and red bands, black scale-tipped red sections, and dark head outlined in pale scales.",
+          "inat_463827955": "Close view of dark head with pale scale borders and red and black body."
+        },
         "unextracted_fields": [
           "head",
           "tail",
@@ -41667,204 +42801,218 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Exact head scale outlines, tail bands and band counts are simplified.",
+          "Ventral details and source identification require further verification."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The selected photographs show broad red and black sections separated by white, a dark head with pale scale edges, and a long slender taper.",
+            "Band sequence, eye, head markings and body width have been adjusted individually."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_309124629",
+            "inat_463827955"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "band_sequence",
+        "skin_color": "#d6492f",
+        "marking_color": "#1e2121",
+        "belly_color": "#f0e8db",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
-        "mark_spacing": 63,
+        "tail_type": "long",
+        "scale_pitch": 4.2,
+        "mark_spacing": 107,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 48,
+          "neck": 8,
           "upper": [
             [
               0,
               0,
-              0,
-              -7,
-              4,
-              -10,
+              -1,
+              -5,
+              5,
+              -8,
               12,
-              -11
+              -9
             ],
             [
               12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
               -9,
-              78,
-              -7,
-              84,
-              -7
+              24,
+              -12,
+              35,
+              -11,
+              40,
+              -8
+            ],
+            [
+              40,
+              -8,
+              43,
+              -8,
+              46,
+              -8,
+              48,
+              -8
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
-              6,
+              -1,
+              4,
+              8,
               7,
-              9,
-              15,
+              18,
               9
             ],
             [
-              15,
+              18,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              30,
+              11,
+              35,
+              10,
+              40,
+              8
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              40,
+              8,
+              43,
+              8,
+              46,
+              8,
+              48,
+              8
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            19,
+            -1,
+            3.7,
+            3.9
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 44 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
-          "lip": true,
+          "lip": false,
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M-3 -16 H34 V16 H-3Z",
+              "fill": "#1e2121"
+            },
+            {
+              "path": "M3 -5 L8 -8 L14 -6 L13 -2 L5 -1Z M15 -7 L23 -9 L29 -6 L27 -2 L17 -1Z M4 1 L13 1 L15 6 L8 8Z",
+              "fill": "none",
+              "stroke": "#e8dfd1",
+              "width": 1.2
+            }
+          ],
+          "iris_color": "#3a332c"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            8
           ],
           [
             281,
             242,
-            9
+            10
           ],
           [
             370,
             265,
-            12.5
+            12
           ],
           [
             463,
             295,
-            14
+            13
           ],
           [
             515,
             344,
-            14.2
+            14
           ],
           [
             506,
             395,
-            13.8
+            14
           ],
           [
             441,
             430,
-            13.1
+            13.5
           ],
           [
             341,
             443,
-            12
+            13
           ],
           [
             257,
             472,
-            10.6
+            12.5
           ],
           [
             252,
             515,
-            8.8
+            12
           ],
           [
             324,
             550,
-            6.6
+            11
           ],
           [
             425,
             562,
-            4.7
+            10
           ],
           [
             527,
             548,
-            2.8
+            8.5
           ],
           [
             603,
             519,
-            1.3
+            6.5
           ],
           [
             654,
@@ -41877,6 +43025,26 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
+        ],
+        "pit_present": false,
+        "scale_tip_color": "#27201f",
+        "band_sequence": [
+          {
+            "color": "skin",
+            "fraction": 0.42
+          },
+          {
+            "color": "belly",
+            "fraction": 0.07
+          },
+          {
+            "color": "marking",
+            "fraction": 0.44
+          },
+          {
+            "color": "belly",
+            "fraction": 0.07
+          }
         ]
       },
       "policy": {
@@ -41885,7 +43053,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -41894,217 +43062,250 @@ window.SERPENT_PRESETS = {
       "species_id": "source_fcc42f05c99f7c03",
       "source_species_name": "Sistrurus catenatus",
       "common_name": "Eastern Massasauga",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gray-brown eastern massasauga with dark, pale-edged dorsal blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://herpetology.inhs.illinois.edu/resources/species-lists/ilspecies/eastern-massasauga/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.fws.gov/species/eastern-massasauga-sistrurus-catenatus",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_133_sistrurus_catenatus/manifest.json",
+            "image_id": "inat_15761180",
+            "sha256": "09c7dfad198fb0cc6b906b33414d2b1675d014a1c4f897984ecfb55b3437894a",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_133_sistrurus_catenatus/manifest.json",
+            "image_id": "inat_15485734",
+            "sha256": "62aadeb56633aa7291ae686933b03c6ab607625c9f3a3bcd1f011d0b29c15937",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_15761180": "Close view of small rattle, dark facial stripe edged in light scales and dark brown dorsal markings.",
+          "inat_15485734": "Coiled dark animal with light-edged dorsal blotches."
+        },
         "unextracted_fields": [
           "body",
           "ventral",
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Side spots, mottled ventral scales, and irregular blotch outlines remain simplified.",
+          "Natural rattle size and count vary; segment count is illustrative.",
+          "Photo identity and proportions need independent review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Crotalus atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The selected photographs show a stout body, dark pale-edged blotches, a pale-edged facial stripe and a small segmented rattle.",
+            "The head is broad with larger crown scales; rattle size and tail have been customized."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "crotalus_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_15761180",
+            "inat_15485734"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#948e81",
+        "marking_color": "#514841",
+        "belly_color": "#504d49",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "rattle",
-        "scale_pitch": 7.4,
-        "mark_spacing": 52,
+        "scale_pitch": 4.3,
+        "mark_spacing": 58,
         "mark_size": 1,
-        "tail_segments": 6,
+        "tail_segments": 5,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 72,
-          "neck": 10,
+          "length": 70,
+          "neck": 8.5,
           "upper": [
             [
               0,
               0,
-              -1,
-              -5,
-              4,
-              -10,
-              12,
-              -11
+              0,
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              12,
-              -11,
-              27,
-              -13,
-              42,
-              -26,
-              52,
-              -22
+              18,
+              -9,
+              30,
+              -15.200000000000001,
+              48,
+              -19,
+              57,
+              -16.34
             ],
             [
-              52,
-              -22,
-              63,
-              -18,
+              57,
+              -16.34,
               62,
-              -10,
-              72,
-              -10
+              -13.68,
+              66,
+              -8.5,
+              70,
+              -8.5
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
-              6,
-              6,
-              10,
+              3,
+              4,
               15,
-              11
+              7,
+              31,
+              9
             ],
             [
-              15,
-              11,
-              29,
-              15,
-              45,
-              25,
-              55,
-              20
+              31,
+              9,
+              43,
+              14,
+              50,
+              14,
+              58,
+              9.5
             ],
             [
-              55,
-              20,
-              62,
-              17,
-              64,
-              10,
-              72,
-              10
+              58,
+              9.5,
+              63,
+              8.5,
+              67,
+              8.5,
+              70,
+              8.5
             ]
           ],
           "eye": [
-            25,
-            -4,
-            3.6,
-            3.4
+            28,
+            -1.5,
+            3.7,
+            3.7
           ],
           "nostril": [
-            5,
-            -2
+            6,
+            -1.5
           ],
           "pit": [
             15,
-            1
+            0
           ],
-          "jaw": "M2 5 Q28 10 54 14 L61 11",
-          "shields": [],
+          "jaw": "M1 3 Q22 5 52 7 L66 5",
+          "shields": [
+            "M2 -5 L9 -8 L15 -5 L14 -1 L5 0Z",
+            "M16 -7 L26 -9 L33 -5 L30 1 L18 1Z",
+            "M34 -7 L46 -9 L52 -4 L48 2 L34 1Z",
+            "M4 5 L12 8 L24 9 M13 4 L14 8 M24 5 L25 9",
+            "M32 3 L42 7 L52 6"
+          ],
           "lip": false,
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M23 -1 L46 1 L57 7 L52 10 L40 6 L23 2Z",
+              "fill": "#403934"
+            }
+          ],
+          "iris_color": "#ad9071",
+          "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+          "micro_scales": false
         },
         "body_stations": [
           [
             239,
             219,
-            10
+            8.5
           ],
           [
             278,
             242,
-            19
+            13
           ],
           [
             370,
             265,
-            30
+            18
           ],
           [
             463,
             295,
-            33
+            22
           ],
           [
             515,
             344,
-            32
+            23
           ],
           [
             506,
             395,
-            29
+            23
           ],
           [
             441,
             430,
-            26
+            22
           ],
           [
             341,
             443,
-            22
+            21
           ],
           [
             257,
             472,
-            17
+            20
           ],
           [
             252,
             515,
-            11
+            18
           ],
           [
             324,
             550,
-            7
+            12
           ],
           [
             387,
             558,
-            5
+            8
           ],
           [
             416,
             556,
-            3.2
+            4
           ],
           [
             435,
@@ -42117,7 +43318,14 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_cheek_band": false,
+        "rattle_size": 0.8,
+        "tail_band_length": 48,
+        "tail_band_spacing": 11,
+        "tail_band_light": "#b5a28a",
+        "tail_band_dark": "#403a32",
+        "blotch_border": "#cbbca4"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -42125,7 +43333,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -42134,18 +43342,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_aa0233eca32a03b1",
       "source_species_name": "Sistrurus miliarius",
       "common_name": "Pygmy Rattlesnake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gray pygmy rattlesnake with dark spots and rusty dorsal accents.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.herpconbio.org/Volume_10/Monographs/Meshaka_Layne_2015-small_Part6.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://content.ces.ncsu.edu/snakes/family-viperidae",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_134_sistrurus_miliarius/manifest.json",
+            "image_id": "inat_11817368",
+            "sha256": "cc533ce296fa10de34d47d48482fc9c6db04d42405b84013a622f36c6f137e36",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_134_sistrurus_miliarius/manifest.json",
+            "image_id": "inat_30185105",
+            "sha256": "2966b0031abae8a7a0f9dfc834cb27f6e3a1e6c023bd652860129913a301c284",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_11817368": "Coiled gray snake with black dorsal spots and rusty spots between them.",
+          "inat_30185105": "Close view of dark dorsal blotches, lateral spots and pale edged facial markings."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -42155,199 +43379,216 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The small side spots and exact rust pattern are simplified.",
+          "Rattle segment count and color variation are illustrative.",
+          "Full underside, exact head geometry and identity need independent review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Crotalus atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected photos show dark dorsal spots separated by rusty-colored accents, smaller side spots and a broad head.",
+            "The head, trunk, small rattle and repeating pigment were adjusted independently."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "crotalus_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_11817368",
+            "inat_30185105"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#aaa49a",
+        "marking_color": "#352f2c",
+        "belly_color": "#d0c5af",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "rattle",
-        "scale_pitch": 7.4,
-        "mark_spacing": 52,
+        "scale_pitch": 4.3,
+        "mark_spacing": 43,
         "mark_size": 1,
-        "tail_segments": 6,
+        "tail_segments": 3,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 72,
-          "neck": 10,
+          "length": 63,
+          "neck": 8.5,
           "upper": [
             [
               0,
               0,
-              -1,
-              -5,
-              4,
-              -10,
-              12,
-              -11
+              0,
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              12,
-              -11,
-              27,
-              -13,
-              42,
-              -26,
-              52,
-              -22
+              18,
+              -9,
+              30,
+              -12.8,
+              41,
+              -16,
+              50,
+              -13.76
             ],
             [
-              52,
-              -22,
+              50,
+              -13.76,
+              55,
+              -11.52,
+              59,
+              -8.5,
               63,
-              -18,
-              62,
-              -10,
-              72,
-              -10
+              -8.5
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
-              6,
-              6,
-              10,
+              3,
+              4,
               15,
-              11
+              7,
+              31,
+              9
             ],
             [
-              15,
-              11,
-              29,
-              15,
-              45,
-              25,
-              55,
-              20
+              31,
+              9,
+              43,
+              13,
+              43,
+              13,
+              51,
+              9.5
             ],
             [
-              55,
-              20,
-              62,
-              17,
-              64,
-              10,
-              72,
-              10
+              51,
+              9.5,
+              56,
+              8.5,
+              60,
+              8.5,
+              63,
+              8.5
             ]
           ],
           "eye": [
-            25,
-            -4,
-            3.6,
-            3.4
+            26,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
-            5,
-            -2
+            6,
+            -1.5
           ],
           "pit": [
             15,
-            1
+            0
           ],
-          "jaw": "M2 5 Q28 10 54 14 L61 11",
-          "shields": [],
+          "jaw": "M1 3 Q22 5 45 7 L59 5",
+          "shields": [
+            "M2 -5 L9 -8 L15 -5 L14 -1 L5 0Z",
+            "M16 -7 L26 -9 L33 -5 L30 1 L18 1Z",
+            "M34 -7 L46 -9 L52 -4 L48 2 L34 1Z",
+            "M4 5 L12 8 L24 9 M13 4 L14 8 M24 5 L25 9",
+            "M32 3 L42 7 L52 6"
+          ],
           "lip": false,
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M23 -1 L46 1 L57 7 L52 10 L40 6 L23 2Z",
+              "fill": "#403934"
+            }
+          ],
+          "iris_color": "#ad9071",
+          "labial_boundary": "M-3 2 Q24 1 46 4 L65 5 L65 30 L-3 30Z",
+          "micro_scales": false
         },
         "body_stations": [
           [
             239,
             219,
-            10
+            8.5
           ],
           [
             278,
             242,
-            19
+            13
           ],
           [
             370,
             265,
-            30
+            18
           ],
           [
             463,
             295,
-            33
+            22
           ],
           [
             515,
             344,
-            32
+            23
           ],
           [
             506,
             395,
-            29
+            23
           ],
           [
             441,
             430,
-            26
+            22
           ],
           [
             341,
             443,
-            22
+            21
           ],
           [
             257,
             472,
-            17
+            20
           ],
           [
             252,
             515,
-            11
+            18
           ],
           [
             324,
             550,
-            7
+            12
           ],
           [
             387,
             558,
-            5
+            8
           ],
           [
             416,
             556,
-            3.2
+            4
           ],
           [
             435,
@@ -42360,7 +43601,15 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_cheek_band": false,
+        "rattle_size": 0.62,
+        "tail_band_length": 48,
+        "tail_band_spacing": 11,
+        "tail_band_light": "#b5a28a",
+        "tail_band_dark": "#403a32",
+        "blotch_border": "#cbbca4",
+        "dorsal_interspot_color": "#ae6046"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -42368,7 +43617,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -42377,14 +43626,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_18206cab7b43558d",
       "source_species_name": "Tantilla nigriceps",
       "common_name": "Plains Black-headed Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Light brown plains black-headed snake with a dark cap.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://herpneb.unl.edu/plains-blackhead-snake/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://cpw.state.co.us/species/plains-black-headed-snake",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -42397,126 +43646,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No pilot photos; the cap edge and head geometry require photo comparison.",
+          "The cap should extend onto the neck; this renderer currently restricts it largely to the head."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Colorado Parks and Wildlife describes smooth light brown scales, a dark head cap and pink or orange belly.",
+            "A dark cap, narrow head and pink underside are shown."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#ad8b72",
+        "marking_color": "#342e2b",
+        "belly_color": "#ddad9d",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "short",
+        "scale_pitch": 4,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 40,
+          "neck": 6,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              26,
+              -10,
+              32,
+              -6
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              32,
+              -6,
+              35,
+              -6,
+              38,
+              -6,
+              40,
+              -6
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              27,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              32,
+              6
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              32,
+              6,
+              35,
+              6,
+              38,
+              6,
+              40,
+              6
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            15,
+            -1,
+            2.1,
+            2.1
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 36 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -42524,53 +43771,59 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M-3 -15 H42 V0 L35 4 L-3 4Z",
+              "fill": "#302b29"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            6
           ],
           [
             281,
             242,
-            9
+            8
           ],
           [
             370,
             265,
-            12.5
+            9
           ],
           [
             463,
             295,
-            14
+            10
           ],
           [
             515,
             344,
-            14.2
+            10.5
           ],
           [
             506,
             395,
-            13.8
+            10.5
           ],
           [
             441,
             430,
-            13.1
+            10
           ],
           [
             341,
             443,
-            12
+            9.7
           ],
           [
             257,
             472,
-            10.6
+            9.3
           ],
           [
             252,
@@ -42580,22 +43833,22 @@ window.SERPENT_PRESETS = {
           [
             324,
             550,
-            6.6
+            8.3
           ],
           [
             425,
             562,
-            4.7
+            7.5
           ],
           [
             527,
             548,
-            2.8
+            6.5
           ],
           [
             603,
             519,
-            1.3
+            5
           ],
           [
             654,
@@ -42608,7 +43861,8 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -42616,7 +43870,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -42625,14 +43879,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_6305b88a6ca81adb",
       "source_species_name": "Thamnodynastes strigatus",
       "common_name": "Thamnodynastes strigatus",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown-gray striated snake with a pale underside.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://editora.pucrs.br/edipucrs/acessolivre/periodicos/comunicacoes-mct/download/1994.v7.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://prefeitura.poa.br/sites/default/files/usu_doc/sites/smamus/fauna_e_flora%20REBIO%20Lami.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -42647,126 +43901,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot photos; color pattern and head proportions need reference comparison.",
+          "Distinctive paired dark lines on the belly are not yet modeled."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Lami reserve guide illustrates a brown snake and describes a light underside with dark ventral-edge marks.",
+            "A narrow, elongated form with brown blotches is a provisional approximation."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#a79379",
+        "marking_color": "#715e50",
+        "belly_color": "#e0d7c7",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
-        "mark_spacing": 63,
+        "tail_type": "long",
+        "scale_pitch": 4.1,
+        "mark_spacing": 46,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
-        "pupil": "round",
+        "head_style": "rounded",
+        "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 53,
+          "neck": 8,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              39,
+              -10,
+              45,
+              -8
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              45,
+              -8,
+              48,
+              -8,
+              51,
+              -8,
+              53,
+              -8
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              40,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              45,
+              8
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              45,
+              8,
+              48,
+              8,
+              51,
+              8,
+              53,
+              8
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            22,
+            -1,
+            3.4,
+            3.4
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 49 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -42774,78 +44026,79 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [],
+          "iris_color": "#bba178"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            8
           ],
           [
             281,
             242,
-            9
+            11
           ],
           [
             370,
             265,
-            12.5
+            14
           ],
           [
             463,
             295,
-            14
+            16
           ],
           [
             515,
             344,
-            14.2
+            17
           ],
           [
             506,
             395,
-            13.8
+            17
           ],
           [
             441,
             430,
-            13.1
+            16
           ],
           [
             341,
             443,
-            12
+            15
           ],
           [
             257,
             472,
-            10.6
+            14
           ],
           [
             252,
             515,
-            8.8
+            13
           ],
           [
             324,
             550,
-            6.6
+            12
           ],
           [
             425,
             562,
-            4.7
+            10
           ],
           [
             527,
             548,
-            2.8
+            8
           ],
           [
             603,
             519,
-            1.3
+            6
           ],
           [
             654,
@@ -42858,7 +44111,8 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -42866,7 +44120,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1
+      "model_revision": 2
     },
     {
       "schema_version": 1,
@@ -42874,14 +44128,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_473b0ba7672d65f7",
       "source_species_name": "Thelotornis mossambicanus",
       "common_name": "Eastern Twig Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Eastern twig snake with a green head and slender body.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.africansnakebiteinstitute.com/snake/african-snakes-eastern-vine-snake/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://herpetologynotes.org/index.php/hn/article/download/213/104/2143",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -42895,126 +44149,124 @@ window.SERPENT_PRESETS = {
           "eyes",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot photos; head and body shapes need comparison with live specimens.",
+          "Body and neck markings are simplified and the horizontal pupil is schematic."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The Mozambique field study describes a skinny elongated snake with a green head, dark head and neck markings and a pale spotted body.",
+            "A long tapered body, narrow head and green crown are represented."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "mottled",
+        "skin_color": "#a69c87",
+        "marking_color": "#706b58",
+        "belly_color": "#d9d2c1",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "long",
+        "scale_pitch": 4.3,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
-        "pupil": "round",
+        "head_style": "rounded",
+        "pupil": "horizontal",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 65,
+          "neck": 6,
           "upper": [
             [
               0,
               0,
-              0,
-              -7,
               4,
-              -10,
+              -3,
               12,
-              -11
+              -4,
+              19,
+              -5
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
+              19,
+              -5,
+              29,
+              -8,
+              42,
               -9,
-              78,
-              -7,
-              84,
+              53,
               -7
+            ],
+            [
+              53,
+              -7,
+              57,
+              -6.5,
+              61,
+              -6,
+              65,
+              -6
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              5,
+              3,
+              14,
+              5,
+              22,
+              6
+            ],
+            [
+              22,
               6,
-              7,
-              9,
-              15,
-              9
-            ],
-            [
-              15,
-              9,
               34,
-              12,
-              57,
-              12,
-              69,
-              9
+              8,
+              47,
+              8,
+              54,
+              7
             ],
             [
-              69,
-              9,
-              75,
+              54,
               7,
-              79,
-              7,
-              84,
-              7
+              58,
+              6,
+              62,
+              6,
+              65,
+              6
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            30,
+            -1,
+            3,
+            3
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 61 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -43022,78 +44274,79 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            6
           ],
           [
             281,
             242,
-            9
+            7
           ],
           [
             370,
             265,
-            12.5
+            8
           ],
           [
             463,
             295,
-            14
+            9
           ],
           [
             515,
             344,
-            14.2
+            10
           ],
           [
             506,
             395,
-            13.8
+            10
           ],
           [
             441,
             430,
-            13.1
+            9.5
           ],
           [
             341,
             443,
-            12
+            9
           ],
           [
             257,
             472,
-            10.6
+            8.5
           ],
           [
             252,
             515,
-            8.8
+            8
           ],
           [
             324,
             550,
-            6.6
+            7.5
           ],
           [
             425,
             562,
-            4.7
+            7
           ],
           [
             527,
             548,
-            2.8
+            6
           ],
           [
             603,
             519,
-            1.3
+            4.5
           ],
           [
             654,
@@ -43106,7 +44359,9 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false,
+        "head_color": "#79a26d"
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -43114,7 +44369,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -43123,14 +44378,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_1bb81a30bfda3216",
       "source_species_name": "Toxicocalamus longissimus",
       "common_name": "Woodlark Forest Snake",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Woodlark forest snake using the original gray-brown description.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Annals_and_magazine_of_natural_history%3B_zoology%2C_botany%2C_and_geology_%28IA_annalsmagazineof6181896lond%29.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -43146,126 +44401,124 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local photographs; the source describes historical collected specimens, so living colors need confirmation.",
+          "Two darker ventral longitudinal lines and compressed terminal tail scale are not represented."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The original species description describes a small head indistinct from the neck, very small eyes, an elongated body, short tail and gray-brown coloration with darker scale streaks.",
+            "A small yellowish snout bar and pale underside are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "dendroaspis_polylepis"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "terrestrial",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "edged_scales",
+        "skin_color": "#82776c",
+        "marking_color": "#554d47",
+        "belly_color": "#e4ded1",
         "body_build": 1,
         "scale_texture": "smooth",
-        "tail_type": "pointed",
-        "scale_pitch": 7.4,
+        "tail_type": "short",
+        "scale_pitch": 4,
         "mark_spacing": 63,
         "mark_size": 1,
         "tail_segments": 0,
-        "head_style": "coffin",
+        "head_style": "rounded",
         "pupil": "round",
         "display_state": "neutral",
         "pose": "grounded_open_S",
         "head_geometry": {
-          "length": 84,
-          "neck": 7,
+          "length": 43,
+          "neck": 6.5,
           "upper": [
             [
               0,
               0,
-              0,
+              -1,
+              -4,
+              5,
               -7,
-              4,
+              12,
+              -8
+            ],
+            [
+              12,
+              -8,
+              22,
               -10,
-              12,
-              -11
+              29,
+              -10,
+              35,
+              -6.5
             ],
             [
-              12,
-              -11,
-              34,
-              -13,
-              57,
-              -15,
-              69,
-              -11
-            ],
-            [
-              69,
-              -11,
-              75,
-              -9,
-              78,
-              -7,
-              84,
-              -7
+              35,
+              -6.5,
+              38,
+              -6.5,
+              41,
+              -6.5,
+              43,
+              -6.5
             ]
           ],
           "lower": [
             [
               0,
               0,
-              1,
+              -1,
+              3,
+              8,
               6,
-              7,
-              9,
-              15,
-              9
+              18,
+              8
             ],
             [
-              15,
+              18,
+              8,
+              28,
+              10,
+              30,
               9,
-              34,
-              12,
-              57,
-              12,
-              69,
-              9
+              35,
+              6.5
             ],
             [
-              69,
-              9,
-              75,
-              7,
-              79,
-              7,
-              84,
-              7
+              35,
+              6.5,
+              38,
+              6.5,
+              41,
+              6.5,
+              43,
+              6.5
             ]
           ],
           "eye": [
-            31,
-            -2,
-            3.8,
-            3.5
+            16,
+            -1,
+            1.8,
+            1.8
           ],
           "nostril": [
-            7,
-            -2
+            6,
+            -1.5
           ],
-          "jaw": "M2 3 Q27 7 56 7 L72 5",
+          "jaw": "M1 3 Q18 5 39 7",
           "shields": [
-            "M7 -6 L18 -7 L25 -1 L19 5",
-            "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-            "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-            "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+            "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+            "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+            "M29 -6 L39 -6 L41 3 L30 5",
+            "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
           ],
           "lip": true,
           "origin": [
@@ -43273,78 +44526,84 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "markings": []
+          "markings": [
+            {
+              "path": "M4 -8 L8 -9 L10 5 L6 5Z",
+              "fill": "#d1bb85"
+            }
+          ],
+          "iris_color": "#292723"
         },
         "body_stations": [
           [
             246,
             220,
-            7
+            6.5
           ],
           [
             281,
             242,
-            9
+            8
           ],
           [
             370,
             265,
-            12.5
+            9
           ],
           [
             463,
             295,
-            14
+            10
           ],
           [
             515,
             344,
-            14.2
+            10.5
           ],
           [
             506,
             395,
-            13.8
+            10.5
           ],
           [
             441,
             430,
-            13.1
+            10
           ],
           [
             341,
             443,
-            12
+            9.7
           ],
           [
             257,
             472,
-            10.6
+            9.4
           ],
           [
             252,
             515,
-            8.8
+            9
           ],
           [
             324,
             550,
-            6.6
+            8.5
           ],
           [
             425,
             562,
-            4.7
+            8
           ],
           [
             527,
             548,
-            2.8
+            7
           ],
           [
             603,
             519,
-            1.3
+            5
           ],
           [
             654,
@@ -43357,7 +44616,8 @@ window.SERPENT_PRESETS = {
           140,
           170,
           120
-        ]
+        ],
+        "pit_present": false
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -43365,7 +44625,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -43374,18 +44634,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_ecb186ea6cf2b4a5",
       "source_species_name": "Trimeresurus albolabris",
       "common_name": "White-lipped Pit Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Green white-lipped pit viper with pale lower head and reddish tail.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://www.zobodat.at/pdf/Zoosystematics-Evolution_96_0123-0138.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_136_trimeresurus_albolabris/manifest.json",
+            "image_id": "inat_90568586",
+            "sha256": "e64dccfbdcf356d0232cdd57eb09095499a485db83d9adf067d7b79939810b81",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_136_trimeresurus_albolabris/manifest.json",
+            "image_id": "inat_92596589",
+            "sha256": "61e72ca8a6ad32a8c713fa9c5c2ceaac111ff535a2fc98c4c97e4376bd710c19",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_90568586": "Side view of green body, lighter lower head, copper eye and reddish tail.",
+          "inat_92596589": "Front-facing head and body on a branch; broad head and contrasting lip visible."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -43396,35 +44672,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Photo identification is unverified and apparent colors vary with lighting.",
+          "Exact proportions and underside require independent multi-view comparison.",
+          "Pale lip and tail color boundaries are approximations."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected photos show a green body, paler lower head and reddish tail; head outline and eye were individually adjusted.",
+            "Fine head scales, pit and a narrower body are represented procedurally."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_90568586",
+            "inat_92596589"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#60a936",
+        "marking_color": "#d5dc85",
+        "belly_color": "#c3d96e",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
+        "tail_type": "long",
+        "scale_pitch": 4.1,
         "mark_spacing": 65,
         "mark_size": 1,
         "tail_segments": 0,
@@ -43434,37 +44713,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 64,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              7,
+              -7,
+              16,
+              -8.8
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              16,
+              -8.8,
+              28,
+              -13,
+              44,
+              -13.8,
+              53,
+              -12.5
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              53,
+              -12.5,
+              58,
+              -12,
+              59,
               -8.5,
-              79,
+              64,
               -8.5
             ]
           ],
@@ -43472,46 +44751,46 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              3,
+              2,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              13,
+              7,
+              29,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              29,
+              9,
+              43,
+              12,
+              52,
+              12,
+              57,
+              9.2
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              57,
+              9.2,
+              57,
               8.5,
-              75.05,
+              61,
               8.5,
-              79,
+              64,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            26,
+            -1.5,
+            3.8,
+            4.1
           ],
           "nostril": [
-            6,
-            -1.5
+            5.5,
+            -1.2
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -43519,19 +44798,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 46 6 L60 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q23 1 46 4 L66 5 L66 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a47b35"
         },
         "body_stations": [
           [
@@ -43542,72 +44822,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            11.5
           ],
           [
             305,
             249,
-            20
+            15
           ],
           [
             390,
             271,
-            25
+            18
           ],
           [
             471,
             302,
-            27
+            19
           ],
           [
             514,
             347,
-            26
+            18.5
           ],
           [
             502,
             397,
-            24
+            18
           ],
           [
             430,
             431,
-            22
+            17
           ],
           [
             330,
             445,
-            20
+            16
           ],
           [
             253,
             476,
-            17
+            15
           ],
           [
             253,
             515,
-            13
+            13.5
           ],
           [
             324,
             550,
-            8
+            11.5
           ],
           [
             400,
             555,
-            5
+            9
           ],
           [
             460,
             546,
-            2.8
+            6.7
           ],
           [
             510,
             528,
-            1
+            3.8
           ],
           [
             545,
@@ -43622,7 +44902,9 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "tail_color": "#9a5544",
+        "tail_color_length": 55
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -43630,7 +44912,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -43639,18 +44921,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_c70dfbdb81f566fe",
       "source_species_name": "Trimeresurus insularis",
       "common_name": "White-lipped Island Pitviper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Green and yellow insular pit viper variant.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.zobodat.at/pdf/Zoosystematics-Evolution_96_0123-0138.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://journal.ugm.ac.id/jsv/article/view/111802",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_137_trimeresurus_insularis/manifest.json",
+            "image_id": "inat_176990673",
+            "sha256": "c0bb892416b396ca004e70da3fb6baed1dd530e2385ec190179037b0c521c87d",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_137_trimeresurus_insularis/manifest.json",
+            "image_id": "inat_94577138",
+            "sha256": "97e629981e2a71978a6e860886ea401b3ae497b09835a09291babe80539d6f0e",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_176990673": "Close view of a green-yellow animal, triangular head, copper eye and granular head scales.",
+          "inat_94577138": "Green individual with a contrasting tail and an elongated body."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -43661,35 +44959,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Green and blue color forms vary; this is only the selected green form.",
+          "Head, tail and full underside remain stylized and require closer review.",
+          "Photo identities and scale counts are not independently verified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected images show a green-yellow form with a broad head and a contrasting tail.",
+            "Drawn with an individually adjusted head contour, ventral lip, eye and taper."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_176990673",
+            "inat_94577138"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#81a83c",
+        "marking_color": "#d5dc85",
+        "belly_color": "#e0dd84",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
+        "tail_type": "long",
+        "scale_pitch": 4.4,
         "mark_spacing": 65,
         "mark_size": 1,
         "tail_segments": 0,
@@ -43699,37 +45000,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 68,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              7,
+              -7,
+              16,
+              -8.8
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              16,
+              -8.8,
+              28,
+              -13,
+              44,
+              -15.2,
+              53,
+              -13.5
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              53,
+              -13.5,
+              58,
+              -12,
+              63,
               -8.5,
-              79,
+              68,
               -8.5
             ]
           ],
@@ -43737,46 +45038,46 @@ window.SERPENT_PRESETS = {
             [
               0,
               0,
-              3,
+              2,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              13,
+              7,
+              29,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              29,
+              9,
+              43,
+              12,
+              52,
+              12,
+              57,
+              9.2
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              57,
+              9.2,
+              61,
               8.5,
-              75.05,
+              65,
               8.5,
-              79,
+              68,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            4.1,
+            4.1
           ],
           "nostril": [
-            6,
-            -1.5
+            5.5,
+            -1.2
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -43784,19 +45085,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 46 6 L64 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q23 1 46 4 L70 5 L70 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a8793a"
         },
         "body_stations": [
           [
@@ -43807,72 +45109,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            19.5
           ],
           [
             502,
             397,
-            24
+            19
           ],
           [
             430,
             431,
-            22
+            18
           ],
           [
             330,
             445,
-            20
-          ],
-          [
-            253,
-            476,
             17
           ],
           [
             253,
+            476,
+            15.7
+          ],
+          [
+            253,
             515,
-            13
+            14
           ],
           [
             324,
             550,
-            8
+            12
           ],
           [
             400,
             555,
-            5
+            9.5
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -43887,7 +45189,9 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "tail_color": "#9a5544",
+        "tail_color_length": 70
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -43895,7 +45199,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -43904,14 +45208,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_26f323fa42f9294d",
       "source_species_name": "Trimeresurus nebularis",
       "common_name": "Cameron Highlands Pitviper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Green Cameron Highlands pit viper with a brown tail.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.pauwelsolivier.com/docs/TrimeresuruspopeiorumReview.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.academia.edu/83652831/A_review_of_morphological_variation_in_Trimeresurus_popeiorum_Serpentes_Viperidae_Crotalinae_with_the_description_of_two_new_species",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -43924,37 +45228,35 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot photos; colors, head and tail must be compared with healthy reference specimens.",
+          "The stripe is currently light rather than independently blue and tail coloration is simplified."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The original comparative diagnosis describes green eyes, bluish-green upper lips, frequent pale blue ventrolateral stripes and a green-to-brown tail boundary.",
+            "A green body, brown tail and pale lateral stripe are approximated."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#5aab76",
+        "marking_color": "#9cd3c4",
+        "belly_color": "#c8e2b8",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.1,
+        "mark_spacing": 58,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -43963,37 +45265,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 67,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -12.0,
+              45,
+              -15,
+              54,
+              -12.9
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              54,
+              -12.9,
+              59,
+              -10.799999999999999,
+              63,
               -8.5,
-              79,
+              67,
               -8.5
             ]
           ],
@@ -44003,44 +45305,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              12,
+              47,
+              12,
+              55,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              55,
+              9.5,
+              60,
               8.5,
-              75.05,
+              64,
               8.5,
-              79,
+              67,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            4.1,
+            4.1
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -44048,19 +45350,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 49 7 L63 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 50 4 L69 5 L69 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#8da86f"
         },
         "body_stations": [
           [
@@ -44071,72 +45374,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            11.5
           ],
           [
             305,
             249,
-            20
+            15
           ],
           [
             390,
             271,
-            25
+            18
           ],
           [
             471,
             302,
-            27
+            19
           ],
           [
             514,
             347,
-            26
+            18.5
           ],
           [
             502,
             397,
-            24
+            18
           ],
           [
             430,
             431,
-            22
+            17
           ],
           [
             330,
             445,
-            20
+            16
           ],
           [
             253,
             476,
-            17
+            15
           ],
           [
             253,
             515,
-            13
+            13.5
           ],
           [
             324,
             550,
-            8
+            11.5
           ],
           [
             400,
             555,
-            5
+            9
           ],
           [
             460,
             546,
-            2.8
+            6.7
           ],
           [
             510,
             528,
-            1
+            3.8
           ],
           [
             545,
@@ -44151,7 +45454,10 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "tail_color": "#875b48",
+        "tail_color_length": 60,
+        "ventrolateral_stripe": true
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -44159,7 +45465,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -44168,18 +45474,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_115f9c4d468b7684",
       "source_species_name": "Trimeresurus puniceus",
       "common_name": "Trimeresurus puniceus",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Rust-colored Javan pit viper with irregular dark blotches.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.sciencedirect.com/science/article/pii/S1744117X21000873",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9261747/",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_138_trimeresurus_puniceus/manifest.json",
+            "image_id": "inat_31254573",
+            "sha256": "01c92778e30a10f5ffc0b78c55c1267383f44284cf45c0907aa5444568828186",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_138_trimeresurus_puniceus/manifest.json",
+            "image_id": "inat_606049771",
+            "sha256": "8833bdcf1e8b986c966c8d49c94b47e7eb74a26112a208afb2343e8bbcb5c4ef",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_31254573": "Orange-brown snake showing dark irregular dorsal blotches, triangular head and paler lip.",
+          "inat_606049771": "Side view of rust-colored head and body on a branch."
+        },
         "unextracted_fields": [
           "body",
           "tail",
@@ -44190,36 +45512,38 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Pigment blotches are periodic approximations of irregular natural markings.",
+          "Tail and underside are not fully visible; anatomy and identification require independent review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "Selected photographs show a rust-brown body, dark patches, a broad head and small keeled scales.",
+            "The long, slightly raised snout, heavy body and irregular blotches are approximate vector geometry."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_31254573",
+            "inat_606049771"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "blotches",
+        "skin_color": "#ae7657",
+        "marking_color": "#6c3d35",
+        "belly_color": "#d0a88a",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.5,
+        "mark_spacing": 70,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -44228,37 +45552,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 72,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              50,
+              -17,
+              59,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              59,
+              -14.62,
+              64,
+              -12.24,
+              68,
               -8.5,
-              79,
+              72,
               -8.5
             ]
           ],
@@ -44268,44 +45592,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              13,
+              52,
+              13,
+              60,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              60,
+              9.5,
+              65,
               8.5,
-              75.05,
+              69,
               8.5,
-              79,
+              72,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            3.8,
+            3.8
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -44313,19 +45637,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 54 7 L68 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 55 4 L74 5 L74 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#b99b75"
         },
         "body_stations": [
           [
@@ -44341,32 +45666,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -44376,32 +45701,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            15.5
           ],
           [
             324,
             550,
-            8
+            12
           ],
           [
             400,
             555,
-            5
+            9
           ],
           [
             460,
             546,
-            2.8
+            6
           ],
           [
             510,
             528,
-            1
+            3.5
           ],
           [
             545,
@@ -44424,7 +45749,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1
+      "model_revision": 2
     },
     {
       "schema_version": 1,
@@ -44432,22 +45757,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_0945e9f34ae428db",
       "source_species_name": "Trimeresurus purpureomaculatus",
       "common_name": "Mangrove Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Dark gray mangrove pit viper variant.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
             "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/487",
-            "scope": "Existing source profile; not yet applied to this template."
-          },
-          {
-            "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=101163",
-            "scope": "Taxonomic synonym; source label preserved."
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/manifest.json",
+            "image_id": "inat_113274388",
+            "sha256": "b5be856fcfe8cc88ef798e21c7d672ad49a2674044357997cb17e2485677fd5a",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus/manifest.json",
+            "image_id": "inat_102730331",
+            "sha256": "eb25b1d9252aa84f6e6505fbb100cd1d045da4ac5098e0d5df933de570c8c8d9",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_113274388": "Dark gray coiled individual with broad, finely scaled head and visible keeled dorsal scales.",
+          "inat_102730331": "Dark, purplish-brown coiled individual; supports the selected dark color range."
+        },
         "unextracted_fields": [
           "tail",
           "ventral",
@@ -44455,37 +45792,39 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "NCBI lists Cryptelytrops purpureomaculatus as a synonym of this name; the two source labels must not be counted as separate verified species."
+          "The selected photo does not show a complete tail or underside.",
+          "The head and body proportions are qualitative; other color variants are not represented.",
+          "Identification of the individual is not independently confirmed."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "A photographed gray form has a broad head, finely scaled crown and a relatively stout body.",
+            "This model depicts one dark gray form; other photographs show different colors and markings."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_113274388",
+            "inat_102730331"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#5c5d63",
+        "marking_color": "#77747b",
+        "belly_color": "#93939a",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.3,
+        "mark_spacing": 64,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -44494,37 +45833,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 70,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -14.4,
+              48,
+              -18,
+              57,
+              -15.48
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              57,
+              -15.48,
+              62,
+              -12.959999999999999,
+              66,
               -8.5,
-              79,
+              70,
               -8.5
             ]
           ],
@@ -44534,44 +45873,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              50,
               14,
-              66.36,
-              9.799999999999999
+              58,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              58,
+              9.5,
+              63,
               8.5,
-              75.05,
+              67,
               8.5,
-              79,
+              70,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            29,
+            -1.5,
+            4.0,
+            4.0
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -44579,19 +45918,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 52 7 L66 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#ba8b63"
         },
         "body_stations": [
           [
@@ -44602,7 +45942,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -44612,22 +45952,22 @@ window.SERPENT_PRESETS = {
           [
             390,
             271,
-            25
+            24
           ],
           [
             471,
             302,
-            27
+            25
           ],
           [
             514,
             347,
-            26
+            24
           ],
           [
             502,
             397,
-            24
+            23
           ],
           [
             430,
@@ -44637,37 +45977,37 @@ window.SERPENT_PRESETS = {
           [
             330,
             445,
-            20
+            21
           ],
           [
             253,
             476,
-            17
+            19
           ],
           [
             253,
             515,
-            13
+            17
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -44690,7 +46030,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -44699,54 +46039,73 @@ window.SERPENT_PRESETS = {
       "species_id": "source_8798b5167549f805",
       "source_species_name": "Trimeresurus stejnegeri",
       "common_name": "Chinese Green Tree Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Green bamboo pit viper with a pale ventrolateral stripe.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://collections.culture.tw/ntm_collectionsweb/EN/Collection?GID=04MYMI0EMB",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://repository.si.edu/server/api/core/bitstreams/bd55db74-3492-45a7-b184-122334d63bd2/content",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_140_trimeresurus_stejnegeri/manifest.json",
+            "image_id": "inat_37987159",
+            "sha256": "8a05c36a5c3cc04095bf82e5d3f12d7da61034927b73d19ceb00318940a6b6ae",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_140_trimeresurus_stejnegeri/manifest.json",
+            "image_id": "inat_19854253",
+            "sha256": "1355e678cc3ae001d0c63916373a88724b604982d02ede262187f19a1d10f3ab",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_37987159": "Green coiled snake, head and light ventrolateral edge.",
+          "inat_19854253": "Green body and reddish tail on vegetation."
+        },
         "unextracted_fields": [
           "scales",
           "eyes",
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The pale stripe is simplified and not all geographic and sex variants are represented.",
+          "Tail and underside coloration and head geometry need closer verification.",
+          "Pilot identification is not independently confirmed."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The photographed form has green dorsal scales, a light stripe along the ventral edge and a reddish tail.",
+            "A narrow head and relatively slender body were drawn, but proportions are illustrative."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_37987159",
+            "inat_19854253"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
         "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "skin_color": "#6ba539",
+        "marking_color": "#dfdfbd",
+        "belly_color": "#c8d69e",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.1,
+        "mark_spacing": 64,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -44755,37 +46114,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 66,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -11.200000000000001,
+              44,
+              -14,
+              53,
+              -12.04
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              53,
+              -12.04,
+              58,
+              -10.08,
+              62,
               -8.5,
-              79,
+              66,
               -8.5
             ]
           ],
@@ -44795,44 +46154,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              12,
+              46,
+              12,
+              54,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              54,
+              9.5,
+              59,
               8.5,
-              75.05,
+              63,
               8.5,
-              79,
+              66,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            3.9,
+            3.9
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -44840,19 +46199,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 48 7 L62 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 49 4 L68 5 L68 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a77847"
         },
         "body_stations": [
           [
@@ -44863,72 +46223,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            19.5
           ],
           [
             502,
             397,
-            24
+            19
           ],
           [
             430,
             431,
-            22
+            18
           ],
           [
             330,
             445,
-            20
-          ],
-          [
-            253,
-            476,
             17
           ],
           [
             253,
+            476,
+            15.5
+          ],
+          [
+            253,
             515,
-            13
+            13.5
           ],
           [
             324,
             550,
-            8
+            11.5
           ],
           [
             400,
             555,
-            5
+            9
           ],
           [
             460,
             546,
-            2.8
+            6.5
           ],
           [
             510,
             528,
-            1
+            3.7
           ],
           [
             545,
@@ -44943,7 +46303,10 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "ventrolateral_stripe": true,
+        "tail_color": "#a45640",
+        "tail_color_length": 60
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -44951,7 +46314,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -44960,18 +46323,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_58fecb9b72ef2b50",
       "source_species_name": "Trimeresurus wiroti",
       "common_name": "Wirot’s pit viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown Wirot pit viper with subdued transverse markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://www.sciencedirect.com/science/article/pii/S1744117X21000873",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://herpingthailand.com/snakes-of-thailand/vipers/trimeresurus-wiroti-wirots-pit-viper/",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_141_trimeresurus_wiroti/manifest.json",
+            "image_id": "inat_520493559",
+            "sha256": "945174cef00e5bbe4d1478fa1d96d23c2301c48b06d47305b629110e4b91caa2",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_141_trimeresurus_wiroti/manifest.json",
+            "image_id": "inat_543312433",
+            "sha256": "3dc74f8285acc98347cfd84b6558d3bf19d346a76f90a5c7c98d5fa7472e3f45",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_520493559": "Long low head, raised snout and subdued reddish-brown body with darker transverse patches.",
+          "inat_543312433": "Brown head and mottled body viewed against a tree."
+        },
         "unextracted_fields": [
           "body",
           "tail",
@@ -44982,36 +46361,39 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "The selected photographs do not establish a reliable complete underside or tail.",
+          "The placement of dark patches and exact snout shape remain approximate.",
+          "Photograph identity requires independent review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "A brown snake with an elongated head, raised snout and subdued cross markings is visible in selected photographs.",
+            "The head length, body width and dark crossbands have been drawn separately from the green species."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_520493559",
+            "inat_543312433"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "crossbands",
+        "skin_color": "#8b6258",
+        "marking_color": "#705047",
+        "belly_color": "#bd9e8a",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.4,
+        "mark_spacing": 90,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -45020,37 +46402,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 77,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -12.4,
+              55,
+              -15.5,
+              64,
+              -13.33
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              64,
+              -13.33,
+              69,
+              -11.16,
+              73,
               -8.5,
-              79,
+              77,
               -8.5
             ]
           ],
@@ -45060,44 +46442,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              12,
+              57,
+              12,
+              65,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              65,
+              9.5,
+              70,
               8.5,
-              75.05,
+              74,
               8.5,
-              79,
+              77,
               8.5
             ]
           ],
           "eye": [
             30,
-            -2,
-            4,
-            4.2
+            -1.5,
+            3.7,
+            3.7
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -45105,19 +46487,20 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 59 7 L73 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 60 4 L79 5 L79 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#b69a80"
         },
         "body_stations": [
           [
@@ -45128,72 +46511,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            20
           ],
           [
             502,
             397,
-            24
+            19.5
           ],
           [
             430,
             431,
-            22
+            19
           ],
           [
             330,
             445,
-            20
+            18
           ],
           [
             253,
             476,
-            17
+            16.5
           ],
           [
             253,
             515,
-            13
+            14
           ],
           [
             324,
             550,
-            8
+            11.5
           ],
           [
             400,
             555,
-            5
+            9
           ],
           [
             460,
             546,
-            2.8
+            6
           ],
           [
             510,
             528,
-            1
+            3.5
           ],
           [
             545,
@@ -45216,7 +46599,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://www.fws.gov/species/wirots-pit-viper-trimeresurus-wiroti"
     },
     {
@@ -45225,18 +46608,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_16d2ba0a60598c29",
       "source_species_name": "Tropidolaemus wagleri",
       "common_name": "Wagler's Pit Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Yellow-and-black adult female Wagler pit viper.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://biodiversitysg.nparks.gov.sg/our-biodiversity/reptiles/snakes/wagler-s-pit-viper/",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/4/9/490",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_142_tropidolaemus_wagleri/manifest.json",
+            "image_id": "inat_321793666",
+            "sha256": "8e4e7af9cb50940ff964c8239847934a3a3c4fc056b09236ff7c5e2427e956b2",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_142_tropidolaemus_wagleri/manifest.json",
+            "image_id": "inat_102919227",
+            "sha256": "132568317f319dc4f2917dbc8cadf2b2f3d87ad0355f164231be872ab829b6b7",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_321793666": "Yellow and black adult with broad head and pale spots in dark bands.",
+          "inat_102919227": "Dark and yellow-banded individual on vegetation."
+        },
         "unextracted_fields": [
           "head",
           "tail",
@@ -45246,36 +46645,39 @@ window.SERPENT_PRESETS = {
           "eyes",
           "special"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Small pale spots in black bands are not yet represented.",
+          "Males and juveniles can be green and are not represented by this female form.",
+          "Reference identities, tail and full underside need review."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The chosen adult has a broad head, heavy body and black-on-yellow banding; pale spots occur within dark areas.",
+            "Head, body width, bands and yellow underside have been modeled as an approximation."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_321793666",
+            "inat_102919227"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "crossbands",
+        "skin_color": "#dbbd40",
+        "marking_color": "#252729",
+        "belly_color": "#dbbd40",
         "body_build": 1,
         "scale_texture": "keeled",
-        "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "tail_type": "long",
+        "scale_pitch": 4.6,
+        "mark_spacing": 64,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
@@ -45284,37 +46686,37 @@ window.SERPENT_PRESETS = {
         "pose": "grounded_open_S",
         "pit_present": true,
         "head_geometry": {
-          "length": 79,
+          "length": 70,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -15.200000000000001,
+              48,
+              -19,
+              57,
+              -16.34
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              57,
+              -16.34,
+              62,
+              -13.68,
+              66,
               -8.5,
-              79,
+              70,
               -8.5
             ]
           ],
@@ -45324,44 +46726,44 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              15,
+              50,
+              15,
+              58,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              58,
+              9.5,
+              63,
               8.5,
-              75.05,
+              67,
               8.5,
-              79,
+              70,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            28,
+            -1.5,
+            4.0,
+            4.0
           ],
           "nostril": [
             6,
             -1.5
           ],
           "pit": [
-            16.5,
+            15,
             0
           ],
           "origin": [
@@ -45369,19 +46771,25 @@ window.SERPENT_PRESETS = {
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 52 7 L66 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M22 -4 L45 -3 L60 1 L58 4 L45 1 L22 -1Z",
+              "fill": "#292a25"
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#baae70"
         },
         "body_stations": [
           [
@@ -45392,7 +46800,7 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            14
           ],
           [
             305,
@@ -45407,7 +46815,7 @@ window.SERPENT_PRESETS = {
           [
             471,
             302,
-            27
+            26
           ],
           [
             514,
@@ -45417,47 +46825,47 @@ window.SERPENT_PRESETS = {
           [
             502,
             397,
-            24
+            25
           ],
           [
             430,
             431,
-            22
+            24
           ],
           [
             330,
             445,
-            20
+            23
           ],
           [
             253,
             476,
-            17
+            21
           ],
           [
             253,
             515,
-            13
+            18
           ],
           [
             324,
             550,
-            8
+            15
           ],
           [
             400,
             555,
-            5
+            12
           ],
           [
             460,
             546,
-            2.8
+            8
           ],
           [
             510,
             528,
-            1
+            4.5
           ],
           [
             545,
@@ -45480,7 +46888,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -45489,14 +46897,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_1a64330569b194a6",
       "source_species_name": "Vipera ammodytes",
       "common_name": "Long-nosed Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Nose-horned viper with gray-brown body and a dark dorsal zigzag.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://biozoojournals.ro/nwjz/content/v13n2/nwjz_e161509_Mebert.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.zobodat.at/pdf/HER_24_3_4_0181-0185.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -45510,76 +46918,84 @@ window.SERPENT_PRESETS = {
           "eyes",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot images; horn shape, head and body need direct photographic comparison.",
+          "Dorsal zigzag, color variants and ventral markings are stylized."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The cited morphological study describes an upturned horn on the snout and a dark zigzag on a gray back.",
+            "The horn is part of the editable head outline; no loreal heat pit is drawn."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "dorsal_zigzag",
+        "skin_color": "#aea599",
+        "marking_color": "#514943",
+        "belly_color": "#ccc0aa",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 52,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 69,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              1,
+              -8,
+              4,
+              -8
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              4,
+              -8,
+              9,
+              -9,
+              10,
+              -6,
+              18,
+              -9
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              18,
+              -9,
+              30,
+              -15,
+              47,
+              -18,
+              56,
+              -15
+            ],
+            [
+              56,
+              -15,
+              61,
+              -13,
+              65,
               -8.5,
-              79,
+              69,
               -8.5
             ]
           ],
@@ -45589,64 +47005,61 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              49,
               14,
-              66.36,
-              9.799999999999999
+              57,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              57,
+              9.5,
+              62,
               8.5,
-              75.05,
+              66,
               8.5,
-              79,
+              69,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            27,
+            -1.5,
+            3.7,
+            3.7
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 51 7 L65 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 52 4 L71 5 L71 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a98863"
         },
         "body_stations": [
           [
@@ -45662,32 +47075,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -45697,32 +47110,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -45745,7 +47158,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -45754,14 +47167,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_88213046eb905611",
       "source_species_name": "Vipera anatolica",
       "common_name": "Anatolian Meadow Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Gray Anatolian meadow viper with a dark zigzag.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://doi.org/10.6084/m9.figshare.24572683",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://www.zobodat.at/pdf/HER_18_1_2_0025-0033.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -45777,76 +47190,74 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset.",
-          "No local image candidates in species catalog; seek reliable reference imagery."
+          "No local pilot photos; proportions and markings need species-specific comparison.",
+          "The zigzag and head pattern are simplified and variation is not captured."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "A comparative herpetology paper describes gray coloration, a pale belly and dark zigzag for this group.",
+            "The rendering uses a gray form with a narrow zigzag and no heat pit."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "dorsal_zigzag",
+        "skin_color": "#a7a49b",
+        "marking_color": "#474640",
+        "belly_color": "#d9d7ca",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4,
+        "mark_spacing": 40,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 60,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -11.200000000000001,
+              38,
+              -14,
+              47,
+              -12.04
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              47,
+              -12.04,
+              52,
+              -10.08,
+              56,
               -8.5,
-              79,
+              60,
               -8.5
             ]
           ],
@@ -45856,64 +47267,61 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              11,
+              40,
+              11,
+              48,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              48,
+              9.5,
+              53,
               8.5,
-              75.05,
+              57,
               8.5,
-              79,
+              60,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            24,
+            -1.5,
+            3.2,
+            3.2
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 42 7 L56 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 43 4 L62 5 L62 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#a4916c"
         },
         "body_stations": [
           [
@@ -45924,72 +47332,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            11
           ],
           [
             305,
             249,
-            20
+            14
           ],
           [
             390,
             271,
-            25
+            16
           ],
           [
             471,
             302,
-            27
+            17
           ],
           [
             514,
             347,
-            26
+            17
           ],
           [
             502,
             397,
-            24
+            16
           ],
           [
             430,
             431,
-            22
+            15
           ],
           [
             330,
             445,
-            20
+            14
           ],
           [
             253,
             476,
-            17
+            13
           ],
           [
             253,
             515,
-            13
+            11.5
           ],
           [
             324,
             550,
-            8
+            10
           ],
           [
             400,
             555,
-            5
+            8
           ],
           [
             460,
             546,
-            2.8
+            5.5
           ],
           [
             510,
             528,
-            1
+            3
           ],
           [
             545,
@@ -46004,7 +47412,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "zigzag_width": 0.23
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -46012,7 +47421,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -46593,18 +48002,34 @@ window.SERPENT_PRESETS = {
       "species_id": "source_7ada09370ebce8db",
       "source_species_name": "Vipera kaznakovi",
       "common_name": "Caucasian Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Black Caucasus viper with orange zigzag markings.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://web.uni-plovdiv.bg/mollov/EB/2013_vol5_iss2/%5B99-101%5D_eb.13204.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7613002/",
+            "scope": "Reference for species and the selected coloration; variation remains possible."
           }
         ],
-        "photo_references": [],
-        "reference_feature_map": {},
+        "photo_references": [
+          {
+            "manifest_path": "data/image_pilots/pilot_145_vipera_kaznakovi/manifest.json",
+            "image_id": "inat_720748478",
+            "sha256": "982a697a9447e3322df54f0d67ce337ee18511a4c2bc8afeffe048c6d6d37fe9",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          },
+          {
+            "manifest_path": "data/image_pilots/pilot_145_vipera_kaznakovi/manifest.json",
+            "image_id": "inat_720748531",
+            "sha256": "b7f1a788386534e9d5735e750c1839412071b88f686596a4d37eff5e27a2d2ed",
+            "use": "Visual reference for specified visible features; identification not independently confirmed."
+          }
+        ],
+        "reference_feature_map": {
+          "inat_720748478": "Black viper with bright orange zigzag-like dorsal elements.",
+          "inat_720748531": "Close-up of black granular head, copper eye and pale lower facial spots."
+        },
         "unextracted_fields": [
           "body",
           "head",
@@ -46613,75 +48038,77 @@ window.SERPENT_PRESETS = {
           "eyes",
           "special"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Other color forms exist; this is the selected black and orange individual.",
+          "The zigzag is simplified; tail and underside need better views."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "qualitative_photo_comparison_not_morphometric_fit",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The chosen photographs show a near-black body with orange dorsal markings and a dark head with pale lower facial spots.",
+            "A stocky body, small-scaled head and orange zigzag are represented."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-          "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+          "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+          "reference_ids": [
+            "inat_720748478",
+            "inat_720748531"
+          ]
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "dorsal_zigzag",
+        "skin_color": "#1e2424",
+        "marking_color": "#db733d",
+        "belly_color": "#bcae9d",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4.2,
+        "mark_spacing": 55,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 63,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -13.600000000000001,
+              41,
+              -17,
+              50,
+              -14.62
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              50,
+              -14.62,
+              55,
+              -12.24,
+              59,
               -8.5,
-              79,
+              63,
               -8.5
             ]
           ],
@@ -46691,64 +48118,68 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
+              31,
+              9,
+              43,
               14,
-              61.620000000000005,
+              43,
               14,
-              66.36,
-              9.799999999999999
+              51,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              51,
+              9.5,
+              56,
               8.5,
-              75.05,
+              60,
               8.5,
-              79,
+              63,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            26,
+            -1.5,
+            3.7,
+            3.7
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 45 7 L59 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
-          "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "markings": [
+            {
+              "path": "M8 5 L13 8 L18 8 M24 7 L28 9 L33 8 M38 7 L43 9",
+              "fill": "none",
+              "stroke": "#dbccc0",
+              "width": 2
+            }
+          ],
+          "labial_boundary": "M-3 2 Q24 1 46 4 L65 5 L65 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#ac744b"
         },
         "body_stations": [
           [
@@ -46764,32 +48195,32 @@ window.SERPENT_PRESETS = {
           [
             305,
             249,
-            20
+            18
           ],
           [
             390,
             271,
-            25
+            22
           ],
           [
             471,
             302,
-            27
+            23
           ],
           [
             514,
             347,
-            26
+            23
           ],
           [
             502,
             397,
-            24
+            22
           ],
           [
             430,
             431,
-            22
+            21
           ],
           [
             330,
@@ -46799,32 +48230,32 @@ window.SERPENT_PRESETS = {
           [
             253,
             476,
-            17
+            18
           ],
           [
             253,
             515,
-            13
+            16
           ],
           [
             324,
             550,
-            8
+            13
           ],
           [
             400,
             555,
-            5
+            10
           ],
           [
             460,
             546,
-            2.8
+            7
           ],
           [
             510,
             528,
-            1
+            4
           ],
           [
             545,
@@ -46847,7 +48278,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {
@@ -47142,14 +48573,14 @@ window.SERPENT_PRESETS = {
       "species_id": "source_17f12a4790d8de11",
       "source_species_name": "Vipera orlovi",
       "common_name": "Orlov's Viper",
-      "status": "unreviewed_starter",
-      "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+      "status": "illustrative_unvalidated",
+      "variant": "Brown Orlov viper with a narrow dark zigzag.",
       "evidence": {
         "physical_profile_path": "data/processed/morphology/physical_profiles.json",
         "sources": [
           {
-            "url": "https://npsochi.ru/upload/iblock/bb5/zyv53ij01t0n9e0a0ut9x66u3rgxk9l8.pdf",
-            "scope": "Existing source profile; not yet applied to this template."
+            "url": "https://npsochi.ru/upload/iblock/597/qwq102152iur6lrlczbl6gotlsvbu1z7.pdf",
+            "scope": "Published description for the selected illustrative form."
           }
         ],
         "photo_references": [],
@@ -47164,75 +48595,74 @@ window.SERPENT_PRESETS = {
           "special",
           "variation"
         ],
-        "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+        "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
         "modeling_flags": [
-          "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-          "Existing image candidates have not been assessed for suitability in this preset."
+          "Local images have not been fitted and include limited independent observations.",
+          "Zigzag winding count, pale border and belly flecks are schematic."
         ],
-        "modeling_review_status": "unreviewed_starter",
+        "modeling_review_status": "initial_model_awaiting_refinement",
         "modeling_observations": {
-          "status": "unreviewed_template",
+          "status": "description_based_no_local_photo_comparison",
           "observations": [
-            "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-            "Available photographs and descriptions still need individual review before refinement."
+            "The original description reports brown and other color forms with a dark zigzag and a mostly dark, flecked belly.",
+            "The draft depicts one brown morph with a dark ventral surface."
           ],
-          "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+          "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
           "reference_ids": []
-        },
-        "template_source_preset": "bothrops_atrox"
+        }
       },
       "biological_measurements": null,
       "venom_trait_mapping": null,
       "artistic_parameters": {
         "body_plan": "viper",
-        "pattern": "plain",
-        "skin_color": "#887e6c",
-        "marking_color": "#c5b79b",
-        "belly_color": "#c9bfaa",
+        "pattern": "dorsal_zigzag",
+        "skin_color": "#998679",
+        "marking_color": "#443a36",
+        "belly_color": "#302e2e",
         "body_build": 1,
         "scale_texture": "keeled",
         "tail_type": "short",
-        "scale_pitch": 5.7,
-        "mark_spacing": 65,
+        "scale_pitch": 4,
+        "mark_spacing": 48,
         "mark_size": 1,
         "tail_segments": 0,
         "head_style": "triangular",
         "pupil": "vertical",
         "display_state": "neutral",
         "pose": "grounded_open_S",
-        "pit_present": true,
+        "pit_present": false,
         "head_geometry": {
-          "length": 79,
+          "length": 62,
           "neck": 8.5,
           "upper": [
             [
               0,
               0,
               0,
-              -5,
-              10.27,
-              -7.0,
-              22.12,
-              -9.6
+              -4,
+              8,
+              -7,
+              18,
+              -9
             ],
             [
-              22.12,
-              -9.6,
-              37.129999999999995,
-              -15.600000000000001,
-              53.720000000000006,
-              -20,
-              62.410000000000004,
-              -17.4
+              18,
+              -9,
+              30,
+              -12.0,
+              40,
+              -15,
+              49,
+              -12.9
             ],
             [
-              62.410000000000004,
-              -17.4,
-              67.14999999999999,
-              -14.399999999999999,
-              74.25999999999999,
+              49,
+              -12.9,
+              54,
+              -10.799999999999999,
+              58,
               -8.5,
-              79,
+              62,
               -8.5
             ]
           ],
@@ -47242,64 +48672,61 @@ window.SERPENT_PRESETS = {
               0,
               3,
               4,
-              18.17,
-              7.700000000000001,
-              37.92,
-              9.799999999999999
+              15,
+              7,
+              31,
+              9
             ],
             [
-              37.92,
-              9.799999999999999,
-              51.35,
-              14,
-              61.620000000000005,
-              14,
-              66.36,
-              9.799999999999999
+              31,
+              9,
+              43,
+              12,
+              42,
+              12,
+              50,
+              9.5
             ],
             [
-              66.36,
-              9.799999999999999,
-              71.10000000000001,
+              50,
+              9.5,
+              55,
               8.5,
-              75.05,
+              59,
               8.5,
-              79,
+              62,
               8.5
             ]
           ],
           "eye": [
-            30,
-            -2,
-            4,
-            4.2
+            25,
+            -1.5,
+            3.5,
+            3.5
           ],
           "nostril": [
             6,
             -1.5
-          ],
-          "pit": [
-            16.5,
-            0
           ],
           "origin": [
             145,
             185
           ],
           "angle_degrees": 17,
-          "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+          "jaw": "M1 3 Q22 5 44 7 L58 5",
           "shields": [
-            "M7 1 L9 6 L8 12",
-            "M16 1 L18 6 L17 12",
-            "M25 1 L27 6 L26 12",
-            "M35 1 L37 6 L36 12",
-            "M47 1 L49 6 L48 12",
-            "M59 1 L61 6 L60 12"
+            "M7 2 L8 7",
+            "M16 1 L17 7",
+            "M25 2 L26 8",
+            "M34 3 L35 9",
+            "M44 3 L45 9",
+            "M53 3 L54 9"
           ],
           "lip": true,
           "markings": [],
-          "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-          "micro_scales": true
+          "labial_boundary": "M-3 2 Q24 1 45 4 L64 5 L64 30 L-3 30Z",
+          "micro_scales": true,
+          "iris_color": "#9c8465"
         },
         "body_stations": [
           [
@@ -47310,72 +48737,72 @@ window.SERPENT_PRESETS = {
           [
             258,
             227,
-            13
+            12
           ],
           [
             305,
             249,
-            20
+            16
           ],
           [
             390,
             271,
-            25
+            19
           ],
           [
             471,
             302,
-            27
+            20
           ],
           [
             514,
             347,
-            26
+            20
           ],
           [
             502,
             397,
-            24
+            19
           ],
           [
             430,
             431,
-            22
+            18
           ],
           [
             330,
             445,
-            20
-          ],
-          [
-            253,
-            476,
             17
           ],
           [
             253,
+            476,
+            15.5
+          ],
+          [
+            253,
             515,
-            13
+            14
           ],
           [
             324,
             550,
-            8
+            12
           ],
           [
             400,
             555,
-            5
+            9
           ],
           [
             460,
             546,
-            2.8
+            6
           ],
           [
             510,
             528,
-            1
+            3.5
           ],
           [
             545,
@@ -47390,7 +48817,8 @@ window.SERPENT_PRESETS = {
           120
         ],
         "band_fraction": 0.36,
-        "pit_cheek_band": false
+        "pit_cheek_band": false,
+        "zigzag_width": 0.21
       },
       "policy": {
         "numeric_values_are_artistic": true,
@@ -47398,7 +48826,7 @@ window.SERPENT_PRESETS = {
         "no_image_reviews_changed": true,
         "shared_pose_is_presentation_not_biology": true
       },
-      "model_revision": 1,
+      "model_revision": 2,
       "common_name_source": "https://api.inaturalist.org/v1/taxa"
     },
     {

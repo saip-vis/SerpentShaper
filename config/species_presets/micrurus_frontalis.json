@@ -4,18 +4,27 @@
   "species_id": "source_4a468c829ded40b6",
   "source_species_name": "Micrurus frontalis",
   "common_name": "Southern Coralsnake",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Red coral snake with black and pale band groups and a patterned face.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
         "url": "https://ecoevo.com.br/publicacoes/alunos/murilo_rodrigues/atividadecoralsulsudbr_2006.pdf",
-        "scope": "Existing source profile; not yet applied to this template."
+        "scope": "Existing species profile; not independently checked for this draft."
       }
     ],
-    "photo_references": [],
-    "reference_feature_map": {},
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_095_micrurus_frontalis/manifest.json",
+        "image_id": "inat_155417463",
+        "sha256": "cd2be374315a799f370eb9ad1d9b4e5f9a5a9b967e176e6899b6a710b9aeddc8",
+        "use": "Visual reference for the listed visible features; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_155417463": "Close view shows red head and neck region, dark facial cap outlined in white, and black bands separated by pale bands."
+    },
     "unextracted_fields": [
       "body",
       "head",
@@ -26,36 +35,40 @@
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Photo-informed color and ring-pattern draft; the single projected head, body, ventral surface and tail are not anatomically validated.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset."
+      "Ring counts, exact scale-tip pattern, tail-specific markings, and geographic variation are not calibrated.",
+      "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+      "Provider identification and the model need independent expert review."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
       "observations": [
-        "Unreviewed drawing scaffold derived from Bungarus candidus; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "The close-up shows black-pale-black-pale-black bands next to a red collar and a dark face with pale scale outlines; facial markings remain simplified.",
+        "Body thickness and eye size are illustrative edits, not measurements.",
+        "The exaggerated thin tail was replaced by a fuller, short-tapering illustrative silhouette, and dark tips were added to red scales.",
+        "The head approximates the photographed dark-and-pale facial scales and red posterior region; individual shield geometry remains schematic."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-      "reference_ids": []
-    },
-    "template_source_preset": "bungarus_candidus"
+      "projection_limit": "One editable projected drawing; cannot validate other angles from this reference.",
+      "reference_ids": [
+        "inat_155417463"
+      ]
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "terrestrial",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
-    "body_build": 1,
+    "pattern": "band_sequence",
+    "skin_color": "#dc3e1f",
+    "marking_color": "#1d1e1d",
+    "belly_color": "#eae7d4",
+    "body_build": 0.9,
     "scale_texture": "smooth",
     "tail_type": "short",
-    "scale_pitch": 5.5,
-    "mark_spacing": 68,
+    "scale_pitch": 4.2,
+    "mark_spacing": 112,
     "mark_size": 1,
     "tail_segments": 0,
     "head_style": "rounded",
@@ -131,10 +144,10 @@
         ]
       ],
       "eye": [
-        18,
+        17,
         -1,
-        3.7,
-        3.9
+        2.8,
+        2.8
       ],
       "nostril": [
         7,
@@ -152,8 +165,18 @@
         "M29 -8 L38 -7 L40 3 L31 6",
         "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
       ],
-      "lip": true,
-      "markings": []
+      "lip": false,
+      "markings": [
+        {
+          "path": "M-3 -17 H24 V17 H-3Z",
+          "fill": "#eee9db"
+        },
+        {
+          "path": "M0 -9 L8 -12 L12 -6 L10 0 L2 1 L-2 -4Z M10 -12 L19 -12 L22 -7 L19 -2 L13 -4Z M2 2 L10 1 L13 6 L8 10 L1 7Z M14 -2 L20 -3 L23 2 L21 8 L14 8 L11 4Z",
+          "fill": "#252526"
+        }
+      ],
+      "iris_color": "#292824"
     },
     "body_stations": [
       [
@@ -169,67 +192,67 @@
       [
         305,
         249,
-        14
+        12.5
       ],
       [
         390,
         271,
-        17
+        14.5
       ],
       [
         471,
         302,
-        18
+        15.5
       ],
       [
         514,
         347,
-        17
+        15.5
       ],
       [
         502,
         397,
-        15
+        14.8
       ],
       [
         430,
         431,
-        13
+        14.3
       ],
       [
         330,
         445,
-        11
+        13.7
       ],
       [
         253,
         476,
-        9
+        13.2
       ],
       [
         253,
         515,
-        6.5
+        12.8
       ],
       [
         324,
         550,
-        4.5
+        12
       ],
       [
         425,
         562,
-        2.7
+        11
       ],
       [
         527,
         548,
-        1.6
+        9
       ],
       [
         610,
         516,
-        0.7
+        5.5
       ],
       [
         669,
@@ -243,7 +266,34 @@
       170,
       120
     ],
-    "band_fraction": 0.4
+    "band_fraction": 0.4,
+    "band_sequence": [
+      {
+        "color": "skin",
+        "fraction": 0.38
+      },
+      {
+        "color": "marking",
+        "fraction": 0.14
+      },
+      {
+        "color": "belly",
+        "fraction": 0.09
+      },
+      {
+        "color": "marking",
+        "fraction": 0.14
+      },
+      {
+        "color": "belly",
+        "fraction": 0.09
+      },
+      {
+        "color": "marking",
+        "fraction": 0.16
+      }
+    ],
+    "scale_tip_color": "#281c1a"
   },
   "policy": {
     "numeric_values_are_artistic": true,
@@ -251,6 +301,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1,
+  "model_revision": 2,
   "common_name_source": "https://api.inaturalist.org/v1/taxa"
 }

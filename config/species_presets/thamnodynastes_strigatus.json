@@ -4,14 +4,14 @@
   "species_id": "source_6305b88a6ca81adb",
   "source_species_name": "Thamnodynastes strigatus",
   "common_name": "Thamnodynastes strigatus",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown-gray striated snake with a pale underside.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
-        "url": "https://editora.pucrs.br/edipucrs/acessolivre/periodicos/comunicacoes-mct/download/1994.v7.pdf",
-        "scope": "Existing source profile; not yet applied to this template."
+        "url": "https://prefeitura.poa.br/sites/default/files/usu_doc/sites/smamus/fauna_e_flora%20REBIO%20Lami.pdf",
+        "scope": "Published description for the selected illustrative form."
       }
     ],
     "photo_references": [],
@@ -26,126 +26,124 @@
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset.",
-      "No local image candidates in species catalog; seek reliable reference imagery."
+      "No local pilot photos; color pattern and head proportions need reference comparison.",
+      "Distinctive paired dark lines on the belly are not yet modeled."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "description_based_no_local_photo_comparison",
       "observations": [
-        "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "The Lami reserve guide illustrates a brown snake and describes a light underside with dark ventral-edge marks.",
+        "A narrow, elongated form with brown blotches is a provisional approximation."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+      "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
       "reference_ids": []
-    },
-    "template_source_preset": "dendroaspis_polylepis"
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "terrestrial",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "blotches",
+    "skin_color": "#a79379",
+    "marking_color": "#715e50",
+    "belly_color": "#e0d7c7",
     "body_build": 1,
     "scale_texture": "smooth",
-    "tail_type": "pointed",
-    "scale_pitch": 7.4,
-    "mark_spacing": 63,
+    "tail_type": "long",
+    "scale_pitch": 4.1,
+    "mark_spacing": 46,
     "mark_size": 1,
     "tail_segments": 0,
-    "head_style": "coffin",
-    "pupil": "round",
+    "head_style": "rounded",
+    "pupil": "vertical",
     "display_state": "neutral",
     "pose": "grounded_open_S",
     "head_geometry": {
-      "length": 84,
-      "neck": 7,
+      "length": 53,
+      "neck": 8,
       "upper": [
         [
           0,
           0,
-          0,
+          -1,
+          -4,
+          5,
           -7,
-          4,
+          12,
+          -8
+        ],
+        [
+          12,
+          -8,
+          22,
           -10,
-          12,
-          -11
+          39,
+          -10,
+          45,
+          -8
         ],
         [
-          12,
-          -11,
-          34,
-          -13,
-          57,
-          -15,
-          69,
-          -11
-        ],
-        [
-          69,
-          -11,
-          75,
-          -9,
-          78,
-          -7,
-          84,
-          -7
+          45,
+          -8,
+          48,
+          -8,
+          51,
+          -8,
+          53,
+          -8
         ]
       ],
       "lower": [
         [
           0,
           0,
-          1,
+          -1,
+          3,
+          8,
           6,
-          7,
-          9,
-          15,
-          9
+          18,
+          8
         ],
         [
-          15,
+          18,
+          8,
+          28,
+          10,
+          40,
           9,
-          34,
-          12,
-          57,
-          12,
-          69,
-          9
+          45,
+          8
         ],
         [
-          69,
-          9,
-          75,
-          7,
-          79,
-          7,
-          84,
-          7
+          45,
+          8,
+          48,
+          8,
+          51,
+          8,
+          53,
+          8
         ]
       ],
       "eye": [
-        31,
-        -2,
-        3.8,
-        3.5
+        22,
+        -1,
+        3.4,
+        3.4
       ],
       "nostril": [
-        7,
-        -2
+        6,
+        -1.5
       ],
-      "jaw": "M2 3 Q27 7 56 7 L72 5",
+      "jaw": "M1 3 Q18 5 49 7",
       "shields": [
-        "M7 -6 L18 -7 L25 -1 L19 5",
-        "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-        "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-        "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+        "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+        "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+        "M29 -6 L39 -6 L41 3 L30 5",
+        "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
       ],
       "lip": true,
       "origin": [
@@ -153,78 +151,79 @@
         185
       ],
       "angle_degrees": 17,
-      "markings": []
+      "markings": [],
+      "iris_color": "#bba178"
     },
     "body_stations": [
       [
         246,
         220,
-        7
+        8
       ],
       [
         281,
         242,
-        9
+        11
       ],
       [
         370,
         265,
-        12.5
+        14
       ],
       [
         463,
         295,
-        14
+        16
       ],
       [
         515,
         344,
-        14.2
+        17
       ],
       [
         506,
         395,
-        13.8
+        17
       ],
       [
         441,
         430,
-        13.1
+        16
       ],
       [
         341,
         443,
-        12
+        15
       ],
       [
         257,
         472,
-        10.6
+        14
       ],
       [
         252,
         515,
-        8.8
+        13
       ],
       [
         324,
         550,
-        6.6
+        12
       ],
       [
         425,
         562,
-        4.7
+        10
       ],
       [
         527,
         548,
-        2.8
+        8
       ],
       [
         603,
         519,
-        1.3
+        6
       ],
       [
         654,
@@ -237,7 +236,8 @@
       140,
       170,
       120
-    ]
+    ],
+    "pit_present": false
   },
   "policy": {
     "numeric_values_are_artistic": true,
@@ -245,5 +245,5 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1
+  "model_revision": 2
 }

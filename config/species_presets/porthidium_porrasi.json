@@ -4,14 +4,14 @@
   "species_id": "source_32fcac3e3443d5f4",
   "source_species_name": "Porthidium porrasi",
   "common_name": "White-tailed Hognose Viper",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Orange-tan white-tailed hognose pit viper.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
         "url": "https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442003000300022&script=sci_arttext&tlng=en",
-        "scope": "Existing source profile; not yet applied to this template."
+        "scope": "Published description for the selected illustrative form."
       }
     ],
     "photo_references": [],
@@ -26,36 +26,35 @@
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset."
+      "The three local photos have not been fitted or independently identified.",
+      "Band shape and the relative extent of pale tail color need photo comparison."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "description_based_no_local_photo_comparison",
       "observations": [
-        "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "The original description reports a tan-orange individual, transverse bands and retention of a pale tail tip in adults.",
+        "A slightly upturned snout and pale tail tip are illustrated."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+      "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
       "reference_ids": []
-    },
-    "template_source_preset": "bothrops_atrox"
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "viper",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "crossbands",
+    "skin_color": "#ae927b",
+    "marking_color": "#705748",
+    "belly_color": "#d9c4ac",
     "body_build": 1,
     "scale_texture": "keeled",
     "tail_type": "short",
-    "scale_pitch": 5.7,
-    "mark_spacing": 65,
+    "scale_pitch": 3.9,
+    "mark_spacing": 50,
     "mark_size": 1,
     "tail_segments": 0,
     "head_style": "triangular",
@@ -64,37 +63,37 @@
     "pose": "grounded_open_S",
     "pit_present": true,
     "head_geometry": {
-      "length": 79,
+      "length": 68,
       "neck": 8.5,
       "upper": [
         [
           0,
           0,
           0,
-          -5,
-          10.27,
-          -7.0,
-          22.12,
-          -9.6
+          -1,
+          2,
+          -0.5,
+          6,
+          -1
         ],
         [
-          22.12,
-          -9.6,
-          37.129999999999995,
-          -15.600000000000001,
-          53.720000000000006,
-          -20,
-          62.410000000000004,
-          -17.4
+          6,
+          -1,
+          14,
+          -2,
+          26,
+          -9,
+          42,
+          -13
         ],
         [
-          62.410000000000004,
-          -17.4,
-          67.14999999999999,
-          -14.399999999999999,
-          74.25999999999999,
-          -8.5,
-          79,
+          42,
+          -13,
+          50,
+          -14,
+          60,
+          -10,
+          68,
           -8.5
         ]
       ],
@@ -104,44 +103,44 @@
           0,
           3,
           4,
-          18.17,
-          7.700000000000001,
-          37.92,
-          9.799999999999999
+          15,
+          7,
+          31,
+          9
         ],
         [
-          37.92,
-          9.799999999999999,
-          51.35,
-          14,
-          61.620000000000005,
-          14,
-          66.36,
-          9.799999999999999
+          31,
+          9,
+          43,
+          13,
+          48,
+          13,
+          56,
+          9.5
         ],
         [
-          66.36,
-          9.799999999999999,
-          71.10000000000001,
+          56,
+          9.5,
+          61,
           8.5,
-          75.05,
+          65,
           8.5,
-          79,
+          68,
           8.5
         ]
       ],
       "eye": [
-        30,
-        -2,
+        25,
+        -1.5,
         4,
-        4.2
+        4
       ],
       "nostril": [
         6,
         -1.5
       ],
       "pit": [
-        16.5,
+        15,
         0
       ],
       "origin": [
@@ -149,19 +148,20 @@
         185
       ],
       "angle_degrees": 17,
-      "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+      "jaw": "M1 3 Q22 5 50 7 L64 5",
       "shields": [
-        "M7 1 L9 6 L8 12",
-        "M16 1 L18 6 L17 12",
-        "M25 1 L27 6 L26 12",
-        "M35 1 L37 6 L36 12",
-        "M47 1 L49 6 L48 12",
-        "M59 1 L61 6 L60 12"
+        "M7 2 L8 7",
+        "M16 1 L17 7",
+        "M25 2 L26 8",
+        "M34 3 L35 9",
+        "M44 3 L45 9",
+        "M53 3 L54 9"
       ],
       "lip": true,
       "markings": [],
-      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-      "micro_scales": true
+      "labial_boundary": "M-3 2 Q24 1 51 4 L70 5 L70 30 L-3 30Z",
+      "micro_scales": true,
+      "iris_color": "#a88968"
     },
     "body_stations": [
       [
@@ -177,32 +177,32 @@
       [
         305,
         249,
-        20
+        18
       ],
       [
         390,
         271,
-        25
+        22
       ],
       [
         471,
         302,
-        27
+        23
       ],
       [
         514,
         347,
-        26
+        23
       ],
       [
         502,
         397,
-        24
+        22
       ],
       [
         430,
         431,
-        22
+        21
       ],
       [
         330,
@@ -212,32 +212,32 @@
       [
         253,
         476,
-        17
+        18
       ],
       [
         253,
         515,
-        13
+        16
       ],
       [
         324,
         550,
-        8
+        13
       ],
       [
         400,
         555,
-        5
+        10
       ],
       [
         460,
         546,
-        2.8
+        7
       ],
       [
         510,
         528,
-        1
+        4
       ],
       [
         545,
@@ -252,7 +252,9 @@
       120
     ],
     "band_fraction": 0.36,
-    "pit_cheek_band": false
+    "pit_cheek_band": false,
+    "tail_color": "#e4ddcc",
+    "tail_color_length": 30
   },
   "policy": {
     "numeric_values_are_artistic": true,
@@ -260,6 +262,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1,
+  "model_revision": 2,
   "common_name_source": "https://api.inaturalist.org/v1/taxa"
 }

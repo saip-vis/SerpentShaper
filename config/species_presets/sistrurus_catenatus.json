@@ -4,217 +4,250 @@
   "species_id": "source_fcc42f05c99f7c03",
   "source_species_name": "Sistrurus catenatus",
   "common_name": "Eastern Massasauga",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Gray-brown eastern massasauga with dark, pale-edged dorsal blotches.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
-        "url": "https://herpetology.inhs.illinois.edu/resources/species-lists/ilspecies/eastern-massasauga/",
-        "scope": "Existing source profile; not yet applied to this template."
+        "url": "https://www.fws.gov/species/eastern-massasauga-sistrurus-catenatus",
+        "scope": "Reference for species and the selected coloration; variation remains possible."
       }
     ],
-    "photo_references": [],
-    "reference_feature_map": {},
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_133_sistrurus_catenatus/manifest.json",
+        "image_id": "inat_15761180",
+        "sha256": "09c7dfad198fb0cc6b906b33414d2b1675d014a1c4f897984ecfb55b3437894a",
+        "use": "Visual reference for specified visible features; identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_133_sistrurus_catenatus/manifest.json",
+        "image_id": "inat_15485734",
+        "sha256": "62aadeb56633aa7291ae686933b03c6ab607625c9f3a3bcd1f011d0b29c15937",
+        "use": "Visual reference for specified visible features; identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_15761180": "Close view of small rattle, dark facial stripe edged in light scales and dark brown dorsal markings.",
+      "inat_15485734": "Coiled dark animal with light-edged dorsal blotches."
+    },
     "unextracted_fields": [
       "body",
       "ventral",
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset."
+      "Side spots, mottled ventral scales, and irregular blotch outlines remain simplified.",
+      "Natural rattle size and count vary; segment count is illustrative.",
+      "Photo identity and proportions need independent review."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
       "observations": [
-        "Unreviewed drawing scaffold derived from Crotalus atrox; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "The selected photographs show a stout body, dark pale-edged blotches, a pale-edged facial stripe and a small segmented rattle.",
+        "The head is broad with larger crown scales; rattle size and tail have been customized."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-      "reference_ids": []
-    },
-    "template_source_preset": "crotalus_atrox"
+      "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+      "reference_ids": [
+        "inat_15761180",
+        "inat_15485734"
+      ]
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "viper",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "blotches",
+    "skin_color": "#948e81",
+    "marking_color": "#514841",
+    "belly_color": "#504d49",
     "body_build": 1,
     "scale_texture": "keeled",
     "tail_type": "rattle",
-    "scale_pitch": 7.4,
-    "mark_spacing": 52,
+    "scale_pitch": 4.3,
+    "mark_spacing": 58,
     "mark_size": 1,
-    "tail_segments": 6,
+    "tail_segments": 5,
     "head_style": "triangular",
     "pupil": "vertical",
     "display_state": "neutral",
     "pose": "grounded_open_S",
     "pit_present": true,
     "head_geometry": {
-      "length": 72,
-      "neck": 10,
+      "length": 70,
+      "neck": 8.5,
       "upper": [
         [
           0,
           0,
-          -1,
-          -5,
-          4,
-          -10,
-          12,
-          -11
+          0,
+          -4,
+          8,
+          -7,
+          18,
+          -9
         ],
         [
-          12,
-          -11,
-          27,
-          -13,
-          42,
-          -26,
-          52,
-          -22
+          18,
+          -9,
+          30,
+          -15.200000000000001,
+          48,
+          -19,
+          57,
+          -16.34
         ],
         [
-          52,
-          -22,
-          63,
-          -18,
+          57,
+          -16.34,
           62,
-          -10,
-          72,
-          -10
+          -13.68,
+          66,
+          -8.5,
+          70,
+          -8.5
         ]
       ],
       "lower": [
         [
           0,
           0,
-          1,
-          6,
-          6,
-          10,
+          3,
+          4,
           15,
-          11
+          7,
+          31,
+          9
         ],
         [
-          15,
-          11,
-          29,
-          15,
-          45,
-          25,
-          55,
-          20
+          31,
+          9,
+          43,
+          14,
+          50,
+          14,
+          58,
+          9.5
         ],
         [
-          55,
-          20,
-          62,
-          17,
-          64,
-          10,
-          72,
-          10
+          58,
+          9.5,
+          63,
+          8.5,
+          67,
+          8.5,
+          70,
+          8.5
         ]
       ],
       "eye": [
-        25,
-        -4,
-        3.6,
-        3.4
+        28,
+        -1.5,
+        3.7,
+        3.7
       ],
       "nostril": [
-        5,
-        -2
+        6,
+        -1.5
       ],
       "pit": [
         15,
-        1
+        0
       ],
-      "jaw": "M2 5 Q28 10 54 14 L61 11",
-      "shields": [],
+      "jaw": "M1 3 Q22 5 52 7 L66 5",
+      "shields": [
+        "M2 -5 L9 -8 L15 -5 L14 -1 L5 0Z",
+        "M16 -7 L26 -9 L33 -5 L30 1 L18 1Z",
+        "M34 -7 L46 -9 L52 -4 L48 2 L34 1Z",
+        "M4 5 L12 8 L24 9 M13 4 L14 8 M24 5 L25 9",
+        "M32 3 L42 7 L52 6"
+      ],
       "lip": false,
       "origin": [
         145,
         185
       ],
       "angle_degrees": 17,
-      "markings": []
+      "markings": [
+        {
+          "path": "M23 -1 L46 1 L57 7 L52 10 L40 6 L23 2Z",
+          "fill": "#403934"
+        }
+      ],
+      "iris_color": "#ad9071",
+      "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+      "micro_scales": false
     },
     "body_stations": [
       [
         239,
         219,
-        10
+        8.5
       ],
       [
         278,
         242,
-        19
+        13
       ],
       [
         370,
         265,
-        30
+        18
       ],
       [
         463,
         295,
-        33
+        22
       ],
       [
         515,
         344,
-        32
+        23
       ],
       [
         506,
         395,
-        29
+        23
       ],
       [
         441,
         430,
-        26
+        22
       ],
       [
         341,
         443,
-        22
+        21
       ],
       [
         257,
         472,
-        17
+        20
       ],
       [
         252,
         515,
-        11
+        18
       ],
       [
         324,
         550,
-        7
+        12
       ],
       [
         387,
         558,
-        5
+        8
       ],
       [
         416,
         556,
-        3.2
+        4
       ],
       [
         435,
@@ -227,7 +260,14 @@
       140,
       170,
       120
-    ]
+    ],
+    "pit_cheek_band": false,
+    "rattle_size": 0.8,
+    "tail_band_length": 48,
+    "tail_band_spacing": 11,
+    "tail_band_light": "#b5a28a",
+    "tail_band_dark": "#403a32",
+    "blotch_border": "#cbbca4"
   },
   "policy": {
     "numeric_values_are_artistic": true,
@@ -235,6 +275,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1,
+  "model_revision": 2,
   "common_name_source": "https://api.inaturalist.org/v1/taxa"
 }

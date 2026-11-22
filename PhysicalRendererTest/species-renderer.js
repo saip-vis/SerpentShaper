@@ -13,6 +13,16 @@ function render(preset, options={}) {
   const coord=(s,u)=>{const a=mesh.at(s,u);return `${a.x.toFixed(2)} ${a.y.toFixed(2)}`;};
   const start=cobra?59:0,tailStart=mesh.length-(p.tail_band_length??110);
   const pigment=(s,u)=>{
+    if(!rear && p.ventral_pattern==='bands'){
+      const inTail=p.ventral_tail_light && s>tailStart;
+      const step=p.ventral_band_spacing??20;
+      const phase=(s%(2*step))/(2*step);
+      return phase<.5?(inTail?p.ventral_tail_light:belly):p.ventral_band_dark;
+    }
+    if(p.tail_pattern==='alternating_bands' && s>tailStart){
+      const phase=((s-tailStart)%(2*(p.tail_band_spacing??12)))/(2*(p.tail_band_spacing??12));
+      return phase<(1-(p.tail_band_dark_fraction??.5))?p.tail_band_light:p.tail_band_dark;
+    }
     if(p.tail_type==='paddle' && p.tail_pattern==='spots' && s>mesh.length-(p.tail_pattern_length??100)){
       return Math.sin(s*.18)*Math.cos(u*10)>.42?cream:belly;
     }
@@ -21,8 +31,9 @@ function render(preset, options={}) {
       const phase=((s-tailStart)%(2*(p.tail_band_spacing??12)))/(2*(p.tail_band_spacing??12));
       return phase<(1-(p.tail_band_dark_fraction??.5))?(p.tail_band_light||cream):(p.tail_band_dark||'#302e28');
     }
-    if(!rear && !cobra && !['rings','coral_triads'].includes(p.pattern)) return belly;
-    if(rear && p.ventrolateral_stripe && Math.abs(u)>.84)return cream;
+    if(!rear && !cobra && !['rings','coral_triads','band_sequence'].includes(p.pattern)) return belly;
+    if(rear && p.dorsal_midline_color && Math.abs(u)<(p.dorsal_midline_width??.07))return p.dorsal_midline_color;
+    if(rear && p.ventrolateral_stripe && Math.abs(u)>(p.ventrolateral_stripe_start??.84))return cream;
     if(rear && p.pattern==='lateral_bicolor')return u>(p.lateral_boundary??.1)?belly:skin;
     if(rear && p.neck_stripe_color && s<(p.neck_stripe_length??120) && Math.abs(Math.abs(u)-(p.neck_stripe_offset??.38))<(p.neck_stripe_width??.1))return p.neck_stripe_color;
     if(p.pattern==='coral_triads'){
@@ -33,6 +44,21 @@ function render(preset, options={}) {
       if(phase<start)return skin;
       const q=(phase-start)/groupWidth;
       return q<.25?cream:q<.333?belly:q<.667?cream:q<.75?belly:cream;
+    }
+    if(p.pattern==='band_sequence'){
+      // A configurable red interval and a sequence of pigment bands; retain
+      // the same ordering on the dorsal scales and ventral plates.
+      const phase=(s%(p.mark_spacing||100))/(p.mark_spacing||100);
+      const bands=p.band_sequence, base=bands[0].fraction;
+      const groupWidth=Math.min(.98,(1-base)*markSize);
+      if(phase<1-groupWidth)return skin;
+      const position=(phase-(1-groupWidth))/groupWidth*(1-base);
+      let end=0;
+      for(const band of bands.slice(1)){
+        end+=band.fraction;
+        if(position<end)return ({skin,marking:cream,belly})[band.color];
+      }
+      return ({skin,marking:cream,belly})[bands[bands.length-1].color];
     }
     if(s<50)return skin;
     const phase=((s-55)%(p.mark_spacing||52))/(p.mark_spacing||52),d=Math.abs(phase-.5)*2,au=Math.abs(u);
@@ -49,7 +75,7 @@ function render(preset, options={}) {
     }
     if(p.pattern==='blotches'){
       const edge=d/markSize+Math.abs(u*.75);
-      return edge<.65?cream:p.blotch_border&&edge<.82?p.blotch_border:skin;
+      return edge<.65?cream:p.blotch_border&&edge<.82?p.blotch_border:p.dorsal_interspot_color&&au<.14?p.dorsal_interspot_color:skin;
     }
     if(p.pattern==='speckled')return Math.sin(s*.39+u*27)*Math.cos(s*.17-u*49)>(p.speckle_threshold??.48)?cream:skin;
     if(p.pattern==='paired_spots'){
@@ -63,17 +89,17 @@ function render(preset, options={}) {
     if(p.pattern==='reticulated')return Math.sin(s*.38+u*29)*Math.cos(s*.16-u*43)>.66?cream:skin;
     if(p.pattern==='flank_triangles'){
       const edge=d+(.95-au)*.7;
-      return edge<.68*markSize?cream:edge<.77*markSize?belly:skin;
+      return edge<.68*markSize?cream:edge<.77*markSize?(p.pattern_border_color||belly):skin;
     }
     if(p.pattern==='trapezoids'){
       const edge=d+Math.max(0,.6-au)*.35;
-      return edge<.47*markSize?cream:edge<.55*markSize?belly:skin;
+      return edge<.47*markSize?cream:edge<.55*markSize?(p.pattern_border_color||belly):skin;
     }
     if(p.pattern==='hooks'){
       const shifted=(phase+(u<0?.32:0))%1;
       const outer=((shifted-.5)/(.26*markSize))**2+((au-.65)/.40)**2;
       const inner=((shifted-.40)/(.18*markSize))**2+((au-.53)/.27)**2;
-      return outer<1&&inner>1?cream:outer<1.22&&inner>.8?belly:skin;
+      return outer<1&&inner>1?cream:outer<1.22&&inner>.8?(p.pattern_border_color||belly):skin;
     }
     if(p.pattern==='dotted_bands'){
       const edge=Math.abs(d-(.30+.12*Math.sin(u*4)));
@@ -81,7 +107,7 @@ function render(preset, options={}) {
     }
     if(p.pattern==='diamonds'){
       const edge=d/markSize+au;
-      return edge<.87?'#584732':edge<1.08?cream:skin;
+      return edge<.87?(p.diamond_center_color||'#584732'):edge<1.08?cream:skin;
     }
     if(p.pattern==='outlined_diamonds'){
       const edge=d/markSize+au;
@@ -104,14 +130,19 @@ function render(preset, options={}) {
     if(p.pattern==='mottled' && Math.sin(s*.11/markSize+u*19/markSize)*Math.cos(s*.04/markSize-u*13/markSize)>.61)return cream;
     return skin;
   };
-  let scales='',seams='',keels='',plates='',count=0;
+  let scales='',scaleTips='',seams='',keels='',plates='',count=0;
   for(let s=start,row=0;s<mesh.length-5;s+=pitch*.8,row++){
     const center=mesh.at(s),cols=Math.max(3,Math.round(2*center.r/pitch)+(row%2));
     for(let col=0;col<cols;col++){
       const u=-1+(col+.5)*2/cols,h=1.08/cols;
       const d=`M${coord(s-pitch*.7,u)} Q${coord(s-pitch*.55,u-h)} ${coord(s,u-h)} Q${coord(s+pitch*.55,u-h*.9)} ${coord(s+pitch*.9,u)} Q${coord(s+pitch*.55,u+h*.9)} ${coord(s,u+h)} Q${coord(s-pitch*.55,u+h)} ${coord(s-pitch*.7,u)}Z`;
       const light=.68+.38*Math.sqrt(Math.max(0,1-u*u))-.13*u+Math.sin(row*37+col*19)*.035;
-      scales+=`<path d="${d}" fill="${shade(pigment(s,u),light)}"/>`;
+      const basePigment=pigment(s,u);
+      scales+=`<path d="${d}" fill="${shade(basePigment,light)}"/>`;
+      if(rear && p.scale_tip_color && basePigment===skin){
+        const tip=`M${coord(s+pitch*.32,u-h*.25)} Q${coord(s+pitch*.82,u)} ${coord(s+pitch*.32,u+h*.25)} Q${coord(s+pitch*.48,u)} ${coord(s+pitch*.32,u-h*.25)}Z`;
+        scaleTips+=`<path d="${tip}" fill="${p.scale_tip_color}" opacity=".72"/>`;
+      }
       if(rear || !cobra || center.y>=420 || Math.abs(u)>.84){
         const exposed=`M${coord(s,u-h)} Q${coord(s+pitch*.55,u-h*.9)} ${coord(s+pitch*.9,u)} Q${coord(s+pitch*.55,u+h*.9)} ${coord(s,u+h)}`;
         seams+=`<path d="${exposed}"/>`;
@@ -121,7 +152,7 @@ function render(preset, options={}) {
     }
     if(!rear && (cobra?center.y<420:s>45) && !(p.tail_type==='rattle' && s>tailStart)) {
       const d=`M${coord(s,-.82)} Q${coord(s+pitch*.6,0)} ${coord(s,.82)} L${coord(s+pitch*.78,.82)} Q${coord(s+pitch*1.3,0)} ${coord(s+pitch*.78,-.82)}Z`;
-      const plateColor=p.pattern==='coral_triads'?pigment(s,0):belly;
+      const plateColor=['coral_triads','band_sequence'].includes(p.pattern)||p.ventral_pattern==='bands'||p.tail_pattern==='alternating_bands'&&s>tailStart?pigment(s,0):belly;
       plates+=`<path d="${d}" fill="${shade(plateColor,.93+.04*Math.sin(row*.63))}" stroke="#68573b" stroke-opacity=".35" stroke-width=".45"/>`;
     }
   }
@@ -155,12 +186,25 @@ function render(preset, options={}) {
   }
   if(rear && p.ventrolateral_stripe){
     for(const side of [-1,1]){
-      const line=[];for(let s=12;s<mesh.length-12;s+=5)line.push(`${line.length?'L':'M'}${coord(s,side*.87)}`);
+      const offset=p.ventrolateral_stripe_start===undefined?.87:(p.ventrolateral_stripe_start+1)/2;
+      const line=[];for(let s=12;s<mesh.length-12;s+=5)line.push(`${line.length?'L':'M'}${coord(s,side*offset)}`);
       markings+=`<path d="${line.join(' ')}" fill="none" stroke="${cream}" stroke-width=".75"/>`;
     }
   }
+  if(rear && p.dorsal_midline_color){
+    const line=[];for(let s=20;s<mesh.length-15;s+=5)line.push(`${line.length?'L':'M'}${coord(s,0)}`);
+    const stripeWidth=2*mesh.at(mesh.length*.45).r*(p.dorsal_midline_width??.07);
+    markings+=`<path id="dorsal-midline" d="${line.join(' ')}" fill="none" stroke="${p.dorsal_midline_color}" stroke-width="${stripeWidth.toFixed(2)}"/>`;
+  }
+  if(rear && p.longitudinal_stripe_offsets){
+    const stripeWidth=2*mesh.at(mesh.length*.45).r*(p.longitudinal_stripe_width??.05);
+    for(const offset of p.longitudinal_stripe_offsets){
+      const line=[];for(let s=20;s<mesh.length-15;s+=5)line.push(`${line.length?'L':'M'}${coord(s,offset)}`);
+      markings+=`<path class="longitudinal-stripe" d="${line.join(' ')}" fill="none" stroke="${cream}" stroke-width="${stripeWidth.toFixed(2)}"/>`;
+    }
+  }
   const box=options.framing==='hood'?(cobra?'195 65 210 340':(p.head_detail_box||[125,140,170,120]).join(' ')):(cobra?'185 55 465 660':'105 140 585 465');
-  const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="${box}" role="img" aria-labelledby="modelTitle modelDescription"><title id="modelTitle">${escape(preset.source_species_name)} — ${rear?'dorsal / oblique':'ventral study'}</title><desc id="modelDescription">Illustrative preset: ${escape(preset.variant)}. Artistic proportions; no venom inference.</desc><metadata>${escape(JSON.stringify({preset_id:preset.preset_id,model_revision:preset.model_revision,species_id:preset.species_id,options,measurement_status:'artistic_not_measured',venom_trait_mapping:null}))}</metadata><defs><path id="bodyGeometry" d="${shape.path}"/>${shape.headPath?`<clipPath id="headClip"><path d="${shape.headPath}"/></clipPath>`:''}<clipPath id="anatomyClip"><use href="#bodyGeometry"/></clipPath><linearGradient id="headVolume"><stop stop-color="${shade(headColor,.6)}"/><stop offset=".45" stop-color="${shade(headColor,1.18)}"/><stop offset="1" stop-color="${shade(headColor,.7)}"/></linearGradient></defs><g id="anatomy-layer"><use href="#bodyGeometry" fill="${skin}"/></g><g clip-path="url(#anatomyClip)"><g id="dorsal-scale-fills">${scales}</g><g id="ventral-plates">${plates}</g><g id="pigment-pattern">${markings}</g><g id="scale-seams" fill="none" stroke="${['edged_scales','reticulated'].includes(p.pattern)?cream:'#302b24'}" opacity="${(['edged_scales','reticulated'].includes(p.pattern)?.85:.44)*contrast}" stroke-width="${p.scale_border_width||.42}">${seams}</g><g id="scale-keels" fill="none" stroke="#2d3024" opacity=".3" stroke-width=".45">${keels}</g><g id="scale-highlights" fill="none" stroke="#fff0cf" opacity=".16" stroke-width=".22" transform="translate(-.3 -.5)">${seams}</g>${head}</g><use href="#bodyGeometry" fill="none" stroke="${shade(skin,.48)}" stroke-width="1.1"/>${appendage}</svg>`;
+  const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="${box}" role="img" aria-labelledby="modelTitle modelDescription"><title id="modelTitle">${escape(preset.source_species_name)} — ${rear?'dorsal / oblique':'ventral study'}</title><desc id="modelDescription">Illustrative preset: ${escape(preset.variant)}. Artistic proportions; no venom inference.</desc><metadata>${escape(JSON.stringify({preset_id:preset.preset_id,model_revision:preset.model_revision,species_id:preset.species_id,options,measurement_status:'artistic_not_measured',venom_trait_mapping:null}))}</metadata><defs><path id="bodyGeometry" d="${shape.path}"/>${shape.headPath?`<clipPath id="headClip"><path d="${shape.headPath}"/></clipPath>`:''}<clipPath id="anatomyClip"><use href="#bodyGeometry"/></clipPath><linearGradient id="headVolume"><stop stop-color="${shade(headColor,.6)}"/><stop offset=".45" stop-color="${shade(headColor,1.18)}"/><stop offset="1" stop-color="${shade(headColor,.7)}"/></linearGradient></defs><g id="anatomy-layer"><use href="#bodyGeometry" fill="${skin}"/></g><g clip-path="url(#anatomyClip)"><g id="dorsal-scale-fills">${scales}</g>${scaleTips?`<g id="scale-tips">${scaleTips}</g>`:''}<g id="ventral-plates">${plates}</g><g id="pigment-pattern">${markings}</g><g id="scale-seams" fill="none" stroke="${['edged_scales','reticulated'].includes(p.pattern)?cream:'#302b24'}" opacity="${(['edged_scales','reticulated'].includes(p.pattern)?.85:.44)*contrast}" stroke-width="${p.scale_border_width||.42}">${seams}</g><g id="scale-keels" fill="none" stroke="#2d3024" opacity=".3" stroke-width=".45">${keels}</g><g id="scale-highlights" fill="none" stroke="#fff0cf" opacity=".16" stroke-width=".22" transform="translate(-.3 -.5)">${seams}</g>${head}</g><use href="#bodyGeometry" fill="none" stroke="${shade(skin,.48)}" stroke-width="1.1"/>${appendage}</svg>`;
   if(options.silhouette){
     const simple=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="${box}" role="img" aria-label="${escape(preset.common_name)} anatomy silhouette"><path d="${shape.path}" fill="#34463d"/><style>#silhouette-appendage *{fill:#34463d;stroke:#34463d}</style><g id="silhouette-appendage" fill="#34463d" stroke="#34463d">${p.tail_type==='rattle'?appendage:''}</g></svg>`;
     return {svg:simple,scaleCount:0,shape};

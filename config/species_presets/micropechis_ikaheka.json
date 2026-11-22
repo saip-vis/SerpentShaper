@@ -4,14 +4,14 @@
   "species_id": "source_2c37d5b6901581fa",
   "source_species_name": "Micropechis ikaheka",
   "common_name": "Micropechis ikaheka",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Pale New Guinea small-eyed snake with darker head and bands.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
         "url": "https://www.kingsnake.com/aho/pngsmc/Clinical_Management_of_Snakebite_in_PNG.pdf",
-        "scope": "Existing source profile; not yet applied to this template."
+        "scope": "Published description for the selected illustrative form."
       }
     ],
     "photo_references": [],
@@ -25,125 +25,124 @@
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset."
+      "The local photos have not been used for fitting; condition and identification need further review.",
+      "Band progression from the midbody and the short tail need closer modeling."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "description_based_no_local_photo_comparison",
       "observations": [
-        "Unreviewed drawing scaffold derived from Dendroaspis polylepis; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "The PNG guide describes a thick body, grayish head, light ground color and variable dark bands.",
+        "The draft uses small eyes, a dark head, pale body and dark scale tips."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+      "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
       "reference_ids": []
-    },
-    "template_source_preset": "dendroaspis_polylepis"
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "terrestrial",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "crossbands",
+    "skin_color": "#d7c9a5",
+    "marking_color": "#726257",
+    "belly_color": "#e0d4b8",
     "body_build": 1,
     "scale_texture": "smooth",
-    "tail_type": "pointed",
-    "scale_pitch": 7.4,
-    "mark_spacing": 63,
+    "tail_type": "short",
+    "scale_pitch": 4.2,
+    "mark_spacing": 65,
     "mark_size": 1,
     "tail_segments": 0,
-    "head_style": "coffin",
+    "head_style": "rounded",
     "pupil": "round",
     "display_state": "neutral",
     "pose": "grounded_open_S",
     "head_geometry": {
-      "length": 84,
-      "neck": 7,
+      "length": 49,
+      "neck": 10,
       "upper": [
         [
           0,
           0,
-          0,
+          -1,
+          -4,
+          5,
           -7,
-          4,
+          12,
+          -8
+        ],
+        [
+          12,
+          -8,
+          22,
           -10,
-          12,
-          -11
+          35,
+          -10,
+          41,
+          -10
         ],
         [
-          12,
-          -11,
-          34,
-          -13,
-          57,
-          -15,
-          69,
-          -11
-        ],
-        [
-          69,
-          -11,
-          75,
-          -9,
-          78,
-          -7,
-          84,
-          -7
+          41,
+          -10,
+          44,
+          -10,
+          47,
+          -10,
+          49,
+          -10
         ]
       ],
       "lower": [
         [
           0,
           0,
-          1,
+          -1,
+          3,
+          8,
           6,
-          7,
-          9,
-          15,
-          9
+          18,
+          8
         ],
         [
-          15,
+          18,
+          8,
+          28,
+          10,
+          36,
           9,
-          34,
-          12,
-          57,
-          12,
-          69,
-          9
+          41,
+          10
         ],
         [
-          69,
-          9,
-          75,
-          7,
-          79,
-          7,
-          84,
-          7
+          41,
+          10,
+          44,
+          10,
+          47,
+          10,
+          49,
+          10
         ]
       ],
       "eye": [
-        31,
-        -2,
-        3.8,
-        3.5
+        18,
+        -1,
+        1.9,
+        1.9
       ],
       "nostril": [
-        7,
-        -2
+        6,
+        -1.5
       ],
-      "jaw": "M2 3 Q27 7 56 7 L72 5",
+      "jaw": "M1 3 Q18 5 45 7",
       "shields": [
-        "M7 -6 L18 -7 L25 -1 L19 5",
-        "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
-        "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
-        "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+        "M2 -5 Q6 -8 10 -4 L9 3 L2 4Z",
+        "M11 -7 L20 -9 L28 -6 L26 0 L14 0Z",
+        "M29 -6 L39 -6 L41 3 L30 5",
+        "M3 4 L13 6 L25 7 M13 4 L13 7 M24 4 L24 8"
       ],
       "lip": true,
       "origin": [
@@ -151,78 +150,79 @@
         185
       ],
       "angle_degrees": 17,
-      "markings": []
+      "markings": [],
+      "iris_color": "#292723"
     },
     "body_stations": [
       [
         246,
         220,
-        7
+        10
       ],
       [
         281,
         242,
-        9
+        14
       ],
       [
         370,
         265,
-        12.5
+        18
       ],
       [
         463,
         295,
-        14
+        21
       ],
       [
         515,
         344,
-        14.2
+        22
       ],
       [
         506,
         395,
-        13.8
+        22
       ],
       [
         441,
         430,
-        13.1
+        21
       ],
       [
         341,
         443,
-        12
+        20
       ],
       [
         257,
         472,
-        10.6
+        19
       ],
       [
         252,
         515,
-        8.8
+        17
       ],
       [
         324,
         550,
-        6.6
+        15
       ],
       [
         425,
         562,
-        4.7
+        13
       ],
       [
         527,
         548,
-        2.8
+        10
       ],
       [
         603,
         519,
-        1.3
+        7
       ],
       [
         654,
@@ -235,7 +235,10 @@
       140,
       170,
       120
-    ]
+    ],
+    "pit_present": false,
+    "head_color": "#5f5953",
+    "scale_tip_color": "#827264"
   },
   "policy": {
     "numeric_values_are_artistic": true,
@@ -243,5 +246,5 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1
+  "model_revision": 2
 }

@@ -139,7 +139,7 @@
     },
     {
       "path": "data/image_pilots/pilot_034_bothrops_cotiara/manifest.json",
-      "sha256": "39a1c12d1f65b2bf1d671657da04093f5e01be7c7b5f5491dc017ecc35b71f23"
+      "sha256": "15c19ec687a56eee320a41db10ecb35c29b8bfffdc652a4ab6247a974e892b8a"
     },
     {
       "path": "data/image_pilots/pilot_035_bothrops_diporus/manifest.json",
@@ -159,7 +159,7 @@
     },
     {
       "path": "data/image_pilots/pilot_039_bothrops_lanceolatus/manifest.json",
-      "sha256": "2fcf392edb5a9b69340627abb0f99e037eaef8f0e36af243e09d69540d4332dc"
+      "sha256": "b8a57fea67d0204431dcb500cf893e9bd0c72e61505da8a69453a1b86d4745dd"
     },
     {
       "path": "data/image_pilots/pilot_040_bothrops_leucurus/manifest.json",
@@ -363,7 +363,7 @@
     },
     {
       "path": "data/image_pilots/pilot_090_micrurus_altirostris/manifest.json",
-      "sha256": "055451380a653191a85a13c59b3e1bf6edfb495452320f8c9ccb66e7d1902d6f"
+      "sha256": "3a538937e754e7f9bfe6cf4f7349d7b5d270ee67d98432e3958baee3c2c1fb56"
     },
     {
       "path": "data/image_pilots/pilot_091_micrurus_browni/manifest.json",
@@ -10181,7 +10181,7 @@
           "original_width": 1536,
           "original_height": 2048,
           "retrieved_at": "2026-11-20T08:46:12.382909+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -10193,8 +10193,20 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_034_bothrops_cotiara",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Bothrops_cotiara01",
+          "body_condition": "injured",
+          "review_issues": [
+            "injury"
+          ],
+          "review_notes": "Severely damaged carcass; unsuitable as a healthy-anatomy reference or training image.",
+          "reference_only_exception": false,
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-22T06:45:43.422650+00:00",
+            "category": "rejected",
+            "reason": "visible severe damage"
+          },
           "manifest_path": "data/image_pilots/pilot_034_bothrops_cotiara/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -10219,7 +10231,7 @@
         "available_images": 1,
         "rendering_eligible_images": 0,
         "review_statuses": {
-          "unreviewed": 1
+          "rejected": 1
         }
       },
       "link_status": "venom_and_images",
@@ -12454,7 +12466,7 @@
           "original_width": 1536,
           "original_height": 2048,
           "retrieved_at": "2026-11-20T08:47:33.801077+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -12466,8 +12478,20 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_039_bothrops_lanceolatus",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Bothrops_lanceolatus01",
+          "body_condition": "injured",
+          "review_issues": [
+            "injury"
+          ],
+          "review_notes": "Severely damaged head and exposed tissue; unsuitable for healthy-anatomy reference or training.",
+          "reference_only_exception": false,
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-22T06:44:57.545786+00:00",
+            "category": "rejected",
+            "reason": "visible severe damage"
+          },
           "manifest_path": "data/image_pilots/pilot_039_bothrops_lanceolatus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -12534,7 +12558,7 @@
           "original_width": 1536,
           "original_height": 2048,
           "retrieved_at": "2026-11-20T08:47:33.801077+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -12546,8 +12570,20 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_039_bothrops_lanceolatus",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Bothrops_lanceolatus03",
+          "body_condition": "injured",
+          "review_issues": [
+            "injury"
+          ],
+          "review_notes": "Severely damaged head and exposed tissue; unsuitable for healthy-anatomy reference or training.",
+          "reference_only_exception": false,
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-22T06:44:57.545924+00:00",
+            "category": "rejected",
+            "reason": "visible severe damage"
+          },
           "manifest_path": "data/image_pilots/pilot_039_bothrops_lanceolatus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -12612,7 +12648,8 @@
         "available_images": 4,
         "rendering_eligible_images": 0,
         "review_statuses": {
-          "unreviewed": 4
+          "rejected": 2,
+          "unreviewed": 2
         }
       },
       "link_status": "venom_and_images",
@@ -33599,7 +33636,7 @@
           "original_width": 2048,
           "original_height": 1536,
           "retrieved_at": "2026-11-20T09:02:38.820965+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -33611,8 +33648,18 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_090_micrurus_altirostris",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Micrurus_altirostris08",
+          "body_condition": "injured",
+          "review_issues": [
+            "injury"
+          ],
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-22T06:55:00.059404+00:00",
+            "category": "rejected",
+            "reason": "visible severe damage"
+          },
           "manifest_path": "data/image_pilots/pilot_090_micrurus_altirostris/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -33679,7 +33726,7 @@
           "original_width": 1536,
           "original_height": 2048,
           "retrieved_at": "2026-11-20T09:02:38.820965+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -33691,8 +33738,18 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_090_micrurus_altirostris",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Micrurus_altirostris10",
+          "body_condition": "injured",
+          "review_issues": [
+            "injury"
+          ],
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-22T06:55:00.059518+00:00",
+            "category": "rejected",
+            "reason": "visible severe damage"
+          },
           "manifest_path": "data/image_pilots/pilot_090_micrurus_altirostris/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -33717,7 +33774,8 @@
         "available_images": 10,
         "rendering_eligible_images": 0,
         "review_statuses": {
-          "unreviewed": 10
+          "unreviewed": 8,
+          "rejected": 2
         }
       },
       "link_status": "venom_and_images",

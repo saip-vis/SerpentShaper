@@ -4,14 +4,14 @@
   "species_id": "source_c02cc2aa03400e94",
   "source_species_name": "Naja nubiae",
   "common_name": "Nubian Spitting Cobra",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Gray Nubian spitting cobra with a pale belly and dark neck band.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
-        "url": "https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf",
-        "scope": "Existing source profile; not yet applied to this template."
+        "url": "https://academic.oup.com/trstmh/article/119/5/541/7931943",
+        "scope": "Published description for the selected illustrative form."
       }
     ],
     "photo_references": [],
@@ -26,41 +26,34 @@
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset.",
-      "No local image candidates in species catalog; seek reliable reference imagery.",
-      "Hood geometry smoothed; species-specific appearance still requires reference review.",
-      "Generic throat marks removed; actual throat pattern has not yet been reviewed and represented.",
-      "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views.",
-      "No species-specific full reference review yet; hood and colors remain preliminary."
+      "No local pilot photos; head and hood measurements are not species-validated.",
+      "Dark scale edging and the neck band are stylized approximations."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "description_based_no_local_photo_comparison",
       "observations": [
-        "Unreviewed drawing scaffold derived from Naja kaouthia; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement.",
-        "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+        "A Sudan review describes gray coloration with dark-edged scales, a pale underside and a dark neck band.",
+        "An expanded hood, gray body and dark throat band are illustrated."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+      "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
       "reference_ids": []
-    },
-    "template_source_preset": "naja_kaouthia"
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "cobra",
     "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "skin_color": "#77736d",
+    "marking_color": "#463c36",
+    "belly_color": "#d6cdb5",
     "body_build": 1,
     "scale_texture": "smooth",
     "tail_type": "pointed",
-    "scale_pitch": 8.2,
+    "scale_pitch": 6.2,
     "mark_spacing": 63,
     "mark_size": 1,
     "tail_segments": 0,
@@ -75,39 +68,39 @@
       ],
       [
         178,
-        57
+        46
       ],
       [
         200,
-        72.9
+        57
       ],
       [
         220,
-        78
+        60
       ],
       [
         235,
-        78
+        60
       ],
       [
         250,
-        75.7
+        58
       ],
       [
         270,
-        64.7
+        51
       ],
       [
         290,
-        56.6
+        45
       ],
       [
         310,
-        40
+        35
       ],
       [
         330,
-        32.0
+        30
       ],
       [
         350,
@@ -211,7 +204,14 @@
           ]
         ]
       ]
-    }
+    },
+    "throat_bands": [
+      {
+        "y": 195,
+        "height": 19
+      }
+    ],
+    "scale_tip_color": "#4d4946"
   },
   "policy": {
     "numeric_values_are_artistic": true,
@@ -219,6 +219,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 2,
+  "model_revision": 3,
   "common_name_source": "https://api.inaturalist.org/v1/taxa"
 }

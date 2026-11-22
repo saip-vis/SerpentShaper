@@ -4,14 +4,14 @@
   "species_id": "source_e827007c57811f3a",
   "source_species_name": "Calloselasma rhodostoma",
   "common_name": "Malayan Pit Viper",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Malayan pit viper with dark triangular side markings and a pale lip.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
-        "url": "https://sipus-old.unpak.ac.id/file/PANDUAN%20BERGAMBAR%20ULAR%20JAWA_compressed.pdf",
-        "scope": "Existing source profile; not yet applied to this template."
+        "url": "https://www.mybis.gov.my/art/217",
+        "scope": "Published description for the selected illustrative form."
       }
     ],
     "photo_references": [],
@@ -24,37 +24,35 @@
       "eyes",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Description-based rendering; no local pilot photograph was available for a visual fit.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset.",
-      "No local image candidates in species catalog; seek reliable reference imagery."
+      "No local pilot images; head, shape and pattern need visual comparison.",
+      "Dorsal pattern and side-to-side asymmetry are simplified."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "description_based_no_local_photo_comparison",
       "observations": [
-        "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "The Malaysia biodiversity description reports a brown, moderately stout snake with dark triangular side markings, small eyes, a dark crown and a pale lip.",
+        "The head, narrow neck and triangle pattern are drawn as an editable approximation."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+      "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
       "reference_ids": []
-    },
-    "template_source_preset": "bothrops_atrox"
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "viper",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "flank_triangles",
+    "skin_color": "#aa8270",
+    "marking_color": "#543a31",
+    "belly_color": "#d3b9aa",
     "body_build": 1,
-    "scale_texture": "keeled",
+    "scale_texture": "smooth",
     "tail_type": "short",
-    "scale_pitch": 5.7,
-    "mark_spacing": 65,
+    "scale_pitch": 4.5,
+    "mark_spacing": 66,
     "mark_size": 1,
     "tail_segments": 0,
     "head_style": "triangular",
@@ -63,37 +61,37 @@
     "pose": "grounded_open_S",
     "pit_present": true,
     "head_geometry": {
-      "length": 79,
+      "length": 70,
       "neck": 8.5,
       "upper": [
         [
           0,
           0,
           0,
-          -5,
-          10.27,
-          -7.0,
-          22.12,
-          -9.6
+          -4,
+          8,
+          -7,
+          18,
+          -9
         ],
         [
-          22.12,
-          -9.6,
-          37.129999999999995,
-          -15.600000000000001,
-          53.720000000000006,
-          -20,
-          62.410000000000004,
-          -17.4
+          18,
+          -9,
+          30,
+          -11.200000000000001,
+          48,
+          -14,
+          57,
+          -12.04
         ],
         [
-          62.410000000000004,
-          -17.4,
-          67.14999999999999,
-          -14.399999999999999,
-          74.25999999999999,
+          57,
+          -12.04,
+          62,
+          -10.08,
+          66,
           -8.5,
-          79,
+          70,
           -8.5
         ]
       ],
@@ -103,44 +101,44 @@
           0,
           3,
           4,
-          18.17,
-          7.700000000000001,
-          37.92,
-          9.799999999999999
+          15,
+          7,
+          31,
+          9
         ],
         [
-          37.92,
-          9.799999999999999,
-          51.35,
-          14,
-          61.620000000000005,
-          14,
-          66.36,
-          9.799999999999999
+          31,
+          9,
+          43,
+          13,
+          50,
+          13,
+          58,
+          9.5
         ],
         [
-          66.36,
-          9.799999999999999,
-          71.10000000000001,
+          58,
+          9.5,
+          63,
           8.5,
-          75.05,
+          67,
           8.5,
-          79,
+          70,
           8.5
         ]
       ],
       "eye": [
-        30,
-        -2,
-        4,
-        4.2
+        26,
+        -1.5,
+        3.4,
+        3.4
       ],
       "nostril": [
         6,
         -1.5
       ],
       "pit": [
-        16.5,
+        15,
         0
       ],
       "origin": [
@@ -148,19 +146,29 @@
         185
       ],
       "angle_degrees": 17,
-      "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+      "jaw": "M1 3 Q22 5 52 7 L66 5",
       "shields": [
-        "M7 1 L9 6 L8 12",
-        "M16 1 L18 6 L17 12",
-        "M25 1 L27 6 L26 12",
-        "M35 1 L37 6 L36 12",
-        "M47 1 L49 6 L48 12",
-        "M59 1 L61 6 L60 12"
+        "M7 2 L8 7",
+        "M16 1 L17 7",
+        "M25 2 L26 8",
+        "M34 3 L35 9",
+        "M44 3 L45 9",
+        "M53 3 L54 9"
       ],
       "lip": true,
-      "markings": [],
-      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-      "micro_scales": true
+      "markings": [
+        {
+          "path": "M10 -14 H53 V-4 L36 -2 L10 -5Z",
+          "fill": "#49342e"
+        },
+        {
+          "path": "M25 -3 L48 0 L61 5 L58 8 L45 4 L25 0Z",
+          "fill": "#49342e"
+        }
+      ],
+      "labial_boundary": "M-3 2 Q24 1 53 4 L72 5 L72 30 L-3 30Z",
+      "micro_scales": true,
+      "iris_color": "#a18170"
     },
     "body_stations": [
       [
@@ -176,32 +184,32 @@
       [
         305,
         249,
-        20
+        18
       ],
       [
         390,
         271,
-        25
+        22
       ],
       [
         471,
         302,
-        27
+        23
       ],
       [
         514,
         347,
-        26
+        23
       ],
       [
         502,
         397,
-        24
+        22
       ],
       [
         430,
         431,
-        22
+        21
       ],
       [
         330,
@@ -211,32 +219,32 @@
       [
         253,
         476,
-        17
+        18
       ],
       [
         253,
         515,
-        13
+        16
       ],
       [
         324,
         550,
-        8
+        13
       ],
       [
         400,
         555,
-        5
+        10
       ],
       [
         460,
         546,
-        2.8
+        7
       ],
       [
         510,
         528,
-        1
+        4
       ],
       [
         545,
@@ -259,6 +267,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1,
+  "model_revision": 2,
   "common_name_source": "https://api.inaturalist.org/v1/taxa"
 }

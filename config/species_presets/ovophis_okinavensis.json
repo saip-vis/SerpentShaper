@@ -4,18 +4,34 @@
   "species_id": "source_281407af92a078a1",
   "source_species_name": "Ovophis okinavensis",
   "common_name": "Okinawa Pitviper",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Okinawan pit viper with a stout body and dark patches.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
-        "url": "https://zoologicalstudies.springeropen.com/counter/pdf/10.1186/s40555-015-0110-2",
-        "scope": "Existing source profile; not yet applied to this template."
+        "url": "https://biodiversity.okinawa/en/video_pages/reference/himehabu.html",
+        "scope": "Reference for species and the selected coloration; variation remains possible."
       }
     ],
-    "photo_references": [],
-    "reference_feature_map": {},
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_121_ovophis_okinavensis/manifest.json",
+        "image_id": "inat_354541256",
+        "sha256": "e8d255d7a6e3939a991a9eb2ecc3dd4c8e29e4563fbc8e76f39ba4d9fc48ccee",
+        "use": "Visual reference for specified visible features; identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_121_ovophis_okinavensis/manifest.json",
+        "image_id": "inat_321547823",
+        "sha256": "e4e570e6b9641b57f7d725487e7981e0d8e2ead36eefc58c9021bf35f7004c7b",
+        "use": "Visual reference for specified visible features; identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_354541256": "Brown-gray body with dark irregular markings and a dark light-edged cheek.",
+      "inat_321547823": "Coiled dark individual with broad head and short, thick body."
+    },
     "unextracted_fields": [
       "body",
       "head",
@@ -26,36 +42,38 @@
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset."
+      "This is one of several color forms in the images.",
+      "Fine lateral patches, underside and species identification require more review."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
       "observations": [
-        "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "Pilot views show a short, stout body, broad head and dark markings on a brown-gray base.",
+        "The body taper, head contour and cheek marking were individually adjusted."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-      "reference_ids": []
-    },
-    "template_source_preset": "bothrops_atrox"
+      "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+      "reference_ids": [
+        "inat_354541256",
+        "inat_321547823"
+      ]
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "viper",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "blotches",
+    "skin_color": "#ad9e8d",
+    "marking_color": "#51443f",
+    "belly_color": "#ddd0bd",
     "body_build": 1,
-    "scale_texture": "keeled",
+    "scale_texture": "smooth",
     "tail_type": "short",
-    "scale_pitch": 5.7,
-    "mark_spacing": 65,
+    "scale_pitch": 4.2,
+    "mark_spacing": 62,
     "mark_size": 1,
     "tail_segments": 0,
     "head_style": "triangular",
@@ -64,37 +82,37 @@
     "pose": "grounded_open_S",
     "pit_present": true,
     "head_geometry": {
-      "length": 79,
+      "length": 67,
       "neck": 8.5,
       "upper": [
         [
           0,
           0,
           0,
-          -5,
-          10.27,
-          -7.0,
-          22.12,
-          -9.6
+          -4,
+          8,
+          -7,
+          18,
+          -9
         ],
         [
-          22.12,
-          -9.6,
-          37.129999999999995,
-          -15.600000000000001,
-          53.720000000000006,
-          -20,
-          62.410000000000004,
-          -17.4
+          18,
+          -9,
+          30,
+          -13.600000000000001,
+          45,
+          -17,
+          54,
+          -14.62
         ],
         [
-          62.410000000000004,
-          -17.4,
-          67.14999999999999,
-          -14.399999999999999,
-          74.25999999999999,
+          54,
+          -14.62,
+          59,
+          -12.24,
+          63,
           -8.5,
-          79,
+          67,
           -8.5
         ]
       ],
@@ -104,44 +122,44 @@
           0,
           3,
           4,
-          18.17,
-          7.700000000000001,
-          37.92,
-          9.799999999999999
+          15,
+          7,
+          31,
+          9
         ],
         [
-          37.92,
-          9.799999999999999,
-          51.35,
+          31,
+          9,
+          43,
           14,
-          61.620000000000005,
+          47,
           14,
-          66.36,
-          9.799999999999999
+          55,
+          9.5
         ],
         [
-          66.36,
-          9.799999999999999,
-          71.10000000000001,
+          55,
+          9.5,
+          60,
           8.5,
-          75.05,
+          64,
           8.5,
-          79,
+          67,
           8.5
         ]
       ],
       "eye": [
-        30,
-        -2,
-        4,
-        4.2
+        27,
+        -1.5,
+        3.5,
+        3.5
       ],
       "nostril": [
         6,
         -1.5
       ],
       "pit": [
-        16.5,
+        15,
         0
       ],
       "origin": [
@@ -149,19 +167,25 @@
         185
       ],
       "angle_degrees": 17,
-      "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+      "jaw": "M1 3 Q22 5 49 7 L63 5",
       "shields": [
-        "M7 1 L9 6 L8 12",
-        "M16 1 L18 6 L17 12",
-        "M25 1 L27 6 L26 12",
-        "M35 1 L37 6 L36 12",
-        "M47 1 L49 6 L48 12",
-        "M59 1 L61 6 L60 12"
+        "M7 2 L8 7",
+        "M16 1 L17 7",
+        "M25 2 L26 8",
+        "M34 3 L35 9",
+        "M44 3 L45 9",
+        "M53 3 L54 9"
       ],
       "lip": true,
-      "markings": [],
-      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-      "micro_scales": true
+      "markings": [
+        {
+          "path": "M21 -2 L46 -1 L60 5 L56 8 L43 3 L21 1Z",
+          "fill": "#4e3e39"
+        }
+      ],
+      "labial_boundary": "M-3 2 Q24 1 50 4 L69 5 L69 30 L-3 30Z",
+      "micro_scales": true,
+      "iris_color": "#a88d70"
     },
     "body_stations": [
       [
@@ -172,32 +196,32 @@
       [
         258,
         227,
-        13
+        14
       ],
       [
         305,
         249,
-        20
+        19
       ],
       [
         390,
         271,
-        25
+        23
       ],
       [
         471,
         302,
-        27
+        24
       ],
       [
         514,
         347,
-        26
+        24
       ],
       [
         502,
         397,
-        24
+        23
       ],
       [
         430,
@@ -207,37 +231,37 @@
       [
         330,
         445,
-        20
+        21
       ],
       [
         253,
         476,
-        17
+        19
       ],
       [
         253,
         515,
-        13
+        17
       ],
       [
         324,
         550,
-        8
+        14
       ],
       [
         400,
         555,
-        5
+        10
       ],
       [
         460,
         546,
-        2.8
+        7
       ],
       [
         510,
         528,
-        1
+        4
       ],
       [
         545,
@@ -260,6 +284,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1,
+  "model_revision": 2,
   "common_name_source": "https://api.inaturalist.org/v1/taxa"
 }

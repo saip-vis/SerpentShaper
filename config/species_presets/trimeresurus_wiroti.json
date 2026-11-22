@@ -4,18 +4,34 @@
   "species_id": "source_58fecb9b72ef2b50",
   "source_species_name": "Trimeresurus wiroti",
   "common_name": "Wirot’s pit viper",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown Wirot pit viper with subdued transverse markings.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
-        "url": "https://www.sciencedirect.com/science/article/pii/S1744117X21000873",
-        "scope": "Existing source profile; not yet applied to this template."
+        "url": "https://herpingthailand.com/snakes-of-thailand/vipers/trimeresurus-wiroti-wirots-pit-viper/",
+        "scope": "Reference for species and the selected coloration; variation remains possible."
       }
     ],
-    "photo_references": [],
-    "reference_feature_map": {},
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_141_trimeresurus_wiroti/manifest.json",
+        "image_id": "inat_520493559",
+        "sha256": "945174cef00e5bbe4d1478fa1d96d23c2301c48b06d47305b629110e4b91caa2",
+        "use": "Visual reference for specified visible features; identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_141_trimeresurus_wiroti/manifest.json",
+        "image_id": "inat_543312433",
+        "sha256": "3dc74f8285acc98347cfd84b6558d3bf19d346a76f90a5c7c98d5fa7472e3f45",
+        "use": "Visual reference for specified visible features; identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_520493559": "Long low head, raised snout and subdued reddish-brown body with darker transverse patches.",
+      "inat_543312433": "Brown head and mottled body viewed against a tree."
+    },
     "unextracted_fields": [
       "body",
       "tail",
@@ -26,36 +42,39 @@
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset."
+      "The selected photographs do not establish a reliable complete underside or tail.",
+      "The placement of dark patches and exact snout shape remain approximate.",
+      "Photograph identity requires independent review."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
       "observations": [
-        "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "A brown snake with an elongated head, raised snout and subdued cross markings is visible in selected photographs.",
+        "The head length, body width and dark crossbands have been drawn separately from the green species."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-      "reference_ids": []
-    },
-    "template_source_preset": "bothrops_atrox"
+      "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+      "reference_ids": [
+        "inat_520493559",
+        "inat_543312433"
+      ]
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "viper",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "crossbands",
+    "skin_color": "#8b6258",
+    "marking_color": "#705047",
+    "belly_color": "#bd9e8a",
     "body_build": 1,
     "scale_texture": "keeled",
-    "tail_type": "short",
-    "scale_pitch": 5.7,
-    "mark_spacing": 65,
+    "tail_type": "long",
+    "scale_pitch": 4.4,
+    "mark_spacing": 90,
     "mark_size": 1,
     "tail_segments": 0,
     "head_style": "triangular",
@@ -64,37 +83,37 @@
     "pose": "grounded_open_S",
     "pit_present": true,
     "head_geometry": {
-      "length": 79,
+      "length": 77,
       "neck": 8.5,
       "upper": [
         [
           0,
           0,
           0,
-          -5,
-          10.27,
-          -7.0,
-          22.12,
-          -9.6
+          -4,
+          8,
+          -7,
+          18,
+          -9
         ],
         [
-          22.12,
-          -9.6,
-          37.129999999999995,
-          -15.600000000000001,
-          53.720000000000006,
-          -20,
-          62.410000000000004,
-          -17.4
+          18,
+          -9,
+          30,
+          -12.4,
+          55,
+          -15.5,
+          64,
+          -13.33
         ],
         [
-          62.410000000000004,
-          -17.4,
-          67.14999999999999,
-          -14.399999999999999,
-          74.25999999999999,
+          64,
+          -13.33,
+          69,
+          -11.16,
+          73,
           -8.5,
-          79,
+          77,
           -8.5
         ]
       ],
@@ -104,44 +123,44 @@
           0,
           3,
           4,
-          18.17,
-          7.700000000000001,
-          37.92,
-          9.799999999999999
+          15,
+          7,
+          31,
+          9
         ],
         [
-          37.92,
-          9.799999999999999,
-          51.35,
-          14,
-          61.620000000000005,
-          14,
-          66.36,
-          9.799999999999999
+          31,
+          9,
+          43,
+          12,
+          57,
+          12,
+          65,
+          9.5
         ],
         [
-          66.36,
-          9.799999999999999,
-          71.10000000000001,
+          65,
+          9.5,
+          70,
           8.5,
-          75.05,
+          74,
           8.5,
-          79,
+          77,
           8.5
         ]
       ],
       "eye": [
         30,
-        -2,
-        4,
-        4.2
+        -1.5,
+        3.7,
+        3.7
       ],
       "nostril": [
         6,
         -1.5
       ],
       "pit": [
-        16.5,
+        15,
         0
       ],
       "origin": [
@@ -149,19 +168,20 @@
         185
       ],
       "angle_degrees": 17,
-      "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+      "jaw": "M1 3 Q22 5 59 7 L73 5",
       "shields": [
-        "M7 1 L9 6 L8 12",
-        "M16 1 L18 6 L17 12",
-        "M25 1 L27 6 L26 12",
-        "M35 1 L37 6 L36 12",
-        "M47 1 L49 6 L48 12",
-        "M59 1 L61 6 L60 12"
+        "M7 2 L8 7",
+        "M16 1 L17 7",
+        "M25 2 L26 8",
+        "M34 3 L35 9",
+        "M44 3 L45 9",
+        "M53 3 L54 9"
       ],
       "lip": true,
       "markings": [],
-      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-      "micro_scales": true
+      "labial_boundary": "M-3 2 Q24 1 60 4 L79 5 L79 30 L-3 30Z",
+      "micro_scales": true,
+      "iris_color": "#b69a80"
     },
     "body_stations": [
       [
@@ -172,72 +192,72 @@
       [
         258,
         227,
-        13
+        12
       ],
       [
         305,
         249,
-        20
+        16
       ],
       [
         390,
         271,
-        25
+        19
       ],
       [
         471,
         302,
-        27
+        20
       ],
       [
         514,
         347,
-        26
+        20
       ],
       [
         502,
         397,
-        24
+        19.5
       ],
       [
         430,
         431,
-        22
+        19
       ],
       [
         330,
         445,
-        20
+        18
       ],
       [
         253,
         476,
-        17
+        16.5
       ],
       [
         253,
         515,
-        13
+        14
       ],
       [
         324,
         550,
-        8
+        11.5
       ],
       [
         400,
         555,
-        5
+        9
       ],
       [
         460,
         546,
-        2.8
+        6
       ],
       [
         510,
         528,
-        1
+        3.5
       ],
       [
         545,
@@ -260,6 +280,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1,
+  "model_revision": 2,
   "common_name_source": "https://www.fws.gov/species/wirots-pit-viper-trimeresurus-wiroti"
 }

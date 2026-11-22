@@ -4,14 +4,14 @@
   "species_id": "source_6bf8e92c92f11ac5",
   "source_species_name": "Bothrops lanceolatus",
   "common_name": "Martinique Lancehead",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Light brown Martinique lancehead with dark geometric markings.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
-        "url": "https://www.acq.osd.mil/eie/afpmb/docs/dveps/Caribbean.pdf",
-        "scope": "Existing source profile; not yet applied to this template."
+        "url": "https://www.biodiversite-martinique.fr/sites/default/files/petit_guide_illustre_des_amphibiens_et_des_reptiles_de_la_martinique_m._dewynter_2022_0.pdf",
+        "scope": "Published description for the selected illustrative form."
       }
     ],
     "photo_references": [],
@@ -24,35 +24,34 @@
       "special",
       "variation"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Description-based rendering; no local pilot photograph was used for a visual fit.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset."
+      "Local carcass photos were rejected and the remaining photos appear to show shed skin; no pilot image was used for fitting.",
+      "Lateral marks, underside and head proportions require comparison with healthy animals."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "description_based_no_local_photo_comparison",
       "observations": [
-        "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "The Martinique field guide illustrates a lance-shaped head, a sensory pit and a dark postocular band.",
+        "A brown form with dark geometric markings is selected; males and females and individuals can differ markedly in color."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+      "projection_limit": "Single stylized projection; not fitted to local photographs or validated from multiple angles.",
       "reference_ids": []
-    },
-    "template_source_preset": "bothrops_atrox"
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "viper",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "hooks",
+    "skin_color": "#9b826c",
+    "marking_color": "#423931",
+    "belly_color": "#c9b293",
     "body_build": 1,
     "scale_texture": "keeled",
     "tail_type": "short",
-    "scale_pitch": 5.7,
+    "scale_pitch": 4.2,
     "mark_spacing": 65,
     "mark_size": 1,
     "tail_segments": 0,
@@ -62,37 +61,37 @@
     "pose": "grounded_open_S",
     "pit_present": true,
     "head_geometry": {
-      "length": 79,
+      "length": 76,
       "neck": 8.5,
       "upper": [
         [
           0,
           0,
           0,
-          -5,
-          10.27,
-          -7.0,
-          22.12,
-          -9.6
+          -4,
+          8,
+          -7,
+          18,
+          -9
         ],
         [
-          22.12,
-          -9.6,
-          37.129999999999995,
-          -15.600000000000001,
-          53.720000000000006,
-          -20,
-          62.410000000000004,
-          -17.4
+          18,
+          -9,
+          30,
+          -13.600000000000001,
+          54,
+          -17,
+          63,
+          -14.62
         ],
         [
-          62.410000000000004,
-          -17.4,
-          67.14999999999999,
-          -14.399999999999999,
-          74.25999999999999,
+          63,
+          -14.62,
+          68,
+          -12.24,
+          72,
           -8.5,
-          79,
+          76,
           -8.5
         ]
       ],
@@ -102,44 +101,44 @@
           0,
           3,
           4,
-          18.17,
-          7.700000000000001,
-          37.92,
-          9.799999999999999
+          15,
+          7,
+          31,
+          9
         ],
         [
-          37.92,
-          9.799999999999999,
-          51.35,
-          14,
-          61.620000000000005,
-          14,
-          66.36,
-          9.799999999999999
+          31,
+          9,
+          43,
+          13,
+          56,
+          13,
+          64,
+          9.5
         ],
         [
-          66.36,
-          9.799999999999999,
-          71.10000000000001,
+          64,
+          9.5,
+          69,
           8.5,
-          75.05,
+          73,
           8.5,
-          79,
+          76,
           8.5
         ]
       ],
       "eye": [
-        30,
-        -2,
-        4,
-        4.2
+        28,
+        -1.5,
+        3.8,
+        3.8
       ],
       "nostril": [
         6,
         -1.5
       ],
       "pit": [
-        16.5,
+        15,
         0
       ],
       "origin": [
@@ -147,19 +146,25 @@
         185
       ],
       "angle_degrees": 17,
-      "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+      "jaw": "M1 3 Q22 5 58 7 L72 5",
       "shields": [
-        "M7 1 L9 6 L8 12",
-        "M16 1 L18 6 L17 12",
-        "M25 1 L27 6 L26 12",
-        "M35 1 L37 6 L36 12",
-        "M47 1 L49 6 L48 12",
-        "M59 1 L61 6 L60 12"
+        "M7 2 L8 7",
+        "M16 1 L17 7",
+        "M25 2 L26 8",
+        "M34 3 L35 9",
+        "M44 3 L45 9",
+        "M53 3 L54 9"
       ],
       "lip": true,
-      "markings": [],
-      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-      "micro_scales": true
+      "markings": [
+        {
+          "path": "M28 -2 L53 1 L62 7 L45 4Z",
+          "fill": "#44382f"
+        }
+      ],
+      "labial_boundary": "M-3 2 Q24 1 59 4 L78 5 L78 30 L-3 30Z",
+      "micro_scales": true,
+      "iris_color": "#a58c70"
     },
     "body_stations": [
       [
@@ -175,27 +180,27 @@
       [
         305,
         249,
-        20
+        18
       ],
       [
         390,
         271,
-        25
+        22
       ],
       [
         471,
         302,
-        27
+        24
       ],
       [
         514,
         347,
-        26
+        24
       ],
       [
         502,
         397,
-        24
+        23
       ],
       [
         430,
@@ -205,37 +210,37 @@
       [
         330,
         445,
-        20
+        21
       ],
       [
         253,
         476,
-        17
+        19
       ],
       [
         253,
         515,
-        13
+        16.5
       ],
       [
         324,
         550,
-        8
+        13.5
       ],
       [
         400,
         555,
-        5
+        10
       ],
       [
         460,
         546,
-        2.8
+        7
       ],
       [
         510,
         528,
-        1
+        4
       ],
       [
         545,
@@ -250,7 +255,8 @@
       120
     ],
     "band_fraction": 0.36,
-    "pit_cheek_band": false
+    "pit_cheek_band": false,
+    "pattern_border_color": "#c9aa8c"
   },
   "policy": {
     "numeric_values_are_artistic": true,
@@ -258,6 +264,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1,
+  "model_revision": 2,
   "common_name_source": "https://api.inaturalist.org/v1/taxa"
 }

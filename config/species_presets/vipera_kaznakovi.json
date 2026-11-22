@@ -4,18 +4,34 @@
   "species_id": "source_7ada09370ebce8db",
   "source_species_name": "Vipera kaznakovi",
   "common_name": "Caucasian Viper",
-  "status": "unreviewed_starter",
-  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "status": "illustrative_unvalidated",
+  "variant": "Black Caucasus viper with orange zigzag markings.",
   "evidence": {
     "physical_profile_path": "data/processed/morphology/physical_profiles.json",
     "sources": [
       {
-        "url": "https://web.uni-plovdiv.bg/mollov/EB/2013_vol5_iss2/%5B99-101%5D_eb.13204.pdf",
-        "scope": "Existing source profile; not yet applied to this template."
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7613002/",
+        "scope": "Reference for species and the selected coloration; variation remains possible."
       }
     ],
-    "photo_references": [],
-    "reference_feature_map": {},
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_145_vipera_kaznakovi/manifest.json",
+        "image_id": "inat_720748478",
+        "sha256": "982a697a9447e3322df54f0d67ce337ee18511a4c2bc8afeffe048c6d6d37fe9",
+        "use": "Visual reference for specified visible features; identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_145_vipera_kaznakovi/manifest.json",
+        "image_id": "inat_720748531",
+        "sha256": "b7f1a788386534e9d5735e750c1839412071b88f686596a4d37eff5e27a2d2ed",
+        "use": "Visual reference for specified visible features; identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_720748478": "Black viper with bright orange zigzag-like dorsal elements.",
+      "inat_720748531": "Close-up of black granular head, copper eye and pale lower facial spots."
+    },
     "unextracted_fields": [
       "body",
       "head",
@@ -24,75 +40,77 @@
       "eyes",
       "special"
     ],
-    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "review": "Reference-informed illustrative draft; no anatomical measurements or expert verification.",
     "modeling_flags": [
-      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-      "Existing image candidates have not been assessed for suitability in this preset."
+      "Other color forms exist; this is the selected black and orange individual.",
+      "The zigzag is simplified; tail and underside need better views."
     ],
-    "modeling_review_status": "unreviewed_starter",
+    "modeling_review_status": "initial_model_awaiting_refinement",
     "modeling_observations": {
-      "status": "unreviewed_template",
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
       "observations": [
-        "Unreviewed drawing scaffold derived from Bothrops atrox; no claim of species-specific accuracy.",
-        "Available photographs and descriptions still need individual review before refinement."
+        "The chosen photographs show a near-black body with orange dorsal markings and a dark head with pale lower facial spots.",
+        "A stocky body, small-scaled head and orange zigzag are represented."
       ],
-      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
-      "reference_ids": []
-    },
-    "template_source_preset": "bothrops_atrox"
+      "projection_limit": "The illustration is a single projected view, not a 3-D or complete multi-angle model.",
+      "reference_ids": [
+        "inat_720748478",
+        "inat_720748531"
+      ]
+    }
   },
   "biological_measurements": null,
   "venom_trait_mapping": null,
   "artistic_parameters": {
     "body_plan": "viper",
-    "pattern": "plain",
-    "skin_color": "#887e6c",
-    "marking_color": "#c5b79b",
-    "belly_color": "#c9bfaa",
+    "pattern": "dorsal_zigzag",
+    "skin_color": "#1e2424",
+    "marking_color": "#db733d",
+    "belly_color": "#bcae9d",
     "body_build": 1,
     "scale_texture": "keeled",
     "tail_type": "short",
-    "scale_pitch": 5.7,
-    "mark_spacing": 65,
+    "scale_pitch": 4.2,
+    "mark_spacing": 55,
     "mark_size": 1,
     "tail_segments": 0,
     "head_style": "triangular",
     "pupil": "vertical",
     "display_state": "neutral",
     "pose": "grounded_open_S",
-    "pit_present": true,
+    "pit_present": false,
     "head_geometry": {
-      "length": 79,
+      "length": 63,
       "neck": 8.5,
       "upper": [
         [
           0,
           0,
           0,
-          -5,
-          10.27,
-          -7.0,
-          22.12,
-          -9.6
+          -4,
+          8,
+          -7,
+          18,
+          -9
         ],
         [
-          22.12,
-          -9.6,
-          37.129999999999995,
-          -15.600000000000001,
-          53.720000000000006,
-          -20,
-          62.410000000000004,
-          -17.4
+          18,
+          -9,
+          30,
+          -13.600000000000001,
+          41,
+          -17,
+          50,
+          -14.62
         ],
         [
-          62.410000000000004,
-          -17.4,
-          67.14999999999999,
-          -14.399999999999999,
-          74.25999999999999,
+          50,
+          -14.62,
+          55,
+          -12.24,
+          59,
           -8.5,
-          79,
+          63,
           -8.5
         ]
       ],
@@ -102,64 +120,68 @@
           0,
           3,
           4,
-          18.17,
-          7.700000000000001,
-          37.92,
-          9.799999999999999
+          15,
+          7,
+          31,
+          9
         ],
         [
-          37.92,
-          9.799999999999999,
-          51.35,
+          31,
+          9,
+          43,
           14,
-          61.620000000000005,
+          43,
           14,
-          66.36,
-          9.799999999999999
+          51,
+          9.5
         ],
         [
-          66.36,
-          9.799999999999999,
-          71.10000000000001,
+          51,
+          9.5,
+          56,
           8.5,
-          75.05,
+          60,
           8.5,
-          79,
+          63,
           8.5
         ]
       ],
       "eye": [
-        30,
-        -2,
-        4,
-        4.2
+        26,
+        -1.5,
+        3.7,
+        3.7
       ],
       "nostril": [
         6,
         -1.5
-      ],
-      "pit": [
-        16.5,
-        0
       ],
       "origin": [
         145,
         185
       ],
       "angle_degrees": 17,
-      "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+      "jaw": "M1 3 Q22 5 45 7 L59 5",
       "shields": [
-        "M7 1 L9 6 L8 12",
-        "M16 1 L18 6 L17 12",
-        "M25 1 L27 6 L26 12",
-        "M35 1 L37 6 L36 12",
-        "M47 1 L49 6 L48 12",
-        "M59 1 L61 6 L60 12"
+        "M7 2 L8 7",
+        "M16 1 L17 7",
+        "M25 2 L26 8",
+        "M34 3 L35 9",
+        "M44 3 L45 9",
+        "M53 3 L54 9"
       ],
       "lip": true,
-      "markings": [],
-      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
-      "micro_scales": true
+      "markings": [
+        {
+          "path": "M8 5 L13 8 L18 8 M24 7 L28 9 L33 8 M38 7 L43 9",
+          "fill": "none",
+          "stroke": "#dbccc0",
+          "width": 2
+        }
+      ],
+      "labial_boundary": "M-3 2 Q24 1 46 4 L65 5 L65 30 L-3 30Z",
+      "micro_scales": true,
+      "iris_color": "#ac744b"
     },
     "body_stations": [
       [
@@ -175,32 +197,32 @@
       [
         305,
         249,
-        20
+        18
       ],
       [
         390,
         271,
-        25
+        22
       ],
       [
         471,
         302,
-        27
+        23
       ],
       [
         514,
         347,
-        26
+        23
       ],
       [
         502,
         397,
-        24
+        22
       ],
       [
         430,
         431,
-        22
+        21
       ],
       [
         330,
@@ -210,32 +232,32 @@
       [
         253,
         476,
-        17
+        18
       ],
       [
         253,
         515,
-        13
+        16
       ],
       [
         324,
         550,
-        8
+        13
       ],
       [
         400,
         555,
-        5
+        10
       ],
       [
         460,
         546,
-        2.8
+        7
       ],
       [
         510,
         528,
-        1
+        4
       ],
       [
         545,
@@ -258,6 +280,6 @@
     "no_image_reviews_changed": true,
     "shared_pose_is_presentation_not_biology": true
   },
-  "model_revision": 1,
+  "model_revision": 2,
   "common_name_source": "https://api.inaturalist.org/v1/taxa"
 }

@@ -20,7 +20,7 @@
     "original_width": 1536,
     "original_height": 2048,
     "retrieved_at": "2026-11-20T08:47:33.801077+00:00",
-    "review_status": "unreviewed",
+    "review_status": "rejected",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -32,8 +32,20 @@
     "content_type": "image/jpeg",
     "collection_batch": "pilot_039_bothrops_lanceolatus",
     "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
-    "review_id": "Bothrops_lanceolatus01"
+    "rendering_exclusion_reason": "injury",
+    "review_id": "Bothrops_lanceolatus01",
+    "body_condition": "injured",
+    "review_issues": [
+      "injury"
+    ],
+    "review_notes": "Severely damaged head and exposed tissue; unsuitable for healthy-anatomy reference or training.",
+    "reference_only_exception": false,
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-22T06:44:57.545786+00:00",
+      "category": "rejected",
+      "reason": "visible severe damage"
+    }
   },
   {
     "image_id": "inat_627891006",
@@ -92,7 +104,7 @@
     "original_width": 1536,
     "original_height": 2048,
     "retrieved_at": "2026-11-20T08:47:33.801077+00:00",
-    "review_status": "unreviewed",
+    "review_status": "rejected",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -104,8 +116,20 @@
     "content_type": "image/jpeg",
     "collection_batch": "pilot_039_bothrops_lanceolatus",
     "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
-    "review_id": "Bothrops_lanceolatus03"
+    "rendering_exclusion_reason": "injury",
+    "review_id": "Bothrops_lanceolatus03",
+    "body_condition": "injured",
+    "review_issues": [
+      "injury"
+    ],
+    "review_notes": "Severely damaged head and exposed tissue; unsuitable for healthy-anatomy reference or training.",
+    "reference_only_exception": false,
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-22T06:44:57.545924+00:00",
+      "category": "rejected",
+      "reason": "visible severe damage"
+    }
   },
   {
     "image_id": "inat_627891010",

@@ -4,14 +4,15 @@
     "catalog_source_labels": 174,
     "editable_draft_presets": 174,
     "source_labels_without_presets": 0,
-    "pending_visual_review": 83,
-    "unreviewed_starter_presets": 83
+    "pending_visual_review": 141,
+    "initial_models_awaiting_refinement": 140,
+    "unreviewed_starter_presets": 1
   },
   "summary": {
-    "initial_model_awaiting_refinement": 58,
+    "initial_model_awaiting_refinement": 140,
     "previously_reviewed_draft_with_flags": 8,
     "refined_draft_with_flags": 25,
-    "unreviewed_starter": 83
+    "unreviewed_starter": 1
   },
   "species": [
     {
@@ -360,27 +361,22 @@
     {
       "species_id": "source_4cf9f8e23eac8e4f",
       "source_species_name": "Austrelaps labialis",
-      "status": "unreviewed_starter",
+      "status": "initial_model_awaiting_refinement",
       "visual_observations": [
-        "Government fact-sheet photograph: dark olive-brown smooth-looking trunk, small dark rounded head with little neck constriction; only coarse whole-body silhouette legible."
+        "Description-based; no local photograph reviewed.",
+        "Published accounts describe a small gray copperhead; its narrow head, pale barred lips and light underside are represented.",
+        "Shape and scale counts are artistic approximations."
       ],
-      "refinements": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
-        "Government photo too small for head/lip detail; no clean underside or complete tail. No model authored from this alone.",
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; anatomical and color details need direct image comparison.",
+        "This depicts one gray form, not the species range of variation."
       ],
       "online_references_checked": [
-        {
-          "url": "https://cdn.environment.sa.gov.au/landscape/docs/hf/pa-fact-pygmycopperhead.pdf",
-          "status": "read_and_photo_viewed"
-        },
-        {
-          "url": "https://australian.museum/learn/animals/reptiles/copperhead/",
-          "status": "page_read; main photograph is ramsayi, not used for labialis"
-        }
+        "https://biomedicalsciences.unimelb.edu.au/__data/assets/pdf_file/0004/3216739/A-Clinicians-Guide-to-Venomous-Bites-and-Stings-2013.pdf"
       ],
       "pilot_folders": [],
       "available_photo_records": 0,
@@ -402,16 +398,24 @@
     {
       "species_id": "source_d8c7d1a9e4ee5af1",
       "source_species_name": "Azemiops feae",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "Sources describe a dark body with narrow orange to pale crossbands and a light head with dark markings.",
+        "A smooth-scaled body, relatively flat plated head and narrow transverse marks are approximated."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; accurate head color and pattern vary across forms and taxonomy needs care.",
+        "Tail and ventral details are not verified."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13211529/",
+        "https://vietsnake.edu.vn/en/list-of-snakes/feas-viper/"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -581,16 +585,23 @@
     {
       "species_id": "source_11bc3e7c2ce06692",
       "source_species_name": "Boiga irregularis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Australian Museum describes a long slender snake with a broad head, distinct neck, large vertically pupilled eyes and indistinct darker bands.",
+        "An elongated head, enlarged eye, slender body and brown banding are represented."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local images; broad head proportions and body shape need visual comparison.",
+        "Irregular natural markings and variation are simplified."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://lifg.australian.museum/Group.html?groupId=OeslUwpQ"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -606,16 +617,23 @@
     {
       "species_id": "source_974773da3b08f0cb",
       "source_species_name": "Borikenophis portoricensis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Fort Buchanan field guide describes an olive-brown dorsum, whitish ventral color and sometimes dark scale edges.",
+        "The draft selects that color range and a slim racer body."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; head, scale edging and taper need photo comparison.",
+        "Neck flattening in defensive posture is not represented."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://home.army.mil/buchanan/7915/7615/4136/Wildlife_of_Ft._Buchanan_Field_Guide_2018-FINAL_Final_12.11.18.PDF"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -860,20 +878,22 @@
     {
       "species_id": "source_d3bfb6586db80136",
       "source_species_name": "Bothriechis thalassinus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The species description records a leaf-green individual with irregular pale turquoise dorsal markings, turquoise postocular stripe and a cream to yellow-green underside.",
+        "Other individuals vary and may have dark mottling; this is one illustrative variant."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot photos; blotch geometry, head dimensions and tail need comparison with living specimens.",
+        "Periodic blotches are placeholders for irregular markings and the ventral gradient is simplified."
       ],
       "online_references_checked": [
-        {
-          "url": "https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442000000400025&script=sci_arttext&tlng=en",
-          "status": "Original description read; figures still need visual inspection. No model yet."
-        }
+        "https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442000000400025&script=sci_arttext"
       ],
       "pilot_folders": [],
       "available_photo_records": 0,
@@ -1046,9 +1066,12 @@
         "no_local_images",
         "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
         "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local image candidates in species catalog; seek reliable reference imagery.",
+        "Taxonomy: Bothrops ayerbei has been reported as an unavailable name; independent taxonomic resolution is needed before treating this as a distinct species."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://nuevo.metarevistas.org/Record/oai%3Arevistasojs.ucaldas.edu.co%3Aarticle_4466"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1067,16 +1090,23 @@
     {
       "species_id": "source_372e84a90b6025db",
       "source_species_name": "Bothrops barnetti",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "A Peruvian university description records a brown-to-gray ground with pale-bordered dark triangular or trapezoid markings and a dark head V.",
+        "A stout body, pale-edged markings and head V are approximated."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; head shape and specific arrangement of blotches need reference comparison.",
+        "Alternating side blotches and fine markings are simplified."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://repositorio.unprg.edu.pe/bitstream/handle/20.500.12893/773/BC-TES-3132.pdf?isAllowed=y&sequence=1"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1137,16 +1167,24 @@
     {
       "species_id": "source_0f8209edf5e0b63f",
       "source_species_name": "Bothrops colombiensis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The reference describes variable brown or gray coloration and dark triangular or trapezoidal side markings.",
+        "The source treats this name as a synonym of B. atrox; the original dataset label is retained pending taxonomic review."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "Taxonomic status requires authoritative reconciliation: the source treats this name as an atrox synonym.",
+        "No local pilot photos; morphology and pattern require reference comparison.",
+        "The triangles are stylized rather than individually reconstructed."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://serpientesdevenezuela.org/bothrops-colombiensis/"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1165,21 +1203,22 @@
     {
       "species_id": "source_4138084189bba204",
       "source_species_name": "Bothrops cotiara",
-      "status": "unreviewed_starter",
+      "status": "initial_model_awaiting_refinement",
       "visual_observations": [
-        "Single obscured coiled photograph; dark head and pale-bordered brown pattern visible."
+        "Description-based; no local photograph reviewed.",
+        "The Brazilian health guide describes an olive or gray dorsal body, dark trapezoidal markings with pale borders and a black belly.",
+        "A dark-bellied form and pale head mark are approximated."
       ],
-      "refinements": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
-        "No clear head or complete tail view; supplemental references required.",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+        "no_usable_photo_selected",
+        "The only local photo is a severely damaged carcass and was rejected; healthy photographs are needed.",
+        "Horseshoe marks, the head V and black belly are simplified."
       ],
       "online_references_checked": [
-        {
-          "url": "https://repositorioacervohistorico.butantan.gov.br/index.php/serpente-bothrops-cotiara",
-          "status": "Institutional record found; image fetch failed; not visually reviewed."
-        }
+        "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/publicacoes/guia-animais-peconhentos-do-brasil.pdf"
       ],
       "pilot_folders": [
         "data/image_pilots/pilot_034_bothrops_cotiara"
@@ -1273,16 +1312,23 @@
     {
       "species_id": "source_6aad2d29de4e0921",
       "source_species_name": "Bothrops fonsecai",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The health guide describes dark brown ground color, pale-edged trapezoidal markings, a pale longitudinal head mark and a dark belly.",
+        "These features have separate editable colors and head markings."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot image; precise body pattern and head mark need photo comparison.",
+        "The complex paired side ocelli and ventral details are simplified."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/publicacoes/guia-animais-peconhentos-do-brasil.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1338,14 +1384,23 @@
     {
       "species_id": "source_4807cdf47c6893e5",
       "source_species_name": "Bothrops jararaca",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Instituto Butantan account describes variable brown, green, gray or yellow ground colors with dark horseshoe-shaped lateral markings.",
+        "This brown variant uses individually adjustable head, taper and horseshoe pattern."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "no_usable_photo_selected",
+        "Pilot photos need species confirmation; none were used for this draft.",
+        "Horseshoe spacing, head details and ventral flecking are simplified."
+      ],
+      "online_references_checked": [
+        "https://butantan.gov.br/bubutantan/uma-jararaca-nada-comum-conheca-a-maior-causadora-de-acidentes-com-cobras-do-brasil"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_006_jararaca"
       ],
@@ -1402,17 +1457,23 @@
     {
       "species_id": "source_6bf8e92c92f11ac5",
       "source_species_name": "Bothrops lanceolatus",
-      "status": "unreviewed_starter",
+      "status": "initial_model_awaiting_refinement",
       "visual_observations": [
-        "Two images appear to show an injured/killed animal with exposed mouth; remaining photographs are shed skin and habitat."
+        "Description-based; no local photograph reviewed.",
+        "The Martinique field guide illustrates a lance-shaped head, a sensory pit and a dark postocular band.",
+        "A brown form with dark geometric markings is selected; males and females and individuals can differ markedly in color."
       ],
-      "refinements": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
-        "No suitable healthy animal reference in local set; do not model its damaged head.",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+        "no_usable_photo_selected",
+        "Local carcass photos were rejected and the remaining photos appear to show shed skin; no pilot image was used for fitting.",
+        "Lateral marks, underside and head proportions require comparison with healthy animals."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.biodiversite-martinique.fr/sites/default/files/petit_guide_illustre_des_amphibiens_et_des_reptiles_de_la_martinique_m._dewynter_2022_0.pdf"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_039_bothrops_lanceolatus"
       ],
@@ -1469,16 +1530,23 @@
     {
       "species_id": "source_da3de14e4b7da286",
       "source_species_name": "Bothrops moojeni",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Argentine national parks account describes a robust brown snake, dark trapezoidal blotches, dark crown and pale underside.",
+        "These features and an elongated head are represented schematically."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; the head and body require photo comparison.",
+        "Trapezoid placement and pale borders are periodic approximations."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://sib.gob.ar/especies/bothrops-moojeni"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1568,17 +1636,23 @@
     {
       "species_id": "source_c53d6f5b9bb41cd5",
       "source_species_name": "Bothrops pictus",
-      "status": "unreviewed_starter",
+      "status": "initial_model_awaiting_refinement",
       "visual_observations": [
-        "Long tapering pointed head and narrow neck; gray-brown body with pale-edged dark irregular zigzag marks."
+        "Description-based; no local photograph reviewed.",
+        "Peruvian research reports morphological and color-pattern variation in this coastal lancehead.",
+        "The draft uses a light gray-brown ground, dark dorsal blotches, pale belly and differentiated viper head."
       ],
-      "refinements": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
-        "Only one observation, strongly foreshortened head; no underside or neutral lateral skull.",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+        "no_usable_photo_selected",
+        "Local pilot photos have not been compared for this rendering.",
+        "The zigzag and head markings are schematic and require visual validation."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://alicia.concytec.gob.pe/vufind/index.php/Record/UNMS_c8f85f81c09cf75db14b5aaa7d894670"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_043_bothrops_pictus"
       ],
@@ -1598,16 +1672,23 @@
     {
       "species_id": "source_cbcdccac700bc002",
       "source_species_name": "Bothrops pirajai",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Brazilian health guide describes light to reddish-brown ground color with pale-edged open trapezoidal markings and a light spotted belly.",
+        "A broad head, stout body and pale-bordered side markings are approximated."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; pattern, head and proportion need photo comparison.",
+        "Dark ventral flecking and small ocelli are not modeled."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/animais-peconhentos/publicacoes/guia-animais-peconhentos-do-brasil.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1836,16 +1917,23 @@
     {
       "species_id": "source_00a41a7f14994119",
       "source_species_name": "Bungarus sindanus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The cited description reports a glossy dark body with narrow paired or single white bands.",
+        "The dark body, pale bands and small head are modeled schematically."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; paired band arrangements and exact proportions need photo comparison.",
+        "Band spacing and head coloration are illustrative."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://indiansnakes.org/snakedetails/sind%20krait"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1864,16 +1952,23 @@
     {
       "species_id": "source_8116bfd6afea5f6c",
       "source_species_name": "Calliophis bivirgata",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based, no local photo reviewed."
+      ],
+      "refinements": [
+        "Added blue-black body, blue lateral stripe, red head, underside and short red tail; drafted slender shape."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; head shape, body geometry and color need photo comparison.",
+        "Blue stripe placement, red tail length and all scale proportions are illustrative.",
+        "The catalog uses Calliophis bivirgata while references use C. bivirgatus; taxonomy requires reconciliation."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/481",
+        "https://m.singapore.biodiversity.online/taxo4254/mainSpace/Calliophis%20bivirgatus.html"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1888,16 +1983,23 @@
     {
       "species_id": "source_5887e831a80e1221",
       "source_species_name": "Calliophis intestinalis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The cited description specifies a slender dark brown back with a red midline, a black-and-white underside, and a red-and-black ventral tail.",
+        "The separate dorsal and ventral patterns are an editable interpretation, not a photo fit."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local images; body shape and individual band widths need image comparison.",
+        "Ventral band count and the position at which the red tail begins are illustrative."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/6/4/6450"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -1913,16 +2015,23 @@
     {
       "species_id": "source_e827007c57811f3a",
       "source_species_name": "Calloselasma rhodostoma",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Malaysia biodiversity description reports a brown, moderately stout snake with dark triangular side markings, small eyes, a dark crown and a pale lip.",
+        "The head, narrow neck and triangle pattern are drawn as an editable approximation."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; head, shape and pattern need visual comparison.",
+        "Dorsal pattern and side-to-side asymmetry are simplified."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.mybis.gov.my/art/217"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -2008,16 +2117,23 @@
     {
       "species_id": "source_7fd271ae997a9bb3",
       "source_species_name": "Cerberus rynchops",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The NUS account describes a distinct elongate head, small high-set eyes and a dark stripe through each eye.",
+        "It also describes keeled scales and varied colors and patterns."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; head shape, stripe and color variation need photo comparison.",
+        "Water-snake eye placement and body stripe geometry are simplified in this single view."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://singapore.biodiversity.online/taxo4254/mainSpace/Cerberus%20rynchops.html"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -2106,16 +2222,23 @@
     {
       "species_id": "source_484310c4eb2c1202",
       "source_species_name": "Conophis lineatus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The taxonomic revision describes variable dorsal striping and a lateral head stripe in this species complex.",
+        "Six longitudinal stripes and a head stripe are illustrated."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot photos; proportions and color require comparison with healthy animals.",
+        "Stripe count and placement are schematic and vary geographically."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.gutenberg.org/cache/epub/37512/pg37512-images.html"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -2875,16 +2998,23 @@
     {
       "species_id": "source_e8b86139fe58e822",
       "source_species_name": "Drysdalia coronoides",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "Museums Victoria describes a variable gray, brown or black back, pale pink underside and white lip stripe.",
+        "The selected brown form uses a slim body and independent white lip stripe."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; stripe placement and head dimensions require photo comparison.",
+        "Underside is represented by a uniform color only."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://collections.museumsvictoria.com.au/species/8789"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -2938,16 +3068,23 @@
     {
       "species_id": "source_e4151782ba3f4a11",
       "source_species_name": "Echis coloratus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The source describes a distinct head, variable gray-to-reddish ground colors and irregular pale dorsal blotches.",
+        "A stout body, keeled scales and pale-edged pattern were drafted."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; pale blotch shapes and head markings require photo comparison.",
+        "Variation in color and tail and underside features remains unmodeled."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.just.edu.jo/FacultiesandDepartments/FacultyofScienceandArts/Pages/Echis-coloratus-.aspx"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -2966,14 +3103,22 @@
     {
       "species_id": "source_99ceb9b6a3a4f3e5",
       "source_species_name": "Echis ocellatus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "One provider-labelled pilot photograph was consulted for color and general pattern; identification is unverified.",
+        "The regional taxonomic study documents the West African carpet viper complex; its pilot image shows a heavily patterned gray-brown viper.",
+        "A short viper outline, patterned body and no loreal heat pit are approximated."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "The sole local pilot image remains provider-labelled and needs independent confirmation.",
+        "Actual species identification, pattern placement, head markings and underside need closer review."
+      ],
+      "online_references_checked": [
+        "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2025-07/010093823.pdf"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_074_echis_ocellatus"
       ],
@@ -2992,16 +3137,23 @@
     {
       "species_id": "source_94276255099b606a",
       "source_species_name": "Echis pyramidum",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The cited description reports a brown or gray body with oblique pale crossbars.",
+        "A distinct head, short stout body and light markings are illustrated."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; oblique marks and dark head pattern need photo comparison.",
+        "Head, tail and ventral details are stylized and taxonomic variation needs review."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.acq.osd.mil/eie/afpmb/docs/dveps/Djibouti.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -3130,16 +3282,23 @@
     {
       "species_id": "source_7abfe98eca8290c3",
       "source_species_name": "Hydrophis cyanocinctus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The University of Hong Kong account describes yellow to gray ground color, dark body rings and a laterally compressed paddle tail.",
+        "A yellow-gray variant with blue-black rings and a paddle-tail setting is represented."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; ring counts and paddle tail proportions require photo comparison.",
+        "The 2D paddle is schematic and cannot show its real three-dimensional compression."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.biosch.hku.hk/ecology/hkreptiles/snake/Hydrophis_cyanocinctus.html"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -3442,14 +3601,22 @@
     {
       "species_id": "source_6cf1e0c619c8b9c0",
       "source_species_name": "Macrovipera lebetina",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Pilot views show a heavy-bodied viper with a broad, comparatively blunt head and brown-gray patching.",
+        "The head and body were reshaped, with no loreal heat pit drawn."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "The two selected individuals vary in color and pattern; this is an illustrative intermediate.",
+        "Side markings, underside and tail need further validation.",
+        "Species identification remains provider supplied."
+      ],
+      "online_references_checked": [
+        "https://www.just.edu.jo/FacultiesandDepartments/FacultyofScienceandArts/Pages/Macrovipera-lebetina.aspx"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_086_macrovipera_lebetina"
       ],
@@ -3468,16 +3635,23 @@
     {
       "species_id": "source_1e642e4d0c23c99e",
       "source_species_name": "Macrovipera mauritanica",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The WHO Africa guide illustrates and describes a large viper with a brownish-gray body and a patterned back.",
+        "A stout body, dark zigzag and scaled head are represented."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot photos; head, pattern and body shape need photo comparison.",
+        "Dorsal blotches, head markings and underside are simplified."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://biomedicalsciences.unimelb.edu.au/__data/assets/pdf_file/0010/3216736/AFRO-Snakebite-Management-Guidelines-2010.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -3496,14 +3670,23 @@
     {
       "species_id": "source_432f92659252c945",
       "source_species_name": "Metlapilcoatlus nummifer",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Mexican Redtox account describes a short, very robust viper with a large head and dark rhomboid dorsal spots on a gray or brown ground.",
+        "A broad head, robust taper and dark diamonds are approximated."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "no_usable_photo_selected",
+        "Three local photographs have not been fitted or independently identified.",
+        "Lateral spots, ventral flecks and exact diamond arrangement are simplified."
+      ],
+      "online_references_checked": [
+        "https://redtoxdev.nmn.mx/especies/metlapilcoatlus-nummifer"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_087_metlapilcoatlus_nummifer"
       ],
@@ -3524,14 +3707,23 @@
     {
       "species_id": "source_2c37d5b6901581fa",
       "source_species_name": "Micropechis ikaheka",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The PNG guide describes a thick body, grayish head, light ground color and variable dark bands.",
+        "The draft uses small eyes, a dark head, pale body and dark scale tips."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "no_usable_photo_selected",
+        "The local photos have not been used for fitting; condition and identification need further review.",
+        "Band progression from the midbody and the short tail need closer modeling."
+      ],
+      "online_references_checked": [
+        "https://www.kingsnake.com/aho/pngsmc/Clinical_Management_of_Snakebite_in_PNG.pdf"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_088_micropechis_ikaheka"
       ],
@@ -3550,12 +3742,17 @@
     {
       "species_id": "source_ee00622858707fbd",
       "source_species_name": "Micrurus alleni",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The photographed body has orange-red sections with dark flecks, black rings, and narrow cream borders; the rendered flecks and tail pattern remain simplified."
+      ],
+      "refinements": [
+        "Replaced neutral placeholder with editable color and ring sequence; adjusted illustrative body thickness and eye size."
+      ],
       "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+        "Ring counts, scale-tip flecks, tail-specific markings, and geographic variation are not calibrated.",
+        "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+        "Provider identification and the model need independent expert review."
       ],
       "online_references_checked": [],
       "pilot_folders": [
@@ -3575,14 +3772,23 @@
     {
       "species_id": "source_1ffc9dd77f25c98d",
       "source_species_name": "Micrurus altirostris",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "Argentine national parks describes red interspaces, black triads separated by white or yellow rings, and black-tipped scales.",
+        "The dark snout and red posterior head are approximated."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "no_usable_photo_selected",
+        "Several pilot images show injured animals and are not used; healthy specimens require closer review.",
+        "Counts and proportions of the bands are illustrative, and the head markings need independent verification."
+      ],
+      "online_references_checked": [
+        "https://sib.gob.ar/especies/micrurus-altirostris"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_090_micrurus_altirostris"
       ],
@@ -3602,12 +3808,17 @@
     {
       "species_id": "source_f074d6b92f420193",
       "source_species_name": "Micrurus browni",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Pilot image shows bright red, black and yellow bands and a dark head with yellow collar; rendered bands simplify black flecks on red scales."
+      ],
+      "refinements": [
+        "Replaced neutral placeholder with editable color and ring sequence; adjusted illustrative body thickness and eye size."
+      ],
       "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+        "Ring counts, scale-tip flecks, tail-specific markings, and geographic variation are not calibrated.",
+        "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+        "Provider identification and the model need independent expert review."
       ],
       "online_references_checked": [],
       "pilot_folders": [
@@ -3630,14 +3841,23 @@
     {
       "species_id": "source_3c7c51577a7a55e1",
       "source_species_name": "Micrurus clarki",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Colombian national health institute describes a black head cap, red-black-yellow monads and a black-yellow banded tail.",
+        "The drawing includes an independently controlled two-color tail."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "no_usable_photo_selected",
+        "The single local photo has not been used for fitting; more independent images are needed.",
+        "The exact ring count and widths and the pale neck band need reference comparison."
+      ],
+      "online_references_checked": [
+        "https://serpientes.ins.gov.co/en/Paginas/files/Micrurus-clarki.aspx"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_092_micrurus_clarki"
       ],
@@ -3655,12 +3875,17 @@
     {
       "species_id": "source_05b5040ece161a8f",
       "source_species_name": "Micrurus corallinus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "A close image shows red sections with black scale tips, black rings and narrow pale borders; its tail is darker than the simplified rendered tail."
+      ],
+      "refinements": [
+        "Replaced neutral placeholder with editable color and ring sequence; adjusted illustrative body thickness and eye size."
+      ],
       "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+        "Ring counts, scale-tip flecks, tail-specific markings, and geographic variation are not calibrated.",
+        "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+        "Provider identification and the model need independent expert review."
       ],
       "online_references_checked": [],
       "pilot_folders": [
@@ -3681,12 +3906,17 @@
     {
       "species_id": "source_44f04494e1a59e6b",
       "source_species_name": "Micrurus dumerilii",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Pilot close-up shows red scales with dark tips, single black rings with fine pale borders and pale markings beside the dark head."
+      ],
+      "refinements": [
+        "Replaced neutral placeholder with editable color and ring sequence; adjusted illustrative body thickness and eye size."
+      ],
       "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+        "Ring counts, scale-tip flecks, tail-specific markings, and geographic variation are not calibrated.",
+        "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+        "Provider identification and the model need independent expert review."
       ],
       "online_references_checked": [],
       "pilot_folders": [
@@ -3708,12 +3938,17 @@
     {
       "species_id": "source_4a468c829ded40b6",
       "source_species_name": "Micrurus frontalis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The close-up shows black-pale-black-pale-black bands next to a red collar and a dark face with pale scale outlines; facial markings remain simplified."
+      ],
+      "refinements": [
+        "Replaced neutral placeholder with editable color and ring sequence; adjusted illustrative body thickness and eye size."
+      ],
       "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+        "Ring counts, scale-tip flecks, tail-specific markings, and geographic variation are not calibrated.",
+        "Head geometry and underside require additional verified views; ventral ring continuation is an approximation.",
+        "Provider identification and the model need independent expert review."
       ],
       "online_references_checked": [],
       "pilot_folders": [
@@ -3735,16 +3970,23 @@
     {
       "species_id": "source_1fd581df6fe7f638",
       "source_species_name": "Micrurus fulvius",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The museum description supports a thin body, black snout and red/black rings separated by narrow yellow rings.",
+        "Band order, black head and lightly flecked red sections were added procedurally."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local images; head, band widths and proportions need photo comparison.",
+        "Exact ring count, scale-tip markings and tail coloration vary and are approximate."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.floridamuseum.ufl.edu/florida-snake-id/snake/harlequin-coralsnake/"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -3796,14 +4038,22 @@
     {
       "species_id": "source_90d96f1863e77284",
       "source_species_name": "Micrurus mipartitus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Small blunt head, narrow pale rings on a predominantly dark body, and a red-and-black tail are visible in the chosen photographs.",
+        "The head outline, eye size and body taper have been adjusted as illustrative approximations."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Number and widths of bands and geographic variation are not calibrated.",
+        "Underside and tail boundaries need additional angle-specific review.",
+        "Provider identification and morphology require independent verification."
+      ],
+      "online_references_checked": [
+        "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/micrurus-mipartitus"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_097_micrurus_mipartitus"
       ],
@@ -3821,14 +4071,21 @@
     {
       "species_id": "source_5d36097f267930c5",
       "source_species_name": "Micrurus mosquitensis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The selected individual has red scales with dark tips, broad black rings with yellow borders and a yellow band on the dark head.",
+        "Its head, body proportions and band sizes are an editable qualitative draft."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Band count, scale detail and ventral pattern are approximate.",
+        "Tail, geographic variation and photo identity require additional review."
+      ],
+      "online_references_checked": [
+        "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/micrurus-mosquitensis"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_098_micrurus_mosquitensis"
       ],
@@ -3846,14 +4103,21 @@
     {
       "species_id": "source_a309f49d00e59306",
       "source_species_name": "Micrurus nigrocinctus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The photo shows a black snout, pale head band and dark body rings edged in cream against red areas.",
+        "Band dimensions and the head shape were adjusted for the selected color form."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Color and head-band variation exist within the species.",
+        "Full tail and ventral markings need additional references; identification is not independently verified."
+      ],
+      "online_references_checked": [
+        "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/micrurus-nigrocinctus"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_099_micrurus_nigrocinctus"
       ],
@@ -3871,14 +4135,23 @@
     {
       "species_id": "source_7619ab922285d4c7",
       "source_species_name": "Micrurus paraensis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The published diagnosis describes 12–21 black body rings bordered by narrow white rings, long red intervals, and a black and white tail.",
+        "A black snout and pale neck ring are included."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "no_usable_photo_selected",
+        "Pilot photographs have not yet been assessed for this draft.",
+        "Ring count and widths are schematic; the black head cap does not extend exactly onto the neck."
+      ],
+      "online_references_checked": [
+        "https://reptile-database.reptarium.cz/Micrurus/paraensis?search_param=%28%28search%3D%27Uma%27%29%29"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_100_micrurus_paraensis"
       ],
@@ -3896,14 +4169,22 @@
     {
       "species_id": "source_d8bac9a0371bd233",
       "source_species_name": "Micrurus spixii",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The Manaus field guide describes black triads separated internally by pale rings, red intervals, and dark scale tips.",
+        "The pilot images show a dark head and contrasting red, dark and pale body bands."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Provider-labelled pilot identity has not been independently confirmed.",
+        "The stripe/ring widths and exact ordering need close comparison against additional healthy specimens.",
+        "Head proportions and underside require independent visual review."
+      ],
+      "online_references_checked": [
+        "https://ppbio.inpa.gov.br/sites/default/files/guia-cobras-regiaoManaus_PPBio_CENBAM.pdf"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_101_micrurus_spixii"
       ],
@@ -3924,14 +4205,22 @@
     {
       "species_id": "source_886a77b690dfb405",
       "source_species_name": "Micrurus surinamensis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The chosen photographs show a red head with dark scale outlines, broad body and black triads with pale separators.",
+        "A relatively broad head and body, red head and individually sized triad bands are approximated."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "A lateral view cannot establish the true dorsal eye and nostril positions or flattened head.",
+        "Ventral color variation, band counts and tail pattern need further review.",
+        "Photograph identity and species anatomy are not independently verified."
+      ],
+      "online_references_checked": [
+        "https://serpientes.ins.gov.co/en/Paginas/files/Micrurus-surinamensis.aspx"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_102_micrurus_surinamensis"
       ],
@@ -3949,14 +4238,21 @@
     {
       "species_id": "source_ce67552e717ef86f",
       "source_species_name": "Micrurus tschudii",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Pilot images show a black head crossed by an orange-red band and dark triads separated by pale rings.",
+        "Head marking, ring arrangement and body taper are approximate editable geometry."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "The photographs come from one observation and do not establish range of variation.",
+        "Underside, tail and specimen identity need further review."
+      ],
+      "online_references_checked": [
+        "https://bioweb.bio/faunaweb/reptiliaweb/FichaEspecie/Micrurus%20tschudii"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_103_micrurus_tschudii"
       ],
@@ -3976,14 +4272,21 @@
     {
       "species_id": "source_056759e6c9b89fa7",
       "source_species_name": "Montivipera raddei",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The selected views show a stocky gray-brown snake with orange-brown dorsal areas and darker spots.",
+        "A broad head, heavy body and orange-centered dark markings are approximated."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Real markings are irregular and not perfect repeated rings.",
+        "Tail, underside and photo identity need further review."
+      ],
+      "online_references_checked": [
+        "https://stlzoo.org/animals/reptiles/snakes/armenian-viper"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_104_montivipera_raddei"
       ],
@@ -4144,22 +4447,23 @@
     {
       "species_id": "source_8f96c694ab63c1e7",
       "source_species_name": "Naja katiensis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "An African herpetological guide describes a uniformly brown back and yellowish belly with two dark transverse neck bands.",
+        "A smoother expanded hood profile and the two dark throat bands are illustrated."
+      ],
       "refinements": [
-        "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+        "Added an editable approximation of the species features described by the cited source."
       ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery.",
-        "Hood geometry smoothed; species-specific appearance still requires reference review.",
-        "Generic throat marks removed; actual throat pattern has not yet been reviewed and represented.",
-        "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views.",
-        "No species-specific full reference review yet; hood and colors remain preliminary."
+        "No local pilot photos; head and hood measurements are not species-validated.",
+        "The rendering shows one illustrative posture rather than full individual variation."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers19-11/010037390.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -4331,26 +4635,22 @@
     {
       "species_id": "source_c02cc2aa03400e94",
       "source_species_name": "Naja nubiae",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "A Sudan review describes gray coloration with dark-edged scales, a pale underside and a dark neck band.",
+        "An expanded hood, gray body and dark throat band are illustrated."
+      ],
       "refinements": [
-        "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+        "Added an editable approximation of the species features described by the cited source."
       ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery.",
-        "Hood geometry smoothed; species-specific appearance still requires reference review.",
-        "Generic throat marks removed; actual throat pattern has not yet been reviewed and represented.",
-        "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views.",
-        "No species-specific full reference review yet; hood and colors remain preliminary."
+        "No local pilot photos; head and hood measurements are not species-validated.",
+        "Dark scale edging and the neck band are stylized approximations."
       ],
       "online_references_checked": [
-        {
-          "url": "https://www.denix.osd.mil/dodparc/denix-files/sites/36/2019/06/Dangerous-Snakes-of-Niger-Africa_Final_508.pdf",
-          "status": "Agency identification guide has species photographs; source found but individual images not yet visually assessed."
-        }
+        "https://academic.oup.com/trstmh/article/119/5/541/7931943"
       ],
       "pilot_folders": [],
       "available_photo_records": 0,
@@ -4449,14 +4749,22 @@
     {
       "species_id": "source_f372b171661314bc",
       "source_species_name": "Notechis scutatus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The selected banded tiger snake has a muscular body, dark transverse markings and a yellow lower side.",
+        "The head is only moderately distinct from the neck; head outline and body taper were individually reshaped."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Tiger snakes vary widely, including unbanded dark forms; this is one banded form.",
+        "Striping is periodic and does not reproduce the exact irregular band positions.",
+        "Tail and underside remain approximations; identity and anatomy need expert verification."
+      ],
+      "online_references_checked": [
+        "https://australian.museum/learn/animals/reptiles/tiger-snake/"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_116_notechis_scutatus"
       ],
@@ -4525,16 +4833,23 @@
     {
       "species_id": "source_68b7620d431f7b7d",
       "source_species_name": "Ophryacus sphenophrys",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "A published account describes a yellow form with black stippling and paired dark blotches connected along the back.",
+        "The head silhouette includes a single visible wedge-like supraocular scale."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; the horn and head need visual verification against the source illustrations.",
+        "Paired side markings and fine stippling are not yet fully represented."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.herp.mx/pubs/2015-Grunwald-et-al-Ophryacus.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -4552,14 +4867,21 @@
     {
       "species_id": "source_4b660ae3e7497876",
       "source_species_name": "Ovophis convictus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected views show a stout brown snake with a dark facial stripe and pale markings along the jaw.",
+        "The broad head, short taper and body markings are modeled as a qualitative sketch."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Ventral flecking and irregular pigment remain simplified.",
+        "Photograph identification and geometry need independent review."
+      ],
+      "online_references_checked": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8402492/"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_119_ovophis_convictus"
       ],
@@ -4576,14 +4898,21 @@
     {
       "species_id": "source_cdc86d4fe264d4ac",
       "source_species_name": "Ovophis monticola",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The photos show brown ground color, dark blotches and a comparatively narrow, dark-crowned head.",
+        "Body taper, dark patches and head markings are illustrative and distinct from the other selected Ovophis forms."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Small side spots and real irregular markings are not fully reproduced.",
+        "Identity, tail and underside require further review; taxonomy in this complex has changed."
+      ],
+      "online_references_checked": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11161677/"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_120_ovophis_monticola"
       ],
@@ -4602,14 +4931,21 @@
     {
       "species_id": "source_281407af92a078a1",
       "source_species_name": "Ovophis okinavensis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Pilot views show a short, stout body, broad head and dark markings on a brown-gray base.",
+        "The body taper, head contour and cheek marking were individually adjusted."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "This is one of several color forms in the images.",
+        "Fine lateral patches, underside and species identification require more review."
+      ],
+      "online_references_checked": [
+        "https://biodiversity.okinawa/en/video_pages/reference/himehabu.html"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_121_ovophis_okinavensis"
       ],
@@ -4629,14 +4965,21 @@
     {
       "species_id": "source_16c115628b44a466",
       "source_species_name": "Ovophis tonkinensis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected photos show a short snout, dark crown and irregular dark brown dorsal blotches.",
+        "The head, body outline and brown palette were authored as an editable approximation."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "The head markings, side spots and dorsal pattern are simplified.",
+        "Tail and underside are insufficiently shown; identification and taxonomy need review."
+      ],
+      "online_references_checked": [
+        "https://www.acq.osd.mil/eie/afpmb/docs/dveps/China.pdf"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_122_ovophis_tonkinensis"
       ],
@@ -4686,16 +5029,23 @@
     {
       "species_id": "source_93738ef524d0ffd2",
       "source_species_name": "Philodryas olfersii",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Lami biological reserve guide describes a long-tailed, light-green snake with a narrow brown or gold vertebral stripe that continues onto the head.",
+        "The editable draft uses a green body, pale belly, long tail and brown midline."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; stripe, head and body taper need photo comparison.",
+        "Stripe follows the dorsal centerline schematically."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://prefeitura.poa.br/sites/default/files/usu_doc/sites/smamus/fauna_e_flora%20REBIO%20Lami.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -4713,14 +5063,21 @@
     {
       "species_id": "source_29ea2817faadcac7",
       "source_species_name": "Porthidium lansbergii",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected images show a broad triangular head and dark blocks against a gray-brown or salmon ground.",
+        "Body taper and block pattern were adjusted and a pale dorsal line added from the cited descriptive material."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Snout shape, natural side markings and color variation are simplified.",
+        "Tail and underside need additional views; photographs retain provider identifications."
+      ],
+      "online_references_checked": [
+        "https://babel.banrepcultural.org/digital/collection/p17054coll33/id/1402/"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_123_porthidium_lansbergii"
       ],
@@ -4741,14 +5098,22 @@
     {
       "species_id": "source_0f175f72dd0caacc",
       "source_species_name": "Porthidium nasutum",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The chosen close-up shows a prominently raised snout tip, dark cheek and a gray-brown body with dark patterning.",
+        "The nose curve and head profile were authored separately, alongside an illustrative stout body and dorsal pattern."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "The exact pattern, raised nose and scale geometry are simplified.",
+        "The underside and full tail need better reference views.",
+        "Provider identity and anatomy need independent review."
+      ],
+      "online_references_checked": [
+        "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/porthidium-nasutum"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_124_porthidium_nasutum"
       ],
@@ -4765,14 +5130,22 @@
     {
       "species_id": "source_7f65f6be6029af65",
       "source_species_name": "Porthidium ophryomegas",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Pilot images show a brown body with dark block-like dorsal markings and a broad head.",
+        "The model has its own head, eye position and body taper; unlike the hognosed species, it has no raised snout extension."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Dorsal blotches are simplified and repeat regularly.",
+        "The tail and underside are not fully established in the selected references.",
+        "Provider identity and anatomy are not independently verified."
+      ],
+      "online_references_checked": [
+        "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/porthidium-ophryomegas"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_125_porthidium_ophryomegas"
       ],
@@ -4788,14 +5161,23 @@
     {
       "species_id": "source_32fcac3e3443d5f4",
       "source_species_name": "Porthidium porrasi",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The original description reports a tan-orange individual, transverse bands and retention of a pale tail tip in adults.",
+        "A slightly upturned snout and pale tail tip are illustrated."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "no_usable_photo_selected",
+        "The three local photos have not been fitted or independently identified.",
+        "Band shape and the relative extent of pale tail color need photo comparison."
+      ],
+      "online_references_checked": [
+        "https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442003000300022&script=sci_arttext&tlng=en"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_126_porthidium_porrasi"
       ],
@@ -4815,14 +5197,21 @@
     {
       "species_id": "source_e477dd1d3fb79671",
       "source_species_name": "Protobothrops flavoviridis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected photos show an olive-yellow body, dark irregular blotches outlined in yellow, and a dark stripe behind the eye.",
+        "The head, eye, long taper, yellow palette and dark patches were independently adjusted."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Blotches and their borders are periodic approximations; natural markings fuse and vary.",
+        "Underside and full tail need further inspection; identity remains provider supplied."
+      ],
+      "online_references_checked": [
+        "https://openresearch-repository.anu.edu.au/bitstream/1885/67641/2/01_Aird_Snake_venoms_are_integrated_2015.pdf"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_127_protobothrops_flavoviridis"
       ],
@@ -4842,16 +5231,23 @@
     {
       "species_id": "source_34a66e77bf8f69ae",
       "source_species_name": "Protobothrops kelomohy",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The species diagnosis describes a reddish-brown body with dark-edged scales, dark blotches and three facial stripes.",
+        "A lance-shaped head, facial lines, dark scale tips and dorsal zigzag are represented."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot photos; proportions and facial stripes require visual comparison.",
+        "Pale-edged lateral blotches are not reproduced by the current zigzag model."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://reptile-database.reptarium.cz/Protobothrops/kelomohy?search_param=%28%28taxon%3D%27Crotalinae%27%2Cexact%29%29"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -4869,14 +5265,21 @@
     {
       "species_id": "source_552cc07bf78be753",
       "source_species_name": "Protobothrops mucrosquamatus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected images show brown markings edged in light cream, a broad head and a dark stripe behind the eye.",
+        "Head profile, body taper and angular markings were modeled as editable approximations."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Triangle arrangement and fine head markings are simplified.",
+        "Tail, underside and photograph identification need further review."
+      ],
+      "online_references_checked": [
+        "https://www.afcd.gov.hk/english/conservation/hkbiodiversity/database/popup_record.php?id=3897"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_129_protobothrops_mucrosquamatus"
       ],
@@ -4894,14 +5297,22 @@
     {
       "species_id": "source_6f3d50def5751b60",
       "source_species_name": "Pseudechis australis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The chosen animals show a broad blunt head, brown smooth scales with darker margins, a pale jaw and a robust body.",
+        "The head, eye, trunk and taper are drawn with a separate species-specific geometry."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "This is one brown color form; other color variations are not represented.",
+        "Ventral markings, exact scale counts and tail proportions need additional references.",
+        "Photograph identification and anatomy have not been verified independently."
+      ],
+      "online_references_checked": [
+        "https://australian.museum/learn/animals/reptiles/mulga-snake/"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_130_pseudechis_australis"
       ],
@@ -4920,16 +5331,23 @@
     {
       "species_id": "source_708f790bdb7c5a6b",
       "source_species_name": "Pseudechis papuanus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Papua New Guinea clinical guide describes a heavy-bodied gunmetal black snake whose head is indistinct from the neck, sometimes with a pale nose and throat.",
+        "A black dorsal and dark gray ventral form is represented with a broad body."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; the head-neck connection, snout and belly need photo comparison.",
+        "The light throat does not extend across the separate ventral projection yet."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.kingsnake.com/aho/pngsmc/Chapter%202%20Snakes%20of%20Papua%20New%20Guinea.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -4943,14 +5361,21 @@
     {
       "species_id": "source_a039bde5fc9091a3",
       "source_species_name": "Rhinobothryum bovallii",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The selected photographs show broad red and black sections separated by white, a dark head with pale scale edges, and a long slender taper.",
+        "Band sequence, eye, head markings and body width have been adjusted individually."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Exact head scale outlines, tail bands and band counts are simplified.",
+        "Ventral details and source identification require further verification."
+      ],
+      "online_references_checked": [
+        "https://bioweb.bio/reptilia/taxa/card?lang=en&name=Rhinobothryum+bovallii&rank=species"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_132_rhinobothryum_bovallii"
       ],
@@ -4969,14 +5394,22 @@
     {
       "species_id": "source_fcc42f05c99f7c03",
       "source_species_name": "Sistrurus catenatus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The selected photographs show a stout body, dark pale-edged blotches, a pale-edged facial stripe and a small segmented rattle.",
+        "The head is broad with larger crown scales; rattle size and tail have been customized."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Side spots, mottled ventral scales, and irregular blotch outlines remain simplified.",
+        "Natural rattle size and count vary; segment count is illustrative.",
+        "Photo identity and proportions need independent review."
+      ],
+      "online_references_checked": [
+        "https://www.fws.gov/species/eastern-massasauga-sistrurus-catenatus"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_133_sistrurus_catenatus"
       ],
@@ -4992,14 +5425,22 @@
     {
       "species_id": "source_aa0233eca32a03b1",
       "source_species_name": "Sistrurus miliarius",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected photos show dark dorsal spots separated by rusty-colored accents, smaller side spots and a broad head.",
+        "The head, trunk, small rattle and repeating pigment were adjusted independently."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "The small side spots and exact rust pattern are simplified.",
+        "Rattle segment count and color variation are illustrative.",
+        "Full underside, exact head geometry and identity need independent review."
+      ],
+      "online_references_checked": [
+        "https://content.ces.ncsu.edu/snakes/family-viperidae"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_134_sistrurus_miliarius"
       ],
@@ -5018,16 +5459,23 @@
     {
       "species_id": "source_18206cab7b43558d",
       "source_species_name": "Tantilla nigriceps",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "Colorado Parks and Wildlife describes smooth light brown scales, a dark head cap and pink or orange belly.",
+        "A dark cap, narrow head and pink underside are shown."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No pilot photos; the cap edge and head geometry require photo comparison.",
+        "The cap should extend onto the neck; this renderer currently restricts it largely to the head."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://cpw.state.co.us/species/plains-black-headed-snake"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -5043,16 +5491,23 @@
     {
       "species_id": "source_6305b88a6ca81adb",
       "source_species_name": "Thamnodynastes strigatus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Lami reserve guide illustrates a brown snake and describes a light underside with dark ventral-edge marks.",
+        "A narrow, elongated form with brown blotches is a provisional approximation."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot photos; color pattern and head proportions need reference comparison.",
+        "Distinctive paired dark lines on the belly are not yet modeled."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://prefeitura.poa.br/sites/default/files/usu_doc/sites/smamus/fauna_e_flora%20REBIO%20Lami.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -5070,16 +5525,23 @@
     {
       "species_id": "source_473b0ba7672d65f7",
       "source_species_name": "Thelotornis mossambicanus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The Mozambique field study describes a skinny elongated snake with a green head, dark head and neck markings and a pale spotted body.",
+        "A long tapered body, narrow head and green crown are represented."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot photos; head and body shapes need comparison with live specimens.",
+        "Body and neck markings are simplified and the horizontal pupil is schematic."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://herpetologynotes.org/index.php/hn/article/download/213/104/2143"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -5096,16 +5558,23 @@
     {
       "species_id": "source_1bb81a30bfda3216",
       "source_species_name": "Toxicocalamus longissimus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The original species description describes a small head indistinct from the neck, very small eyes, an elongated body, short tail and gray-brown coloration with darker scale streaks.",
+        "A small yellowish snout bar and pale underside are approximated."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local photographs; the source describes historical collected specimens, so living colors need confirmation.",
+        "Two darker ventral longitudinal lines and compressed terminal tail scale are not represented."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Annals_and_magazine_of_natural_history%3B_zoology%2C_botany%2C_and_geology_%28IA_annalsmagazineof6181896lond%29.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -5124,14 +5593,22 @@
     {
       "species_id": "source_ecb186ea6cf2b4a5",
       "source_species_name": "Trimeresurus albolabris",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected photos show a green body, paler lower head and reddish tail; head outline and eye were individually adjusted.",
+        "Fine head scales, pit and a narrower body are represented procedurally."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Photo identification is unverified and apparent colors vary with lighting.",
+        "Exact proportions and underside require independent multi-view comparison.",
+        "Pale lip and tail color boundaries are approximations."
+      ],
+      "online_references_checked": [
+        "https://www.zobodat.at/pdf/Zoosystematics-Evolution_96_0123-0138.pdf"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_136_trimeresurus_albolabris"
       ],
@@ -5151,14 +5628,22 @@
     {
       "species_id": "source_c70dfbdb81f566fe",
       "source_species_name": "Trimeresurus insularis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected images show a green-yellow form with a broad head and a contrasting tail.",
+        "Drawn with an individually adjusted head contour, ventral lip, eye and taper."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Green and blue color forms vary; this is only the selected green form.",
+        "Head, tail and full underside remain stylized and require closer review.",
+        "Photo identities and scale counts are not independently verified."
+      ],
+      "online_references_checked": [
+        "https://journal.ugm.ac.id/jsv/article/view/111802"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_137_trimeresurus_insularis"
       ],
@@ -5178,16 +5663,23 @@
     {
       "species_id": "source_26f323fa42f9294d",
       "source_species_name": "Trimeresurus nebularis",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The original comparative diagnosis describes green eyes, bluish-green upper lips, frequent pale blue ventrolateral stripes and a green-to-brown tail boundary.",
+        "A green body, brown tail and pale lateral stripe are approximated."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot photos; colors, head and tail must be compared with healthy reference specimens.",
+        "The stripe is currently light rather than independently blue and tail coloration is simplified."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.academia.edu/83652831/A_review_of_morphological_variation_in_Trimeresurus_popeiorum_Serpentes_Viperidae_Crotalinae_with_the_description_of_two_new_species"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -5203,14 +5695,21 @@
     {
       "species_id": "source_115f9c4d468b7684",
       "source_species_name": "Trimeresurus puniceus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Selected photographs show a rust-brown body, dark patches, a broad head and small keeled scales.",
+        "The long, slightly raised snout, heavy body and irregular blotches are approximate vector geometry."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Pigment blotches are periodic approximations of irregular natural markings.",
+        "Tail and underside are not fully visible; anatomy and identification require independent review."
+      ],
+      "online_references_checked": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9261747/"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_138_trimeresurus_puniceus"
       ],
@@ -5230,15 +5729,22 @@
     {
       "species_id": "source_0945e9f34ae428db",
       "source_species_name": "Trimeresurus purpureomaculatus",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "NCBI lists Cryptelytrops purpureomaculatus as a synonym of this name; do not count both source labels as independently verified species."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "A photographed gray form has a broad head, finely scaled crown and a relatively stout body.",
+        "This model depicts one dark gray form; other photographs show different colors and markings."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "The selected photo does not show a complete tail or underside.",
+        "The head and body proportions are qualitative; other color variants are not represented.",
+        "Identification of the individual is not independently confirmed."
+      ],
+      "online_references_checked": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/487"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_139_trimeresurus_purpureomaculatus"
       ],
@@ -5255,14 +5761,22 @@
     {
       "species_id": "source_8798b5167549f805",
       "source_species_name": "Trimeresurus stejnegeri",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The photographed form has green dorsal scales, a light stripe along the ventral edge and a reddish tail.",
+        "A narrow head and relatively slender body were drawn, but proportions are illustrative."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "The pale stripe is simplified and not all geographic and sex variants are represented.",
+        "Tail and underside coloration and head geometry need closer verification.",
+        "Pilot identification is not independently confirmed."
+      ],
+      "online_references_checked": [
+        "https://repository.si.edu/server/api/core/bitstreams/bd55db74-3492-45a7-b184-122334d63bd2/content"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_140_trimeresurus_stejnegeri"
       ],
@@ -5278,14 +5792,22 @@
     {
       "species_id": "source_58fecb9b72ef2b50",
       "source_species_name": "Trimeresurus wiroti",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "A brown snake with an elongated head, raised snout and subdued cross markings is visible in selected photographs.",
+        "The head length, body width and dark crossbands have been drawn separately from the green species."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "The selected photographs do not establish a reliable complete underside or tail.",
+        "The placement of dark patches and exact snout shape remain approximate.",
+        "Photograph identity requires independent review."
+      ],
+      "online_references_checked": [
+        "https://herpingthailand.com/snakes-of-thailand/vipers/trimeresurus-wiroti-wirots-pit-viper/"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_141_trimeresurus_wiroti"
       ],
@@ -5305,14 +5827,22 @@
     {
       "species_id": "source_16d2ba0a60598c29",
       "source_species_name": "Tropidolaemus wagleri",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The chosen adult has a broad head, heavy body and black-on-yellow banding; pale spots occur within dark areas.",
+        "Head, body width, bands and yellow underside have been modeled as an approximation."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Small pale spots in black bands are not yet represented.",
+        "Males and juveniles can be green and are not represented by this female form.",
+        "Reference identities, tail and full underside need review."
+      ],
+      "online_references_checked": [
+        "https://www.nparks.gov.sg/florafaunaweb/fauna/4/9/490"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_142_tropidolaemus_wagleri"
       ],
@@ -5331,16 +5861,23 @@
     {
       "species_id": "source_1a64330569b194a6",
       "source_species_name": "Vipera ammodytes",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The cited morphological study describes an upturned horn on the snout and a dark zigzag on a gray back.",
+        "The horn is part of the editable head outline; no loreal heat pit is drawn."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot images; horn shape, head and body need direct photographic comparison.",
+        "Dorsal zigzag, color variants and ventral markings are stylized."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.zobodat.at/pdf/HER_24_3_4_0181-0185.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -5357,16 +5894,23 @@
     {
       "species_id": "source_88213046eb905611",
       "source_species_name": "Vipera anatolica",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "A comparative herpetology paper describes gray coloration, a pale belly and dark zigzag for this group.",
+        "The rendering uses a gray form with a narrow zigzag and no heat pit."
+      ],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
       "unresolved_flags": [
         "no_local_images",
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset.",
-        "No local image candidates in species catalog; seek reliable reference imagery."
+        "No local pilot photos; proportions and markings need species-specific comparison.",
+        "The zigzag and head pattern are simplified and variation is not captured."
       ],
-      "online_references_checked": [],
+      "online_references_checked": [
+        "https://www.zobodat.at/pdf/HER_18_1_2_0025-0033.pdf"
+      ],
       "pilot_folders": [],
       "available_photo_records": 0,
       "physical_description_gaps": [
@@ -5460,14 +6004,21 @@
     {
       "species_id": "source_7ada09370ebce8db",
       "source_species_name": "Vipera kaznakovi",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "The chosen photographs show a near-black body with orange dorsal markings and a dark head with pale lower facial spots.",
+        "A stocky body, small-scaled head and orange zigzag are represented."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Authored species-focused head, body taper, pigment and visible pattern as an editable approximation."
+      ],
+      "unresolved_flags": [
+        "Other color forms exist; this is the selected black and orange individual.",
+        "The zigzag is simplified; tail and underside need better views."
+      ],
+      "online_references_checked": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7613002/"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_145_vipera_kaznakovi"
       ],
@@ -5523,14 +6074,23 @@
     {
       "species_id": "source_17f12a4790d8de11",
       "source_species_name": "Vipera orlovi",
-      "status": "unreviewed_starter",
-      "visual_observations": [],
-      "refinements": [],
-      "unresolved_flags": [
-        "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
-        "Existing image candidates have not been assessed for suitability in this preset."
+      "status": "initial_model_awaiting_refinement",
+      "visual_observations": [
+        "Description-based; no local photograph reviewed.",
+        "The original description reports brown and other color forms with a dark zigzag and a mostly dark, flecked belly.",
+        "The draft depicts one brown morph with a dark ventral surface."
       ],
-      "online_references_checked": [],
+      "refinements": [
+        "Added an editable approximation of the species features described by the cited source."
+      ],
+      "unresolved_flags": [
+        "no_usable_photo_selected",
+        "Local images have not been fitted and include limited independent observations.",
+        "Zigzag winding count, pale border and belly flecks are schematic."
+      ],
+      "online_references_checked": [
+        "https://npsochi.ru/upload/iblock/597/qwq102152iur6lrlczbl6gotlsvbu1z7.pdf"
+      ],
       "pilot_folders": [
         "data/image_pilots/pilot_147_vipera_orlovi"
       ],

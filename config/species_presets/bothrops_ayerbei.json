@@ -12,6 +12,10 @@
       {
         "url": "https://doi.org/10.6084/m9.figshare.24572683",
         "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://nuevo.metarevistas.org/Record/oai%3Arevistasojs.ucaldas.edu.co%3Aarticle_4466",
+        "scope": "Published taxonomic note reporting the name as unavailable."
       }
     ],
     "photo_references": [],
@@ -31,7 +35,8 @@
     "modeling_flags": [
       "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
       "Existing image candidates have not been assessed for suitability in this preset.",
-      "No local image candidates in species catalog; seek reliable reference imagery."
+      "No local image candidates in species catalog; seek reliable reference imagery.",
+      "Taxonomy: Bothrops ayerbei has been reported as an unavailable name; independent taxonomic resolution is needed before treating this as a distinct species."
     ],
     "modeling_review_status": "unreviewed_starter",
     "modeling_observations": {

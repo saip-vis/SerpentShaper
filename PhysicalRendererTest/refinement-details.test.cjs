@@ -31,6 +31,39 @@ const colorsIn = (svg, layer) => {
 assert.ok(colorsIn(render(coral).svg, 'dorsal-scale-fills').includes('RKWKWKR'), 'dorsal body must show red, black, pale, black, pale, black, red');
 assert.ok(colorsIn(render(coral,{surface:'ventral'}).svg, 'ventral-plates').includes('RKWKWKR'), 'ventral plates must retain the same band sequence');
 changedWithoutChangingOutline('micrurus_lemniscatus', p => p.pattern = 'plain', 'coral triads');
+const alleni = preset('micrurus_alleni');
+assert.ok(colorsIn(render(alleni).svg, 'dorsal-scale-fills').includes('RWKWR'), 'custom band sequence must appear dorsally');
+assert.ok(colorsIn(render(alleni,{surface:'ventral'}).svg, 'ventral-plates').includes('RWKWR'), 'custom band sequence must continue onto ventral plates');
+changedWithoutChangingOutline('micrurus_alleni', p => p.band_sequence = [
+  {color:'skin',fraction:.5}, {color:'marking',fraction:.5}
+], 'custom band sequence');
+for (const options of [{skinColor:'#3377aa'}, {ringColor:'#664422'}, {ringSize:1.2}]) {
+  assert.notEqual(render(alleni,options).svg,render(alleni).svg,'custom bands must respond to editing controls');
+}
+assert.ok(render(alleni).svg.match(/<g id="scale-tips"><path/), 'dark scale tips should be rendered on the dorsal body');
+assert.ok(!render(alleni,{surface:'ventral'}).svg.match(/<g id="scale-tips"><path/), 'dorsal scale tips must not obscure ventral plates');
+const mipartitus = preset('micrurus_mipartitus');
+changedWithoutChangingOutline('micrurus_mipartitus', p => p.tail_pattern = undefined, 'red and black tail bands');
+const ventralMipartitus=render(mipartitus,{surface:'ventral'}).svg;
+assert.ok(colorsIn(ventralMipartitus,'ventral-plates').includes('RKR'), 'ventral tail plates must preserve red and black tail bands');
+const nasutum=preset('porthidium_nasutum');
+assert.ok(render(nasutum).svg.includes('id="dorsal-midline"'), 'hognosed pit viper should show its dorsal line');
+assert.ok(!render(nasutum,{surface:'ventral'}).svg.includes('id="dorsal-midline"'), 'dorsal line must not appear on the underside');
+changedWithoutChangingOutline('porthidium_nasutum', p => delete p.dorsal_midline_color, 'dorsal midline');
+changedWithoutChangingOutline('bothrops_cotiara', p => p.pattern_border_color = '#ff00ff', 'dorsal border color independent of the belly');
+changedWithoutChangingOutline('metlapilcoatlus_nummifer', p => p.diamond_center_color = '#ff00ff', 'independent diamond center color');
+const conophis=preset('conophis_lineatus');
+assert.equal((render(conophis).svg.match(/class="longitudinal-stripe"/g)||[]).length,6,'road guarder must show six adjustable dorsal stripes');
+assert.ok(!render(conophis,{surface:'ventral'}).svg.includes('class="longitudinal-stripe"'),'dorsal stripes must not appear on the ventral view');
+changedWithoutChangingOutline('conophis_lineatus', p => delete p.longitudinal_stripe_offsets, 'longitudinal stripes');
+const blueCoral=preset('calliophis_bivirgata');
+assert.equal(blueCoral.artistic_parameters.belly_color,blueCoral.artistic_parameters.tail_color,'blue coral snake should use the same red on the underside and tail');
+changedWithoutChangingOutline('calliophis_bivirgata', p => delete p.ventrolateral_stripe, 'blue coral lateral stripes');
+const bandedCoral=preset('calliophis_intestinalis');
+const bandedVentral=colorsIn(render(bandedCoral,{surface:'ventral'}).svg,'ventral-plates');
+assert.ok(bandedVentral.includes('WKW'), 'banded coral snake must have pale and dark ventral bands');
+assert.ok(bandedVentral.includes('RKR'), 'banded coral snake must have red and dark ventral tail bands');
+assert.ok(render(bandedCoral).svg.includes('id="dorsal-midline"'), 'banded coral snake needs its red dorsal stripe');
 for (const options of [{skinColor:'#3377aa'}, {ringColor:'#664422'}]) {
   const base=render(coral), recolored=render(coral,options);
   assert.notEqual(recolored.svg,base.svg,'color controls must affect the coral drawing');
