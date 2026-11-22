@@ -3,6 +3,8 @@ const presets=window.SERPENT_PRESETS.presets;
 const byId=new Map(presets.map(p=>[p.preset_id,p]));
 const controls=['width','thickness','skinColor','ringColor','patternContrast','scaleDetail','ringSize'];
 const states=new Map();let active='naja_kaouthia',surface='dorsal',framing='full';
+const requestedPreset=new URLSearchParams(window.location.search).get('preset');
+if(requestedPreset && byId.has(requestedPreset))active=requestedPreset;
 function defaults(p){return {width:1,thickness:1,skinColor:p.artistic_parameters.skin_color,ringColor:p.artistic_parameters.marking_color,patternContrast:1,scaleDetail:1,ringSize:1};}
 function current(){return Object.fromEntries(controls.map(id=>[id,id.endsWith('Color')?$(id).value:Number($(id).value)]));}
 function download(content,name,type){const url=URL.createObjectURL(new Blob([content],{type}));const a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}

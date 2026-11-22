@@ -8,6 +8,8 @@ Start with [the dataset report](reports/dataset_report.md).
 
 For ingestion, see [the cleaning report](reports/cleaning_report.md). The SQLite database and flat tables are in `data/processed/venom_diet_2023/`.
 
+The main [venom explorer](MainInterface/index.html) combines editable family-level compositions, measured reference comparisons, and the species SVG preview. See [usage and limitations](MainInterface/README.md).
+
 To browse the cleaned data and test custom inputs locally, run `python3 InitialInterfaceTest.py` and open `http://127.0.0.1:8765`. See [interface usage and API](InitialInterfaceTest.md).
 
 The [venom input specification](docs/VenomInputSpecification.md) defines four primary and eight advanced controls, now available in the local composition editor with explanations, evidence links, and live totals. Its phenotype output contract remains a draft; no phenotype inference is implemented. Validate the catalog's database bindings with `python3 scripts/validate_input_spec.py`.

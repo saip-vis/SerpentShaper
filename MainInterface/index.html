@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SerpentShaper · Venom explorer</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar"><a class="brand" href="index.html" aria-label="SerpentShaper home"><span class="brand-icon" aria-hidden="true">S</span><span>serpent<span>shaper</span></span></a><div class="top-meta"><span class="top-label">VENOM EXPLORER</span><span class="prototype-pill">Research prototype</span></div></header>
+<main class="page">
+<div class="intro"><div><div class="eyebrow"><span class="eyebrow-line"></span> A DIFFERENT WAY TO EXPLORE VENOM</div><h1>Shape a possibility.</h1><p>Adjust a venom profile and explore the snakes in our reference collection.</p></div><a class="about-link" href="#how-it-works">How this works <span aria-hidden="true">↗</span></a></div>
+<div class="workspace">
+<section class="panel input-panel" aria-labelledby="input-title"><div class="panel-heading"><div><div class="section-kicker">01 / COMPOSITION</div><h2 id="input-title">Build a profile</h2></div><button class="text-button" id="reset" type="button">Clear all</button></div>
+<p class="muted intro-copy">Start with a measured profile or enter your own percentages.</p>
+<label class="field-label" for="source-profile">STARTING PROFILE</label><div class="select-wrap"><select id="source-profile"></select></div><p class="field-note" id="source-note"></p>
+<div class="divider"></div><div class="section-row"><div><h3>Toxin families</h3><p class="muted">Percentage of the reported profile</p></div><button class="help" id="unknown-help" type="button" aria-label="About unreported values" aria-expanded="false">?</button></div><p class="inline-note" id="unknown-info" hidden>Blank means unknown or unreported. An explicit 0% is a value you entered; missing values are never treated as zero.</p>
+<div id="primary-controls" class="control-list"></div><details class="advanced"><summary><span>More families &amp; peptides</span><span class="summary-icon" aria-hidden="true">+</span></summary><p class="field-note">These are source categories, not individual peptide sequences.</p><div id="advanced-controls" class="control-list"></div></details>
+<details id="retained-section" class="retained" hidden><summary>Other reported categories <span id="retained-count"></span></summary><p class="field-note">Preserved from the selected source profile; not used for reference comparison.</p><div id="retained-list"></div></details>
+<div class="balance"><div class="balance-title"><span>Reported total</span><strong id="total">0%</strong></div><div class="progress" aria-hidden="true"><span id="progress-bar"></span></div><p id="balance-text" class="field-note"></p></div>
+</section>
+<section class="panel visual-panel" aria-labelledby="visual-title"><div class="visual-header"><div><div class="section-kicker">02 / VISUALIZATION</div><h2 id="visual-title">The reference view</h2></div><span class="reference-tag"><span></span> REFERENCE-BASED</span></div>
+<div class="stage-top"><div><span class="stage-label">CURRENT REFERENCE</span><h3 id="snake-name">Loading…</h3><p id="scientific-name" class="scientific"></p></div><div class="segmented" role="group" aria-label="Snake surface"><button type="button" id="dorsal" aria-pressed="true">Dorsal</button><button type="button" id="ventral" aria-pressed="false">Ventral</button></div></div>
+<div class="stage" id="stage"><div class="stage-grid" aria-hidden="true"></div><div id="snake-drawing" class="snake-drawing" aria-live="polite"></div><div id="empty-drawing" class="empty-drawing" hidden>Enter a component to find a reference.</div><span class="stage-caption">ILLUSTRATIVE 2D STUDY</span><span class="stage-mark" aria-hidden="true">SS / 01</span></div>
+<div class="visual-footer"><div><span class="footer-dot"></span><span id="selection-note">Showing an illustrative species preset</span></div><a id="anatomy-link" href="../PhysicalRendererTest/index.html">Open anatomy editor</a></div>
+<div class="disclaimer"><span class="disclaimer-icon">i</span><p><strong>A visualization, not a prediction.</strong> Composition selects a measured reference; it does not determine the snake’s anatomy. No model has been trained for this step.</p></div>
+</section>
+<aside class="panel reference-panel" aria-labelledby="references-title"><div class="panel-heading"><div><div class="section-kicker">03 / EVIDENCE</div><h2 id="references-title">Reference profiles</h2></div></div><p class="muted intro-copy">Compare the values reported in the dataset with your selected components.</p><div class="match-explainer"><span class="match-icon">≋</span><p>Ranked by shared categories, then average difference. Missing values are excluded.</p></div><div id="matches" class="matches" aria-live="polite"></div><div class="reference-footer"><div class="mini-label">ABOUT THE DATA</div><p>Proteomic profiles from the cleaned source dataset. Source categories and species names have not all been reconciled.</p><a id="dataset-link" target="_blank" rel="noopener noreferrer">View source dataset <span aria-hidden="true">↗</span></a></div></aside>
+</div>
+<section class="how" id="how-it-works"><div><div class="section-kicker">A NOTE ON THE SCIENCE</div><h2>Evidence first. Imagination second.</h2></div><p>Venom alone does not establish a snake’s shape, habitat or evolutionary history. This prototype compares reported categories and displays a separately authored species illustration. Individual peptide identities, study uploads and trained generation are not available yet.</p><a href="../InitialInterfaceTest.md">Read about the dataset</a></section>
+<footer><span>SerpentShaper <span class="footer-sep">/</span> VENOM EXPLORER</span><span>Built for exploration, grounded in evidence.</span></footer>
+</main>
+<script src="../PhysicalRendererTest/anatomy.js"></script><script src="../PhysicalRendererTest/presets/species-presets.js"></script><script src="../PhysicalRendererTest/species-geometry.js"></script><script src="../PhysicalRendererTest/head-renderer.js"></script><script src="../PhysicalRendererTest/species-renderer.js"></script><script src="venom-data.js"></script><script src="matching.js"></script><script src="app.js"></script>
+</body></html>
