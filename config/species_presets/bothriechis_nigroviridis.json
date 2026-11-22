@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "preset_id": "bothriechis_nigroviridis",
+  "species_id": "source_d724b5c93da97c82",
+  "source_species_name": "Bothriechis nigroviridis",
+  "common_name": "Black-speckled palm pitviper",
+  "status": "illustrative_unvalidated",
+  "variant": "Dense black reticulation/speckling over yellow-green scales; unlike uniform green bicolor and lightly spotted marchi.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/bothriechis-nigroviridis",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_022_bothriechis_nigroviridis/manifest.json",
+        "image_id": "inat_145853474",
+        "sha256": "dd8a4cd1a3052c66e6977c8c426840cc83017865941756488f1fece16a678393",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_022_bothriechis_nigroviridis/manifest.json",
+        "image_id": "inat_170318693",
+        "sha256": "05413062b033b47cbe6e21d8bffb2bf680e5d4b065cb455e912d7508f28db972",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_022_bothriechis_nigroviridis/manifest.json",
+        "image_id": "inat_311179611",
+        "sha256": "fe4954b35e03fb55e9801156c6299458fa7a0aaf71cff1c2d4da0230b74ac8b8",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_022_bothriechis_nigroviridis/manifest.json",
+        "image_id": "inat_351398117",
+        "sha256": "4906a57e25434e1144ce3f7bfc2e5328fa0047e752c7f9674828d60dfc4aefb6",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_022_bothriechis_nigroviridis/manifest.json",
+        "image_id": "inat_188993665",
+        "sha256": "ec1cfe40a8aa9c924e49074fb0f45acd9831fc7cd1f94d5b3ca1b3c60180e0df",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_145853474": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_170318693": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_311179611": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_351398117": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_188993665": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Broad flat-roofed triangular head with short pointed snout and prominent eye; distinct neck.",
+        "Dense black reticulation/speckling over yellow-green scales; unlike uniform green bicolor and lightly spotted marchi.",
+        "Second rendered comparison: flattened lower jaw, moved posterior skull breadth rearward and straightened postocular marking; removed inflated oval cheek.",
+        "Second rendered comparison: lower-jaw bulge reduced; species pigment treatment refined while retaining authored supraocular/nasal projections.",
+        "Third reference comparison: stronger black scale borders and separate crown mottling added; dense reticulation remains approximate."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_145853474",
+        "inat_170318693",
+        "inat_311179611",
+        "inat_351398117",
+        "inat_188993665"
+      ]
+    },
+    "modeling_flags": [
+      "Uniform procedural speckles underrepresent real scale-specific black reticulation."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "reticulated",
+    "skin_color": "#9da83a",
+    "marking_color": "#24342b",
+    "belly_color": "#bdc06c",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "pointed",
+    "scale_pitch": 4.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 62,
+      "neck": 7,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          7.4399999999999995,
+          -6.783,
+          16.740000000000002,
+          -8.568
+        ],
+        [
+          16.740000000000002,
+          -8.568,
+          29.759999999999998,
+          -12.852,
+          42.779999999999994,
+          -17.136,
+          48.980000000000004,
+          -15.708000000000002
+        ],
+        [
+          48.980000000000004,
+          -15.708000000000002,
+          53.32,
+          -7,
+          57.660000000000004,
+          -7,
+          62,
+          -7
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          4,
+          14.26,
+          7,
+          29.759999999999998,
+          9
+        ],
+        [
+          29.759999999999998,
+          9,
+          40.300000000000004,
+          12,
+          48.36,
+          13,
+          52.08,
+          10
+        ],
+        [
+          52.08,
+          10,
+          55.800000000000004,
+          7,
+          58.9,
+          7,
+          62,
+          7
+        ]
+      ],
+      "eye": [
+        23,
+        -2,
+        3.5,
+        3.8500000000000005
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q21.7 7 43.4 8 L55.800000000000004 3.5",
+      "shields": [],
+      "lip": true,
+      "pit": [
+        12.65,
+        0
+      ],
+      "markings": [
+        {
+          "path": "M7 -4 L14 -7 L20 -4 L17 -1Z M28 -9 L37 -13 L43 -9 L39 -5Z M43 -6 L52 -4 L49 0 L44 -1Z",
+          "fill": "#293b2c"
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        7
+      ],
+      [
+        258,
+        227,
+        10
+      ],
+      [
+        305,
+        249,
+        15
+      ],
+      [
+        390,
+        271,
+        19
+      ],
+      [
+        471,
+        302,
+        20
+      ],
+      [
+        514,
+        347,
+        19
+      ],
+      [
+        502,
+        397,
+        18
+      ],
+      [
+        430,
+        431,
+        17
+      ],
+      [
+        330,
+        445,
+        16
+      ],
+      [
+        253,
+        476,
+        14
+      ],
+      [
+        253,
+        515,
+        11
+      ],
+      [
+        324,
+        550,
+        7
+      ],
+      [
+        400,
+        555,
+        4.5
+      ],
+      [
+        460,
+        546,
+        2.8
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "scale_border_width": 0.8
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

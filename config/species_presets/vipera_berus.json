@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "preset_id": "vipera_berus",
+  "species_id": "source_8dd09feae26fef0b",
+  "source_species_name": "Vipera berus",
+  "common_name": "Adder",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown common adder with a dark dorsal zigzag and red-brown iris.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.infofauna.ch/de/beratungsstellen/reptilien-karch/die-reptilien/arten/kreuzotter",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11387060/",
+        "scope": "Taxonomy, color variation or qualitative morphology."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_144_vipera_berus/manifest.json",
+        "image_id": "inat_2683449",
+        "sha256": "782fd0d97d66952c4a984ae886d1d9b023a253a3f168bf20643f6e00798fef03",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_144_vipera_berus/manifest.json",
+        "image_id": "inat_2703525",
+        "sha256": "de56a8106d6fd57b5c980f576a367a2f3a8d8453cec94d812ec30711afdaa7ee",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_144_vipera_berus/manifest.json",
+        "image_id": "inat_2732539",
+        "sha256": "58e0fad75ec5e64dab217eabd5c2dbda8d26725b133b0b9c83cb93c449c54776",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_2683449": "Head closeup and dark zigzag on a brown form.",
+      "inat_2703525": "Grey-blue patterned individual, showing variation.",
+      "inat_2732539": "Coiled patterned individual and dorsal zigzag."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "pattern",
+      "ventral",
+      "special",
+      "variation"
+    ],
+    "review": "Initial reference-informed draft; further fitting and independent anatomical review required.",
+    "modeling_flags": [
+      "Dark zigzag is an approximation and melanistic individuals also occur; identity cannot be established by color alone.",
+      "Head and body use an adapted viper scaffold; opposite side, underside, and exact shape need further fitting.",
+      "Characteristic dorsal head marking and side spots are not yet represented."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Head closeup and dark zigzag on a brown form.",
+        "Grey-blue patterned individual, showing variation.",
+        "Coiled patterned individual and dorsal zigzag.",
+        "Broadened the continuous zigzag after the first render made it too thin compared with the selected close photograph."
+      ],
+      "projection_limit": "Single 2D projection; geometry is artistic and not morphometric.",
+      "reference_ids": [
+        "inat_2683449",
+        "inat_2703525",
+        "inat_2732539"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "dorsal_zigzag",
+    "skin_color": "#a49885",
+    "marking_color": "#3d3833",
+    "belly_color": "#d7cabc",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 4.7,
+    "mark_spacing": 53,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 65,
+      "neck": 8.2,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -1.14035,
+          -6.0,
+          7.98246,
+          -9.6,
+          20.52632,
+          -12.0
+        ],
+        [
+          20.52632,
+          -12.0,
+          30.78947,
+          -14.4,
+          45.61404,
+          -18.0,
+          54.73684,
+          -14.4
+        ],
+        [
+          54.73684,
+          -14.4,
+          59.29825,
+          -12.0,
+          61.57895,
+          -8.2,
+          65,
+          -8.2
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          1.14035,
+          4.4,
+          9.12281,
+          7.7,
+          22.80702,
+          9.9
+        ],
+        [
+          22.80702,
+          9.9,
+          33.07018,
+          12.1,
+          45.61404,
+          13.2,
+          54.73684,
+          11.0
+        ],
+        [
+          54.73684,
+          11.0,
+          59.29825,
+          9.35,
+          61.57895,
+          8.2,
+          65,
+          8.2
+        ]
+      ],
+      "eye": [
+        25,
+        -3,
+        3.4,
+        3.6
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q22.8 6 45.5 8 L58.5 4",
+      "shields": [],
+      "lip": true,
+      "markings": [],
+      "micro_scales": true,
+      "iris_color": "#a75b50"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.5
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        26
+      ],
+      [
+        471,
+        302,
+        28
+      ],
+      [
+        514,
+        347,
+        27
+      ],
+      [
+        502,
+        397,
+        26
+      ],
+      [
+        430,
+        431,
+        24
+      ],
+      [
+        330,
+        445,
+        23
+      ],
+      [
+        253,
+        476,
+        22
+      ],
+      [
+        253,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        19
+      ],
+      [
+        400,
+        555,
+        16
+      ],
+      [
+        460,
+        546,
+        11
+      ],
+      [
+        510,
+        528,
+        5
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "zigzag_width": 0.38
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

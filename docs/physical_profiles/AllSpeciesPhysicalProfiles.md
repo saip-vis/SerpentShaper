@@ -221,6 +221,7 @@ Pilot folders: `data/image_pilots/pilot_010_agkistrodon_bilineatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `surface_texture`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -257,6 +258,7 @@ Pilot folders: `data/image_pilots/pilot_011_agkistrodon_contortrix`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Account uses the historical southern-copperhead subspecies name; retain geographic scope.
 - **Data issue:** Juvenile column header says maximum but definition says mean; statistic unresolved.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -295,6 +297,7 @@ Pilot folders: `data/image_pilots/pilot_012_agkistrodon_piscivorus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Historical range statements may include the separately recognized Florida cottonmouth; do not transfer its photographs automatically.
 - **Data issue:** Juvenile column header says maximum but definition says mean; statistic unresolved.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -333,6 +336,7 @@ Pilot folders: `data/image_pilots/pilot_013_agkistrodon_taylori`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Data issue:** Juvenile column header says maximum but definition says mean; statistic unresolved.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `sex_variant`. These are interface/design suggestions, not biological measurements.
@@ -370,6 +374,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Regional description; other populations need separate documentation.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -407,6 +412,7 @@ Pilot folders: `data/image_pilots/pilot_008_olive_sea_snake`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -443,6 +449,7 @@ Pilot folders: `data/image_pilots/pilot_014_aspidelaps_lubricus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -479,6 +486,7 @@ Pilot folders: `data/image_pilots/pilot_015_aspidelaps_scutatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `special_feature_geometry`, `surface_texture`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -515,6 +523,7 @@ Pilot folders: `data/image_pilots/pilot_016_atropoides_picadoi`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -551,6 +560,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Museum account covers three Austrelaps species; do not import larger-species dimensions as labialis measurements.
 - **Data issue:** Juvenile column header says maximum but definition says mean; statistic unresolved.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -589,6 +599,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Historical account predates the split of A. kharini; locality and name scope require review.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -626,6 +637,7 @@ Pilot folders: `data/image_pilots/pilot_005_puff_adder`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Color and pattern vary regionally.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -663,6 +675,7 @@ Pilot folders: `data/image_pilots/pilot_017_bitis_caudalis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Dwarf-adder account includes other Bitis species; use only its caudalis section.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
@@ -700,6 +713,7 @@ Pilot folders: `data/image_pilots/pilot_009_gaboon_viper`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Historical gabonica treatment may include western populations now assigned to B. rhinoceros.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
@@ -737,6 +751,7 @@ Pilot folders: `data/image_pilots/pilot_018_bitis_nasicornis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Horn arrangement differs from the shorter nasal projections described for gabonica.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
@@ -774,6 +789,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -810,6 +826,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Puerto Rico field account; cited 80 cm measurement is SVL, not total length.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
@@ -847,6 +864,7 @@ Pilot folders: `data/image_pilots/pilot_019_bothriechis_aurifer`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -883,6 +901,7 @@ Pilot folders: `data/image_pilots/pilot_020_bothriechis_bicolor`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -919,6 +938,7 @@ Pilot folders: `data/image_pilots/pilot_021_bothriechis_marchi`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Honduras field observations.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -956,6 +976,7 @@ Pilot folders: `data/image_pilots/pilot_022_bothriechis_nigroviridis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -992,6 +1013,7 @@ Pilot folders: `data/image_pilots/pilot_023_bothriechis_schlegelii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** The eyelash-viper group has competing recent taxonomic treatments; historical locality and species scope require checking. [Reference](https://icp.ucr.ac.cr/es/informacion-y-materiales/serpientes-venenosas-de-costa-rica/bothriechis-schlegelii)
 - **Source scope:** The Costa Rican account uses a historical schlegelii scope. Recent species-boundary proposals conflict; do not reassign catalog identity automatically.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -1030,6 +1052,7 @@ Pilot folders: `data/image_pilots/pilot_024_bothriechis_supraciliaris`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1066,6 +1089,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1102,6 +1126,7 @@ Pilot folders: `data/image_pilots/pilot_026_bothrocophias_campbelli`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Exact species identity needs care; genus-level similarity is insufficient. [Reference](https://herpetologynotes.org/index.php/hn/article/download/278/120/2426)
 - **Source scope:** The lowland record discusses uncertain identification within Bothrocophias. Its photographed animal is not adopted as a verified species-wide morphology.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -1140,6 +1165,7 @@ Pilot folders: `data/image_pilots/pilot_027_bothrops_alternatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1176,6 +1202,7 @@ Pilot folders: `data/image_pilots/pilot_028_bothrops_asper`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `surface_texture`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1212,6 +1239,7 @@ Pilot folders: `data/image_pilots/pilot_029_bothrops_atrox`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1248,6 +1276,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -1285,6 +1314,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** ReptTraits reports a coarse green dorsal-color category. Do not use it as a preset without corroboration; the current descriptive search did not resolve its palette or pattern.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`. These are interface/design suggestions, not biological measurements.
@@ -1322,6 +1352,7 @@ Pilot folders: `data/image_pilots/pilot_032_bothrops_caribbaeus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1358,6 +1389,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Historical northern-Venezuelan label within the disputed asper–atrox complex; do not automatically merge. [Reference](https://www.sciencedirect.com/science/article/pii/S187439190900013X)
 - **Source scope:** Morphology and numerical size remain unpopulated until species scope is resolved.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -1396,6 +1428,7 @@ Pilot folders: `data/image_pilots/pilot_034_bothrops_cotiara`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1432,6 +1465,7 @@ Pilot folders: `data/image_pilots/pilot_035_bothrops_diporus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `surface_texture`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1468,6 +1502,7 @@ Pilot folders: `data/image_pilots/pilot_036_bothrops_erythromelas`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1504,6 +1539,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1540,6 +1576,7 @@ Pilot folders: `data/image_pilots/pilot_037_bothrops_insularis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Island-endemic species studied separately from continental Bothrops. [Reference](https://www.butantan.gov.br/noticias/pesquisadores-do-instituto-butantan-realizam-primeiro-sequenciamento-do-genoma-de-uma-serpente-insular-endemica-do-brasil)
 - **Source scope:** Source is a genomics report; no appearance traits are inferred from that report.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -1578,6 +1615,7 @@ Pilot folders: `data/image_pilots/pilot_006_jararaca`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1614,6 +1652,7 @@ Pilot folders: `data/image_pilots/pilot_038_bothrops_jararacussu`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Adult male and female patterns require separate presets rather than one combined design.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `life_stage_variant`, `locality_variant`, `sex_variant`. These are interface/design suggestions, not biological measurements.
@@ -1651,6 +1690,7 @@ Pilot folders: `data/image_pilots/pilot_039_bothrops_lanceolatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Legacy account; its maximum-length statements are not used as rendering defaults.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
@@ -1688,6 +1728,7 @@ Pilot folders: `data/image_pilots/pilot_040_bothrops_leucurus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1724,6 +1765,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1760,6 +1802,7 @@ Pilot folders: `data/image_pilots/pilot_041_bothrops_neuwiedi`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Species separated from other members of the former neuwiedi complex using qualitative morphology. [Reference](https://doi.org/10.11606/issn.2316-9079.v7i1p45-90)
 - **Source scope:** Do not copy pauloensis or diporus facial patterns into this species.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -1798,6 +1841,7 @@ Pilot folders: `data/image_pilots/pilot_042_bothrops_pauloensis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `sex_variant`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1834,6 +1878,7 @@ Pilot folders: `data/image_pilots/pilot_043_bothrops_pictus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1870,6 +1915,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1906,6 +1952,7 @@ Pilot folders: `data/image_pilots/pilot_045_bothrops_punctatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Traits taken from the explicit punctatus comparison, not the asper description.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
@@ -1943,6 +1990,7 @@ Pilot folders: `data/image_pilots/pilot_046_bungarus_caeruleus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -1979,6 +2027,7 @@ Pilot folders: `data/image_pilots/pilot_047_bungarus_candidus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2015,6 +2064,7 @@ Pilot folders: `data/image_pilots/pilot_048_bungarus_fasciatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2051,6 +2101,7 @@ Pilot folders: `data/image_pilots/pilot_049_bungarus_flaviceps`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2087,6 +2138,7 @@ Pilot folders: `data/image_pilots/pilot_050_bungarus_multicinctus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2123,6 +2175,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Keep uncertain identifications separate from confirmed morphology. [Reference](https://www.jstage.jst.go.jp/article/tmh/40/3/40_2012-08c/_html/-char/en)
 - **Source scope:** Very similar externally to caeruleus; photographed clinical specimen is identified as cf. sindanus, not certain species identity.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -2161,6 +2214,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Catalog spelling bivirgata is retained; account uses bivirgatus. [Reference](https://m.singapore.biodiversity.online/taxo4254/mainSpace/Calliophis%20bivirgatus.html)
 - **Source scope:** Regional description; numerical proportions are not imported.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -2199,6 +2253,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2235,6 +2290,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2271,6 +2327,7 @@ Pilot folders: `data/image_pilots/pilot_052_cerastes_cerastes`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Egyptian environmental survey description; hornlessness alone should not be treated as injury.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `head_neck_transition`, `head_outline`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
@@ -2308,6 +2365,7 @@ Pilot folders: `data/image_pilots/pilot_053_cerastes_vipera`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Population-level findings, not an infallible sexing rule.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `life_stage_variant`, `locality_variant`, `sex_variant`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
@@ -2345,6 +2403,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Genus revised in 2012; historical Southeast Asian rynchops accounts can refer to schneiderii. [Reference](https://www.academia.edu/1377082/2012_The_Dog_faced_Water_Snakes_A_Revision_of_the_Genus_Cerberus_Cuvier_Squamata_Serpentes_Homalopsidae_With_the_Description_of_a_New_Species_Zootaxa_3484_1_34_Murphy_Voris_Karns_)
 - **Source scope:** Do not import Singapore dog-faced-water-snake appearance automatically into this catalog label.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -2383,6 +2442,7 @@ Pilot folders: `data/image_pilots/pilot_054_cerrophidion_godmani`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Historical godmani records can include populations subsequently split as sasai or wilsoni. [Reference](https://jadinsystematicslab.wordpress.com/wp-content/uploads/2018/10/jadin-et-al-cerrophidion-revision-zoologica-scripta12.pdf)
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
@@ -2420,6 +2480,7 @@ Pilot folders: `data/image_pilots/pilot_055_cerrophidion_sasai`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2456,6 +2517,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Historical revision treats multiple lineatus forms; color-pattern scope must accompany locality. [Reference](https://www.gutenberg.org/cache/epub/37512/pg37512-images.html)
 - **Source scope:** Do not use an illustration of another Conophis species as a lineatus shape target.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -2494,6 +2556,7 @@ Pilot folders: `data/image_pilots/pilot_056_crotalus_adamanteus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2532,6 +2595,7 @@ See the existing [detailed starter description](../StarterSpeciesPhysicalProfile
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `surface_texture`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2568,6 +2632,7 @@ Pilot folders: `data/image_pilots/pilot_057_crotalus_basiliscus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -2605,6 +2670,7 @@ Pilot folders: `data/image_pilots/pilot_058_crotalus_culminatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -2642,6 +2708,7 @@ Pilot folders: `data/image_pilots/pilot_059_crotalus_durissus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -2679,6 +2746,7 @@ Pilot folders: `data/image_pilots/pilot_060_crotalus_horridus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Missouri description; regional variants differ.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
@@ -2716,6 +2784,7 @@ Pilot folders: `data/image_pilots/pilot_061_crotalus_oreganus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Washington account; historical western-rattlesnake labels can cover other taxa.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `iris_palette`, `life_stage_variant`, `locality_variant`, `pupil_shape`, `sex_variant`, `surface_texture`. These are interface/design suggestions, not biological measurements.
@@ -2753,6 +2822,7 @@ Pilot folders: `data/image_pilots/pilot_062_crotalus_polystictus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2789,6 +2859,7 @@ Pilot folders: `data/image_pilots/pilot_063_crotalus_scutulatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Comparative field description, not an absolute thickness measurement.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -2826,6 +2897,7 @@ Pilot folders: `data/image_pilots/pilot_064_crotalus_simus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2862,6 +2934,7 @@ Pilot folders: `data/image_pilots/pilot_065_crotalus_tigris`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -2899,6 +2972,7 @@ Pilot folders: `data/image_pilots/pilot_066_crotalus_tzabcan`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Color variants are retained without assuming a venom relationship.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `life_stage_variant`, `locality_variant`, `sex_variant`. These are interface/design suggestions, not biological measurements.
@@ -2936,6 +3010,7 @@ Pilot folders: `data/image_pilots/pilot_067_crotalus_viridis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `head_neck_transition`, `head_outline`, `iris_palette`, `pupil_shape`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -2972,6 +3047,7 @@ Pilot folders: `data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** These two catalog labels share a documented synonym relationship; do not count them as independent species. [Reference](https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/487)
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -3009,6 +3085,7 @@ Pilot folders: `data/image_pilots/pilot_069_daboia_russelii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Western form in the study; do not substitute the eastern siamensis pattern.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -3046,6 +3123,7 @@ Pilot folders: `data/image_pilots/pilot_070_daboia_siamensis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Description refers to the study comparison, not a numerical pattern generator.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -3083,6 +3161,7 @@ Pilot folders: `data/image_pilots/pilot_071_deinagkistrodon_acutus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`. These are interface/design suggestions, not biological measurements.
@@ -3120,6 +3199,7 @@ Pilot folders: `data/image_pilots/pilot_072_dendroaspis_angusticeps`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Distinguish from green boomslang and Philothamnus; shared color does not establish identity.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -3159,6 +3239,7 @@ See the existing [detailed starter description](../StarterSpeciesPhysicalProfile
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3195,6 +3276,7 @@ Pilot folders: `data/image_pilots/pilot_007_boomslang`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Eye color and size from photographed juveniles are not universal adult measurements.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `iris_palette`, `pupil_shape`. These are interface/design suggestions, not biological measurements.
@@ -3232,6 +3314,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3268,6 +3351,7 @@ Pilot folders: `data/image_pilots/pilot_073_echis_carinatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `head_neck_transition`, `head_outline`, `surface_texture`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3304,6 +3388,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -3341,6 +3426,7 @@ Pilot folders: `data/image_pilots/pilot_074_echis_ocellatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3377,6 +3463,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Captive-observation account and historical species treatment.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -3414,6 +3501,7 @@ Pilot folders: `data/image_pilots/pilot_075_gloydius_brevicaudus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Name treatment differs; catalog label retained. [Reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC12381584/)
 - **Source scope:** Specimen-level morphology is published under brevicauda. Measurements from individual vouchers must not be treated as species means.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -3452,6 +3540,7 @@ Pilot folders: `data/image_pilots/pilot_076_hemachatus_haemachatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Its texture must not be replaced by the smooth-scale template of Naja.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `special_feature_geometry`, `surface_texture`. These are interface/design suggestions, not biological measurements.
@@ -3489,6 +3578,7 @@ Pilot folders: `data/image_pilots/pilot_077_hydrophis_curtus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Western-range identification study; retain regional scope.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -3526,6 +3616,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3562,6 +3653,7 @@ Pilot folders: `data/image_pilots/pilot_078_hydrophis_platurus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Museum account uses Pelamis platurus.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
@@ -3599,6 +3691,7 @@ Pilot folders: `data/image_pilots/pilot_079_hydrophis_schistosus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Western-range specimen study; age and regional variation remain relevant.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
@@ -3636,6 +3729,7 @@ Pilot folders: `data/image_pilots/pilot_080_hypnale_hypnale`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** The NCDC guide describes a raised snout. This conflicts with the taxonomic revision; do not set a hump-height parameter until reconciled.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
@@ -3673,6 +3767,7 @@ Pilot folders: `data/image_pilots/pilot_081_lachesis_acrochorda`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Retain species-specific scope rather than combining all bushmaster measurements.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `surface_texture`. These are interface/design suggestions, not biological measurements.
@@ -3710,6 +3805,7 @@ Pilot folders: `data/image_pilots/pilot_082_lachesis_melanocephala`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3746,6 +3842,7 @@ Pilot folders: `data/image_pilots/pilot_083_lachesis_muta`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `surface_texture`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3782,6 +3879,7 @@ Pilot folders: `data/image_pilots/pilot_084_lachesis_stenophrys`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3818,6 +3916,7 @@ Pilot folders: `data/image_pilots/pilot_085_laticauda_colubrina`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -3854,6 +3953,7 @@ Pilot folders: `data/image_pilots/pilot_086_macrovipera_lebetina`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** The regional obtusa treatment is not a description of every lebetina population.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `head_neck_transition`, `head_outline`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -3891,6 +3991,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Molecular work supports its placement with Daboia; the workbook uses Daboia mauritanica. [Reference](https://pubmed.ncbi.nlm.nih.gov/15737580/)
 - **Source scope:** Source label retained. No new workbook join or appearance inference is made from the phylogenetic result.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -3929,6 +4030,7 @@ Pilot folders: `data/image_pilots/pilot_087_metlapilcoatlus_nummifer`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -3966,6 +4068,7 @@ Pilot folders: `data/image_pilots/pilot_088_micropechis_ikaheka`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Account uses ikaheka; existing lookup alias is ikaheca.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -4003,6 +4106,7 @@ Pilot folders: `data/image_pilots/pilot_089_micrurus_alleni`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4039,6 +4143,7 @@ Pilot folders: `data/image_pilots/pilot_090_micrurus_altirostris`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Ring group distinguishes it from the corallinus comparison in this key, not every coral snake.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -4076,6 +4181,7 @@ Pilot folders: `data/image_pilots/pilot_091_micrurus_browni`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -4113,6 +4219,7 @@ Pilot folders: `data/image_pilots/pilot_092_micrurus_clarki`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4149,6 +4256,7 @@ Pilot folders: `data/image_pilots/pilot_093_micrurus_corallinus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4185,6 +4293,7 @@ Pilot folders: `data/image_pilots/pilot_094_micrurus_dumerilii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Historical corallinus dumerilii treatment; geographically restrict before using as an appearance preset.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -4222,6 +4331,7 @@ Pilot folders: `data/image_pilots/pilot_095_micrurus_frontalis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** No exact ring count or width distribution is inferred.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -4259,6 +4369,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Regional appearance only; no universal coral-snake color mnemonic is implemented.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -4296,6 +4407,7 @@ Pilot folders: `data/image_pilots/pilot_096_micrurus_lemniscatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Rare pigment variation is not an injury. It should remain separate from the ordinary-color reference preset.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
@@ -4333,6 +4445,7 @@ Pilot folders: `data/image_pilots/pilot_097_micrurus_mipartitus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4369,6 +4482,7 @@ Pilot folders: `data/image_pilots/pilot_098_micrurus_mosquitensis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4405,6 +4519,7 @@ Pilot folders: `data/image_pilots/pilot_099_micrurus_nigrocinctus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4441,6 +4556,7 @@ Pilot folders: `data/image_pilots/pilot_100_micrurus_paraensis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4477,6 +4593,7 @@ Pilot folders: `data/image_pilots/pilot_101_micrurus_spixii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Complex revised using 358 specimens; spixii and obscurus recognized as separate taxa. [Reference](https://www.mapress.com/zt/article/view/zootaxa.4668.3.4)
 - **Source scope:** Do not combine their historical color-pattern data automatically.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -4515,6 +4632,7 @@ Pilot folders: `data/image_pilots/pilot_102_micrurus_surinamensis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4551,6 +4669,7 @@ Pilot folders: `data/image_pilots/pilot_103_micrurus_tschudii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Use ring arrangement and geographic scope, not a generic red-yellow-black preset.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -4588,6 +4707,7 @@ Pilot folders: `data/image_pilots/pilot_104_montivipera_raddei`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Study distinguishes members of the raddei complex; do not pool albicornuta or latifii patterns.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -4625,6 +4745,7 @@ Pilot folders: `data/image_pilots/pilot_105_naja_annulifera`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4661,6 +4782,7 @@ Pilot folders: `data/image_pilots/pilot_106_naja_atra`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Neotype-based treatment distinguishes atra from regional kaouthia-like populations. [Reference](https://biosch.hku.hk/ecology/hkreptiles/snake/Naja_atra.html)
 - **Source scope:** Hong Kong description; retain regional scope and the neotype-based taxonomy caution.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -4699,6 +4821,7 @@ Pilot folders: `data/image_pilots/pilot_107_naja_haje`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Libyan account; do not automatically transfer West African historical haje records.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
@@ -4724,21 +4847,22 @@ Pilot folders: `data/image_pilots/pilot_108_naja_kaouthia`
 
 ### Shape, surface and appearance
 
-- **Body:** No species-specific description extracted for this field; leave unknown.
-- **Head:** No species-specific description extracted for this field; leave unknown.
-- **Tail:** No species-specific description extracted for this field; leave unknown.
-- **Scales:** No species-specific description extracted for this field; leave unknown.
-- **Pattern:** No species-specific description extracted for this field; leave unknown.
-- **Ventral:** No species-specific description extracted for this field; leave unknown.
-- **Eyes:** Relatively small eyes in the examined material. [Source](https://thesiamsociety.org/wp-content/uploads/2020/04/NHBSS_024_3-4d_Soderberg_OnElevenAsianEl.pdf)
-- **Special:** Expandable neck hood. [Source](https://thesiamsociety.org/wp-content/uploads/2020/04/NHBSS_024_3-4d_Soderberg_OnElevenAsianEl.pdf)
-- **Variation:** No species-specific description extracted for this field; leave unknown.
+- **Body:** Robust, cylindrical trunk; do not interpret robustness as a measured width ratio. [Source](https://journal.vnuf.edu.vn/en/article/download/503/428/842)
+- **Head:** Head distinct from neck; short, squarish frontal shield. Exact outline and width require healthy living reference views. [Source](https://journal.vnuf.edu.vn/en/article/download/503/428/842)
+- **Tail:** Tail described as short in the general diagnosis. Do not use the Son La specimen for tail proportions: its tail was lost. [Source](https://journal.vnuf.edu.vn/en/article/download/503/428/842)
+- **Scales:** Smooth, glossy dorsal scales. Use anatomical scale direction; a uniform diamond grid is not a scale reconstruction. [Source](https://journal.vnuf.edu.vn/en/article/download/503/428/842)
+- **Pattern:** Dorsal hood typically has a pale ring enclosing a dark centre; mask-like variants and small dark spots within the pale area occur. Do not substitute paired spectacle loops. [Source](https://www.academia.edu/1479078/W%C3%BCster_W_1998_The_cobras_of_the_genus_Naja_in_India_Hamadryad_23_15_32)
+- **Ventral:** Pale throat with lateral dark spots; a darker band may follow. Keep this surface separate from the dorsal hood marking. [Source](https://journal.vnuf.edu.vn/en/article/download/503/428/842)
+- **Eyes:** Round pupil. Eye size descriptions differ between historical material and the Son La specimen; no numerical eye-size default. [Source](https://journal.vnuf.edu.vn/en/article/download/503/428/842)
+- **Special:** Rounded expanded hood belongs to the neck below the head; record expanded versus relaxed display state explicitly. [Source](https://journal.vnuf.edu.vn/en/article/download/503/428/842)
+- **Variation:** Color, body banding and hood pattern vary with region and life stage. A 2022 revision separates some former Chinese kaouthia as Naja fuxi; retain original dataset names and review reference identities. [Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC9774835/)
 
 ### Variation, limits and proposed rendering controls
 
-- **Source scope:** Historical kaouthia account; an individual measured in Thailand is not a species-wide proportion template.
+- **Illustration readiness:** brief drafted reference selection pending. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
+- **Source scope:** 2021 introduction summarizes earlier diagnoses; results describe one preserved, tail-damaged female. Do not treat specimen color, tail length or one locality as a healthy living species template. Shape ratios and calibrated colors remain unknown.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
-- **Proposed controls:** `display_state`, `iris_palette`, `pupil_shape`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
+- **Proposed controls:** `display_state`, `dorsal_palette`, `head_neck_transition`, `head_outline`, `iris_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `pupil_shape`, `sex_variant`, `special_feature_geometry`, `surface_texture`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
 
 ## Naja katiensis
@@ -4773,6 +4897,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4809,6 +4934,7 @@ Pilot folders: `data/image_pilots/pilot_110_naja_melanoleuca`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** Former forest-cobra complex split using morphology and molecular evidence. [Reference](https://doi.org/10.11646/zootaxa.4455.1.3)
 - **Source scope:** Historical melanoleuca labels may include other forest-cobra species; locality matters.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -4847,6 +4973,7 @@ Pilot folders: `data/image_pilots/pilot_111_naja_mossambica`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `special_feature_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4885,6 +5012,7 @@ See the existing [detailed starter description](../StarterSpeciesPhysicalProfile
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4921,6 +5049,7 @@ Pilot folders: `data/image_pilots/pilot_112_naja_nigricollis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4957,6 +5086,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -4993,6 +5123,7 @@ Pilot folders: `data/image_pilots/pilot_114_naja_pallida`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -5029,6 +5160,7 @@ Pilot folders: `data/image_pilots/pilot_115_naja_sputatrix`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Historical subspecies nomenclature; regional specimen description is not a range-wide color preset.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `head_neck_transition`, `head_outline`. These are interface/design suggestions, not biological measurements.
@@ -5066,6 +5198,7 @@ Pilot folders: `data/image_pilots/pilot_116_notechis_scutatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Data issue:** Juvenile column header says maximum but definition says mean; statistic unresolved.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`. These are interface/design suggestions, not biological measurements.
@@ -5103,6 +5236,7 @@ Pilot folders: `data/image_pilots/pilot_117_ophiophagus_hannah`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** The former broad king-cobra label was revised into four species in 2024. [Reference](https://doi.org/10.5852/ejt.2024.961.2681)
 - **Source scope:** This appearance applies to the restricted modern concept; historical venom labels may cover other king-cobra species.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -5141,6 +5275,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Do not draw the tall horn of another Ophryacus species.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
@@ -5178,6 +5313,7 @@ Pilot folders: `data/image_pilots/pilot_119_ovophis_convictus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** The paper explicitly uses peninsular-Malaysian convictus as the morphological example; do not transfer it to every Ovophis.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -5215,6 +5351,7 @@ Pilot folders: `data/image_pilots/pilot_120_ovophis_monticola`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Species-comparison table; not a fitted body-shape model.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -5252,6 +5389,7 @@ Pilot folders: `data/image_pilots/pilot_121_ovophis_okinavensis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Color study used 11 individuals; it does not establish the full geographic variation.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -5289,6 +5427,7 @@ Pilot folders: `data/image_pilots/pilot_122_ovophis_tonkinensis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -5327,6 +5466,7 @@ See the existing [detailed starter description](../StarterSpeciesPhysicalProfile
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Data issue:** Juvenile column header says maximum but definition says mean; statistic unresolved.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `head_neck_transition`, `head_outline`, `iris_palette`, `life_stage_variant`, `locality_variant`, `pupil_shape`, `sex_variant`, `surface_texture`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
@@ -5364,6 +5504,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Population and taxonomic scope should accompany striped versus unstriped variants.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -5401,6 +5542,7 @@ Pilot folders: `data/image_pilots/pilot_123_porthidium_lansbergii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -5438,6 +5580,7 @@ Pilot folders: `data/image_pilots/pilot_124_porthidium_nasutum`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -5474,6 +5617,7 @@ Pilot folders: `data/image_pilots/pilot_125_porthidium_ophryomegas`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -5510,6 +5654,7 @@ Pilot folders: `data/image_pilots/pilot_126_porthidium_porrasi`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Holotype dimensions are individual measurements, not species averages.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `head_neck_transition`, `head_outline`. These are interface/design suggestions, not biological measurements.
@@ -5547,6 +5692,7 @@ Pilot folders: `data/image_pilots/pilot_127_protobothrops_flavoviridis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Amami-Oshima public natural-history account; no measured shape inferred.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -5584,6 +5730,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Single clinical observation; no population-level default inferred.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -5621,6 +5768,7 @@ Pilot folders: `data/image_pilots/pilot_129_protobothrops_mucrosquamatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Taiwan museum account; specimen dimensions are not substituted for species averages.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`. These are interface/design suggestions, not biological measurements.
@@ -5658,6 +5806,7 @@ Pilot folders: `data/image_pilots/pilot_130_pseudechis_australis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Keep juvenile build separate from adult build.
 - **Data issue:** Juvenile column header says maximum but definition says mean; statistic unresolved.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
@@ -5696,6 +5845,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -5732,6 +5882,7 @@ Pilot folders: `data/image_pilots/pilot_132_rhinobothryum_bovallii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Resemblance to coralsnakes is not a species identification rule.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -5769,6 +5920,7 @@ Pilot folders: `data/image_pilots/pilot_133_sistrurus_catenatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `iris_palette`, `pattern_contrast`, `pattern_geometry`, `pupil_shape`, `surface_texture`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -5805,6 +5957,7 @@ Pilot folders: `data/image_pilots/pilot_134_sistrurus_miliarius`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Southern Florida barbouri population, not the entire species range.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
@@ -5842,6 +5995,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -5878,6 +6032,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Historical/regional account; no universal color distribution inferred.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -5915,6 +6070,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -5951,6 +6107,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -5988,6 +6145,7 @@ Pilot folders: `data/image_pilots/pilot_136_trimeresurus_albolabris`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Complex boundaries require geographic context.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -6025,6 +6183,7 @@ Pilot folders: `data/image_pilots/pilot_137_trimeresurus_insularis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Do not force a blue preset for every island population.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -6062,6 +6221,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `iris_palette`, `pattern_contrast`, `pattern_geometry`, `pupil_shape`, `tail_outline`, `tail_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -6098,6 +6258,7 @@ Pilot folders: `data/image_pilots/pilot_138_trimeresurus_puniceus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Shared description does not make the two species interchangeable.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`. These are interface/design suggestions, not biological measurements.
@@ -6135,6 +6296,7 @@ Pilot folders: `data/image_pilots/pilot_139_trimeresurus_purpureomaculatus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Taxonomy:** These two catalog labels share a documented synonym relationship; do not count them as independent species. [Reference](https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/487)
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `surface_texture`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -6172,6 +6334,7 @@ Pilot folders: `data/image_pilots/pilot_140_trimeresurus_stejnegeri`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`, `tail_outline`, `tail_pattern`, `trunk_taper`, `trunk_width`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -6208,6 +6371,7 @@ Pilot folders: `data/image_pilots/pilot_141_trimeresurus_wiroti`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Shared description does not make the two species interchangeable.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`. These are interface/design suggestions, not biological measurements.
@@ -6245,6 +6409,7 @@ Pilot folders: `data/image_pilots/pilot_142_tropidolaemus_wagleri`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Separate adult male, adult female and juvenile presets.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `sex_variant`, `trunk_taper`, `trunk_width`. These are interface/design suggestions, not biological measurements.
@@ -6282,6 +6447,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `display_state`, `dorsal_palette`, `pattern_contrast`, `pattern_geometry`, `special_feature_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -6318,6 +6484,7 @@ Pilot folders: No downloaded photos in the catalog.
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -6355,6 +6522,7 @@ Pilot folders: `data/image_pilots/pilot_143_vipera_aspis`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `head_neck_transition`, `head_outline`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -6391,6 +6559,7 @@ Pilot folders: `data/image_pilots/pilot_144_vipera_berus`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `iris_palette`, `pattern_contrast`, `pupil_shape`, `surface_texture`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.
@@ -6427,6 +6596,7 @@ Pilot folders: `data/image_pilots/pilot_145_vipera_kaznakovi`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Captive reproductive observation, not all populations.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
@@ -6464,6 +6634,7 @@ Pilot folders: `data/image_pilots/pilot_146_vipera_nikolskii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Does not imply every life stage or population must be uniformly black.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `pattern_contrast`, `pattern_geometry`. These are interface/design suggestions, not biological measurements.
@@ -6501,6 +6672,7 @@ Pilot folders: `data/image_pilots/pilot_147_vipera_orlovi`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Retain the original diagnosis scope and modern taxonomic uncertainty.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `head_neck_transition`, `head_outline`. These are interface/design suggestions, not biological measurements.
@@ -6538,6 +6710,7 @@ Pilot folders: `data/image_pilots/pilot_148_vipera_renardii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Source scope:** Compiled trait values are retained below. Species-specific shape, surface and age/sex variation are not yet extracted from an adequate descriptive source; do not fill from a congener.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** Choose controls after obtaining a descriptive source or consulting the starter profile.. These are interface/design suggestions, not biological measurements.
@@ -6575,6 +6748,7 @@ Pilot folders: `data/image_pilots/pilot_149_vipera_ursinii`
 
 ### Variation, limits and proposed rendering controls
 
+- **Illustration readiness:** illustration brief not written. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.
 - **Unmeasured:** head/body width ratios, tail/body length ratios, calibrated colors and population distributions.
 - **Proposed controls:** `dorsal_palette`, `life_stage_variant`, `locality_variant`, `pattern_contrast`, `pattern_geometry`, `sex_variant`, `surface_texture`, `ventral_palette`, `ventral_pattern`. These are interface/design suggestions, not biological measurements.
 - **Reference views:** full-body dorsal/lateral, head detail, and ventral detail only when relevant. No image review is required to read this profile.

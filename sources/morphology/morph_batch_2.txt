@@ -1,0 +1,239 @@
+﻿Systematic revision of the Eyelash Palm-Pitviper Bothriechis schlegelii (Serpentes, Viperidae), with the description of five new species and revalidation of three (https://www.sciencedirect.com/org/science/article/pii/S2535073024000068)
+ [wordlim: 200] Crawled: 3 months ago; ﻿Systematic revision of the Eyelash Palm-Pitviper Bothriechis schlegelii (Serpentes, Viperidae), with the description of five new species and revalidation of three ... With the exception of Bothriechis supraciliaris, all of the aforementioned names have subsequently been subsumed under B. schlegelii (see Boulenger 1896; Daniel 1949; Peters and Orejas-Miranda 1970; Campbell and Lamar 2004; Wallach et al. 2014) into what is now considered a widely distributed species exhibiting remarkable variation in coloration, scale counts, shape of the supraciliary scales (Kuch and Freire 1995; Campbell and Lamar 2004; Hurtado-Gómez 2009), genetics (Wüster et al. ... Iris color  | Rich dark reddish brown  | Light green, yellow, or reddish brown with black reticulations  | Pale green or straw yellow  | Green to yellow with fine black speckles, spots, or reticulations  | Pale straw yellow to golden with black reticulations or spots  | Pale golden yellow to light green with or without black speckles or spots  | Pale straw yellow with fine black speckles  | Pale orange, light green, or golden yellow usually without speckles  | Straw yellow with fine black speckles  | Pale bluish-green or straw yellow with fine black speckling
+
+## Evolutionary Systematics
+
+Volume 8, Issue 1, 2024, Pages 15-64
+
+# 
+
+Research Article
+
+﻿Systematic revision of the Eyelash Palm-Pitviper Bothriechis schlegelii (Serpentes, Viperidae), with the description of five new species and revalidation of three
+
+https://doi.org/10.3897/evolsyst.8.114527
+
+Under a Creative Commons license
+
+Open access
+
+## ﻿Abstract
+
+We present a taxonomic review and systematic revision of the Eyelash Palm-Pitviper Bothriechis schlegelii (Berthold, 1846) based on examination of 400 museum specimens, a phylogeographic analysis of 818 locality records, and 80 individuals sampled for molecular characters. We find morphological and phylogenetic support for five new species of Bothriechis Peters, 1859, which we describe here based on their unique combination of molecular, meristic, hemipenial, and color pattern characteristics. They are: B. klebbaisp. nov., B. rasikusumorumsp. nov., B. khwargisp. nov., B. rahimisp. nov., and B. hussainisp. nov. #### Diagnosis.
+
+Bothriechis schlegelii is diagnosed based on the following combination of characters: (1) two or three triangular and moderately raised supraciliary scales; (2) anterior dorsal head scales smooth; (3) gular scales much smaller than or similar in size to chinshields; (4) 3–11 interoculolabials; (5) 1–3 canthals which may be flat or slightly raised forming a ridge along the canthus; (6) loreal in contact with preocular in ~1/3 of specimens; (7) yellow morph absent; (8) dorsal bands black or dark brown; (9) no opposing kidney shaped dorsal marks; (10) black speckles on dorsal scales usually absent; (11) black speckling on ventral surfaces usually absent; (12) ventral surfaces never entirely white; (13) iris pale orange, light green, or golden yellow usually without speckles; (14) 21–25 dorsal scale rows at mid-body; (15) 139–156 ventrals in males, 135–153 in females; (16) maximum total length in males 834 mm, in females 969 mm.
+
+#### Comparisons.
+
+Bothriechis schlegeliisensu stricto is compared to other species of the genus previously subsumed under B. schlegeliisensu lato (differences summarized in Table 2). --------------------------------------------------------------------------------
+1176　　　　　　　　　　　　　　　　　　　　　　　　　Thomas Lindner et al. (https://herpetologynotes.org/index.php/hn/article/download/278/120/2426)
+ [wordlim: 200] Published: 11 months ago; Crawled: last week; Photographic documentation of a Bothrocophias snake. ... Following Valencia et al. (2016), we identified the snake as *B. campbelli* based on scalation and coloration. ... Under the assumption that our initial identification was correct, we did not collect additional scale characters, such as dorsal, ventral, and subcaudal scale counts, before releasing the animal.
+The patterned body is visible beneath the head.
+
+The panels are labeled with large white letters: A (upper left of top photograph), B (upper left of bottom-left photograph), and C (upper right of bottom-right photograph).
+</visual_element>
+
+**Figure 1.** A member of the genus *Bothrocophias*, encountered on 21 March 2023 in the Tesoro Escondido Reserve, Ecuador, illustrating general appearance (A) and some head scalation features (B, C). Photos by Thomas Lindner (A, B) and Mark-Oliver Rödel (C).
+
+### Observation.
+
+On 21 March 2023 at around 21:00 h, we encountered a *Bothrocophias* with a total length of approximately 70 cm during light rain in a forest plot of the Reassembly project (0.4982°N, 79.1385°W; elevation 529 m). The site is located on a slope of a small ridge. Since the land was used until 1985 for the cultivation of cacao, the vegetation consists of recovering lowland rainforest. The snake was observed moving through leaf litter along small bushes. During capture and handling, we used bite-protective gloves (HexArmor Hercules R8E 3180) but the animal showed no sign of aggression and did not attempt defensive strikes.
+
+### Identification.
+
+The snake was transported alive to the Tesoro Escondido Reserve lodge for identification. Following Valencia et al. (2016), we identified the snake as *B. campbelli* based on scalation and coloration. Additional photos of the snake were taken (Fig. 1), and it was released at the original site on the following day. Under the assumption that our initial identification was correct, we did not collect additional scale characters, such as dorsal, ventral, and subcaudal scale counts, before releasing the animal.--------------------------------------------------------------------------------
+Herpetozoa 37: 305–318 (2024) (https://www.zobodat.at/pdf/HER_37_0305-0318.pdf)
+ [wordlim: 200] Published: 1.1 years ago; A revision of recent taxonomic changes to the eyelash 
+palm pitviper, Bothriechis schlegelii (Serpentes, Viperidae) ... sus, B. schlegelii y B. supraciliaris), mientras que la mayoría de los taxones propuestos por Arteaga et al. (2024) se consideran como sinó-
+Herpetozoa 37: 305–318 (2024) 
+DOI 10.3897/herpetozoa.37.e131965
+A revision of recent taxonomic changes to the eyelash 
+palm pitviper, Bothriechis schlegelii (Serpentes, Viperidae)
+Jacobo Reyes-Velasco1,2
+1	 Entorno Biótico A.C., C.P. 28060. Colima, Colima, Mexico
+2	 Herp.mx A.C., C.P. 28989, Villa de Álvarez, Colima, Mexico
+https://zoobank.org/400F84E1-0659-46DB-AA20-06AD495925ED
+Corresponding author: Jacobo Reyes-Velasco (jackobz@gmail.com)
+Academic editor: Peter Mikulíček  ♦  Received 12 July 2024  ♦  Accepted 9 October 2024  ♦  Published 23 October 2024
+Abstract
+The taxonomy of the Bothriechis schlegelii species group has recently been expanded, nearly doubling the number of recognized species 
+within this genus. However, the validity of these new species, defined primarily by mitochondrial DNA and without a robust evaluation of 
+nuclear DNA and morphological data, warrants critical reassessment. This study re-examines the integrative data used in the initial analysis 
+and employs additional visualizations of the genetic and morphological datasets. --------------------------------------------------------------------------------
+Bothrops alternatus (https://portal.ips.gov.py/sistemas/ipsportal/archivos/archivos/1764252169.pdf)
+ [wordlim: 200] Published: 4.0 years ago; Bothrops alternatus ... Photo of a coiled snake on reddish-brown rocky ground, showing a thick-bodied viper with gray-brown coloration and darker irregular blotches. ... COLOR DEL ADULTO: El color de fondo es marrón castaño a gris amarronado y en algunas ocasiones gris negruzco, posee manchas arriñonadas de color más oscuro que el fondo del cuerpo.
+Bothrops alternatus
+
+Nombre castellano: Yararã, crucera
+
+Nombre guaraní: Jarara, mbói kuatia, jarara akã kurusu.
+
+Fotografía: José Feliciano Maciel
+
+<visual_element id="e1">
+Photo of a coiled snake on reddish-brown rocky ground, showing a thick-bodied viper with gray-brown coloration and darker irregular blotches.
+</visual_element>
+
+<visual_element id="e2">
+Green shaded distribution map of Paraguay with internal regional boundaries and a small scale bar at the bottom.
+</visual_element>
+
+<visual_element id="e3">
+Information box with species facts:
+LONGITUD: Hasta 130 cm.
+CARACTERÍSTICAS: Cuerpo robusto, cabeza muy diferenciada del cuerpo.
+COLOR DEL ADULTO: El color de fondo es marrón castaño a gris amarronado y en algunas ocasiones gris negruzco, posee manchas arriñonadas de color más oscuro que el fondo del cuerpo.
+HÁBITAT: Preferentemente nocturna, aunque es frecuente su presencia en el día para solearse. Se refugia en cuevas o grietas en la tierra o en troncos caídos, exclusivamente terrestre, siendo frecuente en lugares con maderas o escombros, cerca de ambientes modificados por el hombre.
+ALIMENTACIÓN: Principalmente roedores y aves.
+COMPORTAMIENTO: Muy agresiva ante amenazas, en ocasiones trata de huir, pero frecuentemente enrolla su cuerpo y enfrenta a su oponente.
+</visual_element>
+
+15--------------------------------------------------------------------------------
+CONTENTS
+6
+1 1 8
+INTRODUCTION
+REPRODUCTION
+2 4
+1 5 (https://pup-assets.imgix.net/onix/images/9780691250618/9780691250601.pdf)
+ [wordlim: 200] Published: 1.4 years ago; Bothriechis schlegelii have been reassigned to related species, 
+and ﬁve new species have been described recently (2024). ... This pit viper occurs in many color forms, depending to ... The mottled coloration is the
+humans are often on the face or hands. Bites are serious 
+but rarely life-threatening in healthy humans.
+The taxonomic relationships of this group of snakes has 
+been revised. Many of the populations previously known as 
+Bothriechis schlegelii have been reassigned to related species, 
+and ﬁve new species have been described recently (2024). 
+B. schlegelii is now restricted to the highlands of Colombia. 
+Lowland populations from Central America are now 
+mostly B. nigroadspersus but some have been reassigned to the 
+species B. supraciliaris. Of the new species, only B. schlegelii
+and B. supraciliaris have the eyelash-like superciliary scales.
+This pit viper occurs in many color forms, depending to 
+some extent on its origin. The mottled coloration is the
+most common, but the shade of green and the extent of the 
+markings vary. Other forms include tan, orange, or yellow; 
+the bright yellow form, common in some parts of Costa 
+Rica, is known as oropel, meaning tinsel or glitter. 
+Polychromatic snakes such as these, in which there are 
+a number of color and pattern types, are thought to beneﬁt 
+by confusing predators, and perhaps even prey, which are 
+unable to build up a search image and so overlook them.
+  The Eyelash Pit Viper is an iconic 
+species from Central America. It is 
+fairly common, occurring in many 
+colors and patterns that camouﬂage 
+the snake against a variety of lichens, 
+mosses, and other vegetation.
+7 0--------------------------------------------------------------------------------
+Bothrops alternatus (Yarará grande, Víbora de la cruz, Viborón - ) | SIB, Parques Nacionales, Argentina (https://pruebas.sib.gob.ar/especies/bothrops-alternatus)
+ [wordlim: 200] Crawled: last month; # Bothrops alternatus
+Escamas dorsales todas carenadas, en el medio del cuerpo 29-35; anal entera: ventrales 164-176 en los machos y 170-180 en las hembras, subcaudales 43-50 en los machos, 37-45 en las hembras, pues con dimorfismo sexual para las poblaciones del Chaco Austral (fide Abalos et al., op. cit.), datos correspondientes a los recuentos de Boulenger (167-181 y 34-51, respectivamente). Dorso castaño con pigmento oscuro en las escamas: serie regular de manchas simétricas marrón oscuro arriñonado en contacto o alternadas a lo largo de la línea vertebral, elegantemente ribeteadas de negro y blanco, a veces inferiormente divididas por una raya sutil mas clara. Cabeza marrón oscuro o negra, cruzadas por líneas blanquecinas netas, una cerca de la punta del hocico, otra a la altura de las supraoculares, una tercera en Y en la región parietal, abriéndose hacia la región post-temporal donde la alcanza una línea más, algo irregular, que procede del cuello, formando así a veces una cruz, lo que hizo dar a ala serpiente el nombre popular de “víbora de la cruz”.  Ventralmente blanca, con bandas muy oscuras longitudinales gulares y una banda mediana negra en el cuello y parte anterior del cuerpo, pasando luego a dos series paralelas de manchas cuadradas muy oscuras hasta la placa anal, acompañadas lateralmente por manchitas irregulares. Superficie caudal inferior blanquecina con puntuaciones negras en los costados.
+--------------------------------------------------------------------------------
+LAGES PREFEITURA (https://www.saudelages.sc.gov.br/files/documento/1/20241101152532.pdf)
+ [wordlim: 200] Published: 2.1 years ago; Crawled: last week; ### *Bothrops alternatus* – urutu, urutu-cruzeira
+--------------------------------------------------------------------------------
+Taxonomy browser Taxonomy Browser (Bothrocophias campbelli) (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=106597)
+ [wordlim: 200] Crawled: last month; Bothrocophias campbelli FREIRE-LASCANO 1991  | taxonomy/phylogenetic  | Encyclopedia of life
+--------------------------------------------------------------------------------
+A revision of recent taxonomic changes to the eyelash palm pitviper, Bothriechis schlegelii (Serpentes, Viperidae) (https://pdfs.semanticscholar.org/9cb3/cbd3b06ef8b1a709f2567e7d1ce772301e07.pdf)
+ [wordlim: 200] Published: 2.1 years ago; Herpetozoa 37: 305–318 (2024) ... PCA plots for males of Bothriechis species. ... the B. schlegelii group (table 2 in their study). ... these traits concern coloration, which is unreliable due ... None of these color traits is exclusive to a single taxon,
+--------------------------------------------------------------------------------
+Bothrocophias campbelli (https://en.wikipedia.org/wiki/Bothrocophias_campbelli)
+ [wordlim: 200] Crawled: last month; Bothrocophias campbelli, commonly known as Campbell's toadheaded viper, and the Ecuadorian toadheaded pitviper, is a species of venomous pitviper in the family Viperidae. ... "Bothrocophias campbelli (Campbell's Toad-headed Pit Viper, Víbora Boca de Sapo de Campbell).
+--------------------------------------------------------------------------------
+Bothrocophias campbelli - Wikispecies (https://species.wikimedia.org/wiki/Bothrocophias_campbelli)
+ [wordlim: 200] Crawled: last week; Species: Bothrocophias campbelli ... Bothrocophias campbelli (Freire-Lascano, 1991)
+--------------------------------------------------------------------------------
+Envenomation by Eyelash Viper Bothriechis schlegelii (Berthold, 1846) in Southwestern Colombia (https://journals.sagepub.com/doi/10.1177/10806032231222353)
+ [wordlim: 200] Published: 2.9 years ago; Crawled: 5 days ago; First published online January 10, 2024 ... # Envenomation by Eyelash Viper Bothriechis schlegelii (Berthold, 1846) in Southwestern Colombia ... We evaluated data from patients who suffered Bothriechis schlegelii envenomation and were seen at Fundación Valle del Lili Hospital, Cali, Colombia between 2011 and 2022. ... The color is variable (Figure 1B).
+--------------------------------------------------------------------------------
+Bothrops alternatus (https://en.wikipedia.org/wiki/Bothrops_alternatus)
+ [wordlim: 200] Crawled: 2 months ago; Bothrops alternatus, known by the common names crossed pit viper, yarará grande, and urutu, among others, is a highly venomous pit viper species found in South America (Brazil, Paraguay, Uruguay and Argentina). ... ## Description ... ### Color and markings ... (Bothrops alternatus, new species, p.
+--------------------------------------------------------------------------------
+A revision of recent taxonomic changes to the eyelash palm pitviper, Bothriechis schlegelii (Serpentes, Viperidae) (https://www.researchgate.net/publication/385186443_A_revision_of_recent_taxonomic_changes_to_the_eyelash_palm_pitviper_Bothriechis_schlegelii_Serpentes_Viperidae)
+ [wordlim: 200] Published: 2.1 years ago; Crawled: 3 months ago; The taxonomy of the Bothriechis schlegelii species group has recently been expanded, nearly doubling the number of recognized species within this genus. ... the genetic distances between other species of Bothriechis
+--------------------------------------------------------------------------------
+Bothrocophias campbelli (Serpientes boca de sapo) | Reptiles del Ecuador (https://bioweb.bio/reptilia/taxa/card?name=Bothrocophias+campbelli&rank=species)
+ [wordlim: 200] Crawled: last week; # Bothrocophias campbelli (Serpientes boca de sapo)
+--------------------------------------------------------------------------------
+Ecuadorian Toadheaded Pitviper (Bothrocophias campbelli) · iNaturalist (https://www.inaturalist.org/taxa/95910-Bothrocophias-campbelli)
+ [wordlim: 200] Crawled: last month;   * Ecuadorian Toadheaded Pitviper Bothrocophias campbelli ...   * Identification Tips ... Bothrops campbelli, commonly known as Campbell's toadheaded viper or the Ecuadorian toadheaded pitviper, is a species of venomous pitviper in the family Viperidae.
+--------------------------------------------------------------------------------
+Proteomic and toxicological profiling of the venom of Bothrocophias campbelli, a pitviper species from Ecuador and Colombia (https://www.sciencedirect.com/science/article/pii/S0041010114002086)
+ [wordlim: 200] Published: 12.1 years ago; Crawled: 6 days ago; Bothrocophias campbelli ... Bothrocophias campbelli) appear to be rare in nature (Campbell and Lamar, 2004, Arteaga, 2013).
+--------------------------------------------------------------------------------
+Bothriechis schlegelii (Eyelash Viper) | INFORMATION | Animal Diversity Web (https://animaldiversity.org/accounts/Bothriechis_schlegelii/)
+ [wordlim: 200] Published: 15.7 years ago; Crawled: today; The genus Bothriechis is represented by nine species, each characterized by the presence of a prehensile tail (used for climbing) and typically bright green or yellow dorsal coloration. ... This species is unusual, as its dorsal ground color is most often olive green.
+--------------------------------------------------------------------------------
+Bothrops alternatus (https://www.scientificlib.com/en/Biology/Animalia/Chordata/Reptilia/BothropsAlternatus01.html)
+ [wordlim: 200] Crawled: 2 months ago; The color pattern is exceedingly variable.
+--------------------------------------------------------------------------------
+Urutu (Bothrops alternatus) – Animal Business Brasil (https://animalbusiness.com.br/urutu-bothrops-alternatus/)
+ [wordlim: 200] Published: 2.3 years ago; Crawled: today; # Urutu (Bothrops alternatus)
+--------------------------------------------------------------------------------
+Bothrocophias campbelli (https://fr.wikipedia.org/wiki/Bothrocophias_campbelli)
+ [wordlim: 200] Crawled: 5.9 years ago; Bothrocophias campbelli est une espèce de serpents, rare, de la famille des Viperidae. ... * (en) Catalogue of Life : Bothrocophias campbelli Freire-Lascano, 1991
+--------------------------------------------------------------------------------
+Snakes: Urutu Cruzeiro X Jararacuçu: how to distinguish? | Papo de Cobra - YouTube (https://www.youtube.com/watch?v=WkrKbNl2i0c)
+ [wordlim: 200] Published: 6.7 years ago; Crawled: 2 months ago; ## Description
+In this video from Papo de Cobra, biologist Claudio Machado shows the differences between the Urutu (Bothrops alternatus) and the Jararacuçu (Bothrops jararacussu). ... This video shows the differences in coloration and head scales through videos and photos.
+# Snakes: Urutu Cruzeiro X Jararacuçu: how to distinguish? | Papo de Cobra
+By: Papo de Cobra (112000 followers, Verified)
+Published: 2020-03-18, 1412506 views
+
+## Description
+In this video from Papo de Cobra, biologist Claudio Machado shows the differences between the Urutu (Bothrops alternatus) and the Jararacuçu (Bothrops jararacussu).
+
+Bothrops, both snakes, are often misidentified. This video shows the differences in coloration and head scales through videos and photos.
+
+Thanks to: Researcher Breno Hamdan and the team from the Scientific Collection of the Vital Brazil Institute.
+--------------------------------------------------------------------------------
+Bothriechis (https://en.wikipedia.org/wiki/Bothriechis)
+ [wordlim: 200] Crawled: 5 months ago; ## Description ... A new species of Bothriechis from Guatemala and Honduras, B. thalassinus, was described by Campbell & E.N. ... Due to the close relation between these species alongside B. supraciliaris, they are considered to be part of a B. schlegelii species complex, otherwise referred to as the "eyelash clade" within Bothriechis.
+--------------------------------------------------------------------------------
+Bothrops alternatus (https://es.wikipedia.org/wiki/Bothrops_alternatus)
+ [wordlim: 200] Crawled: 7 months ago; Bothrops alternatus ... Notar su patrón de coloración, tremendamente útil para su correcta identificación.
+--------------------------------------------------------------------------------
+Greifschwanz-Lanzenotter (https://de.wikipedia.org/wiki/Greifschwanz-Lanzenotter)
+ [wordlim: 200] Crawled: 1.9 years ago; Bunte Palmenlanzenotter (B. supraciliaris) ... Meerblaue Palmenlanzenotter (B. thalassinus) ... Systematic Revision of the Eyelash Palm-Pitviper Bothriechis schlegelii (Serpentes, Viperidae), with the Description of Five New Species and Revalidation of three.
+--------------------------------------------------------------------------------
+Cobra Jararaca Gigante Dentro de Botina | Biólogo Henrique o Biólogo das Cobras - YouTube (https://www.youtube.com/watch?v=s4YkOmCHJaA)
+ [wordlim: 200] Published: 4.8 years ago; Crawled: last year; ## Description ... Bothrops alternatus Duméril, Bibron & Duméril, 1854
+--------------------------------------------------------------------------------
+Redescription and validation of Bothriechis supraciliaris (Serpentes: Viperidae) (https://arxiv.org/abs/1511.01060)
+ [wordlim: 200] Published: 11.1 years ago; Here the epithet Bothriechis schlegelii supraciliaris Taylor 1954. is reestablished as a valid taxon and elevated to specific rank as B. supraciliaris stat.nov. It is closely related to B. schlegelii from which it differs by its color patterns based on a uniform ground color with polymorphic dorsal designs, and its lower counts of ventral and caudal scales.
+--------------------------------------------------------------------------------
+What snake is this? [Costa Rica] (https://www.reddit.com/r/animalid/comments/1mfvl4g)
+ [wordlim: 200] Published: 1.3 years ago; Crawled: 1.3 years ago;   Following the 2024 taxonomic revision of the *B. schlegelii* complex, and subsequent refining there of, this would now be considered *Bothriechis nigroadspersus* by range. ...     They’re very variable in color!
+--------------------------------------------------------------------------------
+He Saved the Largest Venomous Snake in the Americas. Now, He Hopes It Could Save Human Lives. (https://qa.time.com/5467377/snake-venom-cancer-research/)
+ [wordlim: 100] Published: 8.0 years ago; The ACE inhibitor class of drugs is used by over 40 million people worldwide and its key ingredient comes from another Brazilian pit viper, the Bothrops jararaca. ... In Australia, for example, medical researcher Normand Pouliot has succeeded in lab-cloning an inhibitor from another Brazilian viper, the Bothrops alternatus, in his quest to stop metastasis in breast cancer. ... Thousands of endangered species are being ignored across the country, so why spend time and effort saving an animal that could kill you? ... Soon, the water bubbles with the gulps of fish as big as 30 pounds that Souza has raised in the pond.
+The snake bites down and translucent ooze drips down to the bottom.
+Eladio Sanchez, head of the Ezequiel Dias Foundation research facility in Belo Horizonte, picks up the cup with gloved hands, careful not to let any venom touch his skin. (If venom gets into an open cut or sore it could kill you faster than a bite, Souza says.) Sanchez visits Souza's rescue to collect venom from bushmasters (known officially as Lachesis muta), the world's largest pit viper, to produce anti-venom as well as to test it as part of exciting new research into using venom to stop the spread of cancer, or metastasis. It's a risky venture, but one the doctors think could save lives - human and reptilian.
+"Could you imagine if we do come up with something that controls metastatic setting of tumors in humans?" Souza says. "It's huge. If you have lung cancer you would think it's huge because it would limit a specific tumor to a specific area and give surgeons time to act instead of trying to find it everywhere in the body."
+"Snake oil," is a common way to refer to hoax medicine, but drugs backed by clinical trials derived from snake venom have shown very real success. A June 2018 study lists six groups of venom-derived drugs that have gotten FDA approval in the U.S. since 1981. One of the most successful drugs derived from snake venom is captopril, an angiotensin-converting enzyme (ACE) inhibitor used to treat high blood pressure, heart failure, and kidney problems caused by diabetes. It also reduces the risk of death after a heart attack. The ACE inhibitor class of drugs is used by over 40 million people worldwide and its key ingredient comes from another Brazilian pit viper, the Bothrops jararaca.
+He Saved the Largest Venomous Snake in the Americas. Now, He Hopes It Could Save Human Lives.
+Date: Thu Dec  6 18:29:00 2018 UTC
+
+Bushmasters once kept to themselves in the mild climates of the forest, but decades of deforestation has left the Atlantic Forest, the bushmaster's natural habitat, at about 10 percent of its original size, and has increased bushmaster encounters with humans, decimating their population. The species is now listed as vulnerable, a step before endangered, according to the International Union for Conservation of Nature. To make matters worse, it's difficult to study bushmasters since they tend to die when kept in labs or zoos due to their preference for the specific conditions of their natural habitat.
+In certain cases, it's possible to isolate and clone toxins in a lab so you no longer need fresh venom on-hand. In Australia, for example, medical researcher Normand Pouliot has succeeded in lab-cloning an inhibitor from another Brazilian viper, the Bothrops alternatus, in his quest to stop metastasis in breast cancer. But Pouliot also found that the venom from another snake he's studying, the Macrovipera lebtina viper commonly found in North Africa and the Middle East, needs to be isolated directly from live snakes. For medical advancements to continue, researchers will need to convince people to leave wild snakes alone, but that's easier said than done.
+In Colorado, Mackessy has been talking to ranchers and says he's been making headway.
+"When we talk about the potential for anti-cancer therapeutic development it really changes people's perspectives," he says. "On the one hand, it's kind of unfortunate that we have to put it into context of our own utility before something has importance, but on the other, it really brings home the point."
+Meanwhile in Brazil, Souza is fighting to conserve the Atlantic bushmaster, but people in his town of Itacaré have been reluctant, calling him names like "sorcerer," "the devil's assistant" or simply "a weirdo." Brazilian media have even compared Souza to "Grizzly Man" - but he hates that comparison. Unlike Timothy Treadwell, the man filmed in the Werner Herzog documentary who was eaten by bears in Alaska, Souza says he never ceases to fear the snake he loves.
+Souza has been obsessed with snakes since he was a boy growing up in Belo Horizonte.
+"My first real experience with venom, I was 12 I think," Souza says.
+He and a few friends ran into a green Philodryas efface snake and Souza watched as his friends clubbed the snake until its spine was broken.
+"I took the snake to my house to fix the spine. I thought I could do that, and it bit me," says Souza. "I told my parents it was a soccer accident. My arm was swollen up to the elbow for 10 days. All purple. I didn't know what I was doing."
+He Saved the Largest Venomous Snake in the Americas. Now, He Hopes It Could Save Human Lives.
+Date: Thu Dec  6 18:29:00 2018 UTC
+
+"My process was upside down," he acknowledges. "The last thing is the snakes. I started with the snakes."
+There were other mistakes. In the first years of the rescue, a biologist came to study the bushmasters and was attacked.
+"I was holding the head and he was down introducing a piece of steel to determine the sex and he made the wrong move and the animal - bap," Souza says. Within 10 minutes, the biologist was unconscious. Fortunately, Souza used his medical training to administer 20 vials of anti-venom and artificially raise the biologist's blood pressure. He survived.
+Brazilian regulators soon found out about Souza's facility and decided to act. Ibama, the country's environmental agency, warned Souza that keeping deadly animals is against the law and urged him to let go of his bushmasters. A surprise visit from the agency found undeclared snakes under Souza's care (Souza says he'd saved 12 newborn bushmasters trapped inside a house) and he was slapped with a 15,500 real fine ($4,100). Souza defiantly took the charge to court in 2006 and only recently won the right to keep the snakes.
+Then, in 2007, Souza discovered snake eggs on his property. Before this point, Atlantic bushmasters had never been bred in captivity. The Dallas Zoo credited Souza for the feat and he received international acclaim for how he managed to raise bushmasters in a facility that mimics their natural habitat.
+But in Brazil, he has been met with more bureaucratic headaches. Denied a license from Brazilian authorities which would allow him to legally breed bushmasters (he says all the births so far have been "accidental"), Souza has been unable to apply for foreign funding for 14 years. He has received a few sporadic donations, and works as many as 90 hours per week at his job as an emergency room surgeon to pay $2,500 in monthly bills.
+"Thinking about my first marriage, I'm sure at one point she thought it was too much for the snakes," Souza says. He and his wife divorced in 2012. "I recall her saying that things are missing here at home and the snakes are OK. As if I was diverting funding from my family to the snakes, if I could turn this into a nice apartment. She's right, but I didn't, this is not me."
+Despite Souza's apparent recklessness (he doesn't have enough anti-venom left if he gets bitten, although he did survive a bite without anti-venom in 2016), his conservation efforts continue to prove effective. Today, Souza raises 65 healthy bushmasters in a dozen outdoor cages and an indoor facility where snakelets are kept in bins or tents until they're big enough to move outside. In another sterile white room, nearly 1,000 rats are bathed monthly, de-parasited, and fed a meticulously prepared nutritious concoction of grains and vitamins made from local and organic ingredients. Souza has found that - like his human patients in the hospital - giving the snakes the right diet has been crucial to their wellbeing.
+

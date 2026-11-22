@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "preset_id": "lachesis_melanocephala",
+  "species_id": "source_1042ef64ac22ea83",
+  "source_species_name": "Lachesis melanocephala",
+  "common_name": "Black-headed Bushmaster",
+  "status": "illustrative_unvalidated",
+  "variant": "Black-headed bushmaster with a dark cap, pale lower head, and contrasting body markings.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/lachesis-melanocephala",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442020000401384&script=sci_arttext&tlng=en",
+        "scope": "Species-level qualitative anatomical or taxonomic reference."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_082_lachesis_melanocephala/manifest.json",
+        "image_id": "inat_466562384",
+        "sha256": "542405f230b24b455f40ab48840d0995e2f76ceda9dee236ca3406857b77e745",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_082_lachesis_melanocephala/manifest.json",
+        "image_id": "inat_466562386",
+        "sha256": "3afb67b44c9ab72e00261004ae28001243c44d379566b128b73511d8f9ddf635",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_466562384": "Frontal head view showing black rear cap and pale lips.",
+      "inat_466562386": "Partially obscured body with dark angular markings."
+    },
+    "unextracted_fields": [
+      "head",
+      "scales",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo- and description-informed draft; further fitting and anatomical review required.",
+    "modeling_flags": [
+      "Both pilot images are from one observation; the body and rear of the head are partly obstructed.",
+      "This head and body adapt a shared viper scaffold; opposite side and underside are not independently modeled."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Frontal head view showing black rear cap and pale lips.",
+        "Partially obscured body with dark angular markings.",
+        "Adjusted the spacing of the dark body marks after reviewing the head and body rendering; the black cap remains schematic."
+      ],
+      "projection_limit": "A single 2D shape; proportions and scale details remain artistic.",
+      "reference_ids": [
+        "inat_466562384",
+        "inat_466562386"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "flank_triangles",
+    "skin_color": "#bd957b",
+    "marking_color": "#252424",
+    "belly_color": "#e2d0bc",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.2,
+    "mark_spacing": 55,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 74,
+      "neck": 9,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          -5.29412,
+          9.62,
+          -7.41176,
+          20.72,
+          -10.16471
+        ],
+        [
+          20.72,
+          -10.16471,
+          34.78,
+          -16.51765,
+          50.32,
+          -21.17647,
+          58.46,
+          -18.42353
+        ],
+        [
+          58.46,
+          -18.42353,
+          62.9,
+          -15.24706,
+          69.56,
+          -9.0,
+          74,
+          -9
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          2.81013,
+          4.23529,
+          17.02,
+          8.15294,
+          35.52,
+          10.37647
+        ],
+        [
+          35.52,
+          10.37647,
+          48.1,
+          14.82353,
+          57.72,
+          14.82353,
+          62.16,
+          10.37647
+        ],
+        [
+          62.16,
+          10.37647,
+          66.6,
+          9.0,
+          70.3,
+          9.0,
+          74,
+          9
+        ]
+      ],
+      "eye": [
+        27.3,
+        -3,
+        3.4,
+        3.6
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        17,
+        0
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q26.6 6 51.8 8 L66.6 4",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M29.6 -2 Q42.9 0 59.2 5 L59.2 9 Q42.9 5 29.6 2 Z",
+          "fill": "#3b302b"
+        },
+        {
+          "path": "M28.1 -30 H75 V-2 Q48.1 -7 28.1 -6Z",
+          "fill": "#1f211f"
+        }
+      ],
+      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
+      "micro_scales": true,
+      "iris_color": "#947865"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        9
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        24
+      ],
+      [
+        471,
+        302,
+        26
+      ],
+      [
+        514,
+        347,
+        25
+      ],
+      [
+        502,
+        397,
+        24
+      ],
+      [
+        430,
+        431,
+        22
+      ],
+      [
+        330,
+        445,
+        21
+      ],
+      [
+        253,
+        476,
+        20
+      ],
+      [
+        253,
+        515,
+        18
+      ],
+      [
+        324,
+        550,
+        16
+      ],
+      [
+        400,
+        555,
+        13
+      ],
+      [
+        460,
+        546,
+        9
+      ],
+      [
+        510,
+        528,
+        4
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

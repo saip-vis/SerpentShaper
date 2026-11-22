@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "preset_id": "crotalus_horridus",
+  "species_id": "source_4d7be31c1d8ab402",
+  "source_species_name": "Crotalus horridus",
+  "common_name": "Timber Rattlesnake",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown timber rattlesnake variant with dark chevrons and dark tail.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://mdc.mo.gov/discover-nature/field-guide/timber-rattlesnake",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://animaldiversity.org/accounts/Crotalus_horridus/",
+        "scope": "Species-level qualitative description; identification and geographic variation require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_060_crotalus_horridus/manifest.json",
+        "image_id": "inat_92713",
+        "sha256": "df311e6b55b36eba1359b3401d30f7f11b9fb453d273fcfe4aba59aa57fba318",
+        "use": "Qualitative reference; citizen-science identification unverified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_060_crotalus_horridus/manifest.json",
+        "image_id": "inat_102064",
+        "sha256": "2dd2837b187d4cffe8f86ffe18ae09aa2c0a0544202486d600c7561a9b0122c2",
+        "use": "Qualitative reference; citizen-science identification unverified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_060_crotalus_horridus/manifest.json",
+        "image_id": "inat_2693491",
+        "sha256": "33ff90bcb76107b62d3b388143069082d9ae844b77b43a1dad2a7587f972735f",
+        "use": "Qualitative reference; citizen-science identification unverified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_92713": "Brown timber rattlesnake: dark chevron bands, thick trunk and black tail.",
+      "inat_102064": "Front head detail and keeled scale appearance.",
+      "inat_2693491": "Longer body view with dark tail."
+    },
+    "unextracted_fields": [
+      "head",
+      "scales",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; requires further visual revision and independent review.",
+    "modeling_flags": [
+      "Selected brown form does not represent all black and yellow color morphs; no independent ventral photo reviewed.",
+      "Opposite side and underside not independently established; body motifs are procedural approximations.",
+      "Further species-specific fitting and expert review are needed; the shared silhouette and regular motifs remain visibly stylized."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Brown timber rattlesnake: dark chevron bands, thick trunk and black tail.",
+        "Front head detail and keeled scale appearance.",
+        "Longer body view with dark tail.",
+        "Initial render inspected against the selected photographs; widened the dark chevrons and preserved the black tail of the selected form."
+      ],
+      "projection_limit": "Single projected study; artistic proportions are not biological measurements.",
+      "reference_ids": [
+        "inat_92713",
+        "inat_102064",
+        "inat_2693491"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "chevrons",
+    "skin_color": "#a8886b",
+    "marking_color": "#4b3a35",
+    "belly_color": "#d6c09f",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "rattle",
+    "scale_pitch": 7.4,
+    "mark_spacing": 60,
+    "mark_size": 1,
+    "tail_segments": 5,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 74,
+      "neck": 9.5,
+      "upper": [
+        [
+          0,
+          0,
+          -1,
+          -5,
+          5,
+          -9,
+          14,
+          -10
+        ],
+        [
+          14,
+          -10,
+          28,
+          -14,
+          42.919999999999995,
+          -20,
+          54.76,
+          -18
+        ],
+        [
+          54.76,
+          -18,
+          65.12,
+          -15,
+          67.34,
+          -9.5,
+          74,
+          -9.5
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          1,
+          5,
+          7,
+          9,
+          16,
+          10
+        ],
+        [
+          16,
+          10,
+          30,
+          13,
+          45.88,
+          16,
+          56.24,
+          13
+        ],
+        [
+          56.24,
+          13,
+          65.86,
+          10,
+          69.56,
+          9.5,
+          74,
+          9.5
+        ]
+      ],
+      "eye": [
+        27,
+        -2.5,
+        3.3,
+        3.4
+      ],
+      "nostril": [
+        6,
+        -2
+      ],
+      "pit": [
+        16,
+        0
+      ],
+      "jaw": "M1 3 Q25 7 50.3 9 L67.3 4.8",
+      "shields": [],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#a78f74",
+      "micro_scales": true,
+      "markings": []
+    },
+    "body_stations": [
+      [
+        239,
+        219,
+        10
+      ],
+      [
+        278,
+        242,
+        15
+      ],
+      [
+        370,
+        265,
+        22
+      ],
+      [
+        463,
+        295,
+        27
+      ],
+      [
+        515,
+        344,
+        29
+      ],
+      [
+        506,
+        395,
+        28
+      ],
+      [
+        441,
+        430,
+        27
+      ],
+      [
+        341,
+        443,
+        25
+      ],
+      [
+        257,
+        472,
+        23
+      ],
+      [
+        252,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        18
+      ],
+      [
+        387,
+        558,
+        14
+      ],
+      [
+        416,
+        556,
+        8
+      ],
+      [
+        435,
+        553,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "pit_cheek_band": false,
+    "tail_color": "#302e2b",
+    "tail_color_length": 110,
+    "chevron_width": 0.42,
+    "chevron_border": 0.045
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

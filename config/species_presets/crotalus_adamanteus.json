@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "preset_id": "crotalus_adamanteus",
+  "species_id": "source_b55fd89cdbde9565",
+  "source_species_name": "Crotalus adamanteus",
+  "common_name": "Eastern Diamondback Rattlesnake",
+  "status": "illustrative_unvalidated",
+  "variant": "Heavy-bodied brown eastern diamondback with pale-edged dark dorsal diamonds and rattle.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.fnai.org/PDFs/FieldGuides/Crotalus_adamanteus.pdf",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://www.floridamuseum.ufl.edu/florida-snake-id/snake/eastern-diamond-backed-rattlesnake/",
+        "scope": "Institutional description of dorsal diamonds, tail pattern, and body characteristics."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_056_crotalus_adamanteus/manifest.json",
+        "image_id": "inat_5414104",
+        "sha256": "caa5c287f58511bbd9f0c65ed8e6cb10c22957728e20d27302cb82c2b7ee31e9",
+        "use": "Qualitative reference; identity not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_056_crotalus_adamanteus/manifest.json",
+        "image_id": "inat_13755258",
+        "sha256": "3f30be1108194d6fc9c3a9ca6c127a3e72aeb4c2e9af8699019c9221d89edc21",
+        "use": "Qualitative reference; identity not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_056_crotalus_adamanteus/manifest.json",
+        "image_id": "inat_12876651",
+        "sha256": "c52acfee571a7e408d275113de254c4b16caf29a8a217dd9e35c48b26cba287c",
+        "use": "Qualitative reference; identity not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_5414104": "Dorsal diamond pattern, head width and banded tail in a coiled individual; color influenced by red surroundings.",
+      "inat_13755258": "Natural-light view of heavy body and pale-bordered dark diamonds.",
+      "inat_12876651": "Uncoiled trunk and pattern; head and tail are partly obscured."
+    },
+    "unextracted_fields": [
+      "head",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; requires further visual revision and expert review.",
+    "modeling_flags": [
+      "Head and ventral reference views remain limited; species identity of citizen-science photos is not independently verified.",
+      "The diamonds and tail bands are stylized, not individual-scale or segment reconstructions.",
+      "Full body and head require an additional reference check; no numerical accuracy rating has been established."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Dorsal diamond pattern, head width and banded tail in a coiled individual; color influenced by red surroundings.",
+        "Natural-light view of heavy body and pale-bordered dark diamonds.",
+        "Uncoiled trunk and pattern; head and tail are partly obscured.",
+        "After inspecting the rendered head and full body, extended the muted tail bands and softened the postocular marking."
+      ],
+      "projection_limit": "Single projected illustration; no biological measurements.",
+      "reference_ids": [
+        "inat_5414104",
+        "inat_13755258",
+        "inat_12876651"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "diamonds",
+    "skin_color": "#8b7657",
+    "marking_color": "#e1d4a6",
+    "belly_color": "#d5c6a6",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "rattle",
+    "scale_pitch": 7.4,
+    "mark_spacing": 52,
+    "mark_size": 1,
+    "tail_segments": 5,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 76,
+      "neck": 10,
+      "upper": [
+        [
+          0,
+          0,
+          -1,
+          -5,
+          4,
+          -9,
+          14,
+          -11
+        ],
+        [
+          14,
+          -11,
+          26,
+          -14,
+          44,
+          -23,
+          56,
+          -20
+        ],
+        [
+          56,
+          -20,
+          66,
+          -16,
+          69,
+          -10,
+          76,
+          -10
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          1,
+          5,
+          7,
+          9,
+          16,
+          11
+        ],
+        [
+          16,
+          11,
+          29,
+          14,
+          45,
+          19,
+          56,
+          15
+        ],
+        [
+          56,
+          15,
+          67,
+          12,
+          70,
+          10,
+          76,
+          10
+        ]
+      ],
+      "eye": [
+        28,
+        -3,
+        3.5,
+        3.8
+      ],
+      "nostril": [
+        6,
+        -2
+      ],
+      "pit": [
+        17,
+        0
+      ],
+      "jaw": "M1 3 Q27 8 53 10 L69 5",
+      "shields": [],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#a88b5e",
+      "micro_scales": true,
+      "markings": [
+        {
+          "path": "M26 -7 Q40 -3 59 3 L60 9 Q42 5 26 -1 Z",
+          "fill": "#3c332b"
+        },
+        {
+          "path": "M27 -7 Q40 -5 59 1 M29 0 Q43 4 60 9",
+          "stroke": "#dfcd9e",
+          "width": 1.3
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        239,
+        219,
+        10
+      ],
+      [
+        278,
+        242,
+        15
+      ],
+      [
+        370,
+        265,
+        22
+      ],
+      [
+        463,
+        295,
+        27
+      ],
+      [
+        515,
+        344,
+        29
+      ],
+      [
+        506,
+        395,
+        28
+      ],
+      [
+        441,
+        430,
+        27
+      ],
+      [
+        341,
+        443,
+        25
+      ],
+      [
+        257,
+        472,
+        23
+      ],
+      [
+        252,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        18
+      ],
+      [
+        387,
+        558,
+        14
+      ],
+      [
+        416,
+        556,
+        8
+      ],
+      [
+        435,
+        553,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "pit_cheek_band": false,
+    "tail_band_length": 82,
+    "tail_band_spacing": 10,
+    "tail_band_dark": "#453c32",
+    "tail_band_light": "#ad9f83"
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

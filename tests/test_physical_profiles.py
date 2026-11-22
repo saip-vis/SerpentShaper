@@ -60,6 +60,29 @@ class PhysicalProfileTests(unittest.TestCase):
         self.assertTrue(all(t['status'] == 'needs_review' for t in present))
         self.assertFalse(any('maximum_juvenile' in p['compilation_traits'] for p in self.profiles))
 
+    def test_kaouthia_traits_retain_individual_sources(self):
+        profile = next(p for p in self.profiles if p['source_species_name'] == 'Naja kaouthia')
+        self.assertTrue(all(profile['descriptions'].values()))
+        for key, trait in profile['descriptions'].items():
+            ref = self.notes['Naja kaouthia']['trait_references'][key]
+            self.assertEqual(trait['source_url'], ref['source_url'])
+            self.assertEqual(trait['source_locator'], ref['locator'])
+        self.assertIn('tail was lost', profile['descriptions']['tail']['text'])
+        self.assertIsNone(profile['rendering_proposals']['numerical_shape_ratios'])
+
+    def test_illustration_contract_preserves_identity_and_surface(self):
+        spec = json.loads((ROOT / 'config/illustration_specifications.json').read_text())
+        species = {p['species_id']: p for p in self.profiles}
+        for sid, brief in spec['species'].items():
+            self.assertEqual(brief['source_species_name'], species[sid]['source_species_name'])
+            views = {v['id']: v for v in brief['views']}
+            for marking in brief['markings']:
+                self.assertTrue(all(views[v]['surface'] == 'dorsal' for v in marking['visible_in']))
+            self.assertTrue(all(v is None for k, v in brief['artistic_parameters'].items() if k != 'label'))
+            self.assertTrue(all(r['selected_photo_id'] is None for r in brief['reference_requirements']))
+            self.assertIn('pending', brief['status'])
+            self.assertIsNone(brief['venom_trait_mapping'])
+
     def test_build_is_deterministic_and_does_not_mutate_inputs(self):
         catalog = copy.deepcopy(self.catalog)
         extracted = copy.deepcopy(self.extracted)

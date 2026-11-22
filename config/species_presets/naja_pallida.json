@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "preset_id": "naja_pallida",
+  "species_id": "source_18b69042536ef21f",
+  "source_species_name": "Naja pallida",
+  "common_name": "Red Spitting Cobra",
+  "status": "illustrative_unvalidated",
+  "variant": "Salmon-red red spitting cobra form with a broad dark throat band.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://animaldiversity.org/accounts/Naja_pallida/",
+        "scope": "Species description and taxonomy; geographic variation and current name require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_114_naja_pallida/manifest.json",
+        "image_id": "inat_336820047",
+        "sha256": "869f57ee000740a3761a01687a71ac4ccdd48f5009ea223685f0308b178d1621",
+        "use": "Qualitative reference; provider species label not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_114_naja_pallida/manifest.json",
+        "image_id": "inat_336820060",
+        "sha256": "f276670ab7550bc631f92b8eeb919aeb3ee3fc89405aeefc88b13519e507d872",
+        "use": "Qualitative reference; provider species label not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_336820047": "Reddish body in a distant climbing view; head and hood are poorly resolved.",
+      "inat_336820060": "Second distant view of the same individual."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; hood and head require further fitting and independent review.",
+    "modeling_flags": [
+      "Both pilot images are from one observation and do not show hood or head details clearly; throat band is guided by the external species description.",
+      "Head and hood use a shared cobra scaffold and require detailed species-specific anatomical comparison.",
+      "The current generic head is visibly stylized; a reliable expanded-hood photograph is still needed."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Reddish body in a distant climbing view; head and hood are poorly resolved.",
+        "Second distant view of the same individual.",
+        "Inspected the generated head and throat band; the black band remains a description-guided approximation because neither pilot photo shows a clear expanded hood."
+      ],
+      "projection_limit": "Display posture is an artistic projection; hood width and head proportions are not measurements.",
+      "reference_ids": [
+        "inat_336820047",
+        "inat_336820060"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "plain",
+    "skin_color": "#bd715b",
+    "marking_color": "#e4c2a1",
+    "belly_color": "#ddaa88",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        57
+      ],
+      [
+        200,
+        72.9
+      ],
+      [
+        220,
+        78
+      ],
+      [
+        235,
+        78
+      ],
+      [
+        250,
+        75.7
+      ],
+      [
+        270,
+        64.7
+      ],
+      [
+        290,
+        56.6
+      ],
+      [
+        310,
+        40
+      ],
+      [
+        330,
+        32.0
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "cobra_profile_direct": true,
+    "ventral_markings": false,
+    "front_head_profile": {
+      "left": [
+        [
+          [
+            296.16,
+            92
+          ],
+          [
+            284.64,
+            91
+          ],
+          [
+            276.0,
+            96
+          ],
+          [
+            276.0,
+            104
+          ]
+        ],
+        [
+          [
+            276.0,
+            104
+          ],
+          [
+            276.0,
+            111
+          ],
+          [
+            281.76,
+            115
+          ],
+          [
+            288.48,
+            117
+          ]
+        ],
+        [
+          [
+            288.48,
+            117
+          ],
+          [
+            295.2,
+            122
+          ],
+          [
+            275.04,
+            139
+          ],
+          [
+            272,
+            145
+          ]
+        ]
+      ],
+      "right": [
+        [
+          [
+            296.16,
+            92
+          ],
+          [
+            306.72,
+            90
+          ],
+          [
+            318.24,
+            92
+          ],
+          [
+            324.0,
+            99
+          ]
+        ],
+        [
+          [
+            324.0,
+            99
+          ],
+          [
+            328.8,
+            106
+          ],
+          [
+            324.96,
+            138
+          ],
+          [
+            328,
+            145
+          ]
+        ]
+      ]
+    },
+    "throat_bands": [
+      {
+        "y": 191,
+        "height": 28,
+        "color": "#322b28",
+        "opacity": 0.94
+      }
+    ]
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

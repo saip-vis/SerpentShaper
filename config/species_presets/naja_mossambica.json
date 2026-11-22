@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "preset_id": "naja_mossambica",
+  "species_id": "source_169919e3f7ba764e",
+  "source_species_name": "Naja mossambica",
+  "common_name": "Mozambique spitting cobra",
+  "status": "illustrative_unvalidated",
+  "variant": "Selected illustrated color and display form; individual variation is substantial.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://snakesafetyzambia.com/wp-content/uploads/2024/11/guidelines-snakebite-in-zambia-draft16-1.pdf",
+        "scope": "Existing source profile; not yet applied to this template."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_111_naja_mossambica/manifest.json",
+        "image_id": "inat_670486",
+        "sha256": "260acead607b6d0e738c6f46b9f82fa37043ecfc185e678efd30285cb62f1e60",
+        "use": "Qualitative shape and pattern reference; no measurements fitted."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_111_naja_mossambica/manifest.json",
+        "image_id": "inat_1819604",
+        "sha256": "bca6c1b15c93449d393cbb4362caa905696281f74512a32212b2ee5d2db5b055",
+        "use": "Qualitative shape and pattern reference; no measurements fitted."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_111_naja_mossambica/manifest.json",
+        "image_id": "inat_15573394",
+        "sha256": "eebbdfc7d12460d4dbbda7c858cf5d40426d6f774959565906213609c11dbd76",
+        "use": "Qualitative shape and pattern reference; no measurements fitted."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_670486": "Provider-labelled photograph of selected form, used qualitatively for body, hood or head.",
+      "inat_1819604": "Provider-labelled photograph of selected form, used qualitatively for body, hood or head.",
+      "inat_15573394": "Provider-labelled photograph of selected form, used qualitatively for body, hood or head."
+    },
+    "unextracted_fields": [
+      "body",
+      "tail",
+      "scales",
+      "eyes",
+      "variation"
+    ],
+    "review": "First reference-guided hood and color draft; head and pattern need further review.",
+    "modeling_flags": [
+      "Head shape still uses shared stylized cobra head and requires species-specific remodeling.",
+      "Hood shapes and throat patterns are qualitative approximations; exact band placement and symmetry are not measured.",
+      "Source images have not received expert identity verification.",
+      "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Brown form with pale pinkish throat and multiple dark bars; head and throat vary across images.",
+        "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+      ],
+      "projection_limit": "Stylized shared head, artistic hood proportions; individual and geographic variation remain.",
+      "reference_ids": [
+        "inat_670486",
+        "inat_1819604",
+        "inat_15573394"
+      ]
+    },
+    "template_source_preset": "naja_kaouthia"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "plain",
+    "skin_color": "#90705a",
+    "marking_color": "#d9bd9b",
+    "belly_color": "#d9aa8e",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        48
+      ],
+      [
+        200,
+        59.4
+      ],
+      [
+        220,
+        62
+      ],
+      [
+        235,
+        62
+      ],
+      [
+        250,
+        60.1
+      ],
+      [
+        270,
+        51.5
+      ],
+      [
+        290,
+        47.0
+      ],
+      [
+        310,
+        36
+      ],
+      [
+        330,
+        30.0
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "cobra_profile_direct": true,
+    "ventral_markings": false,
+    "throat_bands": [
+      {
+        "y": 180,
+        "height": 9
+      },
+      {
+        "y": 210,
+        "height": 10
+      },
+      {
+        "y": 242,
+        "height": 9
+      },
+      {
+        "y": 272,
+        "height": 9
+      }
+    ],
+    "front_head_profile": {
+      "left": [
+        [
+          [
+            296.08,
+            92
+          ],
+          [
+            284.32,
+            91
+          ],
+          [
+            275.5,
+            96
+          ],
+          [
+            275.5,
+            104
+          ]
+        ],
+        [
+          [
+            275.5,
+            104
+          ],
+          [
+            275.5,
+            111
+          ],
+          [
+            281.38,
+            115
+          ],
+          [
+            288.24,
+            117
+          ]
+        ],
+        [
+          [
+            288.24,
+            117
+          ],
+          [
+            295.1,
+            122
+          ],
+          [
+            274.52,
+            139
+          ],
+          [
+            272,
+            145
+          ]
+        ]
+      ],
+      "right": [
+        [
+          [
+            296.08,
+            92
+          ],
+          [
+            306.86,
+            90
+          ],
+          [
+            318.62,
+            92
+          ],
+          [
+            324.5,
+            99
+          ]
+        ],
+        [
+          [
+            324.5,
+            99
+          ],
+          [
+            329.4,
+            106
+          ],
+          [
+            325.48,
+            138
+          ],
+          [
+            328,
+            145
+          ]
+        ]
+      ]
+    }
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "preset_id": "bitis_gabonica",
+  "species_id": "source_cbd12c83ae4b1001",
+  "source_species_name": "Bitis gabonica",
+  "common_name": "Gaboon viper",
+  "status": "illustrative_unvalidated",
+  "variant": "Leaf-litter geometric variant. Historical gabonica/rhinoceros references require taxonomic caution; no large nasal horns assigned.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://repository.naturalis.nl/pub/319202/ZM1968043009.pdf",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      },
+      {
+        "url": "https://www.nationalzoo.si.edu/animals/gaboon-viper",
+        "scope": "Broad leaf-like head and cryptic body pattern."
+      },
+      {
+        "url": "https://www.amnh.org/explore/ology/ology-cards/353-gaboon-viper",
+        "scope": "Brown, black, yellow and silver geometric pattern."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_009_gaboon_viper/manifest.json",
+        "image_id": "inat_15572304",
+        "sha256": "ab9ce3a43ebd66d2f5acc322737067b84ee1b6923d09d337405160b1792c7074",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_009_gaboon_viper/manifest.json",
+        "image_id": "inat_15695713",
+        "sha256": "6c8d4d268e324ef792684e934bc260ecb29ab8baa7577fa84f42c7e27cab7c84",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_009_gaboon_viper/manifest.json",
+        "image_id": "inat_81367802",
+        "sha256": "412cde60341d39f58535d44333a6ff87f6e84ee378f9176422932430bcf684d5",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      }
+    ],
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "variation"
+    ],
+    "review": "Reference-guided draft; no expert anatomical approval or measurements.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Much broader leaf-shaped posterior head than the rattlesnake, with tiny head scales.",
+        "Heavy anterior/middle trunk and short rapidly tapering tail.",
+        "Forehead midrib and cheek markings; no unverified large nasal horns."
+      ],
+      "projection_limit": "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "reference_ids": [
+        "inat_15572304",
+        "inat_15695713",
+        "inat_81367802"
+      ]
+    },
+    "reference_feature_map": {
+      "inat_81367802": "Broad leaf-shaped head, narrow neck, small head scales, midrib and cheek pigmentation; short tail.",
+      "inat_15572304": "Trunk mass distribution and geometric markings.",
+      "inat_15695713": "Additional trunk and pattern comparison; taxonomic identity remains provider-labelled."
+    },
+    "modeling_flags": [
+      "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic."
+    ],
+    "modeling_review_status": "previously_reviewed_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "gaboon",
+    "skin_color": "#917b64",
+    "marking_color": "#dfc58c",
+    "belly_color": "#c6b6a2",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 7.4,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 92,
+      "neck": 12,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -7,
+          4,
+          -12,
+          15,
+          -15
+        ],
+        [
+          15,
+          -15,
+          37,
+          -26,
+          59,
+          -45,
+          70,
+          -36
+        ],
+        [
+          70,
+          -36,
+          84,
+          -27,
+          80,
+          -12,
+          92,
+          -12
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          1,
+          8,
+          8,
+          13,
+          18,
+          17
+        ],
+        [
+          18,
+          17,
+          39,
+          29,
+          60,
+          45,
+          73,
+          35
+        ],
+        [
+          73,
+          35,
+          82,
+          27,
+          80,
+          12,
+          92,
+          12
+        ]
+      ],
+      "eye": [
+        56,
+        -23,
+        3.4,
+        3.0
+      ],
+      "nostril": [
+        8,
+        -2
+      ],
+      "jaw": "M3 6 Q29 17 59 21 L68 14",
+      "shields": [],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17
+    },
+    "body_stations": [
+      [
+        245,
+        222,
+        12
+      ],
+      [
+        281,
+        242,
+        24
+      ],
+      [
+        370,
+        265,
+        39
+      ],
+      [
+        463,
+        295,
+        43
+      ],
+      [
+        515,
+        344,
+        43
+      ],
+      [
+        506,
+        395,
+        40
+      ],
+      [
+        441,
+        430,
+        36
+      ],
+      [
+        341,
+        443,
+        30
+      ],
+      [
+        257,
+        472,
+        23
+      ],
+      [
+        252,
+        515,
+        16
+      ],
+      [
+        305,
+        545,
+        10
+      ],
+      [
+        360,
+        556,
+        5
+      ],
+      [
+        396,
+        557,
+        2.4
+      ],
+      [
+        412,
+        555,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ]
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 2
+}

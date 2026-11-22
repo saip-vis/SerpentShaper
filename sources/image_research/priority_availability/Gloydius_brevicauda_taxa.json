@@ -1,0 +1,65 @@
+{
+  "request_url": "https://api.inaturalist.org/v1/taxa?q=Gloydius+brevicauda&rank=species&is_active=true&per_page=10",
+  "retrieved_at": "2026-11-19T00:48:51.369609+00:00",
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 101504,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          31055,
+          101504
+        ],
+        "is_active": true,
+        "name": "Gloydius brevicaudus",
+        "parent_id": 31055,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/31055",
+        "extinct": false,
+        "provisional": false,
+        "default_photo": {
+          "id": 753556516,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) ksnaiab_\u9648\u5929\u4e50, some rights reserved (CC BY-NC), uploaded by ksnaiab_\u9648\u5929\u4e50",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/753556516/square.jpg",
+          "original_dimensions": {
+            "height": 1365,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "ksnaiab_\u9648\u5929\u4e50",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/753556516/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/753556516/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 2,
+        "observations_count": 951,
+        "flag_counts": {
+          "resolved": 1,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Gloydius_brevicaudus",
+        "complete_rank": "subspecies",
+        "matched_term": "Gloydius brevicauda",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Short-tailed Mamushi"
+      }
+    ]
+  }
+}

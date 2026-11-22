@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "preset_id": "ahaetulla_prasina",
+  "species_id": "source_b830f97e6e35cc93",
+  "source_species_name": "Ahaetulla prasina",
+  "common_name": "Oriental vine snake",
+  "status": "illustrative_unvalidated",
+  "variant": "Green adult-style Philippine reference form.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.biosch.hku.hk/ecology/hkreptiles/snake/Ahaetulla_prasina.html",
+        "scope": "Qualitative reference, no redistribution/training license inferred."
+      },
+      {
+        "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/8/3/831",
+        "scope": "Qualitative reference, no redistribution/training license inferred."
+      }
+    ],
+    "photo_references": [],
+    "external_photo_references": [
+      {
+        "path": "sources/image_research/modeling_reference_cache/ahaetulla_prasina_01.jpg",
+        "sha256": "68cddef17f536011188d76dc9367f2e1b25c4b6e4d24d73b30d9dec06ebfca8b",
+        "source_page": "https://www.biosch.hku.hk/ecology/hkreptiles/snake/Ahaetulla_prasina.html",
+        "attribution": "Anne Devan-Song / University of Hong Kong species page",
+        "scope": "Viewed both head/forebody photos; Philippine locality label retained, full-body tail not shown."
+      },
+      {
+        "path": "sources/image_research/modeling_reference_cache/ahaetulla_prasina_02.jpg",
+        "sha256": "47f7fe829df071496b9e1f4301d342a6a71c9a30e40dd299b137321355cccc15",
+        "source_page": "https://www.biosch.hku.hk/ecology/hkreptiles/snake/Ahaetulla_prasina.html",
+        "attribution": "Anne Devan-Song / University of Hong Kong species page",
+        "scope": "Viewed both head/forebody photos; Philippine locality label retained, full-body tail not shown."
+      }
+    ],
+    "reference_feature_map": {},
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_flags": [
+      "Both HKU photographs show similar oblique/lateral head angles; full tail and underside not pictured.",
+      "Tail proportion is qualitative from text; no fitted body measurement.",
+      "no_local_images"
+    ],
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Long leaf-shaped skull with gently projecting pointed snout; golden iris with horizontal pupil, no nasal appendage.",
+        "Very slender smooth green trunk, pale yellow ventrolateral margin and long tapered tail; photographed foliage excluded.",
+        "Second rendered comparison: eye moved toward snout to reduce exaggerated eye-to-tip distance; thin yellow flank lines added as continuous geometry."
+      ],
+      "projection_limit": "Artistic projected study; missing views flagged.",
+      "reference_ids": [
+        "sources/image_research/modeling_reference_cache/ahaetulla_prasina_01.jpg",
+        "sources/image_research/modeling_reference_cache/ahaetulla_prasina_02.jpg"
+      ]
+    },
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "terrestrial",
+    "pattern": "plain",
+    "skin_color": "#719c36",
+    "marking_color": "#ddd784",
+    "belly_color": "#c0d58b",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "long",
+    "scale_pitch": 5.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "horizontal",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 74,
+      "neck": 4,
+      "upper": [
+        [
+          0,
+          0,
+          8,
+          -2,
+          20,
+          -6,
+          32,
+          -9
+        ],
+        [
+          32,
+          -9,
+          44,
+          -13,
+          55,
+          -13,
+          62,
+          -9
+        ],
+        [
+          62,
+          -9,
+          66,
+          -5,
+          70,
+          -4,
+          74,
+          -4
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          11,
+          2,
+          24,
+          5,
+          38,
+          6
+        ],
+        [
+          38,
+          6,
+          51,
+          7,
+          58,
+          7,
+          64,
+          5
+        ],
+        [
+          64,
+          5,
+          68,
+          4,
+          71,
+          4,
+          74,
+          4
+        ]
+      ],
+      "eye": [
+        23,
+        -1.5,
+        3.8,
+        3.3
+      ],
+      "nostril": [
+        8,
+        0
+      ],
+      "jaw": "M1 1 Q24 5 52 5 L66 3",
+      "shields": [
+        "M10 -3 L26 -7 L38 -8 L45 -4",
+        "M45 -4 L56 -7 L62 -4 L60 2",
+        "M15 2 L24 4 L31 1 M24 4 L25 6"
+      ],
+      "lip": true,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "markings": [
+        {
+          "path": "M1 2 Q30 6 63 5",
+          "stroke": "#dcd677",
+          "width": 1
+        }
+      ],
+      "micro_scales": false,
+      "iris_color": "#d7bd61"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        4
+      ],
+      [
+        258,
+        227,
+        5
+      ],
+      [
+        305,
+        249,
+        6.2
+      ],
+      [
+        390,
+        271,
+        7.6
+      ],
+      [
+        471,
+        302,
+        8.2
+      ],
+      [
+        514,
+        347,
+        8
+      ],
+      [
+        502,
+        397,
+        7.4
+      ],
+      [
+        430,
+        431,
+        6.7
+      ],
+      [
+        330,
+        445,
+        5.6
+      ],
+      [
+        253,
+        476,
+        4.5
+      ],
+      [
+        253,
+        515,
+        3.4
+      ],
+      [
+        324,
+        550,
+        2.5
+      ],
+      [
+        425,
+        562,
+        1.8
+      ],
+      [
+        527,
+        548,
+        1.2
+      ],
+      [
+        610,
+        516,
+        0.6
+      ],
+      [
+        669,
+        468,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "ventrolateral_stripe": true
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 2
+}

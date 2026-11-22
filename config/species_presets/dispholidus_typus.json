@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "preset_id": "dispholidus_typus",
+  "species_id": "source_35d85c27d4f19a28",
+  "source_species_name": "Dispholidus typus",
+  "common_name": "Boomslang",
+  "status": "illustrative_unvalidated",
+  "variant": "Green adult male-style variant; not representative of females or all male color forms.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.africansnakebiteinstitute.com/snake/african-snakes-boomslang/",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      },
+      {
+        "url": "https://www.sanbi.org/animal-of-the-week/boomslang/",
+        "scope": "Large eyes and variable male/female coloration."
+      },
+      {
+        "url": "https://nfi.org.za/herps/snakes/boomslang.htm",
+        "scope": "Prominently keeled scales."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_007_boomslang/manifest.json",
+        "image_id": "inat_226272",
+        "sha256": "0830665a9e8f42b9f256162635d87b2c29aa2200bf63ddf0944181a184e2d5fd",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_007_boomslang/manifest.json",
+        "image_id": "inat_15165535",
+        "sha256": "976b4d347880841e5b1d958145ca2e197327e5858c5dc4d7f34087ccc5ed8fd5",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_007_boomslang/manifest.json",
+        "image_id": "inat_15183281",
+        "sha256": "5457bdb30b024499de57fb88eeb2b22d8a8bffa4900e55dd03726178be5c1156",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      }
+    ],
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "special",
+      "variation"
+    ],
+    "review": "Reference-guided draft; no expert anatomical approval or measurements.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Flatter roof, less inflated lower jaw and a gently tapered blunt snout, revised against both lateral head close-ups.",
+        "Eye remains prominent but is reduced to fit the flatter skull envelope; neck constriction retained.",
+        "Earlier long tail taper, coarse keeled scale edges; green palette is an adult-male-style option."
+      ],
+      "projection_limit": "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "reference_ids": [
+        "inat_226272",
+        "inat_15165535",
+        "inat_15183281"
+      ]
+    },
+    "reference_feature_map": {
+      "inat_15165535": "Close lateral head: blunt rounded roof, large eye region, jaw/scute arrangement and narrowed neck. Different color/stage from green preset; structural guide only.",
+      "inat_15183281": "Second lateral head: eye region and head-neck transition; not an independent population sample.",
+      "inat_226272": "Green individual: slender trunk, dark scale edges, neck/body continuity and long tail."
+    },
+    "modeling_flags": [
+      "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic."
+    ],
+    "modeling_review_status": "previously_reviewed_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "terrestrial",
+    "pattern": "edged_scales",
+    "skin_color": "#58854b",
+    "marking_color": "#283c25",
+    "belly_color": "#a5b883",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "long",
+    "scale_pitch": 7.4,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 59,
+      "neck": 5.5,
+      "upper": [
+        [
+          0,
+          0,
+          1,
+          -5,
+          4,
+          -9,
+          12,
+          -11
+        ],
+        [
+          12,
+          -11,
+          23,
+          -14,
+          34,
+          -14,
+          43,
+          -10
+        ],
+        [
+          43,
+          -10,
+          48,
+          -6,
+          52,
+          -5.5,
+          59,
+          -5.5
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          0,
+          4,
+          8,
+          9,
+          19,
+          10
+        ],
+        [
+          19,
+          10,
+          29,
+          11,
+          40,
+          9,
+          46,
+          6.5
+        ],
+        [
+          46,
+          6.5,
+          51,
+          5.5,
+          55,
+          5.5,
+          59,
+          5.5
+        ]
+      ],
+      "eye": [
+        26,
+        -0.5,
+        6.2,
+        6.3
+      ],
+      "nostril": [
+        5,
+        -2
+      ],
+      "jaw": "M1 4 Q20 8 40 7 L49 5",
+      "shields": [
+        "M5 -8 L14 -10 L19 -5 L17 4",
+        "M14 -10 L25 -13 L34 -9",
+        "M35 -10 L44 -7 L47 1 L41 7",
+        "M8 7 L9 11 M17 8 L18 14 M27 8 L28 14 M37 8 L39 12"
+      ],
+      "lip": true,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        5.5
+      ],
+      [
+        258,
+        227,
+        7
+      ],
+      [
+        305,
+        249,
+        10
+      ],
+      [
+        390,
+        271,
+        12.8
+      ],
+      [
+        471,
+        302,
+        13.4
+      ],
+      [
+        514,
+        347,
+        13
+      ],
+      [
+        502,
+        397,
+        12
+      ],
+      [
+        430,
+        431,
+        10.5
+      ],
+      [
+        330,
+        445,
+        8.6
+      ],
+      [
+        253,
+        476,
+        6.8
+      ],
+      [
+        253,
+        515,
+        5.2
+      ],
+      [
+        324,
+        550,
+        4
+      ],
+      [
+        425,
+        562,
+        2.9
+      ],
+      [
+        527,
+        548,
+        1.9
+      ],
+      [
+        610,
+        516,
+        1
+      ],
+      [
+        669,
+        468,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ]
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

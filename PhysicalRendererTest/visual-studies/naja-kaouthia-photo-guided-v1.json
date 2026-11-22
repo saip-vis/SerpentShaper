@@ -1,0 +1,17 @@
+{
+  "mode": "built-in image_gen",
+  "status": "photo_guided_visual_concept_not_validated_anatomy",
+  "output": "naja-kaouthia-photo-guided-v1.png",
+  "references": [
+    "inat_86904179",
+    "inat_102034679",
+    "inat_136221239"
+  ],
+  "limitations": [
+    "Provider-labelled references, not independently confirmed identities.",
+    "Generated scales are illustrative, not exact scale counts or one-to-one specimen reconstruction.",
+    "Reference photographs differ in specimen, lighting and view; generated plate is a visual synthesis.",
+    "No training or venom-to-phenotype mapping; existing SVG renderer unchanged."
+  ],
+  "prompt": "Use case: scientific-educational. Create a highly detailed natural-history illustration plate of Naja kaouthia (monocled cobra), for SerpentShaper, using the three attached photographs as visual references, not edit targets. Reference 1 supplies overlapping dorsal scales, differentiated large head shields, labial scales and realistic head contours; reference 2 supplies head and jaw contours only (do NOT copy cloudy eyes, blur, twigs or occlusion); reference 3 is the principal reference for healthy full-body proportions, natural expanded hood shape, ventral scutes, throat mottling, brown body and tapering tail.\nProduce a polished, realistic 2D zoological illustration on a plain clean white background, landscape format, extremely crisp anatomical detail, restrained natural shadows, no scenery or interface. Large main subject occupying left two thirds: one complete healthy cobra in an elegant grounded loose S posture with neck raised and hood expanded, FRONT THREE-QUARTER view, closed mouth, small realistic round dark pupils, blunt natural snout, broad ventral plates along the raised neck with fine transverse seams, ivory cream throat shading into grey-brown lower neck, naturally irregular dark lateral throat flecks, authentic dark neck band, dark olive/chocolate-brown back. Delicate individually articulated smooth overlapping dorsal scales must follow curvature and reduce in size appropriately toward the long slender tail; subtle pale edges and dark interstitial skin, not a repeating diamond grid. Head shields larger than body scales, realistic differentiated labial scales, natural eyes and nostrils. Complete tail visible, no cropped anatomy, correct unbroken neck-to-body transition, no extra heads or limbs.\nOn the right, a separate close-up study of the REAR of the expanded hood and back of head of the same illustrative animal, clearly spatially separate from the full-body animal. Show one cream irregular oval monocle ring with a dark brown center on the dorsal hood below head, with detailed small overlapping scales continuing THROUGH the pigmentation. No double spectacle, no painted sticker appearance. Behind-head view contains no eyes or mouth. Hood must flare from the neck below a modest narrow head, not a giant circular head or flat geometric shield. Ring follows the hood surface. This rear view is an illustrative typical marking rather than an exact photograph reconstruction.\nSmall understated text only: title \"Naja kaouthia\", main view label \"Front / three-quarter\", detail label \"Rear hood\". Avoid fantasy detailing, fangs, forked tongue, injuries, deformation, schematic tube bodies, flat polygon anatomy, harsh vector outlines, plastic CGI, patterned background, measurements and claims of scientific validation. Prioritize biological plausibility and photo-guided anatomical texture over ornament."
+}

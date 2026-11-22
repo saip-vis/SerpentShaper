@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "preset_id": "bothriechis_aurifer",
+  "species_id": "source_b0d9a2ce977327fe",
+  "source_species_name": "Bothriechis aurifer",
+  "common_name": "Yellow-blotched palm pitviper",
+  "status": "illustrative_unvalidated",
+  "variant": "Yellow dorsal blotches with dark borders and dark postocular stripe; prehensile tail proportion distinct from heavy terrestrial vipers.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442000000400025&script=sci_arttext",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_019_bothriechis_aurifer/manifest.json",
+        "image_id": "inat_61830662",
+        "sha256": "f7f4f0972b7812a56721e8aed7cb870b77a536409561c378e4534142a12cbeb2",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_019_bothriechis_aurifer/manifest.json",
+        "image_id": "inat_132952917",
+        "sha256": "591c1f0b3b66085a88ab4d5b4257f029194b76d4f29c005529d638dfd133a927",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_019_bothriechis_aurifer/manifest.json",
+        "image_id": "inat_722212911",
+        "sha256": "9f2379fe77bd8981818f41ff49219ee7c91ffe12dd57d148c0740485cdebd32d",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_61830662": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_132952917": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_722212911": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Broad triangular yet shallow head with narrow neck, blunt pointed snout; no eyelash spines.",
+        "Yellow dorsal blotches with dark borders and dark postocular stripe; prehensile tail proportion distinct from heavy terrestrial vipers.",
+        "Second rendered comparison: flattened lower jaw, moved posterior skull breadth rearward and straightened postocular marking; removed inflated oval cheek.",
+        "Third reference comparison: iris palette restrained to reference appearance; yellow aurifer blotches now retain their dark borders."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_61830662",
+        "inat_132952917",
+        "inat_722212911"
+      ]
+    },
+    "modeling_flags": [
+      "Ventral evidence sparse; posture is standardized, not a branch-grasping reconstruction."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "blotches",
+    "skin_color": "#7ea146",
+    "marking_color": "#c8c65a",
+    "belly_color": "#c5d18c",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "pointed",
+    "scale_pitch": 5.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 63,
+      "neck": 6.5,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          7.56,
+          -6.384,
+          17.01,
+          -8.064
+        ],
+        [
+          17.01,
+          -8.064,
+          30.24,
+          -12.096,
+          43.47,
+          -16.128,
+          49.77,
+          -14.784
+        ],
+        [
+          49.77,
+          -14.784,
+          54.18,
+          -6.5,
+          58.59,
+          -6.5,
+          63,
+          -6.5
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          5,
+          15.75,
+          5.78,
+          30.24,
+          7.225
+        ],
+        [
+          30.24,
+          7.225,
+          40.95,
+          8.380999999999998,
+          49.14,
+          8.67,
+          52.919999999999995,
+          6.5024999999999995
+        ],
+        [
+          52.919999999999995,
+          6.5024999999999995,
+          56.7,
+          6.5,
+          59.849999999999994,
+          6.5,
+          63,
+          6.5
+        ]
+      ],
+      "eye": [
+        21,
+        -2,
+        3.3,
+        3.63
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q22.049999999999997 4.046 44.099999999999994 5.057499999999999 L56.7 3.25",
+      "shields": [],
+      "lip": true,
+      "pit": [
+        11.55,
+        0
+      ],
+      "markings": [
+        {
+          "path": "M25 0 L53 2 L50 7 L25 4Z",
+          "fill": "#3c3b29"
+        }
+      ],
+      "iris_color": "#9d9b54"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        6.5
+      ],
+      [
+        258,
+        227,
+        9
+      ],
+      [
+        305,
+        249,
+        13
+      ],
+      [
+        390,
+        271,
+        17
+      ],
+      [
+        471,
+        302,
+        18
+      ],
+      [
+        514,
+        347,
+        17
+      ],
+      [
+        502,
+        397,
+        16
+      ],
+      [
+        430,
+        431,
+        15
+      ],
+      [
+        330,
+        445,
+        14
+      ],
+      [
+        253,
+        476,
+        12
+      ],
+      [
+        253,
+        515,
+        10
+      ],
+      [
+        324,
+        550,
+        7
+      ],
+      [
+        400,
+        555,
+        4.5
+      ],
+      [
+        460,
+        546,
+        2.7
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "blotch_border": "#35422c"
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

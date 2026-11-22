@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "preset_id": "lachesis_acrochorda",
+  "species_id": "source_4f088bd9116bc021",
+  "source_species_name": "Lachesis acrochorda",
+  "common_name": "Chocoan bushmaster",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown Choc\u00f3 bushmaster with dark-edged angular body markings.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.paulgutierrez.org/_files/ugd/148397_46dac6b495d14743ac25905e469504fc.pdf",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://mesoamericanherpetology.com/uploads/3/4/7/9/34798824/mh_3-1_fuentes_and_corrales.pdf",
+        "scope": "Species-level qualitative anatomical or taxonomic reference."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_081_lachesis_acrochorda/manifest.json",
+        "image_id": "inat_125996437",
+        "sha256": "0200a0af083ea5e4a7a051df4c30fec6b3dda776c7e2fd36d1036b57df8f255d",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_081_lachesis_acrochorda/manifest.json",
+        "image_id": "inat_165995867",
+        "sha256": "fc76e4a8da5872c9eb7446cb3cc2009c33f2266ae1206a8b45bc4d816bf89ece",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_081_lachesis_acrochorda/manifest.json",
+        "image_id": "inat_165995905",
+        "sha256": "0bd7aa6491422cc85d57ce872ebf3d9de315a6a3a7ace5395fd3dc3ec698533b",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_125996437": "Coiled brown snake: pale lip, dark diagonal eye stripe, dark angular body markings.",
+      "inat_165995867": "Uncoiled individual with pale underside and dorsal markings.",
+      "inat_165995905": "Second view of the same uncoiled individual."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo- and description-informed draft; further fitting and anatomical review required.",
+    "modeling_flags": [
+      "Two photos share an observation; complex head markings and spine-tipped tail need further fitting.",
+      "This head and body adapt a shared viper scaffold; opposite side and underside are not independently modeled."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Coiled brown snake: pale lip, dark diagonal eye stripe, dark angular body markings.",
+        "Uncoiled individual with pale underside and dorsal markings.",
+        "Second view of the same uncoiled individual.",
+        "Thickened dark borders on the initial diamond pattern after comparing it with the selected coiled individual."
+      ],
+      "projection_limit": "A single 2D shape; proportions and scale details remain artistic.",
+      "reference_ids": [
+        "inat_125996437",
+        "inat_165995867",
+        "inat_165995905"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "outlined_diamonds",
+    "skin_color": "#aa8c78",
+    "marking_color": "#332d2a",
+    "belly_color": "#e2cabb",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.2,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 76,
+      "neck": 9,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          -5.29412,
+          9.88,
+          -7.41176,
+          21.28,
+          -10.16471
+        ],
+        [
+          21.28,
+          -10.16471,
+          35.72,
+          -16.51765,
+          51.68,
+          -21.17647,
+          60.04,
+          -18.42353
+        ],
+        [
+          60.04,
+          -18.42353,
+          64.6,
+          -15.24706,
+          71.44,
+          -9.0,
+          76,
+          -9
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          2.88608,
+          4.23529,
+          17.48,
+          8.15294,
+          36.48,
+          10.37647
+        ],
+        [
+          36.48,
+          10.37647,
+          49.4,
+          14.82353,
+          59.28,
+          14.82353,
+          63.84,
+          10.37647
+        ],
+        [
+          63.84,
+          10.37647,
+          68.4,
+          9.0,
+          72.2,
+          9.0,
+          76,
+          9
+        ]
+      ],
+      "eye": [
+        28.0,
+        -3,
+        3.4,
+        3.6
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        17,
+        0
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q27.4 6 53.2 8 L68.4 4",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M30.4 -2 Q44.1 0 60.8 5 L60.8 9 Q44.1 5 30.4 2 Z",
+          "fill": "#3b302b"
+        }
+      ],
+      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
+      "micro_scales": true,
+      "iris_color": "#947865"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        9
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        24
+      ],
+      [
+        471,
+        302,
+        26
+      ],
+      [
+        514,
+        347,
+        25
+      ],
+      [
+        502,
+        397,
+        24
+      ],
+      [
+        430,
+        431,
+        22
+      ],
+      [
+        330,
+        445,
+        21
+      ],
+      [
+        253,
+        476,
+        20
+      ],
+      [
+        253,
+        515,
+        18
+      ],
+      [
+        324,
+        550,
+        16
+      ],
+      [
+        400,
+        555,
+        13
+      ],
+      [
+        460,
+        546,
+        9
+      ],
+      [
+        510,
+        528,
+        4
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "diamond_inner": 0.4
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "preset_id": "crotalus_tigris",
+  "species_id": "source_9f6b49ff6f0f56f4",
+  "source_species_name": "Crotalus tigris",
+  "common_name": "Tiger Rattlesnake",
+  "status": "illustrative_unvalidated",
+  "variant": "Pink-brown tiger rattlesnake with a relatively small head, narrow close crossbands and a large rattle.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://doi.org/10.6084/m9.figshare.24572683",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://digitallibrary.desertmuseum.org/books/nhsd_rattlesnakes3.php",
+        "scope": "Species-level qualitative reference; identity and variation require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_065_crotalus_tigris/manifest.json",
+        "image_id": "inat_10436102",
+        "sha256": "2561fc4bb4a0edfc2138b8a47ae8a52e2c7108b91283871ba676af0dc0f996e0",
+        "use": "Qualitative reference only; species label not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_065_crotalus_tigris/manifest.json",
+        "image_id": "inat_10043016",
+        "sha256": "384a265ebe8b861e89526123be8e54daae46cf9182e1eeee70230b9a56d2eeb4",
+        "use": "Qualitative reference only; species label not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_065_crotalus_tigris/manifest.json",
+        "image_id": "inat_61462418",
+        "sha256": "1e8c3331a0b82b8b0dc9c5beec66e5bf66423049d4d98ba1f266a1d9834f8ca0",
+        "use": "Qualitative reference only; species label not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_10436102": "Small head relative to trunk, many close dark crossbands, and conspicuous rattle.",
+      "inat_10043016": "Grey-brown form showing narrow body bars.",
+      "inat_61462418": "Uncoiled crossband pattern and body taper in artificial light."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; requires further visual revision and independent review.",
+    "modeling_flags": [
+      "The number and extent of crossbands are an artistic approximation, not a scale count; underside remains unreviewed.",
+      "Head shape is adapted from a shared rattlesnake scaffold and needs further species-specific fitting; opposite side and underside unverified."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Small head relative to trunk, many close dark crossbands, and conspicuous rattle.",
+        "Grey-brown form showing narrow body bars.",
+        "Uncoiled crossband pattern and body taper in artificial light.",
+        "After inspecting the render, increased the number of fine crossbands and removed unintended high-contrast tail rings."
+      ],
+      "projection_limit": "The single 2D projected study does not represent all angles; proportions are artistic.",
+      "reference_ids": [
+        "inat_10436102",
+        "inat_10043016",
+        "inat_61462418"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "crossbands",
+    "skin_color": "#ac8a77",
+    "marking_color": "#675449",
+    "belly_color": "#d5bba8",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "rattle",
+    "scale_pitch": 4.5,
+    "mark_spacing": 16,
+    "mark_size": 1,
+    "tail_segments": 7,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 54,
+      "neck": 8.5,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -0.72973,
+          -4.47368,
+          3.64865,
+          -8.05263,
+          10.21622,
+          -8.94737
+        ],
+        [
+          10.21622,
+          -8.94737,
+          20.43243,
+          -12.52632,
+          31.32,
+          -17.89474,
+          39.96,
+          -16.10526
+        ],
+        [
+          39.96,
+          -16.10526,
+          47.52,
+          -13.42105,
+          49.14,
+          -8.5,
+          54,
+          -8.5
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          0.72973,
+          4.47368,
+          5.10811,
+          8.05263,
+          11.67568,
+          8.94737
+        ],
+        [
+          11.67568,
+          8.94737,
+          21.89189,
+          11.63158,
+          33.48,
+          14.31579,
+          41.04,
+          11.63158
+        ],
+        [
+          41.04,
+          11.63158,
+          48.06,
+          8.94737,
+          50.76,
+          8.5,
+          54,
+          8.5
+        ]
+      ],
+      "eye": [
+        19.7,
+        -2.24,
+        3.1,
+        3.3
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        16,
+        0
+      ],
+      "jaw": "M1 3 Q19.4 7 37.8 9 L48.6 4.5",
+      "shields": [],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#9f8a7a",
+      "micro_scales": true,
+      "markings": []
+    },
+    "body_stations": [
+      [
+        239,
+        219,
+        10
+      ],
+      [
+        278,
+        242,
+        15
+      ],
+      [
+        370,
+        265,
+        22
+      ],
+      [
+        463,
+        295,
+        27
+      ],
+      [
+        515,
+        344,
+        29
+      ],
+      [
+        506,
+        395,
+        28
+      ],
+      [
+        441,
+        430,
+        27
+      ],
+      [
+        341,
+        443,
+        25
+      ],
+      [
+        257,
+        472,
+        23
+      ],
+      [
+        252,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        18
+      ],
+      [
+        387,
+        558,
+        14
+      ],
+      [
+        416,
+        556,
+        8
+      ],
+      [
+        435,
+        553,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "pit_cheek_band": false,
+    "tail_color": "#6f5d51",
+    "tail_color_length": 55,
+    "rattle_size": 1.4,
+    "tail_band_length": 55
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

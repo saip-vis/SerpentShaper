@@ -1,0 +1,339 @@
+SOUTH AMERICAN SNAKES IN THE COLLECTION OF THE (https://repository.si.edu/bitstream/handle/10088/15389/USNMP-67_2596_1925.pdf)
+ [wordlim: 200] Published: 2.1 years ago; MICRURUS CORALLINUS DUMERILII (Jan)
+24
+PEOCEEDINGS OF THE NATIONAL MUSEUM
+vol. 07
+2. MICRURUS CORALLINUS RIISEI
+(Jan)
+Diagnosis.—Body red with black annuli edged with whitish-yellow
+and sometimes also black (outer annuli),
+tail very dark so that the
+annuli become almost invisible; 25-30 annuli on the body in males
+and 22-31
+in females; 9-12 annuli on the
+tail in males and 6-8 in
+females;
+ventrals 180-187 in males and 193-208 in females;
+anterior
+temporal with a marked tendency to disappear.
+Type locality.—Trinidad.
+Distribution.—Found
+in
+Trinidad
+and
+Venezuela.
+There
+is
+no
+evidence that it occurs in the islands of St. Vincent and St. Thomas
+as stated by Boulenger
+(p. 420).
+3. MICRURUS CORALLINUS DUMERILII (Jan)
+Diagnosis.—Body red with black annuli edged with yellow; outer
+black annuli practically always present; 10-19 annuli on the body
+in males and 12-19 in females; 5-11 annuli on the tail in males and
+4-6
+in females; ventrals 179-209 in males and 198-213 in females;
+posterior temporal with a tendency to be subdivided.
+Type locality.— Cartagena, Colombia.
+--------------------------------------------------------------------------------
+Taxon Details | MCZbase (https://mczbase.mcz.harvard.edu/name/Micrurus%20corallinus%20dumerlii)
+ [wordlim: 200] Crawled: last month; Remarks: typo of Micrurus corallinus dumerilii; either synonym of Micrurus corallinus or Micrurus dumerilii
+
+# Micrurus corallinus dumerlii
+
+This name is not allowed for current identifications/data entry in MCZbase.
+
+Taxonomic classification for Micrurus corallinus dumerlii
+Kingdom  | Phylum  | Class  | Subclass  | Order  | Suborder  | Superfamily  | Family  | Genus  | Species  | Subspecies  | Nomenclatural_Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Animalia  | Chordata  | Reptilia  | Lepidosauromorpha  | Squamata  | Serpentes  | Colubroidea  | Elapidae  | Micrurus  | corallinus  | dumerlii  | ICZN
+
+## Name Details
+
+## Name Authority: MCZ
+
+Remarks: typo of Micrurus corallinus dumerilii; either synonym of Micrurus corallinus or Micrurus dumerilii
+
+## Common Name(s):
+
+  * No common names recorded.
+
+## Publications, Citations, and Related Names
+
+## Related Publications:
+
+  * No related publications recorded.
+
+## Cited MCZ Specimens:
+
+  * No cited MCZ specimens.
+
+## Synonyms and other Related Names:
+
+  * No related names recorded.
+
+## Related Taxon Records:
+
+Parent Genus: Micrurus Wagler, 1824
+
+Parent Species: Micrurus corallinus (Merrem, 1820)
+
+#### Related Subspecies:
+
+  * Micrurus corallinus corallinus
+  * Micrurus corallinus dumerilii
+
+## [Button: Media — 0 images ]
+
+No MCZbase specimens identified as this taxon have images
+
+## MCZbase Links and External Links
+
+## MCZbase Links:
+
+  * Specimens currently identified as Micrurus corallinus dumerlii include unaccepted IDs exact matches only
+  * BerkeleyMapper
+  * Specimens identified as Micrurus corallinus dumerlii in:
+    * unknown date (20)
+  * No specimens are cited using this name.--------------------------------------------------------------------------------
+Revista do Museu Paulista (https://upload.wikimedia.org/wikipedia/commons/f/f9/Revista_do_Museu_Paulista_%28IA_RevistadoMuseuP15Muse%29.pdf)
+ [wordlim: 200] Published: 11.2 years ago; Crawled: last week; Dumerilii* até agora descriptos devem considerar-se identicos aos de *M. corallinus* de origem colombiana e equatoriana, os quaes, deste modo, constituem uma raça local. ... **1.º — *Micrurus corallinus corallinus* (WIED) AMARAL.
+— 23 —
+
+2.º ponto: De referencia ao numero de subcaudaes de *M. corallinus*, na extensa serie examinada, elle vae de 32 a 56 nos espécimes da Colombia e Equador, sendo, portanto, confundivel com o que se encontra em *M. Dumerilii*.
+
+3.º ponto: Finalmente, a ausencia de anneis marginaes em *M. corallinus* não pode ser tomada como differença, primeiro, porque taes anneis occorrem nos espécimes da Colombia e Equador, tanto que o proprio BOULENGER incluiu na synonymia de sua *M. corallinus* a especie *M. Bocourti*, a qual se caracteriza pela presença desses anneis, conforme se vê em JAN — Icon. Gén. 42: pl. 6, fig. 2. 1872; segundo, porque elles tambem, algumas vezes, se encontram em exemplares da Trindade, segundo, aliás, o proprio BOULENGER assignalou.
+
+Nestas condições, os exemplares de *M. Dumerilii* até agora descriptos devem considerar-se identicos aos de *M. corallinus* de origem colombiana e equatoriana, os quaes, deste modo, constituem uma raça local. Da mesma maneira, se devem classificar os exemplares de Trindade (e provavelmente tambem os de Venezuela) como outra subespecie, a qual se distingue do typo pelo numero de ventraes e pela disposição, em geral, dos anneis.
+
+Baseado nestes dados, decidi reconhecer 3 subespecies bem caracterizadas, em *M. corallinus*, a saber:
+
+**1.º — *Micrurus corallinus corallinus* (WIED) AMARAL.**
+
+*Diagnose:* Corpo vermelho, com anneis negros simples, margeados de amarello-esbranquiçado; 14 a 26 anneis, sobre o corpo, nos ♂♂ e 17 e 1/2 a 27 nas ♀♀; 5 a 9 anneis, sobre a cauda, nos ♂♂ e 4 a 6 nas ♀♀; ventraes 186 a 207 nos ♂♂ e 198 a 221 nas ♀♀.
+
+*Typo:* procedente do sul da costa oriental do Brasil.--------------------------------------------------------------------------------
+OTAVIO AUGUSTO VUOLO MARQUESHISTORIA NATURAL DE Micrurus corallinus (SERPENTES, ELAPIDAE)DISSERTAÇÃO APRESENTADA AO DEPARTAMENTO (https://ecoevo.com.br/publicacoes/pesquisadores/otavio_marques/teses/tesemestradohistorianaturalmicruruscorallinus_1992.pdf)
+ [wordlim: 200] Published: 7 months ago; COLORIDOO padrão de colorido de M. corallinus pode ser ... dumerilii, M. nigrocinctus e M. psyches apresentam polimorfismo
+41DISCUSS401. CARACTERÍSTICAS DA ESPÉCIE1.1. COLORIDOO padrão de colorido de M. corallinus pode ser
+classificado como TM (tricolor com anéis em mônades), segundo
+Savage e Slowinski (1992). As espécies que apresentam corpo com
+este padrão de colorido e cauda geralmente com anéis pretos e
+brancos formam um grupo caracterizado principalmente pela
+morfologia do hemipênis (Roze e Bernal-Carlo, 1987; Campbell e
+Lamar, 1989). Algumas espécies deste grupo, como M. diastema, M.
+dumerilii, M. nigrocinctus e M. psyches apresentam polimorfismo
+em relação ao padrão de colorido (Amaral, 1927; Fraser, 1973;
+Campbell e Lamar, 1989). Embora cerca de 50% dos indivíduos
+examinados de M. corallinus apresentem irregularidades nos
+anéis, o padrão geral de colorido da espécie parece ser
+constante. Campbell e Lamar (1989) mencionam que existe variação
+da largura do colar nucal branco em M. corallinus. Baseado nos
+exemplares aqui examinados, é possível dizer que esta variação é
+ontogenética, pois indivíduos juvenis apresentam faixa nucal
+mais larga que os adultos (ver Fig. 2). Isto se deve ao fato dos
+bordos claros das escamas parietais tornarem-se escuros em
+espécimes adultos.--------------------------------------------------------------------------------
+122  Memorias do Instituto Butantan — Tomo VII (https://bibliotecadigital.butantan.gov.br/arquivos/77/PDF/13.pdf)
+ [wordlim: 200] Published: 9.1 years ago; Crawled: last year; Micrurus corallinus dumerilii (Jan)
+122  Memorias do Instituto Butantan — Tomo VII
+
+Micrurus corallinus dumerilii (Jan)
+
+M. corallinus dumerilii Amaral — Mem. Inst. Butantan IV:228.1929.
+
+N.º 73 (I. L. S.). Adulto, ♀, procedente de Muzo.  
+Labiais 7; dorsaes 15; ventraes 213; anal 2; caudaes 39 pares.  
+Corpo com 27 aneis negros; cauda com 6 aneis negros.  
+Comprimento total 637 mm.; cauda 71 mm..
+
+N.º 90 (I. L. S.). Adulto, ♂, procedente de Fusagasuga.  
+Labiais 7; dorsaes 15; ventraes 187; anal 2; caudaes 48 pares.  
+Corpo com 19 aneis negros; cauda com 8 aneis negros.  
+Comprimento total 485 mm.; cauda 79 mm..
+
+Micrurus mipartitus (D. & B.)
+
+M. mipartitus Amaral — Mem. Inst. Butantan IV:231.1929.
+
+N.º 1 (C. D.). Adulto, ♀, procedente de Jericó.  
+Labiais 7; dorsaes 15; ventraes 295; anal 2; caudaes 26 pares.  
+65 aneis vermelhos no corpo e 6 na cauda.  
+Comprimento total 862 mm.; cauda 45 mm..
+
+Micrurus narduccii (Jan)
+
+M. narduccii Amaral — Mem. Inst. Butantan IV:231.1929.
+
+N.º 72 (I. L. S.). Adulto, ♀, procedente de Putumayo.  
+Labiais 7; dorsaes 15; ventraes 259; anal 2; caudaes 16 pares.  
+Colorido negro; ventre com 32 manchas amareladas.  
+Comprimento total 400 mm.; cauda 17 mm..  
+Especie ainda não registada na Colombia.
+
+Micrurus surinamensis (Cuvier)
+
+M. surinamensis Amaral — Mem. Inst. Butantan IV:232.1929.
+
+N.º 74 (I. L. S.). Adulto, ♂, procedente de Villavicencio.  
+Labiais 7; dorsaes 15; ventraes 169; anal 2; caudaes 33 pares.  
+7 triadas de aneis negros no corpo e 1 na cauda.  
+Comprimento total 890 mm.; cauda 100 mm..  
+Especie ainda não registada na Colombia.
+
+20--------------------------------------------------------------------------------
+MCZbase MCZ:Herp:R-32744 specimen record | MCZbase (https://mczbase.mcz.harvard.edu/guid/MCZ%3AHerp%3AR-32744)
+ [wordlim: 200] Crawled: 3 weeks ago; Current Identification ... Micrurus corallinus dumerilii
+
+# MCZ Herpetology R-32744
+
+## Micrurus dumerilii Jan, 1858
+
+## Holotype of Micrurus transandinus
+
+Date Collected:
+
+## 1929-01-01/1929-12-31
+
+## South America: Colombia: Choco | Andagoya
+
+occurrenceID: https://mczbase.mcz.harvard.edu/guid/MCZ:Herp:R-32744
+
+### [Button: Cataloged Item ]
+
+  * Collection: Herpetology
+  * Catalog Number: R-32744
+  * GUID: MCZ:Herp:R-32744
+
+### [Button: Identifications ]
+
+Current Identification
+
+Micrurus dumerilii Jan, 1858
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+
+Determiner: Matt Gage on 2024-09-25
+
+Nature of ID: revised taxonomy
+
+Previous Identifications
+
+Micrurus transandinus
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+
+Determiner: Schmidt
+
+Nature of ID: type ID
+
+Remarks: Schmidt/1936
+
+Micrurus corallinus dumerilii
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+
+Determiner: Catalog
+
+Nature of ID: migration
+
+Remarks: Catalog/1997
+
+### [Button: Citations ]
+
+Schmidt 1936, page 195, Holotype of Micrurus transandinus
+
+Barbour and Loveridge 1946, page 156, Voucher of Micrurus transandinus
+
+(Media Record) (Related) (File)
+
+Shows Publication: Schmidt 1936 Description: Zool Ser field Mus Nat Hist 1940, 20(19)
+
+(Media Record) (Related) (File)
+
+Shows Publication: Barbour and Loveridge 1946 Description: MCZ Bulletin Vol. XCVI no. 2
+--------------------------------------------------------------------------------
+3 (https://bibliotecadigital.butantan.gov.br/arquivos/96/PDF/3.pdf)
+ [wordlim: 200] Crawled: 2 weeks ago; Tendo Schmidt descrito a presença de *carenas supra-anais* nos machos de *Micrurus corallinus*, examinamos cerca de 300 exemplares da raça *Micrurus corallinus corallinus* (Wied, 1820), não encontrando, contudo, nenhum macho que apresentasse escamas anais modificadas. Ao examinarmos, porém, um exemplar desta espécie, oriundo da Colômbia, notamos a presença de *carenas supra-anais* fortemente desenvolvidas, em grande número de escamas da região sacral; a nosso ver, não se trata de *M. corallinus corallinus*, mas sim de *M. corallinus dumerilii*.
+Os pequenos tubérculos, por nós observados em espécies de *Helicops*, presumimos terem a mesma origem dos observados nas placas cefálicas de *Enhydris*.
+
+### CARENAS SUPRA-ANAIS
+
+Blanchard e Schmidt descreveram, sob a denominação diferente, a presença de escamas modificadas na região sacral, em cobras com escamas lisas.
+
+Tendo Schmidt descrito a presença de *carenas supra-anais* nos machos de *Micrurus corallinus*, examinamos cerca de 300 exemplares da raça *Micrurus corallinus corallinus* (Wied, 1820), não encontrando, contudo, nenhum macho que apresentasse escamas anais modificadas. Ao examinarmos, porém, um exemplar desta espécie, oriundo da Colômbia, notamos a presença de *carenas supra-anais* fortemente desenvolvidas, em grande número de escamas da região sacral; a nosso ver, não se trata de *M. corallinus corallinus*, mas sim de *M. corallinus dumerilii*.
+
+### TUBÉRCULOS SUPRA-ANAIS
+
+Nos 45 exemplares de *Tachymenis brasiliensis* Gomes, que examinamos, encontramos 10 machos que apresentavam tubérculos anais bem desenvolvidos e de coloração mais clara do que as escamas adjacentes (Fig. V). O fato de serem de coloração diferente facilitou muito a observação, pois, em certas espécies, embora com tubérculos acentuados, torna-se difícil observá-los devido às escamas tuberculadas serem quase da mesma cor das adjacentes. Essa dificuldade torna-se ainda maior, quando os exemplares são indivíduos jovens.
+
+Nenhuma das fêmeas de *Tachymenis brasiliensis* apresentava vestígios de tubérculos supra-anais.--------------------------------------------------------------------------------
+Figura 136: Tipos de Cobra Coral do Brasil (https://repositorio.ufpb.br/jspui/bitstream/123456789/26169/1/EmmanuelDeSousaFernandesFalc%C3%A3o_Tese.pdf)
+ [wordlim: 200] Published: 3.9 years ago; Crawled: last year; Entre os nomes legíveis dos exemplares aparecem, entre outros: “Leptomicrurus collaris”, “Leptomicrurus collaris VARIAÇÃO”, “Leptomicrurus narduccii”, “Leptomicrurus scutivittatus”, “Micrurus albicinctus”, “Micrurus annellatus”, “Micrurus annellatus VARIAÇÃO”, “Micrurus lemniscatus”, “Micrurus corallinus”, “Micrurus decoratus”, “Micrurus diastema”, “Micrurus dumerilii”, “Micrurus frontalis”, “Micrurus hemprichii hemprichii”, “Micrurus hemprichii ortoni”, “Micrurus ibiboboca”, “Micrurus lemniscatus carvalhoi”, “Micrurus lemniscatus helleri”, “Micrurus lemniscatus lemniscatus”, “Micrurus mipartitus”, “Micrurus multiscutatus”, “Micrurus paraensis”, “Micrurus putumayensis”, “Micrurus remotus”, “Micrurus silviae”, “Micrurus spixi altirostris”, “Micrurus spixi martiusi”, “Micrurus spixi spixi”, “Micrurus surinamensis”, “Micrurus tener”, “Micrurus tricolor”.
+Figura 136: Tipos de Cobra Coral do Brasil
+
+<visual_element id="e1">
+Imagem/figura com o título “AS COBRAS-CORAIS DO BRASIL” e crédito “DESENHOS MARCUS BUONONATO”, mostrando vários retângulos horizontais com padrões de coloração de cobras-corais do Brasil, organizados em três colunas. Há exemplos com cabeças desenhadas à esquerda e faixas vermelhas, pretas, brancas, amarelas e outras combinações; alguns retângulos estão destacados por molduras verdes. Legenda visível no topo esquerdo: “Cabeça pouco destacada do corpo com escudo arredondado, olho negro e pupila imperceptível”. No topo central: “Cauda relativamente curta com extremidade abrupta”. No topo direito: “Padrões e manchas em escamas ventrais não são estes mas incompletos”. Entre os nomes legíveis dos exemplares aparecem, entre outros: “Leptomicrurus collaris”, “Leptomicrurus collaris VARIAÇÃO”, “Leptomicrurus narduccii”, “Leptomicrurus scutivittatus”, “Micrurus albicinctus”, “Micrurus annellatus”, “Micrurus annellatus VARIAÇÃO”, “Micrurus lemniscatus”, “Micrurus corallinus”, “Micrurus decoratus”, “Micrurus diastema”, “Micrurus dumerilii”, “Micrurus frontalis”, “Micrurus hemprichii hemprichii”, “Micrurus hemprichii ortoni”, “Micrurus ibiboboca”, “Micrurus lemniscatus carvalhoi”, “Micrurus lemniscatus helleri”, “Micrurus lemniscatus lemniscatus”, “Micrurus mipartitus”, “Micrurus multiscutatus”, “Micrurus paraensis”, “Micrurus putumayensis”, “Micrurus remotus”, “Micrurus silviae”, “Micrurus spixi altirostris”, “Micrurus spixi martiusi”, “Micrurus spixi spixi”, “Micrurus surinamensis”, “Micrurus tener”, “Micrurus tricolor”. Abaixo da figura aparece “Fonte: Hiper Cultura”.
+</visual_element>
+
+Um padrão, visivelmente coeso, enquanto denominador comum da maioria dos retângulos em destaque da Figura 136, é a presença de três cores, vermelho, preto e branco, separados por setores regulares. Os Potiguara, quando diante de fotos de cobras corais diferentes, exibidas por celular, com formato de cabeças e espessuras distintas, pareciam se sentir inseguros em afirmar se são as cobras corais que identificam no setor que habitam, porque era mais fácil ver e identificar, pessoalmente, em contexto real, em vez de analisar fotos. Dessa--------------------------------------------------------------------------------
+Serpientes Linajes, variabilidad del veneno y señales de advertencia en las serpientes coral del Nuevo Mundo (https://serpientes.ins.gov.co/Paginas/es/2.aspx)
+ [wordlim: 200] Crawled: last week; De forma general, se reconocen cuatro tipos de disposición de anillos entre las serpientes de coral del género Micrurus, que se correlacionan con los linajes en su árbol filogenético [2,5,6].
+
+Las corales son ampliamente reconocidas por ser altamente venenosas, así como por sus patrones de anillos de colores brillantes. En general, sus anillos presentan tres colores que normalmente incluyen un color claro (blanco o amarillo), un color brillante (rojo o naranja) y un color contrastante (negro o vino tinto muy oscuro). No obstante, algunas especies pueden presentar patrones de color atípicos, o anillos incompletos [5–8]. De forma general, se reconocen cuatro tipos de disposición de anillos entre las serpientes de coral del género Micrurus, que se correlacionan con los linajes en su árbol filogenético [2,5,6]. Las disposiciones de los anillos descritas a continuación corresponden al patrón de coloración del cuerpo (dorso y vientre) de las serpientes coral, las cuales pueden variar, presentarse o no, en las superficies dorsales de la cabeza y cola (Figura 1).
+
+  1. Bicolor: anillos en el cuerpo dispuestos en dos colores, alternando el negro con un color claro o brillante (blanco o amarillo). --------------------------------------------------------------------------------
+Venom of the Coral Snake Micrurus clarki: Proteomic Profile, Toxicity, Immunological Cross-Neutralization, and Characterization of a Three-Finger Toxin (https://pmc.ncbi.nlm.nih.gov/articles/PMC4885053/)
+ [wordlim: 200] Published: 10.6 years ago; Crawled: last month; Micrurus clarki ([ref-type: fig] Figure 1 [Source reference: [Source link 6]]A) is an uncommon, slender to medially robust coral snake with a reported maximum length of 920 mm, although most adults average between 400 and 600 mm. This species has a tricolored pattern with narrow yellow bands bordering the black bands followed by single red bands, and a characteristic black head cap that extends over most of the snout and parietals.
+
+Coral snakes (Elapidae) comprise some 71 species that are widely distributed in tropical and subtropical regions of the New World, from Southeastern USA to Central Argentina [[ref-type: bibr] 1 [Source reference: [Source link 1]],[ref-type: bibr] 2 [Source reference: [Source link 2]],[ref-type: bibr] 3 [Source reference: [Source link 3]]]. Envenomings by these snakes are far less frequent than those inflicted by viperids, but are of medical concern [[ref-type: bibr] 4 [Source reference: [Source link 4]],[ref-type: bibr] 5 [Source reference: [Source link 5]]].
+
+Micrurus clarki ([ref-type: fig] Figure 1 [Source reference: [Source link 6]]A) is an uncommon, slender to medially robust coral snake with a reported maximum length of 920 mm, although most adults average between 400 and 600 mm. This species has a tricolored pattern with narrow yellow bands bordering the black bands followed by single red bands, and a characteristic black head cap that extends over most of the snout and parietals. M. clarki has a discontinuous distribution from the Tárcoles basin in Central Pacific Costa Rica southward to the Pacific lowlands of Western Panamá, where it inhabits lowlands of the Canal Zone, to Pacific Darien, and Western Colombia. --------------------------------------------------------------------------------
+Coralsnake Diversity in Brazil (https://www.researchgate.net/publication/354512227_Coralsnake_Diversity_in_Brazil)
+ [wordlim: 200] Published: 5.3 years ago; Crawled: 4 months ago; M. hemprichii (Jan, 1858) ... Micrurus psyches corallinus A maral, 1931: 89. ... Micrurus mipartitus (Duméril, Bibron, and ... Triad pattern variation in Micrurus frontalis
+--------------------------------------------------------------------------------
+Chapter 2 (https://serpientes.ins.gov.co/en/Paginas/2.aspx)
+ [wordlim: 200] Crawled: last week; This pattern occurs in a group of species known as pygmy coral snakes, which were previously grouped in a different genus, Leptomicrurus.
+--------------------------------------------------------------------------------
+Aproximación Taxonómica de Serpientes de Coral en Colombia (Tesis BIOL) - Studocu (https://www.studocu.com/co/document/pontificia-universidad-javeriana/biologia-basica/serpientes-de-coral-tesis-julian-andres-gonzalez-vega-corregida-final/66450048?origin=university-course-page)
+ [wordlim: 200] Published: 4.9 years ago; Crawled: last week; Micrurus mipartitus Esta especie se caracteriza por poseer una coloración naranja en la zona de posterior la cabeza, por poseer anillos naranjas en la cola y por tener mínimo 35 bandas negras en el cuerpo.
+--------------------------------------------------------------------------------
+Consecutive envenomation of two men bitten by the same coral snake ( Micrurus corallinus ) (https://www.researchgate.net/publication/333057900_Consecutive_envenomation_of_two_men_bitten_by_the_same_coral_snake_Micrurus_corallinus)
+ [wordlim: 200] Published: 7.5 years ago; Crawled: 3 months ago; and M. dumerilii, are dominated by PLA ... The offending coral snake (a 42-cm-long Micrurus corallinus) brought for identification, showing the tricolor monadal pattern (A, B and C), the black ceph-
+--------------------------------------------------------------------------------
+Micrurus corallinus (https://www.mindat.org/taxon-5227011.html)
+ [wordlim: 200] Crawled: last month; Description  | Micrurus corallinus is a species of highly venomous elapid snake native to South America (Brazil, Argentina and Paraguay). ... Micrurus corallinus dumerilii
+--------------------------------------------------------------------------------
+ONOMASTIC OF SNAKE SPECIES SCIENTIFIC NAMES Snake species in the genus Micrurus (https://www.researchgate.net/publication/403734593_ONOMASTIC_OF_SNAKE_SPECIES_SCIENTIFIC_NAMES_Snake_species_in_the_genus_Micrurus)
+ [wordlim: 200] Published: 10 months ago; Crawled: 4 months ago; Micrurus frontalis (DUMÉRIL, BIBRON & DUMÉRIL, 1854)
+
+The species epithet frontalis is a morphology-based descriptor of scalation. ... The original description specifically emphasizes the
+--------------------------------------------------------------------------------
+A Translation of Mertens, R. 1956. Das Problem der Mimikry bei Korallenschlangen (The problem of mimicry in coralsnakes) (https://www.researchgate.net/publication/374938819_A_Translation_of_Mertens_R_1956_Das_Problem_der_Mimikry_bei_Korallenschlangen_The_problem_of_mimicry_in_coralsnakes)
+ [wordlim: 200] Published: 3.9 years ago; Crawled: 3 weeks ago; Micrurus lemniscatus (Plate 6, Figs. ... (Micrurus, Micruroides), the pattern on the venter is about the same as on the dorsum 7: that is, the
+--------------------------------------------------------------------------------
+Immunological Cross-Reactivity and Preclinical Assessment of a Colombian Anticoral Antivenom against the Venoms of Three Micrurus Species (https://pmc.ncbi.nlm.nih.gov/articles/PMC10891627/)
+ [wordlim: 200] Published: 2.8 years ago; Crawled: 3 weeks ago; In order to increase the knowledge of the species comprised within the groups and to determine the similarities or differences within each one, the venoms of M. medemi and M. sangilensis were selected as examples of monadic patterns, whereas the venom of M. helleri was selected as an example of a triadic pattern. ... For instance, the most important components in Micrurus venoms are the three-finger toxins (3FTxs) and PLA_{2}s, which are ubiquitous in all Micrurus species analyzed to date [22]. The abundance of these toxins depends on the species and may vary from 80% 3FTxs in species like M. corallinus and M. tschudii to ca. 20% in M. dumerilii.
+--------------------------------------------------------------------------------
+Micrurus (https://en.wikipedia.org/wiki/Micrurus)
+ [wordlim: 200] Crawled: 5 days ago; Coral Snakes of the Americas: Biology, Identification, and Venoms. Malabar, Florida: Krieger Publishing Company. xii + 328 pp., 38 maps, 63 color photographs, 49 color pattern drawings. ... * Micrurus corallinus (Merrem, 1820) – painted coral snake ... * Micrurus dumerilii (Jan, 1858) – Capuchin coral snake
+--------------------------------------------------------------------------------
+Coral snake (https://en.wikipedia.org/wiki/Coral_snake)
+ [wordlim: 200] Crawled: 3 months ago; * Micrurus frontalis (A.M.C. ... * Micrurus fulvius (Linnaeus, 1766) – eastern coral snake (U.S. coastal plains of North Carolina to Louisiana)
+--------------------------------------------------------------------------------
+List of reptiles of Brazil (https://en.wikipedia.org/wiki/List_of_reptiles_of_Brazil)
+ [wordlim: 200] Crawled: today; * Micrurus lemniscatus (Linnaeus, 1758) ... * Micrurus mipartitus (Duméril, Bibron & Duméril)
+--------------------------------------------------------------------------------
+Liste der Schlangenarten (https://de.wikipedia.org/wiki/Liste_der_Schlangenarten)
+ [wordlim: 200] Crawled: 3 weeks ago;  Micrurus corallinus | Bunte Korallenotter, Gemalte Korallenotter | Elapidae | Giftnattern | Elapinae | Echte Giftnattern | Korallenottern |  |  (Least Concern – nicht gefährdet) | Argentinien, Brasilien, Paraguay |  Bunte Korallenotter (Micrurus corallinus)  | (Merrem, 1820) ...  Micrurus dumerilii | Dumerils Korallenotter, Kapuzen-Korallenotter | Elapidae | Giftnattern | Elapinae | Echte Giftnattern | Korallenottern |  |  (Least Concern – nicht gefährdet) | Ecuador, Kolumbien, Panama, Venezuela |  Dumerils Korallenotter (Micrurus dumerilii)  | (Jan, 1858)
+--------------------------------------------------------------------------------
+Korallenottern (https://de.wikipedia.org/wiki/Korallenottern)
+ [wordlim: 200] Crawled: 1.4 years ago; * Micrurus circinalis (Duméril, Bibron & Duméril, 1854) ... * Micrurus corallinus (Merrem, 1820)
+--------------------------------------------------------------------------------
+Micrurus (https://fr.wikipedia.org/wiki/Micrurus)
+ [wordlim: 200] Crawled: 2 weeks ago; Micrurus fulvius ... ## Description
+--------------------------------------------------------------------------------
+Coral snake vomiting another snake. (https://www.reddit.com/r/natureismetal/comments/ssf4qh)
+ [wordlim: 200] Published: 4.8 years ago; Crawled: 1.4 years ago;     There aren't any milk or kingsnake species (genus *Lampropeltis*) that exhibit this colour pattern. ...     Based on the name Giba I'm guessing this is from Brazil, in which case I'd bet on *Micrurus corallinus* rather than *M. dumerilii*, but otherwise completely agree with everything you said. ...       The traditional color-based rhyme for coralsnakes isn't recommended as an identification trick as it isn't foolproof and only applies to snakes that live in parts of North America.
+

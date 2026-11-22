@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "purpose": "Illustration requirements, separate from biological measurements and renderer implementation.",
+  "global_rules": {
+    "anatomy": [
+      "Use a continuous head–neck–trunk–tail silhouette or seamlessly joined overlapping paths. No flat cut ends at joins.",
+      "Construct the body along one continuous centreline with a smooth width envelope; taper the tail to its tip.",
+      "Coils have consistent front/back occlusion; remove hidden outlines instead of drawing seams through the body.",
+      "Use the same anatomical model for every view; a perspective change must not change proportions."
+    ],
+    "presentation": [
+      "Neutral background, restrained shading, consistent line weight.",
+      "Separate full-body lateral view from expanded dorsal-hood and ventral-hood detail panels; label every view.",
+      "No scale bar unless calibrated to an explicitly selected measured specimen.",
+      "Show the species label, display state, variant scope, evidence sources and illustration status."
+    ],
+    "evidence": [
+      "An unextracted trait is unknown, not absent.",
+      "Keep measured values, qualitative descriptions, reference-image observations and artistic parameters separate.",
+      "No inference from venom composition; no ML training implied.",
+      "Do not copy damaged anatomy, preservation color or restraint-induced poses into a healthy animal preset.",
+      "Reference selection does not change image acceptance decisions. Honor existing injury/deformation exclusions."
+    ],
+    "acceptance_checks": [
+      "One continuous silhouette from snout to tail; no gaps, rectangular neck bases or detached head.",
+      "No visible join seams, impossible crossings or disconnected tail.",
+      "Markings clipped to the correct anatomical surface and transformed with that surface.",
+      "No eyes on the back of the head; avoid generic circular head shapes without reference support.",
+      "Directional scale texture follows body curvature; omit unresolved detail rather than invent diagnostic scale counts.",
+      "A human checks full-body and hood detail against identified, healthy living references before scientific-reference status."
+    ]
+  },
+  "species": {
+    "source_a950cdcbfc05a9a0": {
+      "source_species_name": "Naja kaouthia",
+      "status": "brief_drafted_reference_selection_pending",
+      "biological_profile": "data/processed/morphology/physical_profiles.json",
+      "brief_document": "docs/physical_profiles/NajaKaouthiaIllustrationBrief.md",
+      "views": [
+        {
+          "id": "full_body_lateral",
+          "surface": "lateral",
+          "display_state": "relaxed",
+          "requirements": [
+            "Continuous cylindrical trunk; anatomical head/neck transition; gradually tapering tail.",
+            "Eye only on visible side; hood unexpanded."
+          ]
+        },
+        {
+          "id": "hood_dorsal",
+          "surface": "dorsal",
+          "display_state": "expanded",
+          "requirements": [
+            "Head facing away; hood below head; smoothly narrowing lower hood merges into trunk.",
+            "Single pale monocle with dark centre on rear hood; no ventral throat band on this surface."
+          ]
+        },
+        {
+          "id": "hood_ventral",
+          "surface": "ventral",
+          "display_state": "expanded",
+          "requirements": [
+            "No dorsal monocle. Pale throat and sourced throat pattern; show only anatomically visible eyes."
+          ]
+        }
+      ],
+      "markings": [
+        {
+          "id": "monocle",
+          "surface": "dorsal_hood",
+          "geometry": "single_ring_with_dark_centre",
+          "default_presence": "illustrative_typical_variant_not_universal",
+          "anchor": "within expanded hood below head; exact position and ring thickness await selected reference",
+          "visible_in": [
+            "hood_dorsal"
+          ],
+          "source_url": "https://www.academia.edu/1479078/W%C3%BCster_W_1998_The_cobras_of_the_genus_Naja_in_India_Hamadryad_23_15_32",
+          "variation": "Ring outline and internal spots vary; a perfect circle is not required."
+        }
+      ],
+      "artistic_parameters": {
+        "label": "unmeasured_artistic_controls",
+        "body_width_ratio": null,
+        "head_width_ratio": null,
+        "hood_width_ratio": null,
+        "tail_total_length_ratio": null,
+        "eye_head_ratio": null,
+        "monocle_hood_ratio": null,
+        "palette_hex": null
+      },
+      "variant_selection": {
+        "life_stage": "adult illustration target",
+        "sex": null,
+        "locality": null,
+        "body_pattern": null,
+        "palette": null,
+        "status": "select coherent references before choosing a geographic palette; do not combine unrelated regional variants"
+      },
+      "reference_requirements": [
+        {
+          "view": "full_body_lateral",
+          "selection_status": "pending",
+          "selected_photo_id": null,
+          "criteria": [
+            "Healthy complete animal including tail",
+            "Minimal foreshortening and obstruction",
+            "Taxonomic identity and provenance checked"
+          ]
+        },
+        {
+          "view": "hood_dorsal",
+          "selection_status": "pending",
+          "selected_photo_id": null,
+          "criteria": [
+            "Living healthy expanded hood",
+            "Monocle and head/neck transition clearly visible",
+            "Known orientation; no hands covering hood"
+          ]
+        },
+        {
+          "view": "hood_ventral",
+          "selection_status": "pending",
+          "selected_photo_id": null,
+          "criteria": [
+            "Throat pattern visible",
+            "Natural hood silhouette not distorted by restraint"
+          ]
+        }
+      ],
+      "reference_candidates": [
+        {
+          "kind": "local_pilot",
+          "path": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+          "status": "provider_labelled_not_verified_for_illustration"
+        },
+        {
+          "kind": "publication_figure",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9774835/#animals-12-03481-f007",
+          "locator": "Figure 7, South Asian living individuals",
+          "status": "candidate_only_check_panel_locality_and_permissions"
+        },
+        {
+          "kind": "publication_figure",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9774835/#animals-12-03481-f008",
+          "locator": "Figure 8, Southeast Asian living individuals",
+          "status": "candidate_only_check_panel_locality_and_permissions"
+        }
+      ],
+      "excluded_reference_uses": [
+        {
+          "url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "reason": "Results specimen has lost tail and preserved coloration. Retain as textual anatomy evidence; exclude as healthy tail/color/whole-animal pose template."
+        }
+      ],
+      "known_source_issues": [
+        "2022 revision contains inconsistent regional labels in scale-count discussion and conflicting banding wording. Do not convert these passages into pooled numeric defaults."
+      ],
+      "previous_prototype": {
+        "path": "PhysicalRendererTest/index.html",
+        "status": "superseded_visual_experiment_not_reference_approved",
+        "known_defects": [
+          "Abrupt neck/body seam",
+          "Unreferenced head and hood geometry",
+          "Uniform grid texture",
+          "Unmeasured coil proportions"
+        ]
+      },
+      "venom_trait_mapping": null
+    }
+  }
+}

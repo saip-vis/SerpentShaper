@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "preset_id": "crotalus_scutulatus",
+  "species_id": "source_aab14f495defa826",
+  "source_species_name": "Crotalus scutulatus",
+  "common_name": "Mojave Rattlesnake",
+  "status": "illustrative_unvalidated",
+  "variant": "Olive-sand Mohave form with dorsal diamonds and narrow black tail bands.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://tpwd.texas.gov/education/resources/texas-junior-naturalists/be-nature-safe/venomous-snake-safety",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://www.nps.gov/sagu/learn/nature/snakes.htm",
+        "scope": "Species-level qualitative reference; identity and variation require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
+        "image_id": "inat_2780340",
+        "sha256": "fb4859fba3ed032cc6ffe61f5e3cff3dff2b79077add4bf51d3030d974fd66b0",
+        "use": "Qualitative reference only; species label not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
+        "image_id": "inat_4431046",
+        "sha256": "5b82cf5b78ff49449cdd80f373c75bfb42347814e161d5156b6ae5e8edbe1f05",
+        "use": "Qualitative reference only; species label not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
+        "image_id": "inat_4810654",
+        "sha256": "b030a1294d6ba7156d965d6886f02ce7d4b6192cb4346cbf617a41ceece9136a",
+        "use": "Qualitative reference only; species label not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_2780340": "Coiled snake with dorsal blotches.",
+      "inat_4431046": "Patterned body and contrasting banded tail.",
+      "inat_4810654": "Natural-light pale form; head and tail detail limited."
+    },
+    "unextracted_fields": [
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; requires further visual revision and independent review.",
+    "modeling_flags": [
+      "Viewed pilot photos do not resolve the head scales sufficiently; an institutional reference supports narrower dark tail bands.",
+      "Head shape is adapted from a shared rattlesnake scaffold and needs further species-specific fitting; opposite side and underside unverified."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Coiled snake with dorsal blotches.",
+        "Patterned body and contrasting banded tail.",
+        "Natural-light pale form; head and tail detail limited.",
+        "After inspection, made the dark tail bands narrower than the light bands as described by the National Park Service."
+      ],
+      "projection_limit": "The single 2D projected study does not represent all angles; proportions are artistic.",
+      "reference_ids": [
+        "inat_2780340",
+        "inat_4431046",
+        "inat_4810654"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "diamonds",
+    "skin_color": "#9c9a79",
+    "marking_color": "#ded6b3",
+    "belly_color": "#dbceb2",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "rattle",
+    "scale_pitch": 7.4,
+    "mark_spacing": 52,
+    "mark_size": 1,
+    "tail_segments": 5,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 73,
+      "neck": 9.5,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -0.96053,
+          -4.75,
+          3.84211,
+          -8.55,
+          13.44737,
+          -10.45
+        ],
+        [
+          13.44737,
+          -10.45,
+          24.97368,
+          -13.3,
+          42.26316,
+          -21.85,
+          53.78947,
+          -19.0
+        ],
+        [
+          53.78947,
+          -19.0,
+          63.39474,
+          -15.2,
+          66.27632,
+          -9.5,
+          73,
+          -9.5
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          0.96053,
+          4.75,
+          6.72368,
+          8.55,
+          15.36842,
+          10.45
+        ],
+        [
+          15.36842,
+          10.45,
+          27.85526,
+          13.3,
+          43.22368,
+          18.05,
+          53.78947,
+          14.25
+        ],
+        [
+          53.78947,
+          14.25,
+          64.35526,
+          11.4,
+          67.23684,
+          9.5,
+          73,
+          9.5
+        ]
+      ],
+      "eye": [
+        26.89,
+        -2.85,
+        3.1,
+        3.3
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        16,
+        0
+      ],
+      "jaw": "M1 3 Q26.3 7 51.1 9 L65.7 4.5",
+      "shields": [],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#a88b5e",
+      "micro_scales": true,
+      "markings": [
+        {
+          "path": "M28.5 1 Q43.8 4 58.4 8",
+          "stroke": "#dbcfb4",
+          "width": 1.3
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        239,
+        219,
+        10
+      ],
+      [
+        278,
+        242,
+        15
+      ],
+      [
+        370,
+        265,
+        22
+      ],
+      [
+        463,
+        295,
+        27
+      ],
+      [
+        515,
+        344,
+        29
+      ],
+      [
+        506,
+        395,
+        28
+      ],
+      [
+        441,
+        430,
+        27
+      ],
+      [
+        341,
+        443,
+        25
+      ],
+      [
+        257,
+        472,
+        23
+      ],
+      [
+        252,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        18
+      ],
+      [
+        387,
+        558,
+        14
+      ],
+      [
+        416,
+        556,
+        8
+      ],
+      [
+        435,
+        553,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "pit_cheek_band": false,
+    "tail_band_length": 76,
+    "tail_band_spacing": 10,
+    "tail_band_dark_fraction": 0.3,
+    "tail_band_dark": "#302e29",
+    "tail_band_light": "#dcd6c1"
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "preset_id": "hemachatus_haemachatus",
+  "species_id": "source_9388ac39e3ae8ac4",
+  "source_species_name": "Hemachatus haemachatus",
+  "common_name": "Rinkhals",
+  "status": "illustrative_unvalidated",
+  "variant": "Selected illustrated color and display form; individual variation is substantial.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.africansnakebiteinstitute.com/articles/more-info-on-the-rinkhals/",
+        "scope": "Existing source profile; not yet applied to this template."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_076_hemachatus_haemachatus/manifest.json",
+        "image_id": "inat_59843087",
+        "sha256": "00182e7cba29318fe89f22fde8b0e53c12e99917ca4affd7068559610aaf9d0d",
+        "use": "Qualitative shape and pattern reference; no measurements fitted."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_076_hemachatus_haemachatus/manifest.json",
+        "image_id": "inat_75779198",
+        "sha256": "ddf4f1346ae5391a48998dc54f71080121066c2d060825657bac121174fffc3a",
+        "use": "Qualitative shape and pattern reference; no measurements fitted."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_076_hemachatus_haemachatus/manifest.json",
+        "image_id": "inat_651427097",
+        "sha256": "4bb6a206d2a29fd2f341a9aa071c55b587a7e73c8c75617e43a8c71aa00a944b",
+        "use": "Qualitative shape and pattern reference; no measurements fitted."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_59843087": "Provider-labelled photograph of selected form, used qualitatively for body, hood or head.",
+      "inat_75779198": "Provider-labelled photograph of selected form, used qualitatively for body, hood or head.",
+      "inat_651427097": "Provider-labelled photograph of selected form, used qualitatively for body, hood or head."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "pattern",
+      "ventral",
+      "eyes",
+      "variation"
+    ],
+    "review": "First reference-guided hood and color draft; head and pattern need further review.",
+    "modeling_flags": [
+      "Head shape still uses shared stylized cobra head and requires species-specific remodeling.",
+      "Hood shapes and throat patterns are qualitative approximations; exact band placement and symmetry are not measured.",
+      "Source images have not received expert identity verification."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Dark defensive display with pale transverse bands; keeled body scales distinguish this form."
+      ],
+      "projection_limit": "Stylized shared head, artistic hood proportions; individual and geographic variation remain.",
+      "reference_ids": [
+        "inat_59843087",
+        "inat_75779198",
+        "inat_651427097"
+      ]
+    },
+    "template_source_preset": "naja_kaouthia"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "plain",
+    "skin_color": "#46413b",
+    "marking_color": "#d4c7ab",
+    "belly_color": "#c8baa2",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        43
+      ],
+      [
+        220,
+        54
+      ],
+      [
+        260,
+        47
+      ],
+      [
+        305,
+        33
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "cobra_profile_direct": true,
+    "ventral_markings": false,
+    "throat_bands": [
+      {
+        "y": 180,
+        "height": 24
+      },
+      {
+        "y": 210,
+        "height": 23
+      },
+      {
+        "y": 255,
+        "height": 18
+      }
+    ]
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 2
+}

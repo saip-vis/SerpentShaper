@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "preset_id": "bothrops_erythromelas",
+  "species_id": "source_809fd1d820b9ebb4",
+  "source_species_name": "Bothrops erythromelas",
+  "common_name": "Caatinga lancehead",
+  "status": "illustrative_unvalidated",
+  "variant": "Adult-style brown/olive variant; historical source label retained.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://repositorio.ufc.br/bitstream/riufc/2343/1/2004_dis_fcmsousa.pdf",
+        "scope": "Qualitative morphology reference; local photo identity remains provider-labelled."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_036_bothrops_erythromelas/manifest.json",
+        "image_id": "inat_111788282",
+        "sha256": "85b93363ed0a831c770e9c6ff209bff0c72277b0cddb7ca9fe3f9781313e39db",
+        "use": "Qualitative healthy-anatomy reference; no measurement fitting."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_036_bothrops_erythromelas/manifest.json",
+        "image_id": "inat_125601946",
+        "sha256": "ce940d87cb05a794a23bc25a2ee5e65c3225bd38412a49ab4283eea2b47806e6",
+        "use": "Qualitative healthy-anatomy reference; no measurement fitting."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_036_bothrops_erythromelas/manifest.json",
+        "image_id": "inat_300612211",
+        "sha256": "9da57da7580b851f0234706c72437f269ed20e53a5d05bf1dad24e778b07f554",
+        "use": "Qualitative healthy-anatomy reference; no measurement fitting."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_036_bothrops_erythromelas/manifest.json",
+        "image_id": "inat_418715540",
+        "sha256": "1b5b7b90c2df06ae0b922b23644c1f41084779fd822302b4de7664bb5189f929",
+        "use": "Qualitative healthy-anatomy reference; no measurement fitting."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_111788282": "Selected head/body/pattern reference after contact-sheet review; no population or calibrated ratio inference.",
+      "inat_125601946": "Selected head/body/pattern reference after contact-sheet review; no population or calibrated ratio inference.",
+      "inat_300612211": "Selected head/body/pattern reference after contact-sheet review; no population or calibrated ratio inference.",
+      "inat_418715540": "Selected head/body/pattern reference after contact-sheet review; no population or calibrated ratio inference."
+    },
+    "unextracted_fields": [
+      "body",
+      "tail",
+      "scales",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Short lance head, pale lip and dark postocular stripe; rusty-brown upper head, paired trapezoids, clearly keeled trunk. Photo 2 supplies ventral glimpse.",
+        "Second rendered comparison: smoother crown-to-neck transition, broader pale labial region and individually separated labial seams; hook marks refined into offset kidney-shaped outlines.",
+        "Third reference comparison: labial seams spaced individually for the selected skull width; small crown scales preserved independently. Scute drawing is stylized, not a diagnostic scale count."
+      ],
+      "projection_limit": "Photo pose/stage prevents measured reconstruction; illustration coordinates artistic.",
+      "reference_ids": [
+        "inat_111788282",
+        "inat_125601946",
+        "inat_300612211",
+        "inat_418715540"
+      ]
+    },
+    "modeling_flags": [
+      "Gray and reddish variants differ; do not average their palettes."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "trapezoids",
+    "skin_color": "#a47b57",
+    "marking_color": "#533e2d",
+    "belly_color": "#c8b99f",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.7,
+    "mark_spacing": 65,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 63,
+      "neck": 8,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          8.19,
+          -6.6499999999999995,
+          17.64,
+          -9.12
+        ],
+        [
+          17.64,
+          -9.12,
+          29.61,
+          -14.82,
+          42.84,
+          -19,
+          49.77,
+          -16.53
+        ],
+        [
+          49.77,
+          -16.53,
+          53.55,
+          -13.68,
+          59.22,
+          -8,
+          63,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          4,
+          14.49,
+          8.25,
+          30.24,
+          10.5
+        ],
+        [
+          30.24,
+          10.5,
+          40.95,
+          15,
+          49.14,
+          15,
+          52.919999999999995,
+          10.5
+        ],
+        [
+          52.919999999999995,
+          10.5,
+          56.7,
+          8,
+          59.849999999999994,
+          8,
+          63,
+          8
+        ]
+      ],
+      "eye": [
+        23,
+        -2,
+        3.8,
+        3.9899999999999998
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        12.65,
+        0
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q22.049999999999997 6.0 44.099999999999994 8.25 L56.7 4.0",
+      "shields": [
+        "M6 1 L8 6 L7 12",
+        "M13 1 L15 6 L14 12",
+        "M21 1 L23 6 L22 12",
+        "M29 1 L31 6 L30 12",
+        "M39 1 L41 6 L40 12",
+        "M48 1 L50 6 L49 12"
+      ],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M27 0 L53 2 L50 8 L27 5Z",
+          "fill": "#493b2c"
+        },
+        {
+          "path": "M1 4 Q22.049999999999997 9.0 44.099999999999994 9.0 L52.919999999999995 4.8",
+          "stroke": "#c8b99f",
+          "width": 2.3
+        }
+      ],
+      "labial_boundary": "M-3 1 Q22.049999999999997 0 42.21 4 L65 6 L65 35 L-3 35Z",
+      "micro_scales": true
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8
+      ],
+      [
+        258,
+        227,
+        13
+      ],
+      [
+        305,
+        249,
+        20
+      ],
+      [
+        390,
+        271,
+        26
+      ],
+      [
+        471,
+        302,
+        27
+      ],
+      [
+        514,
+        347,
+        26
+      ],
+      [
+        502,
+        397,
+        24
+      ],
+      [
+        430,
+        431,
+        22
+      ],
+      [
+        330,
+        445,
+        20
+      ],
+      [
+        253,
+        476,
+        17
+      ],
+      [
+        253,
+        515,
+        13
+      ],
+      [
+        324,
+        550,
+        8
+      ],
+      [
+        400,
+        555,
+        5
+      ],
+      [
+        460,
+        546,
+        2.7
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

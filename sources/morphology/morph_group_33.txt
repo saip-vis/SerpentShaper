@@ -1,0 +1,297 @@
+Vipera kaznakovi | The Reptile Database (https://reptile-database.reptarium.cz/Vipera/kaznakovi)
+ [wordlim: 200] Crawled: last month; # Vipera kaznakovi NIKOLSKY, 1909 ... Coloration is not bright. ... On taxonomy of three viper species of the Vipera kaznakowi complex [in Russian].
+pontica: Turkey, Republic of Georgia; Type locality: Coruh Valley, Artvin Province, NE Turkey  
+Reproduction  | ovoviviparous 
+Types  | Lectotype: ZMT 4408, designated by Orlov and Tuniyev, 1990: 6. Syntypes (5), according to Nikolsky (1916:246) as seen in the English translation.
+Holotype: SNP (given as SDCSNBR 541), adult male, (Scientific Department, Caucasian State Nature Biosphere Reserve, Sochi), June 24, 1998, coll. B. S. Tuniyev [magnifica]
+Holotype: GNM (Göteborg Natural History Museum) [pontica] 
+Diagnosis  | Diagnosis (magnifica). A small viper of the Eurosiberian group. Coloration is not bright. Number of ventral shields and number of crown shields are the biggest for all representatives of "kaznakovi" complex.
+Unfortunately we had to temporarily remove additional information as this was scraped by multiple AI companies who sell that data. However, these details, e.g. detailed descriptions (about between half a page and a page) are available for collaborators and contributors. Please contact us if you need any of this material. 
+--------------------------------------------------------------------------------
+Russian Journal o f Herpetology (https://npsochi.ru/upload/iblock/bb5/zyv53ij01t0n9e0a0ut9x66u3rgxk9l8.pdf)
+ [wordlim: 200] The color pattern of ... the “second” in coloration after Vipera kaznakovi)
+Two New Species of Vipers of “kaznakovp' Complex from the Western Caucasus
+123
+step-meadows and ecotones of Juniper forests (Figs. 
+7, 8). Altitudinal variations from 450 to 950 m a.s.l.
+Vipera magnifica sp. nov.
+species 
+in 
+Karachayevo-Cherkesskaya 
+Republic 
+(Map).
+Biotops. Biotops are represented by light oak 
+grass woods and areas with dry meadows and shrub­
+bery on the rocky ledge of lime massifs (Fig. 12) in 
+the altitudes from 700 up to 1000 m a.s.l. It is a relic 
+viper survived in Belo-Labinskii refuge of Colchian 
+biota on the northern slope of the Great Caucasus.
+Systematic notes. Comparison of three species 
+of vipers “kaznakovi” complex shows significant dif­
+ference in external morphology (Tables 3, 4), size 
+and coloration. The smallest species among the ex­
+amined vipers is Vipera magnifica sp. nov. Greater 
+number of ventral shields and crown scales (Tables 3, 
+4) is typical for the same species. The color pattern of 
+this viper is very much alike with the pattern of 
+Vipera dinniki, however, there are bright tints in the 
+coloration and probably it is the least intensively col­
+ored species of all representatives of “kaznakovi” 
+complex.
+More light coloration of the head in comparison 
+with the coloration of the body, brown zig-zag, and 
+presence of light or practically white head shields 
+(cantals, labials) is typical for Vipera orlovi sp. nov. 
+There are both bright colored specimens (which are 
+the “second” in coloration after Vipera kaznakovi) 
+and specimens which approaches Vipera renardi in 
+coloration. Less number of ventral shields and num­
+ber of crown shields are more typical for Vipera orlo­
+vi sp. nov. (Tables 3, 4).
+It is necessary to underline the difference in natu­
+ral history of the species examined. Vipera kaznakovi 
+is a typical mesophil species, inhabited foothill Col-
+TABLE 2. Variation in Scalation of Type Series of Vipera magni­
+fica sp. nov. (3 males, 2 females)
+Characters
+Limits
+X ± m
+Ventrals males
+135-- 142
+138.67 + 2.03
+Ventrals females
+MO-- 141
+140.50 ± 0.50
+Subcaudals males
+33--36
+34.33 ± 0.88
+Subcaudals females
+27--28
+27.50 ± 0.50
+Scale rows on neck
+25--30
+28.40 ± 1.03
+Midbody scale rows
+21 --23
+21.40 ± 0.80
+Scale rows of posterior part of body
+17-- 18
+17.20 ± 0.20
+Supralabials*
+16--20
+18.00 ± 0.27
+Sublabials*
+19--21
+20.20 ± 0.38
+Circumoculars*
+18--20
+19.00 ± 0.45
+Loreals*
+8 -- 14
+10.80 ± 2.78
+Apicals
+1 --2
+1.40 + 0.13
+Rostral index
+1.12-- 1.31
+1.21 + 0.04
+Сrown scales
+8 -- 11
+9.80 ± 3.19
+* Counted as sum of both sides.
+Vipera kaznakovi —  Kramer, 1961:703 - 7 0 5  (part.) 
+Vipera kaznakowi —  Vedmederja et al., 1986:55 -  56 
+(part.)
+Vipera kaznakowi —  Orlov and Tuniyev, 1986:121 (part.) 
+Vipera kaznakowi —  Orlov and Tuniyev, 1990:1 -  36 
+(pan.)
+Diagnosis. A small viper of the Eurosiberian 
+group. Coloration is not bright. Number of ventral 
+shields and number of crown shields are the biggest 
+for all representatives of “kaznakovi” complex.
+Etymology. Specific name from magnifica (La­
+tin, magnificent). Vipera magnifica was called due to 
+miracle combination of pattern and coloration.
+--------------------------------------------------------------------------------
+Vipera orlovi | The Reptile Database (https://reptile-database.reptarium.cz/Vipera/orlovi?search_param=%28%28genus%3D%27e%27%29%29)
+ [wordlim: 200] Crawled: 4 weeks ago; Vipera kaznakovi — KRAMER 1961:703 (part.) ... Head has more light coloration than body. ... The genome of V. orlovi is composed of the genomes of Vipera kaznakovi (major part) and of Vipera renardi (about 20%).
+
+# Vipera orlovi TUNIYEV & OSTROVSKIKH, 2001
+
+Higher Taxa  | Viperidae, Viperinae, Caenophidia, Alethinophidia, Serpentes, Squamata (snakes)
+Subspecies  |  
+Common Names  | Russian: Гадюка Орлова 
+Synonym  | Vipera orlovi TUNIYEV & OSTROVSKIKH, 2001
+Vipera kaznakovi — KRAMER 1961:703 (part.)
+Vipera dinniki orlovi — SCHWEIGER 2009
+Vipera orlovi — LIVIGNI 2013: 351
+Pelias orlovi — WALLACH et al. 2014: 533
+Pelias orlovi — TUNIYEV 2016
+Pelias orlovi— DUNAEV & ORLOVA 2017
+vipera orlovi — JOGER & ZINENKO 2021 
+Distribution  | W Caucasus (50-1100 m elevation)
+Type locality: Papai Mountain, Krasnodarskii region, Russia  
+Reproduction  | ovoviviparous 
+Types  | Holotype: SNP (given as SD CSNBR 528), adult male, (Scientific Department, Caucasian State Nature Biosphere Reserve, Sochi), May 12, 1997, coll. S. V. Ostrovskikh. 
+Diagnosis  | Diagnosis: A medium-size viper of the Eurosibe-rian group. Head has more light coloration than body. Canthals and labials are white. Number of ventral shields and number of crown shields are the least for all representatives of "kaznakovi" complex.
+--------------------------------------------------------------------------------
+Вопросы герпетологии. Материалы Третьего съезда Герпетологического общества им. А. М. Никольского. (https://www.zin.ru/societies/nhs/doc/iii_nhs_the_problems_of_herpetology.pdf)
+ [wordlim: 200] Published: 18.6 years ago; Furthermore, was described new pattern of coloration, which was called «one-colour». ... Color polymorphism in populations of Orlov’s viper is very high and similar those in (*Vipera (Pelias) dinniki*).
+
+Видам змей *kaznakovi*-комплекса присущ уникальный полиморфизм окраски и рисунка (Nilson et al., 1995) выделили 6 основных цветовых морф и описали их распространение в некоторых популяциях гадюки Динника (*Vipera (Pelias) dinniki*).
+Материалы III съезда Герпетологического общества им. А. М. Никольского 337
+
+ЦВЕТОВЫЕ МОРФЫ ГАДЮКИ ОРЛОВА — *Vipera (Pelias) orlovi* (OPHIDIA, VIPERINAE)
+
+С. В. Островских
+
+Кубанский государственный университет, Краснодар
+
+COLOUR MORPH OF ORLOV’S VIPER — *Vipera (Pelias) orlovi* (OPHIDIA, VIPERINAE)
+
+S. V. Ostrovskikh
+
+Kuban State University, Krasnodar
+
+In populations of Orlov’s viper (*Vipera (Pelias) orlovi*) was found the following colour morphs: «kaznakovi», «dinniki», «ursinii», «bronze» and «melanism». Furthermore, was described new pattern of coloration, which was called «one-colour». The vipers of «kaznakovi» and «dinniki» morph are more frequently met. No male was found out among 29 vipers of «bronze» morph and this phenotype, probably, are attribution only for females. One of the characteristics of this species is a low occurrence of melanistic individuals. Color polymorphism in populations of Orlov’s viper is very high and similar those in (*Vipera (Pelias) dinniki*).
+
+Видам змей *kaznakovi*-комплекса присущ уникальный полиморфизм окраски и рисунка (Nilson et al., 1995) выделили 6 основных цветовых морф и описали их распространение в некоторых популяциях гадюки Динника (*Vipera (Pelias) dinniki*). Хотя авторы отмечают некоторое перекрывание морф у отдельных особей, в целом они довольно четко идентифицируются. Ряд особенностей окраски гадюки Орлова отмечен ранее (Tuniyev, Ostrovskikh, 2001). Целью данной работы является изучение распространения различных вариантов окраски в популяциях вида.
+
+Исследования проводили на территории Краснодарского края в окрестностях станицы Убинская (Северский район), а также пос. Новый и горного массива Папай (Абинский район) в 1987—2006 гг. Цветовые морфы змей определяли в соответствии с классификацией, предложенной Nilson et al. (1995). Соотношение типов окраски среди новорожденных змей изучали на потомстве 12 самок, отловленных на поздних стадиях беременности. Самки после родов и молодняк выпущены в места отлова самок.
+
+В популяциях гадюки Орлова отмечено 5 основных форм окраски, описанных Nilson et al. (1995) — «kaznakovi», «dinniki», «ursinii», «bronze» и «melanism». Кроме того, встречены две особи, вообще лишенные какого-либо рисунка и окрашенные в ровный розовато-коричневый цвет без существенных различий на верхней и нижней стороне тела. Данный редкий тип окраски (2% встреч) выделили в качестве отдельной морфы, названной нами «one-colour».--------------------------------------------------------------------------------
+ECOLOGIA BALKANICA (https://web.uni-plovdiv.bg/mollov/EB/2013_vol5_iss2/%5B99-101%5D_eb.13204.pdf)
+ [wordlim: 200] Published: 9 months ago; Data on the reproduction of a Caucasian Viper, Vipera kaznakovi Nikolsky, 1909… ... Coloration of the newborn juveniles ... However, the dorsum ground color
+increased to 3 to 8. However, most of the 
+available data was obtained from captive 
+individuals. We urgently need to obtain data 
+on the ecology of V. kaznakovi in the wild to 
+help protect the species from future threats. 
+ 
+Coloration of the newborn juveniles 
+was slightly different from that of the 
+female. Dorsum ground colour is black, 
+with two longitudinal red brown stripes 
+forming an intervening zig-zag shaped or 
+straight black dorsal band present as 
+indicated by ORLOV & TUNIYEV (1990), 
+HÖGGREN et al. (1993) and MALLOW et al. 
+(2006). However, the dorsum ground color 
+of the juveniles is more brightly coloured 
+(ORLOV & TUNIYEV, 1990) than that of the 
+female. ORLOV & TUNIYEV (1990) also 
+reported that the head pattern of the 
+juveniles is separated from the dorsal stripe 
+by a light area as is shown in Fig. 1. The 
+ventrum is black. 
+Acknowledgements 
+With thanks to David Bird for valuable 
+comments and reviewing the English.  
+ 
+References 
+BARAN 
+İ., 
+M. 
+ATATÜR. 
+1998. 
+Turkish 
+Herpetofauna 
+--------------------------------------------------------------------------------
+Kaznakov's Viper Facts and Pictures (https://www.reptilefact.com/kaznakovs-viper.html)
+ [wordlim: 200] Published: 9.9 years ago; Crawled: 2 months ago; Endemic to Turkey, Georgia and Russia, the Kaznakov’s Viper is a species of highly venomous viper that was named in honor of Russian naturalist Aleksandr Nikolaevich Kaznakov. ... Scientific name  | Vipera kaznakovi ... Coloration  | Grayish to brownish black
+
+# Kaznakov’s Viper
+
+Endemic to Turkey, Georgia and Russia, the Kaznakov’s Viper is a species of highly venomous viper that was named in honor of Russian naturalist Aleksandr Nikolaevich Kaznakov.
+
+  * ### Scientific Classification
+
+  * ### Quick Information
+
+Kingdom  | Animalia
+Phylum  | Chordata
+Subphylum  | Vertebrata
+Class  | Reptilia
+Order  | Squamata
+Suborder  | Serpentes
+Family  | Viperidae
+Subfamily  | Viperinae
+Genus  | Vipera
+Species  | V. kaznakovi
+Scientific name  | Vipera kaznakovi
+
+Other Names  | Caucasus viper, Kaznakow’s viper, Kaznakov’s viper, Caucasus adder
+Length  | 65 to 70 cm (26 to 28 in)
+Coloration  | Grayish to brownish black
+Distribution  | Turkey, Georgia and Russia
+Habitat  | Forested slopes of mountains, the beds of wet ravines and post-forested clearings
+Diet  | Rodents and amphibians including frogs and toads
+Venom Fact  | Venomous
+IUCN Conservation Status  | Endangered
+
+## Kaznakov’s Viper Pictures Gallery
+
+    Kaznakovs Viper Pictures
+
+    Kaznakovs Viper
+
+    Kaznakovs Vipers
+
+    Kaznakows Viper
+
+    Vipera Kaznakovi
+
+    Kaznakov’s Viper Images
+
+    Kaznakov’s Viper Baby
+
+Published on January 13th 2017 by staff under Snakes. Article was last reviewed on 13th June 2019.--------------------------------------------------------------------------------
+Two new species of vipers.pdf (https://www.academia.edu/32881764/Two_new_species_of_vipers_pdf)
+ [wordlim: 200] Published: 25.6 years ago; Crawled: 3 months ago; Variation in Scalation and Color Pattern Characters o f Vipera orlovi sp. nov. (n = 13) Characters o f pholidosis Limits X± m Ventrals (females, n = 7) 1 3 3 - 141 137.29 ± 0.99 Ventrals (males, n = 6) 1 2 6 - 134 131.50 ± 1.23 Subcaudals (males, n = 6) 3 4 -3 9 36.83 ± 0.79 Subcaudals (females, n = 7) 2 7 -3 4 30.57 ± 0.97 Apicals 1 -2 1.15 ± 0.04 Rostral index 1 .0 5 -1 .5 0 1.17 ± 0.04 Pre-ventrals 0 -2 1.15 ± 0.15 Supralabials* 1 6 -2 1 18.08 + 0.29 Scale rows o f neck 2 2 -2 6 23.69 ± 0.32 Midbody scale rows 2 1 -2 3 21.15 ± 0.15 Scale rows o f posterior part o f body 1 5 - 18 17.00 ± 0.20 Sublabials* 1 8 -2 2 20.38 ± 0.43 Circumoculars* 1 7 -2 2 19.23 ± 0 .4 7 Zig-Zag windings 47 - 59/46 - 60 52.62 ± 1.06/53.00 ± 1 .1 0 Loreals* 7 -1 4 10.23 ±0.61 * Counted as sum o f both sides. ... There are both bright colored specimens (which are 543, semiadult male, Shakhghireevskoe Gorge, June the “second” in coloration after Vipera kaznakovi) 24, 1998, coll.
+ It is a relic Vipera kaznakow i — V edm ederja et al., 1986:55 - 56 viper survived in Belo-Labinskii refuge o f Colchian (part.) biota on the northern slope o f the Great Caucasus. Vipera kaznakow i — O rlov and T uniyev, 1986:121 (part.) Systematic notes. Comparison o f three species Vipera kaznakow i — O rlov and T uniyev, 1990:1 - 36 o f vipers “kaznakovi” complex shows significant dif­ (p a n .) ference in external morphology (Tables 3, 4), size Diagnosis. A small viper o f the Eurosiberian and coloration. The smallest species among the ex­ group. Coloration is not bright. Number o f ventral amined vipers is Vipera magnifica sp. nov. Greater shields and number o f crown shields are the biggest number of ventral shields and crown scales (Tables 3, for all representatives o f “kaznakovi” complex. 4) is typical for the same species. The color pattern of Etymology. Specific name from magnifica (La­ this viper is very much alike with the pattern of tin, magnificent). Vipera magnifica was called due to Vipera dinniki, however, there are bright tints in the miracle combination o f pattern and coloration. coloration and probably it is the least intensively col­ Holotype. --------------------------------------------------------------------------------
+Data on the reproduction of a Caucasian Viper, Vipera kaznakovi Nikolsky, 1909 (Serpentes: Viperidae) from Hopa (Northeastern Anatolia, Turkey) (https://www.academia.edu/97395690/Data_on_the_reproduction_of_a_Caucasian_Viper_Vipera_kaznakovi_Nikolsky_1909_Serpentes_Viperidae_from_Hopa_Northeastern_Anatolia_Turkey_)
+ [wordlim: 200] Published: 12.9 years ago; Crawled: today;  The mean weight had increased to 5.10 161.4 mm (155–172 mm) TL (Table 1). g (4.4 – 5.8) and the rate of increase was Coloration of the newborn juveniles about 61% (59% - 64%). ... Dorsum ground colour is black, reach 200 mm in SVL and they had with two longitudinal red brown stripes increased their size about 38% from birth. forming an intervening zig-zag shaped or In summary, our results confirmed straight black dorsal band present as previous data about reproduction of V. indicated by ORLOV & TUNIYEV (1990), kaznakovi and range of clutch size was HÖGGREN et al. (1993) and MALLOW et al. increased to 3 to 8. ... However, the dorsum ground color available data was obtained from captive of the juveniles is more brightly coloured individuals.
+ The mean weight had increased to 5.10 161.4 mm (155–172 mm) TL (Table 1). g (4.4 – 5.8) and the rate of increase was Coloration of the newborn juveniles about 61% (59% - 64%). ORLOV & TUNIYEV was slightly different from that of the (1990) reported one year old individuals female. Dorsum ground colour is black, reach 200 mm in SVL and they had with two longitudinal red brown stripes increased their size about 38% from birth. forming an intervening zig-zag shaped or In summary, our results confirmed straight black dorsal band present as previous data about reproduction of V. indicated by ORLOV & TUNIYEV (1990), kaznakovi and range of clutch size was HÖGGREN et al. (1993) and MALLOW et al. increased to 3 to 8. However, most of the (2006). However, the dorsum ground color available data was obtained from captive of the juveniles is more brightly coloured individuals. We urgently need to obtain data (ORLOV & TUNIYEV, 1990) than that of the on the ecology of V. kaznakovi in the wild to female. ORLOV & TUNIYEV (1990) also help protect the species from future threats. reported that the head pattern of the juveniles is separated from the dorsal stripe Acknowledgements by a light area as is shown in Fig. 1. The With thanks to David Bird for valuable ventrum is black. comments and reviewing the English. In captivity, females frequently give birth at night (ORLOV & TUNIYEV, 1990; References MAMET & KUDRYAVTSEV, 1997). The cluch BARAN İ., M. ATATÜR. 1998. Turkish size of V.kaznakovi generally is between 3 Herpetofauna (Amphibians and and 5 (ORLOV & TUNİEV, 1990; MALLOW et Reptiles). Ankara, Republic of Turkey al., 2006). The newborns are 145 mm in SVL Ministry of Environment, 214 p. and weigh 4.1 g (ORLOV & TUNIYEV, 1990). ANANJEVA N.B., N.L. ORLOV, R.G. MAMET & KUDRYAVTSEV (1997) reported KHALIKOV, I.S.--------------------------------------------------------------------------------
+The poorly known Anatolian Meadow Viper, Vipera anatolica: new morphological and ecological data (https://www.academia.edu/35629565/The_poorly_known_Anatolian_Meadow_Viper_Vipera_anatolica_new_morphological_and_ecological_data)
+ [wordlim: 200] Crawled: 5 months ago; # The poorly known Anatolian Meadow Viper, Vipera anatolica: new morphological and ecological data ... A total of seven specimens (5 males and 2 females) belonging to the poorly known Anatolian Meadow Viper, Vipera anatolica collected during the field trips of the late April and the mid-October 2014 were evaluated taxonomically by describing its pholidotic, metric features and other descriptive characteristics. ... Vipera pontica sp.n. from northeastern Turkey and Transcaucasia is a member of the Vipera kaznakovi group characterized by partial fragmentation of frontal and parietals, sharp canthus rostralis, and a colour pattern on the head of the Vipera dinnicki type. ... Diagnosis.
+Diagnosis. A medium-size viper o f the Eurosiberian group. Head has more light coloration than body. Canthals and labials are white. Number o f ventral shields and number o f crown shields are(the least for all representatives o f "kaznakovi" complex.
+
+HERPETOLOGICA ROMANICA Vol. 8, 2014, pp.1-10 ISSN: 1842-9203 Article No. 141101 The poorly known Anatolian Meadow Viper, Vipera anatolica: new morphological and ecological data. Bayram GÖÇMEN1*, John MULDER2, Mert KARIŞ1 and M. Anıl OĞUZ1 1. Zoology Section, Department of Biology, Faculty of Science, Ege University, 35100 Bornova, İzmir, Turkey. 2. Department of Vertebrates, Natural History Museum Rotterdam, the Netherlands. *Corresponding author: B. Göçmen, E-mail: [email protected] Tel: +90 (232) 311 17 95, Fax: +90 (232) 388 10 36 Abstract. A total of seven specimens (5 males and 2 females) belonging to the poorly known Anatolian Meadow Viper, Vipera anatolica collected during the field trips of the late April and the mid-October 2014 were evaluated taxonomically by describing its pholidotic, metric features and other descriptive characteristics. Some biological and ecological information were also given. Keywords: Vipera anatolica, distribution, habitat, morphology, Turkey. Introduction A new taxon within the Vipera ursinii complex was described by Eiselt & Baran (1970) based on two female snakes collected in 1969 by A.--------------------------------------------------------------------------------
+New data about hybridization between Vipera nikolskii Vedmederya, Grubant et Ru., Grubant et Ru. Grubant et Ru. daeva, 1986 and Vipera berus berus (Linnaeus, 1758) and their contact zones in Ukraine (https://www.researchgate.net/publication/263312784_New_data_about_hybridization_between_Vipera_nikolskii_Vedmederya_Grubant_et_Ru_Grubant_et_Ru_Grubant_et_Ru_daeva_1986_and_Vipera_berus_berus_Linnaeus_1758_and_their_contact_zones_in_Ukraine)
+ [wordlim: 200] Published: 22.9 years ago; Crawled: 3 months ago; Available data on hybridization of Nikolsky’s adder (Vipera nikolskii VEDMEDERYA, GRUBANT & RUDAEVA, 1986) and the common adder (Vipera berus [LINNAEUS, 1758]) are summarised. ... • number of black (type I) adult specimens; ... Colouration of juvenile specimens of both species is hardly differenti- ... like as in V. berus (DE S MEDT 2001) and as in juveniles of V. nikolskii (own data).
+--------------------------------------------------------------------------------
+Geocaching - The Official Global GPS Cache Hunt Site (https://www.geocaching.com/geocache/GC78XEW_hopa-caucasian-viper-vipera-kaznakovi)
+ [wordlim: 200] Published: 9.4 years ago; Crawled: last month; Hopa/Caucasian viper (Vipera kaznakovi or Pelias kaznakovi) is a species of poisonous snake that lives in Caucasia and endemic to Turkey, Georgia, and Russia. ... The color of the backside varies from yellowish to brownish and grayish. ... Coloration varies from young to mature in the transition period.
+--------------------------------------------------------------------------------
+Taxonomy browser Taxonomy Browser (Vipera orlovi) (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1296989)
+ [wordlim: 200] Crawled: last month; ## Vipera orlovi
+--------------------------------------------------------------------------------
+Orlov’s Viper | Herpeton Academy (https://academy.herpeton.net/en/caresheets/snakes/vipera-orlovi/)
+ [wordlim: 200] Published: 2 months ago; Crawled: last month; Species Vipera orlovi
+
+Vipera orlovi is retained by the Reptile Database; older works also use Pelias orlovi or relate it to V. dinniki.
+--------------------------------------------------------------------------------
+Kaznakov's Viper — Identification, Venom & Facts (https://www.snakeidentifier.com/encyclopedia/kaznakov-s-viper)
+ [wordlim: 200] Crawled: 2 months ago; Image: Kaznakov's Viper (Vipera kaznakovi)Caucasus viper by Tim Vickers at English Wikipedia, via Wikimedia Commons, Public domain ... How to Identify Kaznakov's Viper (Identification Guide)A guide to recognizing Kaznakov's Viper by its zigzag back pattern, coppery-orange coloration in males, and Caucasus mountain range.
+--------------------------------------------------------------------------------
+Intact protein mass spectrometry reveals intraspecies variations in venom composition of a local population of Vipera kaznakovi in Northeastern Turkey (https://www.researchgate.net/publication/331031988_Intact_protein_mass_spectrometry_reveals_intraspecies_variations_in_venom_composition_of_a_local_population_of_Vipera_kaznakovi_in_Northeastern_Turkey)
+ [wordlim: 200] Published: 7.5 years ago; Crawled: 3 months ago; Vipera kaznakovi ... of Artvin and Rize in northeastern Turkey (Figure 1), through Georgia to Russia. ... distinctive characteristic of this species is the black coloration with elements of an orange
+--------------------------------------------------------------------------------
+Orlovs Viper (https://de.wikipedia.org/wiki/Orlovs_Viper)
+ [wordlim: 200] Crawled: 7 months ago;  Vipera orlovi ... Die Orlovs Viper (Vipera orlovi), auch Nordwestkaukasus-Viper genannt, ist eine Art der Echten Ottern (Vipera) innerhalb der Vipern (Viperidae).
+--------------------------------------------------------------------------------
+Vipera kaznakovi (https://fr.wikipedia.org/wiki/Vipera_kaznakovi)
+ [wordlim: 200] Crawled: 6 months ago; Vipera kaznakovi, parfois appelée vipère de Kaznakov, est une espèce de serpents de la famille des Viperidae. ... La coloration la plus fréquente en fait une espèce distinctive au sein du genre Vipera : un fond noir brillant d'où se détache sur le dos un contour orangé à rouge assez vif autour d'un épais zigzag central noir, ce contour formant parfois seulement deux lignes dorso-latérales sur fond noir lorsque le zigzag central est si épais qu'il n'est plus qu'une large bande noire.
+--------------------------------------------------------------------------------
+Vipera orlovi (https://en.wikipedia.org/wiki/Vipera_orlovi)
+ [wordlim: 200] Crawled: 6 months ago; Vipera orlovi ... The specific name, orlovi, is in honor of Russian herpetologist Nikolai Liutsianovich Orlov (born 1952).
+--------------------------------------------------------------------------------
+Vipera dinniki (https://fr.wikipedia.org/wiki/Vipera_dinniki)
+ [wordlim: 200] Crawled: 6 months ago; Chez certains spécimens (morphe « kaznakovi » rappelant Vipera kaznakovi) le zigzag sombre est très épais jusqu'à presque former une bande sombre qui rétrécie la couleur de fond à deux étroites bandes claires en zigzag. Le morphe « ursinii » qui domine dans la partie orientale de l'aire de répartition a une coloration moins vive rappelant Vipera ursinii.
+--------------------------------------------------------------------------------
+Vipera (https://en.wikipedia.org/wiki/Vipera)
+ [wordlim: 200] Crawled: 2 days ago; The color scheme and camouflage of the members of this genus vary widely, from a grayish ground color with dark brown transverse bands to browner colors with grey transverse bands edged with black in the case of V. ammodytes. ... *  Species Vipera orlovi at The Reptile Database  www.reptile-database.org. ... (Vipera orlovi, pp.
+--------------------------------------------------------------------------------
+Vipère péliade (https://fr.wikipedia.org/wiki/Vip%C3%A8re_p%C3%A9liade)
+ [wordlim: 200] Crawled: 2 weeks ago; Vipera berus nikolskii (Vedmederja, Grubant & Rudajewa, 1986) est considérée comme une espèce par de nombreux auteurs, sous le nom de Vipera nikolskii, ce qui reste controversé, tandis que Vipera walser est réintégrée comme sous-espèce de Vipera berus. ... * (en) Vedmederja, Grubant & Rudayeva, 1986 : On the question of the name of the black viper in the forest steppes of the European part of the USSR [in Russian].
+

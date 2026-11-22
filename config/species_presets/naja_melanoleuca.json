@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "preset_id": "naja_melanoleuca",
+  "species_id": "source_bbfc4168f2a75898",
+  "source_species_name": "Naja melanoleuca",
+  "common_name": "Forest Cobra",
+  "status": "illustrative_unvalidated",
+  "variant": "Black forest-cobra form with a cream throat and broad dark band.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://doi.org/10.6084/m9.figshare.24572683",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Naja/melanoleuca",
+        "scope": "Species description and taxonomy; geographic variation and current name require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_110_naja_melanoleuca/manifest.json",
+        "image_id": "inat_427474599",
+        "sha256": "549b8a840c257444b3e0e8e5a5df91995ddee91f323daa9b2dd35b684cc00d45",
+        "use": "Qualitative reference; provider species label not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_110_naja_melanoleuca/manifest.json",
+        "image_id": "inat_427474602",
+        "sha256": "2a31b6d54aaa480d8b5388484ac05dd2a3e99e8a2456687a7ef3531935097c76",
+        "use": "Qualitative reference; provider species label not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_110_naja_melanoleuca/manifest.json",
+        "image_id": "inat_249824435",
+        "sha256": "3846c59c8f9e34cd80daaa7d2edfeaf0cea9a5b15787e10e5f62737306d644c0",
+        "use": "Qualitative reference; provider species label not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_427474599": "Expanded hood with pale underside, dark throat band, and dark body.",
+      "inat_427474602": "Second angle of the same hooded individual; head and sides partly obscured.",
+      "inat_249824435": "Distant swimming view with dark body, unsuitable for detailed head fitting."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; hood and head require further fitting and independent review.",
+    "modeling_flags": [
+      "The expanded hood photos are the same individual. The forest-cobra complex and locality require taxonomic checking; other color forms exist.",
+      "Head and hood use a shared cobra scaffold and require detailed species-specific anatomical comparison.",
+      "The oblique procedural head still differs from the frontal head in the selected photograph; separate-angle fitting is needed."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Expanded hood with pale underside, dark throat band, and dark body.",
+        "Second angle of the same hooded individual; head and sides partly obscured.",
+        "Distant swimming view with dark body, unsuitable for detailed head fitting.",
+        "On inspecting the selected hood photo at full size, changed the head to tan and shifted the hood flare upward, with a gradual lower taper."
+      ],
+      "projection_limit": "Display posture is an artistic projection; hood width and head proportions are not measurements.",
+      "reference_ids": [
+        "inat_427474599",
+        "inat_427474602",
+        "inat_249824435"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "plain",
+    "skin_color": "#303535",
+    "marking_color": "#bba57d",
+    "belly_color": "#d2bc8c",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        65
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        220,
+        72
+      ],
+      [
+        235,
+        69
+      ],
+      [
+        250,
+        64
+      ],
+      [
+        270,
+        56
+      ],
+      [
+        290,
+        47
+      ],
+      [
+        310,
+        37
+      ],
+      [
+        330,
+        30
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "cobra_profile_direct": true,
+    "ventral_markings": false,
+    "front_head_profile": {
+      "left": [
+        [
+          [
+            295.88,
+            92
+          ],
+          [
+            283.52,
+            91
+          ],
+          [
+            274.25,
+            96
+          ],
+          [
+            274.25,
+            104
+          ]
+        ],
+        [
+          [
+            274.25,
+            104
+          ],
+          [
+            274.25,
+            111
+          ],
+          [
+            280.43,
+            115
+          ],
+          [
+            287.64,
+            117
+          ]
+        ],
+        [
+          [
+            287.64,
+            117
+          ],
+          [
+            294.85,
+            122
+          ],
+          [
+            273.22,
+            139
+          ],
+          [
+            272,
+            145
+          ]
+        ]
+      ],
+      "right": [
+        [
+          [
+            295.88,
+            92
+          ],
+          [
+            307.21,
+            90
+          ],
+          [
+            319.57,
+            92
+          ],
+          [
+            325.75,
+            99
+          ]
+        ],
+        [
+          [
+            325.75,
+            99
+          ],
+          [
+            330.9,
+            106
+          ],
+          [
+            326.78,
+            138
+          ],
+          [
+            328,
+            145
+          ]
+        ]
+      ]
+    },
+    "throat_bands": [
+      {
+        "y": 255,
+        "height": 30,
+        "color": "#222726",
+        "opacity": 0.95
+      }
+    ],
+    "head_color": "#b99a71"
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

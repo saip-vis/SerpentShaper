@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "preset_id": "deinagkistrodon_acutus",
+  "species_id": "source_22483ba116dd06d5",
+  "source_species_name": "Deinagkistrodon acutus",
+  "common_name": "Chinese Moccasin",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown hundred-pacer with broad head and alternating dark triangular flank markings.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://doi.org/10.6084/m9.figshare.24572683",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Deinagkistrodon/acutus",
+        "scope": "Species-level morphology or taxonomy; variation and identity require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_071_deinagkistrodon_acutus/manifest.json",
+        "image_id": "inat_295892035",
+        "sha256": "719cc1d28a53365c659a3542be650bb66b361824ea39e1e9cbbcd28a20020184",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_071_deinagkistrodon_acutus/manifest.json",
+        "image_id": "inat_432649481",
+        "sha256": "b2d00f21282091211073f5289c99438a9acea2beee421ace0741d9864ed22b05",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_071_deinagkistrodon_acutus/manifest.json",
+        "image_id": "inat_532701553",
+        "sha256": "bfcc2de6fba51a55fb517dc417d05ed09b5877cbfe07a9741f079d2080c3f4dc",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_295892035": "Coiled body showing large angular darker markings.",
+      "inat_432649481": "Forebody, large dark flank triangles and light underside.",
+      "inat_532701553": "Brown form with high contrast angular pattern and broad head."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review needed.",
+    "modeling_flags": [
+      "Upturned snout and head scutes are not well resolved in the selected images; close healthy head references are needed.",
+      "Shared pose and procedural texture remain approximations; no independent reconstruction of all sides."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Coiled body showing large angular darker markings.",
+        "Forebody, large dark flank triangles and light underside.",
+        "Brown form with high contrast angular pattern and broad head.",
+        "Revised the taper after the first render showed an overly long, thin terminal section."
+      ],
+      "projection_limit": "Single 2D projection; shape values are artistic, not calibrated biological measurements.",
+      "reference_ids": [
+        "inat_295892035",
+        "inat_432649481",
+        "inat_532701553"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "flank_triangles",
+    "skin_color": "#bba184",
+    "marking_color": "#654d40",
+    "belly_color": "#ded0b1",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.7,
+    "mark_spacing": 61,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 76,
+      "neck": 9,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          -5.29412,
+          9.88,
+          -7.41176,
+          21.28,
+          -10.16471
+        ],
+        [
+          21.28,
+          -10.16471,
+          35.72,
+          -16.51765,
+          51.68,
+          -21.17647,
+          60.04,
+          -18.42353
+        ],
+        [
+          60.04,
+          -18.42353,
+          64.6,
+          -15.24706,
+          71.44,
+          -9.0,
+          76,
+          -9
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          2.88608,
+          4.23529,
+          17.48,
+          8.15294,
+          36.48,
+          10.37647
+        ],
+        [
+          36.48,
+          10.37647,
+          49.4,
+          14.82353,
+          59.28,
+          14.82353,
+          63.84,
+          10.37647
+        ],
+        [
+          63.84,
+          10.37647,
+          68.4,
+          9.0,
+          72.2,
+          9.0,
+          76,
+          9
+        ]
+      ],
+      "eye": [
+        29,
+        -3,
+        3.4,
+        3.6
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        16,
+        0
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q27.4 6 53.2 8 L68.4 4",
+      "shields": [
+        "M7 1 L9 6 L8 12",
+        "M16 1 L18 6 L17 12",
+        "M25 1 L27 6 L26 12",
+        "M35 1 L37 6 L36 12",
+        "M47 1 L49 6 L48 12",
+        "M59 1 L61 6 L60 12"
+      ],
+      "lip": true,
+      "markings": [],
+      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
+      "micro_scales": true,
+      "iris_color": "#b99b70"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        9
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        24
+      ],
+      [
+        471,
+        302,
+        26
+      ],
+      [
+        514,
+        347,
+        25
+      ],
+      [
+        502,
+        397,
+        24
+      ],
+      [
+        430,
+        431,
+        22
+      ],
+      [
+        330,
+        445,
+        21
+      ],
+      [
+        253,
+        476,
+        20
+      ],
+      [
+        253,
+        515,
+        18
+      ],
+      [
+        324,
+        550,
+        16
+      ],
+      [
+        400,
+        555,
+        13
+      ],
+      [
+        460,
+        546,
+        9
+      ],
+      [
+        510,
+        528,
+        4
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

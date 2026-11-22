@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "preset_id": "bothrops_neuwiedi",
+  "species_id": "source_3a7c431437227416",
+  "source_species_name": "Bothrops neuwiedi",
+  "common_name": "Neuwied\u2019s lancehead",
+  "status": "illustrative_unvalidated",
+  "variant": "Illustrative selected color form; variation within species is not represented.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.inaturalist.org/observations/122222087",
+        "scope": "Qualitative source; provider identification remains unverified."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_041_bothrops_neuwiedi/manifest.json",
+        "image_id": "inat_206908277",
+        "sha256": "ef949fc913db24dbeee53eb04c9465f800e63b435fddce498688b6d86f2594ef",
+        "use": "Visual comparison only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_041_bothrops_neuwiedi/manifest.json",
+        "image_id": "inat_261724682",
+        "sha256": "9f14eb3f9d735cc2daee805d57ccd3dbfc06dc0fcfbcd28b7213fce713c840ad",
+        "use": "Visual comparison only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_041_bothrops_neuwiedi/manifest.json",
+        "image_id": "inat_439796000",
+        "sha256": "077d24164b9124c889605430b31ed2e624c641f8978bee6517c21b078046235e",
+        "use": "Visual comparison only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_206908277": "Provider-labelled visual reference for head or body, perspective limits inference.",
+      "inat_261724682": "Provider-labelled visual reference for head or body, perspective limits inference.",
+      "inat_439796000": "Provider-labelled visual reference for head or body, perspective limits inference."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial draft awaiting further anatomical refinement.",
+    "modeling_flags": [
+      "Head and tail proportions are provisional; photographs are angled and do not establish measurements.",
+      "Initial draft awaiting rendered comparison and additional reference review."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Pale upper lips and distinct dark postocular stripe; dark pale-edged irregular body patches."
+      ],
+      "projection_limit": "Drawing dimensions are artistic, with incomplete views.",
+      "reference_ids": [
+        "inat_206908277",
+        "inat_261724682",
+        "inat_439796000"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "hooks",
+    "skin_color": "#807a68",
+    "marking_color": "#3d3932",
+    "belly_color": "#cec3a8",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.7,
+    "mark_spacing": 65,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 79,
+      "neck": 8.5,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          10.27,
+          -7.0,
+          22.12,
+          -9.6
+        ],
+        [
+          22.12,
+          -9.6,
+          37.129999999999995,
+          -15.600000000000001,
+          53.720000000000006,
+          -20,
+          62.410000000000004,
+          -17.4
+        ],
+        [
+          62.410000000000004,
+          -17.4,
+          67.14999999999999,
+          -14.399999999999999,
+          74.25999999999999,
+          -8.5,
+          79,
+          -8.5
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          4,
+          18.17,
+          7.700000000000001,
+          37.92,
+          9.799999999999999
+        ],
+        [
+          37.92,
+          9.799999999999999,
+          51.35,
+          14,
+          61.620000000000005,
+          14,
+          66.36,
+          9.799999999999999
+        ],
+        [
+          66.36,
+          9.799999999999999,
+          71.10000000000001,
+          8.5,
+          75.05,
+          8.5,
+          79,
+          8.5
+        ]
+      ],
+      "eye": [
+        30,
+        -2,
+        4,
+        4.2
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        16.5,
+        0
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q27.65 5.6000000000000005 55.3 7.700000000000001 L71.10000000000001 4.25",
+      "shields": [
+        "M7 1 L9 6 L8 12",
+        "M16 1 L18 6 L17 12",
+        "M25 1 L27 6 L26 12",
+        "M35 1 L37 6 L36 12",
+        "M47 1 L49 6 L48 12",
+        "M59 1 L61 6 L60 12"
+      ],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M34 0 L69 2 L66 8 L34 5Z",
+          "fill": "#493b2c"
+        },
+        {
+          "path": "M1 4 Q27.65 8.4 55.3 8.4 L66.36 5.1",
+          "stroke": "#d2c69c",
+          "width": 2.3
+        }
+      ],
+      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
+      "micro_scales": true,
+      "iris_color": "#948468"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.5
+      ],
+      [
+        258,
+        227,
+        13
+      ],
+      [
+        305,
+        249,
+        20
+      ],
+      [
+        390,
+        271,
+        25
+      ],
+      [
+        471,
+        302,
+        27
+      ],
+      [
+        514,
+        347,
+        26
+      ],
+      [
+        502,
+        397,
+        24
+      ],
+      [
+        430,
+        431,
+        22
+      ],
+      [
+        330,
+        445,
+        20
+      ],
+      [
+        253,
+        476,
+        17
+      ],
+      [
+        253,
+        515,
+        13
+      ],
+      [
+        324,
+        550,
+        8
+      ],
+      [
+        400,
+        555,
+        5
+      ],
+      [
+        460,
+        546,
+        2.8
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 1
+}

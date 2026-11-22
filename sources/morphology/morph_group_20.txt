@@ -1,0 +1,287 @@
+The Herpetological Bulletin 166, 2023: 18–20 (https://www.thebhs.org/publications/the-herpetological-bulletin/issue-number-166-winter-2023/3908-04-a-potential-mimic-of-the-venomous-dipsadid-snake-i-philodryas-olfersii-i/file)
+ [wordlim: 200] Published: 3.0 years ago; A potential mimic of the venomous dipsadid snake Philodryas olfersii ... green but possesses a brown vertebral stripe (Arredondo,
+gland secretion of P. olfersii has revealed the presence of 
+the main toxin classes found in highly venomous viperids 
+(Ching et al., 2006). The high toxicity of P. olfersii venom 
+likely favours capture of birds, an important item of its diet 
+(Sazima & Marques, 2007). This snake can easily bite humans 
+resulting in severe pain and extensive oedema (Castro et al., 
+2021) and rarely even death (Salomão & Di-Bernardo, 1995). 
+Thus, P. olfersii can inject its toxins into predators, making it 
+a potentially dangerous species to prey upon. 
+Two distinct patterns of colouration can be readily 
+recognized in P. olfersii. The first pattern has a dorsum that 
+is completely green whereas the second pattern is also 
+green but possesses a brown vertebral stripe (Arredondo, 
+2011; Marques et al., 2015; 2019) (Fig. 1). Individuals with 
+brown stripes are distributed mainly south of 15⁰ S while 
+the uniformly green specimens occur mainly north of this 
+latitude (Arredondo, 2011; pers. obs.) (Fig. 2). 
+Some 
+South 
+American 
+green 
+snakes 
+such 
+as 
+Erytholamprus jaegeri, E. typhlus and E. viridis (Dipsadidae) 
+occur in sympatry with P. olfersii (Marques et al., 2015; 
+2017; 2019; Nogueira et al., 2019). These terrestrial or semi-
+aquatic snakes are frog-eaters and do not have grooved 
+teeth (Marques et al., 2015; 2017; 2019; Correa et al., 
+2016). Moreover, they are docile and do not bite when 
+handled by humans (Borges-Martins et al., 2018; pers. 
+obs.). Thus, these green snakes appear to be harmless to 
+most potential predators. Erythrolamprus typhlus, E. viridis 
+and the northern populations of E. jaegeri are uniformly 
+or predominantly green (a few scales eventually have 
+other distinct colours) (Souto, 2016; Nogueira et al., 2019). 
+However, individuals in the southern populations of E. jaegeri 
+18   Herpetological Bulletin 166 (2023)--------------------------------------------------------------------------------
+untitled (https://prefeitura.poa.br/sites/default/files/usu_doc/sites/smamus/fauna_e_flora%20REBIO%20Lami.pdf)
+ [wordlim: 200] Published: 12.2 years ago; Crawled: 2 weeks ago; ## Philodryas olfersii (Lichtenstein, 1823)
+# FAUNA E FLORA DA RESERVA BIOLÓGICA DO LAMI JOSÉ LUTZENBERGER
+
+## Philodryas olfersii (Lichtenstein, 1823)
+**Cipó-listrada**  
+**Figura 23**
+
+<visual_element id="e1">
+Fotografia da espécie Philodryas olfersii (Lichtenstein, 1823). Serpente de coloração predominantemente verde, com corpo alongado e esguio, disposta em curvas e voltas sobre o solo de terra. Apresenta dorso verde-claro e região ventral mais clara.
+</visual_element>
+
+**Figura 23.** *Philodryas olfersii* (Lichtenstein, 1823). Foto: M. Borges-Martins.
+
+### Características Morfológicas.
+Espécie com dentição opistóglifa que pode causar acidentes moderados ou graves. Serpente de tamanho mediano (fig. 22), atingindo cerca de 150 cm de comprimento total, e com cauda relativamente longa, que corresponde entre 23 e 36 % do tamanho corporal. As fêmeas atingem maior tamanho corporal que os machos. A coloração dorsal é verde clara uniforme, com uma linha estreita vertebral marrom ou dourada, que ocupa também o topo da cabeça (diferenciando-se assim de *E. jaegeri*, espécie menor e inofensiva). --------------------------------------------------------------------------------
+Philodryas olfersii (https://zenodo.org/records/5477711)
+ [wordlim: 200] Published: 8.1 years ago; Crawled: today; # Philodryas olfersii ... Philodryas olfersii (Lichtenstein, 1823) Records. ... TheCommonGreenRacerwasidentifiedbyitsmediumsized, slender body, long tail, relatively large eyes, all green dorsum, yellowish belly, and size (TL = 108.4 cm ± 27.0; n = 5).
+
+##### Liberated Data
+
+Published October 19, 2018 | Version v1
+
+Taxonomic treatment Open
+
+# Philodryas olfersii
+
+### Authors/Creators
+
+  * Fischer, Wagner
+  * Faria de Godoi, Raquel
+  * Conceição Paranhos Filho, Antonio
+
+## Description
+
+Philodryas olfersii (Lichtenstein, 1823) Records. Table 2.
+
+TheCommonGreenRacerwasidentifiedbyitsmediumsized, slender body, long tail, relatively large eyes, all green dorsum, yellowish belly, and size (TL = 108.4 cm ± 27.0; n = 5). We were not able to collect any individuals (see Fig. 8). We used other specimens for identifications (e.g. ZUFMS-REP00033, REP00348, REP01428, REP01617, REP01713, REP02033, REP02112).
+
+## Notes
+
+Published as part of Fischer, Wagner, Faria de Godoi, Raquel & Conceição Paranhos Filho, Antonio, 2018, Roadkill records of reptiles and birds in Cerrado and Pantanal landscapes, pp. 845-876 in Check List 14 (5) on page 864, DOI: 10.15560/14.5.845
+
+Biodiversity
+
+Scientific name authorship
+    Lichtenstein
+Kingdom
+    Animalia
+Phylum
+    Chordata
+Order
+    Squamata
+Family
+    Dipsadidae
+Genus
+    Philodryas
+Species
+    olfersii
+Taxon rank
+    species
+Taxonomic concept label
+    Philodryas olfersii (Lichtenstein, 1823) sec. Fischer, de & Paranhos, 2018
+--------------------------------------------------------------------------------
+A new species of hognose pitviper, genus Porthidium, from the southwestern Pacific of Costa Rica (Serpentes: Viperidae) (https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442003000300022&script=sci_arttext&tlng=en)
+ [wordlim: 200] Published: 23.2 years ago; Crawled: yesterday; Key words: Porthidium porrasi, Porthidium nasutum, Osa Peninsula, Costa Rica, Central America. ... Description of the Holotype: An adult male, 305.7 mm in total length; tail length 29.7 mm, comprising 9.7% of total length; head length 23.12 mm from front face of rostral to posterior end of mandible; head width 13.83 mm at broadest point (posterior end of mandible); snout elevated, 6.68 mm in length (from front edge of supraocular to rostral); rostral greatly elevated, about 1.65 times higher than broad; internasals 1.5 times longer than wide, not separated; nostrils small, dorsally oriented; one pre-ocular; three postoculars; interocular scales 6; supralabials 9/10, 1 contacting anterior nasal, 4 and 5 are the largest; mental small, 1.1 times broader than long; canthal enlarged; no post canthal, five to six intercanthal scales; internasals in contact; dorsal scales keeled and disposed in 23 rows in neck, 25 at midbody and reduced to 19 one head length from vent; dorsal scales in 6 rows at level of tenth subcaudal; no apical pits apparent; ventrals 143; two preventrals; anal not divided; 30 subcaudals; 24 rows of interrictals; 17 nasofrontals; one row of oculabials between suboculars and supralabials.
+
+Results
+
+Porthidium porrasi sp. nov.
+
+Holotype: A male 276 mm SVL, UTA R-30829 collected at Drake Bay, Península de Osa, Puntarenas Province, Costa Rica, on 10 July 1990 (Fig. 1 and 2).
+
+Image
+Image
+
+Paratypes.  UCR 3310, adult female (261 mm SVL); UCR 3359, adult male (341 mm SVL); ICP 1131, adult female (338 mm SVL) from Rincón de Osa, Península de Osa, Puntarenas Province, Costa Rica. UCR 11479, juvenile male (173 mm SVL) from Golfito, Puntarenas Province, Costa Rica.
+
+Diagnosis: Porthidium porrasi may be distinguished from all congeners by a combination of the following features: snout extremely elevated, tail tip white in both juveniles and adults, ventrals fewer than 145, and usually 25-27 midbody dorsal scale rows.
+
+Comparison with other species: Porthidium porrasi is not sympatric with any congeners, but its range closely approaches those of P. ophryomegas, P. nasutum, and P. volcanicum. From P. ophryomegas it may be distinguished by the presence of only one canthal scale per side; from P. volcanicum it may be distinguished by its elevated snout, banded pattern, white tail tip, and lower number of ventrals (fewer than 155); from P. nasutum it may be distinguished by usually possessing 25-27 dorsal scale rows (vs 23), a white tail tip in adults, and a banded pattern rather than juxtaposed blotches.
+
+Description of the Holotype: An adult male, 305.7 mm in total length; tail length 29.7 mm, comprising 9.7% of total length; head length 23.12 mm from front face of rostral to posterior end of mandible; head width 13.83 mm at broadest point (posterior end of mandible); snout elevated, 6.68 mm in length (from front edge of supraocular to rostral); rostral greatly elevated, about 1.65 times higher than broad; internasals 1.5 times longer than wide, not separated; nostrils small, dorsally oriented; one pre-ocular; three postoculars; interocular scales 6; supralabials 9/10, 1 contacting anterior nasal, 4 and 5 are the largest; mental small, 1.1 times broader than long; canthal enlarged; no post canthal, five to six intercanthal scales; internasals in contact; dorsal scales keeled and disposed in 23 rows in neck, 25 at midbody and reduced to 19 one head length from vent; dorsal scales in 6 rows at level of tenth subcaudal; no apical pits apparent; ventrals 143; two preventrals; anal not divided; 30 subcaudals; 24 rows of interrictals; 17 nasofrontals; one row of oculabials between suboculars and supralabials.
+
+--------------------------------------------------------------------------------
+# *Philodryas olfersii* (Lichtenstein, 1823) (https://www.repositorio.ufc.br/bitstream/riufc/82192/3/2025_tcc_imneumam.pdf)
+ [wordlim: 200] Crawled: last week; # *Philodryas olfersii* (Lichtenstein, 1823)
+# *Philodryas olfersii* (Lichtenstein, 1823)
+
+**Nome popular:** cobra-verde
+
+<visual_element id="e1">
+Fotografia de uma cobra-verde (*Philodryas olfersii*). A serpente apresenta coloração predominantemente verde, corpo esguio e alongado, com a cabeça verde e olhos grandes. Está enrolada em várias voltas sobre o solo, entre folhas secas, galhos, pedras e restos de vegetação. A cauda é longa e fina. Vista de cima, com a cabeça voltada para a direita da imagem.
+
+**Crédito da foto:** Célio Moura (Disponível em: https://biodiversity4all.org/)
+</visual_element>
+
+**Tamanho:** até 1,8 m  
+**Hábito:** semi-arborícola  
+**Distribuição:** grande parte do Brasil  
+**Peçonha:** não peçonhenta  
+
+**Características gerais:** sua coloração é majoritariamente verde, podendo apresentar manchas. Possui um corpo esguio e cauda longa, o que lhe proporciona vantagem durante sua locomoção entre galhos.
+
+**Classificação:** Colubridae (Ordem: Squamata)
+
+**Página:** 31--------------------------------------------------------------------------------
+Taxonomic key to the snakes (Squamata: Ophidia) species of the Itajaí Valley, Santa Catarina, Brazil (https://www.academia.edu/68433212/Taxonomic_key_to_the_snakes_Squamata_Ophidia_species_of_the_Itaja%C3%AD_Valley_Santa_Catarina_Brazil)
+ [wordlim: 200] Published: 5.9 years ago; Crawled: today; Philodryas olfersii (Lichtenstein, 1823) — Dorsum olive-green, light brown or greenish-grey, base and tip of the scales outlined by black color............................ ... Phalotris reticulatus (Peters, 1860) — Brown head with a post-orbital stripe, dorsal bands shaped like an hourglass;.....................................................................the tail is darker and the bands are rectangular........................................................................................................................................................................
+29 Pap. Avulsos Zool., 2021; v.61: e20216120 Waltrick, C.S. & Giasson, L.O.M.: Snakes species in the Itajaí Valley 4/15 — Scales without apical pits......................................................................................................................................................................................................... 30 28. Color pattern emerald green uniform (color pattern can change to blue in preserved specimens).............Philodryas aestiva (Duméril, Bibron & Duméril, 1854) — Color pattern light brown and checkered......................................................................................................................Thamnodynastes hypoconia (Cope, 1860) 29. Dorsum with green unicolor pattern (color pattern can change to blue in preserved specimens).....................................Philodryas olfersii (Lichtenstein, 1823) — Dorsum olive-green, light brown or greenish-grey, base and tip of the scales outlined by black color............................ --------------------------------------------------------------------------------
+<visual_element id="e1"> (https://www.asuncion.gov.py/wp-content/uploads/2022/11/Guia-de-Anfibios-y-Reptiles.pdf)
+ [wordlim: 200] Published: 4.0 years ago; Large photograph of a bright green snake stretched across a tree trunk; the snake’s head is at lower left and the body loops across the upper right. ... Vista general de *Philodryas olfersii*.
+<visual_element id="e1">
+Large photograph of a bright green snake stretched across a tree trunk; the snake’s head is at lower left and the body loops across the upper right.
+</visual_element>
+
+Vista general de *Philodryas olfersii*.
+Fotografía: Jean-Paul Brouard.
+
+*Philodryas olfersii*
+(Lichtenstein, 1823)
+
+**Familia**  
+COLUBRIDAE
+
+**Características**  
+Es una serpiente ágil de aspecto grácil, con cabeza bien diferenciada del cuerpo; de 40 centímetros de largo. Puede ser totalmente verde claro, o tener el dorso de la cabeza de color marrón o anaranjado, con una línea vertebral del mismo color que se extiende por todo el cuerpo. El vientre es de color verde claro inmaculado.
+
+**Hábitos**  
+Culebra diurna y tanto terrestre como arborícola, es muy ágil trepando entre las ramas de los árboles. Es ovípara.
+
+**Alimentación**  
+Posee una amplia dieta de vertebrados, tales como otros ofidios, anfibios, roedores, aves y lagartijas.
+
+**Defensa**  
+Como primer mecanismo de defensa, siempre intenta huir. Al verse amenazada, no duda en morder. Las toxinas de la saliva de esta serpiente son fuertes, pueden ocasionar accidentes que requieren hospitalización.
+
+**Distribución**  
+Ampliamente distribuida en la Región Oriental del Paraguay y presente también en el Chaco en áreas adyacentes al río Paraguay.
+
+170--------------------------------------------------------------------------------
+Philodryas olfersii – Serpientes de Venezuela (https://serpientesdevenezuela.org/philodryas-olfersii/)
+ [wordlim: 200] Crawled: 3 weeks ago; Los síntomas más evidentes son edema (relativamente intenso) y sensación de escozor en la región edematizada, sin embargo, se ha registrado una muerte a causa de Philodryas olfersii olfersii (Campbell & Lamar 2004), en los casos en los que si logra inyectar su veneno, este es capaz de producir un fuerte dolor local, acompañado por un edema, y en lo sucesivo podrían aparecer complicaciones de gravedad.
+--------------------------------------------------------------------------------
+Revisão taxonômica do complexo Philodryas olfersii (Lichtenstein 1823) (Serpentes: Dipsadidae) (https://teses.usp.br/teses/disponiveis/41/41133/tde-13072012-122455/pt-br.html)
+ [wordlim: 200] Published: 14.3 years ago; Crawled: last month; Thus, the populations of Southeast distribution of individuals in the complex are designated as Philodryas olfersii (Lichtenstein 1823) and are characterized by the presence of a brown stripe on the vertebral region of the dorsum. The populations of western and northern distribution are designated as Philodryas latirostris Cope 1862 and are distinguished by have the dorsum completely green.
+--------------------------------------------------------------------------------
+Philodryas olfersii: state of the art (https://medcraveonline.com/IJCAM/IJCAM-15-00586.pdf)
+ [wordlim: 200] Published: 4.8 years ago; Philodryas sp. in particular, P. olfersii is an attractive snake emanated by its green color, ... The Philodryas olfersii snake (Figure 1) also known as a green
+--------------------------------------------------------------------------------
+2025 ¦ Vol. 2 ¦ No. 1: 20-22 | (https://www.thepoisonjournal.com/storage/app/media/V2N1/tp-v2n1-2025-gigliotti-et-al.pdf)
+ [wordlim: 200] Published: last year; Philodryas olfersii is a non-aggressive, diurnal snake widely found in South America. ... also known as ‘Lichtenstein’s Green Racer,’ is a
+--------------------------------------------------------------------------------
+Philodryas olfersii: state of the art (https://www.medcraveonline.com/IJCAM/philodryas-olfersii-state-of-the-art.html)
+ [wordlim: 200] Published: 4.8 years ago; Crawled: last month; Philodryas sp. in particular, P. olfersii is an attractive snake emanated by its green color, with a brown stripe along the back, and an inoffensive appearance.
+--------------------------------------------------------------------------------
+PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL (https://livrozilla.com/doc/434708/pontif%C3%ADcia-universidade-cat%C3%B3lica-do-rio-grande-do-sul)
+ [wordlim: 200] Published: 21.9 years ago; Crawled: today;     1976 Philodryas olfersii herbeus – Thomas, 1976, These Doctor, Coll.
+--------------------------------------------------------------------------------
+Philodryas olfersii (https://en.wikipedia.org/wiki/Philodryas_olfersii)
+ [wordlim: 200] Crawled: 6 months ago; Common names for Philodryas olfersii include Lichtenstein's green racer, South American green racer, and eastern green whiptail, ... Philodryas olfersii is host to a newly described species of parasitic protozoan, Caryospora olfersii.
+--------------------------------------------------------------------------------
+ITIS - Report: Philodryas olfersii (https://www.itis.gov/servlet/SingleRpt/SingleRpt?print_version=PRT&search_topic=TSN&search_value=701210&source=to_print)
+ [wordlim: 200] Crawled: 2 months ago;                                             Species Philodryas olfersii (Lichtenstein, 1823) – Lichtenstein's Green Racer ...   Reference for: Philodryas olfersii, Lichtenstein's Green Racer [English]
+--------------------------------------------------------------------------------
+Philodryas olfersii | The Reptile Database (https://reptile-database.reptarium.cz/Philodryas/olfersii?search_param=%28%28taxon%3D%27Alethinophidia%27%2Cexact%29%29)
+ [wordlim: 200] Crawled: last month; Type species: Coluber Olfersii LICHTENSTEIN 1823: 104 is the type species of the genus Philodryas WAGLER 1830. ... Philodryas olfersii herbeus was named after Latin herbeus, grasscolored, grass-green.
+--------------------------------------------------------------------------------
+LICHTENSTEIN´S GREEN RACER Philodryas olfersii FAUNA PARAGUAY (https://www.faunaparaguay.com/philodryasolfersii.html)
+ [wordlim: 200] Crawled: last week; LICHTENSTEIN´S GREEN RACER Philodryas olfersii
+--------------------------------------------------------------------------------
+IUCN Red List of Threatened Species: Protobothrops flavoviridis (https://doi.org/10.2305%2FIUCN.UK.2018-2.RLTS.T96265495A96265515.en)
+ [wordlim: 200] Published: 8.9 years ago; Crawled: last month; Habu Protobothrops flavoviridis has most recently been assessed for The IUCN Red List of Threatened Species in 2016. ... In addition, hybridization and competition with established populations of exotic congeners Protobothrops elegans and P. mucrosquamatus are also threat to this species in Okinawajima, to which these species have been introduced by humans for tourism and commerce (Terada 2011).
+--------------------------------------------------------------------------------
+Handbook to the Dangerously Venomous Snakes of Myanmar (https://www.academia.edu/17053325/Handbook_to_the_Dangerously_Venomous_Snakes_of_Myanmar)
+ [wordlim: 200] Published: 18.3 years ago; Crawled: today; DESCRIPTION: Scales in 25 longitudinal rows at midbody, keeled except outermost row bordering © CAS Protobothrops mucrosquamatus (Cantor, 1839) Photo by Hla Tun 85 ventrals, weakly keeled or smooth; scales on upper surface of head, small, each scale keeled posterior- ly; internasals 5–10 times size of adjacent scales, separated by 3–4 scales; supraoculars, long, narrow, undivided, 12–16 small interocular scales in line between them; 2 scales on line between upper pre- ocular and nasal; 9–11 upper labials, first upper labi- al separated from nasal by suture; 2–3 small scales between upper labials and subocular; 2–3 rows of smooth temporal scales above upper labials, above those scales keeled; ventrals 200–218; subcaudals 76–94, all paired; grayish or olive brown above, with dorsal series of large brown, black-edged spots or blotches, and a lateral series of smaller spots; head above brownish, below whitish; belly whitish but heavily powdered with light brown; tail brownish (possibly pink in life [fide Smith 1943:507]), with series of dark dorsal spots; hemipenes with spines. ... Elsewhere: northeastern India, Bangladesh, China, Taiwan, Distribution of Protobothrops mucrosquamatus and northern Vietnam. in Myanmar Genus Trimeresurus Lacépède, 1804 Trimeresurus Lacépède 1804:209 (Type species: Vipera viridis Daudin, 1803 [=Coluber gramineus Shaw]).
+--------------------------------------------------------------------------------
+Cobra verde, Cobra Cipó, Corre Campo  (Philodryas olfersii) - YouTube (https://www.youtube.com/watch?v=stZKpx0ZWz4)
+ [wordlim: 200] Published: 3.7 years ago; Crawled: 11 months ago; # Cobra verde, Cobra Cipó, Corre Campo  (Philodryas olfersii) ... Nomes científicos: Philodryas olfersii
+# Cobra verde, Cobra Cipó, Corre Campo  (Philodryas olfersii)
+By: Guilherme do mato  (26100 followers)
+Published: 2023-03-19, 760 views, 53 likes
+
+## Description
+Sejam Bem Vindos!
+
+Me chamo Guilherme Ribeiro, comecei a gravar vídeos em maio de 2020, e sigo melhorando,
+Tem conteúdo novo, as quartas, sábados e domingos, sempre às 6h da manhã. 
+
+segue lá nas outras redes sociais, não deixa de curtir, comentar, compartilhar e dar sugestões.
+
+Facebook:   / guilhermeomeninodomato   
+Instagram: @guilherme_ribeiro_meninodomato
+TikTok: URL...
+KWai: URL...
+Twitter: @guimeninodomato 
+Helo: URL
+Nomes populares: Cobra verde, cobra cipó
+
+Nomes científicos: Philodryas olfersii
+
+Descrição: Apresentam coloração verde com uma faixa longitudinal de cor marrom-ocre no dorso, que vai da cabeça até a cauda.
+
+
+Habitat: Estes ofídios pertencentes à família Colubridaee têm ampla distribuição na América do Sul. No Brasil são encontrados desde o Amazonas até o Rio Grande do Sul.
+
+
+Ação do veneno: Mesmo não tendo características de ofídio peçonhento, como presas inoculadoras de veneno ou fosseta loreal podem causar alterações locais (ação proteolítica) e sistêmicas (ação hemorrágica). 
+
+Sintomatologia: Apesar da relativa freqüência, os acidentes causados por cobra verde são em geral, oligossintomáticos, poruque esta espécie é opistoglifodonte, isto é, possui os dentes inoculadores de veneno na região posterior do maxilar superior, dificultando a inoculação do veneno. Quando na mordedura são incluídos os dentes posteriores, as manifestações clínicas podem ser bastante expressivas: dor e edema local volumoso, aparecimento de equimoses (manchas escuras) e sangramentos. Este quadro, semelhante ao envenenamento botrópico, dificulta o diagnóstico nos casos em que não é possível identificar a serpente.
+
+Tratamento: Nos casos em que o agente causal foi capturado e identificado, é necessária a observação clínica cuidadosa pelo menos por 24 horas. O tratamento é sintomático incluindo hidratações parenterais, analgésicos, antiinflamatório, controle de eletrólitos e da diurese. Não existe, até o momento, soro específico para os acidentes com colubrídeos. Devido à freqüência e potencial gravidade destes acidentes, alertamos os médicos para os riscos que representam, principalmente se tratando de crianças. Notificar o Centro de Controle de Intoxicações.
+--------------------------------------------------------------------------------
+Cobra verde, Cobra Cipó, Corre Campo  (Philodryas olfersii) - YouTube (https://www.youtube.com/watch?v=n5Xbmea1hKM)
+ [wordlim: 200] Published: 4.2 years ago; Crawled: 2 months ago; # Cobra verde, Cobra Cipó, Corre Campo  (Philodryas olfersii) ... Nomes científicos: Philodryas olfersii
+--------------------------------------------------------------------------------
+Protobothrops (https://en.wikipedia.org/wiki/Protobothrops)
+ [wordlim: 200] Crawled: last month;   | Protobothrops mucrosquamatus (Cantor, 1839) | India (Assam and Mizoram) and Bangladesh, to Myanmar, China (including Hainan, and as far north as Gansu and as far east as Zhejiang), Laos, northern and central Vietnam, also found in northern Thailand as well as in Taiwan ... "Discovery of the Gene Encoding a Novel Small Serum Protein (SSP) of Protobothrops flavoviridis and the Evolution of SSPs".
+--------------------------------------------------------------------------------
+Бразильский кустарниковый филодриас (https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D0%BE%D0%B4%D1%80%D0%B8%D0%B0%D1%81)
+ [wordlim: 200] Crawled: last week; * Philodryas olfersii herbeus (Wied, 1825)
+--------------------------------------------------------------------------------
+Philodryas (https://en.wikipedia.org/wiki/Philodryas)
+ [wordlim: 200] Crawled: 9 months ago; Philodryas is a genus of colubrid snakes endemic to South America, commonly called green snakes. ... * Philodryas olfersii (Lichtenstein, 1823) – Argentina, Bolivia, W Brazil, Paraguay, E Peru, Uruguay - Lichtenstein's green racer
+--------------------------------------------------------------------------------
+List of reptiles of Japan (https://en.wikipedia.org/wiki/List_of_reptiles_of_Japan)
+ [wordlim: 200] Crawled: 1.8 years ago; * Habu, Protobothrops flavoviridis LC^{ IUCN} (endemic) 
+* Pointed-scaled pitviper, Protobothrops mucrosquamatus LC^{ IUCN} (introduced)
+--------------------------------------------------------------------------------
+Trimeresurus (https://en.wikipedia.org/wiki/Trimeresurus)
+ [wordlim: 200] Crawled: last month; Most authors now recognise the genus Protobothrops for the species cornutus, flavoviridis, jerdonii, kaulbacki, mucrosquamatus, tokarensis, xiangchengensis, since these have been shown not to be closely related to other Trimeresurus in recent phylogenetic analyses.
+--------------------------------------------------------------------------------
+Brazil, photo taken by my friend. That green strip on the face looks super familiar to me but I’m not sure, I can only guess it may be in the genus Philodryas (https://www.reddit.com/r/whatsthissnake/comments/ywyad8)
+ [wordlim: 200] Published: 4.0 years ago; Crawled: 3.9 years ago; Something in the genus *Philodryas* ...   No, some of P. olfersii's common names include; Lichtenstein's Green Racer, and The South American Green Racer.
+--------------------------------------------------------------------------------
+Might have to hold back this pretty girl (https://www.reddit.com/r/Sneks/comments/1tw2oqr/might_have_to_hold_back_this_pretty_girl/)
+ [wordlim: 200] Published: 5 months ago; She’s my only baby Baroni that hatched out with no stripe ... Im really interested in possiblt importing one of their cousins, the Lichtenstein's green racer, philodryas olfersii
+--------------------------------------------------------------------------------
+Qual a espécie dessa cobra? (https://www.reddit.com/r/BiologiaBrasil/comments/1wayf91/qual_a_esp%C3%A9cie_dessa_cobra/)
+ [wordlim: 200] Published: 2 months ago; Essa cobra aí parece uma Philodryas olfersii, espécie que tem peçonha.
+--------------------------------------------------------------------------------
+These guys are growing so fast Protobothrops flavoviridis (https://www.reddit.com/r/VenomousKeepers/comments/1h02dti/these_guys_are_growing_so_fast_protobothrops/)
+ [wordlim: 200] Published: 2.0 years ago; I do enjoy a good *Protobothrops*. ...   I do, I keep mucrosquamatus, flavoviridis, mangshanensis, jerdonii, elegans and cornutus ...             not to mention i ain’t tryin to make the venomous community look bad and i think me taking my time will prevent me looking like another jeff lebow whatever the fuck his name is
+--------------------------------------------------------------------------------
+Who is this cutie?[Northeast Brazil] (https://www.reddit.com/r/snakes/comments/1612bh2)
+ [wordlim: 200] Published: 3.2 years ago; Crawled: 3.2 years ago; Lichtenstein's green racer (common green bush racer) *Philodryas olfersii*.
+

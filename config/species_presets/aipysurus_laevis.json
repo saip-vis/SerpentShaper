@@ -1,0 +1,279 @@
+{
+  "schema_version": 1,
+  "preset_id": "aipysurus_laevis",
+  "species_id": "source_1f2e6b93d5b4d25d",
+  "source_species_name": "Aipysurus laevis",
+  "common_name": "Olive sea snake",
+  "status": "illustrative_unvalidated",
+  "variant": "Olive-brown illustrative variant. Paddle shown in broadside projection; underwater colors vary with lighting.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://media.australian.museum/media/Uploads/Journals/17760/72_complete.pdf",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      },
+      {
+        "url": "https://www.dcceew.gov.au/sites/default/files/env/pages/dc11235d-8b3b-43f7-b991-8429f477a1d4/files/36-fauna-2a-squamata-hydrophiidae.pdf",
+        "scope": "Marine snake anatomy and Aipysurus illustration."
+      },
+      {
+        "url": "https://www.environment.nsw.gov.au/sites/default/files/2024-09/status-of-marine-reptiles-in-new-south-wales.pdf",
+        "scope": "Olive/brown and cream variation."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_008_olive_sea_snake/manifest.json",
+        "image_id": "inat_23225540",
+        "sha256": "50177e690ddf8f5cf4836a0820e4b9f0d5908e0a0b56c9e659452e5ab993bbab",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_008_olive_sea_snake/manifest.json",
+        "image_id": "inat_538884887",
+        "sha256": "6bdcb6100ec2fd7e20a319bce14c148de31d7ee4d0b1b1852828326b4035eb83",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      }
+    ],
+    "unextracted_fields": [
+      "head",
+      "tail",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Reference-guided draft; no expert anatomical approval or measurements.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Small blunt head with little neck constriction, robust body.",
+        "Tail keeps a narrow peduncle before a broad rounded paddle rather than ending as a thick stump.",
+        "Paddle uses an explicitly broadside projection in the 2D illustration."
+      ],
+      "projection_limit": "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "reference_ids": [
+        "inat_23225540",
+        "inat_538884887"
+      ]
+    },
+    "reference_feature_map": {
+      "inat_23225540": "Blunt small head, little neck constriction and robust trunk. Strong underwater color cast and foreshortening.",
+      "inat_538884887": "Scale arrangement and blunt endpoint; orientation is not sufficient to fit tail dimensions."
+    },
+    "modeling_flags": [
+      "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic."
+    ],
+    "modeling_review_status": "previously_reviewed_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "marine",
+    "pattern": "mottled",
+    "skin_color": "#837665",
+    "marking_color": "#c2b59e",
+    "belly_color": "#c4baa7",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "paddle",
+    "scale_pitch": 7.4,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 53,
+      "neck": 8,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -6,
+          3,
+          -10,
+          11,
+          -10
+        ],
+        [
+          11,
+          -10,
+          22,
+          -11,
+          31,
+          -12,
+          40,
+          -9
+        ],
+        [
+          40,
+          -9,
+          45,
+          -8,
+          48,
+          -8,
+          53,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          0,
+          6,
+          6,
+          10,
+          14,
+          10
+        ],
+        [
+          14,
+          10,
+          25,
+          12,
+          36,
+          11,
+          42,
+          9
+        ],
+        [
+          42,
+          9,
+          47,
+          8,
+          49,
+          8,
+          53,
+          8
+        ]
+      ],
+      "eye": [
+        17,
+        -2,
+        2.2,
+        2.3
+      ],
+      "nostril": [
+        5,
+        -5
+      ],
+      "jaw": "M2 4 Q20 7 40 6 L48 5",
+      "shields": [
+        "M5 -6 L14 -8 L21 -3 L18 4",
+        "M14 -8 L27 -9 L34 -4 L31 5 L18 4",
+        "M8 5 L9 9 M18 6 L19 10 M29 6 L31 10"
+      ],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17
+    },
+    "body_stations": [
+      [
+        225,
+        212,
+        8
+      ],
+      [
+        265,
+        232,
+        13
+      ],
+      [
+        340,
+        259,
+        23
+      ],
+      [
+        436,
+        283,
+        26
+      ],
+      [
+        503,
+        326,
+        26
+      ],
+      [
+        515,
+        380,
+        25
+      ],
+      [
+        461,
+        421,
+        23
+      ],
+      [
+        364,
+        438,
+        21
+      ],
+      [
+        273,
+        462,
+        18
+      ],
+      [
+        248,
+        500,
+        15
+      ],
+      [
+        286,
+        535,
+        11
+      ],
+      [
+        369,
+        558,
+        9
+      ],
+      [
+        444,
+        562,
+        8
+      ],
+      [
+        498,
+        552,
+        15
+      ],
+      [
+        545,
+        530,
+        19
+      ],
+      [
+        574,
+        503,
+        14
+      ],
+      [
+        583,
+        484,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ]
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 2
+}

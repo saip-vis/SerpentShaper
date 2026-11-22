@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SerpentShaper · Venom composition workspace</title>
+  <style>
+    :root { --ink:#183b2e; --muted:#586e62; --line:#dce5de; --green:#236544; --paper:#f3f6f3; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--paper); color:var(--ink); font:16px system-ui,sans-serif; }
+    header { background:#153e2d; color:white; padding:26px 5vw; }
+    header small { color:#c2dacb; letter-spacing:.1em; text-transform:uppercase; }
+    h1 { font-size:28px; margin:8px 0; } h2 { font-size:23px; margin:0 0 12px; } h3 { font-size:18px; margin:22px 0 10px; }
+    p { line-height:1.55; } main { max-width:1420px; margin:auto; padding:25px 4vw; }
+    .muted { color:var(--muted); } small,.small { font-size:13px; } .stats,.actions,nav { display:flex; gap:12px; flex-wrap:wrap; }
+    .stats { margin-bottom:20px; } .stat { flex:1; min-width:140px; background:white; border:1px solid var(--line); padding:15px 20px; border-radius:12px; }
+    .stat strong { display:block; font-size:28px; } nav { margin-bottom:20px; }
+    button { border:1px solid #b9cbbe; border-radius:8px; padding:10px 14px; font:inherit; color:var(--ink); background:white; cursor:pointer; }
+    button:hover { background:#eaf0e7; } button.active,button.primary { background:var(--green); color:white; border-color:var(--green); }
+    button:disabled { opacity:.45; cursor:default; } :focus-visible { outline:3px solid #69a884; outline-offset:3px; }
+    .layout { display:grid; grid-template-columns:330px minmax(0,1fr); gap:20px; }
+    .card { background:white; border:1px solid var(--line); border-radius:14px; padding:22px; min-width:0; }
+    label { display:block; font-size:14px; font-weight:600; margin:10px 0 6px; }
+    input,select { width:100%; padding:10px; border:1px solid #a8bbae; border-radius:7px; background:white; color:var(--ink); font:inherit; }
+    select { appearance:none; padding-right:34px; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='m4 6 4 4 4-4' fill='none' stroke='%23236544' stroke-width='1.5'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 10px center; background-size:16px; }
+    .check { display:flex; gap:8px; align-items:center; font-weight:400; } .check input { width:auto; }
+    .list { margin-top:14px; max-height:510px; overflow:auto; } .profile { display:block; width:100%; text-align:left; margin:6px 0; padding:12px; }
+    .profile strong,.profile small { display:block; } .profile small { margin-top:5px; color:var(--muted); } .profile.selected { border-color:var(--green); background:#edf5ec; }
+    .pager,.actions { margin-top:12px; align-items:center; } .badge { display:inline-block; font-size:13px; padding:4px 8px; background:#e7f0e4; border-radius:5px; }
+    .notice { background:#eef4ee; border-left:3px solid #aac1a6; padding:12px; line-height:1.5; margin:15px 0; }
+    .warning { background:#fff4dd; border-color:#b9822c; } .error { color:#9d3028; }
+    .table-wrap { overflow:auto; max-height:520px; } table { border-collapse:collapse; width:100%; font-size:14px; }
+    th,td { text-align:left; padding:11px 8px; border-bottom:1px solid var(--line); vertical-align:top; } th { background:#f5f7f2; position:sticky; top:0; }
+    td small { display:block; color:var(--muted); } .percent { white-space:nowrap; font-variant-numeric:tabular-nums; }
+    .meta { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; } .meta div { overflow-wrap:anywhere; } .meta small { display:block; color:var(--muted); margin-bottom:4px; }
+    pre { background:#f1f4ee; padding:15px; overflow:auto; font-size:13px; max-height:450px; } a { color:#236544; }
+    summary { cursor:pointer; font-weight:600; line-height:1.5; } details { margin-top:15px; } details p { margin:10px 0; }
+    .controls { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:14px; margin-top:15px; }
+    .control { border:1px solid var(--line); border-radius:11px; padding:18px; min-width:0; }
+    .control label { margin-top:0; } .control label strong { display:block; font-size:19px; margin-bottom:5px; }
+    .control input[type=range] { padding:0; margin-top:13px; accent-color:var(--green); }
+    .control .state { display:block; min-height:20px; margin-top:7px; font-size:13px; color:var(--muted); }
+    .control .state.error { color:#9d3028; } .control details { font-size:14px; }
+    .balance { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; margin:18px 0 8px; padding:16px; background:#edf4ee; border:1px solid var(--line); border-radius:11px; }
+    .balance strong { display:block; font-size:27px; font-variant-numeric:tabular-nums; } .balance span { font-size:14px; color:var(--muted); }
+    .balance[data-state=error] { background:#fff4dd; border-color:#cba85f; }
+    #detail { min-height:500px; } footer { padding:25px 0; font-size:13px; color:var(--muted); }
+    [hidden] { display:none!important; }
+    @media(max-width:850px) { .layout { grid-template-columns:1fr; } .list { max-height:260px; } }
+    @media(max-width:600px) { .controls,.meta { grid-template-columns:1fr; } .balance { gap:8px; padding:12px; } .balance strong { font-size:22px; } .card { padding:16px; } }
+  </style>
+</head>
+<body>
+<header><small>Local composition workspace</small><h1>SerpentShaper</h1><div>Explore measured profiles and define your venom inputs.</div></header>
+<main>
+  <div id="globalError" class="notice warning" role="alert" hidden></div>
+  <div class="stats" id="stats" aria-label="Dataset counts"></div>
+  <nav aria-label="Workspace"><button class="active" id="browseTab">Browse profiles</button><button id="composeTab">Build a composition</button></nav>
+  <section id="browse" class="layout">
+    <aside class="card"><h2>Profiles</h2>
+      <label for="search">Species or location</label><input id="search" placeholder="Try Naja or India" type="search">
+      <label for="type">Evidence type</label><select id="type"><option value="">All evidence types</option><option value="proteomics">Proteomics · measured proteins</option><option value="transcriptomics">Transcriptomics · gene expression</option><option value="unknown">Unresolved type</option></select>
+      <label class="check"><input type="checkbox" id="held">Include profiles held for review</label>
+      <p id="resultCount" class="muted" role="status"></p><div class="list" id="list"></div>
+      <div class="actions"><button id="prev">Previous</button><button id="next">Next</button></div>
+    </aside>
+    <article id="detail" class="card"><h2>Select a profile</h2><p class="muted">View its ingredients, original percentages, and supporting source.</p></article>
+  </section>
+  <section id="compose" class="card" hidden>
+    <h2>Build a composition</h2>
+    <p class="muted">Start with the four primary toxin families. Expand the advanced controls when you need more detail.</p>
+    <div id="draftContext" class="notice"></div>
+    <div class="actions"><button id="resetDraft">Start a new composition</button></div>
+    <div id="balance" class="balance" aria-label="Composition totals"><div><strong id="assigned">0%</strong><span>Assigned</span></div><div><strong id="unallocated">100%</strong><span>Unallocated</span></div><div><strong id="overallocated">0%</strong><span>Overallocated</span></div></div>
+    <p id="balanceStatus" class="muted" role="status" aria-live="polite"></p>
+    <h3>Primary controls</h3><div id="primaryControls" class="controls"></div>
+    <details id="advancedPanel"><summary>Advanced controls (8)</summary><p class="muted">These categories stay separate, even when their names or functions are related.</p><div id="advancedControls" class="controls"></div></details>
+    <details id="preservedPanel" hidden><summary id="preservedSummary">Preserved source categories</summary><p>These entries stay attached to your draft exactly as reported. They are read-only in this editor.</p><label class="check"><input type="checkbox" id="preservedMissing">Show unreported entries</label><div class="table-wrap"><table><thead><tr><th>Source category</th><th>Percent</th><th>Source cell</th></tr></thead><tbody id="preservedRows"></tbody></table></div></details>
+    <div class="notice">Blank is unspecified; enter 0 only when you mean zero. The unallocated balance is an editing aid, not a measured unidentified ingredient. Values are never automatically rescaled.</div>
+    <div class="actions"><button class="primary" id="validate">Validate composition</button><button id="downloadDraft" disabled>Download validated composition JSON</button></div>
+    <div id="validation" aria-live="polite"></div>
+  </section>
+  <footer>Source data stays read-only. Biological interpretation and snake generation are future steps.</footer>
+</main>
+<script>
+'use strict';
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt=n=>Number(n).toLocaleString(undefined,{maximumFractionDigits:5});
+let spec,evidence=[],controlByToxin=new Map(),offset=0,current=null,listRequest=0,detailRequest=0;
+let draftSource=null,draftValues=new Map(),draftRevision=0,lastValidated=null;
+async function api(url,options){const r=await fetch(url,options),d=await r.json();if(!r.ok)throw Error(d.error||'Request failed');return d;}
+function error(e){$('globalError').textContent=e.message;$('globalError').hidden=false;}
+function clearError(){$('globalError').hidden=true;}
+function tab(name){for(const t of ['browse','compose']){$(t).hidden=t!==name;$(t+'Tab').classList.toggle('active',t===name);}}
+function download(data,name){const url=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
+async function loadList(){
+  const request=++listRequest,qs=new URLSearchParams({q:$('search').value,measurement_type:$('type').value,include_held:$('held').checked?'1':'0',limit:30,offset});
+  $('resultCount').textContent='Loading…';
+  try{const d=await api('/api/profiles?'+qs);if(request!==listRequest)return;
+    $('resultCount').textContent=d.total?`${offset+1}–${Math.min(offset+30,d.total)} of ${d.total} profiles`:'No matching profiles';
+    $('list').innerHTML=d.items.map(p=>`<button class="profile ${current?.profile.profile_id===p.profile_id?'selected':''}" data-id="${esc(p.profile_id)}"><strong>${esc(p.species_name)}</strong><small>${esc(p.location||'Location not supplied')} · row ${p.source_row}</small><small>${esc(p.measurement_type)}${p.ingestion_status==='needs_review'?' · HELD FOR REVIEW':''}</small></button>`).join('');
+    $('prev').disabled=offset===0;$('next').disabled=offset+30>=d.total;
+    for(const b of $('list').querySelectorAll('button'))b.onclick=()=>selectProfile(b.dataset.id);
+    if(!current&&d.items.length)selectProfile(d.items[0].profile_id);
+  }catch(e){if(request===listRequest){error(e);$('resultCount').textContent='Could not load profiles';}}
+}
+async function selectProfile(id){const request=++detailRequest;try{const d=await api('/api/profiles/'+encodeURIComponent(id)+'?include_held='+($('held').checked?'1':'0'));if(request!==detailRequest)return;current=d;for(const b of $('list').querySelectorAll('button'))b.classList.toggle('selected',b.dataset.id===id);renderDetail();}catch(e){if(request===detailRequest)error(e);}}
+function renderDetail(){
+  const {profile:p,source:s,issues}=current,held=p.ingestion_status==='needs_review',editable=!held&&p.measurement_type==='proteomics';
+  $('detail').innerHTML=`<span class="badge">${esc(p.measurement_type)}</span><h2 style="margin-top:12px">${esc(p.species_name)}</h2><div class="meta"><div><small>Location</small>${esc(p.location||'Not supplied')}</div><div><small>Source row</small>${p.source_row} · ${esc(p.source_sheet)}</div><div><small>Source-column sum</small>${fmt(p.component_sum_pct)}%</div><div><small>Import status</small>${held?'Held for review':'Structurally eligible with caveats'}</div></div><div class="notice ${held?'warning':''}">${held?'This profile is excluded from default ingestion. ':''}${p.measurement_type==='transcriptomics'?'These percentages describe gene expression, not measured venom protein abundance.':'The source percentages are preserved; their sum alone does not establish complete, non-overlapping categories.'}</div><div class="actions"><button id="exportProfile">Download profile JSON</button><button id="useProfile" ${editable?'':'disabled'}>Use profile as starting point</button></div>${!editable?'<p class="small muted">Only eligible measured-protein profiles can seed the composition editor.</p>':''}<h3>Composition</h3><label class="check"><input type="checkbox" id="missing">Show missing or invalid entries</label><div class="table-wrap"><table><thead><tr><th>Ingredient</th><th>Percent</th><th>Source cell</th></tr></thead><tbody id="componentRows"></tbody></table></div><h3>Source</h3><p><a href="${esc(s.url)}" target="_blank" rel="noopener">Dataset DOI: ${esc(s.dataset_doi)}</a><br><small class="muted">Dataset-level citation; original-study attribution is not assigned per profile.</small></p><details><summary>Import notes (${issues.length})</summary>${issues.length?'<ul>'+issues.map(i=>`<li>${esc(i.code)}: ${esc(i.detail)}</li>`).join('')+'</ul>':'<p>No profile-specific import flags.</p>'}</details><details><summary>Engine JSON</summary><pre>${esc(JSON.stringify(current,null,2))}</pre></details>`;
+  $('missing').onchange=renderComponents;renderComponents();$('exportProfile').onclick=()=>download(current,p.profile_id+'.json');
+  $('useProfile').onclick=()=>{draftSource=current;draftValues=new Map();renderBuilder();tab('compose');};
+}
+function componentRow(c){return `<tr><td><strong>${esc(c.original_label)}</strong><small>${controlByToxin.has(c.toxin_id)?esc(controlByToxin.get(c.toxin_id).label):'Original source category'}</small></td><td class="percent">${c.abundance_pct===null?esc(c.value_status):fmt(c.abundance_pct)+'%'}</td><td>${esc(c.source_cell)}</td></tr>`;}
+function renderComponents(){$('componentRows').innerHTML=current.components.filter(c=>$('missing').checked||c.abundance_pct!==null).map(componentRow).join('');}
+function originalComponent(tid){return draftSource?.components.find(c=>c.toxin_id===tid);}
+function currentValue(tid){return draftValues.has(tid)?draftValues.get(tid):(originalComponent(tid)?.abundance_pct??'');}
+function parsed(raw){const text=String(raw??'').trim();if(!text)return {missing:true};if(!/^[+-]?(?:\d+\.?\d*|\.\d+)(?:[eE][+-]?\d+)?$/.test(text))return {invalid:true};const n=Number(text);return Number.isFinite(n)&&n>=0&&n<=100?{number:n}:{invalid:true};}
+function controlHTML(c){
+  const tid=c.source_toxin_ids[0],value=currentValue(tid),help=evidence.filter(e=>c.evidence_ids.includes(e.id));
+  return `<article class="control"><label for="pct-${esc(tid)}"><strong>${esc(c.short_label)}</strong>${esc(c.label)}</label><input id="pct-${esc(tid)}" data-toxin="${esc(tid)}" inputmode="decimal" aria-describedby="state-${esc(tid)}" placeholder="Unspecified" value="${esc(value)}"><input id="range-${esc(tid)}" type="range" min="0" max="100" step="0.01" value="${parsed(value).number??0}" aria-label="${esc(c.short_label)} percentage slider" data-toxin="${esc(tid)}"><span class="state" id="state-${esc(tid)}"></span><details><summary>About ${esc(c.short_label)}</summary><p>${esc(c.definition)}</p><p><strong>Category boundary:</strong> ${esc(c.boundaries)}</p><p>${esc(c.interpretation)}</p><p><strong>Design context:</strong> ${esc(c.design_role)}</p><p>Evidence references</p><ul>${help.map(e=>`<li><a href="${esc(e.source_url)}" target="_blank" rel="noopener">${esc(e.locator)}</a><br>${esc(e.paraphrase)}<br><span class="muted">${esc(e.limits)}</span></li>`).join('')}</ul></details></article>`;
+}
+function renderBuilder(){
+  draftRevision++;lastValidated=null;$('validation').replaceChildren();$('downloadDraft').disabled=true;
+  $('draftContext').textContent=draftSource?`Starting point: ${draftSource.profile.species_name}, source row ${draftSource.profile.source_row}. All ${draftSource.components.length} entries remain attached, including unreported values. This is a draft, not a new measured profile.`:'New custom composition. Blank controls are unspecified and omitted from the input. Enter a value or use a slider to include a category.';
+  $('primaryControls').innerHTML=spec.controls.filter(c=>c.tier==='primary').map(controlHTML).join('');
+  $('advancedControls').innerHTML=spec.controls.filter(c=>c.tier==='advanced').map(controlHTML).join('');
+  $('advancedPanel').open=!!draftSource&&spec.controls.some(c=>c.tier==='advanced'&&originalComponent(c.source_toxin_ids[0])?.abundance_pct!==null);
+  for(const input of document.querySelectorAll('[data-toxin]'))input.oninput=()=>editControl(input);
+  $('preservedPanel').hidden=!draftSource;$('preservedMissing').checked=false;$('preservedPanel').open=false;
+  renderPreserved();updateBalance();
+}
+function renderPreserved(){if(!draftSource)return;const entries=draftSource.components.filter(c=>!controlByToxin.has(c.toxin_id));const sum=entries.reduce((s,c)=>s+(c.abundance_pct??0),0);$('preservedSummary').textContent=`Preserved source categories (${entries.length} entries · ${fmt(sum)}% reported)`;$('preservedRows').innerHTML=entries.filter(c=>$('preservedMissing').checked||c.abundance_pct!==null).map(componentRow).join('');}
+function editControl(input){
+  const tid=input.dataset.toxin,raw=input.value;
+  if(!draftSource&&!raw.trim())draftValues.delete(tid);
+  else if(draftSource&&raw===String(originalComponent(tid)?.abundance_pct??''))draftValues.delete(tid);
+  else draftValues.set(tid,raw);
+  if(input.type==='range')$('pct-'+tid).value=raw;
+  else if(parsed(raw).number!==undefined)$('range-'+tid).value=parsed(raw).number;
+  draftRevision++;lastValidated=null;$('validation').replaceChildren();$('downloadDraft').disabled=true;updateBalance();
+}
+function effectiveEntries(){const map=new Map(draftSource?draftSource.components.map(c=>[c.toxin_id,c.abundance_pct]):[]);for(const [tid,value] of draftValues)map.set(tid,value);return map;}
+function updateBalance(){
+  let total=0,invalid=0,cleared=0;for(const [tid,raw] of effectiveEntries()){const v=parsed(raw);if(v.invalid)invalid++;else if(v.number!==undefined)total+=v.number;else if(draftValues.has(tid))cleared++;}
+  total=Math.round(total*1e9)/1e9;const target=spec.accounting.custom_total_pct,tolerance=spec.accounting.custom_total_tolerance_percentage_points;
+  $('assigned').textContent=fmt(total)+'%';$('unallocated').textContent=fmt(Math.max(0,target-total))+'%';$('overallocated').textContent=fmt(Math.max(0,total-target))+'%';
+  const balanced=Math.abs(total-target)<=tolerance&&!invalid&&!cleared;
+  $('balance').dataset.state=(invalid||cleared||total>target+tolerance)?'error':'normal';
+  $('balanceStatus').textContent=invalid?`${invalid} invalid percentage value(s). The total excludes invalid entries.`:cleared?'A reported value was cleared. Supply a number; inherited missing values remain missing.':balanced?'The assigned total is within 100% ±0.01 percentage points. Validate to check the draft.':total>target?`Remove ${fmt(total-target)} percentage points to reach 100%.`:`Assign ${fmt(target-total)} more percentage points to reach 100%.`;
+  for(const c of spec.controls){const tid=c.source_toxin_ids[0],v=parsed(currentValue(tid)),state=$('state-'+tid);state.classList.toggle('error',!!v.invalid);state.textContent=v.invalid?'Enter a finite number from 0 to 100.':v.missing?(draftSource?'Unreported / unspecified; not zero.':'Not included; unspecified.'):(draftValues.has(tid)?'Draft value':draftSource?'Original reported value':'Draft value')+' · '+fmt(v.number)+'%';$('pct-'+tid).setAttribute('aria-invalid',v.invalid?'true':'false');}
+}
+function draftPayload(){const payload={components:[...draftValues].map(([toxin_id,abundance_pct])=>({toxin_id,abundance_pct}))};if(draftSource)payload.source_profile_id=draftSource.profile.profile_id;return payload;}
+async function validateDraft(){const revision=draftRevision;$('validate').disabled=true;clearError();try{const d=await api('/api/validate',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(draftPayload())});if(revision!==draftRevision)return;lastValidated=d.valid?d:null;$('downloadDraft').disabled=!d.valid;$('validation').innerHTML=`<div class="notice ${d.valid?'':'warning'}"><strong>${d.valid?'Composition passes input validation':'Composition needs changes'} · ${fmt(d.sum_pct)}%</strong>${d.errors.length?'<ul>'+d.errors.map(e=>'<li>'+esc(e)+'</li>').join('')+'</ul>':''}${d.warnings.length?'<p>Notes</p><ul>'+d.warnings.map(e=>'<li>'+esc(e)+'</li>').join('')+'</ul>':''}<p>${esc(d.notice)}</p></div><details><summary>Validation JSON</summary><pre>${esc(JSON.stringify(d,null,2))}</pre></details>`;}catch(e){if(revision===draftRevision)error(e);}finally{$('validate').disabled=false;}}
+$('browseTab').onclick=()=>tab('browse');$('composeTab').onclick=()=>tab('compose');$('resetDraft').onclick=()=>{draftSource=null;draftValues=new Map();renderBuilder();};$('preservedMissing').onchange=renderPreserved;$('validate').onclick=validateDraft;$('downloadDraft').onclick=()=>{if(lastValidated)download(lastValidated,'SerpentShaper-composition.json');};
+let timer;$('search').oninput=()=>{clearTimeout(timer);timer=setTimeout(()=>{offset=0;loadList();},200);};$('type').onchange=()=>{offset=0;loadList();};$('held').onchange=()=>{offset=0;++detailRequest;if(!$('held').checked&&current?.profile.ingestion_status==='needs_review'){current=null;$('detail').innerHTML='<h2>Select a profile</h2>';}loadList();};$('prev').onclick=()=>{offset=Math.max(0,offset-30);loadList();};$('next').onclick=()=>{offset+=30;loadList();};
+(async()=>{try{const [summary,catalog]=await Promise.all([api('/api/summary'),api('/api/input-spec')]);spec=catalog.spec;evidence=catalog.evidence;for(const c of spec.controls)for(const tid of c.source_toxin_ids)controlByToxin.set(tid,c);const c=summary.counts;$('stats').innerHTML=[[c.ready_profiles,'Eligible profiles'],[c.ready_proteomic_profiles,'Proteomic profiles'],[c.ready_transcriptomic_profiles,'Transcriptomic profiles'],[c.held_profiles,'Held for review']].map(([n,label])=>`<div class="stat"><strong>${n}</strong><span class="muted">${label}</span></div>`).join('');renderBuilder();await loadList();}catch(e){error(e);}})();
+</script>
+</body>
+</html>

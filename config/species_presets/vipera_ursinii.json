@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "preset_id": "vipera_ursinii",
+  "species_id": "source_6f7fba3e864f433a",
+  "source_species_name": "Vipera ursinii",
+  "common_name": "Meadow Viper",
+  "status": "illustrative_unvalidated",
+  "variant": "Pale meadow viper with a dark dorsal stripe or zigzag.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://inpn.mnhn.fr/docs/cahab/fiches/1298.pdf",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://doi.org/10.2305/IUCN.UK.2024-1.RLTS.T218272979A207526336.en",
+        "scope": "Taxonomy, color variation or qualitative morphology."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_149_vipera_ursinii/manifest.json",
+        "image_id": "inat_154503382",
+        "sha256": "82bf53c7445a446aef691b5bf39e417016b190f6d6a0b33fe67b83ba929de13d",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_149_vipera_ursinii/manifest.json",
+        "image_id": "inat_154503406",
+        "sha256": "e68676e16cd7a21651280385ae72adbe538a78cdc9fd6bb961d29c78ae6bdf06",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_149_vipera_ursinii/manifest.json",
+        "image_id": "inat_24931637",
+        "sha256": "0d4841997bd91f8e350835458773efe1b62a85ba905709c56dfe49cfac1c81f5",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_154503382": "Slender meadow viper, dorsal dark stripe, pale lateral margins and taper.",
+      "inat_154503406": "Dorsal pattern in a different individual.",
+      "inat_24931637": "Partly screened head and patterned body."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "eyes",
+      "special"
+    ],
+    "review": "Initial reference-informed draft; further fitting and independent anatomical review required.",
+    "modeling_flags": [
+      "Pattern varies: the continuous zigzag is a simplified approximation of the longitudinal pattern shown in the chosen image.",
+      "Head and body use an adapted viper scaffold; opposite side, underside, and exact shape need further fitting."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Slender meadow viper, dorsal dark stripe, pale lateral margins and taper.",
+        "Dorsal pattern in a different individual.",
+        "Partly screened head and patterned body.",
+        "Reduced the body thickness and widened the dorsal mark after comparing with the uncoiled meadow-viper photograph."
+      ],
+      "projection_limit": "Single 2D projection; geometry is artistic and not morphometric.",
+      "reference_ids": [
+        "inat_154503382",
+        "inat_154503406",
+        "inat_24931637"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "dorsal_zigzag",
+    "skin_color": "#b0a389",
+    "marking_color": "#635443",
+    "belly_color": "#e0d5c2",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 4.7,
+    "mark_spacing": 55,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 61,
+      "neck": 8.2,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -1.07018,
+          -6.0,
+          7.49123,
+          -9.6,
+          19.26316,
+          -12.0
+        ],
+        [
+          19.26316,
+          -12.0,
+          28.89474,
+          -14.4,
+          42.80702,
+          -18.0,
+          51.36842,
+          -14.4
+        ],
+        [
+          51.36842,
+          -14.4,
+          55.64912,
+          -12.0,
+          57.78947,
+          -8.2,
+          61,
+          -8.2
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          1.07018,
+          4.4,
+          8.5614,
+          7.7,
+          21.40351,
+          9.9
+        ],
+        [
+          21.40351,
+          9.9,
+          31.03509,
+          12.1,
+          42.80702,
+          13.2,
+          51.36842,
+          11.0
+        ],
+        [
+          51.36842,
+          11.0,
+          55.64912,
+          9.35,
+          57.78947,
+          8.2,
+          61,
+          8.2
+        ]
+      ],
+      "eye": [
+        24,
+        -3,
+        3.0,
+        3.2
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q21.3 6 42.7 8 L54.9 4",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M19.5 3 Q35.4 7 48.8 9",
+          "stroke": "#e4d8c3",
+          "width": 1.2
+        }
+      ],
+      "micro_scales": true,
+      "iris_color": "#ac8c70"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        7.14
+      ],
+      [
+        258,
+        227,
+        11.76
+      ],
+      [
+        305,
+        249,
+        17.64
+      ],
+      [
+        390,
+        271,
+        21.84
+      ],
+      [
+        471,
+        302,
+        23.52
+      ],
+      [
+        514,
+        347,
+        22.68
+      ],
+      [
+        502,
+        397,
+        21.84
+      ],
+      [
+        430,
+        431,
+        20.16
+      ],
+      [
+        330,
+        445,
+        19.32
+      ],
+      [
+        253,
+        476,
+        18.48
+      ],
+      [
+        253,
+        515,
+        17.64
+      ],
+      [
+        324,
+        550,
+        15.96
+      ],
+      [
+        400,
+        555,
+        13.44
+      ],
+      [
+        460,
+        546,
+        9.24
+      ],
+      [
+        510,
+        528,
+        4.2
+      ],
+      [
+        545,
+        505,
+        0.0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "zigzag_width": 0.32
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "preset_id": "hypnale_hypnale",
+  "species_id": "source_eb05d3f834fa9845",
+  "source_species_name": "Hypnale hypnale",
+  "common_name": "Hump-nosed Viper",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown hump-nosed pit viper with paired dark body marks and a pale facial stripe.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.academia.edu/116403534/A_taxonomic_revision_of_the_South_Asian_hump_nosed_pit_vipers_Squamata_Viperidae_Hypnale_",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Hypnale/hypnale",
+        "scope": "Species diagnostic description and variation."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_080_hypnale_hypnale/manifest.json",
+        "image_id": "inat_52442",
+        "sha256": "7a7ba29835e727f29e6a1cd47b4d99d794a17801b76b8e6ed2f86b1df95df462",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_080_hypnale_hypnale/manifest.json",
+        "image_id": "inat_40858147",
+        "sha256": "51e4b495563fa9683a5b51c772cfbf5e17ab7c5f5ed6eb10e4be26e927f5e0e1",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_080_hypnale_hypnale/manifest.json",
+        "image_id": "inat_87674079",
+        "sha256": "9b95e915a97d044fb504fb28951e870e1a0e3593d900ccc0554b976136caee73",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_52442": "Brown coiled body with paired dark markings and broad head.",
+      "inat_40858147": "Head closeup showing vertical pupil and pale-edged dark face.",
+      "inat_87674079": "Muted red-brown form with paired black spots."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "variation"
+    ],
+    "review": "Initial reference-informed draft; further fitting and anatomical review required.",
+    "modeling_flags": [
+      "Do not infer a raised snout from the common name or an upward-pointing pose; the cited diagnosis says the snout tip is not raised.",
+      "Body pattern and scale layout remain approximate; all angles are not independently reconstructed."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Brown coiled body with paired dark markings and broad head.",
+        "Head closeup showing vertical pupil and pale-edged dark face.",
+        "Muted red-brown form with paired black spots.",
+        "The initial render had oversized dorsal blotches, so the body now uses smaller paired spots to resemble the selected brown form."
+      ],
+      "projection_limit": "Single projected study with artistic dimensions.",
+      "reference_ids": [
+        "inat_52442",
+        "inat_40858147",
+        "inat_87674079"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "paired_spots",
+    "skin_color": "#9b7059",
+    "marking_color": "#543f35",
+    "belly_color": "#dcc3ad",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 4.5,
+    "mark_spacing": 50,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 63,
+      "neck": 8,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -0.96923,
+          -4.6,
+          5.81538,
+          -9.2,
+          17.44615,
+          -10.35
+        ],
+        [
+          17.44615,
+          -10.35,
+          28.10769,
+          -13.8,
+          41.67692,
+          -17.25,
+          51.36923,
+          -14.95
+        ],
+        [
+          51.36923,
+          -14.95,
+          58.15385,
+          -11.5,
+          60.09231,
+          -8,
+          63,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          0.96923,
+          4.48,
+          7.75385,
+          7.84,
+          19.38462,
+          8.96
+        ],
+        [
+          19.38462,
+          8.96,
+          31.01538,
+          11.2,
+          44.58462,
+          13.44,
+          52.33846,
+          11.2
+        ],
+        [
+          52.33846,
+          11.2,
+          57.18462,
+          9.41,
+          60.09231,
+          8,
+          63,
+          8
+        ]
+      ],
+      "eye": [
+        24,
+        -3,
+        3.2,
+        3.5
+      ],
+      "nostril": [
+        6,
+        -1.3
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q22.0 6 44.1 8 L56.7 4",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M23.9 -2 Q37.2 1 50.4 5 L50.4 9 Q36.5 5 23.9 2 Z",
+          "fill": "#473b34"
+        },
+        {
+          "path": "M25.2 2 Q37.8 6 50.4 9",
+          "stroke": "#e3d0ae",
+          "width": 1.3
+        }
+      ],
+      "micro_scales": true,
+      "iris_color": "#c4996b",
+      "pit": [
+        15.5,
+        0.8
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.2
+      ],
+      [
+        258,
+        227,
+        12
+      ],
+      [
+        305,
+        249,
+        17
+      ],
+      [
+        390,
+        271,
+        20
+      ],
+      [
+        471,
+        302,
+        21
+      ],
+      [
+        514,
+        347,
+        20
+      ],
+      [
+        502,
+        397,
+        20
+      ],
+      [
+        430,
+        431,
+        19
+      ],
+      [
+        330,
+        445,
+        18
+      ],
+      [
+        253,
+        476,
+        17
+      ],
+      [
+        253,
+        515,
+        16
+      ],
+      [
+        324,
+        550,
+        14
+      ],
+      [
+        400,
+        555,
+        11
+      ],
+      [
+        460,
+        546,
+        7
+      ],
+      [
+        510,
+        528,
+        3
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

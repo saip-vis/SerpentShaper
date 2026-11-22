@@ -1,0 +1,40 @@
+[
+  {
+    "file": "ahaetulla_prasina_01.jpg",
+    "url": "https://www.biosch.hku.hk/ecology/hkreptiles/snake/images/Ahaetulla_prasina_01.JPG",
+    "sha256": "68cddef17f536011188d76dc9367f2e1b25c4b6e4d24d73b30d9dec06ebfca8b",
+    "usage": "Private visual reference only; no training or redistribution permission inferred.",
+    "status": "visually_reviewed",
+    "scope": "Reference comparison; no model fitting or reuse license inferred."
+  },
+  {
+    "file": "ahaetulla_prasina_02.jpg",
+    "url": "https://www.biosch.hku.hk/ecology/hkreptiles/snake/images/Ahaetulla_prasina_02.JPG",
+    "sha256": "47f7fe829df071496b9e1f4301d342a6a71c9a30e40dd299b137321355cccc15",
+    "usage": "Private visual reference only; no training or redistribution permission inferred.",
+    "status": "visually_reviewed",
+    "scope": "Reference comparison; no model fitting or reuse license inferred."
+  },
+  {
+    "file": "austrelaps_labialis.pdf",
+    "url": "https://cdn.environment.sa.gov.au/landscape/docs/hf/pa-fact-pygmycopperhead.pdf",
+    "sha256": "bfc6d952d6470e1bea55f98dc5e54b5fedae2e6ca7c73e332bb9dddd1f05af53",
+    "usage": "Private visual reference only; no training or redistribution permission inferred.",
+    "status": "visually_reviewed",
+    "scope": "Reference comparison; no model fitting or reuse license inferred."
+  },
+  {
+    "file": "bothrops_caribbaeus.jpg",
+    "url": "https://orianne.wpenginepowered.com/wp-content/uploads/2025/07/DSC_2712-Calvin-Vick-1024x683.jpg",
+    "sha256": "443b5fc4fa35218576f9ea1168151076467dfea3b64038794fbe4ea7dab82a34",
+    "usage": "Private visual reference only; no training or redistribution permission inferred.",
+    "status": "visually_reviewed",
+    "scope": "Reference comparison; no model fitting or reuse license inferred."
+  },
+  {
+    "file": "bothrops_cotiara.jpg",
+    "url": "https://repositorioacervohistorico.butantan.gov.br/uploads/r/centro-de-memoria-do-instituto-butantan-2/0/4/1/041912ced43dd560c88869cc5fb4d6c350bdb01e15f2754fa76ebb2a64ee5709/IB_ICO_000418_141.jpg",
+    "status": "fetch_failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

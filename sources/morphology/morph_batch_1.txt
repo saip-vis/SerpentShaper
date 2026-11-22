@@ -1,0 +1,510 @@
+The Wildlife of Fort Buchanan, Puerto Rico (https://home.army.mil/buchanan/7915/7615/4136/Wildlife_of_Ft._Buchanan_Field_Guide_2018-FINAL_Final_12.11.18.PDF)
+ [wordlim: 200] Published: 7.9 years ago; (Borikenophis portoricensis) ... Description: Second largest snake on the island and on Fort Buchanan. ... sal coloration and whitish color ventrally.
+Common Name: PUERTO RICAN RACER 
+(Borikenophis portoricensis)
+Spanish Common Name: CORREDORA DE PUERTO RICO
+Distribution: Native to Puerto Rico, British and US Virgin Islands.
+Military Interactions: On Fort Buchanan it can be observed inside forest fragments and along 
+the forest edge of the golf course area.
+Description: Second largest snake on the island and on Fort Buchanan. It is mainly 
+ground-dwelling, but can be found in trees. It is distinguished by its brown to olive brown dor­
+sal coloration and whitish color ventrally. Sometimes, scale edges are darker. Adults can grow 
+up to 80 cm SVL. 
+Habitat:  It uses different types of habitats from coastal plains to forested middle elevations.
+Behavior: Primarily diurnal, although it has been observed active during the night on Fort Bu­
+chanan. Diet consists of vertebrates such as coqui frogs, lizards, and other snakes. The Puerto 
+Rican Racer can exhibit aggressive behavior when cornered and will bite. When cornered it 
+will rise the upper part of its body and expand its neck in cobra-like fashion. This is a rear-
+fanged snake and its venom is toxic enough to paralyze its small prey. They are oviparous and 
+will lay eggs from March to May. Generally not dangerous to people, although some people 
+may be allergic to their venom and if bitten there can be swelling and bleeding round the bite.   
+Conservation Status: The Puerto Rican Racer is not listed at the federal/state level or Nature 
+Serve Ranking. It is not listed in the IUCN redlist. 
+20--------------------------------------------------------------------------------
+OFR 2023-1066: Appendix D (https://pubs.usgs.gov/of/2023/1066/ofr20231066_appD.pdf)
+ [wordlim: 200] Published: 1.7 years ago; Crawled: 2 weeks ago; ### Brown Tree Snake, *Boiga irregularis* (Bechstein, 1802)
+
+**Description:** The brown tree snake is a large and slender snake.
+298
+
+# Biodiversity Surveys of Wake Atoll—Featuring Field Guides for Plants, Arthropods, and Herpetofauna
+
+## Snakes
+
+### Brown Tree Snake, *Boiga irregularis* (Bechstein, 1802)
+
+**Description:** The brown tree snake is a large and slender snake. It has vertical pupils and a large triangular head. It is brown or greenish yellow with some cross banding. Adult SVL ranges from 80 to 250 cm, and hatchlings are about 330-mm SVL.
+
+**Habitat:** These snakes live in trees and shrubs but can be detected on houses, in the eves and other building features, in vehicles, and generally anywhere. They are active at night.
+
+**Historical Status and Distribution:** No record on Wake.
+
+**Risk Assessment:** High. These snakes have been a highly problematic invasive species in Guam, affecting biodiversity and economic health for more than 60 years (Rodda and Savidge, 2007; Soto and others, 2022). This species could decimate the birds and lizards of Wake if it arrived and could be difficult or impossible to eradicate if established.
+
+<visual_element id="e1">
+**Brown Tree Snake (*Boiga irregularis*) photographs**
+
+A large color photograph shows a brown tree snake climbing and winding around tree branches and trunks in a dark, leafy environment. The snake has a slender, elongated body with brown and tan coloration, darker cross-banding, and a lighter underside. Its body curves around several branches, with its head near the lower center of the photograph.
+
+An inset photograph at the upper left shows a close-up of the snake's orange-brown head and upper body resting on a green leaf. The head has prominent eyes with vertical, slit-shaped pupils.
+
+Photograph credit (printed vertically along the right edge): Photographs by J.O. Richmond and R.N. Fisher, U.S. Geological Survey.
+</visual_element>--------------------------------------------------------------------------------
+b. **Distribución geográfica:** (https://biblioteca-farmacia.usac.edu.gt/Tesis/B47.pdf)
+ [wordlim: 200] Published: 1.2 years ago; Crawled: 2 weeks ago; - Especie: Bothriechis bicolor ... Bothriechis aurifer (SALVIN)
+b. **Distribución geográfica:**
+
+Elevaciones moderadas e intermedia de la vertiente del Pacífico, Este de Chiapas México y Oeste de Guatemala, Escuintla y Sololá.
+
+c. **Localidad donde se ha registrado:**
+
+Volcán San Pedro, Volcán Tolimán
+
+d. **Hábitat:**
+
+zonas templadas, bosques húmedos y lluviosos
+
+e. **Clasificación taxonómica:**
+
+- Orden: Squamata
+- Familia: Viperidae
+- Género: Bothriechis
+- Especie: Bothriechis bicolor
+- Nombre común: Cantil, cantil verde, tamáguas
+
+f. **Especímenes examinados en la Colección MHN-USAC:** 25, 26, 40
+
+### C. Bothriechis aurifer (SALVIN)
+
+a. **Descripción:**
+
+Serpiente arborícola, longitud 500 a 1000 mm, escamas aquilladas en la región dorsales, 21 líneas de escamas alrededor del cuerpo, 8 supralabiales, 9 infralabiales, 2 preoculares, 2 prefrontales, 1-2 temporales, 2 parietales, escamas ventrales lisas, escama cloacal dividida. (11)
+
+b. **Distribución geográfica:**
+
+Elevaciones intermedias y moderadas de la vertiente del Caribe de Chiapas, México, Guatemala en Alta Verapaz y Izabal,
+
+— 31 —--------------------------------------------------------------------------------
+Taxonomy browser Taxonomy Browser (Bothriechis marchi) (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=361629)
+ [wordlim: 200] Crawled: 2 months ago; ## Bothriechis marchi ... Bothrops nigroviridis marchi  Barbour & Loveridge, 1929
+
+## Bothriechis marchi
+
+Taxonomy ID: 361629 (for references in articles please use ncbitaxon:361629)
+current name
+
+Bothriechis marchi
+
+homotypic synonym:
+
+Bothrops marchi
+
+basionym:
+
+Bothrops nigroviridis marchi  Barbour & Loveridge, 1929
+
+holotype of Bothrops nigroviridis marchi: :
+
+Genbank common name: March's palm-pitviper
+NCBI BLAST name: snakes
+Rank: species
+Genetic code: Translation table 1 (Standard)
+Mitochondrial genetic code: Translation table 2 (Vertebrate Mitochondrial)
+
+Lineage(full)
+    cellular organisms; Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Deuterostomia; Chordata; Craniata; Vertebrata; Gnathostomata; Teleostomi; Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha; Tetrapoda; Amniota; Sauropsida; Sauria; Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata; Toxicofera; Serpentes; Colubroidea; Viperidae; Crotalinae; Bothriechis
+--------------------------------------------------------------------------------
+Brown Tree Snake – Hawaii Invasive Species Council (https://dlnr.hawaii.gov/hisc/info/invasive-species-profiles/brown-tree-snake/)
+ [wordlim: 200] Crawled: today; #### Description ...   * Boiga irregularis information from USGS Fort Collins Science Center
+
+Home » Invasive Species » Invasive Species Profiles » Brown Tree Snake
+
+## Brown Tree Snake
+
+### Brown tree snake (Boiga irregularis)
+
+Regulatory Status: Hawaii Injurious Wildlife.  Federal Injurious Wildlife
+
+Not known to be established in Hawai’i, Call 911 or 643-PEST immediately to report any snake sighting.
+
+#### Description
+
+  * Snake with yellowish to dark brown back, sometimes with mottled bands. Underside is cream to yellow colored. Head wider than body, with eyes that are cat-like (the pupils are vertical)
+
+  * Nocturnal, lives mostly in trees, although frequently seen on the ground.
+
+  * Length is 45 cm (18 inches) when first hatches from egg, may grow to 3 m (9 feet) in length, although most frequently 1-2 m (3-6 feet)
+
+  * Able to reproduce at three years of age
+
+  * Native to the South Pacific including the Solomon Islands, New Guinea, and Northern Australia. Believed to have been accidentally introduced to Guam in the 1940s hidden in cargo.
+
+#### Impacts
+
+  * On Guam, the population of Brown tree snakes (BTS) was once around 50 snakes per acre. --------------------------------------------------------------------------------
+Manual para la identificación, (https://iris.paho.org/xmlui/bitstream/handle/123456789/34498/manualidentificacion-spa.pdf?isAllowed=y.&sequence=1)
+ [wordlim: 200] Published: 1.1 years ago; Bothriechis aurifer  | ... Bothriechis bicolor  |
+11 Escamas superciliares elevadas que dan la
+apariencia de pestañas; patrón de color verdoso
+con marcas rojizas; arborícola, con cola prensil
+...................Bothriechis schlegelii  | 
+--- | ---
+Sin escamas superciliares; vientre uniforme-
+mente verde amarillento.......... 12  | 
+12 Escamas intersupraoculares en la cabeza (de 1-
+5), algunas irregulares en superficie y planas o
+con múltiples quillas. Patrón de rombos y
+manchas amarillas en el dorso.
+…………………….. Bothriechis aurifer  | 
+Escamas intersupraoculares en la cabeza (de 5-
+11), regulares en superficie y con quillas simples;
+sin patrón de rombos y manchas en el dorso.
+……...............................................…… 13  | 
+13. Dorso uniformemente verde, algunas veces con
+salpicaduras negras pero sin marcas
+mediodorsales negras; sin marca negra
+postocular …………………
+..............................Bothriechis bicolor  | 
+Dorso con moteaduras negras, presenta marca
+negra postocular.........................
+………………Bothriechis thalassinus  | Manual para la identificación, prevención y tratamiento de mordeduras de serpientes venenosas en C. A.   Vol. I: Guatemala
+9--------------------------------------------------------------------------------
+dimorphism has not been investigated. Porras *et al.* (1981) noted sex dimorphism in the size, body shape, scale counts and coloration of *B. nas...*, but did not confirm (or deny) Amaral’s observations on the *canthus* of male... (https://www.mpm.edu/sites/default/files/files%20and%20dox/C%26R/library/bio-geo/%23059%20MPM%20Contributions%20in%20Biology%20and%20Geology%20Number%2059.pdf)
+ [wordlim: 200] Published: 12.7 years ago; Crawled: 2 weeks ago; Original Description: *Bothriechis nigroviridis* Peters, 1859:276. ... Etymology: *nigro* = black, *viridis* = green, alluding to the black pigment on the dorsal green ground-color of some individuals. ... Although at the time it was considered a *B. n. marchi* (Barbour and Loveridge), the subspecific designation may have been mistaken.
+dimorphism has not been investigated. Porras *et al.* (1981) noted sex dimorphism in the size, body shape, scale counts and coloration of *B. nas...*, but did not confirm (or deny) Amaral’s observations on the *canthus* of male...
+
+## *Bothrops nigroviridis* Peters
+Map, Fig. 6
+
+Original Description: *Bothriechis nigroviridis* Peters, 1859:276. Type locality: Volcán Barba, Costa Rica.
+
+Nicaraguan records: Villa (1962:48) no specific locality cited.
+
+Etymology: *nigro* = black, *viridis* = green, alluding to the black pigment on the dorsal green ground-color of some individuals.
+
+Local names: Chocoya, Lora (after the local name for chocoyos, and lor... two types of green parrots). Víbora de las palmas (palm viper).
+
+Diagnosis: a green (bluish in preservative) pit viper without horn-like scales above the eyes or yellowish ventral lines. Other distinguishing characters: midbody dorsals in 19 rows (all but outer 2 rows keeled), ventrals 134-171, subcaudals 49-67, anal plate single, supralabials 9-13, infralabials 10-13, loreal single.
+--------------------------------------------------------------------------------
+Brown treesnake (<i>Boiga irregularis</i>) fact sheet for Pacific Island residents and travelers (https://pubs.usgs.gov/publication/fs20053109)
+ [wordlim: 200] Published: 21.9 years ago; Crawled: last week; ### Brown treesnake (Boiga irregularis) fact sheet for Pacific Island residents and travelers ... Publication Subtype  | USGS Numbered Series ... Description  | 2 p.
+
+### Brown treesnake (Boiga irregularis) fact sheet for Pacific Island residents and travelers
+
+Fact Sheet 2005-3109
+
+By: Thomas H. Fritts, D.L. Tanner, James Stanford, and Teri Kman
+
+https://doi.org/10.3133/fs20053109
+
+#### Abstract
+
+The brown treesnake is an introduced species on Guam that has become a serious pest. The snakes probably arrived on Guam hidden in ship cargo from the New Guinea area, about 1100 miles to the south. The first sightings were inland from the seaport in the early 1950s. Snakes became conspicuous throughout central Guam by the 1960s, and by 1968, they had probably dispersed throughout the island.
+
+In the absence of natural population controls and with vulnerable prey on Guam, the snakes have now become an exceptionally common pest, causing major ecological and economic damage on the island.
+
+#### Suggested Citation
+
+Fritts, T.H., Tanner, D., Stanford, J., and Kman, T., 2005, Brown treesnake (Boiga irregularis) fact sheet for Pacific Island residents and travelers: U.S. Geological Survey Fact Sheet 2005-3109, 2 p., https://doi.org/10.3133/fs20053109.
+
+ISSN: 2327-6932 (online)
+
+ISSN: 2327-6916 (print)
+
+Publication Type  | Report
+Publication Subtype  | USGS Numbered Series
+Title  | Brown treesnake (Boiga irregularis) fact sheet for Pacific Island residents and travelers
+Series Title  | Fact Sheet
+Series Number  | 2005-3109
+DOI  | 10.3133/fs20053109
+Year Published  | 2005
+Language  | English
+Publisher  | U.S. Geological Survey
+Publisher Location  | Fort Collins, CO
+Contributing Office(s)  | Fort Collins Science Center
+Description  | 2 p.
+Online Only (Y/N)  | N--------------------------------------------------------------------------------
+Brown Tree Snake (Boiga irregularis) | U.S. Fish & Wildlife Service (https://www.fws.gov/species/brown-tree-snake-boiga-irregularis)
+ [wordlim: 200] Crawled: last week; Boiga irregularis
+
+## Overview
+
+### Scientific Name
+
+Boiga irregularis
+
+Common Name
+
+Brown Tree Snake
+
+Brown Treesnake
+
+Brown Cat Snake
+
+Kingdom
+
+Animalia
+
+### Location in Taxonomic Tree
+
+Genus
+
+Boiga
+
+Species
+
+Boiga irregularis
+
+### Identification Numbers
+
+TSN:
+
+174206
+
+## Geography
+
+Launch Interactive Map
+
+ImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImageImage
+
+Image
+
++−
+
+Leaflet | © OpenStreetMap
+
+## Information & Media
+
+Below is a list of additional information and media on this taxon. You can further refine your results, or enter a search term below.--------------------------------------------------------------------------------
+Brown tree snake | U.S. Geological Survey (https://www.usgs.gov/media/images/brown-tree-snake)
+ [wordlim: 200] Published: 12.1 years ago; Crawled: 2 months ago; ### Detailed Description
+
+Brown tree snake (Boiga irregularis) is an invasive species originally from Australia but arrived in Guam accidently on imported cargo.
+
+# Brown tree snake
+
+By Eastern Ecological Science Center November 3, 2014
+
+Image: Long slender snake with light brown scales, large eyes with catlike pupils, and head wider than its body resting on branch 
+
+Original Thumbnail Medium
+
+### Detailed Description
+
+Brown tree snake (Boiga irregularis) is an invasive species originally from Australia but arrived in Guam accidently on imported cargo. 
+
+### Sources/Usage
+
+Public Domain.
+
+Publisher U.S. Fish & Wildlife Service
+
+Credits
+
+Gordon H. Rodda
+
+U.S. Fish & Wildlife Service
+
+### Explore Search
+
+  * Biology
+  * Ecosystems
+  * brown treesnake
+  * invasive species
+  * Eastern Ecological Science Center--------------------------------------------------------------------------------
+A new species of arboreal pitviper from the Atlantic versant of northern Central America (https://www.scielo.sa.cr/scielo.php?lng=en&nrm=iso&pid=S0034-77442000000400025&script=sci_arttext)
+ [wordlim: 200] Published: 26.0 years ago; Crawled: 3 weeks ago; Color pattern of small rust-colored triangular spots or vertical bars on a greenish background; or ground color ... Bothriechis nigroviridis ... 20 Bothriechis marchi
+
+KEY TO SPECIES OF THE
+GENUS BOTHRIECHIS
+
+1. Series of small, usually spinelike superciliary scales present between ocular and supraocular ........... 2
+
+No superciliary scales present.......................................................................................................... 3
+
+2. Color pattern of small rust-colored triangular spots or vertical bars on a greenish background; or ground color
+yellow to reddish brown, sometimes essentially patternless but with numerous small dots or flecks of secondary pigmentation.......................................................................................................Bothriechis schlegelii
+
+Color pattern of middorsal markings of variable shapes (circular, rhomboidal, bands), rarely large paravertebral oval spots; ground color usually uniform ........................................................................................Bothriechis supraciliaris
+
+3. Dorsal coloration green with many heavy black mottling; iris blackish ..................Bothriechis nigroviridis
+--------------------------------------------------------------------------------
+MCZbase MCZ:Herp:R-27568 specimen record | MCZbase (https://mczbase.mcz.harvard.edu/guid/MCZ%3AHerp%3AR-27568)
+ [wordlim: 200] Crawled: last week; ## Bothriechis marchi (Barbour and Loveridge, 1929)
+
+## Paratype of Bothrops nigroviridis marchi
+
+# MCZ Herpetology R-27568
+
+## Bothriechis marchi (Barbour and Loveridge, 1929)
+
+## Paratype of Bothrops nigroviridis marchi
+
+Date Collected:
+
+## 1928
+
+## Central America: Honduras: Santa Barbara | Quinistan to Cofradia
+
+occurrenceID: https://mczbase.mcz.harvard.edu/guid/MCZ:Herp:R-27568
+
+### [Button: Cataloged Item ]
+
+  * Collection: Herpetology
+  * Catalog Number: R-27568
+  * GUID: MCZ:Herp:R-27568
+
+### [Button: Identifications ]
+
+Current Identification
+
+Bothriechis marchi (Barbour and Loveridge, 1929)
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Viperidae
+
+Determiner: Achyuthan Srikanthan on 2022-10-14
+
+Nature of ID: revised taxonomy
+
+Previous Identification
+
+Bothrops marchi (Barbour and Loveridge, 1929)
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Viperidae
+
+Determiner: Thomas Barbour; Arthur Loveridge
+
+Nature of ID: type ID
+
+Remarks: Barbour&Loveridge/1929
+--------------------------------------------------------------------------------
+Brown Treesnake (Boiga irregularis) (https://pubs.usgs.gov/fs/2005/3109/report.pdf)
+ [wordlim: 200] Published: 21.0 years ago; USGS ... Brown Treesnake (*Boiga irregularis*)
+USGS  
+science for a changing world
+
+Brown Treesnake (*Boiga irregularis*)  
+Fact Sheet for Pacific Island Residents and Travelers
+
+An Invasive Pest Species  
+The brown treesnake is an introduced species on Guam that has become a serious pest. The snakes probably arrived on Guam hidden in ship cargo from the New Guinea area, about 1100 miles to the south. The first sightings were inland from the seaport in the early 1950s. Snakes became conspicuous throughout central Guam by the 1960s, and by 1968, they had probably dispersed throughout the island.  
+In the absence of natural population controls and with vulnerable prey on Guam, the snakes have now become an exceptionally common pest, causing major ecological and economic damage on the island.
+
+Extinction of Birds  
+The brown treesnake has virtually wiped out the native forest birds of Guam. Ten species of birds, some found nowhere else, have disappeared from the island, and several others persist in precariously low numbers close to extinction. Some introduced, non-native bird species better adapted to resist snake predation are still currently found on Guam, but these introduced species have not filled the ecological niches made vacant when the native bird species disappeared.
+--------------------------------------------------------------------------------
+First crotoxin-like phospholipase A2 complex from a New World non-rattlesnake species: Nigroviriditoxin, from the arboreal Neotropical snake Bothriechis nigroviridis (https://www.sciencedirect.com/science/article/pii/S0041010114006060)
+ [wordlim: 200] Published: 11.9 years ago; Crawled: last month; Its Latin name originates from its distinctive speckled color pattern combining black (nigro) and emerald green (viridis) spots. ... In a previous study, the venom of B. nigroviridis was analyzed by a combined proteomic and toxicological approach (Fernández et al., 2010), revealing remarkable differences with the venoms of three other Bothriechis species found in Costa Rica: Bothriechis lateralis, Bothriechis schlegelii (Lomonte et al., 2008) and Bothriechis supraciliaris (Lomonte et al., 2012). ... Crotoxin is a well characterized heterodimeric PLA_{2} complex (Aird et al., 1986, Faure et al., 1994, Marchi-Salvador et al., 2008, Sampaio et al., 2010) thus far only found in the venom of rattlesnakes (genera Crotalus and Sistrurus).
+## Keywords
+
+Snake venom
+
+;
+
+Viperidae
+
+;
+
+Phospholipase A_{2}
+
+;
+
+Crotoxin
+
+;
+
+Bothriechis nigroviridis
+
+## Introduction
+
+The black-speckled palm snake, Bothriechis nigroviridis, is an arboreal Neotropical pit viper that inhabits subtropical rainforests and temperate forests at medium to high elevations (1150–3000 m) on the Cordillera de Tilarán (highlands of Monteverde) and Cordillera Volcánica Central in Costa Rica, southeastward through the Cordillera de Talamanca to the Chiriquí province in Panamá (Savage, 2002, Campbell and Lamar, 2004, Solórzano, 2004). Its Latin name originates from its distinctive speckled color pattern combining black (nigro) and emerald green (viridis) spots. Adults have been described to prey on small rodents, lizards, frogs, and occasionally small birds (Solórzano, 2004). Owing to its confinement to undisturbed habitats with little human contact, envenomings by this pitviper species appear to be extremely uncommon, as no documented cases could be found in a literature search.
+--------------------------------------------------------------------------------
+ITIS - Report: Boiga irregularis (https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=174206)
+ [wordlim: 200] Crawled: last month; Boiga irregularis  (Bechstein, 1802)
+
+# Integrated Taxonomic Information System - Report
+
+Boiga irregularis  (Bechstein, 1802)
+Taxonomic Serial No.: 174206
+
+(Download Help) Boiga irregularis TSN 174206
+
+ Taxonomy and Nomenclature
+       
+  Kingdom: Animalia  
+  Taxonomic Rank: Species  
+  Synonym(s): Coluber irregularis Bechstein, 1802
+ 
+  Common Name(s): Brown Tree Snake [English]
+ 
+    Brown Treesnake [English]
+ 
+    Brown Cat Snake [English]
+ 
+       
+  Taxonomic Status:    
+  Current Standing: valid  
+       
+  Data Quality Indicators:    
+  Record Credibility Rating: verified - standards met  
+       
+ Taxonomic Hierarchy
+       
+  Kingdom Animalia  – Animal, animaux, animals  
+     Subkingdom Bilateria  – triploblasts  
+        Infrakingdom Deuterostomia   
+           Phylum Chordata  – cordés, cordado, chordates  
+              Subphylum Vertebrata  – vertebrado, vertébrés, vertebrates  
+--------------------------------------------------------------------------------
+Texas Invasives (https://www.texasinvasives.org/animal_database/detail.php?symbol=4)
+ [wordlim: 200] Published: 15.2 years ago; Crawled: 5 months ago; ## Description ... Accessed 17 Nov. 2010: http://www.fort.usgs.gov/Resources/Education/BTS/. ... A brown tree snake (Colubridae: Boiga irregularis) sighting in Texas.
+--------------------------------------------------------------------------------
+A new species of arboreal pitviper from the Atlantic versant of northern Central America (https://www.scielo.sa.cr/scielo.php?pid=S0034-77442000000400025&script=sci_arttext)
+ [wordlim: 200] Published: 26.0 years ago; Crawled: today; We have examined Bothriechis bicolor from the American Museum of Natural History (AMNH), University of Michigan Museum of Zoology (UMMZ), the United States National Museum (USNM), and UTA (see AppendixSpecimens Examined). ... Bothriechis aurifer
+--------------------------------------------------------------------------------
+Brown Treesnake Project | U.S. Geological Survey (https://www.usgs.gov/pacific-island-ecosystems-research-center/science/brown-treesnake-project?field_pub_type_target_id=All&field_release_date_value=&items_per_page=6&page=3)
+ [wordlim: 200] Published: 1.5 years ago; Crawled: today; reedr@usgs.gov ... A bait tube is a device with which a toxicant inserted in a dead mouse (Mus musculus) can be delivered to invasive brown treesnakes (Boiga irregularis) with low risk of non-target bait take.
+--------------------------------------------------------------------------------
+Bothriechis (https://it.wikipedia.org/wiki/Bothriechis)
+ [wordlim: 200] Crawled: 6 months ago; Bothriechis nigroviridis ... * Bothriechis marchi (Barbour & Loveridge, 1929)
+--------------------------------------------------------------------------------
+Bothriechis marchi (https://en.wikipedia.org/wiki/Bothriechis_marchi)
+ [wordlim: 200] Crawled: 6 months ago; * Bothriechis nigroviridis marchi ... "On some Hondurian and Guatemalan snakes with the description of a new arboreal pit viper of the genus Bothrops ".
+--------------------------------------------------------------------------------
+Borikenophis portoricensis (https://en.wikipedia.org/wiki/Borikenophis_portoricensis)
+ [wordlim: 200] Crawled: 6 months ago; Borikenophis portoricensis ... Borikenophis portoricensis ... Its body sports a solid brown color with each of his scales edged by a darker brown.
+--------------------------------------------------------------------------------
+Bothriechis (https://en.wikipedia.org/wiki/Bothriechis)
+ [wordlim: 200] Crawled: 5 months ago; (Bothriechis nigroviridis) ... The name Bothriechis is derived from the Greek words bothros and echis that mean "pit" and "viper" respectively. ... ## Description ... The color pattern usually consists of a green ground color that may or may not include pale or dark markings. ...    | B. marchi  | (Barbour & Loveridge, 1929)  | Honduran palm-pitviper  | The Atlantic versant of northwestern Honduras and eastern Guatemala.
+--------------------------------------------------------------------------------
+Marchs Palmlanzenotter (https://de.wikipedia.org/wiki/Marchs_Palmlanzenotter)
+ [wordlim: 200] Crawled: 4.2 years ago;  Gattung:  | Palmlanzenottern (Bothriechis) ... Marchs Palmlanzenotter (Bothriechis marchi) ist eine Art der Palmlanzenottern (Bothriechis) innerhalb der Grubenottern (Crotalinae). ...  Schwarzgefleckte Palmlanzenotter (B. nigroviridis)
+--------------------------------------------------------------------------------
+Bothriechis marchi (https://es.wikipedia.org/wiki/Bothriechis_marchi)
+ [wordlim: 200] Crawled: 7 months ago;  Bothriechis nigroviridis marchi - Hoge & Romano-Hoge, 1983
+--------------------------------------------------------------------------------
+Brown Tree Snake: Bangka Island North Sulawesi: Indonesia Snakes - YouTube (https://www.youtube.com/watch?v=HjL3ceYAsns)
+ [wordlim: 200] Published: 4.4 years ago; Crawled: 5 months ago; ## Description ... The brown tree snake (Boiga irregularis), also known as the brown catsnake, is an arboreal rear-fanged colubrid snake native to eastern and northern coastal Australia, eastern Indonesia (Sulawesi to Papua), Papua New Guinea, and many islands in northwestern Melanesia.
+--------------------------------------------------------------------------------
+Invasive Brown Treesnakes on Guam - YouTube (https://www.youtube.com/watch?v=m_hiejyayFQ)
+ [wordlim: 200] Published: 13.0 years ago; Crawled: 6 months ago; ## Description ... The brown treesnake (Boiga irregularis) was accidentally introduced to Guam in the late 1940s.
+--------------------------------------------------------------------------------
+Anna Traveset, doctora en ciencias: "Una serpiente escondida en un cargamento militar colapsó el sistema y eliminó a todas las aves de una isla de 549 kilómetros cuadrados" (https://www.huffingtonpost.es/sociedad/anna-traveset-doctora-ciencias-serpiente-escondida-cargamento-militar-colapso-sistema-elimino-todas-aves-isla-549-kilometros-cuadrados-f202603.html)
+ [wordlim: 100] Published: 8 months ago; La serpiente arbórea marrón (Boiga irregularis), en una imagen de archivo
+Anna Traveset, doctora en ciencias: "Una serpiente escondida en un cargamento militar colapsó el sistema y eliminó a todas las aves de una isla de 549 kilómetros cuadrados"
+Date: Tue Mar 24 20:00:00 2026 UTC
+
+Anna Traveset, doctora en ciencias: "Una serpiente escondida en un cargamento militar colapsó el sistema y eliminó a todas las aves de una isla de 549 kilómetros cuadrados"
+"Los bosques de Guam son unos bosques silenciosos", ha resumido la experta.
+Rafael Gómez
+La serpiente arbórea marrón (Boiga irregularis), en una imagen de archivo
+Auscape / Universal Images Group vía Getty Images
+Guam es una isla de 549 kilómetros cuadrados que es famosa a nivel mundial por, desgraciadamente, haber sido protagonista de un desastre ecológico de dimensiones gigantescas a causa de la llegada por accidente de una serpiente a su territorio.
+En concreto, se trata de la serpiente arbórea marrón (Boiga irregularis), una especie que se convirtió en un depredador sin rival y que hizo que las múltiples aves que poblaban la isla desaparecieran.
+A ese suceso se ha referido recientemente Anna Traveset, doctora en ciencias biológicas y profesora en el Instituto Mediterráneo de Ciencias Avanzadas, en el programa A Vivir la Ciencia de la Cadena SER. La experta ha detallado que "Guam es una isla donde hay una base militar norteamericana. La serpiente entró escondida en un cargamento militar procedente de Papúa Nueva Guinea y esa especie explotó ahí y eliminó a todas las aves de Guam".
+En ese sentido, la científica ha destacado que desde que la serpiente arbórea marrón hizo acto de presencia en la isla por ese descuido a la hora de transportar el citado cargamento militar, "los bosques de Guam son unos bosques silenciosos".
+Respecto a cómo se puede recuperar el bosque tras esa alteración completa de su ecosistema, la experta ha explicado que "sabemos que en los trópicos (Guam es una isla tropical) entre el 80% y el 90% de las especies dependen de los animales, sobre todo de aves, para llevar las semillas de un sitio a otro y regenerar el bosque. Son los transportistas".
+La doctora en ciencias biológicas ha indicado que esa ida y venida de semillas se vio detenida por la entrada en la isla de Guam de la especie Boiga irregularis. "Esa serpiente rompió ese proceso ecológico y colapsó el sistema", ha subrayado.
+En cuanto a las medidas que se están adoptando para solucionar ese desastre, Anna Traveset ha señalado que "en lo que se están invirtiendo muchos recursos es en plantar plántulas y en reintroducir especies de aves que estaban allí y están ahora en islas vecinas".
+Rafael Gómez
+

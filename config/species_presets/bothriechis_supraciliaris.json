@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "preset_id": "bothriechis_supraciliaris",
+  "species_id": "source_9b0deb345f693ada",
+  "source_species_name": "Bothriechis supraciliaris",
+  "common_name": "Blotched eyelash pitviper",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown morph chosen from paired body and lateral head of same observation; pale mint labial edge and subdued dorsal blotches.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/1511.01060",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_024_bothriechis_supraciliaris/manifest.json",
+        "image_id": "inat_259838024",
+        "sha256": "9b3397904ad58af0a720ea178737f6e2330959531f94c4cde49b7689e7690e04",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_024_bothriechis_supraciliaris/manifest.json",
+        "image_id": "inat_268345982",
+        "sha256": "e521f3e59104231eb152632d514062496bd791037403cd769addf4a5a72dfd01",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_024_bothriechis_supraciliaris/manifest.json",
+        "image_id": "inat_351398208",
+        "sha256": "69fcc0458ec8fab59943524ff9ac794763afba89cbcbf6f2e5ed09e297aecd35",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_024_bothriechis_supraciliaris/manifest.json",
+        "image_id": "inat_259838044",
+        "sha256": "092cc0988290a382d6988f5d2eb1d411d4c93760802826e784058d1107caf0e4",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_259838024": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_268345982": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_351398208": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_259838044": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Relatively deep lower jaw, blunt pointed muzzle, large iris and a few short supraocular projections.",
+        "Brown morph chosen from paired body and lateral head of same observation; pale mint labial edge and subdued dorsal blotches.",
+        "Second rendered comparison: lower-jaw bulge reduced; species pigment treatment refined while retaining authored supraocular/nasal projections.",
+        "Third reference comparison: iris palette adjusted to the chosen reference form; missing opposite-side and ventral views remain flagged."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_259838024",
+        "inat_268345982",
+        "inat_351398208",
+        "inat_259838044"
+      ]
+    },
+    "modeling_flags": [
+      "Other photographs show striking green/blue morphs; not combined into brown individual."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "blotches",
+    "skin_color": "#93724f",
+    "marking_color": "#70533b",
+    "belly_color": "#b6b495",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "pointed",
+    "scale_pitch": 5.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 64,
+      "neck": 7,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5.6,
+          7,
+          -8.8,
+          22,
+          -11.2
+        ],
+        [
+          22,
+          -11.2,
+          24,
+          -15.2,
+          26,
+          -15.2,
+          27,
+          -11.2
+        ],
+        [
+          27,
+          -11.2,
+          35.2,
+          -17.6,
+          46.08,
+          -16,
+          51.2,
+          -11.2
+        ],
+        [
+          51.2,
+          -11.2,
+          55.68,
+          -7,
+          60.16,
+          -7,
+          64,
+          -7
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          4,
+          14.72,
+          7,
+          30.72,
+          9
+        ],
+        [
+          30.72,
+          9,
+          41.6,
+          12,
+          49.92,
+          13,
+          53.76,
+          10
+        ],
+        [
+          53.76,
+          10,
+          57.6,
+          7,
+          60.8,
+          7,
+          64,
+          7
+        ]
+      ],
+      "eye": [
+        25,
+        -2,
+        4.1,
+        4.51
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q22.4 7 44.8 8 L57.6 3.5",
+      "shields": [],
+      "lip": true,
+      "pit": [
+        13.750000000000002,
+        0
+      ],
+      "markings": [
+        {
+          "path": "M1 6 Q22 13 48 13 L56 9",
+          "stroke": "#acc0a2",
+          "width": 2
+        }
+      ],
+      "iris_color": "#bdaa6a"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        7
+      ],
+      [
+        258,
+        227,
+        10
+      ],
+      [
+        305,
+        249,
+        15
+      ],
+      [
+        390,
+        271,
+        20
+      ],
+      [
+        471,
+        302,
+        21
+      ],
+      [
+        514,
+        347,
+        20
+      ],
+      [
+        502,
+        397,
+        19
+      ],
+      [
+        430,
+        431,
+        18
+      ],
+      [
+        330,
+        445,
+        17
+      ],
+      [
+        253,
+        476,
+        15
+      ],
+      [
+        253,
+        515,
+        11
+      ],
+      [
+        324,
+        550,
+        7
+      ],
+      [
+        400,
+        555,
+        4.5
+      ],
+      [
+        460,
+        546,
+        2.7
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

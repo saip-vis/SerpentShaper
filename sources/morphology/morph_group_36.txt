@@ -1,0 +1,438 @@
+1 (https://redtoxdev.nmn.mx/sites/default/files/toxiblog/descargables/compendio_quintana_roo_0.pdf)
+ [wordlim: 200] Published: 1.8 years ago; Crotalus tzabcan ... El color del cuerpo varía
+Red Nacional e Internacional de Información de 
+las Intoxicaciones por Animales Ponzoñosos
+Crotalus tzabcan
+Nombre común: 
+Cascabel yucateco, víbora de 
+cascabel yucateca.
+Clase: Reptilia
+Orden: Squamata
+Suborden: Serpentes
+Familia: Viperidae
+Género: Crotalus 
+Especie: C. tzabcan
+Considerada una víbora de cascabel de talla grande, dado que 
+alcanza hasta 160 cm de longitud. Su cabeza es triangular y 
+diferenciada del resto del cuerpo. El color del cuerpo varía 
+entre café claro, grisáceo, rojizo, verdoso o amarillento. Las 
+franjas paravertebrales en el cuello se extienden de 1 a 2 1⁄2 
+(en promedio 1 1⁄2) longitudes de cabeza, que comprenden 
+de 1 a 3 hileras de escamas contiguas (con 2 escamas que 
+predominan y posteriormente se estrechan) sin centros 
+distintivamente más claros. Crotalus tzabcan no cuenta con 
+franjas o manchas paraventrales en el cuello y su patrón 
+adiamantado (de 21 a 32 manchas romboidales) de coloración 
+dorsal se caracteriza por tener un centro claro con bordes 
+blancos. El vientre de la serpiente es generalmente sin manchas 
+y de color blanco, crema o amarillo. Presenta de 177 a 188 
+escamas ventrales en machos y de 182 a 191 en hembras; de 25 
+a 33 escamas subcaudales en machos y de 23 a 27 en hembras. 
+Generalmente hay 4 escamas presentes en la zona internasal y 
+prefrontal. La fila de escamas en la parte media del cuerpo es 
+de 27 a 29, frecuentemente 29.
+Fuente: Especies, 2018
+28--------------------------------------------------------------------------------
+Herpetological Conservation and Biology (https://www.herpconbio.org/Volume_15/Issue_1/Carbajal-Marquez_etal_2020.pdf)
+ [wordlim: 200] Published: 6.6 years ago; Crawled: 2 weeks ago; ** An adult male Tzabcan Rattlesnake (*Crotalus tzabcan*) with a light color pattern found in Yucatán, Mexico.
+Herpetological Conservation and Biology
+
+<visual_element id="e1">
+Figure 4 photograph: A subadult Tzabcan Rattlesnake lies stretched across a dirt road, viewed from above. The snake has a dark patterned back; a yellow leaf is visible to its right.
+</visual_element>
+
+**Figure 4.** A subadult Tzabcan Rattlesnake (*Crotalus tzabcan*) basking on a dirt road in Chetumal, Quintana Roo, Mexico, 26 November 2016. (Photographed by Fernando A. Aguilar-Santana.)
+
+<visual_element id="e2">
+Figure 5 photograph: An adult male Tzabcan Rattlesnake is tightly coiled on sandy ground, viewed from above. Its scales are pale gray with reddish-brown markings.
+</visual_element>
+
+**Figure 5.** An adult male Tzabcan Rattlesnake (*Crotalus tzabcan*) with a light color pattern found in Yucatán, Mexico. (Photographed by Luis F. Díaz Gamboa.)
+
+to phenotypic plasticity in response to environmental factors (Meik et al. 2012), but this requires further testing in future studies.
+
+We found that *Crotalus tzabcan* newborns from different litters were similar in size to those from a clutch of a female captured in the Yucatán (mean TTL of 316 mm, range 290–350 mm, n = 21; Armstrong and Murphy 1979) and what Klauber (1952) observed (mean TTL of 315 mm). 
+We observed an ontogenetic color change in *C. tzabcan* from the three Mexican states in the Yucatán Peninsula. All the newborns and juveniles (except the largest juvenile) presented a dark pattern composed of a sulphur yellow-smoke grey background with contrasting black to sepia stripes and blotches and dark spots in the
+
+**Table 3.** Life stage, sex, and color pattern of the 22 specimens of the Tzabcan Rattlesnake (*Crotalus tzabcan*) we found during this study in the Yucatán Peninsula. Abbreviations are SVL = snout-vent length, TL = tail length, TTL = total length (in mm).
+
+<table id="e3">
+
+| Life Stage | Sex | Color Pattern | SVL | TL | TTL |
+|---|---|---|---:|---:|---:|
+| Newborn | Male | Dark | 287 | 28 | 315 |
+| Newborn | Female | Dark | 315 | 24 | 339 |
+| Newborn | Female | Dark | 330 | 24 | 354 |
+| Newborn | Male | Dark | 345 | 38 | 383 |
+| Newborn | Female | Dark | 360 | 31 | 391 |
+| Newborn | Male | Dark | 388 | 38 | 426 |
+| Juvenile | Female | Dark | 415 | 37 | 452 |
+| Juvenile | Male | Dark | 426 | 41 | 467 |
+| Juvenile | Female | Dark | 550 | 43 | 593 |
+| Juvenile | Male | Dark | 655 | 66 | 721 |
+| Juvenile | Male | Dark | 670 | 66 | 736 |
+| Juvenile | Male | Dark | 676 | 65 | 741 |
+| Juvenile | Female | Light | 680 | 55 | 735 |
+| Adult | Male | Light | 743 | 75 | 818 |
+| Adult | Male | Light | 833 | 75 | 908 |
+| Adult | Male | Light | 900 | 85 | 985 |
+| Adult | Female | Light | 1100 | 90 | 1190 |
+| Adult | Male | Light | 1330 | 142 | 1472 |
+| Adult | Female | Light | 1333 | 95 | 1428 |
+| Adult | Female | Light | 1404 | 100 | 1504 |
+| Adult | Female | Light | 1450 | 100 | 1550 |
+| Adult | Male | Light | 1541 | 168 | 1709 |
+
+</table>
+
+233--------------------------------------------------------------------------------
+Lance head rattlesnake | Smithsonian's National Zoo and Conservation Biology Institute (https://nationalzoo.si.edu/animals/lance-head-rattlesnake)
+ [wordlim: 200] Crawled: last week; ## Physical Description
+
+The lance head rattlesnake's scientific name, Crotalus polystictus, translates from the Greek "poly" meaning many and "sticto" meaning spotted, describing the snake's general appearance.
+
+The lance head rattlesnake is native to Mexico. This snake's colors range from tan or brown to gray and sometimes white, with an orange-brown stripe down its back. The dark spots along its body are unique to this species of rattlesnake.
+
+## Physical Description
+
+The lance head rattlesnake's scientific name, Crotalus polystictus, translates from the Greek "poly" meaning many and "sticto" meaning spotted, describing the snake's general appearance. The characteristic dark spots that mark lance heads are unique to this species of rattlesnake. They are often oval or elongated toward the front of the body and more circular toward the middle of the animal. The snake's coloration ranges from tan or brown to gray and sometimes white. An orange-brown stripe also runs along this species back, most noticeably between spots. 
+
+Lance head rattlesnakes yield a fairly large amount of venom per bite—80 to 100 milligrams—and are also equipped with long fangs, earning them a dangerous reputation. A sexually dimorphic species, males tend to have a larger head, which correlates to their preference for preying upon larger mammals. --------------------------------------------------------------------------------
+Distribución (https://www.conanp.gob.mx/pace/PACE_Serpientes_de_Cascabel.pdf)
+ [wordlim: 200] Published: 7.7 years ago; Crotalus polystictus
+Distribución
+
+Es endémica a la Isla Cabeza de Caballo, ubicada en el Golfo de California, en el estado de Baja California, en México (Meik et al., 2018).
+
+<visual_element id="e1">
+Mapa de distribución georreferenciada con un punto verde de presencia en la zona de Isla Cabeza de Caballo; incluye mapa principal con coordenadas 114° W, 113° 30′ W, 113° W y 29° 30′ N, 29° N; rosa de los vientos con N; barra de escala de 0, 15, 30, 60 km; recuadro de ubicación de México con el área resaltada.
+</visual_element>
+
+Figura 48. Registros georreferidos de Crotalus polisi.
+
+Crotalus polystictus
+
+Nombre científico: *Crotalus polystictus* (Cope 1865).
+Nombres comunes en español: Chíahuitl, chiahucótl, tziripa, hocico de puerco, cascabel acuática, víbora de cascabel.
+Nombre común en inglés: Mexican Lance-headed Rattlesnake.
+Etimología: La palabra proviene del griego «muchas manchas» (*poly*: muchos, *sticto*: manchas) el cual hace alusión al patrón de coloración de la especie.
+
+Descripción
+
+*C. polystictus* es una especie de víbora de cascabel de tamaño medio, que ronda los 80 cm, aunque se tienen registros de individuos que logran alcanzar los 100 cm.
+
+El color base generalmente es de un tono pálido de colores como el café, gris o dorado, pero puede presentar colores como el canela, ante, rojo pardo o hasta tonos que se acercan al color blanco; presenta una serie
+
+SERPIENTES DE CASCABEL 73--------------------------------------------------------------------------------
+UNIVERSIDAD NACIONAL DE MEXICO — 55 (https://anales.ib.unam.mx/index.php/anales/article/download/11/19)
+ [wordlim: 200] Published: 9.3 years ago; Crawled: 6 days ago; ### 4.—CROTALUS POLYSTICTUS (Cope).
+Comienza sobre el occipucio, para extenderse sobre el cuello, una especie de herradura angulosa, abierta por delante; una faja pardo-obscura se extiende desde el ángulo posterior del ojo hasta sobre el lado del cuello, pasando muy cerca del ángulo de la boca; los labios están manchados con pardo-obscuro; hay tres o cuatro semianillos sobre la cola. Las manchas del vientre, algunas veces muy numerosas y obscuras, suelen formar como fajas longitudinales en las extremidades de las gastrotegas. Iris dorado arriba, pardo abajo. Cascabel amarillento; sus piezas son pequeñas para el cuerpo, y van disminuyendo rápidamente, de manera que el conjunto representa un cono comprimido bastante agudo (Dugés).
+
+**COSTUMBRES:**—He colectado a la especie en los alrededores de Guadalajara, Ocotlán y Chapala y siempre la he encontrado en los lugares planos, poco pedregosos, húmedos y abundantes en vegetación poco alta. Se alimenta con ratones de campo y lagartijas.
+
+### 4.—CROTALUS POLYSTICTUS (Cope).
+
+**NOMBRE VULGAR** Víbora de cascabel.
+
+**SINONIMIA:**—Caudisona polysticta Cope, Proc. Ac. Sci. Phila. 1865, p. 191 y 1866, p. 309.
+
+Crotalus polystictus Cope, Proc. Amer. Philos. Soc. XXII, 1885, p. 179; Dugés, Naturaleza (2) I. 1888. p. 134; Cope, Proc. U. S. Nat. Mus. XIV, 1892, p. 689; Günter, Biol. Centr.—Amer. Rept. p. 192 (1895).
+
+**DESCRIPCION:**—Especie que es muy semejante a la anterior, pero que presenta cuatro internasales, 14 o 15 supralabiales y escamas dispuestas en 27 a 30 hileras. Se cuentan de 123 a 151 ventrales, siendo las subcaudales de 18 a 23.
+
+**COLORACION:**—Presenta seis o siete series longitudinales de manchas moreno-obscuro alternando con otras negras bordeadas de blanco y separadas por espacios angostos de color amarillo obscuro que es el color de fondo. Un par de fajas divergentes obscuras pueden verse sobre la cabeza, divididas por una línea clara a lo largo de las escamas supraoculares; hay--------------------------------------------------------------------------------
+Crotalus polystictus | The Reptile Database (https://reptile-database.reptarium.cz/Crotalus/polystictus)
+ [wordlim: 200] Crawled: 3 weeks ago; An additional observation of aquatic behavior in the Mexican lance-headed rattlesnake (Crotalus polystictus) Bull.
+
+# Crotalus polystictus (COPE, 1865)
+
+Higher Taxa  | Viperidae, Crotalinae, Caenophidia, Alethinophidia, Serpentes, Squamata (snakes)
+Subspecies  |  
+Common Names  | E: Mexican Lancehead Rattlesnake
+S: Hocico de Puerco 
+Synonym  | Caudisona polysticta COPE 1865: 191
+Crotalus polystictus COPE 1875
+Crotalus ximenesii DUGÉS 1877 (fide COPE 1885: 179)
+Crotalus Jimenezii DUGÉS 1877 (fide MCDIARMID et al. 1999: 291)
+Crotalus polystictus — COPE 1885: 179
+Crotalus polystictus — LINER 1994
+Crotalus polystictus — MCDIARMID, CAMPBELL & TOURÉ 1999: 290
+Crotalus polystictus — BEAMAN & HAYES 2008
+Aechmophrys polystictus — HOSER 2009
+Rattlewellsus polystictus — HOSER 2012 (preliminary)
+Crotalus polystictus — WALLACH et al. 2014: 193
+Crotalus polystictus — GARCÍA-PADILLA et al. 2025 
+Distribution  | C Mexico (from S Zacatecas and NE Colima to EC Veracruz, Aguascalientes, Morelos, Jalisco, Querétaro). Elevation: 1450-2600 m.
+Type locality: "Table Land, Mexico." A proposed restriction to "Tupataro, Guanajuato, Mexico" was made by Smith and Taylor (1950:330). [However, type-locality restrictions other than those dealing with type- designations (i.e., lectotype or neotype) have no status under the International Code of Zoological Nomenclature.  
+Reproduction  | ovoviviparous 
+Types  | Holotype: nondesignated, according to Klauber (1972:45), cited in McDiarmid et al. 1999.
+Syntypes: MDUG (also as MADUG HE) 55, 356, USNM 24448, 26152 and 46508 [Crotalus Jimenezii] 
+Diagnosis  | Unfortunately we had to temporarily remove additional information as this was scraped by multiple AI companies who sell that data. These details, e.g. detailed descriptions are available for collaborators and contributors. We will relaease that material sometime next year. Please contact us if you need any of this data earlier than that. 
+Comment  | Venomous!
+Distribution: Not in Durango fide Lemos-Espinal (2018).
+Opinion 366 (ICZN, 1955, Opinions Decls. 11(16):231-244) validated the more generally used Cope name polystictus for this species and suppressed the older Jan name multimaculatus.
+Nomenclature: Hoser’s 2009 classification and nomenclature has been rejected as unnecessary and unavailable by WÜSTER & BERNILS 2011. 
+Etymology  | Named after Greek poly = many, large, frequent, and sticto = "spotted", refer to the uniform bright blue to greenish-blue dorsal spotting in adult males. 
+
+--------------------------------------------------------------------------------
+Taxon Details | MCZbase (https://mczbase.mcz.harvard.edu/name/Crotalus%20basiliscus)
+ [wordlim: 200] Crawled: 4 weeks ago; # Crotalus basiliscus (Cope, 1864)
+
+Taxonomic classification for Crotalus basiliscus
+
+# Crotalus basiliscus (Cope, 1864)
+
+Taxonomic classification for Crotalus basiliscus
+Kingdom  | Phylum  | Class  | Subclass  | Order  | Suborder  | Superfamily  | Family  | Genus  | Species  | Nomenclatural_Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Animalia  | Chordata  | Reptilia  | Lepidosauromorpha  | Squamata  | Serpentes  | Colubroidea  | Viperidae  | Crotalus  | basiliscus  | ICZN
+
+## Name Details
+
+## Name Authority: MCZ
+
+Published In: 1864
+
+## Common Name(s):
+
+  * Víbora-cascabel de Saye
+
+## Publications, Citations, and Related Names
+
+## Related Publications:
+
+  * No related publications recorded.
+
+## Cited MCZ Specimens:
+
+  * No cited MCZ specimens.
+
+## Synonyms and other Related Names:
+
+  * No related names recorded.
+
+## Related Taxon Records:
+
+There is no taxonomy record in MCZbase for the genus Crotalus
+
+### [Button: Related: 52 species, 1 subspecies ]
+
+#### Congeneric Species:
+
+  * Crotalus
+  * Crotalus adamanteus
+  * Crotalus pusillus
+  * Crotalus ravus
+  * Crotalus ruber
+  * Crotalus salvini
+  * Crotalus scutalatus
+  * Crotalus scutellatus
+  * Crotalus scutulatus
+  * Crotalus sentulatus
+  * Crotalus sistrurus
+  * Crotalus terrificus
+  * Crotalus tigris
+  * Crotalus tortugensis
+  * Crotalus totonacus
+  * Crotalus triseriatus
+  * Crotalus unicolor
+  * Crotalus velox
+  * Crotalus ventussima
+  * Crotalus viridis
+  * Crotalus willardi
+
+#### Subspecies:
+
+  * Crotalus basiliscus basiliscus
+
+## [Button: Media — 0 images ]
+
+No MCZbase specimens identified as this taxon have images
+
+## MCZbase Links and External Links
+
+## MCZbase Links:
+
+  * Specimens currently identified as Crotalus basiliscus include unaccepted IDs exact matches only
+  * BerkeleyMapper
+  * Specimens identified as Crotalus basiliscus in:
+    * unknown date (2)
+  * No specimens are cited using this name.--------------------------------------------------------------------------------
+Crotalus tzabcan | Redtox (https://redtox.org/especies/crotalus-tzabcan)
+ [wordlim: 200] Published: 5.6 years ago; Crawled: 3 weeks ago; # Crotalus tzabcan ... Su cabeza es triangular y se distingue fácilmente del resto del cuerpo el cual presenta coloraciones que pueden ser café claro, grisáceo, rojizo, verdoso o amarillento con un patrón de 21 a 32 manchas romboides en color café oscuro, centro claro y bordes blancos a lo largo del dorso.
+
+# Crotalus tzabcan
+
+< Clasificación Taxonómica
+
+# Crotalus tzabcan
+
+# (Klauber, 1952)
+
+## Nombre común: 
+
+Cascabel yucateco, víbora de cascabel yucateca
+
+## Reino: 
+
+Animalia
+
+## Phylum: 
+
+Chordata
+
+## Clase: 
+
+Reptilia
+
+## Orden: 
+
+Squamata
+
+## Suborden: 
+
+Serpentes
+
+## Familia: 
+
+Viperidae
+
+## Género: 
+
+Crotalus
+
+## Especie: 
+
+tzabcan
+
+## Descripción: 
+
+Su cabeza es triangular y se distingue fácilmente del resto del cuerpo el cual presenta coloraciones que pueden ser café claro, grisáceo, rojizo, verdoso o amarillento con un patrón de 21 a 32 manchas romboides en color café oscuro, centro claro y bordes blancos a lo largo del dorso. Esta coloración puede volverse más clara (grisáceo) u obscura hacia la parte de la cola que frecuentemente es negra y con un cascabel bien desarrollado. Se puede distinguir una arista dorsal prolongada particularmente en ejemplares adultos grandes. La región dorsal de la cabeza tiene manchas irregulares hacia la parte de la nuca, de ahí surgen dos líneas más o menos gruesas que se unen con el primer parche dorsal. --------------------------------------------------------------------------------
+Presencia de Crotalus polystictus (Cope, 1865) (Reptilia: Viperidae) en un área natural protegida suburbana de Querétaro, México (https://www.scielo.org.mx/scielo.php?pid=S0065-17372014000200016&script=sci_arttext)
+ [wordlim: 200] Published: 12.3 years ago; Crawled: last month; La serpiente fue identificada como Crotalus polystictus debido a sus características únicas del patrón de coloración, que pueden apreciarse en el registro fotográfico del individuo (Fig. 1) y que coinciden con lo descrito por Alvarado-Díaz & Suazo-Ortuño (2006) y Ramírez- Bautista (2009): C. polystictus es una serpiente de tamaño mediano que puede alcanzar una longitud total de 800 mm, su cabeza es ligeramente triangular, presenta una mancha oscura distintiva bajo el ojo, el color del fondo del cuerpo es marrón, marrón claro o gris claro, generalmente marrón rojizo en la parte media dorsal con una serie de 30 a 47 manchas dorsales alargadas, elípticas y ovales, que se encuentran en el dorso, característica única de esta especie.
+El registro fotográfico de C. polystictus en Querétaro, se hizo al realizar un transecto para búsqueda de anfibios y reptiles a finales del mes de mayo de 2012 en el Parque Nacional El Cimatario (PANEC), entre las coordenadas 20° 28' 30''N; 100° 19' 37'' O y 20° 33' 23'' N; 100° 23' 12'' O, localizado al sur de la ciudad de Santiago de Querétaro, con una altitud máxima de 2390 msnm y un área de 2447. 84 ha, y ubicado entre los municipios de Querétaro, Corregidora y Huimilpan; el PANEC pertenece a la Provincia Florística de la Altiplanicie, donde los climas generalmente son semisecos (BS); presenta cuatro tipos de vegetación: el bosque tropical caducifolio ubicado hacia la parte sur del parque, el matorral crasicaule (variante del matorral xerófilo), circundado hacia el este, sur y oeste, siendo en este tipo de vegetación donde se hizo el registro, el bosque de encinos localizado hacia la parte sur del parque y el pastizal, el cual se encuentra hacia las partes planas del parque donde colinda con el matorral crasicaule. Los tres primeros son considerados vegetación natural; el pastizal puede ser considerado como secundario o inducido para propiciar el pastoreo o por la tala de la vegetación original (Baltasar ét al. 2004).
+
+El ejemplar objeto de esta publicación fue localizado reposando a un costado de la base del tronco de un Prosopis laevigata en las coordenadas 20° 32' 07.6" N; 100° 21' 26.4" O a una altitud de 22a0 msnm. La serpiente fue identificada como Crotalus polystictus debido a sus características únicas del patrón de coloración, que pueden apreciarse en el registro fotográfico del individuo (Fig. 1) y que coinciden con lo descrito por Alvarado-Díaz & Suazo-Ortuño (2006) y Ramírez- Bautista (2009): C. polystictus es una serpiente de tamaño mediano que puede alcanzar una longitud total de 800 mm, su cabeza es ligeramente triangular, presenta una mancha oscura distintiva bajo el ojo, el color del fondo del cuerpo es marrón, marrón claro o gris claro, generalmente marrón rojizo en la parte media dorsal con una serie de 30 a 47 manchas dorsales alargadas, elípticas y ovales, que se encuentran en el dorso, característica única de esta especie.
+
+--------------------------------------------------------------------------------
+Life History, Activity Pattern, and Morphology of Crotalus tzabcan Klauber, 1952 (Serpentes: Viperidae) (https://www.researchgate.net/publication/341098726_Life_History_Activity_Pattern_and_Morphology_of_Crotalus_tzabcan_Klauber_1952_Serpentes_Viperidae)
+ [wordlim: 200] Published: 6.6 years ago; Crawled: 3 months ago; change in color, we considered only live or freshly killed ... newborn, juvenile, and adult Tzabcan Rattlesnake (Crotalus tzabcan) specimens found during 2015–2017 in the Yucatán Peninsula, and
+mm), relative tail length (RTL, % of SVL), total length (TTL, mm), head length (HL, mm), and relative head length (RHL, % of SVL) of
+
+newborn, juvenile, and adult Tzabcan Rattlesnake (Crotalus tzabcan) specimens found during 2015–2017 in the Yucatán Peninsula, and
+
+specimens from the Herpetological Collection of El Colegio de la Frontera Sur (ECO-CH-H). Abbreviations are: NM = newborn male,
+
+NF = newborn female, JM = juvenile male, JF = juvenile female, AM = adult male, AF = adult female.
+
+231
+
+Herpetological Conservation and Biology
+
+3). Also, coloration between sexes did not differ. All
+
+adults were lighter than newborn/ juveniles. Juveniles
+
+possess a darker background color and black to brown
+
+dorsal blotches (Fig. 1). As they grow, this coloration
+
+becomes lighter, and adults display a lighter base color
+
+and reddish dorsal blotches (Figs. 3–5).
+
+Crotalus tzabcan activity peaked during the summer
+
+(31 records including adults, juveniles, and newborns)
+
+and autumn (14 records including juveniles and adults;
+the Tzabcan Rattlesnake (Crotalus tzabcan) we found during this
+
+study in the Yucatán Peninsula. Abbreviations are SVL = snout-
+
+vent length, TL = tail length, TTL = total length (in mm).
+
+234
+
+Carbajal-Márquez et al.—Life history, activity, and morphology of Crotalus tzabcan.
+
+interspaces. These colors become lighter as they grow
+
+and mature. In adults, the background color tends to
+
+be light cream, grey or lavender, while the stripes and
+
+blotches tend to range from mars brown to mahogany
+
+red, and the interspaces have fewer contrasting spots
+
+(Fig. 5). Similar to what we observed, Klauber (1952)
+
+mentioned that C. tzabcan is a snake with conspicuous
+
+dark brown, almost black blotches, which sharply
+
+contrast with the light gray and brown background,
+
+except in very large adults. Klauber (1952) also noted
+
+that C. simus adults have a less accentuated pattern in
+
+comparison with juveniles, although it is important to
+
+note that he analyzed preserved specimens with faded
+
+coloration. We also noted this trend of lighter adults in
+--------------------------------------------------------------------------------
+Crotalus basiliscus - Anfibios y Reptiles de Colima (https://colimareptiles.com/reptiles/serpientes/familia-viperidae/crotalus-basiliscus/)
+ [wordlim: 200] Crawled: 2 months ago; ## Crotalus basiliscus
+
+## Crotalus basiliscus
+
+Cascabel del Pacífico; Mexican West Coast Rattlesnake. Cope, 1864.
+
+Distribución – De Sonora y Chihuahua hasta Michoacán.
+Hábitat – Selva baja caducifolia, selva mediana y bosque de encino, desde el nivel del mar hasta los 2,500 m. Prefiere zonas poco perturbadas.
+Hábitos – Activa durante la temporada de lluvias. En zonas cálidas es activa durante la noche, mientras que a mayores elevaciones es activa durante las mañanas y en las tardes. Se encuentra frecuentemente cruzando carreteras en la noche. Se alimenta de roedores y otros mamíferos. Vivípara. Las hembras dan a luz hasta más de 30 crías durante la época de lluvias [130, 131].
+Identificación – Se distingue de otras cascabeles de Colima por su mayor tamaño.
+Notas – Venenosa. Su mordida es de gran urgencia médica.
+
+Observaciones
+
+Juvenil – Jiliotupa, Colima
+
+Juvenil – La Becerrera, Colima
+
+## Mapa de distribución
+
+Image--------------------------------------------------------------------------------
+Taxonomy browser Taxonomy Browser (Crotalus polystictus) (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=125870)
+ [wordlim: 200] Crawled: last month; Crotalus polystictus  | taxonomy/phylogenetic  | TreeBase
+--------------------------------------------------------------------------------
+Morphological and molecular identification of Kalicephalus sp. in the Yucatan Neotropical rattlesnake Crotalus tzabcan in Yucatan, Mexico. (https://pubmed.ncbi.nlm.nih.gov/42860826/)
+ [wordlim: 200] Published: last month; Crawled: last month; # Morphological and molecular identification of Kalicephalus sp. in the Yucatan Neotropical rattlesnake Crotalus tzabcan in Yucatan, Mexico.
+--------------------------------------------------------------------------------
+Crotalus polystictus | Pierre Wildlife (https://www.pierrewildlife.com/searchspecies/reptiles/snakes/vipers/crotaluspolystictus/)
+ [wordlim: 200] Crawled: last month; # Crotalus polystictus
+--------------------------------------------------------------------------------
+%%Crotalus polystictus%% (Cope, 1865) (https://datosabiertos.unam.mx/FC-UNAM%3AMZFC-HE%3A25000)
+ [wordlim: 200] Crawled: 2 months ago; %%Crotalus polystictus%% (Cope, 1865)
+--------------------------------------------------------------------------------
+Crotalus basiliscus - Monaco Nature Encyclopedia (https://www.monaconatureencyclopedia.com/crotalus-basiliscus/?lang=en)
+ [wordlim: 200] Published: 15.6 years ago; Crawled: last month; Image: Mexican green rattler (Crotalus basiliscus) can also be yellowish, ochre and with patterns © Dr. ... The Mexican green rattler (Crotalus basiliscus Cope, 1864) is a Viperid (Viperidae), belonging to subfamily of the Crotalines (Crotalinae), typical of the western coastal plains of Mexico facing the Pacific Ocean, is a big serpent, whose dangerousness is somewhat overvalued by the local populations, and is known also as green Cascavel, as it has a certain resemblance with the feared Crotalus durissus, one of the most dangerous American serpents.
+--------------------------------------------------------------------------------
+Cascabel del pacifico (Crotalus basiliscus) - Zoológico de San Juan de Aragón - YouTube (https://www.youtube.com/watch?v=-L1hS53RYi0)
+ [wordlim: 200] Published: 11.2 years ago; Crawled: 3 months ago; ## Description ... Crotalus basiliscus is a venomous pit viper species found in western Mexico. The specific name is derived from the Greek word for king, basiliskos, and alludes to this snake's large size and potent venom.
+--------------------------------------------------------------------------------
+The Natural History of the Mexican Spearhead Rattlesnake: Crotalus polystictus - YouTube (https://www.youtube.com/watch?v=8NBYtEgnc_I)
+ [wordlim: 200] Published: 4.0 years ago; Crawled: 3 months ago; # The Natural History of the Mexican Spearhead Rattlesnake: Crotalus polystictus ... ## Description
+--------------------------------------------------------------------------------
+New calendar only says "rattlesnake" ID please? sadly no location (https://www.reddit.com/r/whatsthissnake/comments/102788v)
+ [wordlim: 200] Published: 3.9 years ago; Crawled: 3.8 years ago; Crotalus basiliscus? ...   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education.
+--------------------------------------------------------------------------------
+[Cabo San Lucas, Mexico] I accidentally stepped directly on this snake. It didn't bite me. What is it? (https://www.reddit.com/r/whatsthissnake/comments/k4xctt)
+ [wordlim: 200] Published: 6.0 years ago; Crawled: 1.7 years ago;   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education. ...   Crotalus basiliscus has a solid black tail. ...     Yes absolutely it would be, and that’s why I used that common name.
+--------------------------------------------------------------------------------
+Got as neotropical rattlesnake? Any help on what type it might be? Thank you (https://www.reddit.com/r/VenomousKeepers/comments/1guvktr)
+ [wordlim: 200] Published: 2.0 years ago; Crawled: 1.5 years ago;   Although I’ve seen a few that don’t color up until it’s ages ... Originally sold to me as a tzabcan, but I didn’t think it looked like one and then was told it was a crotalus culminatus.
+

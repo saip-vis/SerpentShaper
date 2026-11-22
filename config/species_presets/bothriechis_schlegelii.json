@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "preset_id": "bothriechis_schlegelii",
+  "species_id": "source_2ffb22f31cc4d96f",
+  "source_species_name": "Bothriechis schlegelii",
+  "common_name": "Eyelash pitviper (source label)",
+  "status": "illustrative_unvalidated",
+  "variant": "Green-black illustrated morph only; keeled trunk and narrow prehensile tail.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://icp.ucr.ac.cr/es/informacion-y-materiales/serpientes-venenosas-de-costa-rica/bothriechis-schlegelii",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_023_bothriechis_schlegelii/manifest.json",
+        "image_id": "inat_84758579",
+        "sha256": "f95a44de878242b74fdd6f1be5804ba7cd1577a015811a082869dc9311b1ec30",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_023_bothriechis_schlegelii/manifest.json",
+        "image_id": "inat_98839418",
+        "sha256": "60a1c3f35c8edf0d0a807cbb3719dc7181d693f4fb8152ab6e3311c2a6de24b0",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_023_bothriechis_schlegelii/manifest.json",
+        "image_id": "inat_659918860",
+        "sha256": "17215f316e6840899cef64e5ed42839b15f1491aa693ea886f19895c62ee89fa",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_84758579": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_98839418": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_659918860": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Shallow pointed front, deep rear jaw and short raised superciliary spines above eye.",
+        "Green-black illustrated morph only; keeled trunk and narrow prehensile tail.",
+        "Second rendered comparison: lower-jaw bulge reduced; species pigment treatment refined while retaining authored supraocular/nasal projections.",
+        "Third reference comparison: two short supraocular projections replace a single oversized-looking bump; historical taxon uncertainty retained."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_84758579",
+        "inat_98839418",
+        "inat_659918860"
+      ]
+    },
+    "modeling_flags": [
+      "Historical schlegelii complex has been split; provider label alone does not establish modern species.",
+      "Illustration should not imply one pattern represents all color morphs."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "reticulated",
+    "skin_color": "#909a45",
+    "marking_color": "#293b2c",
+    "belly_color": "#c1c38a",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "pointed",
+    "scale_pitch": 4.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 60,
+      "neck": 6.5,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          7,
+          -8,
+          20,
+          -11
+        ],
+        [
+          20,
+          -11,
+          21,
+          -15,
+          23,
+          -16,
+          25,
+          -11
+        ],
+        [
+          25,
+          -11,
+          26,
+          -14,
+          28,
+          -15,
+          30,
+          -11
+        ],
+        [
+          30,
+          -11,
+          37,
+          -17,
+          43,
+          -16,
+          48,
+          -11
+        ],
+        [
+          48,
+          -11,
+          52,
+          -7,
+          56,
+          -6.5,
+          60,
+          -6.5
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          4,
+          13.8,
+          7,
+          28.799999999999997,
+          9
+        ],
+        [
+          28.799999999999997,
+          9,
+          39.0,
+          12,
+          46.800000000000004,
+          13,
+          50.4,
+          10
+        ],
+        [
+          50.4,
+          10,
+          54.0,
+          6.5,
+          57.0,
+          6.5,
+          60,
+          6.5
+        ]
+      ],
+      "eye": [
+        23,
+        -2,
+        3.5,
+        3.8500000000000005
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q21.0 7 42.0 8 L54.0 3.25",
+      "shields": [],
+      "lip": true,
+      "pit": [
+        12.65,
+        0
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        6.5
+      ],
+      [
+        258,
+        227,
+        9
+      ],
+      [
+        305,
+        249,
+        14
+      ],
+      [
+        390,
+        271,
+        18
+      ],
+      [
+        471,
+        302,
+        19
+      ],
+      [
+        514,
+        347,
+        18
+      ],
+      [
+        502,
+        397,
+        17
+      ],
+      [
+        430,
+        431,
+        16
+      ],
+      [
+        330,
+        445,
+        15
+      ],
+      [
+        253,
+        476,
+        13
+      ],
+      [
+        253,
+        515,
+        10
+      ],
+      [
+        324,
+        550,
+        6.5
+      ],
+      [
+        400,
+        555,
+        4
+      ],
+      [
+        460,
+        546,
+        2.5
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

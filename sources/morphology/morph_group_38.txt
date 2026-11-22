@@ -1,0 +1,394 @@
+Corel Office Document (https://www.fws.gov/sites/default/files/documents/2024-04/908.pdf)
+ [wordlim: 200] Crawled: last week; *Sistrurus catenatus* is one of three species of rattlesnakes within the genus *Sistrurus*.
+# SISTRURUS CATENATUS CATENATUS
+## STATUS ASSESSMENT
+
+### Taxonomy
+
+*Sistrurus catenatus* is one of three species of rattlesnakes within the genus *Sistrurus*. Three subspecies of *Sistrurus catenatus* are recognized, *S. c. catenatus*, *S. c. tergeminus*, and *S. c. edwardsii* (Gloyd 1940, Minton 1983, Conant and Collins 1991, Johnson 1995). *Sistrurus. c. catenatus* was described by Rafinesque in 1818. The species is commonly known as the eastern massasauga. Synonymy includes prairie rattlesnake, spotted rattler, and swamp rattler (Minton 1972).
+
+The northern limit of *Sistrurus catenatus* range is described as central New York and southwestern and west-central Ontario and extends south to extreme southeastern Arizona and the Gulf Coast of Texas (Schmidt and Davis 1941, Stebbins 1966, Minton 1983, Conant and Collins 1991, Johnson 1995, Prior and Weatherhead 1995), including northwestern Pennsylvania, Ohio, Michigan, Indiana, Illinois, Wisconsin, southeastern Minnesota, Iowa, Missouri, Kansas, southeastern Nebraska, Oklahoma, eastern Colorado, Arizona, New Mexico, and Texas (Figure 1).
+--------------------------------------------------------------------------------
+Eastern Massasauga (Sistrurus catenatus) | U.S. Fish & Wildlife Service (https://www.fws.gov/species/eastern-massasauga-sistrurus-catenatus)
+ [wordlim: 200] Crawled: last week; Originally believed to be a subspecies of western massasauga rattlesnake, genetic analyses have since demonstrated it to be a distinct species that was reclassified in 2011 as Sistrurus catenatus. ... FWS Category
+
+## Overview
+
+Characteristics
+
+Overview
+
+The eastern massasauga rattlesnake is a small pit viper that occurs in the northern midwest United States and Ontario, Canada. Originally believed to be a subspecies of western massasauga rattlesnake, genetic analyses have since demonstrated it to be a distinct species that was reclassified in 2011 as Sistrurus catenatus.
+
+Eastern massasaugas were listed as threatened under the Endangered Species Act in 2016 due to significant reductions in populations primarily due to habitat loss. The historical range of the species included New York, western Pennsylvania, southeastern Ontario, Michigan, Ohio, Indiana, Illinois, Wisconsin, Minnesota, east central Missouri and eastern Iowa.
+
+### Scientific Name
+
+Sistrurus catenatus
+
+Common Name
+
+Massasauga
+
+Eastern Massasauga
+
+Eastern Massasauga (=rattlesnake)
+
+FWS Category
+
+Reptiles
+
+Kingdom
+
+Animalia
+
+### Location in Taxonomic Tree
+
+Genus
+
+Sistrurus
+
+Species
+
+Sistrurus catenatus
+
+### Identification Numbers
+
+TSN:
+
+174304
+
+## Characteristics
+
+Characteristic category
+
+### Physical Characteristics
+
+Characteristics
+
+Color & Pattern
+
+These snakes are most often gray or light brown, but can be black, with large light-edged chocolate brown to black blotches on the back and smaller blotches on the sides. Their cryptic coloration allows them to rely on its camouflage to avoid predators and capture prey.
+
+Size & Shape
+
+Eastern massasaugas are thick-bodied, with a triangular-shaped head and vertical pupils. The most distinguishing feature of eastern massasauga rattlesnakes is a keratinized rattle at the end of the tail, which is used to ward off potential threats.
+
+Characteristic category
+
+### Food
+
+Characteristics
+
+Food
+
+These snakes eat small rodents like mice and voles, but will sometimes eat frogs and other snakes.
+
+Characteristic category
+
+### Behavior
+
+Characteristics
+
+Behavior
+
+This species is venomous, but because of the snake’s elusive and shy behavior, people rarely are bitten by them.
+--------------------------------------------------------------------------------
+Eastern Massasauga | INHS Herpetology Collection | Illinois Natural History Survey | Prairie Research Institute (https://herpetology.inhs.illinois.edu/resources/species-lists/ilspecies/eastern-massasauga/)
+ [wordlim: 200] Crawled: last week; ## Sistrurus catenatus (Rafinesque, 1818)
+
+# Eastern Massasauga
+
+## Sistrurus catenatus (Rafinesque, 1818)
+
+VENOMOUS — VENOMOUS — VENOMOUS — VENOMOUS — VENOMOUS
+
+Image: juvenile massasaugaJuvenile Massasauga, Clinton Co., Illinois. photo by C.A. Phillips
+
+Key Characters: Nine large symmetrical plates on top of head; elliptical pupil; pit between eye and nostril; light-edged dark “bow tie” shaped blotches on back (Fig. 1) and 2 or 3 rows of smaller, round blotches on the sides; rattle or horny button on tail tip; 4 head stripes; back scales strongly keeled; anal plate not divided.
+
+Similar Species: Timber rattlesnake, fox snake. No other Illinois snake has the combination of a rattle and nine symmetrical plates on the top of the head. However, the condition of the head plates can be difficult to see on a live specimen and it is not recommended to get close enough to do so, as this is a venomous species. In addition, because rattle segments can break and very young snakes have an inconspicuous rattle (Fig. 2), it is not always feasible to rely on the rattle. --------------------------------------------------------------------------------
+Fish and Wildlife: Eastern Massasauga Rattlesnake (https://www.in.gov/dnr/fish-and-wildlife/wildlife-resources/animals/eastern-massasauga-rattlesnake/)
+ [wordlim: 200] Published: 8 months ago; Crawled: 3 days ago; DESCRIPTION: The eastern massasauga (Sistrurus catenatus) is a small to medium sized rattlesnake, with adults typically reaching lengths of approximately 18 to 30 inches.
+
+Image: Massasuaga SnakeCryptic patterns and coloration serve to break up the shape of the eastern massasauga rattlesnake to better disguise it in vegetation, rocks, leaves, and shadows. The eastern massasauga can remain undetected with the help of its pattern, even at close range. The heat sensitive pits between the eyes and the nostrils are unique to pit vipers.
+
+DESCRIPTION: The eastern massasauga (Sistrurus catenatus) is a small to medium sized rattlesnake, with adults typically reaching lengths of approximately 18 to 30 inches. The general appearance of the eastern massasauga can vary, with some individuals having brown blotches on a gray background and others being almost completely black in color. The presence of a rattle on the end of the tail distinguishes it from all other snakes in its Indiana range (although juvenile specimens may have a very small, undeveloped rattle which may be difficult to see).
+
+STATUS: The contiguous range of the eastern massasauga reaches from eastern Missouri, north to Wisconsin and eastward to southern Ontario and western Pennsylvania. --------------------------------------------------------------------------------
+WEC220
+Dealing with Snakes in Florida’s Residentia (https://edis.ifas.ufl.edu/publication/UW258/pdf)
+ [wordlim: 200] Published: 9 months ago; egg-laying species in Florida. ... The harlequin coral snake (Micrurus fulvius, Figure 19), is
+Figure 19. Harlequin coral snake (adult)—Note the black nose and the 
+touching red and yellow bands.
+Credits: Steve A. Johnson, University of Florida
+Coralsnakes—Elapidae
+HARLEQUIN CORAL SNAKE
+The harlequin coral snake (Micrurus fulvius, Figure 19), is 
+a small (1–2.5 feet in length), slender, secretive snake that 
+spends most of its life underground. This snake feeds on 
+lizards and other snakes. Coral snakes occur in residential 
+areas, where they may be encountered under brush piles, 
+firewood, or other objects under which they hide. You 
+may also encounter a coral snake while you are digging in 
+your yard to plant shrubs or a garden. Coral snakes stay 
+in hiding most of the time, and if you see one in the open 
+it will likely be moving rapidly across your lawn to a new 
+hiding place.
+Additional Resources
+This document is the second in a series of four documents 
+by Dr. Steve Johnson and Monica McGarrity that provide 
+information to Florida’s residents on how to identify snakes 
+that are commonly encountered in residential settings, how 
+--------------------------------------------------------------------------------
+Plains Blackhead Snake | Amphibians, Turtles & Reptiles of Nebraska | Nebraska (https://herpneb.unl.edu/plains-blackhead-snake/)
+ [wordlim: 200] Crawled: 2 months ago; Scientific Name: Tantilla nigriceps ... ## Description & Size
+
+# Plains Blackhead Snake
+
+## Content
+
+Other Names: Black-headed Snake
+Scientific Name: Tantilla nigriceps
+Family: Colubridae
+
+## Description & Size
+
+### Description & Size
+
+  * Legless
+  * No eyelids
+  * Lacks external ears
+  * Scales on the back are smooth
+  * Divided anal scale
+  * Head relatively small and triangular
+  * Total length: 17.8-38.4 cm (7.0-15.1 in)
+  * Back color: tan
+  * Belly color: white
+  * Dark brown or black marking extending from the top of the head to the neck
+
+### Life History
+
+  * Nocturnal
+  * Active season: Early April – late September
+  * Breeding season: spring
+  * Lays eggs
+  * 1-4 eggs per female
+
+Image: Plains Black-headed Snake
+
+## Habitat, Diet & Range
+
+### Habitat
+
+  * Desert and sand prairies
+  * Rocky hillsides
+  * Sparsely vegetative woodlands
+  * Moist soils
+
+### Diet
+
+  * Centipedes
+  * Spiders
+  * Insects
+  * Earthworms
+
+### Range Map
+
+Image: plains blackhead range map
+
+Most common range within the last 50 years and does not include outliers. For more info email dferraro1@unl.edu --------------------------------------------------------------------------------
+NMHS - Tantilla nigriceps (https://nmherpsociety.org/reptiles/snakes/tantillanigriceps/)
+ [wordlim: 200] Crawled: last week;  | Tantilla nigriceps ... Description: A small snake 7" to 15".
+ | Tantilla nigriceps
+Plains Black-Headed Snake  | 
+Range:
+Other Names:
+Description: A small snake 7" to 15". Head cap dark brown to black. Scales smooth. Tan to light brown in body coloration. Whiteish below with pink or orange stripe on belly.
+Similar Species: The Yaqui Black-headed Snake has a distinct white ring on the neck. The Smith's Black-headed Snake is smaller, the black cap extends 1-3 (rather than 3-5) scale lengths behind the parietals with the posterior margin straight or slightly convex (rather than pointed or strongly convex) and the first lower labials fail to meet the midline. The Ground Snake has a loreal scale and never a distinct black cap although the head may be slightly darkened.
+Venom: Venom is delivered to prey via enlarged, grooved teeth in the rear upper jaw (not considered to be dangerous to humans).
+Habitat: A secretive snake that frequents brushland, grassland, cresosote brush, high scrub desert, sagebrush, thornscrub, open chaparral and woodland. Attracted to stream bottoms and river bottoms.
+Behavior: Occasionally nocturnal. Fround beneath rocks, logs, boards, dead yuccas, agave and other plant debris.
+Hibernation:
+Reproduction: Lays a clutch of 1-3 eggs.
+Diet: Their diet consists spiders scorpions centipedes, crickets, grasshoppers, millipedes. and insect larva.
+Authored by: Garth Teitjen--------------------------------------------------------------------------------
+Eastern Massasauga Rattlesnake SSA 2024 (https://naturalheritage.illinois.gov/content/dam/soi/en/web/naturalheritage/speciesconservation/recovery/documents/ssas/eastern-massasauga-rattlesnake-SSA-2024-redacted.pdf)
+ [wordlim: 200] Published: 1.8 years ago; Crawled: 2 weeks ago; **SCIENTIFIC NAME:** *Sistrurus catenatus*
+# Species Status Assessment
+
+**SCIENTIFIC NAME:** *Sistrurus catenatus*
+
+**COMMON NAME:** Eastern Massasauga Rattlesnake
+
+**AUTHOR:** Phil Borsdorf and Nathaniel Slaton, Illinois Department of Natural Resources
+
+**DATE:** March 2024
+
+**SPECIES PHOTO:**
+
+<visual_element id="e1">
+Photograph of an Eastern Massasauga Rattlesnake (*Sistrurus catenatus*) coiled on sandy, light-gray soil among dry brown leaves, twigs, and sparse green grass. The snake has a thick body with distinctive dark brown to black dorsal blotches bordered by pale gray or whitish scales. Its head is visible near the center-right of the coiled body, facing forward. A banded tail extends downward from the body, showing alternating dark and pale yellowish bands. The surrounding habitat consists of dry leaf litter, exposed sandy soil, and scattered vegetation.
+
+Photo credit: © Linda Rosland  
+Images Of Nature
+</visual_element>
+
+Page 1--------------------------------------------------------------------------------
+Museum Papers (https://webapps.fhsu.edu/ksherp/bibFiles/8363.pdf)
+ [wordlim: 200] Published: 7.3 years ago; Crawled: 9 months ago; *Sistrurus miliarius*, Linne; *Crotalus miliarius*, Linne; ... Description: Brownish, gray to ground color on dorsal surface.
+98  GEOLOGICAL SURVEY OF ALABAMA
+
+*Sistrurus miliarius*, Linne; *Crotalus miliarius*, Linne;  
+*Crotalophorus miliarius*, Gray; *Caudisona miliara*, Fitzinger  
+Ground Rattler, Pigmy Rattler
+
+<table id="e1">
+<tr>
+<td>Anal plate, undivided</td>
+<td>Upper labials, 10-13</td>
+<td>Postoculars, three</td>
+</tr>
+<tr>
+<td>Caudals, 21-23</td>
+<td>Loreal, small</td>
+<td>Preoculars, two</td>
+</tr>
+<tr>
+<td>Eyes, not in contact<br>with upper labials</td>
+<td>Nasals, two</td>
+<td>Supraoculars, two</td>
+</tr>
+<tr>
+<td>Frontals, one</td>
+<td>Internasals, two</td>
+<td>Scales, keeled</td>
+</tr>
+<tr>
+<td>Prefrontals, two</td>
+<td>Rattles, very small</td>
+<td>Scale row, 21-23</td>
+</tr>
+<tr>
+<td>Lower labials, 12-15</td>
+<td>Rostral, normal</td>
+<td>Ventrals, 127-140</td>
+</tr>
+</table>
+
+<visual_element id="e2">
+Six snake head and scale illustrations arranged in a row beneath the diagnostic text: a dorsal head shield view, a larger dorsal head scale pattern, a frontal head view, a side scale/skin segment, a side head view, and a vertical ventral scale strip. Caption below reads: “Figure 45. Sistrurus miliarius (Linne) Garman (After Cope)”.
+</visual_element>
+
+Description: Brownish, gray to ground color on dorsal surface. There are between thirty-eight and forty-five darker blotches on back from head to tail. A narrow black band encircle blotches. A dark streak with a light streak beneath extends from below center of eye to angle of mouth.
+
+Habits: This serpent is often found in pine woods among the rocks and leaves. It is a small snake and never attains very great length. The rattles are very small and cannot be heard very far. It is poisonous.
+
+Oviparous.
+
+Its food consists mainly of frogs and small rodents.
+
+Distribution: New England to Northern Florida, east to Oklahoma.
+
+Alabama: Once common in Alabama pine lands but more scarce now. Rather widely distributed over the State.--------------------------------------------------------------------------------
+The Herpetology of Southern Florida (https://www.herpconbio.org/Volume_10/Monographs/Meshaka_Layne_2015-small_Part6.pdf)
+ [wordlim: 200] Published: 11.6 years ago; Crawled: last year; *Description. ... A South Florida Coral Snake, *Micrurus fulvius barbouri* from Monroe County (A).
+--------------------------------------------------------------------------------
+Plains Black-headed Snake (https://webapps.fhsu.edu/cnah/kansas/species/tantilla-nigriceps)
+ [wordlim: 200] Crawled: last month; Tantilla nigriceps Kennicott, 1860
+--------------------------------------------------------------------------------
+Eastern Massasauga Rattlesnake Species Guidance Document (https://naturalheritage.illinois.gov/content/dam/soi/en/web/naturalheritage/speciesconservation/speciesguidance/documents/species-guidance-documents/eastern-massasauga-sgd.pdf)
+ [wordlim: 200] Published: 3.6 years ago; Crawled: last week; The Eastern Massasauga (EMR; *Sistrurus catenatus*) is a small rattlesnake species, less than 100 cm in total length (Phillips *et al.*, 1999a), with 9 enlarged scales (plates) on the head (Plate 1; Ernst and Ernst, 2003).
+--------------------------------------------------------------------------------
+Sistrurus catenatus (Eastern massasauga) - Michigan Natural Features Inventory (https://mnfi.anr.msu.edu/species/description/11519/Sistrurus%20catenatus/)
+ [wordlim: 200] Crawled: last month; # Sistrurus catenatus Eastern massasauga
+--------------------------------------------------------------------------------
+eastern massasauga (https://dnr.illinois.gov/education/wildaboutpages/wildaboutsnakes/wasnfamilycrotalidae/wasneasternmassasauga.html)
+ [wordlim: 200] Crawled: last week; eastern massasauga (Sistrurus catenatus)
+--------------------------------------------------------------------------------
+Sistrurus catenatus (Eastern massasauga) - Michigan Natural Features Inventory (https://mnfi.anr.msu.edu/species/description/11519/Sistrurus-catenatus)
+ [wordlim: 200] Crawled: today; For each species, lists of natural communities were derived from review of the nearly 6,500 element occurrences in the MNFI database, in addition to herbarium label data for some taxa. ... For certain taxa, especially poorly collected or extirpated species of prairie and savanna habitats, natural community lists were derived from inferences from collection sites and habitat preferences in immediately adjacent states (particularly Indiana and Illinois). ... Massasaugas that need to be moved or translocated should be relocated to suitable habitat as close to where snakes were found and ideally within the snake's home range and within the same wetland complex.
+--------------------------------------------------------------------------------
+Eastern Massasauga Rattlesnake Fact Sheet | FWS.gov (https://www.fws.gov/media/eastern-massasauga-rattlesnake-fact-sheet)
+ [wordlim: 200] Published: 10.2 years ago; Crawled: 2 months ago; Eastern Massasauga (Sistrurus catenatus)
+--------------------------------------------------------------------------------
+Eastern Massasauga (Sistrurus catenatus): COSEWIC assessment and status report 2025 - Canada.ca (https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/eastern-massasauga-2025.html)
+ [wordlim: 200] Published: 1.6 years ago; Crawled: today; ### Wildlife species description and significance ... In 2017, the Society for the Study of Amphibians and Reptiles (SSAR), American Society of Ichthyologists and Herpetologists, and the Canadian Herpetological Society recognized Eastern Massasauga as a separate species (Sistrurus catenatus; Crother et al.
+--------------------------------------------------------------------------------
+ (https://coloherps.org/reference/species/SpeSica.htm)
+ [wordlim: 200] Crawled: 2 days ago; Description: ...     Integrades between Sistrurus catenatus edwardsii and S. c. tergeminus in southeastern Colorado
+--------------------------------------------------------------------------------
+Micrurus fulvius (https://en.wikipedia.org/wiki/Micrurus_fulvius)
+ [wordlim: 200] Crawled: 2 months ago; Micrurus fulvius, commonly known as the eastern coral snake, common coral snake, American cobra, and more, is a species of highly venomous coral snake in the family Elapidae. ... Among the many common names for Micrurus fulvius are eastern coral snake, American cobra, candy-stick snake, common coral snake, coral adder, Elaps harlequin snake, Florida coral snake, harlequin coral snake, North American coral snake, red bead snake, thunder-and-lightning snake, and, in Spanish, serpiente-coralillo arlequín (literally "harlequin coral snake").
+## Description
+--------------------------------------------------------------------------------
+Eastern massasauga (https://en.wikipedia.org/wiki/Eastern_massasauga)
+ [wordlim: 200] Crawled: 2 months ago;  Sistrurus catenatus ... ## Description
+--------------------------------------------------------------------------------
+Sistrurus miliarius (https://en.wikipedia.org/wiki/Sistrurus_miliarius)
+ [wordlim: 200] Crawled: 2 weeks ago; Sistrurus miliarius, commonly called the pygmy rattlesnake, is a species of venomous snake in the subfamily Crotalinae (pit vipers) of the family Viperidae. ... ## Description ... Sistrurus miliarius is found in the Southeastern United States from southern and eastern North Carolina, south through peninsular Florida and west to East Texas and Oklahoma.
+--------------------------------------------------------------------------------
+Tantilla nigriceps (https://es.wikipedia.org/wiki/Tantilla_nigriceps)
+ [wordlim: 200] Crawled: 7 months ago; Tantilla nigriceps es una especie de serpiente de la familia Colubridae.
+--------------------------------------------------------------------------------
+Micrurus (https://en.wikipedia.org/wiki/Micrurus)
+ [wordlim: 200] Crawled: 5 days ago;  Micrurus fulvius ... Species in the genus Micrurus are endemic to the Americas.
+--------------------------------------------------------------------------------
+Pygmy Rattlesnake Alert 01 - YouTube (https://www.youtube.com/watch?v=d47bvNVym0E)
+ [wordlim: 200] Published: 8.3 years ago; Crawled: 4 months ago; ## Description ... Pygmy rattlesnakes (sistrurus miliarius) is a venomous pit viper species found in the southeastern United States.
+# Pygmy Rattlesnake Alert 01
+By: ojatro (1290000 followers, Verified)
+Published: 2018-07-30, 22873 views, 98 likes
+
+## Description
+Website:         URL
+Patreon:           / ojatro  
+Google:          URL
+Donate:        URL
+
+Pygmy rattlesnakes are also the smallest venomous snakes found in the southeastern United States. Some individuals are very aggressive and will strike furiously at anything in striking distance. Their tiny rattle makes an insect like buzzing sound that can only be heard from a few feet.
+
+Pygmy rattlesnakes (sistrurus miliarius) is a venomous pit viper species found in the southeastern United States. They are usually seen in the summer basking or crossing the roads at dawn or dusk. The tiny rattle makes a buzzing sound that can only be heard from a few feet. Some individuals are very aggressive and will strike furiously, while others seem lethargic and do not even attempt to rattle. They do not dig their own burrows, but rather use those dug by small rodents or gopher tortoises. Its diet includes small mammals and birds, lizards, insects and frogs, as well as other snakes.
+The media reports every now and than about people being bitten by venomous snakes in the garden department of Home Depot, Wal-Mart or similar shopping facilities with a large outdoor area to sale their plants. Responsible for such incidents is a small 14 to 22 inch rattlesnake, which belongs to the genus Sistrurus and is commonly referred to as pigmy rattler or ground rattler. Pigmy rattlesnakes spend most of their time well hidden among leaf litter and can be very hard to spot. From such hiding places they ambush a variety of prey including lizards, frogs, small mammals, and insects as well as centipedes. These snakes are most often encountered crossing roads on summer evenings but on occasions they hunt for lizards and insects in nurseries. That's how some of these snakes end up in the garden department, where they will find enough food and cover between the flower pots. This tiny rattlesnake will avoid human contact in general but doesn't hesitate to strike at anything that comes near. Just keep in mind to have a careful look before reaching for a plants is always a good idea in such location. Florida's Venomous Snakes - Pygmy Rattlesnake was filmed by Heiko Kiera aka Ojatro in Florida in 2010. This stock footage is available at URL.
+--------------------------------------------------------------------------------
+Sistrurus (https://en.wikipedia.org/wiki/Sistrurus)
+ [wordlim: 200] Crawled: last month; Although bites from Sistrurus species are regarded as less dangerous to humans than those from Crotalus rattlesnakes, primarily due to their lower venom yield, every venomous snake bite should be considered serious, and prompt medical treatment should always be sought. ...    | S. miliarius ^{T}  | (Linnaeus, 1766)  | 3  | pygmy rattlesnake  | In the Southeastern United States from eastern and southern North Carolina southward through peninsular Florida and westward to Oklahoma and East Texas.
+--------------------------------------------------------------------------------
+Eastern Massasauga Rattlesnake (Sistrurus catenatus) - YouTube (https://www.youtube.com/watch?v=QtXXDvMuSQQ)
+ [wordlim: 200] Published: 8 months ago; Crawled: 4 months ago; # Eastern Massasauga Rattlesnake (Sistrurus catenatus) ... ## Description
+# Eastern Massasauga Rattlesnake (Sistrurus catenatus)
+By: Scales Nature Park
+Published: 2026-03-09, 2383 views, 84 likes
+
+## Description
+None
+--------------------------------------------------------------------------------
+[Holopaw, Florida] (https://www.reddit.com/r/whatsthissnake/comments/1pcjl0w/holopaw_florida/)
+ [wordlim: 200] Published: last year; Within the range of the Micrurus fulvius, often the quickest way to identify coral snakes is to simply look for a black "nose". ...   *M. fulvius* is considered distinct from the western Texas coralsnake *M. tener*, and while there are morphological differences, the two species can be distinguished easily by geographic range. ...   *This short account was prepared by /u/TheMadFlyentist and edited by /u/Phylogenizer*.
+--------------------------------------------------------------------------------
+Specimen R-159676 from the AMNH’s herpetology collection, sadly without locality data. The label says one *Sistrurus* species, but the pattern looks to me much more like another. What are reliable distinguishing features? (https://www.reddit.com/r/whatsthissnake/comments/14m7wl5)
+ [wordlim: 200] Published: 3.4 years ago; Crawled: 3.4 years ago;   Iirc, the head scalation was as you suggest, so in line with both *Sistrurus miliarius* and *Sistrurus catenatus* sensu lato, which are what I was trying to distinguish between.
+--------------------------------------------------------------------------------
+Hiker picks up venomous snake, dies after bite triggers rare allergic reaction, authorities say (https://www.livescience.com/health/hiker-picks-up-venomous-snake-dies-after-bite-triggers-rare-allergic-reaction-authorities-say)
+ [wordlim: 100] Published: 1.3 years ago; The snake is believed to be a timber rattlesnake (Crotalus horridus), a species with potent venom but one that rarely bites humans unless provoked or stepped on. ... Venomous snake bites are rarely fatal in the U.S. ... The other venomous snakes in the state are pygmy rattlesnakes (Sistrurus miliarius), copperheads (Agkistrodon contortrix) and cottonmouths (Agkistrodon piscivorus).
+Hiker picks up venomous snake, dies after bite triggers rare allergic reaction, authorities say
+Date: Wed Aug 20 12:47:56 2025 UTC
+
+A hiker recently died after being bitten by a rattlesnake in Tennessee and experiencing a rare allergic reaction to the snake's venom, reports indicate.
+Emergency personnel were dispatched to a trailhead in the Savage Gulf State Park on Aug. 8. Medical workers gave the man CPR on the trail and transported him to a hospital, where he died. The man's identity has not been made public.
+Witnesses said the hiker picked up the Rattlesnake, resulting in a bite to his hand, Matthew Griffith, director of the Grundy County Emergency Management Agency, told Live Science. The snake is believed to be a timber rattlesnake (Crotalus horridus), a species with potent venom but one that rarely bites humans unless provoked or stepped on.
+"It is believed that the hiker had an allergic reaction however full details of actual cause of death have not been released," Griffith said in an email.
+Venomous snake bites are rarely fatal in the U.S. Around 7,000 to 8,000 people are bitten by venomous snakes each year, and only about five of these result in a fatality, according to the Centers for Disease Control and Prevention (CDC). Most fatalities happen because of immediate anaphylactic reactions or because the person bitten doesn't seek medical attention.
+Related: Cobra venom kills by collapsing blood vessels, organ-on-a-chip shows
+Timber rattlesnakes are the largest and most dangerous venomous snakes in Tennessee, with heavy bodies that can grow up to about 5 feet (1.5 meters) long, according to the Tennessee Wildlife Resources Agency. The other venomous snakes in the state are pygmy rattlesnakes (Sistrurus miliarius), copperheads (Agkistrodon contortrix) and cottonmouths (Agkistrodon piscivorus).
+These snakes use their venom to hunt prey and for defence. Timber rattlesnakes normally eat small mammals such as squirrels and rats but will also occasionally hunt birds and reptiles. This species is an ambush predator, remaining still at the base of trees or beside fallen logs, waiting for prey to pass. Rattlesnakes can strike quickly from any position and do not always rattle before biting, according to the CDC.
+Timber rattlesnakes aren't aggressive toward humans and avoid contact with people and pets if they can, according to the Florida Museum. If they do bite, there's also a small chance they won't inject their venom. This kind of strike is known as a dry bite and accounts for about 20% of all defensive rattlesnake bites, according to the Arizona-Sonora Desert Museum.
+Snake venom is a complex mix of proteins that varies dramatically across different species and their populations. Rattlesnakes are vipers, which typically have haemotoxic venom that attacks the circulatory system. Haemotoxic venom causes bleeding and disrupts the blood's ability to clot, according to the Natural History Museum in London. However, rattlesnakes can also have neurotoxic venom, which attacks the nervous system. Timber rattlesnakes are known to have properties of both and can be equipped with extremely potent neurotoxic venom that lacks the hemorrhagic effects typical of rattlesnakes. Rattlesnake venom is also cytotoxic, which is destructive to tissue.
+-We're finally close to a universal antivenom that works against cobra, krait and black mamba snake bites, say researchers
+-Diagnostic dilemma: Black widow spider's venom poisoned a woman through her eyeball
+-Drug inspired by spider venom aims to reverse heart attack damage
+William Sutton, a professor at Tennessee State University who studies snakes, told The New York Times that a snake venom allergic reaction can be similar to a bee sting allergic reaction, with the potential to send someone into anaphylaxis, during which a person's airways narrow and their blood pressure lowers.
+While rattlesnake bites aren't normally fatal with medical treatment, the venom can have long-term consequences. Around 10% to 44% of those bitten experience lasting injuries, such as losing part or all of their finger.
+Griffith warned people engaging in outdoor activities to be mindful of venomous snakes and not to handle them.
+"As always, it's strongly recommended to have some kind of first aid supplies while enjoying outdoor recreational activities and be mindful of wildlife and the dangers that some wildlife may pose," Griffith said. "If you encounter a snake simply remain calm and do not attempt to handle it. If bitten seek immediate medical attention."
+

@@ -1,0 +1,3435 @@
+{
+  "request_url": "https://api.inaturalist.org/v1/observations?taxon_id=114991&quality_grade=research&photos=true&photo_license=cc0%2Ccc-by&per_page=1",
+  "retrieved_at": "2026-11-19T00:49:04.144192+00:00",
+  "data": {
+    "total_results": 210,
+    "page": 1,
+    "per_page": 1,
+    "results": [
+      {
+        "quality_grade": "research",
+        "time_observed_at": null,
+        "taxon_geoprivacy": "obscured",
+        "annotations": [],
+        "uuid": "ba564a0a-2d07-46d8-8787-61009c643a51",
+        "observed_on_details": {
+          "date": "2026-10-10",
+          "day": 10,
+          "month": 10,
+          "year": 2026,
+          "hour": 0,
+          "week": 41
+        },
+        "id": 407435362,
+        "cached_votes_total": 1,
+        "identifications_most_agree": true,
+        "created_at_details": {
+          "date": "2026-10-11",
+          "day": 11,
+          "month": 10,
+          "year": 2026,
+          "hour": 5,
+          "week": 41
+        },
+        "species_guess": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0441\u0442\u0435\u043f\u043d\u0430\u044f \u0433\u0430\u0434\u044e\u043a\u0430",
+        "identifications_most_disagree": false,
+        "tags": [],
+        "positional_accuracy": 8,
+        "comments_count": 1,
+        "site_id": 1,
+        "created_time_zone": "Europe/Moscow",
+        "license_code": "cc-by",
+        "observed_time_zone": "Europe/Moscow",
+        "quality_metrics": [],
+        "public_positional_accuracy": 27661,
+        "reviewed_by": [
+          1549643,
+          2361625,
+          10004680
+        ],
+        "oauth_application_id": 2,
+        "flags": [],
+        "created_at": "2026-10-11T05:50:02+03:00",
+        "description": null,
+        "time_zone_offset": "+03:00",
+        "project_ids_with_curator_id": [],
+        "observed_on": "2026-10-10",
+        "observed_on_string": "2026-10-10",
+        "updated_at": "2026-10-13T15:49:19+03:00",
+        "sounds": [],
+        "place_ids": [
+          7161,
+          11799,
+          41794,
+          59614,
+          63712,
+          80627,
+          96372,
+          97391,
+          139496,
+          146832,
+          228588,
+          234356,
+          240221
+        ],
+        "captive": false,
+        "taxon": {
+          "provisional": false,
+          "is_active": true,
+          "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+          "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889,114991",
+          "endemic": false,
+          "iconic_taxon_id": 26036,
+          "min_species_taxon_id": 114991,
+          "threatened": true,
+          "rank_level": 10,
+          "introduced": false,
+          "native": true,
+          "parent_id": 30889,
+          "name": "Vipera renardi",
+          "rank": "species",
+          "extinct": false,
+          "id": 114991,
+          "ancestor_ids": [
+            48460,
+            1,
+            2,
+            355675,
+            26036,
+            26172,
+            85553,
+            30667,
+            797529,
+            30889,
+            114991
+          ],
+          "created_at": "2011-08-04T09:49:19+00:00",
+          "default_photo": {
+            "id": 294028710,
+            "license_code": "cc-by-nc",
+            "attribution": "(c) \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+            "original_dimensions": {
+              "height": 1536,
+              "width": 2048
+            },
+            "flags": [],
+            "attribution_name": "\u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+            "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+            "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/medium.jpeg"
+          },
+          "taxon_changes_count": 0,
+          "taxon_schemes_count": 2,
+          "observations_count": 969,
+          "photos_locked": false,
+          "universal_search_rank": 969,
+          "flag_counts": {
+            "resolved": 1,
+            "unresolved": 0
+          },
+          "current_synonymous_taxon_ids": null,
+          "atlas_id": null,
+          "complete_species_count": null,
+          "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+          "complete_rank": "subspecies",
+          "iconic_taxon_name": "Reptilia",
+          "preferred_common_name": "Steppe Viper",
+          "conservation_status": {
+            "id": 535125,
+            "place_id": null,
+            "source_id": 37,
+            "user_id": 477,
+            "authority": "IUCN Red List",
+            "status": "nt",
+            "status_name": "near threatened",
+            "geoprivacy": "open",
+            "iucn": 20
+          }
+        },
+        "ident_taxon_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797529,
+          30889,
+          114991
+        ],
+        "outlinks": [],
+        "faves_count": 1,
+        "ofvs": [],
+        "num_identification_agreements": 2,
+        "preferences": {
+          "prefers_community_taxon": null
+        },
+        "identification_disagreements_count": 0,
+        "comments": [
+          {
+            "id": 23600608,
+            "uuid": "40340231-0097-47c2-8476-f8e5dda5c1f0",
+            "user": {
+              "id": 6446103,
+              "login": "vil05",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2023-01-20T14:11:50+00:00",
+              "login_autocomplete": "vil05",
+              "login_exact": "vil05",
+              "name": "",
+              "name_autocomplete": "",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/6446103/5d363ef1a3a8cc86bf6cbf161d6fd097-thumb.jpeg?1762253610",
+              "observations_count": 1537,
+              "identifications_count": 1182,
+              "journal_posts_count": 0,
+              "activity_count": 2719,
+              "species_count": 361,
+              "annotated_observations_count": 183,
+              "universal_search_rank": 1537,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/6446103/5d363ef1a3a8cc86bf6cbf161d6fd097-medium.jpeg?1762253610"
+            },
+            "created_at": "2026-10-13T15:49:13+03:00",
+            "created_at_details": {
+              "date": "2026-10-13",
+              "day": 13,
+              "month": 10,
+              "year": 2026,
+              "hour": 15,
+              "week": 42
+            },
+            "body": "Vipera lotievi?",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        ],
+        "map_scale": null,
+        "uri": "https://www.inaturalist.org/observations/407435362",
+        "project_ids": [],
+        "community_taxon_id": 114991,
+        "geojson": {
+          "type": "Point",
+          "coordinates": [
+            47.1864042842,
+            42.3541605025
+          ]
+        },
+        "owners_identification_from_vision": true,
+        "identifications_count": 2,
+        "obscured": true,
+        "num_identification_disagreements": 0,
+        "geoprivacy": null,
+        "location": "42.3541605025,47.1864042842",
+        "votes": [
+          {
+            "id": 15755105,
+            "vote_flag": true,
+            "vote_scope": null,
+            "user_id": 6446103,
+            "created_at": "2026-10-13T15:49:19.030+03:00",
+            "user": {
+              "id": 6446103,
+              "login": "vil05",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2023-01-20T14:11:50+00:00",
+              "login_autocomplete": "vil05",
+              "login_exact": "vil05",
+              "name": "",
+              "name_autocomplete": "",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/6446103/5d363ef1a3a8cc86bf6cbf161d6fd097-thumb.jpeg?1762253610",
+              "observations_count": 1537,
+              "identifications_count": 1182,
+              "journal_posts_count": 0,
+              "activity_count": 2719,
+              "species_count": 361,
+              "annotated_observations_count": 183,
+              "universal_search_rank": 1537,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/6446103/5d363ef1a3a8cc86bf6cbf161d6fd097-medium.jpeg?1762253610"
+            }
+          }
+        ],
+        "spam": false,
+        "user": {
+          "id": 1549643,
+          "login": "krylenkoserg",
+          "spam": false,
+          "suspended": false,
+          "created_at": "2019-03-24T09:47:40+00:00",
+          "site_id": 1,
+          "preferences": {},
+          "login_autocomplete": "krylenkoserg",
+          "login_exact": "krylenkoserg",
+          "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e",
+          "name_autocomplete": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e",
+          "orcid": null,
+          "icon": "https://static.inaturalist.org/attachments/users/icons/1549643/thumb.jpg?1656688792",
+          "observations_count": 4162,
+          "identifications_count": 682,
+          "journal_posts_count": 0,
+          "activity_count": 4844,
+          "species_count": 1738,
+          "annotated_observations_count": 5,
+          "universal_search_rank": 4162,
+          "roles": [],
+          "icon_url": "https://static.inaturalist.org/attachments/users/icons/1549643/medium.jpg?1656688792"
+        },
+        "mappable": true,
+        "identifications_some_agree": true,
+        "project_ids_without_curator_id": [],
+        "place_guess": "Dagestan, RU",
+        "identifications": [
+          {
+            "id": 904414717,
+            "uuid": "965496b0-688c-4d09-bb22-baac90b1436a",
+            "user": {
+              "id": 1549643,
+              "login": "krylenkoserg",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2019-03-24T09:47:40+00:00",
+              "login_autocomplete": "krylenkoserg",
+              "login_exact": "krylenkoserg",
+              "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e",
+              "name_autocomplete": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/1549643/thumb.jpg?1656688792",
+              "observations_count": 4162,
+              "identifications_count": 682,
+              "journal_posts_count": 0,
+              "activity_count": 4844,
+              "species_count": 1738,
+              "annotated_observations_count": 5,
+              "universal_search_rank": 4162,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/1549643/medium.jpg?1656688792"
+            },
+            "created_at": "2026-10-11T05:50:02+03:00",
+            "created_at_details": {
+              "date": "2026-10-11",
+              "day": 11,
+              "month": 10,
+              "year": 2026,
+              "hour": 5,
+              "week": 41
+            },
+            "body": null,
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": true,
+            "taxon_change": null,
+            "vision": true,
+            "disagreement": null,
+            "previous_observation_taxon_id": 30889,
+            "spam": false,
+            "taxon_id": 30889,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 30889,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 30889,
+              "name": "Vipera",
+              "parent_id": 797529,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2008-03-18T01:29:30+00:00",
+              "default_photo": {
+                "id": 321181329,
+                "license_code": null,
+                "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+                "url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                "original_dimensions": {
+                  "height": 1280,
+                  "width": 1920
+                },
+                "flags": [],
+                "attribution_name": "Titouan Roguet",
+                "square_url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/321181329/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 38187,
+              "photos_locked": false,
+              "universal_search_rank": 38187,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": 20,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Eurasian Vipers",
+              "ancestors": [
+                {
+                  "id": 1,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1
+                  ],
+                  "is_active": true,
+                  "name": "Animalia",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80678745,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/medium.jpg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 205508739,
+                  "flag_counts": {
+                    "resolved": 16,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Animal",
+                  "complete_rank": "order",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Animals"
+                },
+                {
+                  "id": 2,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2
+                  ],
+                  "is_active": true,
+                  "name": "Chordata",
+                  "parent_id": 1,
+                  "ancestry": "48460/1",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551845,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 80129543,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 79660,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Chordate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Chordates"
+                },
+                {
+                  "id": 355675,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675
+                  ],
+                  "is_active": true,
+                  "name": "Vertebrata",
+                  "parent_id": 2,
+                  "ancestry": "48460/1/2",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551642,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 79977422,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 76525,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vertebrate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Vertebrates"
+                },
+                {
+                  "id": 26036,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036
+                  ],
+                  "is_active": true,
+                  "name": "Reptilia",
+                  "parent_id": 355675,
+                  "ancestry": "48460/1/2/355675",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29214589,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/29214589/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 7893548,
+                  "flag_counts": {
+                    "resolved": 6,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12646,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Reptile",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Reptiles"
+                },
+                {
+                  "id": 26172,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172
+                  ],
+                  "is_active": true,
+                  "name": "Squamata",
+                  "parent_id": 26036,
+                  "ancestry": "48460/1/2/355675/26036",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 19063248,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Richard Stovall, some rights reserved (CC BY), uploaded by Richard Stovall",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1893,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Richard Stovall",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 6273740,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12248,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Squamata",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes and Lizards"
+                },
+                {
+                  "id": 85553,
+                  "rank": "suborder",
+                  "rank_level": 37,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553
+                  ],
+                  "is_active": true,
+                  "name": "Serpentes",
+                  "parent_id": 26172,
+                  "ancestry": "48460/1/2/355675/26036/26172",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 37451338,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/37451338/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 2392952,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 4244,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Snake",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes"
+                },
+                {
+                  "id": 30667,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667
+                  ],
+                  "is_active": true,
+                  "name": "Viperidae",
+                  "parent_id": 85553,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 209465106,
+                    "license_code": null,
+                    "attribution": "(c) Evan J Dittig, all rights reserved, uploaded by Evan J Dittig",
+                    "url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Evan J Dittig",
+                    "square_url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/209465106/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 385312,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 410,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Viperidae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Vipers"
+                },
+                {
+                  "id": 797529,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529
+                  ],
+                  "is_active": true,
+                  "name": "Viperinae",
+                  "parent_id": 30667,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 188224706,
+                    "license_code": "cc-by",
+                    "attribution": "(c) John Lyakurwa, some rights reserved (CC BY), uploaded by John Lyakurwa",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "John Lyakurwa",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 56109,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 96,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Viperinae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "True Vipers"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 30889,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 30889,
+              "name": "Vipera",
+              "parent_id": 797529,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2008-03-18T01:29:30+00:00",
+              "default_photo": {
+                "id": 321181329,
+                "license_code": null,
+                "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+                "url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                "original_dimensions": {
+                  "height": 1280,
+                  "width": 1920
+                },
+                "flags": [],
+                "attribution_name": "Titouan Roguet",
+                "square_url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/321181329/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 38187,
+              "photos_locked": false,
+              "universal_search_rank": 38187,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": 20,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Eurasian Vipers"
+            }
+          },
+          {
+            "id": 904510474,
+            "uuid": "3eae19a7-4378-4e69-a211-8fc9c2743112",
+            "user": {
+              "id": 10004680,
+              "login": "joshua_herps",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2025-12-06T18:58:27+00:00",
+              "login_autocomplete": "joshua_herps",
+              "login_exact": "joshua_herps",
+              "name": "Joshua Brockow",
+              "name_autocomplete": "Joshua Brockow",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/10004680/40f6df151da8863970558b56d542eb30-thumb.jpeg?1792011422",
+              "observations_count": 2523,
+              "identifications_count": 26511,
+              "journal_posts_count": 0,
+              "activity_count": 29034,
+              "species_count": 30,
+              "annotated_observations_count": 102,
+              "universal_search_rank": 2523,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/10004680/40f6df151da8863970558b56d542eb30-medium.jpeg?1792011422"
+            },
+            "created_at": "2026-10-11T11:10:35+03:00",
+            "created_at_details": {
+              "date": "2026-10-11",
+              "day": 11,
+              "month": 10,
+              "year": 2026,
+              "hour": 11,
+              "week": 41
+            },
+            "body": "",
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 30889,
+            "spam": false,
+            "taxon_id": 114991,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 114991,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 114991,
+              "name": "Vipera renardi",
+              "parent_id": 30889,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889,114991",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-08-04T09:49:19+00:00",
+              "default_photo": {
+                "id": 294028710,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "\u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 2,
+              "observations_count": 969,
+              "photos_locked": false,
+              "universal_search_rank": 969,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Steppe Viper",
+              "conservation_status": {
+                "id": 535125,
+                "place_id": null,
+                "source_id": 37,
+                "user_id": 477,
+                "authority": "IUCN Red List",
+                "status": "nt",
+                "status_name": "near threatened",
+                "geoprivacy": "open",
+                "iucn": 20
+              },
+              "ancestors": [
+                {
+                  "id": 1,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1
+                  ],
+                  "is_active": true,
+                  "name": "Animalia",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80678745,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/medium.jpg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 205508739,
+                  "flag_counts": {
+                    "resolved": 16,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Animal",
+                  "complete_rank": "order",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Animals"
+                },
+                {
+                  "id": 2,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2
+                  ],
+                  "is_active": true,
+                  "name": "Chordata",
+                  "parent_id": 1,
+                  "ancestry": "48460/1",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551845,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 80129543,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 79660,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Chordate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Chordates"
+                },
+                {
+                  "id": 355675,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675
+                  ],
+                  "is_active": true,
+                  "name": "Vertebrata",
+                  "parent_id": 2,
+                  "ancestry": "48460/1/2",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551642,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 79977422,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 76525,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vertebrate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Vertebrates"
+                },
+                {
+                  "id": 26036,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036
+                  ],
+                  "is_active": true,
+                  "name": "Reptilia",
+                  "parent_id": 355675,
+                  "ancestry": "48460/1/2/355675",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29214589,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/29214589/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 7893548,
+                  "flag_counts": {
+                    "resolved": 6,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12646,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Reptile",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Reptiles"
+                },
+                {
+                  "id": 26172,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172
+                  ],
+                  "is_active": true,
+                  "name": "Squamata",
+                  "parent_id": 26036,
+                  "ancestry": "48460/1/2/355675/26036",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 19063248,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Richard Stovall, some rights reserved (CC BY), uploaded by Richard Stovall",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1893,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Richard Stovall",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 6273740,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12248,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Squamata",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes and Lizards"
+                },
+                {
+                  "id": 85553,
+                  "rank": "suborder",
+                  "rank_level": 37,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553
+                  ],
+                  "is_active": true,
+                  "name": "Serpentes",
+                  "parent_id": 26172,
+                  "ancestry": "48460/1/2/355675/26036/26172",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 37451338,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/37451338/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 2392952,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 4244,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Snake",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes"
+                },
+                {
+                  "id": 30667,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667
+                  ],
+                  "is_active": true,
+                  "name": "Viperidae",
+                  "parent_id": 85553,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 209465106,
+                    "license_code": null,
+                    "attribution": "(c) Evan J Dittig, all rights reserved, uploaded by Evan J Dittig",
+                    "url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Evan J Dittig",
+                    "square_url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/209465106/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 385312,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 410,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Viperidae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Vipers"
+                },
+                {
+                  "id": 797529,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529
+                  ],
+                  "is_active": true,
+                  "name": "Viperinae",
+                  "parent_id": 30667,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 188224706,
+                    "license_code": "cc-by",
+                    "attribution": "(c) John Lyakurwa, some rights reserved (CC BY), uploaded by John Lyakurwa",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "John Lyakurwa",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 56109,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 96,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Viperinae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "True Vipers"
+                },
+                {
+                  "id": 30889,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529,
+                    30889
+                  ],
+                  "is_active": true,
+                  "name": "Vipera",
+                  "parent_id": 797529,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 321181329,
+                    "license_code": null,
+                    "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+                    "url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1280,
+                      "width": 1920
+                    },
+                    "flags": [],
+                    "attribution_name": "Titouan Roguet",
+                    "square_url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/321181329/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 38187,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 20,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Eurasian Vipers"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 30889,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 30889,
+              "name": "Vipera",
+              "parent_id": 797529,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2008-03-18T01:29:30+00:00",
+              "default_photo": {
+                "id": 321181329,
+                "license_code": null,
+                "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+                "url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                "original_dimensions": {
+                  "height": 1280,
+                  "width": 1920
+                },
+                "flags": [],
+                "attribution_name": "Titouan Roguet",
+                "square_url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/321181329/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 38187,
+              "photos_locked": false,
+              "universal_search_rank": 38187,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": 20,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Eurasian Vipers"
+            }
+          },
+          {
+            "id": 904530802,
+            "uuid": "566d2802-65a8-4c30-8c2c-a8adc72a3f42",
+            "user": {
+              "id": 2361625,
+              "login": "elapotinus",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2019-10-13T19:44:25+00:00",
+              "login_autocomplete": "elapotinus",
+              "login_exact": "elapotinus",
+              "name": null,
+              "name_autocomplete": null,
+              "orcid": null,
+              "icon": null,
+              "observations_count": 4,
+              "identifications_count": 228003,
+              "journal_posts_count": 0,
+              "activity_count": 228007,
+              "species_count": 3,
+              "annotated_observations_count": 0,
+              "universal_search_rank": 4,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": null
+            },
+            "created_at": "2026-10-11T12:16:16+03:00",
+            "created_at_details": {
+              "date": "2026-10-11",
+              "day": 11,
+              "month": 10,
+              "year": 2026,
+              "hour": 12,
+              "week": 41
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 114991,
+            "spam": false,
+            "taxon_id": 114991,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 114991,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 114991,
+              "name": "Vipera renardi",
+              "parent_id": 30889,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889,114991",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-08-04T09:49:19+00:00",
+              "default_photo": {
+                "id": 294028710,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "\u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 2,
+              "observations_count": 969,
+              "photos_locked": false,
+              "universal_search_rank": 969,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Steppe Viper",
+              "conservation_status": {
+                "id": 535125,
+                "place_id": null,
+                "source_id": 37,
+                "user_id": 477,
+                "authority": "IUCN Red List",
+                "status": "nt",
+                "status_name": "near threatened",
+                "geoprivacy": "open",
+                "iucn": 20
+              },
+              "ancestors": [
+                {
+                  "id": 1,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1
+                  ],
+                  "is_active": true,
+                  "name": "Animalia",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80678745,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/medium.jpg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 205508739,
+                  "flag_counts": {
+                    "resolved": 16,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Animal",
+                  "complete_rank": "order",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Animals"
+                },
+                {
+                  "id": 2,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2
+                  ],
+                  "is_active": true,
+                  "name": "Chordata",
+                  "parent_id": 1,
+                  "ancestry": "48460/1",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551845,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 80129543,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 79660,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Chordate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Chordates"
+                },
+                {
+                  "id": 355675,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675
+                  ],
+                  "is_active": true,
+                  "name": "Vertebrata",
+                  "parent_id": 2,
+                  "ancestry": "48460/1/2",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551642,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 79977422,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 76525,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vertebrate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Vertebrates"
+                },
+                {
+                  "id": 26036,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036
+                  ],
+                  "is_active": true,
+                  "name": "Reptilia",
+                  "parent_id": 355675,
+                  "ancestry": "48460/1/2/355675",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29214589,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/29214589/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 7893548,
+                  "flag_counts": {
+                    "resolved": 6,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12646,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Reptile",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Reptiles"
+                },
+                {
+                  "id": 26172,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172
+                  ],
+                  "is_active": true,
+                  "name": "Squamata",
+                  "parent_id": 26036,
+                  "ancestry": "48460/1/2/355675/26036",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 19063248,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Richard Stovall, some rights reserved (CC BY), uploaded by Richard Stovall",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1893,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Richard Stovall",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 6273740,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12248,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Squamata",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes and Lizards"
+                },
+                {
+                  "id": 85553,
+                  "rank": "suborder",
+                  "rank_level": 37,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553
+                  ],
+                  "is_active": true,
+                  "name": "Serpentes",
+                  "parent_id": 26172,
+                  "ancestry": "48460/1/2/355675/26036/26172",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 37451338,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/37451338/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 2392952,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 4244,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Snake",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes"
+                },
+                {
+                  "id": 30667,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667
+                  ],
+                  "is_active": true,
+                  "name": "Viperidae",
+                  "parent_id": 85553,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 209465106,
+                    "license_code": null,
+                    "attribution": "(c) Evan J Dittig, all rights reserved, uploaded by Evan J Dittig",
+                    "url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Evan J Dittig",
+                    "square_url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/209465106/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 385312,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 410,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Viperidae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Vipers"
+                },
+                {
+                  "id": 797529,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529
+                  ],
+                  "is_active": true,
+                  "name": "Viperinae",
+                  "parent_id": 30667,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 188224706,
+                    "license_code": "cc-by",
+                    "attribution": "(c) John Lyakurwa, some rights reserved (CC BY), uploaded by John Lyakurwa",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "John Lyakurwa",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 56109,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 96,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Viperinae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "True Vipers"
+                },
+                {
+                  "id": 30889,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529,
+                    30889
+                  ],
+                  "is_active": true,
+                  "name": "Vipera",
+                  "parent_id": 797529,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 321181329,
+                    "license_code": null,
+                    "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+                    "url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1280,
+                      "width": 1920
+                    },
+                    "flags": [],
+                    "attribution_name": "Titouan Roguet",
+                    "square_url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/321181329/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 38187,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 20,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Eurasian Vipers"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 114991,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889,
+                114991
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 114991,
+              "name": "Vipera renardi",
+              "parent_id": 30889,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889,114991",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-08-04T09:49:19+00:00",
+              "default_photo": {
+                "id": 294028710,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "\u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 2,
+              "observations_count": 969,
+              "photos_locked": false,
+              "universal_search_rank": 969,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Steppe Viper",
+              "conservation_status": {
+                "id": 535125,
+                "place_id": null,
+                "source_id": 37,
+                "user_id": 477,
+                "authority": "IUCN Red List",
+                "status": "nt",
+                "status_name": "near threatened",
+                "geoprivacy": "open",
+                "iucn": 20
+              }
+            }
+          }
+        ],
+        "project_observations": [],
+        "observation_photos": [
+          {
+            "id": 690679947,
+            "position": 0,
+            "uuid": "75266524-654a-42eb-804f-fcc8b514f565",
+            "photo_id": 748734284,
+            "photo": {
+              "id": 748734284,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 1280,
+                "height": 960
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748734284/square.jpg",
+              "attribution": "(c) \u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          },
+          {
+            "id": 690680001,
+            "position": 1,
+            "uuid": "1096471b-f734-4ecc-89d0-2666c576cd97",
+            "photo_id": 748734343,
+            "photo": {
+              "id": 748734343,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 1280,
+                "height": 960
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748734343/square.jpg",
+              "attribution": "(c) \u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          },
+          {
+            "id": 690680054,
+            "position": 2,
+            "uuid": "ee6b3216-89ad-473c-9768-90ac199e25de",
+            "photo_id": 748734401,
+            "photo": {
+              "id": 748734401,
+              "license_code": "cc-by",
+              "original_dimensions": {
+                "width": 1280,
+                "height": 960
+              },
+              "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748734401/square.jpg",
+              "attribution": "(c) \u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e, some rights reserved (CC BY)",
+              "flags": [],
+              "moderator_actions": [],
+              "hidden": false
+            }
+          }
+        ],
+        "photos": [
+          {
+            "id": 748734284,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1280,
+              "height": 960
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748734284/square.jpg",
+            "attribution": "(c) \u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          },
+          {
+            "id": 748734343,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1280,
+              "height": 960
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748734343/square.jpg",
+            "attribution": "(c) \u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          },
+          {
+            "id": 748734401,
+            "license_code": "cc-by",
+            "original_dimensions": {
+              "width": 1280,
+              "height": 960
+            },
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/748734401/square.jpg",
+            "attribution": "(c) \u0421\u0435\u0440\u0433\u0435\u0439 \u041a\u0440\u044b\u043b\u0435\u043d\u043a\u043e, some rights reserved (CC BY)",
+            "flags": [],
+            "moderator_actions": [],
+            "hidden": false
+          }
+        ],
+        "faves": [
+          {
+            "id": 15755105,
+            "vote_flag": true,
+            "vote_scope": null,
+            "user_id": 6446103,
+            "created_at": "2026-10-13T15:49:19.030+03:00",
+            "user": {
+              "id": 6446103,
+              "login": "vil05",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2023-01-20T14:11:50+00:00",
+              "login_autocomplete": "vil05",
+              "login_exact": "vil05",
+              "name": "",
+              "name_autocomplete": "",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/6446103/5d363ef1a3a8cc86bf6cbf161d6fd097-thumb.jpeg?1762253610",
+              "observations_count": 1537,
+              "identifications_count": 1182,
+              "journal_posts_count": 0,
+              "activity_count": 2719,
+              "species_count": 361,
+              "annotated_observations_count": 183,
+              "universal_search_rank": 1537,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/6446103/5d363ef1a3a8cc86bf6cbf161d6fd097-medium.jpeg?1762253610"
+            }
+          }
+        ],
+        "non_owner_ids": [
+          {
+            "id": 904510474,
+            "uuid": "3eae19a7-4378-4e69-a211-8fc9c2743112",
+            "user": {
+              "id": 10004680,
+              "login": "joshua_herps",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2025-12-06T18:58:27+00:00",
+              "login_autocomplete": "joshua_herps",
+              "login_exact": "joshua_herps",
+              "name": "Joshua Brockow",
+              "name_autocomplete": "Joshua Brockow",
+              "orcid": null,
+              "icon": "https://static.inaturalist.org/attachments/users/icons/10004680/40f6df151da8863970558b56d542eb30-thumb.jpeg?1792011422",
+              "observations_count": 2523,
+              "identifications_count": 26511,
+              "journal_posts_count": 0,
+              "activity_count": 29034,
+              "species_count": 30,
+              "annotated_observations_count": 102,
+              "universal_search_rank": 2523,
+              "roles": [],
+              "site_id": null,
+              "icon_url": "https://static.inaturalist.org/attachments/users/icons/10004680/40f6df151da8863970558b56d542eb30-medium.jpeg?1792011422"
+            },
+            "created_at": "2026-10-11T11:10:35+03:00",
+            "created_at_details": {
+              "date": "2026-10-11",
+              "day": 11,
+              "month": 10,
+              "year": 2026,
+              "hour": 11,
+              "week": 41
+            },
+            "body": "",
+            "category": "improving",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 30889,
+            "spam": false,
+            "taxon_id": 114991,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 114991,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 114991,
+              "name": "Vipera renardi",
+              "parent_id": 30889,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889,114991",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-08-04T09:49:19+00:00",
+              "default_photo": {
+                "id": 294028710,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "\u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 2,
+              "observations_count": 969,
+              "photos_locked": false,
+              "universal_search_rank": 969,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Steppe Viper",
+              "conservation_status": {
+                "id": 535125,
+                "place_id": null,
+                "source_id": 37,
+                "user_id": 477,
+                "authority": "IUCN Red List",
+                "status": "nt",
+                "status_name": "near threatened",
+                "geoprivacy": "open",
+                "iucn": 20
+              },
+              "ancestors": [
+                {
+                  "id": 1,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1
+                  ],
+                  "is_active": true,
+                  "name": "Animalia",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80678745,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/medium.jpg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 205508739,
+                  "flag_counts": {
+                    "resolved": 16,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Animal",
+                  "complete_rank": "order",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Animals"
+                },
+                {
+                  "id": 2,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2
+                  ],
+                  "is_active": true,
+                  "name": "Chordata",
+                  "parent_id": 1,
+                  "ancestry": "48460/1",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551845,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 80129543,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 79660,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Chordate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Chordates"
+                },
+                {
+                  "id": 355675,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675
+                  ],
+                  "is_active": true,
+                  "name": "Vertebrata",
+                  "parent_id": 2,
+                  "ancestry": "48460/1/2",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551642,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 79977422,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 76525,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vertebrate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Vertebrates"
+                },
+                {
+                  "id": 26036,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036
+                  ],
+                  "is_active": true,
+                  "name": "Reptilia",
+                  "parent_id": 355675,
+                  "ancestry": "48460/1/2/355675",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29214589,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/29214589/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 7893548,
+                  "flag_counts": {
+                    "resolved": 6,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12646,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Reptile",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Reptiles"
+                },
+                {
+                  "id": 26172,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172
+                  ],
+                  "is_active": true,
+                  "name": "Squamata",
+                  "parent_id": 26036,
+                  "ancestry": "48460/1/2/355675/26036",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 19063248,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Richard Stovall, some rights reserved (CC BY), uploaded by Richard Stovall",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1893,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Richard Stovall",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 6273740,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12248,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Squamata",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes and Lizards"
+                },
+                {
+                  "id": 85553,
+                  "rank": "suborder",
+                  "rank_level": 37,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553
+                  ],
+                  "is_active": true,
+                  "name": "Serpentes",
+                  "parent_id": 26172,
+                  "ancestry": "48460/1/2/355675/26036/26172",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 37451338,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/37451338/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 2392952,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 4244,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Snake",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes"
+                },
+                {
+                  "id": 30667,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667
+                  ],
+                  "is_active": true,
+                  "name": "Viperidae",
+                  "parent_id": 85553,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 209465106,
+                    "license_code": null,
+                    "attribution": "(c) Evan J Dittig, all rights reserved, uploaded by Evan J Dittig",
+                    "url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Evan J Dittig",
+                    "square_url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/209465106/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 385312,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 410,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Viperidae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Vipers"
+                },
+                {
+                  "id": 797529,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529
+                  ],
+                  "is_active": true,
+                  "name": "Viperinae",
+                  "parent_id": 30667,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 188224706,
+                    "license_code": "cc-by",
+                    "attribution": "(c) John Lyakurwa, some rights reserved (CC BY), uploaded by John Lyakurwa",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "John Lyakurwa",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 56109,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 96,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Viperinae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "True Vipers"
+                },
+                {
+                  "id": 30889,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529,
+                    30889
+                  ],
+                  "is_active": true,
+                  "name": "Vipera",
+                  "parent_id": 797529,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 321181329,
+                    "license_code": null,
+                    "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+                    "url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1280,
+                      "width": 1920
+                    },
+                    "flags": [],
+                    "attribution_name": "Titouan Roguet",
+                    "square_url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/321181329/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 38187,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 20,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Eurasian Vipers"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 30889,
+              "rank": "genus",
+              "rank_level": 20,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 30889,
+              "name": "Vipera",
+              "parent_id": 797529,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2008-03-18T01:29:30+00:00",
+              "default_photo": {
+                "id": 321181329,
+                "license_code": null,
+                "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+                "url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                "original_dimensions": {
+                  "height": 1280,
+                  "width": 1920
+                },
+                "flags": [],
+                "attribution_name": "Titouan Roguet",
+                "square_url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                "medium_url": "https://static.inaturalist.org/photos/321181329/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 1,
+              "observations_count": 38187,
+              "photos_locked": false,
+              "universal_search_rank": 38187,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": 20,
+              "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Eurasian Vipers"
+            }
+          },
+          {
+            "id": 904530802,
+            "uuid": "566d2802-65a8-4c30-8c2c-a8adc72a3f42",
+            "user": {
+              "id": 2361625,
+              "login": "elapotinus",
+              "spam": false,
+              "suspended": false,
+              "created_at": "2019-10-13T19:44:25+00:00",
+              "login_autocomplete": "elapotinus",
+              "login_exact": "elapotinus",
+              "name": null,
+              "name_autocomplete": null,
+              "orcid": null,
+              "icon": null,
+              "observations_count": 4,
+              "identifications_count": 228003,
+              "journal_posts_count": 0,
+              "activity_count": 228007,
+              "species_count": 3,
+              "annotated_observations_count": 0,
+              "universal_search_rank": 4,
+              "roles": [],
+              "site_id": 1,
+              "icon_url": null
+            },
+            "created_at": "2026-10-11T12:16:16+03:00",
+            "created_at_details": {
+              "date": "2026-10-11",
+              "day": 11,
+              "month": 10,
+              "year": 2026,
+              "hour": 12,
+              "week": 41
+            },
+            "body": null,
+            "category": "supporting",
+            "current": true,
+            "flags": [],
+            "own_observation": false,
+            "taxon_change": null,
+            "vision": false,
+            "disagreement": false,
+            "previous_observation_taxon_id": 114991,
+            "spam": false,
+            "taxon_id": 114991,
+            "hidden": false,
+            "moderator_actions": [],
+            "exemplar_identification": null,
+            "taxon": {
+              "id": 114991,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 114991,
+              "name": "Vipera renardi",
+              "parent_id": 30889,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889,114991",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-08-04T09:49:19+00:00",
+              "default_photo": {
+                "id": 294028710,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "\u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 2,
+              "observations_count": 969,
+              "photos_locked": false,
+              "universal_search_rank": 969,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Steppe Viper",
+              "conservation_status": {
+                "id": 535125,
+                "place_id": null,
+                "source_id": 37,
+                "user_id": 477,
+                "authority": "IUCN Red List",
+                "status": "nt",
+                "status_name": "near threatened",
+                "geoprivacy": "open",
+                "iucn": 20
+              },
+              "ancestors": [
+                {
+                  "id": 1,
+                  "rank": "kingdom",
+                  "rank_level": 70,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1
+                  ],
+                  "is_active": true,
+                  "name": "Animalia",
+                  "parent_id": 48460,
+                  "ancestry": "48460",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80678745,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80678745/medium.jpg"
+                  },
+                  "taxon_changes_count": 10,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 205508739,
+                  "flag_counts": {
+                    "resolved": 16,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": null,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Animal",
+                  "complete_rank": "order",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Animals"
+                },
+                {
+                  "id": 2,
+                  "rank": "phylum",
+                  "rank_level": 60,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2
+                  ],
+                  "is_active": true,
+                  "name": "Chordata",
+                  "parent_id": 1,
+                  "ancestry": "48460/1",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551845,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551845/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 80129543,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 79660,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Chordate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Chordates"
+                },
+                {
+                  "id": 355675,
+                  "rank": "subphylum",
+                  "rank_level": 57,
+                  "iconic_taxon_id": 1,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675
+                  ],
+                  "is_active": true,
+                  "name": "Vertebrata",
+                  "parent_id": 2,
+                  "ancestry": "48460/1/2",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 80551642,
+                    "license_code": "cc0",
+                    "attribution": "no rights reserved, uploaded by Abhas Misraraj",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "original_dimensions": {
+                      "height": 2000,
+                      "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Abhas Misraraj",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/80551642/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 79977422,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 1
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 76525,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vertebrate",
+                  "complete_rank": "species",
+                  "iconic_taxon_name": "Animalia",
+                  "preferred_common_name": "Vertebrates"
+                },
+                {
+                  "id": 26036,
+                  "rank": "class",
+                  "rank_level": 50,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036
+                  ],
+                  "is_active": true,
+                  "name": "Reptilia",
+                  "parent_id": 355675,
+                  "ancestry": "48460/1/2/355675",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 29214589,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/29214589/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/29214589/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 7893548,
+                  "flag_counts": {
+                    "resolved": 6,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12646,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Reptile",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Reptiles"
+                },
+                {
+                  "id": 26172,
+                  "rank": "order",
+                  "rank_level": 40,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172
+                  ],
+                  "is_active": true,
+                  "name": "Squamata",
+                  "parent_id": 26036,
+                  "ancestry": "48460/1/2/355675/26036",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 19063248,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Richard Stovall, some rights reserved (CC BY), uploaded by Richard Stovall",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1893,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Richard Stovall",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19063248/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 2,
+                  "observations_count": 6273740,
+                  "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 12248,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Squamata",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes and Lizards"
+                },
+                {
+                  "id": 85553,
+                  "rank": "suborder",
+                  "rank_level": 37,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553
+                  ],
+                  "is_active": true,
+                  "name": "Serpentes",
+                  "parent_id": 26172,
+                  "ancestry": "48460/1/2/355675/26036/26172",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 37451338,
+                    "license_code": null,
+                    "attribution": "(c) Matthieu Berroneau, all rights reserved",
+                    "url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "original_dimensions": {
+                      "height": 1133,
+                      "width": 1700
+                    },
+                    "flags": [],
+                    "attribution_name": "Matthieu Berroneau",
+                    "square_url": "https://static.inaturalist.org/photos/37451338/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/37451338/medium.jpg"
+                  },
+                  "taxon_changes_count": 1,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 2392952,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 4244,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Snake",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Snakes"
+                },
+                {
+                  "id": 30667,
+                  "rank": "family",
+                  "rank_level": 30,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667
+                  ],
+                  "is_active": true,
+                  "name": "Viperidae",
+                  "parent_id": 85553,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 209465106,
+                    "license_code": null,
+                    "attribution": "(c) Evan J Dittig, all rights reserved, uploaded by Evan J Dittig",
+                    "url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "original_dimensions": {
+                      "height": 1638,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Evan J Dittig",
+                    "square_url": "https://static.inaturalist.org/photos/209465106/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/209465106/medium.jpg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 385312,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 410,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Viperidae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Vipers"
+                },
+                {
+                  "id": 797529,
+                  "rank": "subfamily",
+                  "rank_level": 27,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529
+                  ],
+                  "is_active": true,
+                  "name": "Viperinae",
+                  "parent_id": 30667,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 188224706,
+                    "license_code": "cc-by",
+                    "attribution": "(c) John Lyakurwa, some rights reserved (CC BY), uploaded by John Lyakurwa",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1365,
+                      "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "John Lyakurwa",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/188224706/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 0,
+                  "observations_count": 56109,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 96,
+                  "wikipedia_url": "https://en.wikipedia.org/wiki/Viperinae",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "True Vipers"
+                },
+                {
+                  "id": 30889,
+                  "rank": "genus",
+                  "rank_level": 20,
+                  "iconic_taxon_id": 26036,
+                  "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    26172,
+                    85553,
+                    30667,
+                    797529,
+                    30889
+                  ],
+                  "is_active": true,
+                  "name": "Vipera",
+                  "parent_id": 797529,
+                  "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529",
+                  "extinct": false,
+                  "provisional": false,
+                  "default_photo": {
+                    "id": 321181329,
+                    "license_code": null,
+                    "attribution": "(c) Titouan Roguet, all rights reserved, uploaded by Titouan Roguet",
+                    "url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                    "original_dimensions": {
+                      "height": 1280,
+                      "width": 1920
+                    },
+                    "flags": [],
+                    "attribution_name": "Titouan Roguet",
+                    "square_url": "https://static.inaturalist.org/photos/321181329/square.jpeg",
+                    "medium_url": "https://static.inaturalist.org/photos/321181329/medium.jpeg"
+                  },
+                  "taxon_changes_count": 0,
+                  "taxon_schemes_count": 1,
+                  "observations_count": 38187,
+                  "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                  },
+                  "current_synonymous_taxon_ids": null,
+                  "atlas_id": null,
+                  "complete_species_count": 20,
+                  "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera",
+                  "complete_rank": "subspecies",
+                  "iconic_taxon_name": "Reptilia",
+                  "preferred_common_name": "Eurasian Vipers"
+                }
+              ]
+            },
+            "previous_observation_taxon": {
+              "id": 114991,
+              "rank": "species",
+              "rank_level": 10,
+              "iconic_taxon_id": 26036,
+              "ancestor_ids": [
+                48460,
+                1,
+                2,
+                355675,
+                26036,
+                26172,
+                85553,
+                30667,
+                797529,
+                30889,
+                114991
+              ],
+              "is_active": true,
+              "min_species_taxon_id": 114991,
+              "name": "Vipera renardi",
+              "parent_id": 30889,
+              "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+              "min_species_ancestry": "48460,1,2,355675,26036,26172,85553,30667,797529,30889,114991",
+              "extinct": false,
+              "provisional": false,
+              "created_at": "2011-08-04T09:49:19+00:00",
+              "default_photo": {
+                "id": 294028710,
+                "license_code": "cc-by-nc",
+                "attribution": "(c) \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "original_dimensions": {
+                  "height": 1536,
+                  "width": 2048
+                },
+                "flags": [],
+                "attribution_name": "\u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+                "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+                "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/medium.jpeg"
+              },
+              "taxon_changes_count": 0,
+              "taxon_schemes_count": 2,
+              "observations_count": 969,
+              "photos_locked": false,
+              "universal_search_rank": 969,
+              "flag_counts": {
+                "resolved": 1,
+                "unresolved": 0
+              },
+              "current_synonymous_taxon_ids": null,
+              "atlas_id": null,
+              "complete_species_count": null,
+              "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+              "complete_rank": "subspecies",
+              "iconic_taxon_name": "Reptilia",
+              "preferred_common_name": "Steppe Viper",
+              "conservation_status": {
+                "id": 535125,
+                "place_id": null,
+                "source_id": 37,
+                "user_id": 477,
+                "authority": "IUCN Red List",
+                "status": "nt",
+                "status_name": "near threatened",
+                "geoprivacy": "open",
+                "iucn": 20
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

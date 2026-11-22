@@ -1,0 +1,393 @@
+Tiger Snake - The Australian Museum (https://australian.museum/learn/animals/reptiles/tiger-snake/)
+ [wordlim: 200] Crawled: today; The Western Tiger Snake (Notechis scutatus ssp. occidentalis) is a venomous snake endemic to southwestern Western Australia and displays the characteristic dark grey-black dorsal scales with bold yellow crossbands. ... #### Identification ... View microCT scans of a Tiger snake (Notechis scutatus) from the Australian Museum Herpetology Collection (specimen AM R.81661).
+
+# Tiger Snake
+
+Scientific name: Notechis scutatus
+
+Similar species:
+Large banded individuals are fairly distinct and unlikely to be confused with anything else, except perhaps a banded form of Eastern Brown Snake Pseudonaja textilis. Juveniles could be mistaken for the Rough-scaled Snake Tropidechis carinata, or a Stephen’s Banded Snake Hoplocephalus stephensii. Patternless tiger snakes may resemble several other venomous snakes, e.g. Copperheads Austrelaps spp., Black Snakes Pseudechis spp.On Kangaroo Island, some specimens have a reddish belly, which has led them to be misidentified as Red-bellied Black Snakes Pseudechis porphyriacus.
+
+  * Author(s)
+    Cecilie Beatson
+  * Updated
+    16/07/26
+  * Read time
+    2 minutes
+
+Image: Eastern Tiger Snake hatchling (Notechis scutatus) Image: Eastern Tiger Snake hatchling (Notechis scutatus) Click to enlarge image Toggle Caption
+
+Eastern Tiger Snake, Notechis scutatus hatchling. Image: J M Cornish
+© Australian Museum
+
+### Fast Facts
+
+  * Classification
+
+Genus
+    Notechis
+Species
+    scutatus
+Family
+    Elapidae
+Suborder
+    Serpentes
+Order
+    Squamata
+Class
+    Reptilia
+Phylum
+    Chordata
+  * Number of Species
+    Debatable, possibly only one highly-variable species.
+  * Size Range
+    Total length varies between populations, ranging from 100cm (Roxby Island, South Australia) to 240cm (Chappell Island, Bass Strait). The average total length for mainland tiger snakes is around 1.2m, although they may reach up to 2.1m. In general, males appear to attain a larger size than females.
+  * Habitats
+    marsh, riparian, temperate, open forest, open heath, tussock grassland, woodland
+  * Life history mode
+    diurnal, terrestrial
+  * Feeding Habits
+    carnivorous
+
+#### Introduction
+
+Most Australians know of tiger snakes and are aware of their fearsome reputation, though few people will ever encounter one. Unfortunately this species is much maligned because of its aggressive nature and toxic venom; however the tiger snake should be recognised as a great survivor, superbly adapted to some of the most inhospitable environments in Australia.
+
+## What do Tiger Snakes look like?
+
+Image: A Western Tiger Snake coiled on dark soil, head raised with dark grey scales and yellow banding. Image: A Western Tiger Snake coiled on dark soil, head raised with dark grey scales and yellow banding. Toggle Caption
+
+The Western Tiger Snake (Notechis scutatus ssp. occidentalis) is a venomous snake endemic to southwestern Western Australia and displays the characteristic dark grey-black dorsal scales with bold yellow crossbands. Image: Jamie Dolphin
+CC BY-NC 4.0
+
+* * *
+
+#### Identification
+
+In the past, two species of tiger snakes were commonly recognised: the Eastern Tiger Snake Notechis scutatus, and the so-called Black Tiger Snake Notechis ater. However, morphological differences between the two appear inconsistent, and recent molecular studies have shown N. ater and N. scutatus to be genetically similar, hence it would seem that there is now just one wide-ranging species that varies greatly in size and colouration – Notechis scutatus.
+
+Despite this recent revision, the old classification is still in popular use and a number of subspecies are also recognised:
+
+  * Notechis ater ater – Krefft’s Tiger Snake (Flinders Ranges, South Australia)
+  * Notechis ater humphreysi – Tasmanian Tiger Snake (King Is. and Tasmania)
+  * Notechis ater niger – Peninsular Tiger Snake (lower Eyre and Yorke Peninsulas, offshore islands of South Australia)
+  * Notechis ater serventyi – Chappell Island Tiger Snake (Furneaux Group, Bass Strait)
+  * Notechis scutatus occidentalis (sometimes N. ater occidentalis) – Western Tiger Snake (southwest corner of Western Australia)
+  * Notechis scutatus scutatus – Eastern Tiger Snake (southeastern mainland Australia)
+
+The common name refers to the prominent yellow and black cross-bands typical of some populations of tiger snakes, however not all have this pattern. The most commonly seen form is dark olive brown to blackish-brown, with off-white to yellowish cross-bands that can vary in thickness. Entirely patternless individuals may occur in banded populations, and these types range in colour from yellowish-brown to black. Some populations consist of almost entirely unbanded individuals, e.g. those of the central highlands and southwest of Tasmania. Melanism (dark body colouration) is most strongly developed in populations exposed to highly variable weather conditions and cool extremes, such as those experienced at higher altitudes or on offshore islands. The dark colouration is an adaptation that allows those snakes to absorb heat at a faster rate during the short growing season.
+The head is moderately wide and deep and only slightly distinct from the robust, muscular body. The neck and upper body can be flattened to a considerable degree when performing a threat display, exposing the black skin between the relatively large, semi-glossy scales.
+
+Midbody scales 17-21 rows, ventral scales 140-190, single anal and subcaudal scales. A large squarish frontal shield, not or scarcely longer than broad, is characteristic of Notechis.
+
+--------------------------------------------------------------------------------
+1
+./ & I ./ I I
+I.
+. a f
+4 " I # & . j #. i,94<. 4 (https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/35/2017/03/Vol-25-No-2.pdf)
+ [wordlim: 200] Published: 2.3 years ago; Naja naja sputatrix Bow ... DESCRIPTION.-Rostral broader than high, very evident from
+1980 AUFFENBERG: KOMODO HERPETOLOGY 129
+FAMILY ELAPIDAE
+Naja naja sputatrix Bow
+Figure 45
+Naja sputatrix Boie 1827 :557 (Type locality: Java).
+Maia tripudians Lidth de Jeude, in Weber 1890:179.
+Naia tripudians var. sputatrix Boulenger 1896:384.
+Naja naja sputatrix Stejneger 1907:395.
+Naia naia Barbour 1912:30.
+Naja sputatrix malayae Deraniyagala 1960:223 (Type locality: Negri Sembilan,
+Malaysia).
+SPECIMENS EXAMINED.-(16) UF 32572, Nggoer Flores, 15 m; UF 39833, 28674,
+28679, Kali Besar, Loho Liang, Komodo, 30 m; UF 28673, 28677, 28680, 28678, Loho
+Liang, Komodo, i-30 m; UF 28675-76, Kampung Komodo, Komodo, 8 m; UF 28672,
+Sabita, Komodo, 8 m; AMNH 31957-59, Komodo, "near sea level," AMNH 31974-75,
+Komodo, 650 m.
+DESCRIPTION.-Rostral broader than high, very evident from
+above; internasals somewhat shorter than prefrontals, in contact with
+a single preocular; frontal about as long as its distance from rostral, as
+broad to slightly broader than supraocular; postoculars 3 (4 on one side
+of one specimen); temporals consistently 2+3; supralabials 7, of which
+numbers 3 and 4 enter eye; infralabials 9, first 4 in contact with first
+m=*fERS*>=a f.~3~
+.
+FIGURE 45.-Naja naja sputatiix (UF 28677), Loho Liang, Komodo, head and neck.--------------------------------------------------------------------------------
+A catalogue of the non-fossil amphibian and reptile type specimens in the collection of the Australian Museum: Types currently, previously and purportedly present (https://media.australian.museum/media/Uploads/Journals/17870/1290_complete.pdf)
+ [wordlim: 200] Published: 27.5 years ago; Crawled: last year; 66  Technical Reports of the Australian Museum (1999) No. ... = *Notechis scutatus* (Peters, 1861), synonymy made in this paper. ... The “diagnosis” was a description of the holotype, reidentification of two previously published photographs as this species, and an unsubstantiated statement of distribution and habitat preference.
+We follow Rawlinson (1991) in recognising only a single species of *Notechis* from New South Wales.
+
+= *Notechis scutatus* (Peters, 1861), synonymy made in this paper.
+
+**Notechis longmorei** Wells & Wellington, 1985
+
+*Aust. J. Herp., Suppl. (1): 46.*
+
+**HOLOTYPE** R74508 Lake George, Bungendore, NSW (R. Wells, x.1967).
+
+**Remarks.** Wells & Wellington gave the collectors as R. Wells & S. Harvey. The name is probably a *nomen nudum* (Shea, 1987a). The brief “diagnosis” referred only to a previous account of *Notechis scutatus* that did not indicate any differentiation within this taxon, together with an unsubstantiated statement of distribution and habitat preference. We follow Rawlinson (1991) in recognising only a single species of *Notechis* from New South Wales.
+
+= *Notechis scutatus* (Peters, 1861), synonymy made in this paper.
+
+**Notechis schwaneri** Wells & Wellington, 1985
+
+*Aust. J. Herp., Suppl. (1): 46.*
+
+**HOLOTYPE** R116990 Williams River, 4.5km above guest house in Barrington Tops National Park, NSW (J. Trudgeon, 4.i.1977).
+
+**Remarks.** Holotype originally cited by field number only. The “diagnosis” was largely a description of the holotype. We follow Rawlinson (1991) in recognising only a single species of *Notechis* from New South Wales.
+
+= *Notechis scutatus* (Peters, 1861), synonymy made in this paper.
+
+**Panacedechis worrelli**  
+Wells & Wellington, 1985
+
+*Aust. J. Herp., Suppl. (1): 47.*
+
+**HOLOTYPE** R116985 Warrumbungle Mtns, NSW (I. Archibald, 1972).
+
+**Remarks.** Holotype originally cited by field number only. The “diagnosis” was a description of the holotype, reidentification of two previously published photographs as this species, and an unsubstantiated statement of distribution and habitat preference. In the absence of a workable diagnosis, we synonymise the name.
+
+= *Pseudechis guttatus* De Vis, 1905, synonymy made in this paper.
+
+**Parasuta harveyi** Wells & Wellington, 1985
+
+*Aust. J. Herp., Suppl. (1): 47.*
+
+**HOLOTYPE** R74469 Lake George, Bungendore, NSW (R. Wells & S. Harvey, x.1967).
+--------------------------------------------------------------------------------
+MCZbase MCZ:Herp:R-18237 specimen record | MCZbase (https://mczbase.mcz.harvard.edu/guid/MCZ%3AHerp%3AR-18237)
+ [wordlim: 200] Crawled: last week; ## Naja pallida Boulenger, 1896 ... Current Identification ... Naja nigricollis Reinhardt, 1843
+
+# MCZ Herpetology R-18237
+
+## Naja pallida Boulenger, 1896
+
+Date Collected:
+
+## 1916-02
+
+## Africa: Tanzania: Arusha | Longido West
+
+occurrenceID: https://mczbase.mcz.harvard.edu/guid/MCZ:Herp:R-18237
+
+### [Button: Cataloged Item ]
+
+  * Collection: Herpetology
+  * Catalog Number: R-18237
+  * GUID: MCZ:Herp:R-18237
+
+### [Button: Identifications ]
+
+Current Identification
+
+Naja pallida Boulenger, 1896
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+
+Common Name(s): African Cobra; Red Spitting Cobra
+
+Determiner: Donald G. Broadley
+
+Nature of ID: migration
+
+Remarks: fide Broadley 1968, per systematic cards
+
+Previous Identifications
+
+Naia nigricollis salmon
+
+Animalia Chordata Reptilia
+
+Determiner: Catalog
+
+Nature of ID: migration
+
+Remarks: Catalog/1997
+
+Naja nigricollis Reinhardt, 1843
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Elapoidea Elapidae
+
+Common Name(s): Black-necked Spitting Cobra
+--------------------------------------------------------------------------------
+Republic of Zambia (https://snakesafetyzambia.com/wp-content/uploads/2024/11/guidelines-snakebite-in-zambia-draft16-1.pdf)
+ [wordlim: 200] Published: 1.9 years ago; MANAGEMENT OF SNAKEBITE IN ZAMBIA ... Mozambique Spitting Cobra – Naja mossambica ... Description:
+GUIDELINES FOR THE PREVENTION AND 
+MANAGEMENT OF SNAKEBITE IN ZAMBIA
+2.1.3.	Mozambique Spitting Cobra – Naja mossambica
+2.1.3. Mozambique Spitting Cobra – Naja  | mossambica
+--- | ---
+Length:
+Average 80-130 cm.
+Maximum 150 cm.  | 
+Description:
+Brown with black interstitial skin (fish net-
+like effect/ black skin between the scales).
+Pale throat with black bars and patches.
+Black edges on pale cheek-scales. Spreads
+a broad hood in threat display. Can spit
+venom as well as bite.  | 
+Clinical Toxinology: Potently cytotoxic
+with potential mild neurotoxicity. Spits
+and bites. Severe local pain, swelling,
+tissue necrosis. Eye envenoming  | 2.1.4.	Black Mamba – Dendroaspis polylepis
+Length:
+Average: 200-300 cm.
+Maximum 400 cm.  | 
+--- | ---
+Description:
+Long, slender, swift snake. Olive brown to
+greyish brown. No markings. May have
+slashed barring or spots or both towards
+the tail. Relatively small head. May rear up
+and spread a narrow hood. Opens mouth
+in threat display besides narrow ‘hooding’.  | 
+Clinical Toxinology:
+Potently neurotoxic  | 15--------------------------------------------------------------------------------
+Search: species: Notechis scutatus | Occurrence records | Online Zoological Collections of Australian Museums (https://ozcam.ala.org.au/occurrences/search?taxa=Notechis+scutatus)
+ [wordlim: 200] Crawled: last week; Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.202502.003 View record ... Species:  Notechis scutatus |  Tiger Snake Year: 1879 State: Western Australia
+
+Species:  Notechis scutatus |  Tiger Snake Date: 2023-09-05 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.202502.003 View record
+
+Species:  Notechis scutatus |  Tiger Snake Year: 1879 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.189912 View record
+
+Species:  Notechis scutatus |  Tiger Snake Date: 2020-12-10 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.188156 View record
+
+Species:  Notechis scutatus |  Tiger Snake Year: 1879 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.189911 View record
+
+Species:  Notechis scutatus |  Tiger Snake Date: 2023-09-05 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.202502.002 View record
+
+Species:  Notechis scutatus |  Tiger Snake Year: 1879 State: Western Australia
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.189915 View record
+
+Species:  Notechis scutatus |  Tiger Snake Date: 2020-12-10 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.188156.002 View record
+
+Species:  Notechis scutatus |  Tiger Snake Year: 1879 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.189914 View record
+
+Species:  Notechis scutatus |  Tiger Snake Year: 1879 State: Tasmania
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.189916 View record
+
+Species:  Notechis scutatus |  Tiger Snake Date: 2023-09-05 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.202502 View record
+
+Species:  Notechis scutatus |  Tiger Snake Year: 1879 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.189913 View record
+
+Species:  Notechis scutatus |  Tiger Snake Date: 2023-09-05 State: New South Wales
+
+Institution: Australian Museum Collection: Australian Museum Herpetology Collection Basis of record: Preserved specimen Catalogue number: Herpetology:R.202502.001 View record--------------------------------------------------------------------------------
+Studies in Australian Reptiles (https://journals.australian.museum/media/Uploads/Journals/17096/864_complete.pdf)
+ [wordlim: 200] Published: 17.9 years ago; Crawled: last year; 146  RECORDS OF THE AUSTRALIAN MUSEUM
+
+I propose calling the variety before me *Notechis scutatus*, var. *niger*, and it may be distinguished from *N. scutatus* not only by its colour but by having the chin shields equal in length, while in the latter species (as shown throughout the series) the posterior are distinctly longer than the anterior. ... *—Deep Creek, 20 miles from Kingscote, Kangaroo Island, South Australia.
+146  RECORDS OF THE AUSTRALIAN MUSEUM
+
+I propose calling the variety before me *Notechis scutatus*, var. *niger*, and it may be distinguished from *N. scutatus* not only by its colour but by having the chin shields equal in length, while in the latter species (as shown throughout the series) the posterior are distinctly longer than the anterior.
+
+*Description.*—Eye longer than high, as long as its distance from the mouth, half as long as its distance from the end of the snout. Pupil round. Rostral broader than deep, the portion visible from above about two thirds as long as the suture between the prefrontals. Internasals once and one half as broad as deep, and about half the size of the prefrontals, which bend down over the side of the snout forming oblique sutures with the nasals. Frontal once and one sixth as long as broad, twice as broad as the supraoculars on a line drawn across their centre; it is as long as the suture formed by the junction of the parietals and not quite so long as its distance from the one of the snout. --------------------------------------------------------------------------------
+Notechis scutatus (Peters, 1861), Tiger Snake (https://collections.museumsvictoria.com.au/species/8791)
+ [wordlim: 200] Crawled: today; Notechis scutatus, Tiger Snake. ... South-eastern mainland Australia, from south-eastern Queensland, through New South Wales and Victoria to south-eastern South Australia, and Tasmania.
+--------------------------------------------------------------------------------
+Rec. West. Aust. Mus. 1982,9 (4): 325-340 (https://museum.wa.gov.au/sites/default/files/THE%20GENUS%20NOTECHIS%20%28SERPENTES%20ELAPIDAE%29%20IN%20WESTERN%20AUSTRALIA.pdf)
+ [wordlim: 200] Published: last year; Southern Australia, including Tasmania. ... thereby conserving the combination Notechis scutatus for its most dangerous
+--------------------------------------------------------------------------------
+Record: Herpetology:QVM:2023:3:0066 | Occurrence record | Online Zoological Collections of Australian Museums (https://ozcam.ala.org.au/occurrences/c2201715-d147-49ab-a021-62f3dd303fd5)
+ [wordlim: 200] Crawled: last month; Classification  | Scientific name  | Notechis scutatus  | Notechis scutatus ... Identification  | Identified by  | [Fearn, S]  | ... Attribution  | Data resource  |  | Queen Victoria Museum Art Gallery provider for OZCAM ... Data partner  |  | OZCAM (Online Zoological Collections of Australian Museums) Provider ... Location  | Country  | Australia  | Australia
+--------------------------------------------------------------------------------
+The Herpetological Bulletin 148, 2019: 22-25 (https://www.thebhs.org/publications/the-herpetological-bulletin/issue-number-148-summer-2019/1956-supplementary-materials-for-4-spitting-behaviour-in-the-chinese-cobra-i-naja-atra-i/file)
+ [wordlim: 200] Published: 7.4 years ago; Crawled: 2 weeks ago; ## LEPIDOSIS OF FEMALE NAJA ATRA AND NAJA SPUTATRIX
+
+Given that there is potentially considerable variation in morphology, including in the fang structure (Wüster & Thorpe, 1992), within species that occupy a very wide geographical range, information about the lepidosis of the two cobra species used in this study are reported below.
+--------------------------------------------------------------------------------
+Taxon resources: Notechis scutatus - Biodiversity database - AADC (https://data.aad.gov.au/aadc/biodiversity/taxon_resources.cfm?taxon_id=1158)
+ [wordlim: 200] Crawled: 2 months ago; Perfom a free-text of this site for Notechis scutatus Eastern or Mainland Tiger Snake
+--------------------------------------------------------------------------------
+Record: Herpetology:R.202502 | Occurrence record | Online Zoological Collections of Australian Museums (https://ozcam.ala.org.au/occurrences/68825401-364d-4da9-956f-fb9a197ae095)
+ [wordlim: 200] Published: 3.2 years ago; Crawled: 2 months ago; Preserved specimen of Notechis scutatus (Peters, 1861) | Tiger Snake recorded on 2023-09-05 ... Data resource  | Australian Museum provider for OZCAM
+--------------------------------------------------------------------------------
+Tiger snake (Notechis scutatus) | AROD (https://arod.com.au/arod/reptilia/Squamata/Elapidae/Notechis/scutatus/)
+ [wordlim: 200] Published: 9.4 years ago; Crawled: 3 weeks ago;  | Image: tiger snake (Notechis scutatus) ... Australian Capital Territory, New South Wales, Queensland, South Australia, Tasmania, Victoria, Western Australia
+--------------------------------------------------------------------------------
+notechis scutatus | The Reptile Database (https://reptile-database.reptarium.cz/front.front/species?genus=notechis&species=scutatus)
+ [wordlim: 200] Crawled: 2 months ago; Effect of sudden loss of vision on foraging behavior in captive born Tiger Snakes, Notechis scutatus (Serpentes: Elapidae)Skin sheds as a useful DNA source for lizard conservation. ... Western Australian Naturalist 1: 139-141 - get paper here ... An annotated list of reptiles and amphibians from the 1905 Hamburg expedition to southwest Australia deposited in the Zoological Museum Hamburg.
+--------------------------------------------------------------------------------
+Notechis scutatus (Peters, 1861) (https://collections.museumsvictoria.com.au/specimens/312544)
+ [wordlim: 200] Crawled: last month; # Specimen D 33276 Notechis scutatus (Peters, 1861) ... Australia
+--------------------------------------------------------------------------------
+Our Wondrous Planet, Our Wild Family: Cast - Tiger Snake, Notechis scutatus (Peters, 1861) (https://collections.museumsvictoria.com.au/specimens/2492305)
+ [wordlim: 200] Crawled: last month; Coventry - Museum Victoria ... No Image specimen D 69784 Notechis scutatus (Peters, 1861) Herpetology Common nameTiger SnakeSpecimen natureSpiritHigher taxonomyChordata, Reptilia, SquamataCollectedAustralia, Victoria
+--------------------------------------------------------------------------------
+Red Spitting Cobra | Herpeton Academy (https://academy.herpeton.net/qr/en/naja-pallida/)
+ [wordlim: 200] Published: 2 months ago; Crawled: 3 weeks ago; Naja pallida is the currently accepted scientific name. The historically important combination Naja nigricollis pallida still appears in older literature. ... Identification must use reliable provenance and diagnostic characters rather than colour alone; locality records are especially important where related elapids overlap.
+
+#### 📌 Description
+--------------------------------------------------------------------------------
+Red spitting cobra (https://en.wikipedia.org/wiki/Red_spitting_cobra)
+ [wordlim: 200] Crawled: 4 months ago; Naja nigricollis pallida Boulenger, 1896 ... ## Description ... The red spitting cobra is closely related and forms a sister taxon with the Nubian spitting cobra (Naja nubiae) of northeastern Africa, which was originally considered a northern population of N. m. pallida before being recognized as a distinct species in 2003.
+--------------------------------------------------------------------------------
+What's an M'fezi? - YouTube (https://www.youtube.com/watch?v=GrF7cKO2kY8)
+ [wordlim: 200] Published: 3.2 years ago; Crawled: 9 months ago; By: African Snakebite Institute (29100 followers) ... The Mozambique Spitting Cobra (Naja mossambica), also known as the M'fezi, occurs from the KZN south coast northwards into Swaziland, Mozambique, Mpumalanga, Gauteng, Limpopo, Northwest and further northward into Zimbabwe, Botswana and Namibia. ... #snake #mozambiquespittingcobra #naja #cobra #najamossambica #snakes #snakesofsouthernafrica #africansnakebiteinstitute #spittingcobra #shorts #shortsviral #venomous #venomoussnakes #africansnakebiteinstitute #reptiles
+# What's an M'fezi?
+By: African Snakebite Institute (29100 followers)
+Published: 2023-08-22, 2707 views, 79 likes
+
+## Description
+The Mozambique Spitting Cobra (Naja mossambica), also known as the M'fezi, occurs from the KZN south coast northwards into Swaziland, Mozambique, Mpumalanga, Gauteng, Limpopo, Northwest and further northward into Zimbabwe, Botswana and Namibia. 
+
+It is locally abundant, an active hunter and often ends up in homes where people are bitten while asleep. This is not a case where the snake is accidentally rolled over onto while people are asleep or seeking heat - it is hunting for food and mistaking people for a meal. There are many case histories with lots of babies also being bitten in the face, chest or on the arms or hands and this happens both where people sleep on the floor and in luxury game lodges. 
+The venom of this snake is potently cytotoxic causing pain, swelling and tissue damage that, in many cases, requires extensive surgery afterwards. Fatalities in adults are rare as the venom is slow in acting and does not have dramatic neurotoxic effects. 
+
+When required, large quantities of polyvalent antivenom needs to be administered sooner rather than later, as after about six hours the antivenom seems to have limited effect. 
+Ensure that your doors seal well, that they do not have gaps under them and do not sleep with sliding doors open. In high risk areas people are advised to sleep under mosquito nets.
+
+#snake #mozambiquespittingcobra #naja #cobra #najamossambica #snakes #snakesofsouthernafrica #africansnakebiteinstitute #spittingcobra #shorts #shortsviral #venomous #venomoussnakes #africansnakebiteinstitute #reptiles
+--------------------------------------------------------------------------------
+Bites by Mozambique Spitting Cobras - YouTube (https://www.youtube.com/watch?v=SzwWmKbEsIs)
+ [wordlim: 200] Published: 2.7 years ago; Crawled: 2 months ago; By: African Snakebite Institute (31700 followers) ... ## Description
+The Mozambique Spitting Cobra (Naja mossambica) has a nasty habit of accidentally ending up in people's houses and often in rural areas ends up biting people while they sleep.
+--------------------------------------------------------------------------------
+Cobra cracheur rouge (https://fr.wikipedia.org/wiki/Cobra_cracheur_rouge)
+ [wordlim: 200] Crawled: last week; * Naja nigricollis var. pallida Boulenger, 1896 ... ## Description ... * (en) Animal Diversity Web : Naja pallida
+--------------------------------------------------------------------------------
+Javan spitting cobra (https://en.wikipedia.org/wiki/Javan_spitting_cobra)
+ [wordlim: 200] Crawled: 6 months ago; The generic name Naja is a Latinisation of the Sanskrit word nāgá (नाग), meaning "cobra". ... ## Description ... (Naja sputatrix, new species, p.
+--------------------------------------------------------------------------------
+Mozambique spitting cobra (https://en.wikipedia.org/wiki/Mozambique_spitting_cobra)
+ [wordlim: 200] Crawled: 6 months ago; ## Description ... Naja mossambica is the most common cobra of the savanna regions of tropical and subtropical Africa. ... Naja mossambica is considered one of the most dangerous snakes in Africa. ... Its bite causes severe local tissue destruction (similar to that of the puff adder). ... African Herp News. p.
+--------------------------------------------------------------------------------
+Naja sputatrix (https://es.wikipedia.org/wiki/Naja_sputatrix)
+ [wordlim: 200] Crawled: 7 months ago; Naja sputatrix
+--------------------------------------------------------------------------------
+Rote Speikobra (https://de.wikipedia.org/wiki/Rote_Speikobra)
+ [wordlim: 200] Crawled: 4.7 years ago; Die Rote Speikobra (Naja pallida) zählt innerhalb der Familie der Giftnattern (Elapidae) zur Gattung der Echten Kobras (Naja). ... Broadley: The phylogeny of cobras inferred from mitochondrial DNA sequences: Evolution of venom spitting and the phyleogeography of the African spitting cobras (Serpentes: Elapidae: Naja nigricollis complex).
+--------------------------------------------------------------------------------
+Please help ID this big dude (https://www.reddit.com/r/AustralianSnakes/comments/17iajgn)
+ [wordlim: 200] Published: 3.1 years ago; Crawled: 1.8 years ago; It’s a Tiger snake - Notechis scutatus - it doesn’t have a location which often assists in identification
+--------------------------------------------------------------------------------
+What’s this? (https://www.reddit.com/r/AustralianSnakes/comments/1scq4uf/whats_this/)
+ [wordlim: 200] Published: 7 months ago; Melbourne, Australia ...     I can’t see the head but probably a tiger snake (Notechis scutatus)
+--------------------------------------------------------------------------------
+ID Verification: Mozambique Spitting Cobra? [Limpopo Province, South Africa] (https://www.reddit.com/r/whatsthissnake/comments/xwabnh/id_verification_mozambique_spitting_cobra_limpopo/)
+ [wordlim: 200] Published: 4.1 years ago; Crawled: 7 months ago;   Mozambique Spitting Cobras *Naja mossambica* are medium-large (80-130cm, up to 162cm) elapids that range from eastern and southern Tanzania south to the eastern coast of South Africa, and west into southwestern Angola, from near sea level up to 1,800m above sea level. ...   Dangerously venomous, *N. mossambica* should only be observed from a safe distance.
+--------------------------------------------------------------------------------
+Saw this danger noodle on a trip to South Africa a few months back. (https://www.reddit.com/r/whatsthissnake/comments/vxy8jw)
+ [wordlim: 200] Published: 4.4 years ago; Crawled: 2.4 years ago;   I'd guess this to be *Naja mossambica*, but would like a location to confirm ... Mozambique spitting cobra, *Naja mossambica*, as suggested by u/Herpetotime, is correct. ... It’s a Mozambique spitting Cobra.
+

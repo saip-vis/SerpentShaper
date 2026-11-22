@@ -120,8 +120,11 @@ def build(root, catalog, extracted, notes):
         if supplement:
             for key in DESCRIPTIVE_FIELDS:
                 if key in supplement['traits']:
-                    descriptions[key] = {'text': supplement['traits'][key], 'source_url': supplement['source_url'],
-                                         'scope': supplement.get('evidence_scope', 'species_description')}
+                    reference = supplement.get('trait_references', {}).get(key, {})
+                    descriptions[key] = {'text': supplement['traits'][key],
+                        'source_url': reference.get('source_url', supplement['source_url']),
+                        'scope': reference.get('scope', supplement.get('evidence_scope', 'species_description')),
+                        'source_locator': reference.get('locator')}
         starter_document = starter['profile_document'] if species['species_id'] in starters else None
         fields_missing = [key for key, value in descriptions.items() if value is None]
         controls = sorted({control for key, value in descriptions.items() if value for control in CONTROLS[key]})
@@ -180,6 +183,10 @@ def render_markdown(profiles, summary):
             text = description['text'] + f" [Source]({description['source_url']})" if description else 'No species-specific description extracted for this field; leave unknown.'
             lines.append(f'- **{key.capitalize()}:** {text}')
         lines += ['', '### Variation, limits and proposed rendering controls', '']
+        if p.get('illustration_specification'):
+            spec = p['illustration_specification']
+            lines.append('- **Illustration readiness:** ' + spec['status'].replace('_', ' ') +
+                         '. Not scientifically approved. See `config/illustration_specifications.json` and `reports/illustration_readiness.json`.')
         if p['taxonomy_note']:
             lines.append(f"- **Taxonomy:** {p['taxonomy_note']} [Reference]({p['supplemental_reference']})")
         if p['source_caveat']:
@@ -204,6 +211,24 @@ def main():
     if set(notes) - names:
         raise ValueError('Supplement contains names outside the catalog')
     profiles = build(ROOT, catalog, extracted, notes)
+    illustration = json.loads((ROOT / 'config/illustration_specifications.json').read_text())
+    by_id = {p['species_id']: p for p in profiles}
+    for species_id, brief in illustration['species'].items():
+        if species_id not in by_id or brief['source_species_name'] != by_id[species_id]['source_species_name']:
+            raise ValueError('Illustration brief does not match catalog identity: ' + species_id)
+    audit = []
+    for p in profiles:
+        brief = illustration['species'].get(p['species_id'])
+        gaps = [key for key in DESCRIPTIVE_FIELDS if p['descriptions'][key] is None]
+        p['illustration_specification'] = {
+            'path': 'config/illustration_specifications.json',
+            'species_key': p['species_id'] if brief else None,
+            'status': brief['status'] if brief else 'illustration_brief_not_written',
+            'scientific_reference_approved': False,
+            'unextracted_description_fields': gaps,
+            'starter_companion_requires_manual_consultation': p['starter_profile_document'] is not None}
+        audit.append({'species_id': p['species_id'], 'source_species_name': p['source_species_name'],
+                      **p['illustration_specification']})
     summary = {'catalog_labels': len(profiles),
         'workbook_matches': sum(p['compilation_match']['row'] is not None for p in profiles),
         'with_descriptive_traits': sum(any(p['descriptions'].values()) for p in profiles),
@@ -213,7 +238,7 @@ def main():
         'with_juvenile_statistic_conflict': sum(bool(p['issues']) for p in profiles),
         'compilation_only_labels': [p['source_species_name'] for p in profiles if p['coverage']['status'] == 'compilation_only'],
         'unresolved_reference_labels': [p['source_species_name'] for p in profiles if p['coverage']['status'] == 'unresolved_reference']}
-    inputs = [WORKBOOK, EXTRACT, 'config/morphology_notes.json', 'evidence/starter_species_physical_profiles.json', 'docs/StarterSpeciesPhysicalProfiles.md', 'data/processed/species_catalog/catalog.json']
+    inputs = [WORKBOOK, EXTRACT, 'config/morphology_notes.json', 'config/illustration_specifications.json', 'evidence/starter_species_physical_profiles.json', 'docs/StarterSpeciesPhysicalProfiles.md', 'data/processed/species_catalog/catalog.json']
     result = {'schema_version': 1, 'status': 'reference_profiles_with_explicit_gaps',
         'sources': {'publication': PUBLICATION, 'dataset': DATASET, 'workbook': WORKBOOK},
         'inputs': [{'path': p, 'sha256': sha(ROOT / p)} for p in inputs],
@@ -222,6 +247,10 @@ def main():
         'summary': summary, 'profiles': profiles}
     write_json(ROOT / 'data/processed/morphology/physical_profiles.json', result)
     write_json(ROOT / 'reports/morphology_coverage.json', summary)
+    write_json(ROOT / 'reports/illustration_readiness.json', {
+        'scope': 'Specification audit, not an image review or anatomical validation.',
+        'catalog_labels': len(profiles), 'briefs_written': len(illustration['species']),
+        'scientific_reference_approved': 0, 'species': audit})
     docs = ROOT / 'docs/physical_profiles'
     docs.mkdir(parents=True, exist_ok=True)
     (docs / 'AllSpeciesPhysicalProfiles.md').write_text(render_markdown(profiles, summary))

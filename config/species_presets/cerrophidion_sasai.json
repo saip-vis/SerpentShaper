@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "preset_id": "cerrophidion_sasai",
+  "species_id": "source_5992e7d56944011b",
+  "source_species_name": "Cerrophidion sasai",
+  "common_name": "Costa Rica Montane Pitviper",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown/gold-eyed individual with dark irregular body mottling and a pale-bordered eye stripe.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://icp.ucr.ac.cr/index.php/en/information-and-materials/venomous-snakes-costa-rica/cerrophidion-sasai",
+        "scope": "Existing source profile; not yet applied to this template."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_055_cerrophidion_sasai/manifest.json",
+        "image_id": "inat_703021",
+        "sha256": "59a8c4a2db0015cdb7f9e969aafaa5ddae2f3f5d2fc09d067879c61ad2276e28",
+        "use": "Qualitative anatomical reference; provider identification is not expert confirmation."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_055_cerrophidion_sasai/manifest.json",
+        "image_id": "inat_198528234",
+        "sha256": "cd71bb1647985b6673dcf04f391d9754c062966dfe48a935b5366f84a99833d1",
+        "use": "Qualitative anatomical reference; provider identification is not expert confirmation."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_055_cerrophidion_sasai/manifest.json",
+        "image_id": "inat_309127958",
+        "sha256": "bfc8b4a93bb5d9bca5b9ba2f374834156fc95576939a06cdbaeeb17895854fac",
+        "use": "Qualitative anatomical reference; provider identification is not expert confirmation."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_703021": "Brown head in oblique view, gold eye, dark eye stripe and coarse body markings.",
+      "inat_198528234": "Dorsal body and taper of a brown individual.",
+      "inat_309127958": "Grey form with clearly visible tail; color varies."
+    },
+    "unextracted_fields": [
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; requires further visual revision and independent anatomical review.",
+    "modeling_flags": [
+      "Grey and brown variants appear in the references; this is only one individual-style depiction.",
+      "Ventral surface and precise opposite-side markings remain unverified.",
+      "The shared open-S pose and procedural texture remain illustrative; this does not establish a calibrated or complete three-dimensional reconstruction."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Brown head in oblique view, gold eye, dark eye stripe and coarse body markings.",
+        "Dorsal body and taper of a brown individual.",
+        "Grey form with clearly visible tail; color varies.",
+        "Rendered comparison: shortened the apparent tail by extending the trunk and adjusted the rear skull envelope; further proportions and pattern require review."
+      ],
+      "projection_limit": "One projected 2D pose; controls are artistic, not biological measurements.",
+      "reference_ids": [
+        "inat_703021",
+        "inat_198528234",
+        "inat_309127958"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "mottled",
+    "skin_color": "#a27e5d",
+    "marking_color": "#534334",
+    "belly_color": "#d9bc99",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.6,
+    "mark_spacing": 46,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 65,
+      "neck": 8,
+      "upper": [
+        [
+          0,
+          0.0,
+          -1,
+          -4.6,
+          6,
+          -9.2,
+          18,
+          -10.35
+        ],
+        [
+          18,
+          -10.35,
+          29,
+          -13.8,
+          43,
+          -17.25,
+          53,
+          -14.95
+        ],
+        [
+          53,
+          -14.95,
+          60,
+          -11.5,
+          62,
+          -8,
+          65,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0.0,
+          1,
+          4.48,
+          8,
+          7.84,
+          20,
+          8.96
+        ],
+        [
+          20,
+          8.96,
+          32,
+          11.2,
+          46,
+          13.44,
+          54,
+          11.2
+        ],
+        [
+          54,
+          11.2,
+          59,
+          9.41,
+          62,
+          8,
+          65,
+          8
+        ]
+      ],
+      "eye": [
+        25,
+        -2.8,
+        3.2,
+        3.4
+      ],
+      "nostril": [
+        6,
+        -1.3
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q22.8 6 44.2 7.5 L58.5 3.8",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M25.4 -1 Q36.4 1 50.7 5 L52.0 9 Q36.4 5 25.4 2 Z",
+          "fill": "#3b3029",
+          "opacity": 0.94
+        },
+        {
+          "path": "M27.3 3 Q39.0 6 50.7 9",
+          "stroke": "#dfc29a",
+          "width": 1.2
+        }
+      ],
+      "micro_scales": true,
+      "iris_color": "#d6a553",
+      "pit": [
+        15.5,
+        0.8
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.2
+      ],
+      [
+        258,
+        227,
+        12
+      ],
+      [
+        305,
+        249,
+        17
+      ],
+      [
+        390,
+        271,
+        20
+      ],
+      [
+        471,
+        302,
+        21
+      ],
+      [
+        514,
+        347,
+        20
+      ],
+      [
+        502,
+        397,
+        20
+      ],
+      [
+        430,
+        431,
+        19
+      ],
+      [
+        330,
+        445,
+        18
+      ],
+      [
+        253,
+        476,
+        17
+      ],
+      [
+        253,
+        515,
+        16
+      ],
+      [
+        324,
+        550,
+        14
+      ],
+      [
+        400,
+        555,
+        11
+      ],
+      [
+        460,
+        546,
+        7
+      ],
+      [
+        510,
+        528,
+        3
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

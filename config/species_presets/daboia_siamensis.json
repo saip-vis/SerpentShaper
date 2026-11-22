@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "preset_id": "daboia_siamensis",
+  "species_id": "source_1818617505179142",
+  "source_species_name": "Daboia siamensis",
+  "common_name": "Siamese Russell's Viper",
+  "status": "illustrative_unvalidated",
+  "variant": "Grey eastern Russell\u2019s viper form with dark-outlined ovals.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.thebhs.org/publications/the-herpetological-journal/volume-17-number-4-october-2007/497-01-phylogeography-of-the-russell-s-viper-i-daboia-russelii-i-complex-in-relation-to-variation-in-the-colour-pattern-and-symptoms-of-envenoming/file",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Daboia/siamensis",
+        "scope": "Species-level morphology or taxonomy; variation and identity require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_070_daboia_siamensis/manifest.json",
+        "image_id": "inat_427865561",
+        "sha256": "f5bf9c3e65cb1b3f3fb28ade3507038508ae2948fa075c0fbccad79ac294376b",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_070_daboia_siamensis/manifest.json",
+        "image_id": "inat_58061903",
+        "sha256": "3deb09ea99f614f3709f7d9cce29a670bb12cc9097f60439e5bd2b2605a1e571",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_070_daboia_siamensis/manifest.json",
+        "image_id": "inat_543311182",
+        "sha256": "ab970df0f5104a7aee0809d2de1726a29cc60dd73183afda94723dbcd0e3fcfd",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_427865561": "Grey coiled form: dark-bordered oval markings and pale sides.",
+      "inat_58061903": "Brown-grey individual with dorsal and side markings.",
+      "inat_543311182": "Another brown individual, illustrating color variation."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review needed.",
+    "modeling_flags": [
+      "Head details are partly obscured; source labels and geographic identity require verification.",
+      "Shared pose and procedural texture remain approximations; no independent reconstruction of all sides."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Grey coiled form: dark-bordered oval markings and pale sides.",
+        "Brown-grey individual with dorsal and side markings.",
+        "Another brown individual, illustrating color variation.",
+        "After comparing the first rendering, increased scale resolution and enlarged the nostril; adjusted spacing of the oval markings."
+      ],
+      "projection_limit": "Single 2D projection; shape values are artistic, not calibrated biological measurements.",
+      "reference_ids": [
+        "inat_427865561",
+        "inat_58061903",
+        "inat_543311182"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "ocelli",
+    "skin_color": "#aaa494",
+    "marking_color": "#292724",
+    "belly_color": "#ded9cc",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 4.0,
+    "mark_spacing": 53,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 65,
+      "neck": 9,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -1.14035,
+          -6.58537,
+          7.98246,
+          -10.53659,
+          20.52632,
+          -13.17073
+        ],
+        [
+          20.52632,
+          -13.17073,
+          30.78947,
+          -15.80488,
+          45.61404,
+          -19.7561,
+          54.73684,
+          -15.80488
+        ],
+        [
+          54.73684,
+          -15.80488,
+          59.29825,
+          -13.17073,
+          61.57895,
+          -9.0,
+          65,
+          -9
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          1.14035,
+          4.82927,
+          9.12281,
+          8.45122,
+          22.80702,
+          10.86585
+        ],
+        [
+          22.80702,
+          10.86585,
+          33.07018,
+          13.28049,
+          45.61404,
+          14.4878,
+          54.73684,
+          12.07317
+        ],
+        [
+          54.73684,
+          12.07317,
+          59.29825,
+          10.2622,
+          61.57895,
+          9.0,
+          65,
+          9
+        ]
+      ],
+      "eye": [
+        25,
+        -3,
+        3.5,
+        3.8
+      ],
+      "nostril": [
+        7,
+        -1.6,
+        2.0,
+        1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q23.4 6 45.5 8 L58.5 4",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M29.2 -5 Q37.0 -3 46.8 2",
+          "stroke": "#584639",
+          "width": 1.5
+        }
+      ],
+      "micro_scales": true,
+      "iris_color": "#b89a70"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.5
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        26
+      ],
+      [
+        471,
+        302,
+        28
+      ],
+      [
+        514,
+        347,
+        27
+      ],
+      [
+        502,
+        397,
+        26
+      ],
+      [
+        430,
+        431,
+        24
+      ],
+      [
+        330,
+        445,
+        23
+      ],
+      [
+        253,
+        476,
+        22
+      ],
+      [
+        253,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        19
+      ],
+      [
+        400,
+        555,
+        16
+      ],
+      [
+        460,
+        546,
+        11
+      ],
+      [
+        510,
+        528,
+        5
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "ocelli_center_color": "#786f61"
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

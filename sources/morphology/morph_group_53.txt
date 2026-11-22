@@ -1,0 +1,401 @@
+Phyllomedusa 7(1):45-90, 2008 (https://citeseerx.ist.psu.edu/document?doi=2aa2da5ef792a79f3963a44abd41c39f949e1675&repid=rep1&type=pdf)
+ [wordlim: 200] Published: 11 months ago; Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species ... Diagnosis - Supralabials ornamented with
+Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species
+Santa Maria da Vitória): Bahia: Brazil.
+Specimen collected by Adolpho Lutz, in 1912,
+in an expedition in Rio São Francisco.
+Diagnosis - Supralabials ornamented with
+small white spots prolonged vertically and
+usually more conspicuous in the posterior half
+of the mouth. Keels of some dorsal scales with
+characteristic white coloration. Borders of the
+dorsolateral blotches of little defined contour,
+usually forming transverse saddles where it is
+difficult to see the pair of secondary blotches of
+the dorsolateral blotches. One array of scales
+between the subocular and the 4th supralabial.
+Central intersupraoculars with tendency to the
+increase or coalesce. Postocular stripe faintly
+defined. Dorsolateral blotches frequently of
+trapezoid format, narrow and close to
+each other, varying from 20 to 35 (modes 21
+and 24).
+not. Occipital spots do not exceed the line of the
+quadrate-mandibular articulation. Postcephalic
+--------------------------------------------------------------------------------
+Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species (https://revistas.usp.br/phyllo/en/article/view/42699)
+ [wordlim: 200] Published: 18.5 years ago; Crawled: last month; # Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species ... This new species is characterized by stippled supralabials, instead of the conspicuous supralabial blotches present in other species of this complex.
+This new species is characterized by stippled supralabials, instead of the conspicuous supralabial blotches present in other species of this complex. It is further characterized by an inconspicuous postorbital stripe and by 15-27 white-edged trapezoidal dorsolateral dark blotches throughout the body, 5-9 intersupraoculars (usually 7), 1-2 rows of small scales between the subocular and fourth supralabial, 8-9 supralabials (rarely 7 or 10), prelacunal separated from second supralabial, 9-13 infralabials (usually 10-11), 21-26 midbody dorsal scale rows (usually 23), 157-181 ventrals in males, 158-182 ventrals in females, 41-50 divided subcaudals in males, 37-47 in females. The pair of spots at the base of the dorsolateral blotches, typical of the B. neuwiedi complex, is generally diffuse, conferring to the whole blotch the aspect of a transverse saddle. The stippled aspect of the supralabials also appears in other scales throughout the rest of the body. This color pattern and the diffuse borders of the blotches confer a marbled pattern to this snake. We compare the new species with all related congeners, provide comments upon its distribution, and present an artificial identification key for the species of B. neuwiedi complex.
+
+## References
+
+## Downloads
+
+  * PDF
+
+## Published
+
+2008-06-01
+
+## Issue
+
+Vol. 7 No. 1 (2008)
+
+## Section
+
+Articles
+
+## License
+
+All material originally published in Phyllomedusa belongs to Escola Superior de Agricultura Luiz de Queiroz - Universidade de São Paulo. All contents are under a license of Creative Commons BY-NC-ND.
+
+## How to Cite
+
+Silva, V. X. da, & Rodrigues, M. T. (2008). Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species. Phyllomedusa: Journal of Herpetology, 7(1), 45-90. https://doi.org/10.11606/issn.2316-9079.v7i1p45-90--------------------------------------------------------------------------------
+Bothrops neuwiedi (https://en.wikipedia.org/wiki/Bothrops_neuwiedi)
+ [wordlim: 200] Crawled: 5 days ago; Bothrops neuwiedi ... ## Description ... Head scalation includes 7–11 keeled intrasupraoculars (rarely 12 or as few as five), 9–13 sublabials (usually 10–11) and seven to eight supralabials (rarely seven or 10), the second of which is not fused with and usually separated from the prelacunal.
+
+Bothrops neuwiedi is a highly venomous pit viper species endemic to South America. This relatively small snake has a wide geographic range and is a major source of snakebite in Argentina. It was named after German naturalist Prince Maximilian of Wied-Neuwied (1782–1867), who made important collections in Brazil (1815–1817). Seven subspecies are currently recognized, including the nominate subspecies described here.
+## Description
+
+Adults of Bothrops neuwiedi average 60–70 centimetres (23+1⁄2–27+1⁄2 in) in total length (tail included), but may grow to as long as 100 cm (39+1⁄2 in).
+
+Head scalation includes 7–11 keeled intrasupraoculars (rarely 12 or as few as five), 9–13 sublabials (usually 10–11) and seven to eight supralabials (rarely seven or 10), the second of which is not fused with and usually separated from the prelacunal. --------------------------------------------------------------------------------
+Bothrops neuwiedi | The Reptile Database (https://reptile-database.reptarium.cz/Bothrops/neuwiedi)
+ [wordlim: 200] Crawled: today; Bothrops neuwiedi — CARRASCO et al. ... Bothropoides has fewer interrictals (21– 34) than the other South American genera (24–40), and some individuals have high numbers of supralabials (7–11, also seen in Rhinocerophis; all other South American genera have 7 or 8 supralabials).
+goyazensis: Brazil (Goia); Type locality: Ipamery, Goiás, Brazil.
+meridionalis: Brazil (Rio de Janeiro, Guanabara, Espirito Santo); Type locality: Andarai, Estado do Rio de Janeiro, Brazil.
+paranaensis: Brazil (Parana)
+urutu: Brazil (SC Minas Gerais, N Sao Paulo); Type locality: “Minas Gerais”.  
+Reproduction  | ovoviviparous 
+Types  | Lectotype: ZSM 2348/0, male
+Holotype: IBSP 3015, lost [minasensis]
+Lectotype: NMBA 2564 [urutu] 
+Diagnosis  | Diagnosis (genus): Bothropoides differ from other South American pitvipers in 38 mitochondrial characters (Table 4 in FENWICK et al. 2009). External characters overlap with other South American genera, with no unique synapomorphies in scalation. Distribution in eastern South America, combined with terrestrial habitat in grasslands or broad-leaf forests (Bothropoides neuwiedi group), or semiarboreal habitat in Atlantic forests (B. jararaca group), distinguishes this genus from others (see Table 4). Bothropoides has fewer interrictals (21– 34) than the other South American genera (24–40), and some individuals have high numbers of supralabials (7–11, also seen in Rhinocerophis; all other South American genera have 7 or 8 supralabials). Bothropoides differs from Bothrops and Bothriopsis in having most species with the prelacunal separate from the second supralabial (B. jararaca, B. alcatraz, and B. insularis have the prelacunal fused to the second supralabial). Some specimens have both divided and entire subcaudals, a state also seen in Bothriopsis. Bothropoides differs from Bothriopsis in the lack of a prehensile tail and lack of green coloration. It differs from Bothrocophias in the lack of white spots on the gular scales, and the lack of tuberculate keels on posterior dorsal scales. Bothropoides differs from some Rhinocerophis (R. alternatus, R. cotiara, R. fonsecai, and R. jonathani) in the absence of distinctive back bars on the underside of the head (FENWICK et al. 2009).
+Comment  | Venomous!
+Distribution: not in Uruguay fide CARREIRA et al. (2005); only the former subspecies B. (n.) pubescens occurs in Uruguay. Not in Bolivia, nor in Peru; specimens reported from Bolivia or Peru are either B. mattogrossensis or B. pauloensis, based on the new definition of Bothropoides neuwiedi by Silva and Rodrigues (2008). --------------------------------------------------------------------------------
+Taxonomic key to the snakes (Squamata: Ophidia) species of the Itajaí Valley, Santa Catarina, Brazil (https://www.scielo.br/j/paz/a/LFTXH7dWPSxLgsG43hZsDdj/?format=html)
+ [wordlim: 200] Published: 5.8 years ago; Crawled: yesterday; Comparative lateral view of coral snakes midbody: (A) Micrurus altirostris (Cope 1859), showing rings grouped in triads and (B) Micrurus corallinus (Merrem 1820) showing rings grouped in monads.
+Bothrops jararacussu Lacerda, 1884
+
+  * 7. Black dorsal rings grouped in triads (Fig. 6A) ................................................................................... Micrurus altirostris (Cope, 1859)
+
+  * - Black dorsal rings in monads (Fig. 6B) ................................................................................... Micrurus corallinus (Merrem 1820)
+
+Image: thumbnail of Figure 6
+
+Figure 6
+Comparative lateral view of coral snakes midbody: (A) Micrurus altirostris (Cope 1859), showing rings grouped in triads and (B) Micrurus corallinus (Merrem 1820) showing rings grouped in monads.
+
+  * 8. Dorsal rows even in the mid-body ................................................................................... 9
+
+  * - Dorsal rows odd in the mid-body ................................................................................... 10
+
+  * 9. Anal plate single ................................................................................... 11
+
+  * - Anal plate divided ................................................................................... 12
+
+  * 10. Subcaudals single ................................................................................... Pseudoboa haasi (Boettger, 1905)
+
+  * - Subcaudals paired ................................................................................... 14
+
+  * 11. Black/dark brown coloration, dorsal rows 10-10-08 ................................................................................... Chironius laevicollis (Wied, 1824)
+
+--------------------------------------------------------------------------------
+Chapter 2 (https://serpientes.ins.gov.co/en/Paginas/2.aspx)
+ [wordlim: 200] Crawled: last week; The head and tail in these species normally have black rings arranged between a bright color (red or orange). ... Triads: rings in the body arranged in three colors, with three black rings, separated by light colored rings, which are together between the bright rings. ... Micrurus altirostris  | Triadal + Bicolored  | 65.8  | 79.5  | 13.7  | 0.9  | 1.2  | 2.1  | 0.1  |
+The head and tail in these species normally have black rings arranged between a bright color (red or orange).
+  2. Monads: rings in the body in three colors, with one black ring between the brightly colored rings, and separated from these by light colored rings. The head and tail in these species normally have rings with a light color and black. The name of this color pattern refers to the number of black rings (one) between the brightly colored ones. This color pattern has evolved independently in Micruroides and a monophyletic clade of Micrurus.
+  3. Triads: rings in the body arranged in three colors, with three black rings, separated by light colored rings, which are together between the bright rings. The head and tail ring arrangement are variable but normally is similar to that of the body. The name of this color pattern refers to the number of black rings (three) between the brightly colored ones. This color pattern occurs independently in one large South American clade and in two Central American species.
+--------------------------------------------------------------------------------
+FAMILY ELAPIDAE CORAL SNAKES FAUNA PARAGUAY (https://www.faunaparaguay.com/elapidae.html)
+ [wordlim: 200] Crawled: last month; 1b Triad pattern. ... 2a  Head (frontal, supraoculars and parietals) completely or mostly black. ... (Fig 2) Tendency towards melanism. 13 to 18 triads. ... Micrurus altirostris
+1b Triad pattern. Two yellow or white bands bordered by black and separated by a central black band. "Red to black" order.......................................................................................................................................................2 
+2a  Head (frontal, supraoculars and parietals) completely or mostly black. White rings........................................3
+2b Head with reduction of black on parietals. Black snout and chin heavily marked with black. Yellow or creamy-white rings shorter than the external black ones. Middle black ring sometimes longer than the external ones. (Fig 2) Tendency towards melanism. 13 to 18 triads. Southern and eastern Oriental region.......................................................................................................................................... Micrurus altirostris
+3a  Middle black triad ring longer than the external ones. External black rings longer than white rings............... 4
+3b Subequal black rings. --------------------------------------------------------------------------------
+Phylogeny of South American triad coral snakes (Elapidae: Micrurus) based on molecular characters (https://www.researchgate.net/publication/287710254_Phylogeny_of_South_American_triad_coral_snakes_Elapidae_Micrurus_based_on_molecular_characters)
+ [wordlim: 200] Published: 25.7 years ago; Crawled: 3 months ago; Micrurus altirostris is a triadal coral- ... other features of head, triad pattern, and ... head and triads.
+
+zil). Other than the form that matches the
+
+general description of M. altirostris, relat-
+
+ed to head coloration (reduction of black
+
+color on parietal scales) and triad pattern
+
+(semi-equal black rings and shorter white
+
+rings), there is another form that has an
+
+almost completely black head color (pari-
+
+etal scales) with the middle black triad ring
+
+twice as long as the external ones. The sec-
+
+ond form has a longer middle black triad
+
+ring with reduced black head coloration.
+
+However, these characters are not fixed
+
+and due to a very small sample size we
+
+retain them as M. altirostris. Interestingly,
+
+this variation was also noted by Schmidt
+
+(1936), but not by Amaral (1944) whom
+
+apparently had a much larger sample size
+
+of this taxon. The distribution of M. alti-
+
+rostris, as defined here, is restricted to the
+
+east of the Rio Parana in the Brazilian
+
+states of Parana, Santa Catarina and Rio
+
+Grande do Sul, Uruguay, and the Argen-
+
+tine Mesopotamia (Figs. 10, 11, 14).
+
+The name M. f mesopotamicus is not
+--------------------------------------------------------------------------------
+Coralsnake Diversity in Brazil (https://www.researchgate.net/publication/354512227_Coralsnake_Diversity_in_Brazil)
+ [wordlim: 200] Published: 5.3 years ago; Crawled: 4 months ago; Micrurus altirostris (Cope, 1860) ... in females), with 1–1⅓ triads present on the tail; the ... coloration of the head is red, with the snout and the ... tals from the 1 st triad.
+
+re on 15 May 2016.
+
+Type locality: Teixeira Soares, Paraná, Brazil.
+
+Micrurus frontalis altirostris Shreve 1953: 2.
+
+Advances in Coralsnake Biology: with an Emphasis on South America 177
+
+Micrurus frontalis multicinctus Azevedo, 1960:1.
+
+Micrurus frontalis altirostris Roze, 1983: 323.
+
+Micrurus frontalis multicinctus Roze, 1983: 325.
+
+Micrurus frontalis altirostris Roze, 1996: 173.
+
+Micrurus frontalis multicinctus Roze, 1996: 175.
+
+Micrurus altirostris Silva, Jr. and Sites, Jr., 1999: 155.
+
+Micrurus altirostris Silva, Jr. et al., 2016: 109.
+
+Micrurus altirostris Nogueira et al., 2019: S13.
+
+General characteristics: e ventrals = 173–254
+
+(173–242 in males, 185–254 in females), and the
+
+subcaudals = 11–33 (12–28 in males, 11–33 in fe-
+
+males); the body triads = 8–20 (8–20 in males, 11–19
+
+in females), with 1–1⅓ triads present on the tail; the
+
+ToL = 195–1,179 mm (x
+
+–
+
+= 635 mm); the general
+
+coloration of the head is red, with the snout and the
+
+frontals black, including the eyes and sometimes all
+--------------------------------------------------------------------------------
+Revisão taxonômica do complexo Bothrops neuwiedi (Serpentes, Viperidae) com descrição de uma nova espécie (https://www.academia.edu/114796889/Revis%C3%A3o_taxon%C3%B4mica_do_complexo_Bothrops_neuwiedi_Serpentes_Viperidae_com_descri%C3%A7%C3%A3o_de_uma_nova_esp%C3%A9cie)
+ [wordlim: 200] Published: 18.2 years ago; Crawled: 3 days ago; 2). occupy the totality of the anterior supralabials, Bothrops lutzi Amaral, 1925: 57. resulting in a mouth with a dark anterior half Bothrops neuwiedii lutzi Amaral, and a clear posterior half. ... Type- separate this blotch of the anterior and posterior locality: Santa Maria, Rio Corrente (present Phyllomedusa - 7(1), September 2008 66 Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species Santa Maria da Vitória): Bahia: Brazil. not.
+Occipital spots do not exceed the line of the Specimen collected by Adolpho Lutz, in 1912, quadrate-mandibular articulation. Postcephalic in an expedition in Rio São Francisco. stripes absent. Postocular stripe with a medium Diagnosis - Supralabials ornamented with width of three scales, not very marked. small white spots prolonged vertically and Melanism in the head usually absent. usually more conspicuous in the posterior half Supralabials with white small spots prolonged of the mouth. Keels of some dorsal scales with vertically. Although this ornamentation can be characteristic white coloration. Borders of the present in all the supralabials, the most common dorsolateral blotches of little defined contour, pattern is that such spots are more conspicuous usually forming transverse saddles where it is in the posterior half of the mouth. Dorsolateral difficult to see the pair of secondary blotches of blotches in the trunk 20 to 35 (modes 21 and the dorsolateral blotches. One array of scales 24). Dorsolateral blotch in the middle trunk between the subocular and the 4th supralabial. with 1 to 4 scales in the superior margin (modes Central intersupraoculars with tendency to the 3 and 4), 4 to 6 arrays of scales in the height of increase or coalesce. --------------------------------------------------------------------------------
+Revisão taxonômica do complexo Bothrops neuwiedi (Serpentes, Viperidae) com descrição de uma nova espécie (https://www.researchgate.net/publication/269628115_Revisao_taxonomica_do_complexo_Bothrops_neuwiedi_Serpentes_Viperidae_com_descricao_de_uma_nova_especie)
+ [wordlim: 200] Published: 18.5 years ago; Crawled: 3 months ago; the suture between two supralabials (4). ... Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species
+3
+
+b) Supralabials with small white blotches elongated vertically, usually more conspicuous on the
+
+posterior half of the mouth (Figure 2A), central intersupraoculars fused or larger than adjacent
+
+ones, some dorsal scales with white keels, a single row of scales between subocular and the 4 th
+
+supralabial.....................................................................................................................................lutzi
+
+3. a) Postorbital stripe extends from behind the eye to the angle of the jaw, curving slightly
+
+downward at its terminus, making the sides of head uniformly dark; supralabials not stippled,
+
+oblique or ellipsoid occipital blotches without white edge in posterior borders, body without
+
+marbled aspect (F igure 2C) .............................................................................................. pauloensis
+
+b) Postorbital stripe not conspicuous, sides of head clear; supralabials stippled, occipital blotches
+
+rounded and white-edged posteriorly, body with marbled aspect (Figure 2D) ............ marmoratus
+
+4. a) More than half of supralabials (usually all) with blotches (Figures 2B, 2G) ........................... 5
+
+b) Supralabials with large dark brown blotches restricted to anterior half of mouth, the largest
+
+blotch under the eye (Figures 2E-F), or supralabials without blotches (Figure 2C) .................... 6
+
+5. a) Supralabials very dark with large round white blotches, dorsum with brown or dark brown
+
+ground color, occipital blotches of varied shapes, but rarely as described below (Figure 2B)
+
+neuwiedi
+
+b) Supralabials creamish-white with small dark brown triangular blotches (covering less than half
+
+of supralabial surface), always situated throughout the suture between two supralabials, dorsum
+
+with gray-brown or dark brown ground color, pair of occipital blotches with an arrangement that
+
+resembles two opposed arrows pointing to the head sides (“< >”) (Figure 2G) ............ pubescens
+
+6. a) Supralabials without blotches (Figure 2C) ................................................................................. --------------------------------------------------------------------------------
+Taxonomic revision of the Bothrops neuwiedi complex (Serpentes, Viperidae) with description of a new species (https://www.researchgate.net/publication/26552976_Taxonomic_revision_of_the_Bothrops_neuwiedi_complex_Serpentes_Viperidae_with_description_of_a_new_species?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJzY2llbnRpZmljQ29udHJpYnV0aW9ucyIsInByZXZpb3VzUGFnZSI6bnVsbCwic3ViUGFnZSI6bnVsbH19)
+ [wordlim: 200] Published: 18.2 years ago; Crawled: 3 days ago; supralabial in both sides by 2/2 subfoveals; 2/2 ... supralabials; 8/10 infralabials, first pair in
+1.40 mm; left canthal length 3.15 mm; left
+
+canthal width 1.75 mm; left supraocular length
+
+5.35 mm; left supraocular width 2.80 mm;
+
+nasals completely divided anterior and posterior
+
+to nostril; loreal single in contact with canthal;
+
+6/6 prefoveals between posterior nasal and
+
+prelacunal; prelacunal separated from second
+
+supralabial in both sides by 2/2 subfoveals; 2/2
+
+postfoveals anterior to 2/2 preoculars; upper
+
+preocular very large, lower distinctly small and
+
+elongated; 1/1 subocular separated from the
+
+fourth supralabial by one row of small scales; 2/
+
+2 small postoculars identical in size; 7/7
+
+supralabials; 8/10 infralabials, first pair in
+
+contact posteriorly; mental triangular nearly as
+
+long as wide; first genial elongated in contact
+
+with three first infralabials; posterior genial
+
+small and indistinct from proximal gulars; 7
+
+gulars between genials and first ventral; 6 rows
+
+of gulars separating first ventral from
+
+infralabials; 1/1 internasals; 1/1 canthals; two
+
+rows of intercanthals, the first with 3 shields,
+
+and the second with 4 shields separated from
+
+the first by one smaller shield; 7
+
+intersupraoculars rows; 22 dorsal cephalic
+
+scales in the sagital line beginning after
+
+internasals and ending at the level of the rictal
+
+region; 24/23/18 dorsal scale rows; 168
+
+ventrals; cloacal scute single; 44 divided
+
+subcaudals; 4 small scales on each side of the
+
+cloaca; tail spine 4 times longer than adjacent
+
+subcaudals; dorsal scales covering anterior half
+
+of tail spine; dorsal scales twice as long as the
+
+width and strongly keeled; paraventral row of
+
+scales 1.8 times wider than adjacent dorsal
+
+
+scales, weakly keeled, mainly on posterior
+
+portion of the body; parasubcaudals strongly
+
+keeled; posterior cephalic dorsal scales strongly
+
+keeled and longer than wide; anterior cephalic
+
+--------------------------------------------------------------------------------
+<p class="HeadingRunIn"><strong>A new species of coralsnake (<em>Micrurus</em>: Elapidae) from southern Brazil</strong></p> (https://www.biotaxa.org/Zootaxa/article/view/zootaxa.1447.1.1)
+ [wordlim: 200] Published: 19.6 years ago; Crawled: last month; The new species differs from other Micrurus species in southern Brazil by the following characters: snout mostly black, head completely black, white gular region, triads with middle black ring 1.5 to 2 times longer than the external black rings, white rings shorter than the external black rings.  The new species occurs sympatrically with M. altirostris and adds to the following known triadal species for the region: M. baliocoryphus, M. pyrrhocryptus, M. lemniscatus, and Micrurus decoratus.
+
+# 
+
+A new species of coralsnake (Micrurus: Elapidae) from southern Brazil
+
+## Authors
+
+  * MARCOS DI-BERNARDO Laboratório de Herpetologia, Museu de Ciências e Tecnologia e Faculdade de Biociências, Pontifícia Universidade Católica do Rio Grande do Sul, Avenida Ipiranga, 6681, CEP 90619-900, Porto Alegre, RS – BRAZIL.
+  * MARCIO BORGES-MARTINS Museu de Ciências Naturais, Fundação Zoobotânica do Rio Grande do Sul, Rua Dr. Salvador França, 1427, CEP 90690-000, Porto Alegre, RS – BRAZIL.
+  * NELSON JORGE DA SILVA (Jr.) Centro de Estudos e Pesquisas Biológicas and Mestrado em Ciências Ambientais e Saúde, Universidade Católica de Goiás, Avenida Universitária, 1440, Setor Universitário, CEP 74605-010, Goiânia, GO – BRAZIL.
+
+## DOI:
+
+https://doi.org/10.11646/zootaxa.1447.1.1
+
+## Keywords:
+
+Reptilia, Serpentes, Elapidae, Micrurus silviae, new species, Southern Brazil
+
+## Abstract
+
+A new species of triadal coralsnake (Micrurus) is described from Rio Grande do Sul, Brazil. The new species differs from other Micrurus species in southern Brazil by the following characters: snout mostly black, head completely black, white gular region, triads with middle black ring 1.5 to 2 times longer than the external black rings, white rings shorter than the external black rings.  The new species occurs sympatrically with M. altirostris and adds to the following known triadal species for the region: M. baliocoryphus, M. pyrrhocryptus, M. lemniscatus, and Micrurus decoratus. Its current range is restricted to Rio Grande do Sul but it may reach adjacent areas of Argentina and Paraguay.
+
+## Published
+
+2007-04-12
+
+## Issue
+
+Vol. 1447 No. 1: 12 Apr. 2007
+
+## Section
+
+Article--------------------------------------------------------------------------------
+Diversidade das Cobras-corais do Brasil (https://www.researchgate.net/publication/354512149_Diversidade_das_Cobras-corais_do_Brasil)
+ [wordlim: 200] Crawled: 3 months ago; Micrurusaltirostris(Cascavel,PR).
+--------------------------------------------------------------------------------
+Bothrops barnetti (https://en.wikipedia.org/wiki/Bothrops_barnetti)
+ [wordlim: 200] Crawled: 6 months ago; Parker, 1938 ... English common names for Bothrops barnetti are Barnett's lancehead and Barnett's pit viper. ... *  Brown, John Haynes (1973).
+--------------------------------------------------------------------------------
+Bothrops (https://en.wikipedia.org/wiki/Bothrops)
+ [wordlim: 200] Crawled: 2 months ago; ## Description ... The arrangement of the scales on top of the head is extremely variable; the number of interorbital scales may be 3–14, with 7–9 supralabials and 9–11 sublabials. ... Lacépède originally applied the common name "lanceheads" to all snakes in the genus Bothrops, which he considered conspecific. ...    | B. neuwiedi Wagler, 1824  | 6  | Neuwied's lancehead  | South America east of the Andes and south of 5°S, including Brazil (southern Maranhão, Piauí, Ceará, Bahia, Goiás, Mato Grosso, an isolated population in Amazonas, Rondônia and all southern states), Bolivia, Paraguay, Argentina (Catamarca, Córdoba, Corrientes, Chaco, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Salta, San Juan, San Luis, Santa Fe, Santiago del Estero and Tucumán) and Uruguay
+--------------------------------------------------------------------------------
+Liste der Schlangenarten (https://de.wikipedia.org/wiki/Liste_der_Schlangenarten)
+ [wordlim: 200] Crawled: 3 weeks ago;  Bothrops barnetti | Barnetts Lanzenotter | Viperidae | Vipern, Ottern | Crotalinae | Grubenottern | Amerikanische Lanzenottern |  |  (Data Deficient – ungenügende Datengrundlage) | Peru |  | Parker, 1938
+--------------------------------------------------------------------------------
+Bothrops mattogrossensis (https://en.wikipedia.org/wiki/Bothrops_mattogrossensis)
+ [wordlim: 200] Crawled: 3 months ago; * Bothrops neuwiedi subsp. boliviana  Amaral, 1927 ... ## Description
+
+Bothrops mattogrossensis has a unique colouring of its supralabial scales, with them either being uniform or displaying large dark markings which take up 50% of the supralabials and always meet under the eye.
+--------------------------------------------------------------------------------
+Bambusottern (https://de.wikipedia.org/wiki/Bambusottern)
+ [wordlim: 200] Crawled: 2.1 years ago; * Bothrops barnetti Parker, 1938
+

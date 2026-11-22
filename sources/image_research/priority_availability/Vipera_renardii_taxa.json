@@ -1,0 +1,271 @@
+{
+  "request_url": "https://api.inaturalist.org/v1/taxa?q=Vipera+renardi&rank=species&is_active=true&per_page=10",
+  "retrieved_at": "2026-11-19T00:47:47.159069+00:00",
+  "data": {
+    "total_results": 4,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 114991,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797529,
+          30889,
+          114991
+        ],
+        "is_active": true,
+        "name": "Vipera renardi",
+        "parent_id": 30889,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+        "extinct": false,
+        "provisional": false,
+        "default_photo": {
+          "id": 294028710,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+          "original_dimensions": {
+            "height": 1536,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "\u041f\u0430\u0432\u0435\u043b \u0413\u043e\u043b\u044f\u043a\u043e\u0432",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/square.jpeg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/294028710/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 2,
+        "observations_count": 969,
+        "flag_counts": {
+          "resolved": 1,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_renardi",
+        "complete_rank": "subspecies",
+        "matched_term": "Vipera renardi",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Steppe Viper",
+        "conservation_status": {
+          "id": 535125,
+          "place_id": null,
+          "source_id": 37,
+          "user_id": 477,
+          "authority": "IUCN Red List",
+          "status": "nt",
+          "status_name": "near threatened",
+          "geoprivacy": "open",
+          "iucn": 20
+        }
+      },
+      {
+        "id": 73996,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797529,
+          30889,
+          73996
+        ],
+        "is_active": true,
+        "name": "Vipera dinniki",
+        "parent_id": 30889,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+        "extinct": false,
+        "provisional": false,
+        "default_photo": {
+          "id": 41416544,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Gert Jan Verspui, some rights reserved (CC BY-NC), uploaded by Gert Jan Verspui",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41416544/square.jpeg",
+          "original_dimensions": {
+            "height": 801,
+            "width": 1200
+          },
+          "flags": [],
+          "attribution_name": "Gert Jan Verspui",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41416544/square.jpeg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41416544/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 4,
+        "observations_count": 117,
+        "flag_counts": {
+          "resolved": 1,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera_dinniki",
+        "complete_rank": "subspecies",
+        "matched_term": "Vipera ursini renardi",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Caucasus Subalpine Viper",
+        "conservation_status": {
+          "id": 23328,
+          "place_id": null,
+          "source_id": 26,
+          "user_id": null,
+          "authority": "IUCN Red List",
+          "status": "vu",
+          "status_name": "vulnerable",
+          "geoprivacy": "obscured",
+          "iucn": 30
+        }
+      },
+      {
+        "id": 73998,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797529,
+          30889,
+          73998
+        ],
+        "is_active": true,
+        "name": "Vipera eriwanensis",
+        "parent_id": 30889,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+        "extinct": false,
+        "provisional": false,
+        "default_photo": {
+          "id": 255639016,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Lennart Schmid, some rights reserved (CC BY-NC), uploaded by Lennart Schmid",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255639016/square.jpg",
+          "original_dimensions": {
+            "height": 1367,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Lennart Schmid",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255639016/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/255639016/medium.jpg"
+        },
+        "taxon_changes_count": 2,
+        "taxon_schemes_count": 4,
+        "observations_count": 86,
+        "flag_counts": {
+          "resolved": 1,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_eriwanensis",
+        "complete_rank": "subspecies",
+        "matched_term": "Vipera renardi ebneri",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Alburzi Viper",
+        "conservation_status": {
+          "id": 23330,
+          "place_id": null,
+          "source_id": 26,
+          "user_id": null,
+          "authority": "IUCN Red List",
+          "status": "vu",
+          "status_name": "vulnerable",
+          "geoprivacy": "obscured",
+          "iucn": 30
+        }
+      },
+      {
+        "id": 74000,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797529,
+          30889,
+          74000
+        ],
+        "is_active": true,
+        "name": "Vipera lotievi",
+        "parent_id": 30889,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+        "extinct": false,
+        "provisional": false,
+        "default_photo": {
+          "id": 419355930,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) vil05, some rights reserved (CC BY-NC), uploaded by vil05",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419355930/square.jpeg",
+          "original_dimensions": {
+            "height": 1536,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "vil05",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419355930/square.jpeg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/419355930/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 4,
+        "observations_count": 67,
+        "flag_counts": {
+          "resolved": 1,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Vipera_lotievi",
+        "complete_rank": "subspecies",
+        "matched_term": "Vipera ursini renardi",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Lotiev's Viper",
+        "conservation_status": {
+          "id": 23332,
+          "place_id": null,
+          "source_id": 26,
+          "user_id": null,
+          "authority": "IUCN Red List",
+          "status": "nt",
+          "status_name": "near threatened",
+          "geoprivacy": "obscured",
+          "iucn": 20
+        }
+      }
+    ]
+  }
+}

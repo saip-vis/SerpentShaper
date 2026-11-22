@@ -1,5 +1,11 @@
 # Physical reference profiles
 
+## Illustration specification
+
+Physical reference coverage is not illustration readiness. `config/illustration_specifications.json` now defines continuous anatomy, surface-specific markings, reference selection and presentation checks. The first detailed brief is [Naja kaouthia](physical_profiles/NajaKaouthiaIllustrationBrief.md); its sourced descriptions have been expanded with per-trait source locators. Its drawing references still require selection, and the earlier SVG is not an approved reference illustration.
+
+`reports/illustration_readiness.json` audits all 174 labels. Each exported profile links to its illustration specification status and lists unextracted description fields. The other 173 briefs have not been written; shared construction rules apply to future work, but do not fill missing biological facts. Original starter companion documents remain available and must be consulted separately. No species is currently marked scientifically approved.
+
 Start with [the complete catalog outline](physical_profiles/AllSpeciesPhysicalProfiles.md). It has a species index and an entry for every one of the 174 source labels, including labels without downloaded photos. The original [four starter profiles](StarterSpeciesPhysicalProfiles.md) remain available.
 
 The engine-readable export is `data/processed/morphology/physical_profiles.json`. Join its `profiles` to the species catalog using `species_id`. Each record retains the exact source label, pilot-folder paths, venom-profile IDs, compiled physical traits, supplementary descriptions and proposed rendering controls.

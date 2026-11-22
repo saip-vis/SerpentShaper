@@ -1,0 +1,278 @@
+Strasbourg, 10 October 2005 (https://rm.coe.int/16807462b0)
+ [wordlim: 200] Published: 7 months ago; Description ... Morphology.  Vipera ursinii is the smallest European viper (Arnold 2002). ... ursinii rakosiensis (Street 1979), although Gruber (1989) reports that this species can reach 800 mm.
+- 7 - 
+T-PVS/Inf (2005) 1 revised 
+ 
+ 
+2.2. Description 
+2.2.1. Morphology.  Vipera ursinii is the smallest European viper (Arnold 2002).  Adults have short, 
+moderately slender bodies and normally attain a total length of approximately 400-450 mm, 
+occasionally reaching 550 mm.  The record length is 630 mm for a Hungarian meadow viper, Vipera 
+ursinii rakosiensis (Street 1979), although Gruber (1989) reports that this species can reach 800 mm.  
+Females are generally larger than males (Bruno 1985) and were found to be significantly so in Italy 
+(Filippi and Luiselli 2003) and Hungary (Újvári et al 2000).  The tail is very short compared to many 
+other snakes and is proportionally longer in males.  The body scales are strongly keeled on the 
+dorsum, although less so on the sides.  The somewhat oval, obtusely pointed head of Vipera ursinii, 
+which is slightly narrower in males (Street 1979), is not particularly distinct from the neck and shows 
+no evidence of a nose horn.  The very small eyes have the typical vertical pupils of vipers. 
+2.2.2. Colouration.  Vipera ursinii differs from many other vipers in that sexual dimorphism in its 
+colouration is much less evident (Street 1979; Shine and Madsen 1994).  The grey or brownish ground 
+colour is usually lighter dorsally and there is also a dark wavy band along the back of most 
+individuals.  This is black, brown or reddish and often has a narrow black border down either side.  
+However, this marking does not form such a pronounced dorsal zigzag as in many other Vipera 
+species and, in some specimens, may even be broken up into a series of elliptical or rhomboidal 
+patches along the back.  There are dark spots along the sides of the body and dark stripes extend 
+backwards from the eyes to the side of the neck.  There is usually a dark Λ, X or even H shaped 
+marking on the back of the head, along with a few symmetrical dark patches.  The pale coloured lip 
+scales may be marked with black or brown.  The underside of meadow vipers can be either pale or 
+dark, sometimes with contrasting speckling.  --------------------------------------------------------------------------------
+Vipera ursinii (https://www.acq.osd.mil/eie/afpmb/docs/dveps/Ukraine.pdf)
+ [wordlim: 200] Published: 4.5 years ago; Vipera ursinii ... This snake species is currently listed as “vulnerable” per the International Union for Conservation of Nature (IUCN).
+Vipera ursinii
+
+<table id="e1">
+<tr>
+<th>Image</th>
+<th>Remarks</th>
+</tr>
+<tr>
+<td>
+<visual_element id="e2">
+Photo of a coiled snake with a dark zig-zag dorsal pattern on a pale background.
+</visual_element>
+
+</td>
+<td>
+Risk severity: LOW
+
+Common name: Orsini’s viper, Steppe viper, and meadow viper
+
+Characteristics: Smallest true viper found in Europe. Adults are fairly slender, usually 40 – 50 cm (16 – 20 in) in length. Body is usually gray, yellowish, greenish, or light brown. The belly is light or dark gray, maybe with yellow markings or small dark spots. Allblack specimens can occur. Dorsal pattern is usually dark, wavy, zig-zag line with black edges, and sometimes discontinuous; sides are usually darker in the middle of the back, with 19 mid-body dorsal scale rows. The snout is rounded, slightly upturned. Females are larger than males.
+
+Mainly diurnal, but may be nocturnal during hot summer months.
+More active than most other vipers and can move rapidly. Hibernates in groups during winter months. --------------------------------------------------------------------------------
+IUCN Red List of Threatened Species: Vipera ursinii (https://doi.org/10.2305%2FIUCN.UK.2024-1.RLTS.T218272979A207526336.en)
+ [wordlim: 200] Published: 2.9 years ago; Crawled: last month; Meadow Viper Vipera ursinii has most recently been assessed for The IUCN Red List of Threatened Species in 2023.
+
+# Meadow Viper
+
+Vipera ursinii
+
+Abstract
+
+Meadow Viper Vipera ursinii has most recently been assessed for The IUCN Red List of Threatened Species in 2023. Vipera ursinii is listed as Vulnerable under criteria B2ab(ii,iii,iv,v).
+
+### The Red list Assessment i
+
+Halpern, B. & Bowles, P. 2024. Vipera ursinii. The IUCN Red List of Threatened Species 2024: e.T218272979A207526336. https://dx.doi.org/10.2305/IUCN.UK.2024-1.RLTS.T218272979A207526336.en. Accessed on 13 October 2026.
+
+Last assessed
+
+30 January 2023
+
+Scope of assessment
+
+Global & Europe
+
+Population trend
+
+Decreasing
+
+Habitat and ecology
+
+Grassland, Artificial/Terrestrial
+
+Habitat and ecology in detail
+
+Geographic range
+
+  * Extant (resident)
+
+European Red List, EC and IUCN 2023. Vipera ursinii. The IUCN Red List of Threatened Species. Version 2026-1
+
+Geographic range in detail
+
+## Taxonomy
+
+### Kingdom
+
+Animalia
+
+### Phylum
+
+Chordata
+
+### Class
+
+Reptilia
+
+### Order
+
+Squamata
+--------------------------------------------------------------------------------
+Etat des populations de Vipère d’Orsini (https://cen-paca.org/wp-content/uploads/2021/06/Nature_de_ProvenceN01_2012.pdf)
+ [wordlim: 200] Published: 14.2 years ago; Crawled: 6 months ago; taille de population, menaces, statut de conservation, *Vipera ursinii ursinii* ... Due to its morphology and behaviour, this snake is extremely discreet.
+Etat des populations de Vipère d’Orsini  
+*Vipera ursinii ursinii* (Bonaparte, 1835)  
+en France
+
+Hélène Lisse¹, Aurélien Besnard², Julie Rigaux¹, Anne-Laure Ferchaud² et Arnaud Lyet¹,²
+
+¹ Conservatoire d’espaces naturels de Provence-Alpes-Côte d’Azur, Pôle Biodiversité, Appartement 5, 96 Rue Droite, F042000 Sisteron.  
+helene.lisse@yahoo.fr
+
+² Laboratoire de Biogéographie et Ecologie des Vertébrés, Ecole Pratique des Hautes Etudes, Centre d’Ecologie Evolutive et Fonctionnelle, UMR 5175, 1919 Route de Mende, F34293 Montpellier cedex 5.  
+aurelien.besnard@cefe-cnrs.fr
+
+RESUME  
+La Vipère d’Orsini *Vipera ursinii ursinii* (Bonaparte, 1835) est un serpent rare et patrimonial vivant dans les pelouses alpines méditerranéennes. Sa morphologie et son comportement la rendent extrêmement discrète. Bien que l’espèce soit menacée à l’échelle européenne, l’évaluation de l’état réel de chacune des populations est rendue difficile par sa discrétion et la localisation de ses habitats de prédilection. --------------------------------------------------------------------------------
+Reptiles
+1298
+Vipera ursinii (Bonaparte, 1835)
+La (https://inpn.mnhn.fr/docs/cahab/fiches/1298.pdf)
+ [wordlim: 200] Published: 1.4 years ago; Vipera ursinii (Bonaparte, 1835) ... Description de l’espèce
+Reptiles
+1298
+Vipera ursinii (Bonaparte, 1835)
+La Vipère d’Orsini
+Reptiles, Squamates (Ophidiens), Vipéridés
+Description de l’espèce
+Taille : c’est la plus petite Vipère d’Europe ; sa taille varie de 
+15 cm à la naissance à 50 cm pour une très grande femelle adulte
+(les femelles étant en général d’une taille supérieure aux mâles).
+Coloration : la face dorsale est grise, brune ou olivâtre (ces trois
+teintes étant plus ou moins foncées) avec un fort zigzag noi-
+râtre ; le dessous est blanc cassé ou gris clair avec quelques
+taches diffuses de couleur sombre.
+Écaillure : écailles dorsales et latérales carénées et disposées en
+19 rangées ; le nombre moyen de plaques ventrales est de 125
+(114 à 136) et le nombre de sous-caudales varie de 25 à 38 chez
+les mâles et de 18 à 28 chez les femelles. Une à trois grandes
+plaques céphaliques généralement entières : la frontale en écus-
+son et deux pariétales symétriques (segmentées dans environ
+20% des cas) ; la première préoculaire presque toujours en
+contact avec la nasale.
+Le cycle de reproduction est intimement lié, chez la Vipère
+d’Orsini, à celui des mues. En effet les mâles matures effectuent
+trois mues annuelles dont l’une prénuptiale (vers la mi-mai) et
+deux postnuptiales (vers début juillet puis début septembre).
+Chez les femelles matures la mue prénuptiale n’existe pas et
+elles n’effectuent que deux mues (l’une vers début juillet et
+l’autre vers début septembre, avant la mise bas). Les immatures,
+non liés aux tâches de la reproduction ne sortent que fin juin
+mais muent trois fois dans le courant de l’été.
+Confusions possibles
+Activité
+Dans son habitat du sud-est de la France, la Vipère d’Orsini ne
+peut être confondue avec aucun autre serpent.
+Le corps trapu, la queue courte, la pupille fendue verticalement
+et la présence d’une rangée de petites écailles entre l’œil et les
+supra-labiales la différencient des couleuvres.
+La Vipère d’Orsini est une espèce extrêmement discrète. Elle
+n’est active que trois mois et demi à cinq mois et demi par an, et
+--------------------------------------------------------------------------------
+A new population and subspecies of the critically endangered Anatolian meadow viper Vipera anatolica Eiselt and Baran, 1970 in eastern Antalya province. Supplementary materials (https://www.academia.edu/112778273/A_new_population_and_subspecies_of_the_critically_endangered_Anatolian_meadow_viper_Vipera_anatolica_Eiselt_and_Baran_1970_in_eastern_Antalya_province_Supplementary_materials)
+ [wordlim: 200] Crawled: 5 months ago;  Data on time and weather at capture, and coded or meristic characters of colour pattern of individual Vipera anatolica from Kohu Dağ (terra typica) and Mühür Dağ (Vipera a. senliki, ssp. nov.), both in Antalya province. PC (Pileus colouration) with no = 0, and yes = 1, for increased speckling and/or darker ground colour anterior head; NIZB (number of interruptions of the dorsal zig-zag band); CSC (marked reddish tone of subcaudals) with yes = 1, and 0 = no ; DCTT (dorsal colouration of tail tip in adults) with yellowish = 1, and not yellowish = 0; DSHA (drop-shaped head angle mark): number of drop-shaped dorso-cepahlic angled marks with wider half on parietal side, none due even halved DSHA = 0, one DSHA = 1, or two DSHA = 2.
+ Data on time and weather at capture, and coded or meristic characters of colour pattern of individual Vipera anatolica from Kohu Dağ (terra typica) and Mühür Dağ (Vipera a. senliki, ssp. nov.), both in Antalya province. PC (Pileus colouration) with no = 0, and yes = 1, for increased speckling and/or darker ground colour anterior head; NIZB (number of interruptions of the dorsal zig-zag band); CSC (marked reddish tone of subcaudals) with yes = 1, and 0 = no ; DCTT (dorsal colouration of tail tip in adults) with yellowish = 1, and not yellowish = 0; DSHA (drop-shaped head angle mark): number of drop-shaped dorso-cepahlic angled marks with wider half on parietal side, none due even halved DSHA = 0, one DSHA = 1, or two DSHA = 2. Vipera senliki senliki senliki senliki senliki senliki senliki senliki senliki senliki anatolica ssp. Air Temp. 14 10 12 13 12 11 16 17 18 19 Time 15:00 15:30 17:30 11:00 11:30 12:30 09.00 09.35 9:45 16:45 Cloudy- Cloudy- Cloudy- Cloudy- Cloudy- Cloudy- Cloudy- Cloudy- Cloudy- Sunny Weather Rainy Rainy Rainy Rainy Rainy Rainy Sunny Sunny Sunny Sex ♀ ♀ ♀ sub ♀ sub ♂ ♂ ♂ ♂ juv-♀ ♂ PC 1 1 1 1 1 1 1 1 1 1 NIZB 18 5 8 5 12 5 12 21 8 7 CSC 1 1 1 0 0 0 0 0 1 0 DCTT 1 1 0 1 1 1 1 1 1 1 DSHA 0 0 0 0 0 0 0 0 0 0 Vipera senliki senliki senliki senliki senliki senliki senliki senliki senliki anatolica ssp. Air Temp. 14 18 15 18 17 16 15 15 16 Time 08:00 17:25 10.00 17:00 19:00 19:20 09:00 09:25 18:25 Weather Sunny Sunny Sunny Sunny Sunny Sunny Sunny Sunny Sunny Sex ♂ sub-♀ sub ♀ ♂ ♂ juv-♀ sub-♀ ♂ ♂ PC 1 1 1 1 1 1 1 1 1 NIZB 9 8 16 22 8 12 5 10 9 CSC 1 1 1 0 1 1 1 1 1 DCTT 1 0 1 1 1 1 1 1 1 DSHA 0 1 0 0 0 0 1 0 0 Vipera anatolica anatolica anatolica anatolica anatolica anatolica anatolica anatolica ssp.--------------------------------------------------------------------------------
+106  Goran Nilson, Boris Tuniyev, Claes Andrén & Nikolai Orlov (https://npsochi.ru/upload/iblock/885/pa4109149pld2lx2bei7meqhjttqvnxj.pdf)
+ [wordlim: 200] Crawled: last year; A taxon of the *Vipera ursinii* complex characterised by a unique serum albumin, most similar to the serum albumin pattern of *renardi*, and to that of the eastern populations of this taxon (see also Joger et al. ... External morphology evolved as is typical for alpine taxa of the *ursinii* complex; similar to *ebneri*, *lotievi* and to Central Asian mountain meadow vipers in various characters but differing from all in the unique combination of characters (ventral numbers, labial colour, head scalation characters).
+--------------------------------------------------------------------------------
+A re-evaluation (https://brill.com/view/journals/amre/14/1/article-p45_5.pdf)
+ [wordlim: 200] Published: 1.1 years ago; Vipera ursinii moldavica ssp.n. ... External morphology evolved as typical for lowland taxa of the ursinii com-
+--------------------------------------------------------------------------------
+The poorly known Anatolian Meadow Viper, Vipera anatolica: new morphological and ecological data (https://www.academia.edu/35629565/The_poorly_known_Anatolian_Meadow_Viper_Vipera_anatolica_new_morphological_and_ecological_data)
+ [wordlim: 200] Crawled: 5 months ago; 1 2 3 4 5 6 7 Sex ♂ ♂ ♂ ♂ ♂ ♀ ♀ Snout vent length+Tail length 253+41 181+26 276+41 321+47 233+39 230+21 269+25 Head length 16.06 14.07 17.85 19.12 14.86 15.38 16.85 % Head length-SVL 6.35 7.77 6.47 5.96 6.38 6.69 6.26 Rostral width 2.25 1.58 2.14 2.24 1.85 1.64 2.07 % Rostral width-Head length 14.01 11.23 11.99 11.72 12.45 10.66 12.28 Rostral length 2.53 2.03 2.48 2.76 2.11 2.21 2.59 % Rostral length-Head length 15.75 14.43 13.89 14.43 14.2 14.37 15.37 Rostral index (height/width) 1.12 1.28 1.16 1.23 1.14 1.35 1.25 Head width 9.19 6.92 10.05 11.82 9.38 10.27 11.05 % Head width-Head length 57.22 49.18 56.3 61.82 63.12 66.78 65.58 Head depth 6.62 4.92 6.27 7.67 5.83 5.82 6.29 % Head depth-Head length 41.22 34.97 35.13 40.12 39.23 37.84 37.33 Distance between nostrils 3.42 2.59 3.48 3.65 2.93 2.92 3.37 Dorsal scale rows (anterior) 18 18 18 19 19 19 19 Dorsal scale rows (mid-body) 19 19 19 19 19 21 19 Dorsal scale rows (posterior) 17 17 17 16 15 17 17 Ventrals+preventrals 118+2 118+0 116+2 119+3 120+0 118+1 119+0 Subcaudals 31/30 31/30 30/29 30/29 31/30 23/22 23/22 Anal plate 1 1 1 1 1 1 1 Supralabials 8/8 8/8 8/8 8/8 8/8 8/8 9/9 Sublabials 10/9 10/10 10/10 10/10 10/10 10/9 11/10 Circumoculars 9/9 10/9 11/11 10/11 9/9 10/11 10/9 Supraoculars 1/1 1/1 1/1 1/1 1/1 1/1 1/1 Suboculars 1/1 1/1 1/1 1/1 1/1 1/1 1/1 Canthals 1/1 1/1 1/1 1/1 1/1 1/1 1/1 Supranasal 1/1 1/1 1/1 1/1 1/1 1/1 1/1 Loreals 4/4 6/7 6/6 5/6 5/5 6/7 3/4 Apical plates in contact with rostral 1 1 1 1 1 1 1 Total number of plates in contact 5 5 5 5 5 5 5 with rostral Crown plates 10 13 15 13 12 18 13 Parietals divided/fragmented - - - - + - + Frontal divided or not - - - - - - - Upper preocular in contact with nasal +/+ -/+ -/- +/+ +/+ +/+ +/+ Number of windings in dorsal 57 59 56 63 58 51 56 zigzag band Interparietal + + - - + - - Postfrontal + + + + - - - Y-shaped pattern on neck side +/+ +/+ -/- +/+ +/+ +/+ -/+ Herpetol.
+--------------------------------------------------------------------------------
+Thermal melanism explains macroevolutionary variation of dorsal pigmentation in Eurasian vipers (https://www.nature.com/articles/s41598-020-72871-1)
+ [wordlim: 200] Published: 6.1 years ago; Crawled: 2 months ago; Vipers frequently exhibit a zigzag dorsal pattern^{17} that endorses both aposematic and cryptic functions^{15,16,17,18,19}.
+--------------------------------------------------------------------------------
+Biological Activities and Proteomic Profile of the Venom of Vipera ursinii ssp., a very Rare Karst Viper from Croatia (https://pmc.ncbi.nlm.nih.gov/articles/PMC7150868/)
+ [wordlim: 200] Published: 6.7 years ago; Crawled: last month; We have analysed the proteomic and toxinological profiles of the venom of Vipera ursinii ssp., an endangered entomophagous viper. ... Three of them, V. u. ursinii, V. ursinii ssp. and V. u. macrops, prefer living at higher altitudes in mountain grasslands (karst vipers), while V. u. rakonsiensis and V. u. moldavica prefer lowlands (meadow vipers). ... In most cases, the animal is also characterized by a dark zigzag pattern along its back.
+--------------------------------------------------------------------------------
+Documentație tehnică pentru secțiunea referitoare la Vipera ursinii moldavica din publicația “Ghid de monitorizare a speciilor de reptile și amfibieni de Interes Comunitar din România”. Versiunea 1 (mai 2019) (https://www.researchgate.net/publication/339289772_Documentatie_tehnica_pentru_sectiunea_referitoare_la_Vipera_ursinii_moldavica_din_publicatia_Ghid_de_monitorizare_a_speciilor_de_reptile_si_amfibieni_de_Interes_Comunitar_din_Romania_Versiunea_1_mai_2)
+ [wordlim: 200] Published: 7.6 years ago; Crawled: 4 months ago; Dimensiuni: adulții sunt de dimensiuni mici (chiar dacă subspecia moldavica este de talia cea mai mare de cele care aparțin specie Vipera ursinii) [Fuhn, 1969; Fuhn și Vancea, 1961a], exemplarele
+--------------------------------------------------------------------------------
+Vipera ursinii | IUCN (https://www.iucn.it/scheda.php?id=542263632)
+ [wordlim: 200] Published: 13.9 years ago; Crawled: last month; # Vipera ursinii ... & La Posta S. (eds) (2004), Monitoring the conservation status of threatened amphibian and reptile species of Italian fauna.
+--------------------------------------------------------------------------------
+A European perspective of the conservation status of the threatened meadow viper Vipera ursinii (BONAPARTE, 1835) (Reptilia, Viperidae) (https://nsojournals.onlinelibrary.wiley.com/doi/full/10.2981/wlb.00604)
+ [wordlim: 200] Published: 6.5 years ago; Crawled: last month; # A European perspective of the conservation status of the threatened meadow viper Vipera ursinii (BONAPARTE, 1835) (Reptilia, Viperidae) ... The taxonomy of V. ursinii was strongly debated in the last decades; consequently, three taxa previously classified as V. ursinii subspecies were recently elevated to the species level (Nilson et al.
+--------------------------------------------------------------------------------
+Recapturing Vipera ursinii: Photo-Identification and HDF Telemetry in a Meadow Viper Population from Maiella National Park, Italy (https://www.mdpi.com/1424-2818/18/4/202)
+ [wordlim: 200] Published: 7 months ago; Crawled: 4 weeks ago; The combined evaluation of cephalic scale number and morphology, dorsal patterning, colouration, and sex has proven effective for assigning unique identification codes and enable consistent recognition across recapture events [4,6,7]. ... Vipera ursinii (Bonaparte 1835) is one of the most threatened snake species in Europe and represents a taxon of exceptional conservation value [27,28,29].
+--------------------------------------------------------------------------------
+Range extension of the critically endangered Anatolian Meadow Viper Vipera anatolica senliki in Eastern Antalya Province (https://www.researchgate.net/publication/322071648_Range_extension_of_the_critically_endangered_Anatolian_Meadow_Viper_Vipera_anatolica_senliki_in_Eastern_Antalya_Province)
+ [wordlim: 200] Published: 8.9 years ago; Crawled: 2 months ago; in dorsal zigzag band 57 59 63 56 58 66 55 60
+--------------------------------------------------------------------------------
+New data about hybridization between Vipera nikolskii Vedmederya, Grubant et Ru., Grubant et Ru. Grubant et Ru. daeva, 1986 and Vipera berus berus (Linnaeus, 1758) and their contact zones in Ukraine (https://www.researchgate.net/publication/263312784_New_data_about_hybridization_between_Vipera_nikolskii_Vedmederya_Grubant_et_Ru_Grubant_et_Ru_Grubant_et_Ru_daeva_1986_and_Vipera_berus_berus_Linnaeus_1758_and_their_contact_zones_in_Ukraine)
+ [wordlim: 200] Published: 22.9 years ago; Crawled: 3 months ago; New data about hybridization between Vipera nikolskii and Vipera berus berus
+
+• number of black (type I) adult specimens;
+--------------------------------------------------------------------------------
+Action Plan for the Conservation of the Meadow Viper (Vipera ursinii) in Europe (https://www.researchgate.net/publication/265997833_Action_Plan_for_the_Conservation_of_the_Meadow_Viper_Vipera_ursinii_in_Europe)
+ [wordlim: 200] Published: 21.9 years ago; Crawled: 3 months ago; ¾ Moldavian meadow viper Vipera ursinii moldavica – a few lowland areas of eastern Romania ... are all morphologically similar and have the typical viper-like appearance of a dorsal zigzag and other ... However, this mark ing does not form such a pronounced dorsal zigzag
+--------------------------------------------------------------------------------
+Vipera ursinii (https://en.wikipedia.org/wiki/Vipera_ursinii)
+ [wordlim: 200] Crawled: 2 months ago; Vipera ursinii is a species of venomous snake in the subfamily Viperinae of the family Viperidae. ... ## Conservation status
+
+The species Vipera ursinii is considered to be a Vulnerable species on the IUCN Red List of Threatened Species, due to habitat destruction caused by changes in agricultural practices and climate change in mountain areas, and to collection for the pet trade.
+--------------------------------------------------------------------------------
+Wiesenotter (https://de.wikipedia.org/wiki/Wiesenotter)
+ [wordlim: 200] Crawled: today; * Vipera ursinii In: The Reptile Database
+--------------------------------------------------------------------------------
+Vipera ursinii (https://it.wikipedia.org/wiki/Vipera_ursinii)
+ [wordlim: 200] Crawled: 3 months ago; *  (EN) European Reptile & Amphibian Specialist Group 2009, Vipera ursinii, su IUCN Red List of Threatened Species, Versione 2020.2, IUCN, 2020. ... * Filippi, E., Luiselli, L, Aspects of the ecology and conservation of the Meadow Viper, Vipera ursinii, in the Duchessa Mountains Natural Park (Latium, central Italy), in Herpetological Bulletin, 2003, 86: 5-9.
+--------------------------------------------------------------------------------
+Vipère d'Orsini (https://fr.wikipedia.org/wiki/Vip%C3%A8re_d%27Orsini)
+ [wordlim: 200] Crawled: 1.2 years ago; Un motif en zigzag noir orne la face dorsale, ce motif étant généralement continu mais pouvant être scindé en taches. ... L'espèce a été décrite la première fois dans Iconografia della fauna italica (1835) par Charles-Lucien Bonaparte (neveu de Napoléon I^{er}) à partir d'un spécimen que lui avait donné le naturaliste Antonio Orsini. ...  Vipera ursinii graeca Nilson & Andrén, 1988 | Les trois ou quatre premières écailles supralabiales sont plus grandes et le motif sombre dorsal peut se limiter à une simple ligne étroite. ... La sous-espèce Vipera ursinii anatolica est considérée comme une espèce à part entière : Vipera anatolica.
+--------------------------------------------------------------------------------
+Vipera eriwanensis (https://en.wikipedia.org/wiki/Vipera_eriwanensis)
+ [wordlim: 200] Crawled: 6 months ago; Conservation status ... * Vipera ursinii ebneri
+--------------------------------------------------------------------------------
+Hungarian meadow viper (https://en.wikipedia.org/wiki/Hungarian_meadow_viper)
+ [wordlim: 200] Crawled: 9 months ago; ## Description ... In 2008, the European Commission started the CONVIPURSRAK [Conservation of Hungarian meadow viper (Vipera ursinii rakosiensis) in the Carpathian-basin] project as part of The LIFE Programme.
+--------------------------------------------------------------------------------
+Vipera de stepa (Vipera ursinii) - YouTube (https://www.youtube.com/watch?v=LSSxxcmZDAY)
+ [wordlim: 200] Published: 13.7 years ago; Crawled: 2 months ago; # Vipera de stepa (Vipera ursinii) ... ## Description
+# Vipera de stepa (Vipera ursinii)
+By: DeltaSemper (534 followers)
+Published: 2013-02-25, 4135 views, 28 likes
+
+## Description
+Cele 65 de minidocumentare fac parte din proiectul "Delta Dunării- paradisul aproape pierdut"- campanie de informare şi conştientizare cu privire la protejarea biodiversităţii Rezervaţiei Biosferei Delta Dunării, implementat de Asociaţia Salvaţi Dunărea şi Delta în parteneriat cu Administraţia Biosferei Delta Dunării, cofinanţat din Fondul European de Dezvoltare Regională prin Programul Operaţional Sectorial Mediu.
+
+
+Imaginea: Cristian Ilea, Rafael Vasilcin, Mihai Patrascu
+
+Montajul: Constantin Buta
+
+Muzica: Electric Brother
+
+Producator: Dan Ratiu
+
+Minidocumentare de Ioana Dorobantu si Dan Ratiu
+
+O productie Mediana Communication 2013 pentru Asociaţia Salvaţi Dunărea şi Delta
+
+...
+
+Înghite prada vie, fără a o mai paraliza cu venin. Se hraneste, în general, cu mamifere mici şi şopârle. Traieşte prin stepe, păduri, stufării, câmpii mlăştinoase. Iernează în găuri de rozătoare, prin scorburi si revine prin martie-aprilie. URL
+--------------------------------------------------------------------------------
+Alla ricerca della Vipera dell'Orsini (Vipera ursinii) - YouTube (https://www.youtube.com/watch?v=7G-t38inQL8)
+ [wordlim: 200] Published: 7.3 years ago; Crawled: 3 months ago; # Alla ricerca della Vipera dell'Orsini (Vipera ursinii) ... ## Description
+# Alla ricerca della Vipera dell'Orsini (Vipera ursinii)
+By: Nel mondo degli animali (117000 followers, Verified)
+Published: 2019-08-22, 141531 views, 4600 likes
+
+## Description
+Seguimi su INSTAGRAM:   / _francescocaggiano  
+
+-PAGINA FACEBOOK: URL...
+Info e collaborazioni: francescocaggiano.work@gmail.com
+
+In quest'avventura ci troviamo sulle montagne dell'Appennino centrale alla ricerca della rara e localizzata Vipera dell'Orsini, il viperide più piccolo d'Europa...
+Buona visione!
+--------------------------------------------------------------------------------
+Moldavian Meadow Viper (Vipera ursinii moldavica). Danube Delta, Romania, 2024 (https://www.reddit.com/r/snakes/comments/1jckgof)
+ [wordlim: 200] Published: 1.7 years ago; Crawled: 1.7 years ago; *Vipera ursinii* for curious readers ... The supraocular scale juts slightly over the eye like a brow, giving the animal a stern or "grumpy" appearance. ... Other sympatric *Vipera* might be confused with *V. ursinii*.
+

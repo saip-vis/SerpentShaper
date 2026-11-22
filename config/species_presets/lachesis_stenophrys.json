@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "preset_id": "lachesis_stenophrys",
+  "species_id": "source_28832646e4a0f7ff",
+  "source_species_name": "Lachesis stenophrys",
+  "common_name": "Central American Bushmaster",
+  "status": "illustrative_unvalidated",
+  "variant": "Central American bushmaster with brown skin, dark rhomboid markings, and pale jaw.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/lachesis-stenophrys",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/lachesis-stenophrys",
+        "scope": "Species-level qualitative anatomical or taxonomic reference."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_084_lachesis_stenophrys/manifest.json",
+        "image_id": "inat_63671518",
+        "sha256": "e9fadb5f8020659865e9267f21bebab7a84b5510e8fee294ad7d04c662ad946e",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_63671518": "Single close head photo: dark cheek stripe, pale lip and visible heat pit."
+    },
+    "unextracted_fields": [
+      "body",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo- and description-informed draft; further fitting and anatomical review required.",
+    "modeling_flags": [
+      "Only the head is shown in the pilot folder; body pattern and pointed tail are guided by the institutional description.",
+      "This head and body adapt a shared viper scaffold; opposite side and underside are not independently modeled."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Single close head photo: dark cheek stripe, pale lip and visible heat pit.",
+        "Changed thin outlines to darker rhomboid body markings after reading the institutional description; the pilot contains only a head view."
+      ],
+      "projection_limit": "A single 2D shape; proportions and scale details remain artistic.",
+      "reference_ids": [
+        "inat_63671518"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "diamonds",
+    "skin_color": "#b69a7b",
+    "marking_color": "#443832",
+    "belly_color": "#e2d0bc",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.2,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 77,
+      "neck": 9,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          -5.29412,
+          10.01,
+          -7.41176,
+          21.56,
+          -10.16471
+        ],
+        [
+          21.56,
+          -10.16471,
+          36.19,
+          -16.51765,
+          52.36,
+          -21.17647,
+          60.83,
+          -18.42353
+        ],
+        [
+          60.83,
+          -18.42353,
+          65.45,
+          -15.24706,
+          72.38,
+          -9.0,
+          77,
+          -9
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          2.92405,
+          4.23529,
+          17.71,
+          8.15294,
+          36.96,
+          10.37647
+        ],
+        [
+          36.96,
+          10.37647,
+          50.05,
+          14.82353,
+          60.06,
+          14.82353,
+          64.68,
+          10.37647
+        ],
+        [
+          64.68,
+          10.37647,
+          69.3,
+          9.0,
+          73.15,
+          9.0,
+          77,
+          9
+        ]
+      ],
+      "eye": [
+        28.4,
+        -3,
+        3.4,
+        3.6
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        17,
+        0
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q27.7 6 53.9 8 L69.3 4",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M30.8 -2 Q44.7 0 61.6 5 L61.6 9 Q44.7 5 30.8 2 Z",
+          "fill": "#3b302b"
+        }
+      ],
+      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
+      "micro_scales": true,
+      "iris_color": "#947865"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        9
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        24
+      ],
+      [
+        471,
+        302,
+        26
+      ],
+      [
+        514,
+        347,
+        25
+      ],
+      [
+        502,
+        397,
+        24
+      ],
+      [
+        430,
+        431,
+        22
+      ],
+      [
+        330,
+        445,
+        21
+      ],
+      [
+        253,
+        476,
+        20
+      ],
+      [
+        253,
+        515,
+        18
+      ],
+      [
+        324,
+        550,
+        16
+      ],
+      [
+        400,
+        555,
+        13
+      ],
+      [
+        460,
+        546,
+        9
+      ],
+      [
+        510,
+        528,
+        4
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

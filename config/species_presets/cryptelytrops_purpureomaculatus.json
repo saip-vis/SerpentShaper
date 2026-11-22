@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "preset_id": "cryptelytrops_purpureomaculatus",
+  "species_id": "source_369562237edb1438",
+  "source_species_name": "Cryptelytrops purpureomaculatus",
+  "common_name": "Cryptelytrops purpureomaculatus",
+  "status": "illustrative_unvalidated",
+  "variant": "Dark purple-brown shore pit-viper variant with lighter scale flecks.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/4/8/487",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=101163",
+        "scope": "Species-level morphology or taxonomy; variation and identity require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/manifest.json",
+        "image_id": "inat_102848909",
+        "sha256": "0d9dfb02bfb8ec032e433dfd6f0f3001a7239ab621cbf8b3fb41b48e7c34a4ad",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/manifest.json",
+        "image_id": "inat_102730331",
+        "sha256": "eb25b1d9252aa84f6e6505fbb100cd1d045da4ac5098e0d5df933de570c8c8d9",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_068_cryptelytrops_purpureomaculatus/manifest.json",
+        "image_id": "inat_137842115",
+        "sha256": "71efd2e7a86c4ad848f894ad88e5cff2b7505070d9f4507546d3d5438a4ba5b2",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_102848909": "Dark purple-brown individual, orange eye, pale spotted flank and ventral plates.",
+      "inat_102730331": "Darker purple body variant in a coiled view.",
+      "inat_137842115": "Arboreal pose showing slender tail and triangular head."
+    },
+    "unextracted_fields": [
+      "tail",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review needed.",
+    "modeling_flags": [
+      "NCBI treats this source label as a synonym of Trimeresurus purpureomaculatus; do not count as an independently verified species.",
+      "Shared pose and procedural texture remain approximations; no independent reconstruction of all sides."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Dark purple-brown individual, orange eye, pale spotted flank and ventral plates.",
+        "Darker purple body variant in a coiled view.",
+        "Arboreal pose showing slender tail and triangular head.",
+        "Increased the density of light scale flecks after comparison with the selected purple-brown individual."
+      ],
+      "projection_limit": "Single 2D projection; shape values are artistic, not calibrated biological measurements.",
+      "reference_ids": [
+        "inat_102848909",
+        "inat_102730331",
+        "inat_137842115"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "speckled",
+    "skin_color": "#655553",
+    "marking_color": "#d3c0a6",
+    "belly_color": "#dbd0bd",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.6,
+    "mark_spacing": 54,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 67,
+      "neck": 8,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -1.91429,
+          -5.60976,
+          6.7,
+          -8.97561,
+          19.14286,
+          -11.21951
+        ],
+        [
+          19.14286,
+          -11.21951,
+          30.62857,
+          -13.46341,
+          45.94286,
+          -19.07317,
+          54.55714,
+          -16.82927
+        ],
+        [
+          54.55714,
+          -16.82927,
+          61.25714,
+          -13.46341,
+          62.21429,
+          -8.0,
+          67,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          0.95714,
+          5.46341,
+          7.65714,
+          8.74146,
+          21.05714,
+          9.83415
+        ],
+        [
+          21.05714,
+          9.83415,
+          33.5,
+          12.01951,
+          46.9,
+          14.20488,
+          55.51429,
+          10.92683
+        ],
+        [
+          55.51429,
+          10.92683,
+          61.25714,
+          9.2878,
+          63.17143,
+          8.0,
+          67,
+          8
+        ]
+      ],
+      "eye": [
+        25,
+        -3,
+        3.3,
+        3.5
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q24.1 6 46.9 8 L60.3 4",
+      "shields": [],
+      "lip": true,
+      "markings": [],
+      "micro_scales": true,
+      "iris_color": "#b87845",
+      "pit": [
+        16,
+        0
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.2
+      ],
+      [
+        258,
+        227,
+        12
+      ],
+      [
+        305,
+        249,
+        17
+      ],
+      [
+        390,
+        271,
+        20
+      ],
+      [
+        471,
+        302,
+        21
+      ],
+      [
+        514,
+        347,
+        20
+      ],
+      [
+        502,
+        397,
+        20
+      ],
+      [
+        430,
+        431,
+        19
+      ],
+      [
+        330,
+        445,
+        18
+      ],
+      [
+        253,
+        476,
+        17
+      ],
+      [
+        253,
+        515,
+        16
+      ],
+      [
+        324,
+        550,
+        14
+      ],
+      [
+        400,
+        555,
+        11
+      ],
+      [
+        460,
+        546,
+        7
+      ],
+      [
+        510,
+        528,
+        3
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "speckle_threshold": 0.6
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

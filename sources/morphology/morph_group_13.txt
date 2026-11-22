@@ -1,0 +1,334 @@
+# 7. Hump-nosed pit viper (*Hypnale hypnale*) (https://ncdc.mohfw.gov.in/uploads/pdf/Final_Medically%20imp%20snakes_English_231016_102536_260715_140946.pdf)
+ [wordlim: 200] Crawled: last week; Hump-nosed pit viper (*Hypnale hypnale*) ... ## Description:
+# 7. Hump-nosed pit viper (*Hypnale hypnale*)
+
+<visual_element id="e1">
+
+**Photograph – Hump-nosed pit viper:** A relatively small, stout-bodied snake coiled on an orange-brown dried leaf. Its body is reddish-brown to grey-brown, with irregular dark brown or black triangular markings and patches along the upper body. The head is broad and triangular, with a distinctive raised, hump-like snout. The tail is short and slender.
+
+**Distribution map:** Outline map of India showing state boundaries. A green-highlighted region extends along the southwestern coastal part of India, covering the western coastal belt from the southwestern region towards the southern tip of the peninsula. The remaining parts of India are unshaded. The map includes:
+- North direction indicator (N) at the upper right.
+- Scale bar at the bottom: 0, 220, 440, 880 Kilometers.
+- Green shading indicates the highlighted distribution region.
+
+</visual_element>
+
+## Description:
+
+**Scale pattern:**
+
+<visual_element id="e2">
+
+Close-up photograph of the snake's body scales. The scales appear rough, granular and strongly keeled (raised ridges), with a brown and grey-brown coloration.
+
+</visual_element>
+
+- This snake is relatively small with other venomous species, with a maximum length of 55cm. New born individual measure around 12-13cm.
+- They sport a reddish-brown or grey-brown hue with distinct dark brown or black triangular markings on each side of their upper body.
+- The underbelly displays a greyish tone with similar dark brown or blackish spots.
+- Their head takes on a triangular shape, appearing flat when viewed from the top, and noticeably wider than their neck.
+- A distinguishing feature is the dark chocolate brown or blackish coloring of both the upper and lower lips, making it easily identifiable in the field.
+- Additionally, their tail is short, slender, and lighter in color compared to the rest of their body.--------------------------------------------------------------------------------
+MCZbase MCZ:Herp:R-32451 specimen record | MCZbase (https://mczbase.mcz.harvard.edu/guid/MCZ%3AHerp%3AR-32451)
+ [wordlim: 200] Crawled: 2 days ago; Shows Cataloged Item: MCZ:Herp:R-32451 Lachesis stenophrys Description: CT ... ... Current Identification ... Lachesis muta (Linnaeus, 1766)
+
+# MCZ Herpetology R-32451
+
+## Lachesis stenophrys Cope, 1875
+
+Date Collected:
+
+## 1931-12
+
+## Central America: Panama | Alhajuela, Chagres River
+
+occurrenceID: https://mczbase.mcz.harvard.edu/guid/MCZ:Herp:R-32451
+
+### Media (1)
+
+(Media Record) (Related) (File)
+
+Shows Cataloged Item: MCZ:Herp:R-32451 Lachesis stenophrys Description: CT ...
+
+### [Button: Cataloged Item ]
+
+  * Collection: Herpetology
+  * Catalog Number: R-32451
+  * GUID: MCZ:Herp:R-32451
+
+### [Button: Identifications ]
+
+Current Identification
+
+Lachesis stenophrys Cope, 1875
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Viperidae
+
+Common Name(s): Central American Bushmaster
+
+Determiner: Gunther Köhler on 2012-06-22
+
+Nature of ID: revised taxonomy
+
+Previous Identification
+
+Lachesis muta (Linnaeus, 1766)
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Viperidae
+--------------------------------------------------------------------------------
+June 2004]
+HERPETOLOGICA
+245
+VIA, S.,
+AND R. LANDE (https://www.lachesisbrasil.com.br/docs/systematic_revision_of_the_genus_lachesis.pdf)
+ [wordlim: 200] Published: 2.2 years ago; Lachesis stenophrys Cope, 1876 ... 1951 Lachesis muta stenophrys; Taylor, Univ.
+province of Darien, Panama. Atlantic Forest in
+Brazil from the state of Ceara´ to the state of
+Rio de Janeiro. Moreover, occurs in the states
+of Amazonas, Para´, Amapa´, Roraima, Rondoˆ-
+nia, Acre, Mato Grosso, and Goia´s (Campbell
+and Lamar, 2004; Fig. 4).
+Lachesis melanocephala Solo´rzano and
+Cerdas, 1986
+1986 Lachesis muta melanocephala Solo´rzano
+and Cerdas, J. Herpetol. 20:463–466
+1997 Lachesis melanocephala; Zamudio and
+Greene, Biol. J. Linn. Soc. 62:436
+Lachesis stenophrys Cope, 1876
+1876 Lachesis stenophrys Cope, Journ. Acad.
+Nat. Sci. Phila. 8(2) (1875):152. Type-
+locality: Sipu´rio, Costa Rica
+1896 Bothrops achrocordus Garcia, Ofı´dios
+Venen. Cauca:22, pl. 4. (but see discussion)
+1951 Lachesis muta stenophrys; Taylor, Univ.
+Kansas Sci. Bull. 34:184
+1997
+Lachesis
+stenophrys;
+Zamudio
+and
+Greene, Biol. J. Linn. Soc. 62:436
+Diagnosis.—Distinguished from L. melano-
+cephala by having head that is predominantely
+unpigmented dorsally. Furthermore, L. sten-
+ophrys has fewer ventral scales (197–211 in
+females; 215–234 in males) than L. muta.
+Diagnosis.—Distinguished from other spe-
+cies of Lachesis by having the dorsum of the
+head completely black.
+Description.—Largest specimen a female
+1800 mm SVL and 197 mm TL; body
+somewhat triangular in cross section; post-
+nasals may contact ﬁrst supralabial; internasals
+not distinct; four canthals; 11–12 intersupra-
+oculars in both sexes; 29–31 interrictals in
+females and 28–29 in males; 8–9 supralabials--------------------------------------------------------------------------------
+Lachesis acrochorda                                                                 Cubides-Cubillos et al. 2021 (https://www.paulgutierrez.org/_files/ugd/148397_46dac6b495d14743ac25905e469504fc.pdf)
+ [wordlim: 200] Published: 5.2 years ago; Crawled: 8 months ago; Las especies del género *Lachesis* están agrupadas en dos clados restringidos geográficamente: *L. melanocephala* + *L. stenophrys*, Centroamérica; *L. muta* + *L. acrochorda*, Suramérica (Alencar et al.
+2016). Actualmente se reconocen y destacan los siguientes sinónimos asociados a *L. acrochorda*: *Bothrops acrochordus* (García 1896), *Bothrops verrucosus* (Posada-Arango 1909), *Lachesis calcaratus* (Posada-Arango 1909), *Lachesis muta muta* (Pérez-Santos y Moreno 1988, Zamudio y Greene 1997), *Lachesis stenophrys* (McDiarmid 1999), *Lachesis muta* (Fernandes et al. 2004), *Lachesis darienensis* (Ripa 2004).
+
+**Descripción morfológica**
+
+*Lachesis acrochorda* (Fig. 1) es considerada una de las especies de serpientes venenosas más grandes de América del Sur alcanzando hasta 350 cm de longitud (Lynch y Angarita 2014). Registros de ejemplares mantenidos en cautiverio del Serpentario de la Universidad de An-
+
+<visual_element id="e1">
+Figura compuesta de 4 fotografías de una serpiente, en cuadrícula 2×2, con letras A, B, C y D en cada subimagen.  
+A: patrón dorsal-vertebral de la serpiente enrollada, vista lateral/oblicua.  
+B: patrón dorsal-vertebral de la serpiente bajo un tronco, vista superior/oblicua.  
+C: primer plano de la cabeza mostrando patrón dorsal-craneal, ojo visible y escamas.  
+D: patrón dorsal-craneal con la cabeza levantada y parte del cuerpo enrollado, fondo desenfocado.  
+</visual_element>
+
+Figura 1. Variación morfológica de *Lachesis acrochorda*. A y B) Patrón dorsal-vertebral; C y D) patrón dorsal-craneal. Fotografías: A y C) Santiago Varela Velázquez; B y D) Sergio D. Cubides-Cubillos.
+
+Asociación Colombiana de Herpetología - ACH                                                                 40--------------------------------------------------------------------------------
+Biological Journal of the Linnean Society (1997), 62: 421–442. With 5 ﬁgures (https://citeseerx.ist.psu.edu/document?doi=dbf9aed6b6ce6c27f90e36e4649d63d8b3dfcc94&repid=rep1&type=pdf)
+ [wordlim: 200] Published: 9 months ago; known as Lachesis muta, the South American bushmaster; L. stenophrys (as ﬁrst described
+K. R. ZAMUDIO AND H. W. GREENE
+436
+Morphological and behavioral diﬀerences among the subspecies of Lachesis muta
+remain poorly explored, but parallel our molecular results (Table 5). The Atlantic
+Forest bushmaster (L. m. rhombeata) resembles the widespread Amazonian subspecies
+(L. m. muta) in scalation, head and body shape, and behavioral response to danger,
+being weakly diﬀerentiated only by head colour pattern. Both Central American
+taxa are distinct from the South American bushmasters in scalation, head and body
+shape, and colour pattern. The Central American bushmaster (L. m. stenophrys) is
+distinct from the other three subspecies in scalation, palatine bone shape, and colour
+pattern, as is the black-headed bushmaster (L. m. melanocephala) in scalation, colour
+pattern, and defensive behaviour; the latter resembles South American bushmasters
+in certain morphological attributes, whereas the former is derived in those respects.
+Our studies conﬁrm that the four allopatric subspecies of bushmasters are
+morphologically and biochemically distinct. The concordance between mor-
+phological, behavioral, and molecular markers is evidence that at least three of these
+allopatric population groups are on separate evolutionary trajectories, likely having
+been isolated for long periods of time, and therefore are distinct evolutionary species
+(sensu Frost, Kluge & Hillis, 1992). Accordingly, we propose that they should be
+known as Lachesis muta, the South American bushmaster; L. stenophrys (as ﬁrst described
+by Cope, 1875), the Central American bushmaster; and L. melanocephala (Solo´rzano
+& Cerdas, 1986; new combination), the black-headed bushmaster. Conversely, the
+Atlantic Forest bushmaster is weakly diﬀerentiated morphologically and molecularly,
+and our mtDNA data suggest that some populations of Amazonian L. m. muta might
+be more closely related to the Atlantic L. m. rhombeata than to other populations of
+L. m. muta (likely on geographic grounds as well). The Atlantic bushmaster will
+continue to be recognized as a subspecies by those who feel that category ﬁlls a
+--------------------------------------------------------------------------------
+Potential Biotechnological Applications of Venoms from the Viperidae Family in Central America for Thrombosis (https://www.mdpi.com/2072-6651/16/3/142)
+ [wordlim: 200] Published: 2.7 years ago; Crawled: 3 months ago; Lachesis melanocephala ... Lachesis acrochorda ... Its name comes from the Greek root of the word acrochordon, which means wart, and this references the warty dorsal scalation that this species presents.
+Only one coagulant proteinase was purified from this venom, which needs better characterization. The proteinase is about 30 kDa and can degrade only the α chain of fibrinogen [28].
+
+#### 2.7.3. Lachesis acrochorda
+
+L. acrochorda can be found from Panama to Ecuador. It is distinguished by having a brown head with black postocular stripes (1–2 scales wide), yellow supralabials, a white throat, and a dark brown body with 23–31 irregular or incomplete black dorsal rhombuses separated by white scales. Its TL is 2.32 m for males and 2.34 m for females. Its name comes from the Greek root of the word acrochordon, which means wart, and this references the warty dorsal scalation that this species presents. Its venom mainly comprises 35.1% of SVSPs, 23.2% of SVMPs, 21.2% of VAPs, 7.9% of CTLs, 2.3% of PLA_{2}s, 2.7% of LAAOs, and 1.8% of CRISPs [29,80]. Only one compound is characterized by this venom, a PLA_{2} named Lacro_PLA_{2} of about 13.97 kDa, involved in edema and myonecrosis effects from the venom [81].
+--------------------------------------------------------------------------------
+Mem. Inst. Butantan, (https://bibliotecadigital.butantan.gov.br/arquivos/103/PDF/12.pdf)
+ [wordlim: 200] Published: 7 months ago; Mus., 3:5341951  Lachesis muta muta; Taylor (as cons. of the use of stenophrys Cope as a subspecies of muta); Univ.
+Mem. Inst. Butantan,
+32:109-184, 1965ALPHONSE RICHARD HOGE1611896  Crotalus catenatus; Boulenger, [partim] Cat. Sn. Brit. Mus., 3:5711955  Sistrurus catenatus edwardsii; Gloyd, Bull. Chicago Acad. Sci., 10(6):83Type locality: Tamaulipas, Mexico.Range: U.S. extreme Southern and Trans-Pecos Texas, Colorado, New
+Mexico and Arizona.  Mexico.  Extreme Northern Tamaulipas.CROTALUS [SISTRURUS] RAVUS (Cope)MEXICAN  PIGMY  RATTLESNAKE1865  Crotalus ravus Cope, Proc. Acad. Nat. Sci. Phil., 17(4):1911896  Sistrurus ravus; Boulenger, Cat. Sn. Brit. Mus., 3:5711956  Sistrurus ravus;  Klauber, Rattlesnakes, 1:51Type locality: Tableland of Mexico, restricted [Smith and Taylor]
+Totalco, Vera Cruz, Mexico.Range: Mexico, Eastern and South-Central. State Mexico, Distrito Federal, Morelos, Tlaxcala, Puebla, West-Central Vera Cruz and East-Central Oaxaca.LACHESIS  DaudinLACHESIS MUTA MUTA (Linnaeus) (Pl. XIX)BUSHMASTER.  SURUCUCU  (Brasil)1766  Crotalus mutus Linnaeus, Syst. Nat. 12th ed. :3731803  Lachesis mutus; Daudin, Hist. Nat. Rept., 5:3511896  Lachesis muta; Boulenger, Cat. Sn. Brit. Mus., 3:5341951  Lachesis muta muta; Taylor (as cons. of the use of stenophrys Cope as a subspecies of muta); Univ. Sci. Bull., 34(1):184Type locality: By present restriction — Surinam.Range: The Equatorial forests of Brasil, Guianas, Venezuela, Trinidad,
+Bolivia, Peru, Ecuador and Colombia.LACHESIS  MUTA  STENOPHRYS  Cope1876  (1875)  Lachesis stenophrys Cope, J. Acad. Nat. Sci. Philad., (2)  8:1521951  Lachesis muta stenophrys; Taylor, Univ. Kansas Sci. Bull., 34(1):184Type locality: Sipurio, Costa Rica.Range: The forests of Costa Rica and Panamá (the intergradation zone
+with muta, either in Southern Panamá or Northern Colombia is not known).An isolated population of Lachesis muta in the forests along the coast of
+Brasil (see map) can be recognized as:--------------------------------------------------------------------------------
+Bulletin - United States National Museum (https://repository.si.edu/server/api/core/bitstreams/0ec5e87f-88a6-4d78-8cb7-56e8c80e5703/content)
+ [wordlim: 200] Published: 6 months ago; LACHESIS ... muta
+stenophrys Cope
+137
+LACHESIS
+Laches
+i s
+muta
+stenophrys Cope
+1876
+Lachesis
+stenophrys
+Cope.
+Jour. Acad.
+Nat.
+Sc
+i
+.
+Phila.,
+(2)
+8
+(I875):
+I52.
+Type-locality:
+S
+i pur
+i 0,
+Costa
+Rica.
+1551
+Laches
+i s
+muta
+stenophrys— Taylor,
+Univ.
+Kansas
+Sc
+i
+.
+Bull.,
+Ji:
+184.
+Distribution:
+Forests
+of
+Costa
+Rica
+and Panama.
+368-492 0—70
+10--------------------------------------------------------------------------------
+Central and South American Lachesis (Bushmasters snake venom) - PubChem (https://pubchem.ncbi.nlm.nih.gov/compound/Central-and-South-American-Lachesis-_Bushmasters-snake-venom)
+ [wordlim: 200] Crawled: 4 days ago; Description and Identification: These large tan or brown snakes with black or dark brown rhombs are easily recognized. The peculiar burr of pointed spines near the end of the tail is distinctive. ... Scientists now recognize 4 species of Bushmasters and they are: the South American Bushmaster, L. muta (the most widespread), the Chocoan Bushmaster L. acrochorda (Panama and northeastern South America), the Black-headed Bushmaster, L. melanocephala (western Costa Rica), and L. stenophrys, the Central American Bushmaster (Nicaragua through Panama).
+--------------------------------------------------------------------------------
+Lachesis muta (https://serpientes.ins.gov.co/Paginas/Fichas-es/Lachesis-muta.aspx)
+ [wordlim: 200] Crawled: 2 weeks ago; Lachesis muta es nativa de América del Sur y se distribuye a lo largo de las estribaciones orientales de los Andes, en la Amazonía, el Esequibo de Guayana y las cuencas sur del río Orinoco, desde el nivel del mar hasta los 1800 m de altitud [8,10]. ... Los valores reportados (en días) son: L. acrochorda: gestación (g)= 110, incubación (i)= 93 [24]; L. stenophrys: g= 100-115, i= 60-90 [9,25–28]; L. melanocephala: g= 101, i= 66-75 [26]; L. muta: g= 70-100, i= 60-79 [9,10,17,22, 23].
+--------------------------------------------------------------------------------
+Lachesis acrochorda (García, 1896), (Squamata, Viperidae) : evaluación de 2 efectos biomédicos de su veneno; lepidosis, morfometría y sexo (https://up-rid.up.ac.pa/5627/)
+ [wordlim: 200] Published: 7.9 years ago; Crawled: 2 months ago; Además, revisamos la morfometría, lepidosis (conteo de escamas), y sexo de los siete ejemplares del CEREO para compararlo con ejemplares de Lachesis stenophrys, y Lachesis melanocephala, y estos mismos aspectos con referencias obtenidas de literatura para Lachesis acrochorda en los que obtuvimos datos que demuestran que nuestros ejemplares pertenecen a esta especie y las cuales tienen un patrón de manchas dorsales en la cabeza que son comunes y prevalentes.
+--------------------------------------------------------------------------------
+Laticauda colubrina | NZHS (https://www.reptiles.org.nz/herpetofauna/native/laticauda-colubrina)
+ [wordlim: 200] Crawled: today; # Laticauda colubrina ... ## Description
+--------------------------------------------------------------------------------
+Lachesis acrochorda (García, 1896) (https://www.researchgate.net/publication/354616295_Lachesis_acrochorda_Garcia_1896)
+ [wordlim: 200] Published: 5.2 years ago; Crawled: 2 months ago; Lachesis acrochorda Cubides-Cubillos et al. ... Datos taxonómicos y morfológicos reportados para Lachesis acrochorda, L. muta, L. stenophrys y L. melanocephala; referenciados en:
+--------------------------------------------------------------------------------
+Taxonomy browser Taxonomy Browser () (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?command=show&id=8751&lvl=&mode=tree)
+ [wordlim: 200] Crawled: last month;     * Lachesis acrochorda  (guascama)
+    * Lachesis melanocephala  (black-headed bushmaster)
+--------------------------------------------------------------------------------
+Laticauda colubrina - Plazi TreatmentBank (https://treatment.plazi.org/id/03A8879DFFEBFFE97981FA2F12DC9BBB)
+ [wordlim: 200] Published: 8.9 years ago; Crawled: last month; Laticauda colubrina ( Schneider, 1799) ... Cogger H (2014) Reptiles and Amphibians of Australia, 7 th Edition.
+--------------------------------------------------------------------------------
+Wide-faced sea krait (Laticauda colubrina) | AROD (https://arod.com.au/arod/reptilia/Squamata/Laticaudidae/Laticauda/colubrina/)
+ [wordlim: 200] Crawled: 2 months ago; ### Description ...   Laticauda colubrina at the Australian Reptile Online Database. ... species=Laticauda+colubrina on the 2nd of December, 2021.
+--------------------------------------------------------------------------------
+Variability in Survival, Growth and Metamorphosis in the Larval Fire Salamander (Salamandra Salamandra): Effects of Larval Birth Size, Sibship and Environment (https://www.academia.edu/114631135/Variability_in_Survival_Growth_and_Metamorphosis_in_the_Larval_Fire_Salamander_Salamandra_Salamandra_Effects_of_Larval_Birth_Size_Sibship_and_Environment)
+ [wordlim: 200] Published: 22.9 years ago; Crawled: last month; Key words: Biogeography; Lachesis; Phylogeny; Systematics; Taxonomy; Viperidae THE GENUS Lachesis Daudin, 1803 as 1997) includes: Lachesis muta (Linnaeus, currently recognized (Zamudio and Greene, 1766), Lachesis stenophrys Cope, 1876, and Lachesis melanocephala Solórzano and Cer- das, 1986. ... 62:436 Description.—Largest specimen a female 1800 mm SVL and 197 mm TL; body Diagnosis.—Distinguished from L. melano- somewhat triangular in cross section; post- cephala by having head that is predominantely nasals may contact first supralabial; internasals unpigmented dorsally.
+--------------------------------------------------------------------------------
+Hypnale hypnale (https://en.wikipedia.org/wiki/Hypnale_hypnale)
+ [wordlim: 200] Crawled: 2 months ago; ## Description
+
+H. hypnale, in Shendurney Wildlife Sanctuary, Kerala, India. image
+--------------------------------------------------------------------------------
+Laticauda colubrina (Colubrine or yellow-lipped sea krait) | INFORMATION | Animal Diversity Web (https://animaldiversity.org/accounts/Laticauda_colubrina/)
+ [wordlim: 200] Published: 15.8 years ago; Crawled: today; Species  | Laticauda colubrina Colubrine or yellow-lipped sea krait ... ## Physical Description ... Laticauda colubrina is not listed on any of the databases of endangered species indicating that the conservation status of the species has not been documented and is unknown.
+--------------------------------------------------------------------------------
+Lachesis stenophrys (https://en.wikipedia.org/wiki/Lachesis_stenophrys)
+ [wordlim: 200] Crawled: 6 months ago; * Lachesis muta stenophrys ... Campbell and Lamar (2004) also recognized Lachesis acrochorda (García, 1896) as a valid species, which McDiarmid et al. (1999) had treated as a synonym of L. stenophrys. ... ## Description
+--------------------------------------------------------------------------------
+Zentralamerikanischer Buschmeister (https://de.wikipedia.org/wiki/Zentralamerikanischer_Buschmeister)
+ [wordlim: 200] Crawled: 1.2 years ago; Der Zentralamerikanische Buschmeister (Lachesis stenophrys), auch Mittelamerikanischer Buschmeister genannt, ist eine Grubenotter aus der Gattung der Buschmeister (Lachesis). ... Zwischenzeitlich wurde Lachesis stenophrys als Unterart von Lachesis muta geführt.
+--------------------------------------------------------------------------------
+Lachesis stenophrys (https://fr.wikipedia.org/wiki/Lachesis_stenophrys)
+ [wordlim: 200] Crawled: 1.9 years ago;  Description de l'image Lachesis stenophrys (2).jpg. ... * Lachesis muta stenophrys Cope, 1876
+--------------------------------------------------------------------------------
+Indische Nasenotter (https://de.wikipedia.org/wiki/Indische_Nasenotter)
+ [wordlim: 200] Crawled: 5.1 years ago;  Gattung:  | Ceylon-Nasenottern (Hypnale)
+--------------------------------------------------------------------------------
+Lachesis (https://es.wikipedia.org/wiki/Lachesis)
+ [wordlim: 200] Crawled: last year; Sus relaciones evolutivas son todavía inciertas, pero se cree que Lachesis acrochorda está más cerca de la cascabel muda de América del Sur (L. muta) que a las dos especies de América Central, L. stenophrys y L. melanocephala.
+--------------------------------------------------------------------------------
+Kunakatuwa|Polonthelissa|Hypnale hypnale - YouTube (https://www.youtube.com/watch?v=LWJNMkDgd9k)
+ [wordlim: 200] Published: 7.6 years ago; Crawled: 1.1 years ago; # Kunakatuwa|Polonthelissa|Hypnale hypnale ... ## Description
+# Kunakatuwa|Polonthelissa|Hypnale hypnale
+By: Travels DZoon (8119 followers)
+Published: 2019-04-19, 1436 views, 6 likes
+
+## Description
+This snake grows to an average of 30-45 cm in total length including the tail.
+The color pattern is grayish with heavy brown mottling, overlaid with a double row of large dark spots. The belly is brownish or yellowish with dark mottling. The tip of the tail is yellow or reddish.
+----------------------------------------------------------------------------
+Camera: Samsung Galaxy S9 Plus
+--------------------------------------------------------------------------------
+Cobra MORTAL Krait marinha dentro do barco | Biólogo Henrique o Biólogo das Cobras - YouTube (https://www.youtube.com/watch?v=HeXiFu6nstY)
+ [wordlim: 200] Published: 5.1 years ago; Crawled: last year; ## Description ... Laticauda colubrina - STEJNEGER 1907: 406
+--------------------------------------------------------------------------------
+Hump nosed pit viper (*Hypnale hypnale*) (https://www.reddit.com/r/whatsthissnake/comments/1igkb7k)
+ [wordlim: 200] Published: 1.8 years ago; Crawled: 1.5 years ago; *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education. ... Maybe the bot needs a better description for your location ... *Hypnale hypnale*, thanks for sharing!
+--------------------------------------------------------------------------------
+Saw this little guy while on a trek in the Western Ghats in India. Any clue what he might be? (https://www.reddit.com/r/whatsthissnake/comments/14ntkiw)
+ [wordlim: 200] Published: 3.4 years ago; Crawled: 2.5 years ago; *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education. ... venomous hump-nosed pit viper, _Hypnale hypnale_. ...   I could have sworn I made a species account for  *Hypnale hypnale*.
+--------------------------------------------------------------------------------
+Hump nosed pit viper [Western Ghats, India] (https://www.reddit.com/r/whatsthissnake/comments/1orw2lf)
+ [wordlim: 200] Published: last year; Crawled: last year; *Hypnale hypnale* for anyone curious about this ! ...   Hump-nosed Pitvipers *Hypnale hypnale* are small (29-38cm, up to 55cm) pitvipers that range through the Western Ghats of India south into Sri Lanka, from near sea level to 1,525m. ...   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education.
+--------------------------------------------------------------------------------
+Hump-nosed pit viper (Goa, India) (https://www.reddit.com/r/whatsthissnake/comments/1l626jn)
+ [wordlim: 200] Published: 1.5 years ago; Crawled: 1.4 years ago; *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education. ... *Hypnale hypnale* for those curious. ...   Hump-nosed Pitvipers *Hypnale hypnale* are small (29-38cm, up to 55cm) pitvipers that range through the Western Ghats of India south into Sri Lanka, from near sea level to 1,525m.
+--------------------------------------------------------------------------------
+Who is this guy...? [kerala] (https://www.reddit.com/r/whatsthissnake/comments/1o11yop)
+ [wordlim: 200] Published: 1.1 years ago; Crawled: 1.1 years ago; Indian hump-nosed pit viper, *Hypnale hypnale*, ! ...   Hump-nosed Pitvipers *Hypnale hypnale* are small (29-38cm, up to 55cm) pitvipers that range through the Western Ghats of India south into Sri Lanka, from near sea level to 1,525m. ...   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education.
+--------------------------------------------------------------------------------
+Who is this guy? [Kerala,India] (https://www.reddit.com/r/whatsthissnake/comments/1t6ahkl/who_is_this_guy_keralaindia/)
+ [wordlim: 200] Published: 6 months ago; Hump nosed pit viper,  *Hypnale hypnale* ! ...   Hump-nosed Pitvipers *Hypnale hypnale* are small (29-38cm, up to 55cm) pitvipers that range through the Western Ghats of India south into Sri Lanka, from near sea level to 1,525m. ...   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education.
+--------------------------------------------------------------------------------
+Hump nosed pit viper [ Western ghats, Yellapur, Karnataka, India ] (https://www.reddit.com/r/whatsthissnake/comments/1uvv20o/hump_nosed_pit_viper_western_ghats_yellapur/)
+ [wordlim: 200] Published: 4 months ago; *Hypnale hypnale* and ! ...   Hump-nosed Pitvipers *Hypnale hypnale* are small (29-38cm, up to 55cm) pitvipers that range through the Western Ghats of India south into Sri Lanka, from near sea level to 1,525m. ...   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education.
+--------------------------------------------------------------------------------
+What is this snake?[Kerala, India] (https://www.reddit.com/r/whatsthissnake/comments/1tcozrx/what_is_this_snakekerala_india/)
+ [wordlim: 200] Published: 6 months ago; Hump-nosed pitviper *Hypnale hypnale*. ! ...   Hump-nosed Pitvipers *Hypnale hypnale* are small (29-38cm, up to 55cm) pitvipers that range through the Western Ghats of India south into Sri Lanka, from near sea level to 1,525m. ...   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education.
+--------------------------------------------------------------------------------
+[Removed] (https://www.reddit.com/r/whatsthissnake/comments/1ve00mp/removed/)
+ [wordlim: 200] Published: 3 months ago;   *Laticauda colubrina* does not match OP's description.
+

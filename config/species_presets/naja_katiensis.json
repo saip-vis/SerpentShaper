@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "preset_id": "naja_katiensis",
+  "species_id": "source_8f96c694ab63c1e7",
+  "source_species_name": "Naja katiensis",
+  "common_name": "Katian Spitting Cobra",
+  "status": "unreviewed_starter",
+  "variant": "Unreviewed template scaffold; shape and colors require species-specific reference review.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf",
+        "scope": "Existing source profile; not yet applied to this template."
+      }
+    ],
+    "photo_references": [],
+    "reference_feature_map": {},
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Unreviewed starter only; species-specific visual modeling has not been performed.",
+    "modeling_flags": [
+      "No species-specific visual modeling performed; shape, markings and colors are placeholders.",
+      "Existing image candidates have not been assessed for suitability in this preset.",
+      "No local image candidates in species catalog; seek reliable reference imagery.",
+      "Hood geometry smoothed; species-specific appearance still requires reference review.",
+      "Generic throat marks removed; actual throat pattern has not yet been reviewed and represented.",
+      "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views.",
+      "No species-specific full reference review yet; hood and colors remain preliminary."
+    ],
+    "modeling_review_status": "unreviewed_starter",
+    "modeling_observations": {
+      "status": "unreviewed_template",
+      "observations": [
+        "Unreviewed drawing scaffold derived from Naja kaouthia; no claim of species-specific accuracy.",
+        "Available photographs and descriptions still need individual review before refinement.",
+        "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+      ],
+      "projection_limit": "Template shapes and colors are placeholders, not biological measurements.",
+      "reference_ids": []
+    },
+    "template_source_preset": "naja_kaouthia"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "plain",
+    "skin_color": "#887e6c",
+    "marking_color": "#c5b79b",
+    "belly_color": "#c9bfaa",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        57
+      ],
+      [
+        200,
+        72.9
+      ],
+      [
+        220,
+        78
+      ],
+      [
+        235,
+        78
+      ],
+      [
+        250,
+        75.7
+      ],
+      [
+        270,
+        64.7
+      ],
+      [
+        290,
+        56.6
+      ],
+      [
+        310,
+        40
+      ],
+      [
+        330,
+        32.0
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "cobra_profile_direct": true,
+    "ventral_markings": false,
+    "front_head_profile": {
+      "left": [
+        [
+          [
+            296.0,
+            92
+          ],
+          [
+            284.0,
+            91
+          ],
+          [
+            275.0,
+            96
+          ],
+          [
+            275.0,
+            104
+          ]
+        ],
+        [
+          [
+            275.0,
+            104
+          ],
+          [
+            275.0,
+            111
+          ],
+          [
+            281.0,
+            115
+          ],
+          [
+            288.0,
+            117
+          ]
+        ],
+        [
+          [
+            288.0,
+            117
+          ],
+          [
+            295.0,
+            122
+          ],
+          [
+            274.0,
+            139
+          ],
+          [
+            272,
+            145
+          ]
+        ]
+      ],
+      "right": [
+        [
+          [
+            296.0,
+            92
+          ],
+          [
+            307.0,
+            90
+          ],
+          [
+            319.0,
+            92
+          ],
+          [
+            325.0,
+            99
+          ]
+        ],
+        [
+          [
+            325.0,
+            99
+          ],
+          [
+            330.0,
+            106
+          ],
+          [
+            326.0,
+            138
+          ],
+          [
+            328,
+            145
+          ]
+        ]
+      ]
+    }
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 2,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

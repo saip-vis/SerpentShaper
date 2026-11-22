@@ -1,0 +1,3111 @@
+{
+  "scope": "Specification audit, not an image review or anatomical validation.",
+  "catalog_labels": 174,
+  "briefs_written": 1,
+  "scientific_reference_approved": 0,
+  "species": [
+    {
+      "species_id": "source_14e6e136019bef41",
+      "source_species_name": "Agkistrodon bilineatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6bc177d7002c458f",
+      "source_species_name": "Agkistrodon contortrix",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_0d6a65964a227910",
+      "source_species_name": "Agkistrodon piscivorus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_befadc9f6c27b9c0",
+      "source_species_name": "Agkistrodon taylori",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_b830f97e6e35cc93",
+      "source_species_name": "Ahaetulla prasina",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_1f2e6b93d5b4d25d",
+      "source_species_name": "Aipysurus laevis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e37d0148a44bbcef",
+      "source_species_name": "Aspidelaps lubricus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_70c74df06bb77557",
+      "source_species_name": "Aspidelaps scutatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_2254d1cf65a596a3",
+      "source_species_name": "Atropoides picadoi",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4cf9f8e23eac8e4f",
+      "source_species_name": "Austrelaps labialis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_d8c7d1a9e4ee5af1",
+      "source_species_name": "Azemiops feae",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_375f8167dff7597b",
+      "source_species_name": "Bitis arietans",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_d3a333aded85455a",
+      "source_species_name": "Bitis caudalis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_cbd12c83ae4b1001",
+      "source_species_name": "Bitis gabonica",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_255d2655272b451d",
+      "source_species_name": "Bitis nasicornis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_11bc3e7c2ce06692",
+      "source_species_name": "Boiga irregularis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_974773da3b08f0cb",
+      "source_species_name": "Borikenophis portoricensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_b0d9a2ce977327fe",
+      "source_species_name": "Bothriechis aurifer",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_f0f2bb805f8c37f1",
+      "source_species_name": "Bothriechis bicolor",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_b992c473b9d8f045",
+      "source_species_name": "Bothriechis marchi",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_d724b5c93da97c82",
+      "source_species_name": "Bothriechis nigroviridis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_2ffb22f31cc4d96f",
+      "source_species_name": "Bothriechis schlegelii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_9b0deb345f693ada",
+      "source_species_name": "Bothriechis supraciliaris",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_d3bfb6586db80136",
+      "source_species_name": "Bothriechis thalassinus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_16bb64d7a7884afe",
+      "source_species_name": "Bothrocophias campbelli",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4afde64f9e81b3d3",
+      "source_species_name": "Bothrops alternatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_db6df15a24f7a362",
+      "source_species_name": "Bothrops asper",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_26c2d7391c40525b",
+      "source_species_name": "Bothrops atrox",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_f06926f1a94d46a7",
+      "source_species_name": "Bothrops ayerbei",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_372e84a90b6025db",
+      "source_species_name": "Bothrops barnetti",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_8b8bab50d6491684",
+      "source_species_name": "Bothrops caribbaeus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_0f8209edf5e0b63f",
+      "source_species_name": "Bothrops colombiensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4138084189bba204",
+      "source_species_name": "Bothrops cotiara",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_f89cb49b9d12947e",
+      "source_species_name": "Bothrops diporus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_809fd1d820b9ebb4",
+      "source_species_name": "Bothrops erythromelas",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6aad2d29de4e0921",
+      "source_species_name": "Bothrops fonsecai",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6660a6e88eb2280a",
+      "source_species_name": "Bothrops insularis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4807cdf47c6893e5",
+      "source_species_name": "Bothrops jararaca",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_3333c20828b5742a",
+      "source_species_name": "Bothrops jararacussu",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6bf8e92c92f11ac5",
+      "source_species_name": "Bothrops lanceolatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4dd34009d2a53b9a",
+      "source_species_name": "Bothrops leucurus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_da3de14e4b7da286",
+      "source_species_name": "Bothrops moojeni",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_3a7c431437227416",
+      "source_species_name": "Bothrops neuwiedi",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_dcd2e9656c743b52",
+      "source_species_name": "Bothrops pauloensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_c53d6f5b9bb41cd5",
+      "source_species_name": "Bothrops pictus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_cbcdccac700bc002",
+      "source_species_name": "Bothrops pirajai",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4eb6e02ae59ecbca",
+      "source_species_name": "Bothrops punctatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_af06f6fb5f87c3e4",
+      "source_species_name": "Bungarus caeruleus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_a2a422d954f82106",
+      "source_species_name": "Bungarus candidus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_803a1249eb6882d8",
+      "source_species_name": "Bungarus fasciatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_fe9aeb32939f2956",
+      "source_species_name": "Bungarus flaviceps",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_83edb890db569fa1",
+      "source_species_name": "Bungarus multicinctus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_00a41a7f14994119",
+      "source_species_name": "Bungarus sindanus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_8116bfd6afea5f6c",
+      "source_species_name": "Calliophis bivirgata",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_5887e831a80e1221",
+      "source_species_name": "Calliophis intestinalis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e827007c57811f3a",
+      "source_species_name": "Calloselasma rhodostoma",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_970560cc80ecce92",
+      "source_species_name": "Cerastes cerastes",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_bb974a288663b125",
+      "source_species_name": "Cerastes vipera",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_7fd271ae997a9bb3",
+      "source_species_name": "Cerberus rynchops",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_9599a53073f69c46",
+      "source_species_name": "Cerrophidion godmani",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_5992e7d56944011b",
+      "source_species_name": "Cerrophidion sasai",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_484310c4eb2c1202",
+      "source_species_name": "Conophis lineatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_b55fd89cdbde9565",
+      "source_species_name": "Crotalus adamanteus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_99757be7d95046fb",
+      "source_species_name": "Crotalus atrox",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": true
+    },
+    {
+      "species_id": "source_1089332bf5623e43",
+      "source_species_name": "Crotalus basiliscus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e396f5b440b23dfb",
+      "source_species_name": "Crotalus culminatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_78e32041a3b676bf",
+      "source_species_name": "Crotalus durissus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4d7be31c1d8ab402",
+      "source_species_name": "Crotalus horridus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_88a9cfa490099657",
+      "source_species_name": "Crotalus oreganus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "pattern",
+        "ventral",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_f45e34294c9e4b97",
+      "source_species_name": "Crotalus polystictus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_aab14f495defa826",
+      "source_species_name": "Crotalus scutulatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_f4e98b4abeb09609",
+      "source_species_name": "Crotalus simus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_9f6b49ff6f0f56f4",
+      "source_species_name": "Crotalus tigris",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_aec48c641fca4451",
+      "source_species_name": "Crotalus tzabcan",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_c438573b12954fe9",
+      "source_species_name": "Crotalus viridis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_369562237edb1438",
+      "source_species_name": "Cryptelytrops purpureomaculatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_d3c4c6c2c84231f9",
+      "source_species_name": "Daboia russelii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_1818617505179142",
+      "source_species_name": "Daboia siamensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_22483ba116dd06d5",
+      "source_species_name": "Deinagkistrodon acutus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_5e6251ec0b9a0b41",
+      "source_species_name": "Dendroaspis angusticeps",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_f6ff95ec9c29f153",
+      "source_species_name": "Dendroaspis polylepis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes"
+      ],
+      "starter_companion_requires_manual_consultation": true
+    },
+    {
+      "species_id": "source_35d85c27d4f19a28",
+      "source_species_name": "Dispholidus typus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e8b86139fe58e822",
+      "source_species_name": "Drysdalia coronoides",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e26a3cdb6dfab555",
+      "source_species_name": "Echis carinatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e4151782ba3f4a11",
+      "source_species_name": "Echis coloratus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_99ceb9b6a3a4f3e5",
+      "source_species_name": "Echis ocellatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_94276255099b606a",
+      "source_species_name": "Echis pyramidum",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_c2063e82fbc291ac",
+      "source_species_name": "Gloydius brevicaudus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_9388ac39e3ae8ac4",
+      "source_species_name": "Hemachatus haemachatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_dd54d32dc6c08c50",
+      "source_species_name": "Hydrophis curtus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_7abfe98eca8290c3",
+      "source_species_name": "Hydrophis cyanocinctus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_5c8709e97cfc949f",
+      "source_species_name": "Hydrophis platurus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_73becb81782bf4da",
+      "source_species_name": "Hydrophis schistosus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_eb05d3f834fa9845",
+      "source_species_name": "Hypnale hypnale",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4f088bd9116bc021",
+      "source_species_name": "Lachesis acrochorda",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_1042ef64ac22ea83",
+      "source_species_name": "Lachesis melanocephala",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_5194d37cc4e0820e",
+      "source_species_name": "Lachesis muta",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_28832646e4a0f7ff",
+      "source_species_name": "Lachesis stenophrys",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_c7171ba6cf63d580",
+      "source_species_name": "Laticauda colubrina",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6cf1e0c619c8b9c0",
+      "source_species_name": "Macrovipera lebetina",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_1e642e4d0c23c99e",
+      "source_species_name": "Macrovipera mauritanica",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_432f92659252c945",
+      "source_species_name": "Metlapilcoatlus nummifer",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_2c37d5b6901581fa",
+      "source_species_name": "Micropechis ikaheka",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_ee00622858707fbd",
+      "source_species_name": "Micrurus alleni",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_1ffc9dd77f25c98d",
+      "source_species_name": "Micrurus altirostris",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_f074d6b92f420193",
+      "source_species_name": "Micrurus browni",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_3c7c51577a7a55e1",
+      "source_species_name": "Micrurus clarki",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_05b5040ece161a8f",
+      "source_species_name": "Micrurus corallinus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_44f04494e1a59e6b",
+      "source_species_name": "Micrurus dumerilii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4a468c829ded40b6",
+      "source_species_name": "Micrurus frontalis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_1fd581df6fe7f638",
+      "source_species_name": "Micrurus fulvius",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_50dbb335bfaf1c12",
+      "source_species_name": "Micrurus lemniscatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_90d96f1863e77284",
+      "source_species_name": "Micrurus mipartitus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_5d36097f267930c5",
+      "source_species_name": "Micrurus mosquitensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_a309f49d00e59306",
+      "source_species_name": "Micrurus nigrocinctus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_7619ab922285d4c7",
+      "source_species_name": "Micrurus paraensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_d8bac9a0371bd233",
+      "source_species_name": "Micrurus spixii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_886a77b690dfb405",
+      "source_species_name": "Micrurus surinamensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_ce67552e717ef86f",
+      "source_species_name": "Micrurus tschudii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_056759e6c9b89fa7",
+      "source_species_name": "Montivipera raddei",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_d0c50c4a6f809fe2",
+      "source_species_name": "Naja annulifera",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6e9247f0bed47d1c",
+      "source_species_name": "Naja atra",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_cfd9277cc97f7e47",
+      "source_species_name": "Naja haje",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_a950cdcbfc05a9a0",
+      "source_species_name": "Naja kaouthia",
+      "path": "config/illustration_specifications.json",
+      "species_key": "source_a950cdcbfc05a9a0",
+      "status": "brief_drafted_reference_selection_pending",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_8f96c694ab63c1e7",
+      "source_species_name": "Naja katiensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_bbfc4168f2a75898",
+      "source_species_name": "Naja melanoleuca",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_169919e3f7ba764e",
+      "source_species_name": "Naja mossambica",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e118ec6ca1495b09",
+      "source_species_name": "Naja naja",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": true
+    },
+    {
+      "species_id": "source_f68a197d52719737",
+      "source_species_name": "Naja nigricollis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_c02cc2aa03400e94",
+      "source_species_name": "Naja nubiae",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_18b69042536ef21f",
+      "source_species_name": "Naja pallida",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_a5710032bf18aef3",
+      "source_species_name": "Naja sputatrix",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_f372b171661314bc",
+      "source_species_name": "Notechis scutatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_238f0471c3dc3b6e",
+      "source_species_name": "Ophiophagus hannah",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_68b7620d431f7b7d",
+      "source_species_name": "Ophryacus sphenophrys",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_4b660ae3e7497876",
+      "source_species_name": "Ovophis convictus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_cdc86d4fe264d4ac",
+      "source_species_name": "Ovophis monticola",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_281407af92a078a1",
+      "source_species_name": "Ovophis okinavensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_16c115628b44a466",
+      "source_species_name": "Ovophis tonkinensis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e5ebffd298c4b05c",
+      "source_species_name": "Oxyuranus scutellatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "pattern",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": true
+    },
+    {
+      "species_id": "source_93738ef524d0ffd2",
+      "source_species_name": "Philodryas olfersii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_29ea2817faadcac7",
+      "source_species_name": "Porthidium lansbergii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_0f175f72dd0caacc",
+      "source_species_name": "Porthidium nasutum",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_7f65f6be6029af65",
+      "source_species_name": "Porthidium ophryomegas",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_32fcac3e3443d5f4",
+      "source_species_name": "Porthidium porrasi",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_e477dd1d3fb79671",
+      "source_species_name": "Protobothrops flavoviridis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_34a66e77bf8f69ae",
+      "source_species_name": "Protobothrops kelomohy",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_552cc07bf78be753",
+      "source_species_name": "Protobothrops mucrosquamatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6f3d50def5751b60",
+      "source_species_name": "Pseudechis australis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_708f790bdb7c5a6b",
+      "source_species_name": "Pseudechis papuanus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_a039bde5fc9091a3",
+      "source_species_name": "Rhinobothryum bovallii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_fcc42f05c99f7c03",
+      "source_species_name": "Sistrurus catenatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "ventral",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_aa0233eca32a03b1",
+      "source_species_name": "Sistrurus miliarius",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_18206cab7b43558d",
+      "source_species_name": "Tantilla nigriceps",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6305b88a6ca81adb",
+      "source_species_name": "Thamnodynastes strigatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_473b0ba7672d65f7",
+      "source_species_name": "Thelotornis mossambicanus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_1bb81a30bfda3216",
+      "source_species_name": "Toxicocalamus longissimus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_ecb186ea6cf2b4a5",
+      "source_species_name": "Trimeresurus albolabris",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_c70dfbdb81f566fe",
+      "source_species_name": "Trimeresurus insularis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_26f323fa42f9294d",
+      "source_species_name": "Trimeresurus nebularis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "scales",
+        "ventral",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_115f9c4d468b7684",
+      "source_species_name": "Trimeresurus puniceus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_0945e9f34ae428db",
+      "source_species_name": "Trimeresurus purpureomaculatus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "tail",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_8798b5167549f805",
+      "source_species_name": "Trimeresurus stejnegeri",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "scales",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_58fecb9b72ef2b50",
+      "source_species_name": "Trimeresurus wiroti",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_16d2ba0a60598c29",
+      "source_species_name": "Tropidolaemus wagleri",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_1a64330569b194a6",
+      "source_species_name": "Vipera ammodytes",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_88213046eb905611",
+      "source_species_name": "Vipera anatolica",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_3a681a8e073c311a",
+      "source_species_name": "Vipera aspis",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_8dd09feae26fef0b",
+      "source_species_name": "Vipera berus",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "pattern",
+        "ventral",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_7ada09370ebce8db",
+      "source_species_name": "Vipera kaznakovi",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_50fbaebf58280fa9",
+      "source_species_name": "Vipera nikolskii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_17f12a4790d8de11",
+      "source_species_name": "Vipera orlovi",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_aa616fb673c4070c",
+      "source_species_name": "Vipera renardii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "scales",
+        "pattern",
+        "ventral",
+        "eyes",
+        "special",
+        "variation"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    },
+    {
+      "species_id": "source_6f7fba3e864f433a",
+      "source_species_name": "Vipera ursinii",
+      "path": "config/illustration_specifications.json",
+      "species_key": null,
+      "status": "illustration_brief_not_written",
+      "scientific_reference_approved": false,
+      "unextracted_description_fields": [
+        "body",
+        "head",
+        "tail",
+        "eyes",
+        "special"
+      ],
+      "starter_companion_requires_manual_consultation": false
+    }
+  ]
+}

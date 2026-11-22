@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "preset_id": "laticauda_colubrina",
+  "species_id": "source_c7171ba6cf63d580",
+  "source_species_name": "Laticauda colubrina",
+  "common_name": "Yellow-lipped Sea Krait",
+  "status": "illustrative_unvalidated",
+  "variant": "Yellow-lipped sea krait with blue-gray skin, dark rings and flattened tail.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/4/247",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://journals.australian.museum/media/Uploads/Journals/18036/1452_complete.pdf",
+        "scope": "Species description and/or taxonomy; image views and individual identity need further review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_085_laticauda_colubrina/manifest.json",
+        "image_id": "inat_90229",
+        "sha256": "fd046884b51fa300d01408bfa9f6816e72735997dd2b1e533922cdd0ca86fbeb",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_085_laticauda_colubrina/manifest.json",
+        "image_id": "inat_32547023",
+        "sha256": "cc4d2068d4b31f8a835d882807ac65e84fb3588a844d810cad79ff95161d04ca",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_085_laticauda_colubrina/manifest.json",
+        "image_id": "inat_57904970",
+        "sha256": "7a2012b07acae5381a166c94954d72e742303f788602cdab1e90475789323dd3",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_90229": "Underwater blue-gray body with dark rings.",
+      "inat_32547023": "Underwater view of bands and elongated body.",
+      "inat_57904970": "Body closeup and cream-yellow lip; color varies with light."
+    },
+    "unextracted_fields": [
+      "head",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review required.",
+    "modeling_flags": [
+      "Selected underwater images give only limited head and underside detail; the yellow lip is a simplified marker.",
+      "Head and paddle use an adapted marine scaffold; angle-specific geometry and scale counts remain unverified."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Underwater blue-gray body with dark rings.",
+        "Underwater view of bands and elongated body.",
+        "Body closeup and cream-yellow lip; color varies with light.",
+        "Broadened and spaced the dark rings after comparing the render with the natural-light body view."
+      ],
+      "projection_limit": "One oblique projection; paddle and body proportions are artistic, not measured.",
+      "reference_ids": [
+        "inat_90229",
+        "inat_32547023",
+        "inat_57904970"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "marine",
+    "pattern": "rings",
+    "skin_color": "#9caeb5",
+    "marking_color": "#303a43",
+    "belly_color": "#d9cda9",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "paddle",
+    "scale_pitch": 7.4,
+    "mark_spacing": 37,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 55,
+      "neck": 8,
+      "upper": [
+        [
+          0.0,
+          0,
+          0.0,
+          -6,
+          3.11321,
+          -10,
+          11.41509,
+          -10
+        ],
+        [
+          11.41509,
+          -10,
+          22.83019,
+          -11,
+          32.16981,
+          -12,
+          41.50943,
+          -9
+        ],
+        [
+          41.50943,
+          -9,
+          46.69811,
+          -8,
+          49.81132,
+          -8,
+          55,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0,
+          0.0,
+          6,
+          6.22642,
+          10,
+          14.5283,
+          10
+        ],
+        [
+          14.5283,
+          10,
+          25.9434,
+          12,
+          37.35849,
+          11,
+          43.58491,
+          9
+        ],
+        [
+          43.58491,
+          9,
+          48.77358,
+          8,
+          50.84906,
+          8,
+          55,
+          8
+        ]
+      ],
+      "eye": [
+        18,
+        -2,
+        2.6,
+        2.8
+      ],
+      "nostril": [
+        5,
+        -4.5
+      ],
+      "jaw": "M2 4 Q20.9 7 42.4 6 L50.1 4",
+      "shields": [
+        "M5 -6 L14 -8 L21 -3 L18 4",
+        "M14 -8 L27 -9 L34 -4 L31 5 L18 4",
+        "M8 5 L9 9 M18 6 L19 10 M29 6 L31 10"
+      ],
+      "lip": true,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#494c42",
+      "markings": [
+        {
+          "path": "M0 1 Q11.0 5 24.2 5 L24.2 8 Q11.0 8 0 5 Z",
+          "fill": "#dcc87c"
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        225,
+        212,
+        8
+      ],
+      [
+        265,
+        232,
+        13
+      ],
+      [
+        340,
+        259,
+        23
+      ],
+      [
+        436,
+        283,
+        26
+      ],
+      [
+        503,
+        326,
+        26
+      ],
+      [
+        515,
+        380,
+        25
+      ],
+      [
+        461,
+        421,
+        23
+      ],
+      [
+        364,
+        438,
+        21
+      ],
+      [
+        273,
+        462,
+        18
+      ],
+      [
+        248,
+        500,
+        15
+      ],
+      [
+        286,
+        535,
+        11
+      ],
+      [
+        369,
+        558,
+        9
+      ],
+      [
+        444,
+        562,
+        8
+      ],
+      [
+        498,
+        552,
+        15
+      ],
+      [
+        545,
+        530,
+        19
+      ],
+      [
+        574,
+        503,
+        14
+      ],
+      [
+        583,
+        484,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "head_color": "#3e4a50",
+    "pit_present": false,
+    "band_fraction": 0.43
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

@@ -1,0 +1,315 @@
+European Journal of Taxonomy 961: 1–51                                                         ISSN 2118-9773 (https://www.zobodat.at/pdf/EJT_0961_0001-0051.pdf)
+ [wordlim: 200] Published: 1.4 years ago; Here, as a follow up to Gowri Shankar et al.’s (2021) study, we present a formal taxonomic revision of ... We analysed the systematics of snakes referred to as Ophiophagus hannah through examination of ... species complex lack easily discernable external sexual dimorphic features (see Leviton 1964), sex of ... Nomenclature of scalation, colour pattern and morphology relevant to the genus, as used in this paper,
+European Journal of Taxonomy 961: 1–51 (2024)
+Here, as a follow up to Gowri Shankar et al.’s (2021) study, we present a formal taxonomic revision of 
+the genus Ophiophagus, morphological diagnoses and descriptions of these four lineages, and describe 
+two as new species. Our nomenclatural and taxonomic decisions have extensive implications for the 
+content, diversity and distribution of members of this genus, as well as the management of snakebite, 
+species conservation and prospects for future research.
+Material and methods
+We analysed the systematics of snakes referred to as Ophiophagus hannah through examination of 
+morphological characters in preserved material and provide taxonomic data on the contents of the 
+genus. Our sampling includes museum specimens from throughout its range, including many of historic 
+importance, having been collected by pioneering ﬁ eld zoologists of the region, including John Anderson, 
+Richard Beddome, William Blanford, Tom Harrisson, Malcolm Smith, William Theobald and Frank 
+--------------------------------------------------------------------------------
+Ophryacus sphenophrys | The Reptile Database (https://reptile-database.reptarium.cz/Ophryacus/sphenophrys?search_param=%28%28search%3D%272%27%29%29)
+ [wordlim: 200] Crawled: 2 days ago; # Ophryacus sphenophrys (SMITH, 1960) ... Diagnosis  | Diagnosis: Supraocular protuberant, wedgeshaped, hornlike, base almost twice as long as projecting part; subcaudals divided, 57; ventrals 171; two rows of scales between orbit and labials; ten scales across top of head between supraocular horns; scales bordering pit ventrally in contact with labials; pattern of two rows of dark paired rectangular spots on each side of body.
+
+# Ophryacus sphenophrys (SMITH, 1960)
+
+
+Higher Taxa  | Viperidae, Crotalinae, Caenophidia, Alethinophidia, Serpentes, Squamata (snakes)
+Subspecies  |  
+Common Names  | E: Broad-horned Pitviper 
+Synonym  | Bothrops sphenophrys SMITH 1960: 267
+Ophryacus sphenophrys — GRÜNWALD et al. 2015 
+Distribution  | Mexico (Oaxaca)
+Type locality: Mexico: El Soledad, Oaxaca.  
+Reproduction  |  
+Types  | Holotype: INHS (= UIMNH) 6262, W.L. Burger; July 22, 1949, fide SMITH 1964) 
+Diagnosis  | Diagnosis: Supraocular protuberant, wedgeshaped, hornlike, base almost twice as long as projecting part; subcaudals divided, 57; ventrals 171; two rows of scales between orbit and labials; ten scales across top of head between supraocular horns; scales bordering pit ventrally in contact with labials; pattern of two rows of dark paired rectangular spots on each side of body.
+Comment  | Venomous!
+Habitat: forests 
+Etymology  | Not given by Smith 1960 but apparently after the Greek “sphenos” = cuneiform, wedge, referring to the shape of its supraocular, and Greek “ophrys” = eye brow, forehead (see also genus name!). 
+--------------------------------------------------------------------------------
+Taxonomic revision of the king cobra Ophiophagus hannah (Cantor, 1836) species complex (Reptilia: Serpentes: Elapidae), with the description of two new species (https://research.bangor.ac.uk/en/publications/taxonomic-revision-of-the-king-cobra-ophiophagus-hannah-cantor-18/)
+ [wordlim: 200] Published: 2.1 years ago; Crawled: today; # Taxonomic revision of the king cobra Ophiophagus hannah (Cantor, 1836) species complex (Reptilia: Serpentes: Elapidae), with the description of two new species ... European Journal of Taxonomy, 961, 1. https://doi.org/10.5852/ejt.2024.961.2681
+We provide nomenclatural synopses of both the genus and species series nomina. We restrict the concept of Ophiophagus hannah s. str. to populations from eastern Pakistan, northern and eastern India, the Andaman Islands, Indo-Burma and Indo-China, south to central Thailand. The nomen Ophiophagus bungarus (Schlegel, 1837) comb. nov. is revived for the populations inhabiting the Sunda Shelf area, including the Malay Peninsula, the Greater Sunda Islands and parts of the southern Philippines. We describe two new species, Ophiophagus kaalinga Gowri Shankar, Das & Ganesh sp. nov. endemic to the Western Ghats of south-western India and Ophiophagus salvatana Gowri Shankar, Das & Wüster sp. nov., inhabiting the island of Luzon in northern Philippines. For the purpose of nomenclatural stability, we designate a neotype for Hamadryas hannah Cantor, 1836. A dichotomous identification key to the four species recognized here is provided.
+
+Original language  | English
+Pages (from-to)  | 1
+Number of pages  | 51
+Journal  | European Journal of Taxonomy
+Volume  | 961
+DOIs  | 
+
+  * https://doi.org/10.5852/ejt.2024.961.2681
+Publication status  | Published - 16 Oct 2024
+
+## Keywords
+
+  * Elapidae
+  * neotype
+  * nomenclature
+  * new species
+  * systematics
+  * Taxonomy
+
+## Access to Document
+
+  * 10.5852/ejt.2024.961.2681Licence: CC BY
+
+## Cite this
+
+  * APA
+  * Author
+  * BIBTEX
+  * Harvard
+  * Standard
+  * RIS
+  * Vancouver
+
+Das, I., Gowri Shankar, P., Swamy, P., Williams, R. C., Lalremsanga, H. T., Prashanth, P., Sahoo, G., Vijayakumar, S. P., Höglund, J., Shanker, K., Dutta, S. K., Ganesh, S. R., & Wüster, W. (2024). Taxonomic revision of the king cobra Ophiophagus hannah (Cantor, 1836) species complex (Reptilia: Serpentes: Elapidae), with the description of two new species. European Journal of Taxonomy, 961, 1. https://doi.org/10.5852/ejt.2024.961.2681
+--------------------------------------------------------------------------------
+Bangor University (https://pure.bangor.ac.uk/ws/portalfiles/portal/70747533/K_J_DAWSON_Ph.D_2009_-_OCR.pdf)
+ [wordlim: 200] Published: 1.1 years ago; Diagnosis of true Ovophis species and subspecies has traditionally been ... species or as subspecies of Ovophis monticola is not yet agreed (see Chapter 1 ). ... Trimeresurus convictus, (Stoliczka, 1870)( Ovophis montico/a convictus) was
+Diagnosis of true Ovophis species and subspecies has traditionally been 
+based on a small number of distinct morphological characters. Currently, seven 
+Ovophis groups are recognised (Gumprecht, et al., 2004), although their status as full 
+species or as subspecies of Ovophis monticola is not yet agreed (see Chapter 1 ). 
+The names adopted by Gumprecht et al (2004) will be used herein, with the name 
+used in the original description cited alongside the name of the describing author. 
+The first species to be described, and the type species for the genus, was 
+Trimeresurus montico/a, (Gunther, 1864) (Ovophis montico/a montico/a). 
+Trimeresurus convictus, (Stoliczka, 1870)( Ovophis montico/a convictus) was 
+described shortly afterwards, and separated on the basis of possessing larger dorsal 
+scales arranged in 21 rather than 23 rows at mid body, and although both groups are 
+now known to contain individuals with 21 , 23 and 25 scale rows at midbody, the 
+subspecies designations remain. Trimeresurus makazayazaya, (Takahashi, 1922) 
+--------------------------------------------------------------------------------
+Proc Calif Acad Sci Vol 54 Nos 1-8 (https://repository.si.edu/server/api/core/bitstreams/74d47658-0caf-4d92-9649-c4b1c3093edd/content)
+ [wordlim: 200] Published: 22.9 years ago; Ovophis monticola. ... m. convictus from Cambodia, Vietnam, Thailand, West Malaysia and western Indonesia; O. m.
+LEVITON ET AL.: DANGEROUSLY VENOMOUS SNAKES OF MYANMAR
+441
+Ovophis monticola. From Fayrer (1874, pl. 15).
+DIAGNOSTIC CHARACTERS.— Body stout;
+snout short, a little more than twice the length
+of the diameter of the eye; head covered above
+by small scales rather than large shields, scales
+usually smooth, feebly imbricate; first upper
+labial not fused to nasal, completely separated
+by a suture; body scales, smooth or weakly
+keeled, in 23–25, occasionally 19 or 21 longi-
+tudinal rows at midbody; supraoculars large,
+5–9 scales in a line between them; internasals
+usually not in contact with one another, sepa-
+rated by 2 small suprapostrostral scales; 7–10
+upper labials, second usually fused to the scale
+bordering the facial sensory pit anteriorly,
+fourth and fifth beneath eye but separated from
+orbit by 2–4 series of small scales; ventrals and
+subcaudals (Myanmar, northeastern India and
+adjacent areas of China and Thailand) 137–176
+and 36–62 respectively, subcaudals mixed
+paired and single, occasionally all unpaired (ventrals and subcaudals for southern China, Vietnam,
+--------------------------------------------------------------------------------
+Grünwald et al. — New species of *Ophryacus* (https://www.herp.mx/pubs/2015-Grunwald-et-al-Ophryacus.pdf)
+ [wordlim: 200] Published: 10.9 years ago; Crawled: last week; <td>Supraocular horns present on head; nine or more intersupraocular scales; middorsal scales at midbody broad and obtusely rounded; suboculars separated from supralabials by at least one scale → 3</td> ... <td>Supraocular horn wider than tall and in contact with upper preocular; tail more than 17% of total length in males; upper preocular 1.5 times longer than high; 10–12 intersupraoculars (not counting horns) and only four anterior intercanthals (lowest count) → ***Ophryacus sphenophrys***</td>
+</tr>
+<tr>
+<td>3a.</td>
+<td>Subcaudals entire; canthals flat; fewer than 152 ventrals → ***Mixcoatlus melanurus***</td>
+</tr>
+<tr>
+<td>3b.</td>
+<td>Subcaudals divided; canthals raised, either pointed or rounded; more than 154 ventrals → 4</td>
+</tr>
+<tr>
+<td>4a.</td>
+<td>Supraocular horn not in contact with eye, separated by one or two small scales; rounded canthals and supraocular horn; 10 or fewer supralabials; 22–29 interrictals, pale triangular marking extends diagonally from eye to 5<sup>th</sup> and 6<sup>th</sup> supralabials → ***Ophryacus smaragdinus***</td>
+</tr>
+<tr>
+<td>4b.</td>
+<td>Supraocular horn in direct contact with eye; pointed canthals and supraocular horn; nine or more supralabials; 31–36 interrictals; no pale triangular marking on lateral sides of head → 5</td>
+</tr>
+<tr>
+<td>5a.</td>
+<td>Supraocular horn wider than tall and in contact with upper preocular; tail more than 17% of total length in males; upper preocular 1.5 times longer than high; 10–12 intersupraoculars (not counting horns) and only four anterior intercanthals (lowest count) → ***Ophryacus sphenophrys***</td>
+</tr>
+<tr>
+<td>5b.</td>
+<td>Supraocular horn taller than wide and not in contact with upper preocular; tail 14% or less of total length in males; upper preocular usually twice or more longer than high; 13 or more intersupraoculars (not counting horns) and five or more anterior intercanthals (lowest count) → ***Ophryacus undulatus***</td>
+</tr>
+</table>
+
+Mesoamerican Herpetology — 401 — December 2015 | Volume 2 | Number 4--------------------------------------------------------------------------------
+Biology: Ovophis spp., Mountain pitvipers | Indian Subcontinent and Southeast Asia | Terrestrial Snakes | VAPAGuide (https://vapaguide.info/catalogue/ISSEA-TER-PIT-90)
+ [wordlim: 200] Crawled: last month; Ovophis okinavensis ... Ovophis tonkinensis ... Smaller, ground-dwelling species in shades of brown and red with repeating, dark pattern along the back.
+
+# Animal: Ovophis spp., Mountain pitvipers
+
+Clinical Entries
+
+Formerly genus Trimeresurus
+
+## Species
+
+  1. Ovophis convictus
+  2. Ovophis jenkinsi
+  3. Ovophis makazayazaya
+  4. Ovophis malhotrae
+  5. Ovophis monticola
+  6. Ovophis okinavensis
+  7. Ovophis tonkinensis
+  8. Ovophis zayuensis
+
+The genus Ovophis was previously included in the genus Trimeresurus (David and Ineich 1999, Gumprecht et al. 2004).
+
+See also Trimeresurus spp. for detailed disscussion about the revision of the genus Trimeresurus.
+
+Ovophis convictus, Ovophis makazayazaya and Ovophis zayunensis previously described as subspecies of Ovophis monticola.
+
+## Taxonomy
+
+Serpentes; Viperidae; Crotalinae
+
+## Common names
+
+  1. Indo-Malayan mountain pitviper
+  2. Jenkins’ mountain pitviper
+  3. Taiwan mountain pitviper
+  4. Mountain pitviper
+  5. Okinawa pitviper
+  6. Tonkin pitviper
+  7. Zayuan mountain pitviper
+
+## Distribution
+
+See link "Distribution" at the top of the page for detailed information.
+
+Indian Subcontinent eastwards to China, Taiwan and Ryukyu Islands.
+
+Image
+
+Ovophis spp.
+
+## Biology
+
+Smaller, ground-dwelling species in shades of brown and red with repeating, dark pattern along the back. Found also in mountainous zones at altitudes of up to more than 1,800 m.
+
+## Literature (biological)
+
+David and Ineich 1999, David and Vogel 2015, Gumprecht et al. 2004, Malhotra and Thorpe 2004, Malhotra et al. 2011, Qiu et al. 2024, Zeng et al. 2023--------------------------------------------------------------------------------
+Ovophis convictus (https://zenodo.org/records/7968329)
+ [wordlim: 200] Published: 3.5 years ago; Crawled: last week; Ovophis monticola — Manthey & Grossmann, 1997: 406.
+
+Ovophis monticola convictus — David & Vogel, 1996: 158.— Cox et al., 1998: 24.— Iskandar & Colijn, 2001: 155.— Gumprecht et al., 2004: 24.
+
+Published May 18, 2023 | Version v1
+
+Taxonomic treatment Open
+
+# Ovophis convictus
+
+### Authors/Creators
+
+  * Figueroa, Alex
+  * Low, Martyn E. Y.
+  * Lim, Kelvin K. P.
+
+## Description
+
+Ovophis convictus (Stoliczka, 1870) — Erroneous.
+
+Indo-Malayan Mountain Pit Viper
+
+Singapore records.
+
+Trimeresurus monticola — Boulenger, 1890a: 427.—Sworder, 1923: 73.—Pope, 1935: 415.— de Haas, 1950: 610.—K.K.P. Lim & L.M. Chou, 1990: 55.—K.K.P. Lim & F.L.K. Lim, 1992: 149.—L.M. Chou et al., 1994: 106.
+
+Lachesis monticola — Boulenger, 1896: 548, 549.— Flower, 1896: 896.—Ridley, 1899: 204.— Calmette, 1908: 52.— Boulenger, 1912: 216.— de Rooij, 1917: 283.
+
+Ovophis monticola — Manthey & Grossmann, 1997: 406.
+
+Ovophis monticola convictus — David & Vogel, 1996: 158.— Cox et al., 1998: 24.— Iskandar & Colijn, 2001: 155.— Gumprecht et al., 2004: 24.
+
+Ovophis convictus —K.K.P. Lim & F.L.K. Lim, 2002: 149.—N. Baker & K.P. Lim, 2008: 169.— Das, 2010: 305.—N. --------------------------------------------------------------------------------
+﻿A new mountain pitviper of the genus Ovophis Burger in Hoge & Romano-Hoge, 1981 (Serpentes, Viperidae) from Yunnan, China (https://pmc.ncbi.nlm.nih.gov/articles/PMC11161677/)
+ [wordlim: 200] Published: 2.5 years ago; Crawled: last month; 2 (body group 1)  | [content-type: taxon-name] [content-type: genus] Ovophis[content-type: species] jenkinsi sp. nov.  | 23 (25)–21 (23, 25)–19 (17, 21)  | 134–142  | 40–52, paired  | Yes  | 3^{rd} > 4^{th}  | Patterned  | Deep orange-brown or dark brownish-grey  | Mostly trapezoidal  | Scattered ... 7 (body group 1)  | [content-type: taxon-name] [content-type: genus] O.[content-type: species] tonkinensis  | 25 (27, 29)–23 (21–25)–19 (21)  | 128–134  | 39–49, unpaired  | Yes or no  | 3^{rd} < 4^{th}  | Unpatterned  | Yellowish-brown  | Rectangular or irregular patches  | Continuous
+3 (body group 1)  | [content-type: taxon-name] [content-type: genus] O.[content-type: species] monticola  | 23 (21)–23 (21)–19  | 141–172  | 37–58, paired  | Yes  | 3^{rd} > 4^{th}  | Patterned  | Yellowish-brown  | Mostly rectangular  | Scattered
+4 (body group 1)  | [content-type: taxon-name] [content-type: genus] O.[content-type: species] convictus  | 25–25–18  | 136  | 17–31, paired  | Yes  | 3^{rd} > 4^{th}  | Unpatterned  | Yellowish-brown  | Mostly rectangular  | Scattered
+5 (body group 1)  | [content-type: taxon-name] [content-type: genus] O.[content-type: species] makazayazaya  | 25 (27, 29)–23 (25, 21)–19 (21)  | 131–159  | 34–52, paired  | Yes or no  | 3^{rd} < 4^{th}  | Patterned or unpatterned  | Yellowish-brown or dark-grey  | Rectangular or irregular patches  | Scattered
+6 (body group 1)  | [content-type: taxon-name] [content-type: genus] O.[content-type: species] malhotrae  | 27–23–19  | 145  | 47, paired  | Yes  | 3^{rd} > 4^{th}  | Patterned  | Dark-brown  | Mostly rectangular  | Continuous
+7 (body group 1)  | [content-type: taxon-name] [content-type: genus] O.[content-type: species] tonkinensis  | 25 (27, 29)–23 (21–25)–19 (21)  | 128–134  | 39–49, unpaired  | Yes or no  | 3^{rd} < 4^{th}  | Unpatterned  | Yellowish-brown  | Rectangular or irregular patches  | Continuous
+8 (body group 1)  | [content-type: taxon-name] [content-type: genus] O.[content-type: species] zayuensis  | 25 (27)–23–19 (17)  | 160–177  | 43–64, unpaired  | Yes or no  | 3^{rd} > 4^{th}  | Patterned or unpatterned  | Reddish-brown or brown  | Mostly trapezoidal and triangular  | No visible white spots
+
+[sec-type: treatment-distribution]
+
+--------------------------------------------------------------------------------
+King Cobra | Herpeton Academy (https://academy.herpeton.net/en/caresheets/snakes/ophiophagus-hannah/)
+ [wordlim: 200] Published: 3 months ago; Crawled: today; Species Ophiophagus hannah ... A 2024 revision divided the former wide-ranging concept into four species: O. hannah north and east of the Western Ghats and through Indo-Burma and Indochina; O. kaalinga in India’s Western Ghats; O. bungarus on the Sunda Shelf and parts of the southern Philippines; and O. salvatana on Luzon.
+# King Cobra
+
+#### 🔤 Taxonomy
+
+  1. KingdomAnimalia
+  2. PhylumChordata
+  3. ClassSquamata
+  4. FamilyElapidae
+  5. GenusOphiophagus
+  6. SpeciesOphiophagus hannah
+
+Ophiophagus hannah is now the northern king cobra in the strict taxonomic sense. A 2024 revision divided the former wide-ranging concept into four species: O. hannah north and east of the Western Ghats and through Indo-Burma and Indochina; O. kaalinga in India’s Western Ghats; O. bungarus on the Sunda Shelf and parts of the southern Philippines; and O. salvatana on Luzon. Old labels that say only “king cobra” or O. hannah may therefore conceal a different species or a mixed lineage.
+
+Older combinations include Hamadryas hannah and Naja hannah. Scientific name, precise origin, banding photographs and transfer history must travel with every animal. This guide must not be applied automatically to Malaysian, Indonesian, Western Ghats or Philippine stock.
+--------------------------------------------------------------------------------
+Ovophis monticola | The Reptile Database (https://reptile-database.reptarium.cz/Ovophis/monticola?search_param=%28%28taxon%3D%27Crotalinae%27%2Cexact%29%29)
+ [wordlim: 200] Crawled: 2 days ago; Ovophis (monticola) convictus (STOLICZKA, 1870) is listed here as a valid species. ... Types: The name-bearing type specimens of Trimeresurus monticola meridionalis Bourret, 1935 are shown to be composed of two primary syntypes that are referable to Ovophis monticola (Günther, 1864) as currently conceived, and a secondary syntype that belongs to Ovophis convictus (Stoliczka, 1870).
+--------------------------------------------------------------------------------
+Thbif :: Onep.Go.Th (https://thbif.onep.go.th/taxons/taxon_detail/Ovophis%2Bconvictus)
+ [wordlim: 200] Crawled: last week; - Ovophis monticola convictus (Stoliczka, 1870)
+--------------------------------------------------------------------------------
+European Journal of Taxonomy 961: 1–51 (2024) (https://uu.diva-portal.org/smash/get/diva2%3A1913629/FULLTEXT01.pdf)
+ [wordlim: 200] Published: 2.1 years ago; European Journal of Taxonomy 961: 1–51 (2024) ... Taxonomic revision of the king cobra *Ophiophagus hannah* (Cantor, 1836) species complex (Reptilia: Serpentes: Elapidae), with the description of two new species.
+--------------------------------------------------------------------------------
+CJNH 2011 2 CS5 12 Jan.indd (https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_201112_Cambodian-Journal-of-Natural-History.pdf)
+ [wordlim: 200] Published: 14.9 years ago; Crawled: last year; Recently, two tissue samples of this species from the Cameron Highlands and one tissue sample from Langkawi Island, West Malaysia, were sequenced by Malhotra *et al.* (2011b) in an attempt to resolve the confusion caused by the morphological similarity of the Southeast Asian members of the *Ovophis* complex: *O. makazayazaya* (David & Tong, 1997), *O. tonkinensis* (Bourrett, 1934), *O. monticola* (Günther, 1864), *O. zayuensis* (Jiang, 1977) and *O. convictus* (Stoliczka, 1870).
+--------------------------------------------------------------------------------
+Ophiophagus hannah - Plazi TreatmentBank (https://taxon-concept.plazi.org/GgServer/html/039487D5FFE8FFAE5E80FA46FF2BF803)
+ [wordlim: 200] Published: 4.0 years ago; Crawled: 2 weeks ago; R., 2022, Snake fauna of the Andaman Islands, Bay of Bengal-A review of species richness taxonomy, distribution, natural history and conservation status, Zootaxa 5209 (3), pp. ... scientific name  | Ophiophagus hannah (Cantor, 1836) ... Morphology: Dorsal scales smooth, in 17:15:13/14 rows; ventrals 241–244; subcaudals 9–14 entire, 44–74 divided; anal single; preocular 1; postoculars 3; loreal absent; temporals 2+3.
+--------------------------------------------------------------------------------
+King cobra (https://archania.org/p/arch-scalaverse/the-realm-of-biological-systems/multicellular-organisms/animals/reptiles/king-cobra)
+ [wordlim: 200] Crawled: today; ^{[2]} The 2024 revision formally restricted O. hannah to the Asian mainland lineage and the Andaman Islands, revived O. bungarus for the Sunda king cobra, and described O. kaalinga and O. salvatana for the Western Ghats and Luzon lineages respectively. ... The evolutionary history of the genus is best represented as a branching lineage reconstructed from living species, morphology, biogeography, and molecular data. ... ^{[4]} Because some sampled populations may now belong to other Ophiophagus species, older molecular and venom results should not automatically be attributed to O. hannah sensu stricto without checking specimen origin.
+--------------------------------------------------------------------------------
+Ophiophagus hannah | The Reptile Database (https://reptile-database.reptarium.cz/Ophiophagus/hannah?exact%5B0%5D=genus)
+ [wordlim: 200] Crawled: last month; Ophiophagus hannah — WELCH 1994: 95 ... Type species: Hamadryas elaps GÜNTHER 1858 is the type species of the genus Ophiophagus GÜNTHER 1864.
+Type specimens: four syntypes of Hamadryas hannah were originally reported from “Sunderbuns” and “jungle not far from Calcutta”, are now lost or untraceable (not mentioned in Boulenger 1896; Das et al. 1998), along with most of Cantor’s zoological specimens (see Adler 2016), hence Das et al. 2024 designated a neotype.
+--------------------------------------------------------------------------------
+Thbif :: Onep.Go.Th (https://thbif.onep.go.th/taxons/taxon_detail/Ovophis%20monticola%20convictus)
+ [wordlim: 200] Crawled: last week; ### Ovophis monticola convictus
+--------------------------------------------------------------------------------
+Ophryacus sphenophrys (https://en.wikipedia.org/wiki/Ophryacus_sphenophrys)
+ [wordlim: 200] Crawled: 6 months ago; Ophryacus sphenophrys ... Canth is pointed then fused with horn. 10 supralabials, 3 interoculabials, 10–12 intersupraoculars, 33 interrictals, 171 ventrals.
+--------------------------------------------------------------------------------
+Ovophis convictus (https://fr.wikipedia.org/wiki/Ovophis_convictus)
+ [wordlim: 200] Crawled: 3.2 years ago;  Description de l'image Indo-malayan Mountain Pitviper (Ovophis monticola convictus) (18085351724).jpg.
+--------------------------------------------------------------------------------
+Ovophis (https://en.wikipedia.org/wiki/Ovophis)
+ [wordlim: 200] Crawled: 6 months ago; Ovophis ... *  | Common name  | Geographic range ...  O. okinavensis  | (Boulenger, 1892)  | 0  | Okinawa pit viper  | Japan (Ryukyu Islands: Okinawa and the Amami Islands). ... One other species that is included in some other taxonomies is O. tonkinensis (Bourret, 1934).
+--------------------------------------------------------------------------------
+Ophiophagus bungarus (https://en.wikipedia.org/wiki/Ophiophagus_bungarus)
+ [wordlim: 200] Crawled: last month; ; Wüster, Wolfgang (2024). "Taxonomic revision of the king cobra Ophiophagus hannah (Cantor, 1836) species complex (Reptilia: Serpentes: Elapidae), with the description of two new species".
+--------------------------------------------------------------------------------
+King cobra (https://en.wikipedia.org/wiki/King_cobra)
+ [wordlim: 200] Crawled: yesterday; Since then, the species name Naja/Hoplocephalus bungaroides, originally coined for the king cobra and improperly assigned to the broad-headed snake, became conflated with the broad-headed snake and used as the type species of Hoplocephalus, while the species name Naja bungarus was treated as a junior synonym of the king cobra (until its revival as the species name for the Sunda king cobra in 2024). ... "Taxonomic revision of the king cobra Ophiophagus hannah (Cantor, 1836) species complex (Reptilia: Serpentes: Elapidae), with the description of two new species".
+--------------------------------------------------------------------------------
+Королевская кобра (https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%B1%D1%80%D0%B0)
+ [wordlim: 200] Crawled: 2 months ago; Taxonomic revision of the king cobra Ophiophagus hannah (Cantor, 1836) species complex (Reptilia: Serpentes: Elapidae), with the description of two new species : [англ.] : [арх. 16 ноября 2024] // European Journal of Taxonomy. — 2024. — Vol.
+--------------------------------------------------------------------------------
+King Cobra Fishing | Biologist Henrique the Snake Biologist - YouTube (https://www.youtube.com/watch?v=LO9AEAnSA_o)
+ [wordlim: 200] Published: 5.1 years ago; Crawled: 1.2 years ago; 13] The genus Ophiophagus was proposed by Günther in 1864. ... Ophiophagus hannah was accepted as the valid name for the king cobra by Charles Mitchill Bogert in 1945 who argued that it differs significantly from Naja species.
+--------------------------------------------------------------------------------
+Caught King Cobra by Force | Biologist Henrique - YouTube (https://www.youtube.com/watch?v=7DbAIocnEmM)
+ [wordlim: 200] Published: 4.4 years ago; Crawled: last year; 13] The genus Ophiophagus was proposed by Günther in 1864. ... Ophiophagus hannah was accepted as the valid name for the king cobra by Charles Mitchill Bogert in 1945 who argued that it differs significantly from Naja species.
+

@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "preset_id": "gloydius_brevicaudus",
+  "species_id": "source_c2063e82fbc291ac",
+  "source_species_name": "Gloydius brevicaudus",
+  "common_name": "Short-tailed Mamushi",
+  "status": "illustrative_unvalidated",
+  "variant": "Short-tailed mamushi with dark-edged brown dorsal spots and a pale-edged dark cheek band.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://doi.org/10.6084/m9.figshare.24572683",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Gloydius/brevicaudus",
+        "scope": "Species diagnostic description and variation."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
+        "image_id": "inat_2782067",
+        "sha256": "23bc04ea810ce623dfc6009f73ba919b0060a938fd6598de3050533190651f4c",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
+        "image_id": "inat_2805669",
+        "sha256": "e93490e5ad870e5a2279685cf6ceb0b970757356e29df0c1f0a0e32ee789365b",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
+        "image_id": "inat_140809083",
+        "sha256": "e8c3acabe37ad10bea85025a2dd51cd4035f140353f9ec8690b1e199e5705fd6",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_2782067": "Dark postocular band with pale border, brown blotches and pale flank flecks.",
+      "inat_2805669": "Coiled body with narrow light borders on dark markings.",
+      "inat_140809083": "Dorsal pattern and short taper in an additional individual."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial reference-informed draft; further fitting and anatomical review required.",
+    "modeling_flags": [
+      "The selected photos show limited ventral anatomy; the reference describes a dark belly, and a ventral view is still needed.",
+      "Body pattern and scale layout remain approximate; all angles are not independently reconstructed."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Dark postocular band with pale border, brown blotches and pale flank flecks.",
+        "Coiled body with narrow light borders on dark markings.",
+        "Dorsal pattern and short taper in an additional individual.",
+        "After reviewing the initial rendering, increased the spacing density of the pale-edged dorsal markings."
+      ],
+      "projection_limit": "Single projected study with artistic dimensions.",
+      "reference_ids": [
+        "inat_2782067",
+        "inat_2805669",
+        "inat_140809083"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "ocelli",
+    "skin_color": "#a78b69",
+    "marking_color": "#493b32",
+    "belly_color": "#d8bea0",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 4.5,
+    "mark_spacing": 46,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 67,
+      "neck": 8.2,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -1.91429,
+          -5.75,
+          6.7,
+          -9.2,
+          19.14286,
+          -11.5
+        ],
+        [
+          19.14286,
+          -11.5,
+          30.62857,
+          -13.8,
+          45.94286,
+          -19.55,
+          54.55714,
+          -17.25
+        ],
+        [
+          54.55714,
+          -17.25,
+          61.25714,
+          -13.8,
+          62.21429,
+          -8.2,
+          67,
+          -8.2
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          0.95714,
+          5.6,
+          7.65714,
+          8.96,
+          21.05714,
+          10.08
+        ],
+        [
+          21.05714,
+          10.08,
+          33.5,
+          12.32,
+          46.9,
+          14.56,
+          55.51429,
+          11.2
+        ],
+        [
+          55.51429,
+          11.2,
+          61.25714,
+          9.52,
+          63.17143,
+          8.2,
+          67,
+          8.2
+        ]
+      ],
+      "eye": [
+        26,
+        -3,
+        3.2,
+        3.5
+      ],
+      "nostril": [
+        6,
+        -1.3
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q23.4 6 46.9 8 L60.3 4",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M25.5 -2 Q39.5 1 53.6 5 L53.6 9 Q38.9 5 25.5 2 Z",
+          "fill": "#473b34"
+        },
+        {
+          "path": "M26.8 2 Q40.2 6 53.6 9",
+          "stroke": "#e3d0ae",
+          "width": 1.3
+        }
+      ],
+      "micro_scales": true,
+      "iris_color": "#a7976d",
+      "pit": [
+        15.5,
+        0.8
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.2
+      ],
+      [
+        258,
+        227,
+        12
+      ],
+      [
+        305,
+        249,
+        17
+      ],
+      [
+        390,
+        271,
+        20
+      ],
+      [
+        471,
+        302,
+        21
+      ],
+      [
+        514,
+        347,
+        20
+      ],
+      [
+        502,
+        397,
+        20
+      ],
+      [
+        430,
+        431,
+        19
+      ],
+      [
+        330,
+        445,
+        18
+      ],
+      [
+        253,
+        476,
+        17
+      ],
+      [
+        253,
+        515,
+        16
+      ],
+      [
+        324,
+        550,
+        14
+      ],
+      [
+        400,
+        555,
+        11
+      ],
+      [
+        460,
+        546,
+        7
+      ],
+      [
+        510,
+        528,
+        3
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "ocelli_center_color": "#856c51"
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

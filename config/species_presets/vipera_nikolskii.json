@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "preset_id": "vipera_nikolskii",
+  "species_id": "source_50fbaebf58280fa9",
+  "source_species_name": "Vipera nikolskii",
+  "common_name": "Nikolsky's Viper",
+  "status": "illustrative_unvalidated",
+  "variant": "Dark adult Nikolsky\u2019s viper form with keeled scales.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0041010107003959",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Vipera/nikolskii",
+        "scope": "Taxonomy, color variation or qualitative morphology."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_146_vipera_nikolskii/manifest.json",
+        "image_id": "inat_76882989",
+        "sha256": "860414637a1903d03c2ba30dce779377d171c4e79ce8e4f38276283d3d550f58",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_146_vipera_nikolskii/manifest.json",
+        "image_id": "inat_73071561",
+        "sha256": "23076c1338996493a79fd2dc9220d767e16cbfd5f6db702b67ca315416cbd6dc",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_146_vipera_nikolskii/manifest.json",
+        "image_id": "inat_77009223",
+        "sha256": "d80e8b0a5b5f28263405535c8af7d3e08e2a3f8dd339eaf71a78558ac28ca290",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_76882989": "Black individual showing head, eye and keeled body.",
+      "inat_73071561": "Coiled dark individual.",
+      "inat_77009223": "Another dark individual in leaf litter."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial reference-informed draft; further fitting and independent anatomical review required.",
+    "modeling_flags": [
+      "Some common adders are also dark; the black palette alone is not diagnostic and species-complex taxonomy requires review.",
+      "Head and body use an adapted viper scaffold; opposite side, underside, and exact shape need further fitting."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Black individual showing head, eye and keeled body.",
+        "Coiled dark individual.",
+        "Another dark individual in leaf litter.",
+        "Reduced the skull envelope after comparing the selected black individual; further fitting is still required."
+      ],
+      "projection_limit": "Single 2D projection; geometry is artistic and not morphometric.",
+      "reference_ids": [
+        "inat_76882989",
+        "inat_73071561",
+        "inat_77009223"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "plain",
+    "skin_color": "#373a3a",
+    "marking_color": "#222627",
+    "belly_color": "#6a6e6b",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 4.7,
+    "mark_spacing": 50,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 67,
+      "neck": 7.462,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          -1.17544,
+          -5.46,
+          8.22807,
+          -8.736,
+          21.15789,
+          -10.92
+        ],
+        [
+          21.15789,
+          -10.92,
+          31.73684,
+          -13.104,
+          47.01754,
+          -16.38,
+          56.42105,
+          -13.104
+        ],
+        [
+          56.42105,
+          -13.104,
+          61.12281,
+          -10.92,
+          63.47368,
+          -7.462,
+          67,
+          -7.462
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          1.17544,
+          4.004,
+          9.40351,
+          7.007,
+          23.50877,
+          9.009
+        ],
+        [
+          23.50877,
+          9.009,
+          34.08772,
+          11.011,
+          47.01754,
+          12.012,
+          56.42105,
+          10.01
+        ],
+        [
+          56.42105,
+          10.01,
+          61.12281,
+          8.5085,
+          63.47368,
+          7.462,
+          67,
+          7.462
+        ]
+      ],
+      "eye": [
+        26,
+        -3,
+        3.2,
+        3.4
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q23.4 6 46.9 8 L60.3 4",
+      "shields": [],
+      "lip": true,
+      "markings": [],
+      "micro_scales": true,
+      "iris_color": "#665250"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.5
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        26
+      ],
+      [
+        471,
+        302,
+        28
+      ],
+      [
+        514,
+        347,
+        27
+      ],
+      [
+        502,
+        397,
+        26
+      ],
+      [
+        430,
+        431,
+        24
+      ],
+      [
+        330,
+        445,
+        23
+      ],
+      [
+        253,
+        476,
+        22
+      ],
+      [
+        253,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        19
+      ],
+      [
+        400,
+        555,
+        16
+      ],
+      [
+        460,
+        546,
+        11
+      ],
+      [
+        510,
+        528,
+        5
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

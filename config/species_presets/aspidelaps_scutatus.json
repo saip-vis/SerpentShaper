@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "preset_id": "aspidelaps_scutatus",
+  "species_id": "source_70c74df06bb77557",
+  "source_species_name": "Aspidelaps scutatus",
+  "common_name": "Shield-nosed snake",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown speckled form with pale throat; neutral head instead of defensive expansion.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://the-eis.com/elibrary/sites/default/files/downloads/literature/Snakes%20of%20southern%20Africa_1966.pdf",
+        "scope": "Qualitative morphology; see physical profile for field provenance."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_015_aspidelaps_scutatus/manifest.json",
+        "image_id": "inat_96904739",
+        "sha256": "e0b0a6a2234dadf38365d6693e5becfc21e7847158ef4a0e4959ceb77eebaeb0",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_015_aspidelaps_scutatus/manifest.json",
+        "image_id": "inat_456924430",
+        "sha256": "7f8ab8bd3d6c73453ae0168e1e0097fbb7eff7d9d94e974a084db1f5e56c9139",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_015_aspidelaps_scutatus/manifest.json",
+        "image_id": "inat_457253869",
+        "sha256": "4eb884e1ababe7cb7c96aca935aaf8225ade88cdcbb8388dd1c714dc625f7713",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_015_aspidelaps_scutatus/manifest.json",
+        "image_id": "inat_722700334",
+        "sha256": "0c2dcb01081d5982bf040894ad9de23d9c0be42fbdf10c2dab2930eccdcd9de7",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_015_aspidelaps_scutatus/manifest.json",
+        "image_id": "inat_456924431",
+        "sha256": "eee1d3d42bbbdff8a32e86a4904fc2e2b4eeebe2feb0287cc94ce17a4dcfdd7a",
+        "use": "Qualitative visual reference; no fitted measurements."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_96904739": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_456924430": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_457253869": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_722700334": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_456924431": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting."
+    },
+    "unextracted_fields": [
+      "body",
+      "tail",
+      "pattern",
+      "ventral",
+      "eyes",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Very short rounded skull, conspicuously projecting rostral shield, large dark eye and glossy head plates.",
+        "Weak neck distinction in neutral pose; brown dorsal crossmarks; dark throat bands in raised specimens.",
+        "Second pass: finer smooth scale pitch; separated rostral shield and skull pigment from trunk bands.",
+        "Third reference comparison: broader blunt rostral front and darker iris, avoiding pointed generic snout and overly pale eye."
+      ],
+      "projection_limit": "Artistic projected dorsal/oblique geometry; no calibrated multi-view reconstruction.",
+      "reference_ids": [
+        "inat_96904739",
+        "inat_456924430",
+        "inat_457253869",
+        "inat_722700334",
+        "inat_456924431"
+      ]
+    },
+    "modeling_flags": [
+      "Neutral lateral throat coloration inferred from raised views; full underside unavailable.",
+      "Posterior keeling varies along body and is not yet localized in renderer."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "terrestrial",
+    "pattern": "crossbands",
+    "skin_color": "#997653",
+    "marking_color": "#55432f",
+    "belly_color": "#e1d4b6",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 5.2,
+    "mark_spacing": 44,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 45,
+      "neck": 8,
+      "upper": [
+        [
+          0,
+          0,
+          -1.5,
+          -6.0,
+          5,
+          -8.399999999999999,
+          10.799999999999999,
+          -10.2
+        ],
+        [
+          10.799999999999999,
+          -10.2,
+          19.35,
+          -13.200000000000001,
+          30.6,
+          -12.600000000000001,
+          35.1,
+          -7.800000000000001
+        ],
+        [
+          35.1,
+          -7.800000000000001,
+          38.7,
+          -8,
+          42.3,
+          -8,
+          45,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          -1.2,
+          4.4,
+          8.55,
+          7.699999999999999,
+          18.0,
+          9.35
+        ],
+        [
+          18.0,
+          9.35,
+          27.0,
+          11,
+          32.85,
+          9.35,
+          36.9,
+          5.720000000000001
+        ],
+        [
+          36.9,
+          5.720000000000001,
+          39.6,
+          8,
+          42.3,
+          8,
+          45,
+          8
+        ]
+      ],
+      "eye": [
+        18,
+        -1,
+        3.7,
+        3.9
+      ],
+      "nostril": [
+        7,
+        -2
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M2 4 Q18.0 6.6 33.75 6.6 L40.5 8",
+      "shields": [
+        "M2 -6 Q6 -9 9 -4 L8 5 L2 6Z",
+        "M10 -9 L20 -11 L28 -8 L26 -1 L15 0Z",
+        "M29 -8 L38 -7 L40 3 L31 6",
+        "M3 5 L13 7 L25 8 L42 7 M13 4 L13 8 M24 5 L24 9"
+      ],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M0 0 Q0 -5 4 -6 L8 -4 L7 5 L1 5Z",
+          "fill": "#e1d4b6",
+          "stroke": "#584e3e",
+          "width": 0.6
+        }
+      ],
+      "iris_color": "#494c3d"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8
+      ],
+      [
+        258,
+        227,
+        10
+      ],
+      [
+        305,
+        249,
+        14
+      ],
+      [
+        390,
+        271,
+        17
+      ],
+      [
+        471,
+        302,
+        18
+      ],
+      [
+        514,
+        347,
+        17
+      ],
+      [
+        502,
+        397,
+        15
+      ],
+      [
+        430,
+        431,
+        13
+      ],
+      [
+        330,
+        445,
+        11
+      ],
+      [
+        253,
+        476,
+        9
+      ],
+      [
+        253,
+        515,
+        6.5
+      ],
+      [
+        324,
+        550,
+        4.5
+      ],
+      [
+        425,
+        562,
+        2.7
+      ],
+      [
+        527,
+        548,
+        1.6
+      ],
+      [
+        610,
+        516,
+        0.7
+      ],
+      [
+        669,
+        468,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

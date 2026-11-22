@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "preset_id": "atropoides_picadoi",
+  "species_id": "source_2254d1cf65a596a3",
+  "source_species_name": "Atropoides picadoi",
+  "common_name": "Picado\u2019s jumping pitviper",
+  "status": "illustrative_unvalidated",
+  "variant": "Dark rhomboids on rusty brown ground; pale labial border and strong postocular patch.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/atropoides-picadoi",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_016_atropoides_picadoi/manifest.json",
+        "image_id": "inat_313223456",
+        "sha256": "9589c25fd8a3585257bd48b940c9cc853ba5a6304d5805fc54667e4b1e0eccf9",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_016_atropoides_picadoi/manifest.json",
+        "image_id": "inat_313223445",
+        "sha256": "45d10d757323ccf3150bd8d851eb5ccc027ee59edc325f4a59fb75e717cf43b0",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_313223456": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_313223445": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Exceptionally robust trunk and broad deep posterior head; blunt snout and pronounced neck constriction.",
+        "Dark rhomboids on rusty brown ground; pale labial border and strong postocular patch.",
+        "Second rendered comparison: flattened lower jaw, moved posterior skull breadth rearward and straightened postocular marking; removed inflated oval cheek.",
+        "Third reference comparison: broader pale labial region; selected facial pigmentation isolated from the body chevrons."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_313223456",
+        "inat_313223445"
+      ]
+    },
+    "modeling_flags": [
+      "Only two unique observations; second appears dead/damaged and was not used.",
+      "Ventral and unobscured tail views insufficient."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "blotches",
+    "skin_color": "#8a6544",
+    "marking_color": "#4b382c",
+    "belly_color": "#c7a67a",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 6.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 77,
+      "neck": 12,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          9.24,
+          -9.576,
+          20.790000000000003,
+          -12.096
+        ],
+        [
+          20.790000000000003,
+          -12.096,
+          36.96,
+          -18.144000000000002,
+          53.129999999999995,
+          -24.192,
+          60.830000000000005,
+          -22.176000000000002
+        ],
+        [
+          60.830000000000005,
+          -22.176000000000002,
+          66.22,
+          -12,
+          71.61,
+          -12,
+          77,
+          -12
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          5,
+          19.25,
+          8.84,
+          36.96,
+          11.049999999999999
+        ],
+        [
+          36.96,
+          11.049999999999999,
+          50.050000000000004,
+          12.817999999999998,
+          60.06,
+          13.259999999999998,
+          64.67999999999999,
+          9.944999999999999
+        ],
+        [
+          64.67999999999999,
+          9.944999999999999,
+          69.3,
+          12,
+          73.14999999999999,
+          12,
+          77,
+          12
+        ]
+      ],
+      "eye": [
+        24,
+        -2,
+        3.6,
+        3.9600000000000004
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q26.95 6.188 53.9 7.7349999999999985 L69.3 6.0",
+      "shields": [],
+      "lip": true,
+      "pit": [
+        13.200000000000001,
+        0
+      ],
+      "markings": [
+        {
+          "path": "M28 0 L67 2 L64 7 L28 4Z",
+          "fill": "#3c3b29"
+        }
+      ],
+      "labial_boundary": "M-3 1 Q24 1 49 5 L79 7 L79 35 L-3 35Z"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        12
+      ],
+      [
+        258,
+        227,
+        20
+      ],
+      [
+        305,
+        249,
+        29
+      ],
+      [
+        390,
+        271,
+        35
+      ],
+      [
+        471,
+        302,
+        36
+      ],
+      [
+        514,
+        347,
+        34
+      ],
+      [
+        502,
+        397,
+        31
+      ],
+      [
+        430,
+        431,
+        29
+      ],
+      [
+        330,
+        445,
+        27
+      ],
+      [
+        253,
+        476,
+        24
+      ],
+      [
+        253,
+        515,
+        19
+      ],
+      [
+        324,
+        550,
+        12
+      ],
+      [
+        400,
+        555,
+        7
+      ],
+      [
+        460,
+        546,
+        3
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "preset_id": "crotalus_atrox",
+  "species_id": "source_99757be7d95046fb",
+  "source_species_name": "Crotalus atrox",
+  "common_name": "Western diamondback",
+  "status": "illustrative_unvalidated",
+  "variant": "Tan diamond-patterned adult; rattle segments are an artistic choice, not age.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.californiaherps.com/snakes/pages/c.atrox.html",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      },
+      {
+        "path": "docs/StarterSpeciesPhysicalProfiles.md",
+        "scope": "Detailed starter profile and its original citations."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+        "image_id": "inat_791396",
+        "sha256": "41b9723a1f9f39a728f3bf44be7e1f40c3e1f55bb174a76752d41c6af1a0a02d",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+        "image_id": "inat_873868",
+        "sha256": "ee07ab2f921d61c69bee5dbbfc52a94ad2f3c32eba9c5951fb4ccce4d10c23bb",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      }
+    ],
+    "unextracted_fields": [
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Reference-guided draft; no expert anatomical approval or measurements.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Angular posterior jaw corners and narrow neck; eye and heat pit have separate landmarks.",
+        "Robust middle trunk narrows into a short ringed tail and rattle.",
+        "Small head scales replace generic colubrid head plates."
+      ],
+      "projection_limit": "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "reference_ids": [
+        "inat_791396",
+        "inat_873868"
+      ]
+    },
+    "reference_feature_map": {
+      "inat_791396": "Head-neck constriction and heavy middle trunk.",
+      "inat_873868": "Additional accepted individual: qualitative head and dorsal pattern comparison."
+    },
+    "modeling_flags": [
+      "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic."
+    ],
+    "modeling_review_status": "previously_reviewed_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "diamonds",
+    "skin_color": "#ac9370",
+    "marking_color": "#e4d5ab",
+    "belly_color": "#d5c49e",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "rattle",
+    "scale_pitch": 7.4,
+    "mark_spacing": 52,
+    "mark_size": 1,
+    "tail_segments": 6,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 72,
+      "neck": 10,
+      "upper": [
+        [
+          0,
+          0,
+          -1,
+          -5,
+          4,
+          -10,
+          12,
+          -11
+        ],
+        [
+          12,
+          -11,
+          27,
+          -13,
+          42,
+          -26,
+          52,
+          -22
+        ],
+        [
+          52,
+          -22,
+          63,
+          -18,
+          62,
+          -10,
+          72,
+          -10
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          1,
+          6,
+          6,
+          10,
+          15,
+          11
+        ],
+        [
+          15,
+          11,
+          29,
+          15,
+          45,
+          25,
+          55,
+          20
+        ],
+        [
+          55,
+          20,
+          62,
+          17,
+          64,
+          10,
+          72,
+          10
+        ]
+      ],
+      "eye": [
+        25,
+        -4,
+        3.6,
+        3.4
+      ],
+      "nostril": [
+        5,
+        -2
+      ],
+      "pit": [
+        15,
+        1
+      ],
+      "jaw": "M2 5 Q28 10 54 14 L61 11",
+      "shields": [],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17
+    },
+    "body_stations": [
+      [
+        239,
+        219,
+        10
+      ],
+      [
+        278,
+        242,
+        19
+      ],
+      [
+        370,
+        265,
+        30
+      ],
+      [
+        463,
+        295,
+        33
+      ],
+      [
+        515,
+        344,
+        32
+      ],
+      [
+        506,
+        395,
+        29
+      ],
+      [
+        441,
+        430,
+        26
+      ],
+      [
+        341,
+        443,
+        22
+      ],
+      [
+        257,
+        472,
+        17
+      ],
+      [
+        252,
+        515,
+        11
+      ],
+      [
+        324,
+        550,
+        7
+      ],
+      [
+        387,
+        558,
+        5
+      ],
+      [
+        416,
+        556,
+        3.2
+      ],
+      [
+        435,
+        553,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ]
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 2
+}

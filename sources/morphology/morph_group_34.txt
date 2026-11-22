@@ -1,0 +1,203 @@
+Protobothrops kelomohy | The Reptile Database (https://reptile-database.reptarium.cz/Protobothrops/kelomohy?search_param=%28%28taxon%3D%27Crotalinae%27%2Cexact%29%29)
+ [wordlim: 200] Crawled: 2 days ago; Diagnosis  | Diagnosis: Protobothrops kelomohy sp. nov. differs from other species of the genus by the combination of the following characters: 1) relative larger body size (TL up to 1310 mm); 2) dorsal scale rows 23– 23–17, all keeled; 3) ventral scales 231-234; 4) high number of subcaudals (80-84 pairs); 5) 8-9 supralabials; 6) 12-13 infralabials; 7) typical lance-head pattern on upper head surface; 8) three bold vertical facial stripes, (first from internasal, second from facial pit, third from eye) and a bold postocular stripe extending obliquely downwards on temporal region then curved down immediately at the end of the last supralabial; 9) dorsal body and tail reddish-brown, each scale with black edges; transverse blotches, somewhat fused together as a zigzag median line on dorsum and a row of large ventrolateral blotches on each side, each darker marking edged with a narrow yellow line.
+
+# Protobothrops kelomohy SUMONTHA, VASARUCHAPONG, CHOMNGAM, SUNTRARACHUN, PAWANGKHANANT, SOMPAN, SMITS, KUNYA & CHANHOME, 2020
+
+
+Higher Taxa  | Viperidae, Crotalinae, Caenophidia, Alethinophidia, Serpentes, Squamata (snakes)
+Subspecies  |  
+Common Names  | E: Omkoi Lance-headed Pit Viper
+Thai: Ngoo Kelo Omkoi
+Karen: Yum Kelo Mo Hy 
+Synonym  | Protobothrops kelomohy SUMONTHA, VASARUCHAPONG, CHOMNGAM, SUNTRARACHUN, PAWANGKHANANT, SOMPAN, SMITS, KUNYA CHANHOME 2020 
+Distribution  | N Thailand (Chiang Mai)
+Type locality: Sop Khong Subdistrict, Omkoi District, Chiang Mai Province, northern Thailand (600 m elevation)  
+Reproduction  |  
+Types  | Holotype. QSMI 1557, adult male (Figs. 2, 3 in Sumontha et al. 2020), collected by Weerasak Sompan on 28 September 2017. Paratype. QSMI 1558, adult female from the same locality and collector as holotype, collected on 1 October 2017. 
+Diagnosis  | Diagnosis: Protobothrops kelomohy sp. nov. differs from other species of the genus by the combination of the following characters: 1) relative larger body size (TL up to 1310 mm); 2) dorsal scale rows 23– 23–17, all keeled; 3) ventral scales 231-234; 4) high number of subcaudals (80-84 pairs); 5) 8-9 supralabials; 6) 12-13 infralabials; 7) typical lance-head pattern on upper head surface; 8) three bold vertical facial stripes, (first from internasal, second from facial pit, third from eye) and a bold postocular stripe extending obliquely downwards on temporal region then curved down immediately at the end of the last supralabial; 9) dorsal body and tail reddish-brown, each scale with black edges; transverse blotches, somewhat fused together as a zigzag median line on dorsum and a row of large ventrolateral blotches on each side, each darker marking edged with a narrow yellow line.
+--------------------------------------------------------------------------------
+Trimeresurus nebularis Vogel, David & Pauwels, 2004 | Newsletter | Malaysia Biodiversity Information System (MyBIS) (https://www.mybis.gov.my/art/399)
+ [wordlim: 200] Published: 4.6 years ago; Crawled: last week; Trimeresurus nebularis, or the Cameron Highlands Pit Viper is a species under the family Viperidae, subfamily Crotalinae (pit vipers). ... The body dorsum is bright green, with a hint of blue. ... Trimeresurus nebularis can be distinguished from congeneric pit-vipers, such as Trimeresurus popeiorum (Pope’s Pit Viper) by the clear border between green and brown colours of tail.
+
+Trimeresurus nebularis males can attain about 100 cm, while females reach at least 95 cm. It has a robust and cylindrical body, the head and the neck can easily be distinguished; it’s pupil is vertical within a yellowish green or green iris. The body dorsum is bright green, with a hint of blue. The upper labials scales are usually bluish-green, while the throat and chin are yellowish green. Ventrolateral stripe and postocular streak are typically absent. The tail is green laterally and its vertebral region rusty brown, with a sharp line in between (Sumontha et al., 2011). Trimeresurus nebularis can be distinguished from congeneric pit-vipers, such as Trimeresurus popeiorum (Pope’s Pit Viper) by the clear border between green and brown colours of tail. The iris of eye is red in adults or yellow in juvenile T. popeiorum. Generally, T. nebularis has a lower scale count of supraoculars, subcaudals and ventrals compared to congeners. Trimeresurus sabahi fucatus (the Thai Peninsular Pit Viper), which has a similar distribution in the Malay Peninsula, has a few common characteristics with T. nebularis that may result in the two being confused. --------------------------------------------------------------------------------
+Microsoft Word - 43-59 Sumontha (https://www.thaiscience.info/Journals/Article/TNAH/10995072.pdf)
+ [wordlim: 200] Published: 6.7 years ago; Diagnosis. – Protobothrops kelomohy sp.
+SUMONTHA ET AL. — THE SECOND KNOWN SPECIES OF LANCE-HEADED PIT VIPER FROM THAILAND 
+47
+Fig. 4A) from the same locality and 
+collector as holotype, collected on 17 
+September 
+2017, 
+not 
+preserved 
+but 
+maintained alive at QSMI. 
+ 
+An injured adult from Tha Song Yang 
+District, Tak Province, northern Thailand 
+(689 m a.s.l.) photographed by Ton Smits 
+on 23 September 2018, but not examined 
+due to its injuries. 
+ 
+A live juvenile, sex unknown, from Tha 
+Song Yang District, Tak Province, northern 
+Thailand (701 m a.s.l.) photographed by 
+Ton Smits on 28 October 2018, was not 
+collected for further examination (Fig. 4B). 
+Diagnosis. – Protobothrops kelomohy sp. 
+nov. differs from other species of the genus 
+inference 
+recovered 
+the 
+Chiang 
+Mai 
+specimens to be sister to a clade containing 
+P. kaulbacki and P. himalayanus in analyses 
+of both genes (Fig. 1). 
+Taxonomy 
+Protobothrops kelomohy sp. nov.  
+(Figs. 2–4 and Table 4) 
+Holotype. – QSMI 1557, adult male (Figs. 
+2, 3) from Sop Khong Subdistrict, Omkoi 
+District, Chiang Mai Province, northern 
+Thailand (600 m a.s.l.) collected by 
+Weerasak Sompan on 28 September 2017. 
+Paratype. – QSMI 1558, adult female from 
+the same locality and collector as holotype, 
+collected on 1 October 2017. 
+Additional material. – A juvenile (PMU04, 
+ 
+ 
+FIGURE 1. Phylogenetic relationships of Protobothrops kelomohy sp. nov. samples and related Protobothrops 
+species based on the cytochrome b and 16S rRNA genes using the Bayesian Inference (BI) analysis implemented 
+under the program MrBayes v3.0b4.  Branch labels display bootstrap values and the scale bar represents 0.06 
+substitutions per site.--------------------------------------------------------------------------------
+Trimeresurus nebularis (https://en.wikipedia.org/wiki/Trimeresurus_nebularis)
+ [wordlim: 200] Crawled: last month; The name Trimeresurus nebularis comes from the Latin word nebularis which means "from the clouds". ... The scales around the throat/chin area are yellowish green while the upper scales are greenish-blue. ... "A review of morphological variation in Trimeresurus popeiorum (Serpentes: Viperidae: Crotalinae), with the description of two new species".
+### Etymology
+
+The name Trimeresurus nebularis comes from the Latin word nebularis which means "from the clouds". This refers to the cloud forests that the species inhabits.
+## Description
+
+Males can be around 100 cm (39 in) in length and females can reach around 95 cm (37 in) in total length. The body of T. nebularis is cylindrical and bright green. Males have a white or blue ventro-lateral stripe. The pupils are vertical and usually have a yellowish-green iris. Both males and females usually have blue upper lips. The scales around the throat/chin area are yellowish green while the upper scales are greenish-blue. The tail is a brown rust color on its vertebral region and has a distinct line in between. The rust color and the green lateral color makes it distinguishable from other pit vipers.
+## Reproduction
+
+Like other Trimeresurus, this species is ovoviviparous. Males have long hemipenes with no spines.
+## Distribution and habitat
+
+T. nebularis is restricted to high elevations above 1,000 m (3,300 ft). --------------------------------------------------------------------------------
+Trimeresurus nebularis | The Reptile Database (https://reptile-database.reptarium.cz/Trimeresurus/nebularis?search_param=%28%28genus%3D%27e%27%29%29)
+ [wordlim: 200] Crawled: 4 weeks ago; Synonym  | Trimeresurus nebularis VOGEL, DAVID & PAUWELS 2004 ... Diagnosis  | Diagnosis: A species of Trimeresurus characterized by (1) hemipenes long, without spines; (2) 1 st supralabial distinct from nasal; (3) 21 DSR at midbody, moderately keeled; (4) overall bright green coloration with blue tones and blue upper lips in males and females, and yellowish green chin and throat; (5) large size, with a TL up to about 1000 mm in males and at leat 950 mm in females; (6) postocular streak absent in males and females; (7) ventrolateral stripes often missing, or white or pale blue; (9) upper lips bluish-green; (10) eye green in males and females; (11) tail dark rusty brown vertebrally, green laterally with a sharp border between the colours (similar to Trimeresurus albolabris or T. macrops); (12) a low number of scales between the supraoculars (9–10); (13) tail average in females, with a ratio TaL/TL 0.165–0.172; (14) VEN 147–153; SC: 50–65 (after VOGEL et al.
+Holotype: ZMB (Institut für systematische Zoologie, Museum für Naturkunde der Humboldt-Universität zu Berlin, Berlin, Germany) 66281, adult male, collected by indiginous collectors, July 2002. Paratypes: BMNH, CAS [Popeia inornata] 
+Diagnosis  | Diagnosis: A species of Trimeresurus characterized by (1) hemipenes long, without spines; (2) 1 st supralabial distinct from nasal; (3) 21 DSR at midbody, moderately keeled; (4) overall bright green coloration with blue tones and blue upper lips in males and females, and yellowish green chin and throat; (5) large size, with a TL up to about 1000 mm in males and at leat 950 mm in females; (6) postocular streak absent in males and females; (7) ventrolateral stripes often missing, or white or pale blue; (9) upper lips bluish-green; (10) eye green in males and females; (11) tail dark rusty brown vertebrally, green laterally with a sharp border between the colours (similar to Trimeresurus albolabris or T. macrops); (12) a low number of scales between the supraoculars (9–10); (13) tail average in females, with a ratio TaL/TL 0.165–0.172; (14) VEN 147–153; SC: 50–65 (after VOGEL et al. 2004).
+Comment  | Venomous!
+For synonymy and references see VOGEL, DAVID & PAUWELS 2004. This paper was published 15 Nov 2004 and thus T. nebularis has priority over Popeia inornata, which was published on 13 December 2004.
+Habitat: fully arboreal (Harrington et al. 2018). 
+Etymology  | Named after the Latin adjective nebularis, meaning “from the clouds”, in allusion to the cloudy montane rainforests, or cloud forests, inhabited by this species.
+Etymology (P. inornata): The specific epithet inornata is an adjective in the feminine singular gender. The scientific name of the new species alludes to the fact that adult males of P. inornata lack ornamentation by a distinctive orange to brick red ventrolateral stripe, which is typically present in adult males of sexually dimorphic members of the genus Popeia, and that both sexes show reduction of the white lateral stripe. 
+References  | 
+
+--------------------------------------------------------------------------------
+Craspedocephalus wiroti | The Reptile Database (https://reptile-database.reptarium.cz/Craspedocephalus/wiroti?search_param=%28%28search%3D%27ci+design%27%29%29)
+ [wordlim: 200] Crawled: 4 weeks ago; Diagnosis  | Diagnosis: A species of the genus Trimeresurus, endemic to Peninsular Thailand and West Malaysia, characterized by the combination of the following characters: (1) an usually overall dark or very dark pattern, with 22–35 darker crossbands, related to the sex: in males, background colour in various shades of dark greyish-brown, with dark brown irregular dorsolateral blotches, with below an irregular, elongated smaller blotch of same colour; areas between the bloches darker than on the sides of body, heavily powdered with dark and light dots or blotches producing a confused pattern, but not lichen-like; in females, pattern less complex and often as dark or darker than in males, in shades of dark brown with darker subrectangular dorsolateral blotches, without the dotted pattern but with broad darker edges and a wide lighter centre producing a “saddle-like” pattern; males have a more complex pattern, but are as dark as females (2) a distinctly projected and raised snout, strongly obliquely truncated when seen from the side, subrectangular seen from above; (3) internasals projected, strongly spatulate and bilobate, distinctly upturned; (4) usually 21 (rarely 19, 20 or 23) DSR at midbody; (5) 1st supralabial distinct from nasal; (6) 2nd supralabials bordering the whole of the anterior margin of the loreal pit; (7) 2 to 4 small and narrow supraoculars, convex or granular and raised; (8) VEN: 159–167 in males and 158–167 in females, SC: 43–56; (9) occipital and temporal scales moderately keeled or smooth in both sexes in adults, usually smooth in juvenile specimens; (10) IL of the first pair not in contact each with the other; and (11) hemipenes short, reaching 9th SC, with spines [from DAVID et al.
+Reproduction  | oviparous (MEHRTENS 1987: 373). 
+Types  | Holotype: SMF 69695, juvenile male (not female as stated in Nutphand et al., 1991); Collected by Wirot Nutphand, 20 June 1979; donated to SMF by Ludwig Trutnau, January 1980. 
+Diagnosis  | Diagnosis: A species of the genus Trimeresurus, endemic to Peninsular Thailand and West Malaysia, characterized by the combination of the following characters: (1) an usually overall dark or very dark pattern, with 22–35 darker crossbands, related to the sex: in males, background colour in various shades of dark greyish-brown, with dark brown irregular dorsolateral blotches, with below an irregular, elongated smaller blotch of same colour; areas between the bloches darker than on the sides of body, heavily powdered with dark and light dots or blotches producing a confused pattern, but not lichen-like; in females, pattern less complex and often as dark or darker than in males, in shades of dark brown with darker subrectangular dorsolateral blotches, without the dotted pattern but with broad darker edges and a wide lighter centre producing a “saddle-like” pattern; males have a more complex pattern, but are as dark as females (2) a distinctly projected and raised snout, strongly obliquely truncated when seen from the side, subrectangular seen from above; (3) internasals projected, strongly spatulate and bilobate, distinctly upturned; (4) usually 21 (rarely 19, 20 or 23) DSR at midbody; (5) 1st supralabial distinct from nasal; (6) 2nd supralabials bordering the whole of the anterior margin of the loreal pit; (7) 2 to 4 small and narrow supraoculars, convex or granular and raised; (8) VEN: 159–167 in males and 158–167 in females, SC: 43–56; (9) occipital and temporal scales moderately keeled or smooth in both sexes in adults, usually smooth in juvenile specimens; (10) IL of the first pair not in contact each with the other; and (11) hemipenes short, reaching 9th SC, with spines [from DAVID et al. 2006]. 
+Comment  | Venomous!
+--------------------------------------------------------------------------------
+ZOOTAXA
+727
+A review of morphological variation in (https://www.pauwelsolivier.com/docs/TrimeresuruspopeiorumReview.pdf)
+ [wordlim: 200] Published: 9 months ago; Comparison with other species. — Trimeresurus nebularis differs from all other ... ish-green; (10) ventrolateral stripes often pale blue.
+727
+ZOOTAXA
+of the tail on the 1st DSR. The interstitial skin is very dark grey. The tail surface is basi-
+cally the same colour as the dorsum on its sides, dark reddish-brown above, with a clear
+border between the two areas.
+FIGURE 18. Trimeresurus nebularis. Living adult female. Photograph by Gernot Vogel.
+The dorsal head surface and temporal regions are uniformly green, paler bluish-green
+on the supralabials; no postocular streak in all examined specimens. The chin, throat and
+venter are green or greenish-yellow, paler than upper head surface, or sometimes bright
+yellow. In life, eyes are green or slightly yellowish-green in both sexes and in juveniles.
+Comparison with other species. — Trimeresurus nebularis differs from all other
+pitvipers of the Trimeresurus popeiorum complex by the combination of the following
+characters: (1) tail with a sharp border between the green and the brown colour; (2) eye
+colour green at both sexes; (3) postocular streak absent in both sexes; (4) a larger size; (5)
+the lowest number of scales between the supraoculars; (6) the lowest number of subcau-
+dals; (7) a low number of ventrals; (8) the lack of sexual dimorphism; (9) upper lips blu-
+ish-green; (10) ventrolateral stripes often pale blue.
+Main characters separating Trimeresurus nebularis from other taxa of the group are
+given in Tables 12–13. Trimeresurus nebularis differs from T. popeiorum by (1) the colour
+ © 2004 Magnolia Press                                                               43
+TRIMERESURUS POPEIORUM--------------------------------------------------------------------------------
+The Treatment of Unidentified Hematotoxic Snake Envenomation and the Clinical Manifestations of a Protobothrops kelomohy Bite (https://journals.sagepub.com/doi/full/10.1016/j.wem.2020.11.001)
+ [wordlim: 200] Published: 5.7 years ago; Crawled: last month; Protobothrops spp. commonly originate in Southwestern China and are distributed across North India, Myanmar, China, Laos, Taiwan, Vietnam, Thailand, and Japan. ... ^{7}^{-10} In this case report, P kelomohy venom could produce both local and systemic effects. ... When there is a clinical suspicion of compartment syndrome, it should always be confirmed with other available tools because the envenomation itself could also produce signs mimicking compartment syndrome; clinical diagnosis of compartment syndrome could lead to incorrect conclusions, leading to adverse outcomes.
+## Discussion
+
+There are 2 major clinical findings from this case report. First, this case demonstrates the clinical manifestation of envenomation by P kelomohy, a new species of hematotoxic venomous snake. Second, when encountering an unknown venomous snake bite, the judicious use of locally available antivenom as an antidote is essential. Serial clinical and laboratory monitoring, together with adequate supportive management, are equally important in the achievement of a good outcome.
+
+This case report describes an incident in which the patient was bitten by an unknown hematotoxic venomous snake. The observable characteristics of the snake differed from the species commonly found in Thailand. Its dorsal color pattern resembled the cat snake (Boiga multomaculata). However, the large size and character of the keeled scales, with no enlarged vertebral scales, made the snake markedly different. One of the snakes responsible for common envenomation in this area is the Malayan pit viper (Calloselasma rhodostoma), which also differs from the snake involved in this incident: The Malayan pit viper has a stout body and smooth dorsal scales, with a brown triangular pattern along both sides of the body.^{4} This unknown snake was taken to Snake Farm, Queen Saovabha Memorial Institute, Thailand, for further identification.
+
+The background color was grayish-brown with large brown blotches along the dorsal part of the body and smaller blotches of the same color along both sides. The number of midbody dorsal scales was 23, all keeled with no enlarged vertebral scales. The number of ventral scales was greater than 200, and the ventral color was white with a pale brown powder effect scattered along the ventral surface. The tail was brown, and all subcaudals were paired. These specific features were used by the experts to identify the snake as an Omkoi lance-headed pit viper (P kelomohy, shown in Figure 1C).^{2}
+
+Protobothrops spp. commonly originate in Southwestern China and are distributed across North India, Myanmar, China, Laos, Taiwan, Vietnam, Thailand, and Japan. Before this occurrence, 14 species were recognized.^{5} In Thailand, only 1 case involving Protobothrops spp. has been reported, specifically Protobothrops mucrosquamatus.^{6} The patient envenomated on that occasion had a dry bite with no significant clinical signs and symptoms; therefore, on that occasion, treatment and use of antivenom were not required. The morphology of P kelomohy and P mucrosquamatus differs in the number of midbody, ventral, supralabial, infralabila, and loreal scales. The vertical stripes from the eyes in P kelomohy are also absent in P mucrosquamatus.
+
+Studies regarding the clinical symptoms of Protobothrops spp. bites from other countries show that envenomation may cause many complications similar to those in this case.^{7}^{-10} In this case report, P kelomohy venom could produce both local and systemic effects. The clinical symptoms included suspected compartment syndrome in the bitten limb and systemic involvement, including coagulopathy and rhabdomyolysis, which developed within the first day of the bite, indicating the severity of the venom. These conditions need close clinical and laboratory monitoring, together with supportive management.--------------------------------------------------------------------------------
+WILDERNESS & ENVIRONMENTAL MEDICINE 2021; 32(1): 1–2 (https://perpustakaan.poltekkes-malang.ac.id/assets/file/jurnal/Volume_32%2C_Issue_1_%281%29_compressed_%281%29_compressed_%282%29_%281%29_%281%29.pdf)
+ [wordlim: 200] Published: 1.1 years ago; viper (Protobothrops kelomohy), a new pit viper species.2 ... unavailable; therefore, the diagnosis of compartment
+84
+Tangtermpong et al
+antivenom administration can be challenging. Uncer-
+tainty about the efﬁcacy of an antivenom against the
+venom of an unknown snake is of great concern. This
+case report describes the clinical manifestations of en-
+venomation by an unknown hematotoxic snake. The
+snake was later identiﬁed as an Omkoi lance-headed pit
+viper (Protobothrops kelomohy), a new pit viper species.2
+The outcome of treatment when using locally available
+antivenom and supportive treatment are reported.
+Case Presentation
+Figure 1. Characteristics of the snake and its fang marks. (A) The
+snake. (B) Fang marks (arrows) on the medial side of the right ankle of
+the patient (with permission from the patient). (C) Protobothrops
+kelomohy (a new species of snake) collected from the same location as
+the snake (photo by T. Vasaruchapong).
+introduction of antivenom and leg elevation, the patient’s
+right leg swelled progressively (39.5 cm measured at 10
+cm below the tibial tubercle, compared to 35 cm on the
+left side). An intracompartmental pressure monitor was
+--------------------------------------------------------------------------------
+The Treatment of Unidentified Hematotoxic Snake Envenomation and the Clinical Manifestations of a Protobothrops kelomohy Bite (https://journals.sagepub.com/doi/pdf/10.1016/j.wem.2020.11.001)
+ [wordlim: 200] Crawled: yesterday; The snake was later identified as an Omkoi lance-headed pit viper (*Protobothrops kelomohy*), a new pit viper species. ... An intracompartmental pressure monitor was unavailable; therefore, the diagnosis of compartment syndrome was made clinically.
+Paresthesia was noted in the right leg, and the dorsalis pedis pulse could not be palpated. A detailed examination of the snake found that the stripe pattern differed from that of a Malayan pit viper, and it was suspected that the snake was a different hematotoxic species. Therefore, an initial dose (30 mL or 3 vials) of Thai Red Cross hemato-polyvalent antivenin was given in place of a monospecific antivenom at 18 h after the bite for correction of the coagulopathy. Despite the introduction of antivenom and leg elevation, the patient’s right leg swelled progressively (39.5 cm measured at 10 cm below the tibial tubercle, compared to 35 cm on the left side). An intracompartmental pressure monitor was unavailable; therefore, the diagnosis of compartment syndrome was made clinically.
+
+An emergency fasciotomy was performed at 19 h after the bite. Fresh frozen plasma was given for bleeding prophylaxis, and the 20WBCT was normalized before the procedure. The intraoperative blood loss was 200 mL. The follow-up laboratory results were consistent with rhabdomyolysis. --------------------------------------------------------------------------------
+A review of morphological variation in Trimeresurus popeiorum (Serpentes: Viperidae: Crotalinae), with the description of two new species (https://www.academia.edu/83652831/A_review_of_morphological_variation_in_Trimeresurus_popeiorum_Serpentes_Viperidae_Crotalinae_with_the_description_of_two_new_species)
+ [wordlim: 200] Published: 22.0 years ago; Crawled: last month; Comparison with other species. — Trimeresurus nebularis differs from all other pitvipers of the Trimeresurus popeiorum complex by the combination of the following characters: (1) tail with a sharp border between the green and the brown colour; (2) eye colour green at both sexes; (3) postocular streak absent in both sexes; (4) a larger size; (5) the lowest number of scales between the supraoculars; (6) the lowest number of subcau- dals; (7) a low number of ventrals; (8) the lack of sexual dimorphism; (9) upper lips blu- ish-green; (10) ventrolateral stripes often pale blue. ... Chresonymy subsequent to the original description only: Trimeresurus popeorum sabahi: Malkmus (1992: 137; 1994: 248); Golay et al.
+--------------------------------------------------------------------------------
+Snake venom proteomics and antivenomics of two Sundaic lance-headed pit vipers: Trimeresurus wiroti (Malaysia) and Trimeresurus puniceus (Indonesia) (https://www.sciencedirect.com/science/article/pii/S1744117X21000873)
+ [wordlim: 200] Published: 5.0 years ago; Crawled: 2 months ago; Both species share the characteristic triangular, lance-shaped head as with other viperids, and possess a distinct protracted snout. ... Envenomation by pit vipers of the Trimeresurus complex, including T. wiroti and T. puniceus, primarily causes hemotoxicity and local tissue toxicity, manifested as consumptive coagulopathy, internal hemorrhage, thrombocytopenia, and localized pain, swelling, as well as bruising (Hutton et al., 1990; Guideline: Management of snakebite, 2017).
+--------------------------------------------------------------------------------
+Venomics of Trimeresurus (Popeia) nebularis, the Cameron Highlands Pit Viper from Malaysia: Insights into Venom Proteome, Toxicity and Neutralization of Antivenom (https://pmc.ncbi.nlm.nih.gov/articles/PMC6410072/)
+ [wordlim: 200] Published: 7.8 years ago; Crawled: 2 weeks ago; # Venomics of Trimeresurus (Popeia) nebularis, the Cameron Highlands Pit Viper from Malaysia: Insights into Venom Proteome, Toxicity and Neutralization of Antivenom ... Among Trimeresurus pit vipers, there are endemic species that occupy particular ecological niches, for instance, the Cameron Highlands pit viper—a unique species endemic to the central highland regions of Peninsular Malaysia—commonly received as Popeia nebularis in allusion to the cloudy montane rainforests or cloud forests it inhabits (nebularis: Latin, “from the clouds”) [17].
+--------------------------------------------------------------------------------
+The Treatment of Unidentified Hematotoxic Snake Envenomation and the Clinical Manifestations of a Protobothrops kelomohy Bite (https://journals.sagepub.com/doi/abs/10.1016/j.wem.2020.11.001)
+ [wordlim: 200] Published: 5.7 years ago; Crawled: 5 months ago; # The Treatment of Unidentified Hematotoxic Snake Envenomation and the Clinical Manifestations of a Protobothrops kelomohy Bite ... Diagnosis and management of venomous snakebites in Southeast Asia.
+--------------------------------------------------------------------------------
+Venomous Terrestrial Snakes of Malaysia: Their Identity and Biology (https://www.researchgate.net/publication/283690841_Venomous_Terrestrial_Snakes_of_Malaysia_Their_Identity_and_Biology)
+ [wordlim: 200] Published: 11.9 years ago; Crawled: 4 days ago; Snout ﬂat and projected Trimeresurus wiroti ... Popeia nebularis ... leaﬂike projection
+
+Trimeresurus ... Body green or greenish blue with white or red spots or stripes in
+--------------------------------------------------------------------------------
+A Field Guide To The Reptil - (Z-Library) | PDF | Cites | Endangered Species (https://es.scribd.com/document/825111406/A-Field-Guide-to-the-Reptil-Z-Library)
+ [wordlim: 200] Published: 11.9 years ago; Crawled: 2 weeks ago; ## 348 Wirot’s Pit Viper Trimeresurus wiroti ... distinctly projected and raised snout.
+--------------------------------------------------------------------------------
+Trimeresurus nebularis (https://kiwix.enszfarms.org/content/wikipedia_en_all_maxi_2025-08/Trimeresurus_nebularis)
+ [wordlim: 200] Crawled: last month; Trimeresurus nebularis (also known as the Cameron Highlands pit viper or the clouded pit viper) is a species of pit viper found in the Cameron Highlands District of west Malaysia and Thailand. ... The name Trimeresurus nebularis comes from the Latin word nebularis which means "from the clouds". ... ^{[3]} The scales around the throat/chin area are yellowish green while the upper scales are greenish-blue.
+--------------------------------------------------------------------------------
+Trimeresurus (https://en.wikipedia.org/wiki/Trimeresurus)
+ [wordlim: 200] Crawled: last month; Cyanolabris  | Idiiatullina, Nguyen, Bragin, Pawangkhanant, Le, Vogel, David & Poyarkov, 2024  | 0  | blue lipped green pit viper  | Vietnam ...    | T. nebularis  | Vogel, David & Pauwels, 2004  | 0  | Cameron Highlands pit viper, clouded pit viper  | West Malaysia (Cameron Highlands), Thailand. ... Most authors now recognise the genus Protobothrops for the species cornutus, flavoviridis, jerdonii, kaulbacki, mucrosquamatus, tokarensis, xiangchengensis, since these have been shown not to be closely related to other Trimeresurus in recent phylogenetic analyses. ... "Description of a new species from Yunnan, China, within the genus Trimeresurus (Reptilia, Squamata, Viperidae) by integrating morphological and genetic evidence".
+--------------------------------------------------------------------------------
+List of reptiles of Thailand (https://en.wikipedia.org/wiki/List_of_reptiles_of_Thailand)
+ [wordlim: 200] Crawled: 6 months ago;  Trimeresurus nebularis | Crotalidae | Clouded pit viper |  |  | Extreme south (Narathiwat)
+

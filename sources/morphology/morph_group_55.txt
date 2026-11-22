@@ -1,0 +1,261 @@
+247 (https://www.nparks.gov.sg/florafaunaweb/fauna/2/4/247)
+ [wordlim: 200] Crawled: 3 days ago; # Laticauda colubrina ... Bluish-grey with black bands; head marked with black and yellow. ... References  | Baker, N.
+
+# Laticauda colubrina
+
+# Laticauda colubrina (Schneider, 1799)
+
+Family Name:  | Hydrophiidae
+Taxonomic Group:  | Vertebrates (Reptile)
+Common Name:  | Amphibious Sea Snake, Yellow-lipped Sea Krait
+
+### Description
+
+Description  | Head slightly distinct from the slender body which ends in a flattened, paddle-shaped tail. Bluish-grey with black bands; head marked with black and yellow.
+
+### Ecology, Habitat & Location
+
+Ecological Notes  | Mainly aquatic in habits but comes ashore to rest and lay eggs. It inhabits coral reefs and rocky shorelines and feeds on fish, especially eels. This venomous snake seems to have a docile nature.
+Habitats  | Marine
+Distribution  | In Singapore, known only from the coral reefs and offshore islands in the Singapore Straits. It has a wide distribution in the Indo-west Pacific.
+
+### Conservation
+
+Trends & Threats  | Habitat degradation.
+Scientific Interest & Potential Value  | Elsewhere, this species is collected for its skin.
+Conservation Notes  | Habitat protection, strict policing against illegal collection.
+
+### Status
+
+Species Status  | Native
+Conservation Status  | Common
+Singapore Red Data Book Status  | Endangered (EN) [2008]
+
+### References
+
+References  | Baker, N. & Lim, K. 2008. Wild animals of Singapore. Singapore: Draco Publishing and Distribution Pte Ltd. 180pp
+Davison, G.W.H., Ng, P.K.L. & Ho, H.C (Eds.). 2008. The Singapore Red Data Book (2nd Edition). Singapore: Nature Society (Singapore). 285pp
+
+### Others
+
+Master ID  | 
+Species ID  | 
+
+Species record last updated on: 27 August 2019.--------------------------------------------------------------------------------
+THERMAL PREFERENCES IN *VIPERA (BERUS) NIKOLSKII* UNDER LABORATORY CONDITIONS (https://ssfb.bio.uaic.ro/wp-content/uploads/2024/10/2024-SSFB-VOLUM-REZUMATE.pdf)
+ [wordlim: 200] Published: 2.1 years ago; Crawled: 9 months ago; In this study, we designed an experiment where we simulated a basking situation, creating a temperature gradient within an enclosed space and observing the basking behaviour and thermal preferences of melanistic and patterned individuals of *Vipera (berus) nikolskii*.
+THERMAL PREFERENCES IN *VIPERA (BERUS) NIKOLSKII* UNDER LABORATORY CONDITIONS
+
+Petreanu Ionuț Cătălin¹, Spaseni Petronel¹,², Sahlean Tiberiu Constantin²,³, Gherghel Iulian²,⁴, Zamfirescu Ștefan Remus¹, Strugariu Alexandru²
+
+¹Faculty of Biology, Alexandru Ioan Cuza University of Iași, Iași, Romania  
+²Department of Exact and Natural Sciences, Institute of Interdisciplinary Research, Alexandru Ioan Cuza University of Iași, Iași, Romania  
+³Institute of Biology Bucharest, Romanian Academy, Bucharest, Romania  
+⁴Faculty of Natural and Agricultural Sciences, Ovidius University of Constanța, Constanța, Romania  
+*Corresponding author: icpetreanu@yahoo.com
+
+Reptiles, such as snakes, are ectotherms: animals that have to rely on environmental heat sources to maintain their body temperatures within limits that allow for metabolic processes to take place. Because of that they usually regulate their body temperature by basking into the sun or taking cover in shade, as necessary. Our works seeks to help us better understand how different colour morphs respond to environmental factors and how thermal preferences vary among the individuals within the same species. In this study, we designed an experiment where we simulated a basking situation, creating a temperature gradient within an enclosed space and observing the basking behaviour and thermal preferences of melanistic and patterned individuals of *Vipera (berus) nikolskii*. The individuals used in the experiment originated from two distinct populations, one polymorphic (where both patterned and melanistic individuals occur), and one monomorphic (where all adult individuals are melanistic). We found that on average melanistic individuals manage to keep a higher body temperature than the zigzag marked ones relative to the environment’s temperature, vipers during the shedding process prefer cooler shadier spots and the average preferred temperature is higher in melanistic vipers than in non-melanistic individuals. Also, body-flattening as a heat absorbing strategy has been observed much more frequently in melanistic snakes than in non-melanistic snakes, being more than twice as frequent.
+
+Pag. 16--------------------------------------------------------------------------------
+Metlapilcoatlus nummifer | The Reptile Database (https://reptile-database.reptarium.cz/Metlapilcoatlus/nummifer?search_param=%28%28search%3D%27Cas%27%29%29)
+ [wordlim: 200] Crawled: last month; # Metlapilcoatlus nummifer (RÜPPELL, 1845) ... Diagnosis  | Diagnosis: “Diese Giftschlange hat den Kopf einer Vipera, die Vertiefung zwischen Auge und Nasenlöcher wie Trigonocephalus, die ganzen Schuppen unter dem Schwanz wie Echis, dabei die vorderen Zähne des Unterkiefers besonders lang.
+2014: 85
+Metlapilcoatlus nummifer — CAMPBELL et al. 2019
+Metlapilcoaltus nummifer — VÁSQUEZ-CRUZ & CANSECO-MÁRQUEZ 2020 (in error)
+Metlapilcuatlus nummifer — SIMÓN-SALVADOR et al. 2021 (in error) 
+Distribution  | Mexico (San Luis Potosi south to Oaxaca, Chiapas, Puebla, Veracruz, Hidalgo)
+Type locality: Mexico; restricted to Teapa, Tabasco, Mexico by BURGER 1950:65.  
+Reproduction  | ovoviviparous 
+Types  | Holotype: SMF 21196 (formerly 9544,1a)
+Holotype: USNM 25045 [Bothrops nummifer veraecrucis] 
+Diagnosis  | Diagnosis: “Diese Giftschlange hat den Kopf einer Vipera, die Vertiefung zwischen Auge und Nasenlöcher wie Trigonocephalus, die ganzen Schuppen unter dem Schwanz wie Echis, dabei die vorderen Zähne des Unterkiefers besonders lang. Vielleicht ist es nur eine junge Crotalus mit unentwickelter Klapper” [original diagnosis of Rüppell 1845: 313]. 
+Comment  | Venomous!
+Synonymy partly after PETERS & OREJAS-MIRANDA 1970. Previously A. mexicanus and A. occiduus have been considered as subspecies of A. nummifer. Specimens from Guatemala that were previously described as A. nummifer have been molecularly grouped with A. olmec based on Castoe et al. 2003
+Habitat: terrestrial
+Distribution: not in Costa Rica (as stated in KÖHLER 2003). The populations from Panama, Guatemala, El Salvador, Honduras, S Belize, Nicaragua, Costa Rica are now included in A. mexicanus. For a map of localities see Tepos-Ramírez et al. 2021: Fig. 1. 
+Etymology  | The specific epithet is derived from the Latin word nummus, meaning "coin or piece of money," and the suffix -fer, meaning "bear," probably in reference to the shape of the dorsal blotches (LEMOS-ESPINAL & DIXON 2013). 
+References  | 
+
+--------------------------------------------------------------------------------
+Warning signalling in European vipers and their mimics: implications for conservation of the smooth snake (https://jyx.jyu.fi/bitstream/handle/123456789/43478/1/978-951-39-5710-0_vaitos06062014.pdf)
+ [wordlim: 200] Published: 12.5 years ago; Crawled: 2 weeks ago; Only in one species of European viper *Vipera nikolskii* (Vedmederja, Grubant & Rudayeva) is the melanistic form more common than the zigzag form (De Smedt 2001).
+Evol Ecol (2011) 25:1047–1063　　　　　　　　　　　　　　　　　　　　　　　　　1061
+
+Several species of European vipers are also known to have melanistic (at least almost uniform black) forms (De Smedt 2001). Black colouration is shown to offer some thermoregulation benefits (Forsman 1995a), but the zigzag-patterned forms are still more common. Only in one species of European viper *Vipera nikolskii* (Vedmederja, Grubant & Rudayeva) is the melanistic form more common than the zigzag form (De Smedt 2001). Melanistic individuals are capable of reaching their preferred body temperature faster than zigzag patterned ones and therefore benefit during digestion, growth and reproduction (Forsman 1995a; Herczeg et al. 2007). On the other hand, the melanism of adders is most likely to be a continuum between extremes rather than a dichotomous feature (JV personal observation). However, the aposematic feature of the zigzag pattern (supported by data) may offer an evolutionary explanation to the question of why zigzag-patterned individuals are usually more common than melanistic ones, despite the thermoregulation benefits of melanism being obvious.
+--------------------------------------------------------------------------------
+Heterodimeric neurotoxic phospholipases A2—The first proteins from venom of recently established species Vipera nikolskii: Implication of venom composition in viper systematics (https://www.sciencedirect.com/science/article/abs/pii/S0041010107003959)
+ [wordlim: 200] Published: 18.7 years ago; Crawled: 3 months ago; # Heterodimeric neurotoxic phospholipases A_{2}—The first proteins from venom of recently established species Vipera nikolskii: Implication of venom composition in viper systematics☆ ... Viper V. nikolskii was earlier regarded as a melanistic form of V. berus and only recently established as an independent species (Bakiev et al., 2005).
+They were further fractionated by reverse-phase chromatography (Fig. 1B), and two main fractions were
+
+## Isolation of proteins
+
+Viper V. nikolskii was earlier regarded as a melanistic form of V. berus and only recently established as an independent species (Bakiev et al., 2005). This is the first study of the composition of the venom from this species. We have found that heterodimeric PLA_{2}s are the main constituents of V. nikolskii venom; they account for more than 20% of dry venom weight. The venom of V. berus is fairly well studied; however, no heterodimeric PLA_{2}s were found there. Comparison of venom compositions
+
+## Acknowledgments
+
+The authors are grateful to Prof. V.I. Tsetlin for fruitful discussions, Dr. R.Kh. Ziganshin for MALDI MS measurements, Mr. A.A. Tagaev for the help in amino acid sequence determination, Mr. S. Balandin for the help in cloning and Mrs. T.V. Andreeva for excellent technical assistance. This work was supported by the Russian Foundation for Basic Research (Project nos. 06-04-48982 and 02-04-39014) and partially (to I.V.K.) by the Russian Ministry of Education and Science (Project no. 4444.2006.4
+
+--------------------------------------------------------------------------------
+Abstract book (https://www.jemb.bio.uaic.ro/index.php/jemb/article/download/84/62)
+ [wordlim: 200] Published: 3.8 years ago; Crawled: 6 months ago; DOES DORSAL COLORATION AFFECT PREDATION RATES IN A POLYMORPHIC VIPER (*VIPERA NIKOLSKII*) POPULATION FROM A WARM, LOWLAND, ENVIRONMENT? ... While these statements appear to be valid for some species and populations, there are cases with peculiar characteristics, such as the lowland southern clades of the *Vipera berus* complex, where melanism is either common in polymorphic populations, or where entire populations comprise only melanistic individuals.
+The thermal melanism hypothesis states that darker individuals belonging to ectothermic species will be superior to lighter individuals with regards to thermoregulation. However, individuals that are completely or almost completely black (melanistic) often lose the cryptic or aposematic signaling function of the patterned coloration, and may thus be more vulnerable to predation. While these statements appear to be valid for some species and populations, there are cases with peculiar characteristics, such as the lowland southern clades of the *Vipera berus* complex, where melanism is either common in polymorphic populations, or where entire populations comprise only melanistic individuals.  
+We aimed to experimentally test weather the type of coloration is relevant for predator-prey interactions (i.e. vipers being the prey) in a polymorphic population of *Vipera nikolskii* from North-Eastern Romania. Employing methods proven successful in previous studies, we used 90 viper replicas made of plasticine, that we installed in the field, in a habitat known to be inhabited by vipers. 50% of the replicas were patterned (typical zigzag pattern) while 50% were completely black (resembling melanistic vipers). 50% of all models were placed on a white sheet of cardboard, in order to eliminate the role of crypsis from any of the colorations. Replicas were inspected for predation events every 48 hours, and were retrieved after a total of 10 days in the field.  
+Our preliminary results indicate a significantly higher predation rate on melanistic individuals, confirming previous studies. We thus show that the high frequency of melanism in these populations is not a result of relaxed predation upon them. Future work will also be conducted in a purely melanistic population.
+
+35--------------------------------------------------------------------------------
+Distribution and Morphological Variability of  Vipera berus  in Eastern Europe (https://rjh.folium.ru/index.php/rjh/article/view/703)
+ [wordlim: 200] Published: 21.9 years ago; Crawled: last month; (1981), «Reproductive success and risk of predation in normal and melanistic color morphs of the adder, Vipera berus», Biol. ... On specification of southern border of the Nikolsky’s viper distribution (Vipera nikolskii) in Southwestern Russia», in: The Problems of Herpetology.
+
+Home > Vol 12 (2005) > Milto
+
+### Distribution and Morphological Variability of Vipera berus in Eastern Europe
+
+K. D. Milto, O. I. Zinenko
+
+#### Keywords
+
+Nikolsky’s viper; common adder; Viperidae; Vipera berus; Vipera nikolskii; systematics; distribution; morphological analysis; hemipenes structure; Eastern Europe
+
+#### Full Text:
+
+PDF
+
+#### References
+
+Al-Zavakhra Kh. A. (1992), Snakes of Tatarstan. Unpublished PD Thesis, Kazan [In Russian]
+
+Ananjeva N. B., Borkin L. Y., Darevsky I. S., and Orlov N. L. (1998), Encyclopedia of Nature of the Russia. Amphibians and Reptiles, ABF, Moscow [in Russian].
+
+Andrén C. and Göran N. (1981), «Reproductive success and risk of predation in normal and melanistic color morphs of the adder, Vipera berus», Biol. J. Linn. Soc., 15, 235 – 246.
+
+Andrzejowski A. (1832), «Reptilia inprimus Volhyniae, Podoliae et Gubernii Chersonensis», in: Nouveaux Memoires de la Societe Imperiale des Naturalistes de Moscou. Tome II, pp. 319 – 346.
+
+Atlas of the USSR (1962), Moscow [in Russian].
+
+Atlas of the USSR (1984), Moscow [in Russian].
+
+Bakiev A. G., Malenev A. L., Peskov A. N., Pavlov A. V., and Gridnev D. V. (1999), «About species status of Vipera nikolskii», in: Abstrs. of the 2^{nd} Herpetol. Conf. of Volga Basin, Tolyatti, pp. 4 – 5 [in Russian].
+
+Bakiev A. G., Malenev A. L., Peskov A. N., and Gridnev D. V. (2000), «Morpological description of the adders in forest park zone of Samara», in: Actual Problems of Herpetology and Toxinology. Collected Papers. No. 4, Tolyatti, pp. 3 – 8 [in Russian].
+
+--------------------------------------------------------------------------------
+taxo4254 - Laticauda colubrina (https://m.singapore.biodiversity.online/taxo4254/mainSpace/Laticauda%20colubrina.html)
+ [wordlim: 200] Crawled: last month; # Laticauda colubrina - Yellow-lipped sea krait ... They have a distinctive band pattern of blue and black, yellow and black, or yellowish-blue and black depending on the location. ... [4] Shine, R., R.N.
+# Laticauda colubrina - Yellow-lipped sea krait
+
+
+### IDENTIFICATION
+
+Image: Gerald5.JPG
+Wu Weiyan
+Laticauda colubrina is a species of marine snakes with distinctive morphological (physical) characters that allow for easy identification. They are one of few marine snake species with a flattened paddle-like tail that resembles the head. They have a distinctive band pattern of blue and black, yellow and black, or yellowish-blue and black depending on the location. They have a yellow upper-lip coloration, which can be used for identification from L. laticaudata (blue-lipped sea krait) with a blue or black upper-lip coloration. The lateral (horizontal) black head band across its eye is continuous with the first body band (the first ring of black around its neck). This is distinct from L. frontalis whose lateral head band is separated from the first body band. L. colubrina exhibits sexual dimorphism (the males and females look different), females being on average 40% larger than males. Males reach maturity at 70cm and attain an adult size of 90cm, whereas females reach maturity at 100cm and attain an adult size of 130cm. --------------------------------------------------------------------------------
+How to tell apart banded marine snakes on the shores of Singapore (https://www.wildsingapore.com/wildfacts/vertebrates/snakes/cfseafile.htm)
+ [wordlim: 200] Published: 6.6 years ago; Crawled: 3 weeks ago; Banded confusion Both the Yellow-lipped sea snake and the Banded file snake are banded snakes with tapered tails that are sometimes encountered on our shores. ... Laticauda colubrina
+Phylum Chordata > Subphylum Vertebrata > Class Reptilia > shore snakes
+Banded marine snakes
+How to tell them apart?
+updated Apr 2020
+
+* * *
+
+Banded confusion Both the Yellow-lipped sea snake and the Banded file snake are banded snakes with tapered tails that are sometimes encountered on our shores. Here's how to tell them apart.
+The Banded file snake is harmless to humans, while the Yellow-lipped sea snake has a potent venom. But these snakes are generally shy and will not bite unless provoked. So just leave them alone.
+Banded file snake
+Acrochordus granulatus
+Yellow-lipped sea snake
+Laticauda colubrina
+Image Image
+Bands are broad on top and narrow along the sides.
+The skin is loose and hangs in folds,
+with tiny granular scales. Bands are the same width throughout.
+The skin is not loose and it has large scales.
+Image Image
+Small scales on the head
+and does not have a yellow lip. Large scales on the head
+and has yellow lips.
+Image Image
+Tail is tapered but not flattened. Tail is flattened into a paddle-like shape.
+
+More comparisons
+
+* * *
+
+Image
+The Banded krait is not commonly seen. It has a black head and its tail is not flattened. Image
+The Moray eel is a fish that
+appears snake-like. Image
+The Carpet eel-blenny also
+appears snake-like.
+
+Image
+The worm eel is a fish that
+appears worm- or snake-like. Image
+Peanut worms don't
+move very fast either. Image
+Ribbon worms can be very long.
+They usually stay on the ground
+and don't swim about very fast.--------------------------------------------------------------------------------
+Amphibia-Reptilia 31 (2010): 51-67 (https://ceahlaupark.ro/wp-content/uploads/2015/12/33.Zinenko-et-al.-2010-V.-b.-nikolskii-in-W-Ukraine-Moldova-and-Romania.pdf)
+ [wordlim: 200] Published: 6 months ago; Distribution and morphological variation of Vipera berus nikolskii ... berus and Vipera berus nikolskii and was conducted to classify snakes from the studied territory. ... and even include populations without melanistic specimens, previously thought not to occur in this taxon. ... (Russia) ... Russian V. b. berus (Joger et al., 1997).
+Populations of the Nikolsky’s viper from the western part
+of its range combine high level of morphological differentiation from V. b. berus with the presence of non-black specimens
+and even include populations without melanistic specimens, previously thought not to occur in this taxon. A morphological
+description of the largest samples is given and determination of V. b. nikolskii is discussed.
+Keywords: Eastern Europe, subspecies, systematics, Vipera berus complex.
+Introduction
+The common adder Vipera berus L., 1758 is
+one of most studied snake species in the world.
+However, problems still exist in the systematics
+of the Vipera berus complex (Joger et al., 2007),
+which contains several taxa with predomi-
+nantly European distributions. Vipera nikolskii
+Vedmederja, Grubant et Rudajeva, 1986 was
+initially included in V. b. berus as the black
+colour morph and then described as a separate
+species with a range situated south of an imag-
+inary line through Kaniv (Ukraine)–Kursk–
+Tambov–Buzuluk
+(Russia)
+(Vedmederja,
+--------------------------------------------------------------------------------
+Distribution and morphological variation of Vipera berus nikolskii Vedmederja, Grubant et Rudaeva, 1986 in Western Ukraine, The Republic of Moldova and Romania (https://www.academia.edu/11523008/Distribution_and_morphological_variation_of_Vipera_berus_nikolskii_Vedmederja_Grubant_et_Rudaeva_1986_in_Western_Ukraine_The_Republic_of_Moldova_and_Romania)
+ [wordlim: 200] Published: 16.9 years ago; Crawled: today;  b. nikolskii, 0.94 1, Baˇcescu, 1933 Chicerea (Ia¸si) 47◦ 05 27◦ 44 V. b. nikolskii, 0.98 1, Baˇcescu, 1933 Bârnova (Ia¸si) 47◦ 03 27◦ 36 V. b. nikolskii, 0.93 1, Baˇcescu, 1933 Dobrovˇa¸t (Ia¸si) 46◦ 58 27◦ 42 V. b. berus, 0.66 1, Baˇcescu, 1933 (“melanistic”), black with light elements on Labialia and As the values of most meristic characters did not present Ventralia (“not completely melanistic”) and non-melanistic a normal distrubtion (K-S test), differences between groups adult specimens and, when possible, the color of the venom. were tested with the Mann-Whitney U Test and were used In order to compare the number of zigzag windings in our for multivariate analyses, since all of them have displayed matherial with V. b. berus and V. b. nikolskii, we counted significant differences between samples (see also Milto and this character in 32 juvenile V. b. nikolskii specimens from Zinenko, 2005). ... (1981): Reproductive success and risk of predation in normal and melanistic colour morphs of the adder, Vipera berus. ... (2005): Vipera (Pelias) [berus] nikolskii Vedmederja, Grubant et Rudaeva, 1986 -Waldsteppenotter.
+ b. nikolskii, 0.94 1, Baˇcescu, 1933 Chicerea (Ia¸si) 47◦ 05 27◦ 44 V. b. nikolskii, 0.98 1, Baˇcescu, 1933 Bârnova (Ia¸si) 47◦ 03 27◦ 36 V. b. nikolskii, 0.93 1, Baˇcescu, 1933 Dobrovˇa¸t (Ia¸si) 46◦ 58 27◦ 42 V. b. berus, 0.66 1, Baˇcescu, 1933 (“melanistic”), black with light elements on Labialia and As the values of most meristic characters did not present Ventralia (“not completely melanistic”) and non-melanistic a normal distrubtion (K-S test), differences between groups adult specimens and, when possible, the color of the venom. were tested with the Mann-Whitney U Test and were used In order to compare the number of zigzag windings in our for multivariate analyses, since all of them have displayed matherial with V. b. berus and V. b. nikolskii, we counted significant differences between samples (see also Milto and this character in 32 juvenile V. b. nikolskii specimens from Zinenko, 2005). We ran Discriminant Analysis (DA) based Kharkiv vicinities, Ukraine and 19 specimens of V. b. berus on ten previously mentioned meristic traits (except for Gul.) from Western Ukraine (Zakarpats’ka and Volyn regions, in order to clarify the relative importance of characters as Ukraine). discriminators between taxa and to render the classification Distribution and morphological variation of Vipera berus nikolskii 55 of individual specimens from the studied populations. In SUC group, from eastern macroslope in Central Carpathi- DA, we used comparative reference samples of V. b. berus ans, Neam¸t, Bac˘au and Vrancea counties. Localities and ex- (Zakarpats’ka, Volyn and the Northern part of Sumy regions act numbers within groups are given in table 1. of Ukraine, Leningrad, Novgorod, Pskov, Moscow, Rjazan An extensive description of scalation (Ventr.; S.cd.--------------------------------------------------------------------------------
+Banded sea krait (https://www.doc.govt.nz/globalassets/documents/conservation/marine-and-coastal/marine-conservation-services/resources/resources-for-fishers/csp-fishers-guide-to-protected-fish-and-reptiles-july-2024.pdf)
+ [wordlim: 200] Published: 2.8 years ago; Crawled: 11 months ago; *Laticauda colubrina* ... - Between the bands, it is pale bluish-grey above and whitish-yellow below.
+--------------------------------------------------------------------------------
+68  
+Herpetologia Petropolitana, Ananjeva N. and T (https://lacertilia.de/AF/Bibliografie/BIB_5285.pdf)
+ [wordlim: 200] Published: 21.4 years ago; Crawled: 10 months ago; In 1820 Merrem used ater for the description of coloration of the melanistic common adder, but not as a specific name. ... *Vipera berus nikolskii* VEDMEDERJA, GRUBANT ET RUDAEVA, 1986
+--------------------------------------------------------------------------------
+Laticauda colubrina (Colubrine or yellow-lipped sea krait) | INFORMATION | Animal Diversity Web (https://www.animaldiversity.org/accounts/Laticauda_colubrina/)
+ [wordlim: 200] Published: 15.8 years ago; Crawled: today; Species  | Laticauda colubrina Colubrine or yellow-lipped sea krait ... Their heads are mostly black with a yellow band extending along the lip, underneath each eye.
+--------------------------------------------------------------------------------
+Dryad | Data: Melanism in polymorphic terrestrial snakes: A meta-analysis and systematic review (https://datadryad.org/dataset/doi%3A10.5061/dryad.n5tb2rc55)
+ [wordlim: 200] Published: 2.2 years ago; Crawled: last month; In Google Scholar we used the general search terms “melanism snake”, “melanistic snake”, "snake" AND "melanism" OR "melanistic" OR "melanic" and "snake" AND "melanism" OR "melanistic" OR "melanic", which amounted to 16295 results (Figure 1). ... We included only data pertaining to adult terrestrial snakes, as immature stages frequently possess standard coloration and melanism develops in adults (e.g.: Edgren (1957), Nilson and Andrén (1981), authors’ personal observations on Nikolsky’s viper, Vipera berus nikolskii) .
+--------------------------------------------------------------------------------
+Distribution and morphological variation of Vipera berus nikolskii Vedmederja, Grubant et Rudaeva, 1986 in Western Ukraine, The Republic of Moldova and Romania (https://www.researchgate.net/publication/233548216_Distribution_and_morphological_variation_of_Vipera_berus_nikolskii_Vedmederja_Grubant_et_Rudaeva_1986_in_Western_Ukraine_The_Republic_of_Moldova_and_Romania)
+ [wordlim: 200] Published: 16.9 years ago; Crawled: 3 months ago; # Distribution and morphological variation of Vipera berus nikolskii Vedmederja, Grubant et Rudaeva, 1986 in Western Ukraine, The Republic of Moldova and Romania ... Adult non-melanistic male specimen of V. b. nikolskii from RMOL group (left, Bârnova, Ia si, Romania) and male juvenile V. b. nikolskii from Kharkiv vicinities, Ukraine (right). ... Russian V. b. berus (Joger et al., 1997). ... non-melanistic adult V. b. nikolskii in Moldova ... V. b. nikolskii used in this paper also partly
+--------------------------------------------------------------------------------
+Yellow-lipped sea krait (Laticauda colubrina) on the Shores of Singapore (https://wildsingapore.com/wildfacts/vertebrates/snakes/laticauda.htm)
+ [wordlim: 200] Crawled: last month; Yellow-lipped sea krait
+Laticauda colubrina ... According to Baker, in Singapore, it is only found on our Southern Islands.
+--------------------------------------------------------------------------------
+Melanism in Polymorphic Terrestrial Snakes: A Meta-Analysis and Systematic Review (https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.15013)
+ [wordlim: 200] Published: 2.2 years ago; Crawled: last month; We included only data pertaining to adult terrestrial snakes, as immature stages frequently possess standard colouration and melanism develops in adults [e.g., Edgren (1957), Nilson and Andrén (1981), authors' personal observations on Nikolsky's viper, Vipera berus nikolskii]. ... Our literature search revealed that the polymorphic system involving a melanistic morph has been investigated to various degrees in 12 species of terrestrial snakes (see Appendix S1) of which data on the morph frequency of studied populations has been reported for nine species: the Japanese striped snake (Elaphe quadrivirgata), the eastern hog-nosed snake (Heterodon platirhinos), the western whip snake (Hierophis viridiflavus), the grass snake (Natrix natrix) (Figure 2), the dice snake (Natrix tessellata), the common garter snake (T. sirtalis), the asp viper (Vipera aspis), the common adder (V. berus) (Figure 2) and the steppe viper (Vipera renardi).
+--------------------------------------------------------------------------------
+Yellow-lipped Banded Sea Krait Snake: Pulau Hantu: Singapore Nature 2020 - YouTube (https://www.youtube.com/watch?v=BDOYRbsWTMo)
+ [wordlim: 200] Published: 6.3 years ago; Crawled: 4 months ago; Laticauda colubrina ... The venom of this elapid, Laticauda colubrina, is a very powerful neurotoxic protein, with a subcutaneous LD50 in mice of 0.45 mg/kg body weight. ... #yellowlippedseakrait #bandedseakrait #singaporesnakes #seasnakes #singaporenature #singaporewildlife #singaporemarinelife #pulauhantu
+--------------------------------------------------------------------------------
+[Removed] (https://www.reddit.com/r/whatsthissnake/comments/1ve00mp/removed/)
+ [wordlim: 200] Published: 3 months ago; definitely *Laticauda colubrina*, the yellow lipped sea krait. ...   URL) The white band does not look as pronounced as I remember but then again it was at quite a distance.
+--------------------------------------------------------------------------------
+Yellow-lipped sea krait (https://en.wikipedia.org/wiki/Yellow-lipped_sea_krait)
+ [wordlim: 200] Crawled: 4 months ago; The yellow-lipped sea krait (Laticauda colubrina), also known as the banded sea krait or colubrine sea krait, is a species of highly venomous snake found in tropical Indo-Pacific oceanic waters. ... ; Tamiya, N. ... "Geographic variation in the number of bands in Laticauda colubrina".
+--------------------------------------------------------------------------------
+Adder (https://en.wikipedia.org/wiki/Adder)
+ [wordlim: 200] Crawled: 2 weeks ago; V. berus: normal and melanistic colour patterns Shows the front parts of two common adders. One snake has the normal colour while the other has melanistic colour/pattern form. ... "The phylogenetic position of Vipera barani and of Vipera nikolskii within the Vipera berus complex".
+--------------------------------------------------------------------------------
+灰藍扁尾海蛇 (https://zh.wikipedia.org/wiki/%E7%81%B0%E8%97%8D%E6%89%81%E5%B0%BE%E6%B5%B7%E8%9B%87)
+ [wordlim: 200] Crawled: 2.4 years ago; * Ota, Hidetoshi;Takahashi, Hiroshi;Kamezaki, Naoki 1985 On specimens of yellow lipped sea krait Laticauda colubrina from the Yaeyama group, Ryūkyū Archipelago Snake 17: 156-159
+

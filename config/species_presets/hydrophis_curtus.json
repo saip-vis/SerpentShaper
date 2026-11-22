@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "preset_id": "hydrophis_curtus",
+  "species_id": "source_dd54d32dc6c08c50",
+  "source_species_name": "Hydrophis curtus",
+  "common_name": "Spine-bellied Sea Snake",
+  "status": "illustrative_unvalidated",
+  "variant": "Tan short sea snake form with dark crossbands and a paddle-shaped tail.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5096412/",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Hydrophis/curtus",
+        "scope": "Species description and/or taxonomy; image views and individual identity need further review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_077_hydrophis_curtus/manifest.json",
+        "image_id": "inat_350251401",
+        "sha256": "43c953be0b06fe0c1efebf6a33c86a4ea5d25dfb728fa815ec34edb31a82543c",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_077_hydrophis_curtus/manifest.json",
+        "image_id": "inat_350252149",
+        "sha256": "9bc0051b4e703d209364211c44624db0b06967ced78e7dfca584a42e2a4f9ba9",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_077_hydrophis_curtus/manifest.json",
+        "image_id": "inat_413276053",
+        "sha256": "756e611c8be082db0e71646c59253d79e57497bfef79f9e40c2933df4a472f9b",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_350251401": "Short stout body with dark crossbands on sandy ground; animal condition is not clinically assessed.",
+      "inat_350252149": "Close body and tail view from the same observation.",
+      "inat_413276053": "Low-detail swimming body and tail in water."
+    },
+    "unextracted_fields": [
+      "body",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review required.",
+    "modeling_flags": [
+      "Head and opposite-side details remain poorly resolved; two selected images are the same observation.",
+      "Head and paddle use an adapted marine scaffold; angle-specific geometry and scale counts remain unverified."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Short stout body with dark crossbands on sandy ground; animal condition is not clinically assessed.",
+        "Close body and tail view from the same observation.",
+        "Low-detail swimming body and tail in water.",
+        "Tightened the dark band spacing after comparison with the selected photograph."
+      ],
+      "projection_limit": "One oblique projection; paddle and body proportions are artistic, not measured.",
+      "reference_ids": [
+        "inat_350251401",
+        "inat_350252149",
+        "inat_413276053"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "marine",
+    "pattern": "rings",
+    "skin_color": "#c6a770",
+    "marking_color": "#38332b",
+    "belly_color": "#e2c18a",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "paddle",
+    "scale_pitch": 7.4,
+    "mark_spacing": 24,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 50,
+      "neck": 8,
+      "upper": [
+        [
+          0.0,
+          0,
+          0.0,
+          -6,
+          2.83019,
+          -10,
+          10.37736,
+          -10
+        ],
+        [
+          10.37736,
+          -10,
+          20.75472,
+          -11,
+          29.24528,
+          -12,
+          37.73585,
+          -9
+        ],
+        [
+          37.73585,
+          -9,
+          42.45283,
+          -8,
+          45.28302,
+          -8,
+          50,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0,
+          0.0,
+          6,
+          5.66038,
+          10,
+          13.20755,
+          10
+        ],
+        [
+          13.20755,
+          10,
+          23.58491,
+          12,
+          33.96226,
+          11,
+          39.62264,
+          9
+        ],
+        [
+          39.62264,
+          9,
+          44.33962,
+          8,
+          46.22642,
+          8,
+          50,
+          8
+        ]
+      ],
+      "eye": [
+        16,
+        -2,
+        2.3,
+        2.4
+      ],
+      "nostril": [
+        5,
+        -4.5
+      ],
+      "jaw": "M2 4 Q19.0 7 38.5 6 L45.5 4",
+      "shields": [
+        "M5 -6 L14 -8 L21 -3 L18 4",
+        "M14 -8 L27 -9 L34 -4 L31 5 L18 4",
+        "M8 5 L9 9 M18 6 L19 10 M29 6 L31 10"
+      ],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#494c42",
+      "markings": []
+    },
+    "body_stations": [
+      [
+        225,
+        212,
+        8
+      ],
+      [
+        265,
+        232,
+        13
+      ],
+      [
+        340,
+        259,
+        23
+      ],
+      [
+        436,
+        283,
+        26
+      ],
+      [
+        503,
+        326,
+        26
+      ],
+      [
+        515,
+        380,
+        25
+      ],
+      [
+        461,
+        421,
+        23
+      ],
+      [
+        364,
+        438,
+        21
+      ],
+      [
+        273,
+        462,
+        18
+      ],
+      [
+        248,
+        500,
+        15
+      ],
+      [
+        286,
+        535,
+        11
+      ],
+      [
+        369,
+        558,
+        9
+      ],
+      [
+        444,
+        562,
+        8
+      ],
+      [
+        498,
+        552,
+        15
+      ],
+      [
+        545,
+        530,
+        19
+      ],
+      [
+        574,
+        503,
+        14
+      ],
+      [
+        583,
+        484,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "head_color": "#3c3631",
+    "pit_present": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

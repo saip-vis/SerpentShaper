@@ -1,0 +1,436 @@
+Gloydius brevicaudus | The Reptile Database (https://reptile-database.reptarium.cz/Gloydius/brevicaudus)
+ [wordlim: 200] Crawled: 2 weeks ago; Sexual Dimorphism of the Three Pit Viper Species (Gloydius brevicaudus, G. ussuriensis, G. intermedius) in South Korea. ... The anatomy of the skeletal system of Gloydius brevicaudus. ... Molecular phylogenetic analysis of the genus Gloydius (Squamata, Viperidae, Crotalinae), with description of two new alpine species from Qinghai-Tibet Plateau, China.
+Reproduction  | ovoviviparous 
+Types  | Holotype: USNM 17507
+Holotype: AMNH 25554, adult male [siniticus] 
+Diagnosis  | Diagnosis: Body with a conspicuous pattern of subelliptical blotches (or half-bands) on a light brown or gray ground color; blotches brown, lighter at their center but with dark brown borders, opposite or alternating pairs meeting dorsally at midline or not in contact at all, 3-5 scales wide on sides and extending downward onto scale rows 3 or 2; number of half-bands 23-33 (28.9) in males, 25-36 (30.8) in females (Table 1). Belly black or nearly so, especially posteriorly, lighter laterally; crown and parietal region with conspicuous dark brown markings and a lyriform figure extending backward on neck; cheek stripe strong, dark reddish brown in life, sharply bordered above and below with white, the upper light line extending across top of eye; tongue black; tip of tail light — yellow in life. Internasals wider than long, the posterior margins curving obliquely backward from midline; loreals subquadrate, as high as wide; preoculars 2; postoculars 2 ( 60% ) or 3, the lowest extending forward beneath the eye; supralabials 7 (95%), rarely 8; infralabials 10 (75%), occasionally 9 or 11; posterior supralabials not conspicuously low and narrow. Scale rows 21 at midbody, all with keels posteriorly, lowest without keels anteriorly; paired apical pits present but inconspicuous. Ventrals 135-145 (138.9) in males, 140-149 (143.2) in females; subcaudals 35-44 (40.5) in males, 30-38 (34.9) in females (Table 2) (Gloyd 1972: 560).
+Unfortunately we had to temporarily remove additional information as this was scraped by multiple AI companies who sell that data. However, these details, e.g. detailed descriptions (about less than half a page) are available for collaborators and contributors. Please contact us if you need any of this material. 
+Comment  | Venomous!
+Synonymy: G. blomhoffi dubitatus was listed as a synonym of G. blomhoffi by McDiarmid et al. 1999 but as a synonym of G. brevicaudus by Zhao and Adler (1993), David and Ineich (1999), and Orlov et al. 2014. Some of these authors also consider A. b. siniticus to be a junior synonym of Gloydius brevicaudus although it has been listed as valid more recenlty.
+Distribution: see map in ORLOV & BARABANOV 1999. G. b. brevicaudus and G. b. siniticus are allopatric with a large gap in between their ranges. Reports from Primorsky Krai are based on mis-identified G. ussuriensis (Nikita Pokhilyuk, pers. comm., 18 Dec 2020). For a map of localities see Shi et al. 2021: 102 (Fig. 6) 
+Etymology  | Named after Latin “breve, brevis” = short and Latin “cauda” = tail. The species name needs to be brevicauda, irrespective of the gender of the genus as “cauda” is a feminine noun in apposition, according to ICZN Article 34.2.1 which states that the gender of a noun in apposition must not be changed to agree in gender with the generic name, The Latin noun for tail is cauda and of female gender. For further explanations and examples see Böhme & Denzer (2019). However, Kraus & Fortson 2024 argue that it should remain -caudus as the original description used it as an adjective. 
+References  | 
+
+--------------------------------------------------------------------------------
+WHO/AFR/EDW/EDP/10.01GUIDELINESfor the (https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf)
+ [wordlim: 200] Published: 7 months ago; viper (Echis ocellatus) (Figure 6). ... E. pyramidum (Figures 6 and 7). ... Echis ocellatus Kaltungo, Nigeria© Mark O’Shea2.1.1.5 Egyptian carpet viper (Echis
+Guidelines for the Prevention and Clinical Management of Snakebite in Africa2.1.1.2  Joger’s carpet viper (Echis jogeri).
+(Figure 3). Length about 30 cm. Colouring
+resembles  E.  ocellatus.  Distinguished  by
+lower ventral scale counts. Reported from
+Mali and Senegal.Figure 5: White-bellied carpet viper Echis
+leucogaster Sokoto, Nigeria showing completely
+white ventral scales© Wolfgang Wüster2.1.1.4 West African or ocellated carpet
+viper (Echis ocellatus) (Figure 6). Average
+length 30-50 cm (maximum length 70 cm).
+A reddish-brown or greyish snake with
+pale oval or rhomboidal dorsal markings
+connected by a dark median band and
+flanked by white spots (“eyes”) bordered
+with black scales. The belly is white, heavily
+spotted with black.Figure 3: Joger’s carpet viper *Echis jogeri*
+Bandafassi, Senegal2.1.1.3 White-bellied carpet viper (Echis leucogaster). (Figures 4 and 5). Average
+length 30–70 cm (maximum length 87 cm).
+The colour and dorsal pattern resemble
+E. pyramidum (Figures 6 and 7). The
+undulating pale line on the flanks is usually
+incomplete, producing a series of inverted
+U-shaped or crescentic marks either side
+of the dorsal series of pale patches, which
+sometimes form a zigzag pattern. The belly
+is pure white (Figure 5).Figure 6: West African or ocellated carpet viper
+Echis ocellatus Kaltungo, Nigeria© Mark O’Shea2.1.1.5 Egyptian carpet viper (Echis
+pyramidum). (Figures 7 and 8) Average
+length 30-60 cm (maximum length 85 cm).
+The colour is greyish, brownish or reddish
+brown, with white dorsal oval markings
+connected by a dark band and flanked by
+a more or less complete pale undulating
+line. The belly is pale.Figure 4: White-bellied carpet viper *Echis*
+*leucogaster*4--------------------------------------------------------------------------------
+# REPRODUCTION OF *ECHIS PYRAMIDUM* (GEOFFROY SAINT-HILAIRE, 1827) IN CAPTIVITY. (https://www.snakesociety.nl/jaargangen/1987e/Litteratura%20Serpentium%207-6%20272-277%20Pezzano%2C%20Reproduction%20of%20Echis%20pyramidum%20in%20captivity.pdf)
+ [wordlim: 200] Published: 9.3 years ago; Crawled: yesterday; **Contents:** Introduction - Description - Behaviour in terrarium - Maintenance - Temperature - Copulation - The young ones - References. ... Until recently *Echis* was recognised as consisting of two species: *Echis carinatus* Boulenger, 1896 (with about six subspecies) and *Echis coloratus* Günther, 1878.
+# REPRODUCTION OF *ECHIS PYRAMIDUM* (GEOFFROY SAINT-HILAIRE, 1827) IN CAPTIVITY.
+
+By: V. Pezzano, Streng 22, 1738 CS Waarland, The Netherlands.
+
+**Contents:** Introduction - Description - Behaviour in terrarium - Maintenance - Temperature - Copulation - The young ones - References.
+
+## INTRODUCTION
+
+Until recently *Echis* was recognised as consisting of two species: *Echis carinatus* Boulenger, 1896 (with about six subspecies) and *Echis coloratus* Günther, 1878. The *carinatus*-complex has been the subject of several studies since (Roman, 1975; Hughes, 1976; Cherlin, 1983; Joger, 1984) as a result of which some of the subspecies have provisionally been given specific status including *Echis carinatus pyramidum* now known as *Echis pyramidum*.
+
+## DESCRIPTION
+
+The basic colour of this side winder varies considerably and depends on the region the snake comes from. The colour can vary from yellowish to dark- and reddish brown. On the back there is a pattern of light coloured equidistant rectangulars. On the side a light undulating line, almost white or yellowish occurs, the higher curves pointing to the rectangulars on the back. Between two points dark spots connect the rectangulars. Dark blotches also occur in the hollows of the undulations next to the belly. The belly is light pinkish with black spots. The head is triangular and rounded,
+
+**272**--------------------------------------------------------------------------------
+﻿Contributions to the knowledge of pitvipers (Viperidae, Gloydius) in the Democratic People’s Republic of Korea: identification, description of specimens, and geographical distribution (https://pmc.ncbi.nlm.nih.gov/articles/PMC12381584/)
+ [wordlim: 200] Published: 1.3 years ago; Crawled: last month; #### [content-type: taxon-name] [content-type: genus] Gloydius [content-type: species] brevicauda [Source locator: BA230400-F797-5A4E-830A-835782B98CD1] ... [content-type: taxon-name] [content-type: genus] Gloydius[content-type: species] brevicauda voucher 19GNK003, collected from Gaesong, DPR Korea photographed from A.
+##### Scalation and morphology (19GNK004).
+
+Supralabials 7/7 (left/right). Infra­labials 10/10 (left/right). Midbody dorsal scale rows 21. Ventral scales 156. Subcaudal scales 43. The following morphological measurements are given in millimeters (mm). [title: Total length] TOL 574 mm. [title: Snout-vent length] SVL 499 mm. [title: Tail length] TAL 75 mm. [title: Head length] HL 26.4 mm. [title: Head width] HW 16.4 mm. [title: Head height] HH 10.3 mm. [title: Eye diameter] ED 3.5 mm. [title: Interorbital distance] IOD 8.7 mm.
+
+#### [content-type: taxon-name] [content-type: genus] Gloydius [content-type: species] brevicauda [Source locator: BA230400-F797-5A4E-830A-835782B98CD1]
+
+[content-type: taxon-authority] (Stejneger, 1907)
+
+BA230400-F797-5A4E-830A-835782B98CD1
+
+[ref-type: fig] Fig. 8
+
+[sec-type: treatment-Referred specimen]
+
+##### Referred specimen.
+
+Voucher 19GNK003, deposited in Nanjing Forestry University, PR China.
+
+[sec-type: treatment-Identification]
+
+##### Identification.
+
+The species-level identification of the specimen is based on diagnostic scalations, coloration, multivariate morphological analyses, comparisons to the live individuals of the same species (Fig. [ref-type: fig] 1C, D), and corroborated by molecular analyses.
+
+[sec-type: treatment-Color in preservation]
+
+##### Color in preservation.
+
+The original body coloration typical of [content-type: taxon-name] [content-type: genus] G.[content-type: species] brevicauda is largely intact, with some discoloration in the posterior 2/3 of the specimen. The dorsal coloration is greyish-brown, with conspicuous circular patterns present along the length of the body. When viewed from the lateral side, conspicuous black postocular bands are present. The supra- and infralabials are cream-colored, with the first four infralabials and the last three supralabials on each side of the head having black markings. The ventral side of the head is mottled with black markings. The anterior ventrals are mostly cream-colored with black mottled patterns. The black coloration on the ventrals expands gradually toward the posterior half of the body, where the ventral scales are almost entirely black with some white mottling.
+
+* * *
+
+Identifier: [content-type: doi] 10.3897/zookeys.1249.142916.figure8 Identifier: [content-type: arpha] 3F785D57-C276-5528-B63E-8FD40C7FC18D Figure 8.
+
+Caption:
+
+[content-type: taxon-name] [content-type: genus] Gloydius[content-type: species] brevicauda voucher 19GNK003, collected from Gaesong, DPR Korea photographed from A. Dorsal and B. Ventral angles; C. Close-up of the left lateral side of the head; D. Close-up of the dorsal surface of the head; E. Close-up of the dorsal surface at mid-body.
+
+[content-type: original_file] https://binary.pensoft.net/fig/1397596 [Source locator: zookeys-1249-193_article-142916__-g008.jpg]
+
+* * *
+
+[sec-type: treatment-Scalation and morphology]
+
+--------------------------------------------------------------------------------
+Herpetology Notes, volume 12: 519-521 (2019) (published online on 25 May 2019) (https://www.biotaxa.org/hn/article/download/40654/45588)
+ [wordlim: 200] Published: 7 months ago; Body (top row) and head (bottom row) of Gloydius brevicaudus (A, D), G. intermedius (C, F) and a possible hybrid ... External body traits of Gloydius brevicaudus, G. intermedius and the suspected hybrid individual.
+Min Seock Do et al.
+520
+Figure 2. Body (top row) and head (bottom row) of Gloydius brevicaudus (A, D), G. intermedius (C, F) and a possible hybrid 
+between the two species (B, E).
+2B, E). Most of the morphological features of the 
+possible hybrid were similar to G. intermedius, while 
+the clear vertical centre line on the body and the shape 
+of the circular patterns were typical characteristics 
+the back from the head to the tail, which is an important 
+morphological characteristic of G. brevicaudus (Fig. 
+2A, B). The tail colour was the same as that of the 
+body, and the colour of the tongue was black (Fig. 
+Table 1. External body traits of Gloydius brevicaudus, G. intermedius and the suspected hybrid individual. 
+Traits 
+G. brevicaudus* 
+(n=10) 
+Hybrid individual 
+G. intermedius* 
+(n=10) 
+Body length (cm) 
+30–50 
+53 (approx.) 
+40–70 
+No. of dorsal scale row on mid-body 
+21 or 23 
+22 
+22 or 23 
+No. of circular patterns 
+32 
+32 
+stripes 
+Keeled scales on dorsal scales 
+present 
+present 
+present 
+Body colour 
+white background with 
+black patterns 
+light brown with dark 
+brown patterns 
+light brown with dark 
+brown stripes 
+Tail tip colour 
+yellow 
+same as body colour 
+same as body colour 
+Tongue colour 
+black 
+black 
+black 
+A white line behind eyes 
+present 
+absent 
+absent 
+Line on the two mid-dorsal scales 
+from head to tail 
+present 
+present 
+absent 
+* The data for G. brevicaudus and G. intermedius were taken from Stejneger (1907), Lee et al. (2011), Koo et al (2017).--------------------------------------------------------------------------------
+Gloydius brevicauda (https://en.wikipedia.org/wiki/Gloydius_brevicauda)
+ [wordlim: 200] Crawled: 2 months ago; Gloydius brevicauda is a pit viper species endemic to China and the Korean Peninsula. ... ## Description ... *  "Gloydius brevicaudus".
+
+The largest male examined by Gloyd and Conant (1990) was 71 cm (28 in) in total length of which the tail was 9 cm (3+1⁄2 in); the largest female, 69 cm (27+1⁄4 in) with an 8.2 cm (3+1⁄4 in) tail. On average, male specimens had a tail that was 12–15% (13.5%) of total length, while in females this was 11–13% (11.7%).
+
+The scalation usually includes 21 rows of dorsal scales at midbody, all of which are keeled except the lowermost on the anterior part of the body. There are 135–149 ventral scales, and 30–44 mostly paired subcaudal scales. 95% of all specimens have 7 supralabial scales.
+
+The color pattern consists of a light brown or gray ground color, overlaid with a pattern of 23–36 pairs of dorsolateral blotches or half-bands that oppose or alternate on either side of the middorsal line. These blotches are subelliptical in shape and brown in color with pale centers and dark brown to grayish brown borders. The pairs of blotches may or may not contact each other at the midline. --------------------------------------------------------------------------------
+Key to the Snakes of South Australia (https://www.samuseum.sa.gov.au/getDocument/8lcpo7n3l)
+ [wordlim: 200] Published: 4.0 years ago; KEY TO THE SOUTH AUSTRALIAN SPECIES OF DRYSDALIA ... Drysdalia coronoides
+18 
+ 
+KEY TO THE SOUTH AUSTRALIAN SPECIES OF DRYSDALIA 
+ 
+1. 
+a. 
+Yellow or orange collar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+D. mastersi       
+Masters’ Snake 
+ 
+b. 
+No pale collar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+D. coronoides     
+White-lipped Snake 
+ 
+ 
+Drysdalia mastersi 
+Drysdalia coronoides 
+ 
+ 
+1a. Pale collar 
+ 
+ 
+1b. No pale collar 
+ 
+ 
+ 
+KEY TO THE SOUTH AUSTRALIAN SPECIES OF FURINA 
+ 
+F. diadema             
+Red-naped Snake 
+1. 
+a. 
+Red patch separates the black head from the black collar . . . . . 
+F. ornata            
+Orange-naped Snake 
+ 
+b. 
+Red patch surrounded by black, the black collar connected on 
+either side to the black head colouring . . . . . . . . . . . . . . . . . . . . 
+ 
+ 
+ 
+                                       Furina ornata (A. Fenner) 
+ 
+                                   Furina diadema (A. Fenner) 
+1a. Red collar interrupts black 
+1b. Red collar surrounded by black 
+ 
+ 
+1a. Furina ornata - large individuals become dark and drab (A. Fenner)--------------------------------------------------------------------------------
+살모사
+
+*Gloydius brevicaudus* (Stejneger), 1907
+
+LC( (https://www.lacerta.de/AF/Bibliografie/BIB_17713.pdf)
+ [wordlim: 200] Published: 15.4 years ago; Crawled: last year; *Gloydius brevicaudus* (Stejneger), 1907
+살모사
+
+*Gloydius brevicaudus* (Stejneger), 1907
+
+LC(관심대상종)
+
+분류학적 위치  
+유린목(Squamata) 살모사과(Viperidae)  
+영명: Viper Snake  
+IUCN 범주: –
+
+● 요약  
+제주도를 제외하고 전국적으로 분포하지만, 밀렵과 서식지 파괴에 의해 개체수가 급감하는 종이다.
+
+● 형태  
+머리는 삼각형이며, 눈 위쪽에 굵은 흰색 선이 있다. 허는 검은 색이고, 꼬리 끝은 노란색을 띤다. 몸통에는 원반 모양이 교차하며 있고 몸통 전체에 강한 용골(백 1982; 김과 한 2009; 김과 송2010).
+
+● 생물학적 특성  
+살모사는 주로 평지나 구릉 등지에서 많이 관찰되며, 이러한 환경에서 동면한다. 4월부터 활동하는 개체가 관찰되며, 10월 중순이면 동면에 들어간다. 낮과 밤에 모두 활동하며, 물고기, 개구리, 도마뱀, 뱀 등을 포식한다. 또한 가장 많이 활동하는 시기는 5-6월과 10월이다. 난태생이며, 5-9월에 짝짓기하고, 8-9월에 2-20마리의 새끼를 낳는다. 갓 태어난 개체의 크기는 140-170mm이다(Ji et al. 1987; Zhao 1998; 심 2001).
+
+● 분포 현황  
+제주도를 제외하고 전국적으로 분포하고 고지대보다는 저지대에 다수의 개체가 분포하는 것으로 알려져 있다(Slevin 1925; Shannon 1956).
+
+● 서식지 동향  
+평지, 논두렁, 초지, 구릉 등지에 서식한다.
+
+● 개체수 현황  
+밀렵 등으로 개체수가 급격히 감소하고 있는 추세다.
+
+<visual_element id="e1">
+대한민국 지도 분포도. 전국 지도 위에 검은 원형 점들이 다수 표시되어 살모사 관측/분포 지점을 나타냄. 상단 경도 표기 126°E, 127°E, 128°E, 129°E; 좌측 위도 표기 38°, 37°, 36°, 35°. 우하단에 제주도 삽입도와 126.5°E, 33.5°N 표기.
+</visual_element>
+
+양서류·파충류 _ 85--------------------------------------------------------------------------------
+MCZbase MCZ:Herp:R-5239 specimen record | MCZbase (https://mczbase.mcz.harvard.edu/guid/MCZ%3AHerp%3AR-5239)
+ [wordlim: 200] Crawled: 3 weeks ago; ## Drysdalia coronoides (Günther, 1858) ... Current Identification
+
+Drysdalia coronoides (Günther, 1858)
+
+# MCZ Herpetology R-5239
+
+## Drysdalia coronoides (Günther, 1858)
+
+Date Collected:
+
+## [date unknown] prior to 1884-02-01
+
+## Oceania: Australia: Victoria | [no specific locality data]
+
+occurrenceID: https://mczbase.mcz.harvard.edu/guid/MCZ:Herp:R-5239
+
+### [Button: Cataloged Item ]
+
+  * Collection: Herpetology
+  * Catalog Number: R-5239
+  * GUID: MCZ:Herp:R-5239
+
+### [Button: Identifications ]
+
+Current Identification
+
+Drysdalia coronoides (Günther, 1858)
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+
+Common Name(s): White-lipped Snake
+
+Determiner: Danny Rhoda on 2024-08-22
+
+Nature of ID: revised taxonomy
+
+Previous Identification
+
+Drysdalia coronoides (Günther, 1858)
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+
+Common Name(s): White-lipped Snake
+
+Determiner: Catalog
+
+Nature of ID: migration
+
+Remarks: Catalog/1998
+
+### [Button: Other Identifiers ]
+--------------------------------------------------------------------------------
+Amphibia-Reptilia 30 (2009): 273-282 (https://citeseerx.ist.psu.edu/document?doi=86aba98356bad3e83023ff397f17404d080dc75e&repid=rep1&type=pdf)
+ [wordlim: 200] Published: 9 months ago; E. pyramidum (Geoffroy Saint-Hilaire and Ge- ... Morphology indicated that ... latus appeared to be a separate species distin-
+guished by scale counts, pattern and hemipenial ... Echis ocellatus (Stemmler, 1970)
+274
+E.N. Arnold, M.D. Robinson, S. Carranza
+Figure 1. Distribution of main taxa of Carpet vipers (Echis). Star indicates distinctive population in north Algeria (see below).
+Maps based on Gasperetti (1988); Spawls and Branch (1995); Babocsay (2004); Geniez et al. (2004); Mazuch (2005); and
+Trape and Mané (2006).
+other in Oman. There are also differences in
+reproduction, eastern animals apparently being
+viviparous while western ones are egg-laying
+(Smith, 1943; Minton, 1966; Stemmler, 1971;
+Spawls and Branch, 1995). Among the west-
+ern populations, the oldest available name is
+E. pyramidum (Geoffroy Saint-Hilaire and Ge-
+offroy Saint-Hilaire, 1827), which is based on
+Egyptian material. Morphology indicated that
+nearly all Echis populations from Egypt to
+Kenya belonging to the western group could be
+regarded as a single rather variable form, and
+that E. leucogaster was very similar to these
+(Arnold, 1980a). On the other hand, E. ocel-
+latus appeared to be a separate species distin-
+guished by scale counts, pattern and hemipenial
+--------------------------------------------------------------------------------
+Drysdalia coronoides (Günther, 1858), White-lipped Snake (https://collections.museumsvictoria.com.au/species/8789)
+ [wordlim: 200] Crawled: 2 weeks ago; Original description in the Catalogue of colubrine snakes in the collection of the British Museum at the Biodiversity Heritage Library Type material designation in the Memoirs of the National Museum of Victoria at the Biodiversity Heritage Library Get the free MV Field Guide to Victorian Fauna app for Apple and Android devices See Drysdalia coronoides in the Atlas of Living Australia
+Images marked with a Creative Commons (CC) license may be downloaded and reused in accordance with the conditions of the relevant CC license. Please acknowledge Museums Victoria and cite the URL for the image so that others can also find it.
+
+# Drysdalia coronoides (Günther, 1858), White-lipped Snake
+
+### General Description
+
+Body colour varies, including grey, brown or black. Underneath pale pink. Lip with white stripe along the edge. Up to 50 cm long.
+
+### Biology
+
+White-lipped Snakes are one of the most cold-adapted snakes in Australia, surviving at high altitudes and southern latitudes where few other snake species live. They mainly eat lizards and lizard eggs.
+
+### Distribution
+
+South-eastern mainland Australia and Tasmania.
+
+### Habitat
+
+Most areas, including heaths, sclerophyll forests and woodlands.
+
+## More Information
+
+  * ### Animal Type
+
+Snakes
+
+  * ### Animal SubType
+
+Snakes - venomous
+
+  * ### Brief Id
+
+A small snake with a white stripe along the lip.
+--------------------------------------------------------------------------------
+Three Nematode Species Recovered from Terrestrial Snakes in Republic of Korea (https://www.parahostdis.org/journal/view.php?number=2010)
+ [wordlim: 200] Published: 10.6 years ago; Crawled: last month; Host: Gloydius brevicaudus ... General description: Body long and thin, colored bloody red immediately after necropsy.
+--------------------------------------------------------------------------------
+White-lipped snake (Drysdalia coronoides) | AROD (https://arod.com.au/arod/reptilia/Squamata/Elapidae/Drysdalia/coronoides/)
+ [wordlim: 200] Crawled: 2 months ago;  | Image: white-lipped snake (Drysdalia coronoides) ... Australian Capital Territory, New South Wales, South Australia, Tasmania, Victoria
+--------------------------------------------------------------------------------
+AnAge Browser: Echis (https://www.genomics.senescence.info/species/browser.php?name=Echis&type=5)
+ [wordlim: 200] Crawled: last month;  | carinatus  | Echis carinatus
+coloratus  | Echis coloratus
+--------------------------------------------------------------------------------
+ITIS - Report: Gloydius brevicaudus (https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1058493)
+ [wordlim: 200] Crawled: last month;                                             Species Gloydius brevicaudus (Stejneger, 1907)
+--------------------------------------------------------------------------------
+Record: AustralianBiologicalTissueCollection:ABTC55592.1 | Occurrence record | Online Zoological Collections of Australian Museums (https://ozcam.ala.org.au/occurrences/3d2176a1-f1cf-4aab-9cf6-42e7d9b9afea)
+ [wordlim: 200] Crawled: 4 days ago; Data Resource  | South Australian Museum Adelaide provider for OZCAM
+Raw Scientific Name  | Drysdalia coronoides (Gunther, 1858) ... Raw Scientific Name  | Drysdalia coronoides (Gunther, 1858)
+--------------------------------------------------------------------------------
+Echis carinatus | The Reptile Database (https://reptile-database.reptarium.cz/Echis/carinatus?search_param=%28%28genus%3D%27e%27%29%29)
+ [wordlim: 200] Crawled: 4 weeks ago; Subspecies  | Echis carinatus carinatus (SCHNEIDER 1801) ... Klemmer 1963 synonymized sinhaleyus with carinatus; Sindaco et al. 2013: 197 confirmed that by calling sinhaleyus“ a doubtful subspecies”.
+--------------------------------------------------------------------------------
+短尾蝮Gloydius brevicaudus_环渤海两栖爬行动物图鉴(中英文)_生物科学_导文网 (https://www.daowen.com/book/content/239386856/14435914.html)
+ [wordlim: 200] Published: 3 months ago; Crawled: last month; # 短尾蝮Gloydius brevicaudus ... 短尾蝮Gloydius brevicaudus
+--------------------------------------------------------------------------------
+New data on the taxonomy of snakes from echis genus (https://documentsdelivered.com/source/066/332/066332026.php)
+ [wordlim: 200] Published: 43.9 years ago; Crawled: 2 months ago; Three significant lightly variable characters, type of scutelli arrangement on the lower jaw, the number of scales across the middle of the body and pattern on the head, are distinguished to differentiate vipers from various zoogeographical regions. Echis may be represented as follows: Palearctic vipers, E. multisquamatus, E. sochureki sochureki, E. s. astolae, E. coloratus; Indian, E. carinatus carinatus, E. c. sinhaleyus; African, E. pyramidum pyramidum, E. p. leakeyi, E. p. aliaborri, E. ocellatus and E. leucogaster.
+--------------------------------------------------------------------------------
+Gloydius brevicaudus (https://de.wikipedia.org/wiki/Gloydius_brevicaudus)
+ [wordlim: 200] Crawled: 2 months ago; Gloydius brevicaudus
+Gloydius brevicaudus
+--------------------------------------------------------------------------------
+Echis (https://it.wikipedia.org/wiki/Echis)
+ [wordlim: 200] Crawled: last week; Echis carinatus ... * Echis coloratus Günther, 1878 - echide di Burton o colorato;
+--------------------------------------------------------------------------------
+Sandrasselottern (https://de.wikipedia.org/wiki/Sandrasselottern)
+ [wordlim: 200] Crawled: 5 months ago; Arabische Sandrasselotter (Echis coloratus) image ... * Gemeine Sandrasselotter (Echis carinatus (Schneider, 1801)) ... * Echis khosatzkii Cherlin, 1990 – eventuell ein Synonym zu E. pyramidum aus Oman und dem Jemen
+--------------------------------------------------------------------------------
+Gloydius brevicaudus (https://fr.wikipedia.org/wiki/Gloydius_brevicaudus)
+ [wordlim: 200] Crawled: 1.6 years ago;  Description de l'image Gloydius brevicaudus.jpg.
+--------------------------------------------------------------------------------
+Echis (https://fr.wikipedia.org/wiki/Echis)
+ [wordlim: 200] Crawled: last month; Echis carinatus ... * Echis coloratus Günther, 1878 Échide colorée
+--------------------------------------------------------------------------------
+Anyone know what this is? Victoria, Australia. (https://www.reddit.com/r/snakes/comments/1jzmr8r)
+ [wordlim: 200] Published: 1.6 years ago; Crawled: 1.6 years ago; In the future we aim to redirect all snake identification queries to /r/whatsthissnake ... White-lipped snake (*Drysdalia coronoides*), as suggested by u/randalloki, is correct. ... White-lipped snake, *Drysdalia coronoides*, mildly venomous, but not usually dangerous to humans
+

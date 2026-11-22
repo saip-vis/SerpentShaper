@@ -1,0 +1,64 @@
+{
+  "request_url": "https://api.inaturalist.org/v1/taxa?q=Naja+nubiae&rank=species&is_active=true&per_page=10",
+  "retrieved_at": "2026-11-19T00:47:24.068956+00:00",
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 106448,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30403,
+          30475,
+          106448
+        ],
+        "is_active": true,
+        "name": "Naja nubiae",
+        "parent_id": 30475,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30403/30475",
+        "extinct": false,
+        "provisional": false,
+        "default_photo": {
+          "id": 200536744,
+          "license_code": "pd",
+          "attribution": "\n\u041b\u0438\u043a\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u0430 (Lika Ivanova), aucune restriction de droit connue (domaine public)",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200536744/square.jpg",
+          "original_dimensions": {
+            "height": 1227,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "\n\u041b\u0438\u043a\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u0430 (Lika Ivanova)",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200536744/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/200536744/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 3,
+        "observations_count": 8,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Nubian_spitting_cobra",
+        "complete_rank": "subspecies",
+        "matched_term": "Naja nubiae",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Nubian Spitting Cobra"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SerpentShaper hypothetical snake concept",
+  "description": "Draft output contract. Schema shape checks do not verify citations or scientific support; application checks are also required.",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "hypothetical", "input", "interpretations", "references", "traits", "limitations"],
+  "properties": {
+    "schema_version": {"const": "0.1.0"},
+    "hypothetical": {"const": true},
+    "input": {
+      "type": "object", "additionalProperties": false,
+      "required": ["kind", "unit", "components"],
+      "properties": {
+        "kind": {"enum": ["user_defined", "source_profile"]},
+        "unit": {"const": "percentage_points"},
+        "source_profile_id": {"type": "string", "minLength": 1},
+        "components": {"type": "array", "minItems": 1, "items": {
+          "type": "object", "additionalProperties": false,
+          "required": ["source_toxin_id", "abundance_pct", "value_status"],
+          "properties": {
+            "source_toxin_id": {"type": "string", "minLength": 1},
+            "control_id": {"type": ["string", "null"]},
+            "abundance_pct": {"type": ["number", "null"], "minimum": 0, "maximum": 100},
+            "value_status": {"enum": ["missing", "invalid", "reported_zero", "reported_positive"]}
+          },
+          "allOf": [
+            {"if": {"properties": {"value_status": {"enum": ["missing", "invalid"]}}}, "then": {"properties": {"abundance_pct": {"type": "null"}}}},
+            {"if": {"properties": {"value_status": {"const": "reported_zero"}}}, "then": {"properties": {"abundance_pct": {"const": 0}}}},
+            {"if": {"properties": {"value_status": {"const": "reported_positive"}}}, "then": {"properties": {"abundance_pct": {"type": "number", "exclusiveMinimum": 0, "maximum": 100}}}}
+          ]
+        }}
+      },
+      "allOf": [{"if": {"properties": {"kind": {"const": "source_profile"}}}, "then": {"required": ["source_profile_id"]}}]
+    },
+    "interpretations": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["statement", "evidence_ids", "limits"],
+      "properties": {
+        "statement": {"type": "string", "minLength": 1},
+        "evidence_ids": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "limits": {"type": "string", "minLength": 1}
+      }
+    }},
+    "references": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["species", "profile_id", "selection_reason"],
+      "properties": {
+        "species": {"type": "string", "minLength": 1},
+        "profile_id": {"type": "string", "minLength": 1},
+        "selection_reason": {"type": "string", "minLength": 1}
+      }
+    }},
+    "traits": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["name", "value", "origin", "reason", "locked"],
+      "properties": {
+        "name": {"enum": ["body_proportions", "head_shape", "tail_shape", "coloration", "pattern", "diet", "habitat"]},
+        "value": {"type": ["string", "null"]},
+        "origin": {"enum": ["documented_reference", "creative_choice", "unresolved"]},
+        "reason": {"type": "string", "minLength": 1},
+        "locked": {"type": "boolean"},
+        "reference_species": {"type": "string", "minLength": 1},
+        "citations": {"type": "array", "minItems": 1, "items": {
+          "type": "object", "additionalProperties": false,
+          "required": ["source_url", "locator"],
+          "properties": {"source_url": {"type": "string", "format": "uri"}, "locator": {"type": "string", "minLength": 1}}
+        }}
+      },
+      "allOf": [
+        {"if": {"properties": {"origin": {"const": "documented_reference"}}}, "then": {"required": ["reference_species", "citations"], "properties": {"value": {"type": "string", "minLength": 1}}}},
+        {"if": {"properties": {"origin": {"const": "unresolved"}}}, "then": {"properties": {"value": {"type": "null"}}}}
+      ]
+    }},
+    "limitations": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}}
+  }
+}

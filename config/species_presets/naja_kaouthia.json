@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "preset_id": "naja_kaouthia",
+  "species_id": "source_a950cdcbfc05a9a0",
+  "source_species_name": "Naja kaouthia",
+  "common_name": "Monocled cobra",
+  "status": "illustrative_unvalidated",
+  "variant": "Adult brown illustrative variant; locality and sex unspecified.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      },
+      {
+        "url": "https://www.academia.edu/1479078/W%C3%BCster_W_1998_The_cobras_of_the_genus_Naja_in_India_Hamadryad_23_15_32",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9774835/",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+        "image_id": "inat_86904179",
+        "sha256": "ed94c2b65c731ab8a2fedc8707285ac646ce52536fa05bf55de8212a315452c7",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+        "image_id": "inat_102034679",
+        "sha256": "448b2cf887ae9fdff230d6e055a09d861043e05781032da6c01cc6cf94d62549",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+        "image_id": "inat_136221239",
+        "sha256": "faea0d8d90d10738cb4a7a439fbdc64d28ee00df0b36f7c3ec16cfaca785f8b0",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      }
+    ],
+    "unextracted_fields": [],
+    "review": "Reference-guided draft; no expert anatomical approval or measurements.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Retain the approved flattened three-quarter head and continuous body.",
+        "Expanded-hood outline has its own smooth symmetric width profile.",
+        "Monocled and spectacled pigmentation remain separate rear-surface constructions.",
+        "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+      ],
+      "projection_limit": "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "reference_ids": [
+        "inat_86904179",
+        "inat_102034679",
+        "inat_136221239"
+      ]
+    },
+    "reference_feature_map": {
+      "inat_86904179": "Head/labial shape and smooth overlapping dorsal scales.",
+      "inat_102034679": "Head outline only; do not copy cloudy eye or occlusion.",
+      "inat_136221239": "Expanded front hood, ventral plate arrangement, throat pigmentation and natural neck-body transition."
+    },
+    "modeling_flags": [
+      "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "Hood geometry smoothed; species-specific appearance still requires reference review.",
+      "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views."
+    ],
+    "modeling_review_status": "previously_reviewed_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "monocle",
+    "skin_color": "#796246",
+    "marking_color": "#e0cea1",
+    "belly_color": "#d8c7a2",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        57
+      ],
+      [
+        200,
+        72.9
+      ],
+      [
+        220,
+        78
+      ],
+      [
+        235,
+        78
+      ],
+      [
+        250,
+        75.7
+      ],
+      [
+        270,
+        64.7
+      ],
+      [
+        290,
+        56.6
+      ],
+      [
+        310,
+        40
+      ],
+      [
+        330,
+        32.0
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "cobra_profile_direct": true,
+    "front_head_profile": {
+      "left": [
+        [
+          [
+            296.16,
+            92
+          ],
+          [
+            284.64,
+            91
+          ],
+          [
+            276.0,
+            96
+          ],
+          [
+            276.0,
+            104
+          ]
+        ],
+        [
+          [
+            276.0,
+            104
+          ],
+          [
+            276.0,
+            111
+          ],
+          [
+            281.76,
+            115
+          ],
+          [
+            288.48,
+            117
+          ]
+        ],
+        [
+          [
+            288.48,
+            117
+          ],
+          [
+            295.2,
+            122
+          ],
+          [
+            275.04,
+            139
+          ],
+          [
+            272,
+            145
+          ]
+        ]
+      ],
+      "right": [
+        [
+          [
+            296.16,
+            92
+          ],
+          [
+            306.72,
+            90
+          ],
+          [
+            318.24,
+            92
+          ],
+          [
+            324.0,
+            99
+          ]
+        ],
+        [
+          [
+            324.0,
+            99
+          ],
+          [
+            328.8,
+            106
+          ],
+          [
+            324.96,
+            138
+          ],
+          [
+            328,
+            145
+          ]
+        ]
+      ]
+    }
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

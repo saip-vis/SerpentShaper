@@ -1,0 +1,291 @@
+{
+  "schema_version": 1,
+  "preset_id": "echis_carinatus",
+  "species_id": "source_e26a3cdb6dfab555",
+  "source_species_name": "Echis carinatus",
+  "common_name": "Saw-scaled Viper",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown saw-scaled viper with rough scales and pale flank zigzags.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://faunaofindia.nic.in/PDFVolumes/sfs/029/index.pdf",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Echis/carinatus",
+        "scope": "Species-level morphology or taxonomy; variation and identity require review."
+      },
+      {
+        "url": "https://forest.rajasthan.gov.in/content/dam/raj/forest/ForestDepartment/PDFs/Preliminary-Birds-guide-/Reptiles%20%26%20Amphibians%20book%20of%20MHTR0.pdf",
+        "scope": "Government field-guide description and image: short, stout body and distinct short head."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_073_echis_carinatus/manifest.json",
+        "image_id": "inat_46074820",
+        "sha256": "d2371a47a7d1e35105933a09cf0b37ec02b9c9415dba63bfc546be1bdfbb9daa",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_073_echis_carinatus/manifest.json",
+        "image_id": "inat_29759031",
+        "sha256": "1bb8ecbd16c2549406b96ccfbfcb4b8c9fb63f0b697dde579a5232b96aefa8ff",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_073_echis_carinatus/manifest.json",
+        "image_id": "inat_55293205",
+        "sha256": "cd95c10077b44351bdc9cc5af2a7fd115152b65d12d076fc7e5406fc18ad28fa",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_46074820": "Close natural-color coiled view: vertical eye, keeled scales and lateral pale zigzag.",
+      "inat_29759031": "Brown dorsal pattern in habitat.",
+      "inat_55293205": "Coiled view showing pale zigzags and stocky trunk."
+    },
+    "unextracted_fields": [
+      "body",
+      "tail",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review needed.",
+    "modeling_flags": [
+      "The sinuous flank zigzags are approximated with repeated chevrons; geographic variation and underside need further review.",
+      "Shared pose and procedural texture remain approximations; no independent reconstruction of all sides."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Close natural-color coiled view: vertical eye, keeled scales and lateral pale zigzag.",
+        "Brown dorsal pattern in habitat.",
+        "Coiled view showing pale zigzags and stocky trunk.",
+        "Reduced spacing between light flank marks after comparing the first rendering to coiled photographs."
+      ],
+      "projection_limit": "Single 2D projection; shape values are artistic, not calibrated biological measurements.",
+      "reference_ids": [
+        "inat_46074820",
+        "inat_29759031",
+        "inat_55293205"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "chevrons",
+    "skin_color": "#a8846a",
+    "marking_color": "#e0c7a7",
+    "belly_color": "#decab5",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.6,
+    "mark_spacing": 43,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 56,
+      "neck": 8,
+      "upper": [
+        [
+          0,
+          0,
+          -1,
+          -4,
+          7,
+          -8,
+          18,
+          -10
+        ],
+        [
+          18,
+          -10,
+          28,
+          -13,
+          40,
+          -16,
+          48,
+          -13
+        ],
+        [
+          48,
+          -13,
+          52,
+          -10,
+          54,
+          -8,
+          56,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          1,
+          4,
+          8,
+          8,
+          20,
+          9
+        ],
+        [
+          20,
+          9,
+          31,
+          11,
+          40,
+          12,
+          48,
+          10
+        ],
+        [
+          48,
+          10,
+          52,
+          8.5,
+          54,
+          8,
+          56,
+          8
+        ]
+      ],
+      "eye": [
+        22,
+        -3,
+        3.4,
+        3.6
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q20.2 6 39.2 8 L50.4 4",
+      "shields": [],
+      "lip": true,
+      "markings": [],
+      "micro_scales": true,
+      "iris_color": "#b6a07c"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8.5
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        26
+      ],
+      [
+        471,
+        302,
+        28
+      ],
+      [
+        514,
+        347,
+        27
+      ],
+      [
+        502,
+        397,
+        26
+      ],
+      [
+        430,
+        431,
+        24
+      ],
+      [
+        330,
+        445,
+        23
+      ],
+      [
+        253,
+        476,
+        22
+      ],
+      [
+        253,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        19
+      ],
+      [
+        400,
+        555,
+        16
+      ],
+      [
+        460,
+        546,
+        11
+      ],
+      [
+        510,
+        528,
+        5
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "chevron_width": 0.14,
+    "chevron_border": 0.035
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

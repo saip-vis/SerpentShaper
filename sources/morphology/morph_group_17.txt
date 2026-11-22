@@ -1,0 +1,407 @@
+WHO/AFR/EDW/EDP/10.01GUIDELINESfor the (https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf)
+ [wordlim: 200] Published: 7 months ago; Guidelines for the Prevention and Clinical Management of Snakebite in Africa<table> ... See above for Naja haje haje.</td> ...     <td>Naja annulifera</td>
+Guidelines for the Prevention and Clinical Management of Snakebite in Africa<table>
+  <tr>
+    <td>FAMILY AND SPECIES<br>Neurotoxic Cobras (Genus Naja):</td>
+    <td>COMMON NAME</td>
+    <td>DISTRIBUTION (see figures)</td>
+    <td>CLINICAL TOXINOLOGY</td>
+  </tr>
+  <tr>
+    <td>Naja anchietae</td>
+    <td>Anchieta’s Egyptian cobra</td>
+    <td>Arid savanna: Namibia, north-western Botswana, S.W. Zambia.</td>
+    <td>Potently neurotoxic. See above for Naja haje haje.</td>
+  </tr>
+  <tr>
+    <td>Naja annulifera</td>
+    <td>Banded cobra</td>
+    <td>Arid and moist savanna: northern South Africa, eastern</td>
+    <td>Potently neurotoxic. See above for Naja haje haje.</td>
+  </tr>
+  <tr>
+    <td>Naja haje and N. senegalensis</td>
+    <td>Egyptian cobra</td>
+    <td>Botswana and Zimbabwe. Savanna, woodland (never forest); North Africa (not Morocco), West (N. senegalensis) and East Africa.</td>
+    <td>Potently neurotoxic, causing flaccid paralysis and respiratory depression. Fatalities due to respiratory arrest.</td>
+  </tr>
+  <tr>
+    <td>Naja melanoleuca</td>
+    <td>Forest, black and white-lipped cobra</td>
+    <td>Forested areas of West and Central Africa, southern East Africa and eastern coast of South Africa.</td>
+    <td>Potently neurotoxic. See above for Naja haje haje.</td>
+  </tr>
+  <tr>
+    <td>Naja nivea</td>
+    <td>Cape cobra</td>
+    <td>Karoo scrub and savanna, Namib desert, western part of South Africa, southern Namibia and Botswana.</td>
+    <td>Potently neurotoxic. See above for Naja haje haje.</td>
+  </tr>
+  <tr>
+    <td>Naja senegalensis</td>
+    <td>Senegalese cobra</td>
+    <td>Savanna of Senegal east to SW Niger and western Nigeria</td>
+    <td>Potently neurotoxic. See above for Naja haje haje.</td>
+  </tr>
+</table>104--------------------------------------------------------------------------------
+Naja kaouthia | The Reptile Database (https://reptile-database.reptarium.cz/Naja/kaouthia)
+ [wordlim: 200] Crawled: today; Distribution: The northeastern population is genetically distinct and thus makes N. kaouthia paraphyletic with respect to N. atra and N. naja. ... Description of A New Cobra (Naja Laurenti, 1768; Squamata, Elapidae) from China with Designation of a Neotype for Naja atra.
+1998: 26
+Naja naja kaouthia — SHARMA 2004
+Naja (Naja) kaouthia — WALLACH et al. 2009
+Naja kaouthia — WALLACH et al. 2014: 460
+Naja kauthia — PRADHAN et al. 2014 (in error) 
+Distribution  | Bangladesh, Myanmar (= Burma), Cambodia, NE India (Manipur, Meghalaya, Assam, Arunachal Pradesh, Uttar Pradesh, Bihar, Sikkim, Assam, West Bengal, Orissa = Odisha, Tripura, Mizoram, Nagaland), Bhutan, Laos, N Malaysia,
+S China (Yunnan), Thailand, Vietnam (Quang Tri, Thua Thien-Hue, Dak Lak, Lam Dong, Dong Nai, Ho Chi Minh City and Kien Giang, Son La)
+Type locality: Bengal [India], restricted to 24 Parganas, West Bengal, India, by Balchan et al. 2025.  
+Reproduction  | oviparous 
+Types  | Neotype: FMNH 165082, adult male, designated by Balchan et al. 2025: 499. Holotype: unknown (fide LEVITON et al. 2003) 
+Diagnosis  | DIAGNOSIS (DIAGNOSTIC CHARACTERS).— Body scales smooth, arranged in 19–21 (usually 21) longitudinal rows at mid-body; throat pale, scarcely any dark mottling, often followed by a single dark band, ventrolateral throat spots distinct; remainder of venter either pale or increasingly cloudy with darker pigmentation towards the rear; in adults, hood markings usually distinct, usually a pale, oval or circular marking, with a dark center and occasionally a narrow dark outer border; occasionally 1 or 2 dark spots are present in the pale oval; fangs not modified for spitting, venom discharge orifice large; ventrals 164–196; subcaudals 43–58. Total length 1500 mm; tail length 230 mm (according to Smith [1943:429] larger specimens have been recorded, but they are rare). [after LEVITON 2003]
+Comment  | Venomous!
+Synonymy: partly after Shi et al. 2022.
+The label "Naja naja siamensis" has been used in the toxinological literature for this species, not the real Naja siamensis.
+Distribution: The northeastern population is genetically distinct and thus makes N. kaouthia paraphyletic with respect to N. atra and N. naja. Although it likely represents a separate species Ratnarathorn et al. 2019 did not name it or diagnose it. The latest IUCN assessment (Stuart & Wogan 2012) limits the species to east of Nepal, so that it does not appear in Nepal or west of Bangladesh. For maps see Shi et al. 2022: 3 (Fig. 1) and Balchan et al. 2025: 491 (Fig. 1). 
+References  | 
+
+--------------------------------------------------------------------------------
+Integration of nuclear and mitochondrial gene sequences and morphology (https://pure.bangor.ac.uk/ws/portalfiles/portal/21193117/2018_melanoleuca.pdf)
+ [wordlim: 200] Published: last year; The candidate species identified in this species complex show no diagnostic features in their head scalation, ... Morphological characters used in analyses of the Naja melanoleuca complex ... 72  ·  Zootaxa 4455 (1)  © 2018 Magnolia Press
+DGB over a period of 40 years from personal inspection, literature records, correspondence and relevant data 
+supplied by Barry Hughes.
+TABLE 2. Morphological characters used in analyses of the Naja melanoleuca complex
+Number
+Character
+1
+Midbody scale rows: number of dorsal scale rows at midbody
+2
+Ventral scales, the first being defined as the first scale wider than long behind the gulars
+3
+Subcaudal scales, excluding the terminal conical scale
+4
+Number of discrete dark main bands on the ventral side
+5
+Number of discrete accessory dark bands across the ventral surface
+6
+Total number of discrete dark bands across ventral surface
+7
+Position of first ventral scale involved in the first main dark band
+8
+Last ventral scale of the first main dark band
+9
+Width in ventral scales of the first dark band
+10
+Position of the last dark ventral of the last discrete main dark band
+Our final analysis used 605 specimens of the N. melanoleuca complex. Collection acronyms follow Leviton et 
+al. 1985, with the following additions: E3M= University of Ghana, Legon (B. Hughes); EBM = Estação Biologia 
+Maritima, Inhaca Island, Mozambique; JPT = Zinave National Park, Mozambique (J.P. Tello); KMH = University 
+of Dar es Salaam, Tanzania (K.M. Howell). The specimens examined in the Museu Bocage, Lisbon (MBL) were 
+subsequently destroyed by fire. 
+WÜSTER ET AL.
+72  ·  Zootaxa 4455 (1)  © 2018 Magnolia Press--------------------------------------------------------------------------------
+IUCN Red List of Threatened Species: Naja subfulva (https://doi.org/10.2305%2FIUCN.UK.2021-2.RLTS.T133837181A133837214.en)
+ [wordlim: 200] Published: 5.9 years ago; Crawled: last month; Integration of nuclear and mitochondrial gene sequences and morphology reveals unexpected diversity in the forest cobra (Naja melanoleuca) species complex in Central and West Africa (Serpentes: Elapidae). ... An analysis of mitochondrial and nuclear gene sequences plus morphological data (Wüster et al. 2018) has solved the long-standing uncertainty surrounding the Naja melanoleuca ‘species complex’.
+
+#### Scientific name
+
+Naja subfulva
+
+#### Authority
+
+Laurent, 1955
+
+#### Synonyms
+
+Naja melonoleuca ssp. subfulva Laurent, 1955
+
+#### Common names
+
+##### English
+
+Brown Forest Cobra
+
+#### Taxonomic sources
+
+Wüster, W., Chirio, L., Trape, J.-F., Ineich, I., Jackson, K., Greenbaum, E., Barron, C., Kusamba, C., Nagy, Z.T., Storey, R., Hall, C., Wüster, C.E., Barlow, A. and Broadley, D.G. 2018. Integration of nuclear and mitochondrial gene sequences and morphology reveals unexpected diversity in the forest cobra (Naja melanoleuca) species complex in Central and West Africa (Serpentes: Elapidae). Zootaxa 4455(1): 68-98.
+
+Uetz, P., Freed, P. and Hošek, J. (eds). 2021. The Reptile Database. Available at: http://www.reptile-database.org. (Accessed: 1 June 2021).
+
+#### Identification Information
+
+#### Taxonomic notes
+
+.An analysis of mitochondrial and nuclear gene sequences plus morphological data (Wüster et al. 2018) has solved the long-standing uncertainty surrounding the Naja melanoleuca ‘species complex’. This is now shown  to contain five distinct species: a more restricted N. melanoleuca; N. guineensis (western Africa); N. savannula (savanna parts of western and central Africa); N. peroescobari (endemic to the island of São Tomé); and N. subfulva (central to northeast and Africa and southwards to Angola in the west and South Africa in the east). Wüster et al. (2018) note that this work did not encompass the full range of morphological variation known in N. subfulva, the most wide-ranging member of the complex, and that additional cryptic diversity may exist within this taxon.
+
+--------------------------------------------------------------------------------
+<p><strong>Integration of nuclear and mitochondrial gene sequences and morphology reveals unexpected diversity in the forest cobra (<em>Naja melanoleuca</em>) </strong><strong>species complex in Central and West Africa (Serpentes: Elapidae)</strong></p> (https://www.biotaxa.org/Zootaxa/article/view/zootaxa.4455.1.3?articlesBySameAuthorPage=2)
+ [wordlim: 200] Published: 8.3 years ago; Crawled: 2 months ago; Integration of nuclear and mitochondrial gene sequences and morphology reveals unexpected diversity in the forest cobra (Naja melanoleuca) species complex in Central and West Africa (Serpentes: Elapidae) ... 2018-08-01
+24-25, Haus 29, 14476 Potsdam (Golm), Germany.
+  * DONALD G. BROADLEY Natural History Museum of Zimbabwe, PO Box 240, Bulawayo, Zimbabwe.
+
+## DOI:
+
+https://doi.org/10.11646/zootaxa.4455.1.3
+
+## Keywords:
+
+Integrative taxonomy, Africa, Naja melanoleuca, Naja guineensis sp. nov., Naja savannula sp. nov., Elapidae, systematics, Reptilia
+
+## Abstract
+
+Cobras are among the most widely known venomous snakes, and yet their taxonomy remains incompletely understood, particularly in Africa. Here, we use a combination of mitochondrial and nuclear gene sequences and morphological data to diagnose species limits within the African forest cobra, Naja (Boulengerina) melanoleuca. Mitochondrial DNA sequences reveal deep divergences within this taxon. Congruent patterns of variation in mtDNA, nuclear genes and morphology support the recognition of five separate species, confirming the species status of N. subfulva and N. peroescobari, and revealing two previously unnamed West African species, which are described as new: Naja (Boulengerina) guineensis sp. nov. Broadley, Trape, Chirio, Ineich & Wüster, from the Upper Guinea forest of West Africa, and Naja (Boulengerina) savannula sp. nov. Broadley, Trape, Chirio & Wüster, a banded form from the savanna-forest mosaic of the Guinea and Sudanian savannas of West Africa. The discovery of cryptic diversity in this iconic group highlights our limited understanding of tropical African biodiversity, hindering our ability to conserve it effectively.
+
+## Downloads
+
+  * PDF/A (6MB)
+
+## Published
+
+2018-08-01
+
+## Issue
+
+Vol. 4455 No. 1: 1 Aug. 2018
+
+## Section
+
+Article
+--------------------------------------------------------------------------------
+Description of a New Cobra (Naja Laurenti, 1768; Squamata, Elapidae) from China with Designation of a Neotype for Naja atra (https://doi.org/10.3390/ani12243481)
+ [wordlim: 200] Published: 4.0 years ago; Crawled: 2 days ago; In this study, a total of 14 “Naja kaouthia” specimens and 6 N. atra specimens from China were collected (Table 1). Specimens were euthanized and then fixed in 80% ethanol before deposition in the Herpetology Museum of Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu City, Sichuan Province, China (CIB). ... Body and head morphological comparisons between Naja atra (A), N. kaouthia South Asian clade (B), N. kaouthia Southeastern Asian clade (C) and N. fuxi sp. nov. ... There is also a case for N. atra from southern China spitting venom with description for relative venom discharge orifice [56].
+### 3.2. Morphological Results and Taxonomic Conclusion
+
+Comparisons of selected morphological characters and spitting behavior for the subgenus Naja are listed in Supplementary Table S3.
+
+The “Naja kaouthia” from Sichuan and Yunnan, Southwestern China is morphologically different from the N. kaouthia from South Asian and Southeast Asian populations by (1) regular single narrow crossband present on the middle and posterior parts of the dorsum (3–15, 7.9 ± 2.7, n = 32) and dorsal surface of tail (1–6, 4.2 ± 1.1, n = 32) of both adults and juveniles, buff-colored with dark fringes on both edges, vs. South Asian populations (n = 39) and Southeast Asian populations (n = 35) without cross bands or with irregular cross bands or multiple light-colored cross bands pairs or densely woven lines; (2) small scales between posterior chin shields were usually three (40%) or two (37%), rarely four (13%), or one (10%, n = 30) vs. one for the South Asian clade (n = 8) and mostly one (72%) and rarely two (28%) for the Southeastern Asian clade (n = 18); (3) ventrals 179–205 (195.4 ± 6.7, n = 33) vs. the South Asian clade 179–199 (188.7 ± 5.9, n = 12) and Southeast Asian clade 168–186 (177.8 ± 4.9, n = 18).
+#### 3.3.2. Naja kaouthia Lesson, 1831
+
+Figure 3A, Figure 4A and Figure 5
+
+[English name: Monocled Cobra]
+
+[Chinese name: 孟加拉眼镜蛇]
+
+Naja kaouthia Lesson, 1831. Holotype: unknown (fide Leviton et al., 2003)
+
+Synonyms:
+
+Naja tripudians var. fasciata Gray 1830
+
+Naja larvata Cantor, 1839
+
+Naga tripudians monocellata Nicholson, 1874
+
+Naja tripudians viridis Wall, 1913a
+
+Naja kaothia–Wall, 1913b (nomen incorrectum)
+
+Naja naja kauothia–Kabara and Fischer, 1972 (nomen incorrectum)
+
+Naja kauthia–Khole, 1991 (nomen incorrectum)
+
+Naja kauthia suphanensis Nutaphand, 1986
+
+Naja naja combodia Khole, 1991 (lapsus calami)
+
+Remarks. Present samples of Naja kaouthia from the South Asian population and Southeast Asian population form sister clades. Since the type locality of N. kaouthia is the Bengal region [57], those specimens from northeastern India, Bangladesh and adjacent areas including Bhutan, Nepal, and southern Tibet Autonomous Region, China should be treated as N. kaouthia sensu stricto [5,26,27,28,29]. --------------------------------------------------------------------------------
+WHO/AFR/EDM/EDP/10.01GUIDELINESfor the (https://www.nsric-asrg.org.ng/pdf/who_guidelines.pdf)
+ [wordlim: 200] Published: 8 months ago; Guidelines for the Prevention and Clinical Management of Snakebite in Africayellow on the dorsal surface, with a paler ... south-west Niger and Western Nigeria.Figure 18: Snouted (“banded”) cobra Naja annulifera Limpopo, South Africa2.1.4.2  Egyptian cobra (Naja haje) (Figure
+Guidelines for the Prevention and Clinical Management of Snakebite in Africayellow on the dorsal surface, with a paler
+grey, brownish or yellowish ventral surface,
+with bands or blotches of darker colour and
+commonly a dark band below the neck.  
+Unlike in spitting cobras, the supralabial
+(upper lip) scales of N. annulifera and
+N. haje are separated from the orbit by small
+subocular scales.Figure 17: Nubian spitting cobra Naja nubiaethroat band, and practically all specimens
+feature a small dark spot on each side of the
+throat (herp-Wüster and Broadley, 2003).2.1.4  Neurotoxic cobras (Genus Naja)
+(Map 4)The neurotoxic cobras include the following
+four snakes.2.1.4.1 Snouted (“banded”) cobra (Naja
+annulifera) (Figure 18). This is one of Africa’s
+largest cobras, average total length 120-180
+cm (maximum exceeding 250 cm). Dorsally they are yellowish to greyish brown, dark
+brown or blue-black. Below, yellow with
+darker mottles. A banded phase occurs
+throughout the range which is blue-black
+with 7–11 yellow to yellow-brown crossbars.Figure 19: Egyptian cobra Naja haje Zaria,
+Nigeria2.1.4.3 Senegalese cobra Naja senegalensis
+(Figure 20). Length up to 2.3 m, average
+just over 1 m. Uniformly dark grey or brown
+above, sometimes with a pale blotch on
+the dorsum of the hood. Throat dark with
+pale cross bands. Ventral surface yellowish.
+Reported from savanna of Senegal east to
+south-west Niger and Western Nigeria.Figure 18: Snouted (“banded”) cobra Naja annulifera Limpopo, South Africa2.1.4.2  Egyptian cobra (Naja haje) (Figure
+19).  Average total length 150–200 cm
+(maximum 220 cm). The colour is extremely
+variable: black, brown, grey, reddish orFigure 20: Senegalese cobra Naja senegalensis
+Dielmo, Senegal8--------------------------------------------------------------------------------
+Bulletin de la Société (https://lashf.org/wp-content/uploads/2021/12/BulletinSHF_n151.pdf)
+ [wordlim: 200] Published: 1.1 years ago; pour identification au Dr. ... (Naja atra Cantor, 1842 ou Naja kaouthia Lesson, 1831).
+Observations – Le spécimen de Ban Kiuakhan, un jeune individu de couleur sombre, 
+a été photographié par Florent Metz le 26 août 2012 près du village en début de matinée sur 
+un chemin traversant une forêt secondaire. à Viengthong, la partie postérieure d’un adulte 
+fraîchement découpé, lui aussi de couleur sombre, a été trouvée et photographiée le 06 mai 
+2013 sur une friche située en lisière de forêt. Seulement photographiés ou incomplets, ces 
+spécimens n’ont pu recevoir d’allocation spécifique.
+Remarques – Au Laos Naja kaouthia semble occuper une grande partie du bassin du 
+Mékong et il est bien connu de la province de Vientiane (nos données). Naja atra est répandu 
+au sud de la Chine et au nord du Viêt-Nam et il est cité du nord du Laos (Deuve 1970). Tou-
+tefois ces deux espèces à l’ornementation et la coloration variables sont morphologiquement 
+très proches. à de rares exceptions près, Naja atra et N. kaouthia ne peuvent être distingués 
+de façon certaine que par des comptages de l’écaillure (Wüster 1996). --------------------------------------------------------------------------------
+LISTE DES ESPECES CITES (https://cites.org/sites/default/files/fra/resources/pub/checklist11/Annales_des_inscriptions_a_la_CITES.pdf)
+ [wordlim: 200] Published: 1.8 years ago; Naja atra ... Naja kaouthia
+II 
+ 
+01/08/85 
+  
+ 
+II/r 
+AT 
+01/08/85 
+  
+ 
+II/w 
+AT 
+06/01/89 
+  
+Micrurus diastema 
+III 
+HN 
+13/04/87 
+  
+ 
+III/r 
+AT 
+13/04/87 
+  
+ 
+III/w AT 
+26/09/90 
+  
+Micrurus nigrocinctus 
+III 
+HN 
+13/04/87 
+  
+ 
+III/r 
+AT 
+13/04/87 
+  
+ 
+III/w AT 
+26/09/90 
+  
+Naja atra 
+II 
+ 
+18/01/90 
+ Formerly included in Naja naja. 
+Anteriormente incluida en Naja naja. 
+Précédemment inscrit sous Naja naja. 
+Naja kaouthia 
+III 
+IN 
+13/02/84 
+  
+ 
+II 
+ 
+18/01/90 
+ Formerly included in Naja naja. 
+Anteriormente incluida en Naja naja. 
+Précédemment inscrit sous Naja naja. 
+Naja mandalayensis 
+II 
+ 
+18/01/90 
+  
+Naja naja 
+III 
+IN 
+13/02/84 
+  
+ 
+II 
+ 
+18/01/90 
+  
+Naja oxiana 
+III 
+IN 
+13/02/84 
+  
+ 
+II 
+ 
+18/01/90 
+ Formerly included in Naja naja. 
+Anteriormente incluida en Naja naja. 
+Précédemment inscrit sous Naja naja. 
+Naja philippinensis 
+II 
+ 
+18/01/90 
+ Formerly included in Naja naja. 
+Anteriormente incluida en Naja naja. 
+Précédemment inscrit sous Naja naja. 
+Naja sagittifera 
+II 
+ 
+18/01/90 
+ Formerly included in Naja naja. 
+Anteriormente incluida en Naja naja. 
+Précédemment inscrit sous Naja naja. 
+Annales des inscriptions à la CITES – 106--------------------------------------------------------------------------------
+Australasian Journal of Herpetology (https://www.smuggled.com/AJH-58-Pages-40-46.pdf)
+ [wordlim: 200] Published: 8 months ago; good description of this species in that it has been hiding from ... west Thailand (for which the name Naja kaouthia suphanensis ... (versus dark grey to black in both N. kaouthia and N. atra); light
+--------------------------------------------------------------------------------
+Egyptian Cobra - Africa - African Snakebite Institute (https://www.africansnakebiteinstitute.com/snake/african-snakes-egyptian-cobra/)
+ [wordlim: 200] Crawled: 2 days ago; Image Map indicating the distribution of the Egyptian Cobra (Naja haje) in Africa ... Snouted Cobra (Naja annulifera)
+--------------------------------------------------------------------------------
+Description of a New Cobra (Naja Laurenti, 1768; Squamata, Elapidae) from China with Designation of a Neotype for Naja atra (https://www.mdpi.com/2076-2615/12/24/3481)
+ [wordlim: 200] Published: 4.0 years ago; Crawled: 4 months ago; Cobras recorded from China were once regarded as one species with two subspecies under the name Naja naja [30] but later became regarded as two species, namely N. atra and N. kaouthia [31].
+--------------------------------------------------------------------------------
+Integration of nuclear and mitochondrial gene sequences and morphology reveals unexpected diversity in the forest cobra (Naja melanoleuca) species complex in Central and West Africa (Serpentes: Elapidae) (https://www.gbif.org/dataset/0d838ca1-52f1-4278-895d-68fc481b7558/taxon/03ADDC33D47DFA69FF5935B8D015FD82.taxon)
+ [wordlim: 200] Published: 8.1 years ago; Crawled: last month; Checklist dataset Registered 11 October 2018
+
+# Integration of nuclear and mitochondrial gene sequences and morphology reveals unexpected diversity in the forest cobra (Naja melanoleuca) species complex in Central and West Africa (Serpentes: Elapidae)
+--------------------------------------------------------------------------------
+Taxon Details | MCZbase (https://mczbase.mcz.harvard.edu/name/Naja%20naja%20kaouthia)
+ [wordlim: 200] Crawled: last month; # Naja naja kaouthia ...   * Naja atra
+--------------------------------------------------------------------------------
+Naja melanoleuca | The Reptile Database (https://reptile-database.reptarium.cz/Naja/melanoleuca?search_param=%28%28genus%3D%27Na%27%29%29)
+ [wordlim: 200] Crawled: last month; Similar species: Naja melanoleuca has been split up into 4 species by Wüster et al. 2018, namely N. melanoleuca s. str., N. guineensis, N. savannula, and N. subfulva, all of which are variable and partly sympatric (see map in Wüster et al.
+--------------------------------------------------------------------------------
+Wüster, W. & R.S. Thorpe (1992) Dentitional phenomena in cobras revisited: fang structure and spitting in the Asiatic species of Naja (Serpentes: Elapidae). Herpetologica, 48: 424-434. (https://www.academia.edu/1479147/W%C3%BCster_W_and_R_S_Thorpe_1992_Dentitional_phenomena_in_cobras_revisited_fang_structure_and_spitting_in_the_Asiatic_species_of_Naja_Serpentes_Elapidae_Herpetologica_48_424_434)
+ [wordlim: 200] Published: 34.0 years ago; Crawled: last week; In Thai- land, the nonspitting Naja kaouthia is gen- erally timid, placid, and reluctant to con- front an adversary, whereas the spitting N. cf. atra and N. sumatrana generally de- fend themselves vigorously. ... Naja ka- outhia is the only species of cobra with reliable records from Burma, where it is widespread throughout .-However, we have seen six specimens of a species with highly modified spitting fangs from "Rangoon or Mandalay", Burma (Stockholm Museum, NHRM MAL.
+--------------------------------------------------------------------------------
+Naja melanoleuca (https://zenodo.org/records/15634411)
+ [wordlim: 200] Published: 1.9 years ago; Crawled: 3 weeks ago; In Angola, the species is present along the escarpment and in the northern half of the country (Branch 2018). ... Integration of nuclear and mitochondrial gene sequences and morphology reveals unexpected diversity in the forest cobra (Naja melanoleuca) species complex in Central and West Africa (Serpentes: Elapidae).
+--------------------------------------------------------------------------------
+ITIS - Report: Naja annulifera (https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=700625)
+ [wordlim: 200] Crawled: 2 months ago;     Naja haje annulifera W. ...   Geographic Division: Africa
+--------------------------------------------------------------------------------
+Snouted cobra (https://en.wikipedia.org/wiki/Snouted_cobra)
+ [wordlim: 200] Crawled: 4.2 years ago; Naja haje var. annulifera Peters, 1854 ... The snouted cobra (Naja annulifera), also called the banded Egyptian cobra, is a highly venomous species of cobra found in Southern Africa.
+--------------------------------------------------------------------------------
+List of reptiles of South Africa (https://en.wikipedia.org/wiki/List_of_reptiles_of_South_Africa)
+ [wordlim: 200] Crawled: last week; Naja annulifera anchietae Broadley, 1995, Naja haje Boettger, 1887, Naja haje anchietae Mertens, 1937, Naia anchietae Boulenger, 1896, Naja (Uraeus) anchietae Wallach et al. ... Coluber niveus Linnaeus, 1758, Vipera (Echidna) flava Merrem, 1820, Naja gutturalis Smith, 1838, Naja intermixta Duméril & Duméril, 1854, Naja haje capensis Jan, 1863, Naja flava Boulenger, 1887, Naja (Uraeus) nivea Wallach et al., 2009, endemic to southern Africa
+--------------------------------------------------------------------------------
+Indian cobra (https://en.wikipedia.org/wiki/Indian_cobra)
+ [wordlim: 200] Crawled: last month; The generic name and the specific epithet naja is a Latinisation of the Sanskrit word nāga (नाग) meaning "cobra". ... Naja naja is part of the subgenus Naja, along with all the other species of Asiatic cobras, including Naja kaouthia, Naja siamensis, Naja sputatrix, and the rest. ... Naja (Naja) atra
+--------------------------------------------------------------------------------
+Gebänderte Kobra (https://de.wikipedia.org/wiki/Geb%C3%A4nderte_Kobra)
+ [wordlim: 200] Crawled: 4.8 years ago; Die Gebänderte Kobra (Naja annulifera) ist eine Schlangenart aus der Familie der Giftnattern. Sie wurde 1995 als eigene Art von der Uräusschlange (Naja haje) abgetrennt und zeigt eine oberseits einfarbige und eine seltenere, sehr auffallend hell dunkel gebänderte Farbmorphe. ... Marais: A Complete Guide to the Snakes of Southern Africa.
+--------------------------------------------------------------------------------
+Naja (https://en.wikipedia.org/wiki/Naja)
+ [wordlim: 200] Crawled: 3 weeks ago; Naja (Afronaja) nubiae ... Naja (Afronaja) katiensis
+--------------------------------------------------------------------------------
+Naja (https://es.wikipedia.org/wiki/Naja)
+ [wordlim: 200] Crawled: 1.1 years ago;  N. katiensis  | Angel, 1922  | 0  | Cobra de Malí  | Benín, Burkina Faso, Camerún, Ghana, Guinea, Costa de marfil, Malí, Gambia, Mauritania, Níger, Nigeria, Senegal, Togo ...  N. naja^{T}  | (Linnaeus, 1758)  | 0  | Cobra india o de anteojos  | Bangladés, Bután, India, Nepal, Pakistán, Sri Lanka ...  N. nubiae  | Wüster & Broadly, 2003  | 0  | Cobra escupidora de Nubia  | Chad, Egipto, Eritrea, Níger, Sudán
+--------------------------------------------------------------------------------
+[Hanoi, Vietnam] (https://www.reddit.com/r/whatsthissnake/comments/1oaggb9)
+ [wordlim: 200] Published: 1.1 years ago; Crawled: 1.1 years ago; In Hanoi, this shld be *Naja atra*, the Chinese cobra, which often shows a marking that cuts across the entire back of the hood as you see here! ...   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education. ... *Naja kaouthia*, the monocled cobra, is out of range.
+

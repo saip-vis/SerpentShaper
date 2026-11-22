@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "preset_id": "bothrops_asper",
+  "species_id": "source_db6df15a24f7a362",
+  "source_species_name": "Bothrops asper",
+  "common_name": "Terciopelo",
+  "status": "illustrative_unvalidated",
+  "variant": "Adult-style brown/olive variant; historical source label retained.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://icp.ucr.ac.cr/en/information-and-materials/venomous-snakes-costa-rica/bothrops-asper",
+        "scope": "Qualitative morphology reference; local photo identity remains provider-labelled."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_028_bothrops_asper/manifest.json",
+        "image_id": "inat_29141",
+        "sha256": "986f9dda65fcf601fd448bee19950bf582d90c0dbf3e85b7bf3e995449538032",
+        "use": "Qualitative healthy-anatomy reference; no measurement fitting."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_028_bothrops_asper/manifest.json",
+        "image_id": "inat_62179",
+        "sha256": "ab11ea1be29e337b6f6ea499e9fc1ee12e642579054037e8dc0556e6dbbd1d4d",
+        "use": "Qualitative healthy-anatomy reference; no measurement fitting."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_028_bothrops_asper/manifest.json",
+        "image_id": "inat_776402",
+        "sha256": "1c6693ad832641fe8dd5a351f98f3981fc61dba745e14963259c4cb84c4b6494",
+        "use": "Qualitative healthy-anatomy reference; no measurement fitting."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_028_bothrops_asper/manifest.json",
+        "image_id": "inat_7450756",
+        "sha256": "86ecbb46140a6d18768d2f68567df9ae4baf0e6e939b9c4f15f1d4aaf0c46950",
+        "use": "Qualitative healthy-anatomy reference; no measurement fitting."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_29141": "Selected head/body/pattern reference after contact-sheet review; no population or calibrated ratio inference.",
+      "inat_62179": "Selected head/body/pattern reference after contact-sheet review; no population or calibrated ratio inference.",
+      "inat_776402": "Selected head/body/pattern reference after contact-sheet review; no population or calibrated ratio inference.",
+      "inat_7450756": "Selected head/body/pattern reference after contact-sheet review; no population or calibrated ratio inference."
+    },
+    "unextracted_fields": [
+      "tail",
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Long lance-shaped head with dark roof and pale jaw; paired lateral triangles and strongly keeled scales.",
+        "Second rendered comparison: smoother crown-to-neck transition, broader pale labial region and individually separated labial seams; hook marks refined into offset kidney-shaped outlines.",
+        "Third reference comparison: labial seams spaced individually for the selected skull width; small crown scales preserved independently. Scute drawing is stylized, not a diagnostic scale count."
+      ],
+      "projection_limit": "Photo pose/stage prevents measured reconstruction; illustration coordinates artistic.",
+      "reference_ids": [
+        "inat_29141",
+        "inat_62179",
+        "inat_776402",
+        "inat_7450756"
+      ]
+    },
+    "modeling_flags": [
+      "Image 2 is landscape; image 7 possible injured/handled; no full ventral view."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "flank_triangles",
+    "skin_color": "#938269",
+    "marking_color": "#46382d",
+    "belly_color": "#d9c99e",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.7,
+    "mark_spacing": 65,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 82,
+      "neck": 9,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          10.66,
+          -8.049999999999999,
+          22.96,
+          -11.04
+        ],
+        [
+          22.96,
+          -11.04,
+          38.54,
+          -17.94,
+          55.760000000000005,
+          -23,
+          64.78,
+          -20.01
+        ],
+        [
+          64.78,
+          -20.01,
+          69.7,
+          -16.56,
+          77.08,
+          -9,
+          82,
+          -9
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          4,
+          18.86,
+          8.8,
+          39.36,
+          11.2
+        ],
+        [
+          39.36,
+          11.2,
+          53.300000000000004,
+          16,
+          63.96,
+          16,
+          68.88,
+          11.2
+        ],
+        [
+          68.88,
+          11.2,
+          73.8,
+          9,
+          77.89999999999999,
+          9,
+          82,
+          9
+        ]
+      ],
+      "eye": [
+        31,
+        -2,
+        3.8,
+        3.9899999999999998
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        17.05,
+        0
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q28.7 6.4 57.4 8.8 L73.8 4.5",
+      "shields": [
+        "M8 1 L10 6 L9 12",
+        "M18 1 L20 6 L19 12",
+        "M28 1 L30 6 L29 12",
+        "M39 1 L41 6 L40 12",
+        "M51 1 L53 6 L52 12",
+        "M63 1 L65 6 L64 12"
+      ],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M35 0 L72 2 L69 8 L35 5Z",
+          "fill": "#493b2c"
+        },
+        {
+          "path": "M1 4 Q28.7 9.6 57.4 9.6 L68.88 5.3999999999999995",
+          "stroke": "#d9c99e",
+          "width": 2.3
+        }
+      ],
+      "labial_boundary": "M-3 1 Q28.7 0 54.940000000000005 4 L84 6 L84 35 L-3 35Z",
+      "micro_scales": true
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        9
+      ],
+      [
+        258,
+        227,
+        15
+      ],
+      [
+        305,
+        249,
+        23
+      ],
+      [
+        390,
+        271,
+        29
+      ],
+      [
+        471,
+        302,
+        31
+      ],
+      [
+        514,
+        347,
+        30
+      ],
+      [
+        502,
+        397,
+        28
+      ],
+      [
+        430,
+        431,
+        26
+      ],
+      [
+        330,
+        445,
+        23
+      ],
+      [
+        253,
+        476,
+        20
+      ],
+      [
+        253,
+        515,
+        16
+      ],
+      [
+        324,
+        550,
+        10
+      ],
+      [
+        400,
+        555,
+        6
+      ],
+      [
+        460,
+        546,
+        3
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

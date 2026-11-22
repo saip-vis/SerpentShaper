@@ -1,0 +1,346 @@
+Handbook to the Dangerously Venomous Snakes of Myanmar (https://www.academia.edu/17053325/Handbook_to_the_Dangerously_Venomous_Snakes_of_Myanmar)
+ [wordlim: 200] Published: 18.3 years ago; Crawled: today; 31 1 2 3 4 Left to right: (1) Loreal absent, nasal in contact with preocular (Bungarus wanghaotingi); (2) loreal present, separating nasal and preocular (Azemiops feae); (3) head covered with small scales, sensory pit absent (Daboia siamensis [russelii]); (4) head covered with small scales, sensory pit present (Cryptelytrops erythrurus) 2a. ... Daboia siamensis (Smith, 1917) Russell’s viper Vipera russelli siamensis, Smith, 1917:223 (Type locality:Samkok, about 60 km.
+ Distribution of Azemiops feaei in Myanmar Family VIPERIDAE Subfamily VIPERINAE Genus Daboia Gray, 1842 Daboia Gray, 1842c:69 (Type species: Daboia elegans Gray 1842c [=Vipera daboia Daudin 1803=Coluber russelii Shaw and Nod- der 1797], fide Smith, 1943:482). Daboia siamensis (Smith, 1917) Russell’s viper Vipera russelli siamensis, Smith, 1917:223 (Type locality:Samkok, about 60 km. N of Bangkok, Siam [Thailand]; Holotype: BMNH).— Smith, 1943:484, fig. 153. Daboia russelli siamensis, Toriba, 1993:268. Vipera russellii, Zhao and Adler, 1993:278. Daboia russelii, David and Ineich, 1999:312.— Mallow, Ludwig, and Nilson, 2003:150, pl. 7.2.— McDiarmid, Campbell, and Touré, 1999:371.— Whitaker and Captain, 2004:404, photo (p. 405–07). Daboia russellii siamensis, Vogel, 2006:140, figs. RS03411–12. Daboia siamensis, Thorpe, Pook, and Malhotra, 2007:212, fig. 3a. DESCRIPTION: No sensory pit between nostril and eye; head very distinct from neck, above covered by small, keeled, imbricate scales, 6–9 between narrow supraoculars; nostril large, in large nasal scale which, below, is fused to the rostral; eye, with verti- 68 cally elliptic pupil, surrounded by 10–15 small scales, 3–4 rows of small scales separating the cir- cumocular scales from the upper labials; temporals small; 10–12 upper labials; 27–33 longitudinal rows of scales at midbody, all except outermost row strongly keeled; ventrals 153–180; subcaudals 41–64, all paired; color above light brown with 3 longitudinal series of large black-margined brown spots or blotches, vertebral series often merging to form a chain-like longitudinal stripe, occasionally an additional longitudinal series of small dark spots between vertebral and lateral series; yellowish white below occasionally with dark brown markings. --------------------------------------------------------------------------------
+Proc Calif Acad Sci Vol 54 Nos 1-8 (https://repository.si.edu/server/api/core/bitstreams/74d47658-0caf-4d92-9649-c4b1c3093edd/content)
+ [wordlim: 200] Published: 22.9 years ago; Daboia russelii (Shaw and Nodder, 1797) ... Daboia russelli siamensis, Toriba, 1993:268.
+HABITAT.— Although little is known about
+the natural history of this species, Kardong
+(1986) (summarizing Zhao and Zhao 1981)
+reports that it inhabits mountainous terrain at
+elevations between 1000-2000 m, but it has
+also been found in degraded habitats such as
+paddy, grassy fields and in and about villages. Historical records of this species in Myanmar indi-
+cate that it occurs in the Northern Triangle subtropical forest and the Nujiang Langcang Gorge’s
+alpine-conifer and mixed-deciduous forest. For additional comments see Mallow et al. (2003).
+Subfamily VIPERINAE
+Genus Daboia Gray, 1842
+Daboia Gray, 1842:69 (Type species: Daboia elegans Gray, 1842 [=Vipera daboia Daudin, 1803=Coluber
+russelii Shaw and Nodder, 1797], fide Smith, 1943:482).
+Daboia russelii (Shaw and Nodder, 1797)
+Coluber russelii Shaw and Nodder, 1797:291 (Type locality: India; Holotype: BMNH II.I.Ia).
+Vipera russelli siamensis, Smith, 1917:223; 1943:484, fig. 153.
+Daboia russelli siamensis, Toriba, 1993:268.
+Vipera russellii, Zhao and Adler, 1993:278.
+Daboia russelii, David and Ineich, 1999:312.— McDiarmid, Campbell, and Touré, 1999:371.— Mallow,
+Ludwig, and Nilson, 2003:150, pl. 7.2.
+DIAGNOSTIC CHARACTERS.— No sensory pit between nostril and eye; head very distinct from
+neck, above covered by small, keeled, imbricate scales, 6–9 between narrow supraoculars; nostril
+large, in large nasal shield which, below, is fused to the rostral; eye, with vertically elliptic pupil,
+surrounded by 10–15 small scales, 3–4 rows of small scales separating the circumocular scales
+from the upper labials; temporals small; 10–12 upper labials; 27–33 longitudinal rows of scales at--------------------------------------------------------------------------------
+daboia siamensis | The Reptile Database (https://reptile-database.reptarium.cz/front.front/species?genus=daboia&species=siamensis)
+ [wordlim: 200] Crawled: today; Daboia russelli siamensis— WELCH 1994: 51
+Daboia russelii siamensis — COX et al.
+Type locality: "Sam Kok, Central Siam, about 60 km. N. of Bangkok" [Thailand].  
+Reproduction  | viviparous (not imputed, fide Zimin et al. 2022) 
+Types  | Holotype: BMNH 1946.1.18.8 (formerly BMNH 1927.11.24.1)
+Syntype: MZB [sublimitis] 
+Diagnosis  | Diagnosis: A large species reaching approximately one and a half meters in length; similar to russelli rusellii, but differing in details in markings on head. An additional series of small elongate black spots present between the dorsal and lateral series, and small irregular spots along the flanks. (Taylor 1965: 1055)
+Unfortunately we had to temporarily remove additional information as this was scraped by multiple AI companies who sell that data. However, these details, e.g. detailed descriptions (about about .74 pages) are available for collaborators and contributors. Please contact us if you need any of this material. 
+Comment  | Venomous! See also D. russelii.
+NCBI taxonomy ID: 338883 [limitis]
+DNA barcodes suggested multiple species within this species (Laopichienpong et al. 2016).
+Distribution: possibly in Yunnan (China) but records from there are questionable (Wang et al. 2022). 
+Etymology  | Named after its type locality (Siam = Thailand). 
+
+--------------------------------------------------------------------------------
+Taxonomy browser Taxonomy Browser (Daboia siamensis) (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=343250&mode=Info)
+ [wordlim: 200] Crawled: last month; Daboia russelli siamensis ... Daboia russelii siamensis
+
+## Daboia siamensis
+
+Taxonomy ID: 343250 (for references in articles please use ncbitaxon:343250)
+current name
+
+Daboia siamensis  (Smith, 1917)
+
+homotypic synonym:
+
+Daboia russelli siamensis
+
+Vipera russellii siamensis
+
+Daboia russellii siamensis
+
+Daboia siamensis siamensis
+
+Daboia russelii siamensis
+
+basionym:
+
+Vipera russelli siamensis  Smith, 1917
+
+holotype of Vipera russelli siamensis: BMNH : 1946.1.18.8
+
+NCBI BLAST name: snakes
+Rank: species
+Genetic code: Translation table 1 (Standard)
+Mitochondrial genetic code: Translation table 2 (Vertebrate Mitochondrial)
+Other names:
+heterotypic synonym Vipera russellii formosensis common name(s) Siamese Russell's viper
+
+Lineage(full)
+    cellular organisms; Eukaryota; Opisthokonta; Metazoa; Eumetazoa; Bilateria; Deuterostomia; Chordata; Craniata; Vertebrata; Gnathostomata; Teleostomi; Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha; Tetrapoda; Amniota; Sauropsida; Sauria; Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata; Toxicofera; Serpentes; Colubroidea; Viperidae; Viperinae; Daboia
+
+### Comments and References:
+
+ | image:Daboia siamensis Image by Tontanthailand from Wikimedia Commons under a CC BY-SA license.
+* Image may not have been verified for accuracy by NCBI Taxonomy.
+
+* * *
+
+Disclaimer: The NCBI taxonomy database is not an authoritative source for nomenclature or classification - please consult the relevant scientific literature for the most reliable information.
+
+Reference: How to cite this resource - Schoch CL, et al. NCBI Taxonomy: a comprehensive update on curation, resources and tools. Database (Oxford). 2020: baaa062. PubMed: 32761142 PMC: PMC7408187.--------------------------------------------------------------------------------
+# ASI EASY ID – Green Mamba (https://www.africansnakebiteinstitute.com/downloads/Snake%20Booklet-Common-snakes-of-Mozmabique.pdf)
+ [wordlim: 200] Published: 1.2 years ago; Crawled: last week; ## Green Mamba (*Dendroaspis angusticeps*)
+
+**AFRICAN SNAKEBITE INSTITUTE.com (ASI)** ... Map of southern and eastern Africa, showing national boundaries in white on a black background.
+# ASI EASY ID – Green Mamba
+## Green Mamba (*Dendroaspis angusticeps*)
+
+**AFRICAN SNAKEBITE INSTITUTE.com (ASI)**
+
+**HIGHLY VENOMOUS**
+
+**Average length:** 1.6 m.  
+**Maximum length:** 2.5 m
+
+**Can be confused with:** Boomslang and green snakes of the genus *Philothamnus*.
+
+## Identification features
+
+- **Head:** Coffin-shaped head.
+- **Eyes:** Eyes are olive green in colour with round pupil.
+- **Body colour:** Velvety green snake with large scales.
+- **Body shape:** Thick-set snake.
+- **Scales:** Has occasional yellow scale.
+- **Belly:** Light green belly.
+- **Head shape:** Elongated coffin-shaped head.
+- **Juveniles:** Juveniles are more turquoise in colour.
+
+## Distribution
+
+<visual_element id="e1">
+**Distribution map – Green Mamba (*Dendroaspis angusticeps*)**
+
+Map of southern and eastern Africa, showing national boundaries in white on a black background. The distribution area is highlighted in bright yellow along the eastern coastal region of Africa, extending down towards the southeastern part of the continent. --------------------------------------------------------------------------------
+ITIS - Report: Daboia siamensis (https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1058525)
+ [wordlim: 200] Crawled: 2 months ago;   Synonym(s): Daboia russelii siamensis (M. ...                                             Species Daboia siamensis (M.
+
+# Integrated Taxonomic Information System - Report
+
+Daboia siamensis  (M. A. Smith, 1917)
+Taxonomic Serial No.: 1058525
+
+(Download Help) Daboia siamensis TSN 1058525
+
+ Taxonomy and Nomenclature
+       
+  Kingdom: Animalia  
+  Taxonomic Rank: Species  
+  Synonym(s): Daboia russelii siamensis (M. A. Smith, 1917)
+ 
+    Vipera russelli siamensis M. A. Smith, 1917
+ 
+  Common Name(s): Eastern Russel's Viper [English]
+ 
+       
+  Taxonomic Status:    
+  Current Standing: valid  
+       
+  Data Quality Indicators:    
+  Record Credibility Rating: verified - standards met  
+       
+ Taxonomic Hierarchy
+       
+  Kingdom Animalia  – Animal, animaux, animals  
+     Subkingdom Bilateria  – triploblasts  
+        Infrakingdom Deuterostomia   
+           Phylum Chordata  – cordés, cordado, chordates  
+              Subphylum Vertebrata  – vertebrado, vertébrés, vertebrates  
+--------------------------------------------------------------------------------
+Phylogeography of the Russell's viper (<i>Daboia russelii</i>) complex in relation to variation in the colour pattern and symptoms of envenoming (https://www.thebhs.org/publications/the-herpetological-journal/volume-17-number-4-october-2007/497-01-phylogeography-of-the-russell-s-viper-i-daboia-russelii-i-complex-in-relation-to-variation-in-the-colour-pattern-and-symptoms-of-envenoming/file)
+ [wordlim: 200] Published: 18.6 years ago; Crawled: last week; A multigene mitochondrial gene tree, supported by multivariate morphometry and basic colour pattern, suggests a primary split in the organismal phylogeny giving distinct, diagnosable, eastern and western forms that we recognize as full species: *Daboia russelii* (west of the Bay of Bengal) and *Daboia siamensis* (east of the Bay of Bengal). ... There is an apparent lack of agreement between many aspects of variation in this species complex, namely the conventional subspecies, the multivariate morphology, the colour pattern, the clinical symptoms of envenoming and anti-venom efficacy.
+HERPETOLOGICAL JOURNAL 17: 209–218, 2007
+
+# Phylogeography of the Russell’s viper (*Daboia russelii*) complex in relation to variation in the colour pattern and symptoms of envenoming
+
+**Roger S. Thorpe, Catharine E. Pook & Anita Malhotra**
+
+*School of Biological Sciences, University of Wales, Bangor, UK*
+
+The Russell’s viper complex has a patchy (relict) distribution over large areas of Asia from Pakistan to Taiwan and the Lesser Sunda islands. In many areas it is the primary cause of snakebite mortality, and hence a serious medical problem. A multigene mitochondrial gene tree, supported by multivariate morphometry and basic colour pattern, suggests a primary split in the organismal phylogeny giving distinct, diagnosable, eastern and western forms that we recognize as full species: *Daboia russelii* (west of the Bay of Bengal) and *Daboia siamensis* (east of the Bay of Bengal). The clinical symptoms of human envenoming show marked geographic variations that are broadly unrelated to the phylogeny. The molecular phylogeny, together with current distribution and fossil record, suggests cycles of extreme expansion and contraction for this complex. --------------------------------------------------------------------------------
+Eastern Green Mamba - Africa - African Snakebite Institute (https://www.africansnakebiteinstitute.com/snake/african-snakes-eastern-green-mamba/)
+ [wordlim: 200] Crawled: today; Image Map indicating the distribution of the Eastern Green Mamba (Dendroaspis angusticeps) within Africa.
+  * # Eastern Green Mamba – Africa
+
+A bright green snake that inhabits coastal and thick montane forest. It is also comfortable in plantations such as Mango and some nuts. It is often confused with harmless green snakes of the genus Philothamnus and the green Boomslang.
+
+Full Name: Eastern Green Mamba (Dendroaspis angusticeps)
+
+Classification: HIGHLY VENOMOUS
+
+ImageMap indicating the distribution of the Eastern Green Mamba (Dendroaspis angusticeps) within Africa.
+
+A bright green snake that inhabits coastal and thick montane forest. It is also comfortable in plantations such as Mango and some nuts. It is often confused with harmless green snakes of the genus Philothamnus and the green Boomslang.
+
+The Green Mamba spends most of its life in dense vegetation where it hunts for tree-living mammals as well as birds during the day. It may venture to the ground to bask or move to a new tree. They are sometimes found as roadkill.
+
+Its venom is potently neurotoxic but may also cause swelling. Antivenom is effective but bites are quite rare as it is a shy snake. Dogs are often bitten and die as they try to kill these snakes.
+
+Green Mamba (Dendroaspis angusticeps) – © Johan Marais
+
+From Umkomaas, KwaZulu-Natal.
+
+Green Mamba (Dendroaspis angusticeps) – © Johan Marais
+
+From Umkomaas, KwaZulu-Natal.
+
+Green Mamba (Dendroaspis angusticeps) – © Johan Marais
+
+From Umkomaas, KwaZulu-Natal.
+
+Green Mamba (Dendroaspis angusticeps) – © Johan Marais
+
+From Umkomaas, KwaZulu-Natal.
+
+Green Mamba (Dendroaspis angusticeps) – © Johan Marais
+
+From Umkomaas, KwaZulu-Natal.
+
+Image
+
+Green Mamba (Dendroaspis angusticeps) – © Johan Marais
+
+Green Mamba (Dendroaspis angusticeps) – © Johan Marais
+
+Image
+
+Green Mamba (Dendroaspis angusticeps) – © Johan Marais--------------------------------------------------------------------------------
+Guidelines for the Prevention and Clinical Management of Snakebite in Africa (https://biblioteca.biofund.org.mz/wp-content/uploads/2018/11/1542723166-F1578.WHO%20AFR%20EDM%20EDP%2010%2001for%20thePrevention%20and%20Clinical%20Management%20_Edm_Guidelines_Snakebite_Final.Pdf)
+ [wordlim: 200] Published: 16.1 years ago; Crawled: 8 months ago; Guidelines for the Prevention and Clinical Management of Snakebite in Africa ... <td><b>FAMILY AND SPECIES:</b> Mambas (Genus <i>Dendroaspis</i>)</td> ... <td><i>Dendroaspis angusticeps</i></td> ... <td>East African, Loveridge’s garter snake</td>
+Guidelines for the Prevention and Clinical Management of Snakebite in Africa
+
+<table id="e1">
+<tr>
+<td><b>FAMILY AND SPECIES:</b> Mambas (Genus <i>Dendroaspis</i>)</td>
+<td><b>COMMON NAME</b></td>
+<td><b>DISTRIBUTION (see figures)</b></td>
+<td><b>CLINICAL TOXINOLOGY</b></td>
+</tr>
+<tr>
+<td><i>Dendroaspis angusticeps</i></td>
+<td>Common, eastern green, white mouthed mamba</td>
+<td>Forests or bush on eastern coast of Africa, from Kenya to South Africa.</td>
+<td>Large, agile, slender diurnal elapid snakes with a long flat-jawed, a medium-sized eye and round pupil. Scales are smooth and narrow. All except the black mamba (<i>Dendroaspis polylepis</i>) are arboreal. Coloration varies from light green to olive brown and dark grey. 1.5 m to 3.5 m in size. Coffin shaped head. The black mamba may spread a narrow hood.</td>
+</tr>
+<tr>
+<td><i>Dendroaspis jamesoni</i></td>
+<td>Jameson’s, western green mamba</td>
+<td>Central African forests.</td>
+<td>Local pain, swelling, lymphangitis, peripheral gangrene. Mildly neurotoxic. --------------------------------------------------------------------------------
+AJH-58-Pages-51-63.indd (https://www.smuggled.com/AJH-58-Pages-51-63.pdf)
+ [wordlim: 200] Published: 4.4 years ago; Crawled: 2 weeks ago; **Keywords:** Herpetology; taxonomy; snake; nomenclature; Asia; Burma; Myanmar; Cambodia; Russell’s Viper; *Daboia*; *russelii*; *siamensis*; *pulchella*; *elegans*; *nordicus*; *triseriatus*; *limitis*; *sublimitis*; *trinoculus*; *formosensis*; new subgenus; *Oxyadaboia*; new species; *crottyi*; *oxyi*; *sloppi*.
+
+They also appear to be linked to major drainage systems, which is a correlation not noted by any previous author.
+
+The two main clades of species are formally divided into subgenera, with the new genus *Oxyadaboia* subgen. nov. including those species from east of the Indian subcontinent, believed to have diverged from the other species 7-11 MYA.
+
+**Keywords:** Herpetology; taxonomy; snake; nomenclature; Asia; Burma; Myanmar; Cambodia; Russell’s Viper; *Daboia*; *russelii*; *siamensis*; *pulchella*; *elegans*; *nordicus*; *triseriatus*; *limitis*; *sublimitis*; *trinoculus*; *formosensis*; new subgenus; *Oxyadaboia*; new species; *crottyi*; *oxyi*; *sloppi*.
+
+---
+
+## INTRODUCTION
+
+**Left column**
+
+The Russell’s Viper (*Daboia russelii* Shaw and Nodder, 1797) is a large dangerous ground-dwelling Viper species from southern Asia.
+
+In spite of it being one of the so-called “Big Four” snakes of India (Mukherjee 2021) and a well-known component of the south Asian snake fauna, the Russell’s Viper *Daboia russelii* (Shaw and Nodder, 1797) from all parts of its range has not in recent years been subject of any taxonomic review.
+
+This is in spite of the fact that morphologically and genetically divergent populations are known and have been so for some years.
+
+**Right column (continuation)**
+
+Most recent publishing authors currently recognize only one or two species of south Asian *Daboia* Gray, 1842. These are typically just *D. russelii* from east India west of the Ganges Delta, including nearby Pakistan at the western extremity of the range and *D. siamensis* (Smith, 1917), from extreme east India, east to Taiwan and south to Indonesia.
+
+Other putative species have been formally named but have been usually synonymised since.
+
+Thorpe *et al.* (2007) in conjunction with Wolfgang Wüster
+
+[Text continues beyond the visible portion of the page.]
+
+---
+
+**Running page information (vertical margin):**  
+Hoser 2022 - Australasian Journal of Herpetology 58:51-63.
+
+**Footer banner:**
+
+Available online at www.herp.net
+
+Copyright- Kotabi Publishing - All rights reserved--------------------------------------------------------------------------------
+dendroaspis angusticeps (https://biodiversityadvisor.sanbi.org/search/detail/80965?index=zodatsa&province=&year=%7C2021)
+ [wordlim: 200] Crawled: last month; ANIMALIA / CHORDATA / REPTILIA / SQUAMATA / ELAPIDAE / DENDROASPIS / ANGUSTICEPS ... Morphological description ... (2023): Populations from the southern part of the range (South Africa and southern Mozambique) differ genetically from Tanzanian specimens (Pook et al., 2005). ... They may bite only as a last resort. ... Occurrence in African countries and South African provinces.
+--------------------------------------------------------------------------------
+Journal of the National Science Foundation (https://www.nsf.gov.lk/images/nsf/jnsf/JNSF_Volume_52_No_2.pdf)
+ [wordlim: 200] Published: 2.2 years ago; This designation was prompted by observed divergences in morphology as well as differences in envenomation patterns. ... - Top clade (green background): *Daboia russelii* ... - Lower clade (purple background): *Daboia siamensis*
+--------------------------------------------------------------------------------
+Dendroaspis angusticeps Toxins (https://academic.oup.com/book/54045/chapter-abstract/422280108)
+ [wordlim: 200] Published: 26.7 years ago; Crawled: 2 months ago; Dendroaspis angusticeps, East African green mamba or eastern green mamba (family, Elapidae), is a long (6-8 ft) and very slender bright-green tree snake. ... It is found in a narrow range in the forests and bushy country of East Africa from Kenya southward to South Africa (southern Natal, northeastern Cape Provence), and on the island of Zanzibar.
+--------------------------------------------------------------------------------
+PerSonaLife (https://www.personalife.org/)
+ [wordlim: 200] Crawled: yesterday; Daboia siamensis, formerly treated as a subspecies of Russell’s Viper, is now recognised as a separate species.
+
+Identification & Scalation ... It is important to distinguish Daboia russelii from Daboia siamensis, the Eastern Russell’s Viper, which is recognised as a separate species and occurs farther east in mainland Southeast Asia.
+--------------------------------------------------------------------------------
+The Green Mamba - African Snakebite Institute (https://www.africansnakebiteinstitute.com/articles/more-info-on-the-green-mamba/)
+ [wordlim: 200] Published: 3.1 years ago; Crawled: today; It wasn’t until 1946 when the Fitzsimons brothers noted the differences between the two species and revived Günther’s 1846 name Dendroaspis polylepis (many-scales) for the Black Mamba and kept Dendroaspis angusticeps for the Green Mamba. ... In South Africa they are usually found within 3-5 km from the sea, but into northern KwaZulu-Natal they may extend inland as far as 45 km. ... However, in the event of a bite, the victim should be taken to the hospital immediately.
+--------------------------------------------------------------------------------
+Daboia siamensis - Wikispecies (https://species.wikimedia.org/wiki/Daboia_siamensis)
+ [wordlim: 200] Crawled: last month;   * Daboia russelli siamensis — Obst, 1983 [subsequent combination] ... Phylogeography of the Russell’s viper (Daboia russelii) complex in relation to variation in the colour pattern and symptoms of envenoming.
+--------------------------------------------------------------------------------
+Venom proteomics and antivenom neutralization for the Chinese eastern Russell’s viper, Daboia siamensis from Guangxi and Taiwan (https://pmc.ncbi.nlm.nih.gov/articles/PMC5986800/)
+ [wordlim: 200] Published: 8.5 years ago; Crawled: last month; This led to the revision of the entire Russell’s viper complex systematics, sinking several subspecies into synonyms that followed biogeographical distribution while elevating Daboia russelii russelii and Daboia russelii siamensis to their respective full species status. ... Currently, Daboia russelii represents the Western Russell’s viper that is indigenous to South Asia, while the Eastern Russell’s viper (Daboia siamensis) distributes in Southeast and East Asia, comprising the former subspecies limitis, sublimitis and formosensis^{[ref-type: bibr] 2 [Source reference: [Source link 3]]–[ref-type: bibr] 4 [Source reference: [Source link 4]]}.
+--------------------------------------------------------------------------------
+Deinagkistrodon acutus (Chinese Moccasin) | INFORMATION | Animal Diversity Web (https://animaldiversity.org/accounts/Deinagkistrodon_acutus/)
+ [wordlim: 200] Published: 15.3 years ago; Crawled: 3 weeks ago; Deinagkistrodon acutus can be found in Southeastern China in the provinces of Anhwei, Chekiang, Fukien, Hunan, Hupeh, Kiangsi, Kwangsi, Kwangtung, Kweichow, extreme southeastern Szechwan, and possibly Yunnan. ... Although Deinagkistrodon acutus is not listed on the IUCN's Red List of Threatened Species, China has listed this species as "vulnerable".
+--------------------------------------------------------------------------------
+Daboia siamensis (https://en.wikipedia.org/wiki/Daboia_siamensis)
+ [wordlim: 200] Crawled: 11 months ago; It was formerly considered to be a subspecies of Daboia russelii (as Daboia russelli siamensis), but was elevated to species status in 2007.
+--------------------------------------------------------------------------------
+Russell's viper (https://en.wikipedia.org/wiki/Russell%27s_viper)
+ [wordlim: 200] Crawled: 2 weeks ago; Russell's viper (Daboia russelii) is a species of highly venomous snake in the family Viperidae. ... Analysis of morphological and mitochondrial DNA data shows that the eastern subspecies of Russell's viper should be considered a separate species, Daboia siamensis.
+--------------------------------------------------------------------------------
+Deinagkistrodon (https://en.wikipedia.org/wiki/Deinagkistrodon)
+ [wordlim: 200] Crawled: last month;  Deinagkistrodon acutus ... ## Description ... Deinagkistrodon acutus is found in southern China (Zhejiang, Fujian, Hunan, Hubei, Guangdong), Taiwan, northern Vietnam, and possibly Laos. ... * Pope CH (1935).
+--------------------------------------------------------------------------------
+Daboia (https://en.wikipedia.org/wiki/Daboia)
+ [wordlim: 200] Crawled: last month;  Daboia russelii ... * Daboia siamensis (M.A.
+--------------------------------------------------------------------------------
+Eastern Russell's Viper: Komodo National Park, Indonesia, Flores: Indonesia Snakes - YouTube (https://www.youtube.com/watch?v=bVl8Yy3c7M0)
+ [wordlim: 200] Published: 3.3 years ago; Crawled: 3 months ago; It was formerly considered to be a subspecies of Daboia russelii (as Daboia russelli siamensis), but was elevated to species status in 2007.
+--------------------------------------------------------------------------------
+The Deadly Dozen - Green Mamba (Dendroaspis angusticeps) - YouTube (https://www.youtube.com/watch?v=uJB2tZzz5x4)
+ [wordlim: 200] Published: 7.5 years ago; Crawled: 2 months ago; # The Deadly Dozen - Green Mamba (Dendroaspis angusticeps)
+By: African Snakebite Institute (31500 followers) ... ## Description
+--------------------------------------------------------------------------------
+Daboia siamensis (https://fr.wikipedia.org/wiki/Daboia_siamensis)
+ [wordlim: 200] Crawled: 11 months ago; * Daboia russelii siamensis (Smith, 1917) ... Grâce à des études morphologiques et à des analyses de l’ADN mitochondrial, Thorpe et al. en 2007 fournit la preuve que l'ancienne sous-espèce Daboia russelli siamensis devrait être considérée comme une espèce distincte, Daboia siamensis.
+--------------------------------------------------------------------------------
+Daboia russelii (https://fr.wikipedia.org/wiki/Daboia_russelii)
+ [wordlim: 200] Crawled: last month; Tête de Daboia russelii
+--------------------------------------------------------------------------------
+Is this a Daboia Russelli ? Or a Daboia Siamensis (https://www.reddit.com/r/whatsthissnake/comments/1cxw1gq)
+ [wordlim: 200] Published: 2.5 years ago; Crawled: 2.3 years ago; *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education. ... Definitely Eastern/Siamese Russell's Viper(*Daboia siamensis*), not D. russelii Note additional dark spots between the big oval blotches.
+--------------------------------------------------------------------------------
+are they same?? [Jammu, India] (https://www.reddit.com/r/whatsthissnake/comments/1qf6rz1/are_they_same_jammu_india/)
+ [wordlim: 200] Published: 10 months ago;           Eastern Russell's Vipers *Daboia siamensis* are large (90-120cm, up to 155cm) true vipers that range from Myanmar east to Taiwan, south into Indonesia, from near sea level to 2,755m. ... One or two rows of smaller spots are also present in between the middorsal and lateral blotches, which can help differentiate them from Russell's Vipers *Daboia russelii*, though that species does not overlap in range.
+--------------------------------------------------------------------------------
+Rrrraaaaaaaaaa (https://www.reddit.com/r/VenomousKeepers/comments/1d1pd0n)
+ [wordlim: 200] Published: 2.5 years ago; Crawled: 1.8 years ago; Daboia Russelii I guess? ... Daboia siamensis
+--------------------------------------------------------------------------------
+Eastern russel viper (https://www.reddit.com/r/VenomousKeepers/comments/1jyfzvh)
+ [wordlim: 200] Published: 1.6 years ago; Crawled: 1.4 years ago; Daboia siamensis ...   If i remember correctly, it used to be a subspecies of russelii but got moved to it's own species awhile back bringing the total to 4 extant species from the Daboia genus.
+

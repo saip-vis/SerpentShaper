@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "preset_id": "naja_naja",
+  "species_id": "source_e118ec6ca1495b09",
+  "source_species_name": "Naja naja",
+  "common_name": "Spectacled cobra",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown marked variant; spectacle markings may be faint or absent in other individuals.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.academia.edu/1479078/W%C3%BCster_W_1998_The_cobras_of_the_genus_Naja_in_India_Hamadryad_23_15_32",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      },
+      {
+        "path": "docs/StarterSpeciesPhysicalProfiles.md",
+        "scope": "Detailed starter profile and its original citations."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_001_spectacled_cobra/manifest.json",
+        "image_id": "inat_33233990",
+        "sha256": "c642fd8b42046fa8b33defc6c3f15e82761e04b13c6642abcb1534057de7e639",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_001_spectacled_cobra/manifest.json",
+        "image_id": "inat_33233995",
+        "sha256": "f1d7377db8a16f098c0225ed791cb3eb4aaa4164ae0fa7203921d3b9e92a9b53",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      }
+    ],
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "eyes",
+      "special"
+    ],
+    "review": "Reference-guided draft; no expert anatomical approval or measurements.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Retain the approved flattened three-quarter head and continuous body.",
+        "Expanded-hood outline has its own smooth symmetric width profile.",
+        "Monocled and spectacled pigmentation remain separate rear-surface constructions.",
+        "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+      ],
+      "projection_limit": "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "reference_ids": [
+        "inat_33233990",
+        "inat_33233995"
+      ]
+    },
+    "reference_feature_map": {
+      "inat_33233990": "Expanded hood outline and body continuity. Oblique view, not a calibrated width measurement.",
+      "inat_33233995": "Second hood/body view from the same collection; no additional independent morphometry."
+    },
+    "modeling_flags": [
+      "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "Hood geometry smoothed; species-specific appearance still requires reference review.",
+      "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views."
+    ],
+    "modeling_review_status": "previously_reviewed_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "spectacle",
+    "skin_color": "#806a42",
+    "marking_color": "#e4d1a1",
+    "belly_color": "#cdbb8d",
+    "body_build": 1.06,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        67
+      ],
+      [
+        200,
+        83.7
+      ],
+      [
+        220,
+        88
+      ],
+      [
+        235,
+        88
+      ],
+      [
+        250,
+        85.4
+      ],
+      [
+        270,
+        73.0
+      ],
+      [
+        290,
+        61.4
+      ],
+      [
+        310,
+        40
+      ],
+      [
+        330,
+        32.0
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "cobra_profile_direct": true,
+    "front_head_profile": {
+      "left": [
+        [
+          [
+            296.0,
+            92
+          ],
+          [
+            284.0,
+            91
+          ],
+          [
+            275.0,
+            96
+          ],
+          [
+            275.0,
+            104
+          ]
+        ],
+        [
+          [
+            275.0,
+            104
+          ],
+          [
+            275.0,
+            111
+          ],
+          [
+            281.0,
+            115
+          ],
+          [
+            288.0,
+            117
+          ]
+        ],
+        [
+          [
+            288.0,
+            117
+          ],
+          [
+            295.0,
+            122
+          ],
+          [
+            274.0,
+            139
+          ],
+          [
+            272,
+            145
+          ]
+        ]
+      ],
+      "right": [
+        [
+          [
+            296.0,
+            92
+          ],
+          [
+            307.0,
+            90
+          ],
+          [
+            319.0,
+            92
+          ],
+          [
+            325.0,
+            99
+          ]
+        ],
+        [
+          [
+            325.0,
+            99
+          ],
+          [
+            330.0,
+            106
+          ],
+          [
+            326.0,
+            138
+          ],
+          [
+            328,
+            145
+          ]
+        ]
+      ]
+    }
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

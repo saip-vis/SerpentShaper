@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "preset_id": "dendroaspis_angusticeps",
+  "species_id": "source_5e6251ec0b9a0b41",
+  "source_species_name": "Dendroaspis angusticeps",
+  "common_name": "Eastern Green Mamba",
+  "status": "illustrative_unvalidated",
+  "variant": "Bright green eastern green mamba with smooth scales, slim head and long taper.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.africansnakebiteinstitute.com/snake/african-snakes-eastern-green-mamba/",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://animaldiversity.org/accounts/Dendroaspis_angusticeps/",
+        "scope": "Species-level morphology or taxonomy; variation and identity require review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_072_dendroaspis_angusticeps/manifest.json",
+        "image_id": "inat_104240175",
+        "sha256": "cc4da8cba4bcfb1515a54a11a5498467f4f957463a5f0fdc728e49bf2895745e",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_072_dendroaspis_angusticeps/manifest.json",
+        "image_id": "inat_206628879",
+        "sha256": "e5cdde53bfb246af93c3599ce512b0f10baefb241f30e6ddcec3e24ef5e3498f",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_072_dendroaspis_angusticeps/manifest.json",
+        "image_id": "inat_369919110",
+        "sha256": "3588123d17f095416afa73bd7d90f77d92a340c42d3fa1cb404c90a763f45312",
+        "use": "Qualitative reference only; provider identification not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_104240175": "Healthy green head, smooth scales and slender body on a branch.",
+      "inat_206628879": "Green body and long taper in a coiled view.",
+      "inat_369919110": "Arboreal posture and green body, partly obscured by leaves."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review needed.",
+    "modeling_flags": [
+      "Head adapted from a black-mamba scaffold and still needs close species-specific comparison; ventral markings remain uncertain.",
+      "Shared pose and procedural texture remain approximations; no independent reconstruction of all sides."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Healthy green head, smooth scales and slender body on a branch.",
+        "Green body and long taper in a coiled view.",
+        "Arboreal posture and green body, partly obscured by leaves.",
+        "Adjusted the green palette after comparing the first render with the selected healthy individual."
+      ],
+      "projection_limit": "Single 2D projection; shape values are artistic, not calibrated biological measurements.",
+      "reference_ids": [
+        "inat_104240175",
+        "inat_206628879",
+        "inat_369919110"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "terrestrial",
+    "pattern": "plain",
+    "skin_color": "#7dc567",
+    "marking_color": "#92c77b",
+    "belly_color": "#c1d8a0",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 7.4,
+    "mark_spacing": 50,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "coffin",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 75,
+      "neck": 7,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          -7.0,
+          3.57143,
+          -10.0,
+          10.71429,
+          -11.0
+        ],
+        [
+          10.71429,
+          -11.0,
+          30.35714,
+          -13.0,
+          50.89286,
+          -15.0,
+          61.60714,
+          -11.0
+        ],
+        [
+          61.60714,
+          -11.0,
+          66.96429,
+          -9.0,
+          69.64286,
+          -7.0,
+          75,
+          -7
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          0.89286,
+          6.0,
+          6.25,
+          9.0,
+          13.39286,
+          9.0
+        ],
+        [
+          13.39286,
+          9.0,
+          30.35714,
+          12.0,
+          50.89286,
+          12.0,
+          61.60714,
+          9.0
+        ],
+        [
+          61.60714,
+          9.0,
+          66.96429,
+          7.0,
+          70.53571,
+          7.0,
+          75,
+          7
+        ]
+      ],
+      "eye": [
+        26,
+        -1,
+        3.4,
+        3.6
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "jaw": "M1 3 Q27.0 6 52.5 8 L67.5 4",
+      "shields": [
+        "M7 -6 L18 -7 L25 -1 L19 5",
+        "M18 -7 L33 -10 L46 -7 L45 2 L25 -1",
+        "M46 -7 L59 -9 L69 -5 L66 5 L45 2",
+        "M10 5 L11 9 M19 6 L20 10 M30 7 L30 11 M41 7 L42 11 M54 7 L55 10"
+      ],
+      "lip": true,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#95a05f",
+      "markings": []
+    },
+    "body_stations": [
+      [
+        246,
+        220,
+        7
+      ],
+      [
+        281,
+        242,
+        9
+      ],
+      [
+        370,
+        265,
+        12.5
+      ],
+      [
+        463,
+        295,
+        14
+      ],
+      [
+        515,
+        344,
+        14.2
+      ],
+      [
+        506,
+        395,
+        13.8
+      ],
+      [
+        441,
+        430,
+        13.1
+      ],
+      [
+        341,
+        443,
+        12
+      ],
+      [
+        257,
+        472,
+        10.6
+      ],
+      [
+        252,
+        515,
+        8.8
+      ],
+      [
+        324,
+        550,
+        6.6
+      ],
+      [
+        425,
+        562,
+        4.7
+      ],
+      [
+        527,
+        548,
+        2.8
+      ],
+      [
+        603,
+        519,
+        1.3
+      ],
+      [
+        654,
+        476,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "pit_present": false,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

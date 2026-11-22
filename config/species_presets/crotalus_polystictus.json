@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "preset_id": "crotalus_polystictus",
+  "species_id": "source_f45e34294c9e4b97",
+  "source_species_name": "Crotalus polystictus",
+  "common_name": "Mexican Lancehead Rattlesnake",
+  "status": "illustrative_unvalidated",
+  "variant": "Mexican lance-headed rattlesnake with rows of dark oval spots.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://nationalzoo.si.edu/animals/lance-head-rattlesnake",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://nationalzoo.si.edu/animals/lance-head-rattlesnake",
+        "scope": "Species-level qualitative information and identification context."
+      },
+      {
+        "url": "https://tesiunamdocumentos.dgb.unam.mx/pd2005/0601286/0601286.pdf",
+        "scope": "University field work describes two dorsal rows of dark oval markings."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_062_crotalus_polystictus/manifest.json",
+        "image_id": "inat_714093010",
+        "sha256": "c6bec18165da922590b3f87f72b5b529c7d3d6f3378a8c1ee65007c33c779ae2",
+        "use": "Qualitative reference; provider species label not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_062_crotalus_polystictus/manifest.json",
+        "image_id": "inat_305312267",
+        "sha256": "f845cf5e1f2bc0c33cdd0b3c5bd0a299ba9fd77356f9bea4b66c5f3d27e65561",
+        "use": "Qualitative reference; provider species label not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_714093010": "Dorsal rows of dark oval spots and an elongated body; head details are not resolved.",
+      "inat_305312267": "Small coiled body among vegetation; details partially obscured."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent review required.",
+    "modeling_flags": [
+      "Only two low-detail pilot photos; tail banding and head scutellation need additional reference photos.",
+      "Head and body retain a related rattlesnake scaffold and need individual anatomical fitting."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Dorsal rows of dark oval spots and an elongated body; head details are not resolved.",
+        "Small coiled body among vegetation; details partially obscured.",
+        "After inspecting the render, changed one central row of spots to paired dorsal rows with smaller side spots."
+      ],
+      "projection_limit": "Single 2D projection with artistic proportions.",
+      "reference_ids": [
+        "inat_714093010",
+        "inat_305312267"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "paired_ocelli",
+    "skin_color": "#948570",
+    "marking_color": "#413a34",
+    "belly_color": "#d6c9ae",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "rattle",
+    "scale_pitch": 4.5,
+    "mark_spacing": 42,
+    "mark_size": 1,
+    "tail_segments": 5,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 70,
+      "neck": 9.5,
+      "upper": [
+        [
+          0,
+          0,
+          -1,
+          -5,
+          5,
+          -9,
+          14,
+          -10
+        ],
+        [
+          14,
+          -10,
+          28,
+          -14,
+          40.599999999999994,
+          -20,
+          51.8,
+          -18
+        ],
+        [
+          51.8,
+          -18,
+          61.6,
+          -15,
+          63.7,
+          -9.5,
+          70,
+          -9.5
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          1,
+          5,
+          7,
+          9,
+          16,
+          10
+        ],
+        [
+          16,
+          10,
+          30,
+          13,
+          43.4,
+          16,
+          53.2,
+          13
+        ],
+        [
+          53.2,
+          13,
+          62.300000000000004,
+          10,
+          65.8,
+          9.5,
+          70,
+          9.5
+        ]
+      ],
+      "eye": [
+        26,
+        -3,
+        3.8,
+        3.8
+      ],
+      "nostril": [
+        6,
+        -2
+      ],
+      "pit": [
+        16,
+        0
+      ],
+      "jaw": "M1 3 Q25 7 47.6 9 L63.7 4.8",
+      "shields": [],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#bda75e",
+      "micro_scales": true,
+      "markings": [
+        {
+          "path": "M26 2 Q42 5 57 10",
+          "stroke": "#e1d8bd",
+          "width": 2.0
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        239,
+        219,
+        10
+      ],
+      [
+        278,
+        242,
+        15
+      ],
+      [
+        370,
+        265,
+        22
+      ],
+      [
+        463,
+        295,
+        27
+      ],
+      [
+        515,
+        344,
+        29
+      ],
+      [
+        506,
+        395,
+        28
+      ],
+      [
+        441,
+        430,
+        27
+      ],
+      [
+        341,
+        443,
+        25
+      ],
+      [
+        257,
+        472,
+        23
+      ],
+      [
+        252,
+        515,
+        21
+      ],
+      [
+        324,
+        550,
+        18
+      ],
+      [
+        387,
+        558,
+        14
+      ],
+      [
+        416,
+        556,
+        8
+      ],
+      [
+        435,
+        553,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "pit_cheek_band": false,
+    "tail_band_length": 65,
+    "tail_band_spacing": 9,
+    "tail_band_dark": "#4c4740",
+    "tail_band_light": "#aa9d81",
+    "blotch_border": "#e4d7b8",
+    "ocelli_center_color": "#413a34"
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

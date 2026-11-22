@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "preset_id": "lachesis_muta",
+  "species_id": "source_5194d37cc4e0820e",
+  "source_species_name": "Lachesis muta",
+  "common_name": "South American Bushmaster",
+  "status": "illustrative_unvalidated",
+  "variant": "Amazonian bushmaster with strongly keeled scales and dark angular body markings.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://serpientes.ins.gov.co/Paginas/Fichas-es/Lachesis-muta.aspx",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://serpientes.ins.gov.co/FichasEN/03L%20muta_ENG-corregido-30102025.pdf",
+        "scope": "Species-level qualitative anatomical or taxonomic reference."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
+        "image_id": "inat_423980407",
+        "sha256": "5083e17e74f96285fa69f451cff0985a7799f9e44e7d88e41e80851fed084446",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
+        "image_id": "inat_154622210",
+        "sha256": "c1eb013c5882b2939e3991dc2164d1dd0529702d82b541be5c1503f423763ecf",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
+        "image_id": "inat_2975401",
+        "sha256": "0ca38bfe62d9da44d5e10c615b2fff21078cfa4e4d35fa33a0cb1ce52510ba73",
+        "use": "Qualitative reference; provider identification not independently confirmed."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_423980407": "Coarse keeled scales, dark flank pattern and pale lower head.",
+      "inat_154622210": "Coiled individual in forest showing bold markings.",
+      "inat_2975401": "Body pattern and rough scales partially screened by foliage."
+    },
+    "unextracted_fields": [
+      "body",
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Initial photo- and description-informed draft; further fitting and anatomical review required.",
+    "modeling_flags": [
+      "Complex flank motifs and tiny terminal tail spine are simplified; exact proportions need further review.",
+      "This head and body adapt a shared viper scaffold; opposite side and underside are not independently modeled."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Coarse keeled scales, dark flank pattern and pale lower head.",
+        "Coiled individual in forest showing bold markings.",
+        "Body pattern and rough scales partially screened by foliage.",
+        "Adjusted the spacing of dark angular body marks after comparing the initial render with the reference."
+      ],
+      "projection_limit": "A single 2D shape; proportions and scale details remain artistic.",
+      "reference_ids": [
+        "inat_423980407",
+        "inat_154622210",
+        "inat_2975401"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "flank_triangles",
+    "skin_color": "#c6a67a",
+    "marking_color": "#302c29",
+    "belly_color": "#e2d1ad",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 5.2,
+    "mark_spacing": 56,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 80,
+      "neck": 9,
+      "upper": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          -5.29412,
+          10.4,
+          -7.41176,
+          22.4,
+          -10.16471
+        ],
+        [
+          22.4,
+          -10.16471,
+          37.6,
+          -16.51765,
+          54.4,
+          -21.17647,
+          63.2,
+          -18.42353
+        ],
+        [
+          63.2,
+          -18.42353,
+          68.0,
+          -15.24706,
+          75.2,
+          -9.0,
+          80,
+          -9
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0.0,
+          3.03798,
+          4.23529,
+          18.4,
+          8.15294,
+          38.4,
+          10.37647
+        ],
+        [
+          38.4,
+          10.37647,
+          52.0,
+          14.82353,
+          62.4,
+          14.82353,
+          67.2,
+          10.37647
+        ],
+        [
+          67.2,
+          10.37647,
+          72.0,
+          9.0,
+          76.0,
+          9.0,
+          80,
+          9
+        ]
+      ],
+      "eye": [
+        29.5,
+        -3,
+        3.4,
+        3.6
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "pit": [
+        17,
+        0
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q28.8 6 56.0 8 L72.0 4",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M32.0 -2 Q46.4 0 64.0 5 L64.0 9 Q46.4 5 32.0 2 Z",
+          "fill": "#3b302b"
+        }
+      ],
+      "labial_boundary": "M-3 1 Q27.65 0 52.93 4 L81 6 L81 35 L-3 35Z",
+      "micro_scales": true,
+      "iris_color": "#947865"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        9
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        24
+      ],
+      [
+        471,
+        302,
+        26
+      ],
+      [
+        514,
+        347,
+        25
+      ],
+      [
+        502,
+        397,
+        24
+      ],
+      [
+        430,
+        431,
+        22
+      ],
+      [
+        330,
+        445,
+        21
+      ],
+      [
+        253,
+        476,
+        20
+      ],
+      [
+        253,
+        515,
+        18
+      ],
+      [
+        324,
+        550,
+        16
+      ],
+      [
+        400,
+        555,
+        13
+      ],
+      [
+        460,
+        546,
+        9
+      ],
+      [
+        510,
+        528,
+        4
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

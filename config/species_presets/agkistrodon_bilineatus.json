@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "preset_id": "agkistrodon_bilineatus",
+  "species_id": "source_14e6e136019bef41",
+  "source_species_name": "Agkistrodon bilineatus",
+  "common_name": "Cantil",
+  "status": "illustrative_unvalidated",
+  "variant": "Dark adult-style cantil; pale broken crossband edges and paired facial lines.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://sistemaestatalambiental.chiapas.gob.mx/siseiach/descargas/fraccion13/publicaciones/libros/05.pdf",
+        "scope": "Qualitative morphology; see physical profile for field provenance."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_010_agkistrodon_bilineatus/manifest.json",
+        "image_id": "inat_495042",
+        "sha256": "149ef11e1f36945d2dfba8430a1c9535c9396ca4fde083a4cc99102f93b1fd1a",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_010_agkistrodon_bilineatus/manifest.json",
+        "image_id": "inat_12129293",
+        "sha256": "6339499db4eaa5fe9910c5e59f31c1bec0ad71de21e1221f2064f9d207547dd5",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_010_agkistrodon_bilineatus/manifest.json",
+        "image_id": "inat_312606977",
+        "sha256": "d2f2348d991ac90a0e6b9c387261f5d6a5de4a7674fb51e71ffef8ab49e5de24",
+        "use": "Qualitative visual reference; no fitted measurements."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_495042": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_12129293": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_312606977": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting."
+    },
+    "unextracted_fields": [
+      "tail",
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Broad low wedge-shaped skull with subdued eye and strong neck constriction; pale line above eye and along upper lip.",
+        "Stocky trunk, keeled scales, short taper; avoid pale juvenile tail on adult variant.",
+        "Second pass: shortened terminal tail, carried trunk mass farther posteriorly; removed generic diagonal cheek band in favor of species facial marks.",
+        "Third reference comparison: reduced anterior dome and jaw inflation, retained posterior skull breadth and smoothed crown-to-neck curve."
+      ],
+      "projection_limit": "Artistic projected dorsal/oblique geometry; no calibrated multi-view reconstruction.",
+      "reference_ids": [
+        "inat_495042",
+        "inat_12129293",
+        "inat_312606977"
+      ]
+    },
+    "modeling_flags": [
+      "No unobstructed ventral view; underside study remains provisional."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "dotted_bands",
+    "skin_color": "#493b35",
+    "marking_color": "#ecd7a3",
+    "belly_color": "#9d8870",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 6.5,
+    "mark_spacing": 65,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 76,
+      "neck": 9,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          9.12,
+          -8.16,
+          21.28,
+          -10.54
+        ],
+        [
+          21.28,
+          -10.54,
+          36.48,
+          -15.3,
+          53.199999999999996,
+          -17,
+          60.040000000000006,
+          -13.94
+        ],
+        [
+          60.040000000000006,
+          -13.94,
+          64.6,
+          -11.05,
+          71.44,
+          -9,
+          76,
+          -9
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          2,
+          4,
+          17.48,
+          7.800000000000001,
+          36.48,
+          10.2
+        ],
+        [
+          36.48,
+          10.2,
+          50.160000000000004,
+          12,
+          59.28,
+          12,
+          63.839999999999996,
+          9.600000000000001
+        ],
+        [
+          63.839999999999996,
+          9.600000000000001,
+          68.4,
+          9,
+          72.2,
+          9,
+          76,
+          9
+        ]
+      ],
+      "eye": [
+        26,
+        -3,
+        3.2,
+        3.8
+      ],
+      "nostril": [
+        7,
+        -2
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q26.599999999999998 6.0 53.199999999999996 7.199999999999999 L68.4 4.5",
+      "shields": [
+        "M8 -10 L21 -14 L30 -10 M30 -10 L43 -12 L52 -9",
+        "M3 5 L15 9 L30 11 L48 12 L68 8"
+      ],
+      "lip": true,
+      "pit": [
+        14,
+        1
+      ],
+      "markings": [
+        {
+          "path": "M2 -1 Q15 -8 27 -6 Q44 -4 66 -1",
+          "stroke": "#ecd7a3",
+          "width": 1.4
+        },
+        {
+          "path": "M2 4 Q19 10 39 12 L66 8",
+          "stroke": "#ecd7a3",
+          "width": 2.3
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        9
+      ],
+      [
+        258,
+        227,
+        13
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        28
+      ],
+      [
+        471,
+        302,
+        29
+      ],
+      [
+        514,
+        347,
+        27
+      ],
+      [
+        502,
+        397,
+        24
+      ],
+      [
+        430,
+        431,
+        30.0
+      ],
+      [
+        330,
+        445,
+        24.0
+      ],
+      [
+        253,
+        476,
+        18.0
+      ],
+      [
+        253,
+        515,
+        12.0
+      ],
+      [
+        324,
+        550,
+        7.5
+      ],
+      [
+        382.58,
+        556.96,
+        3
+      ],
+      [
+        441.74,
+        548.84,
+        1.6
+      ],
+      [
+        489.88,
+        530.28,
+        0.7
+      ],
+      [
+        524.1,
+        502.44,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

@@ -1383,13 +1383,72 @@
       }
     },
     "Naja kaouthia": {
-      "source_url": "https://thesiamsociety.org/wp-content/uploads/2020/04/NHBSS_024_3-4d_Soderberg_OnElevenAsianEl.pdf",
+      "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
       "accessed_on": "2026-11-20",
-      "evidence_scope": "species_description",
+      "evidence_scope": "published_diagnosis_with_regional_variation",
       "traits": {
-        "eyes": "Relatively small eyes in the examined material.",
-        "special": "Expandable neck hood.",
-        "caveat": "Historical kaouthia account; an individual measured in Thailand is not a species-wide proportion template."
+        "body": "Robust, cylindrical trunk; do not interpret robustness as a measured width ratio.",
+        "head": "Head distinct from neck; short, squarish frontal shield. Exact outline and width require healthy living reference views.",
+        "eyes": "Round pupil. Eye size descriptions differ between historical material and the Son La specimen; no numerical eye-size default.",
+        "scales": "Smooth, glossy dorsal scales. Use anatomical scale direction; a uniform diamond grid is not a scale reconstruction.",
+        "pattern": "Dorsal hood typically has a pale ring enclosing a dark centre; mask-like variants and small dark spots within the pale area occur. Do not substitute paired spectacle loops.",
+        "ventral": "Pale throat with lateral dark spots; a darker band may follow. Keep this surface separate from the dorsal hood marking.",
+        "special": "Rounded expanded hood belongs to the neck below the head; record expanded versus relaxed display state explicitly.",
+        "tail": "Tail described as short in the general diagnosis. Do not use the Son La specimen for tail proportions: its tail was lost.",
+        "variation": "Color, body banding and hood pattern vary with region and life stage. A 2022 revision separates some former Chinese kaouthia as Naja fuxi; retain original dataset names and review reference identities.",
+        "caveat": "2021 introduction summarizes earlier diagnoses; results describe one preserved, tail-damaged female. Do not treat specimen color, tail length or one locality as a healthy living species template. Shape ratios and calibrated colors remain unknown."
+      },
+      "trait_references": {
+        "body": {
+          "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "locator": "Introduction general diagnosis; Results specimen condition",
+          "scope": "published_reference_summary"
+        },
+        "head": {
+          "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "locator": "Introduction general diagnosis; Results specimen condition",
+          "scope": "published_reference_summary"
+        },
+        "eyes": {
+          "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "locator": "Introduction general diagnosis; Results specimen condition",
+          "scope": "published_reference_summary"
+        },
+        "scales": {
+          "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "locator": "Introduction general diagnosis; Results specimen condition",
+          "scope": "published_reference_summary"
+        },
+        "pattern": {
+          "source_url": "https://www.academia.edu/1479078/W%C3%BCster_W_1998_The_cobras_of_the_genus_Naja_in_India_Hamadryad_23_15_32",
+          "locator": "Naja kaouthia account, hood-mark discussion",
+          "scope": "published_reference_summary"
+        },
+        "ventral": {
+          "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "locator": "Introduction general diagnosis; Results specimen condition",
+          "scope": "published_reference_summary"
+        },
+        "special": {
+          "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "locator": "Introduction general diagnosis; Results specimen condition",
+          "scope": "published_reference_summary"
+        },
+        "tail": {
+          "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "locator": "Introduction general diagnosis; Results specimen condition",
+          "scope": "published_reference_summary"
+        },
+        "variation": {
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9774835/",
+          "locator": "3.3.2 and Figures 7–8; taxonomy discussion",
+          "scope": "regional_taxonomic_revision"
+        },
+        "caveat": {
+          "source_url": "https://journal.vnuf.edu.vn/en/article/download/503/428/842",
+          "locator": "Introduction general diagnosis; Results specimen condition",
+          "scope": "published_reference_summary"
+        }
       }
     },
     "Naja nigricollis": {

@@ -1,0 +1,389 @@
+Montivipera raddei (Boettger, 1890) (https://gallotia.de/AF/Bibliografie/BIB_17905.pdf)
+ [wordlim: 200] Published: last year; Montivipera raddei (Boettger, 1890)
+Montivipera raddei (Boettger, 1890)  
+Radde’s Rock Viper
+
+**Identification:** Total body length up to 100 cm. Triangle-shaped head with small keeled scales on the top. The other snakes covered in this book, except Radde’s Rock Viper and Blunt Nosed Viper, have larger plaques on their head. Dorsal scales keeled. Distinct dark temporal stripes present on each side of the head. Pupils vertical (like a cat eye). Dorsum gray-brown with a distinct dun-brown zig-zag stripe or blotches the rims of which are darker. In some specimens, the dorsum is very dark and the blotches are not distinct. Blackish spots on flanks. Venter yellowish-white with small black maculations.  
+**Biology:** A venomous snake (viper) adapted to mountain habitats above 1000 m where it can be found in sparsely vegetated rocky areas, shrublands, mountain cliffs, and rockslides. A venomous bite can be dangerous for human. Primarily nocturnal, feeds on rodents, birds, and lizards. An ovoviviparous female gives birth to 3-9 youngs.  
+**Distribution:** Distributed in eastern Türkiye, Armenia, Azerbaijan, Iran, and Iraq with a vertical distribution up to 2400 m.  
+**Conservation status – IUCN:** NT; **BERN:** III; **CITES:** Unlisted
+
+<visual_element id="e1">
+Color photograph of a coiled viper on a pale rock, with gray-brown body and dark blotches, set against a green grassy background.
+</visual_element>
+
+102--------------------------------------------------------------------------------
+Micrurus mosquitensis | The Reptile Database (https://reptile-database.reptarium.cz/Micrurus/mosquitensis?search_param=%28%28taxon%3D%27snake%27%29%29)
+ [wordlim: 200] Crawled: last month; Synonym  | Micrurus nigrocinctus mosquitensis SCHMIDT 1933
+
+# Micrurus mosquitensis SCHMIDT, 1933
+
+Higher Taxa  | Elapidae, Elapoidea, Caenophidia, Alethinophidia, Serpentes, Squamata (snakes)
+Subspecies  |  
+Common Names  | E: Misquito coral snake 
+Synonym  | Micrurus nigrocinctus mosquitensis SCHMIDT 1933
+Micrurus nigrocinctus mosquitensis — SCHMIDT 1955
+Micrurus mosquitensis — MUDDE & VAN DIJK 1985
+Micrurus nigrocinctus mosquitensis — WELCH 1994: 87
+Micrurus nigrocinctus mosquitensis — ROZE 1996: 205
+Micrurus mosquitensis — SOLÓRZANO 2004
+Micrurus mosquitensis — PORRAS & SOLÓRZANO 2006 
+Distribution  | Atlantic coasts of Nicaragua, Costa Rica, Panama
+Type locality: Limon, Costa Rica.  
+Reproduction  | oviparous. 
+Types  | Holotype: MCZ 19741 
+Diagnosis  | Diagnosis: A coral snake with black, yellow, and red rings, not arranged in triads; supra-anal tubercles strongly developed in males; ventrals 182-194 in males, 203-209 in females; black rings 4-6 ventrals wide, 10 to 19 on the body, averaging 12 in males and 13 in females; black caudal rings 4-7 in males, 3-4 in females; yellow zones well developed; scales in red zones uniformly tipped with black.
+Differs from M. n. nigrocinctus in its lower number of ventrals, lower number of black rings, and broader yellow zones; from M. n. divaricatus by the lower ventral count and the uniform distribution of black in the red zones [from SCHMIDT 1933].
+Comment  | Synonymy: listed as synonym of Micrurus nigrocinctus by WALLACH et al. 2014: 450. Sunyer & Martínez-Fonseca 2023 (checklist Nicaragua) agree with this statement. 
+Etymology  | Mosquitensis in Latin is inhabitant of the Mosquito (or Mosquitia) coast on the Atlantic side of Nicaragua and Honduras in which the Mosquito or Miskito Kingdom existed until the beginning of this century.
+ 
+References  | 
+
+  * Gemel, R.; G. Gassner & S. Schweiger 2019. Katalog der Typen der Herpetologischen Sammlung des Naturhistorischen Museums Wien – 2018. Ann. Naturhist. Mus. Wien, B 121: 33–248 - get paper here
+  * Hilje B, Chaves G, Klank J, Timmerman F, Feltham J, Gillingwater S, Piraino T, Rojas E 2020. Amphibians and Reptiles of the Tirimbina Biological Reserve: a baseline for conservation, research and environmental education in a lowland tropical wet forest in Costa Rica. --------------------------------------------------------------------------------
+MCZbase MCZ:Herp:R-19742 specimen record | MCZbase (https://mczbase.mcz.harvard.edu/guid/MCZ%3AHerp%3AR-19742)
+ [wordlim: 200] Crawled: last week; ## Micrurus nigrocinctus mosquitensis
+
+## Paratype of Micrurus nigrocinctus mosquitensis
+
+# MCZ Herpetology R-19742
+
+## Micrurus nigrocinctus mosquitensis
+
+## Paratype of Micrurus nigrocinctus mosquitensis
+
+Date Collected:
+
+## 1924
+
+## [no higher geography data] | [no specific locality data]
+
+occurrenceID: https://mczbase.mcz.harvard.edu/guid/MCZ:Herp:R-19742
+
+### [Button: Cataloged Item ]
+
+  * Collection: Herpetology
+  * Catalog Number: R-19742
+  * GUID: MCZ:Herp:R-19742
+
+### [Button: Identifications ]
+
+Current Identification
+
+Micrurus nigrocinctus mosquitensis
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+
+Determiner: Schmidt
+
+Nature of ID: migration
+
+Remarks: Schmidt/1933
+
+Previous Identification
+
+Elaps nigrocinctus
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+
+Determiner: Catalog
+
+Nature of ID: migration
+
+Remarks: Catalog/1997
+
+### [Button: Citations ]
+
+Schmidt 1933, page 33, Paratype of Micrurus nigrocinctus mosquitensis
+--------------------------------------------------------------------------------
+## 4-1- Introduction (https://backoffice.biblio.ugent.be/download/4246982/4336883)
+ [wordlim: 200] Published: 13.0 years ago; Crawled: 2 weeks ago; The *Montivipera raddei* species complex is a group of mountain dwelling vipers, distributed in north, northwest and western Iran, the southern half of Armenia, south of Azerbaijan, Nakhijavan and adjacent places in eastern Turkey (Nilson and Andrén, 1986).
+## 4-1- Introduction
+
+The *Montivipera raddei* species complex is a group of mountain dwelling vipers, distributed in north, northwest and western Iran, the southern half of Armenia, south of Azerbaijan, Nakhijavan and adjacent places in eastern Turkey (Nilson and Andrén, 1986). Vipers of the genus *Montivipera*, are characterized morphologically by the presence of a projected, hornlike supraocular scale. The *Montivipera raddei* species complex is distinguished in the genus by the presence of a complete ring of small scales around eye that separate the supraocular scale from the eye, while in the *Montivipera xanthina* species complex, the supraocular is in contact with the eye. (Nilson *et al.*, 1999).
+
+Different ideas have been proposed about the taxonomy of the *Montivipera raddei* species complex. (For a review, see chapter three and Introduction). In previous taxonomic and phylogenetic studies about this species complex, very few specimens of isolated, Iranian populations were studied (Nilson and Andrén, 1985, 1986; Stumpel and Joger, 2009). --------------------------------------------------------------------------------
+110 / Litteratura Serpentium, 1994, Vol. 14, Nr. 4 (https://www.snakesociety.nl/jaargangen/1994e/Litteratura%20Serpentium%2014-4%20107-115%20Leenders%2C%20The%20snakes%20of%20Rara%20Avis%2C%20Costa%20Rica%2C%20I.%20Micrurus.pdf)
+ [wordlim: 200] Published: 9.2 years ago; Crawled: 2 days ago; Possibly *Micrurus nigrocinctus mosquitensis* will be granted species status in the near future, which means that it will be called *Micrurus mosquitensis*.
+The scales in the red rings always show a constant amount of black tipping.
+
+West of the Cordillera Central, on the Pacific versant, the nominate race *Micrurus nigrocinctus nigrocinctus* (Photo 2) occurs. This subspecies is characterized by a higher number of red body rings (11-23).
+
+Juveniles of the latter subspecies display a pattern of bright orange-red, narrow white or yellow, and black rings. However, with increasing age the original conspicuous colouration is obscured by black pigment. Some of the specimens observed by me were not recognizable as being coral snakes initially because the dorsum was completely black. The venter, however, did show the original bright coral snake pattern.
+
+Possibly *Micrurus nigrocinctus mosquitensis* will be granted species status in the near future, which means that it will be called *Micrurus mosquitensis*. This recognition is mainly based on chromosomal differences between *Micrurus nigrocinctus mosquitensis* and *Micrurus nigrocinctus nigrocinctus* (Gutiérrez & Bolaños, 1980). Additionally, some other differences like variation in venom composition, colouration and pattern are present. The number of body rings and the colours of *Micrurus nigrocinctus mosquitensis* are more constant than those of the nominate race. Also a distinct difference in behaviour is noted; specimens of the *mosquitensis*-subspecies are more nervous and excitable than those of *Micrurus nigrocinctus nigrocinctus*.--------------------------------------------------------------------------------
+ITIS - Report: Micrurus mosquitensis (https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1057608)
+ [wordlim: 200] Crawled: 2 months ago;   Synonym(s): Micrurus nigrocinctus mosquitensis K. ...                                             Species Micrurus mosquitensis K.
+
+Micrurus mosquitensis  K. P. Schmidt, 1933
+Taxonomic Serial No.: 1057608
+
+(Download Help) Micrurus mosquitensis TSN 1057608
+
+ Taxonomy and Nomenclature
+       
+  Kingdom: Animalia  
+  Taxonomic Rank: Species  
+  Synonym(s): Micrurus nigrocinctus mosquitensis K. P. Schmidt, 1933
+ 
+  Common Name(s):    
+       
+  Taxonomic Status:    
+  Current Standing: valid  
+       
+  Data Quality Indicators:    
+  Record Credibility Rating: verified - standards met  
+       
+ Taxonomic Hierarchy
+       
+  Kingdom Animalia  – Animal, animaux, animals  
+     Subkingdom Bilateria  – triploblasts  
+        Infrakingdom Deuterostomia   
+           Phylum Chordata  – cordés, cordado, chordates  
+              Subphylum Vertebrata  – vertebrado, vertébrés, vertebrates  
+                 Infraphylum Gnathostomata   
+                    Superclass Tetrapoda   
+--------------------------------------------------------------------------------
+MILWAUKEE
+PUBLIC
+MUSEUM
+Contributions
+In
+BIOLOGY
+a (https://www.mpm.org/sites/default/files/files%20and%20dox/C%26R/library/bio-geo/%23059%20MPM%20Contributions%20in%20Biology%20and%20Geology%20Number%2059.pdf)
+ [wordlim: 200] Published: 12.7 years ago; Micrurus
+nigrocinctus
+mosquitensis ... Description:
+193:
+33. Type Locality: Limon, Costa Rica.
+Nicaraguan
+Records: Gunther
+(1895:182, as EZaps fuZvius), no specific loca
+ity (part); Boulenger
+(1896:423-426,
+ibid), Chontales,
+Matagalpa;
+Schmit
+(1933:33,
+description
+of mosquitensis),
+Matagalpa,
+and
+19 km north
+(
+Matagalpa,
+3000 ft.
+Etymology:
+mosquitensis,
+of the mosquito (Miskito) Coast, as the Caribbea
+lowlands of Honduras and Nicaragua
+were' known in the nineteenth
+century
+Local name: Coral.
+Diagnosis: A subspecies of nigrocinctus having black head cap covering mor
+than
+half or all of the supraoculars
+and frontal
+(except posterior
+tip), th
+black nuchal band not covering the parietals,
+and extending
+posteriorly
+fo
+8-13 scale rows (Fig. 1 E). Other
+distinguishing
+characteristics:
+ventrals
+males 180-192, females 192-211, black body rings 10-16.
+Distribution:
+Nicaragua
+to northwestern
+Panama on the Caribbean
+versant.
+Habitat
+and Habits: Most common in humid environments
+of low to middl
+elevations
+(to about 1200 m) in the Central Plateau
+and Caribbean
+versant
+Terrestrial,
+probably crepuscular
+or nocturnal.
+Little has been published
+OJ
+the biology of this snake.
+Karyotype:
+Diploid number
+30; 8 pairs of macro chromosomes
+(with a secon
+dary constriction
+in the first pair) and 14 microchromosomes.
+Females witl
+a heteromorphic
+sixth pair (Z submetacentric,
+rarely metacentric;
+Wacrocen
+tric). Based on 17 Costa Rican specimens
+(Gutierrez
+and Bolanos,
+1979
+1981). On the basis of chromosome numbers,
+mosquitensis
+is more like allen
+than nigrocinctus
+talleni has 30, 20, macro- and 14 microchromosomes).
+11
+is also like alleni in its general
+color characteristics,
+i.e. with broad black
+and yellow rings, and a long black neck band, and in the number of'ventrals--------------------------------------------------------------------------------
+Unveiling underestimated species diversity within the Central American Coralsnake, a medically important complex of venomous taxa (https://pmc.ncbi.nlm.nih.gov/articles/PMC10356846/)
+ [wordlim: 200] Published: 3.3 years ago; Crawled: 4 weeks ago; The lack of meristic traits in the genus Micrurus has resulted in many species being described primarily based on coloration^{12,13}, resulting in the erroneous description of many regional color variants as species or subspecies within the genus^{11,14}. ... Recently, Micrurus mosquitensis, previously considered a subspecies of M. nigrocinctus, was given full species status^{26}, but the relationship of this species to other members of the M. nigrocinctus group remains unresolved.
+The hemipenis is long, slender, and strongly bifurcated, with a hook-shaped apical spine on each lobe. Members of the clade tend to be medium-sized snakes with adults up to 750 mm. Males have supra-anal tubercles. Despite its medical importance and wide geographic distribution throughout Central America, M. nigrocinctus has a poorly resolved taxonomy.
+
+Currently, there are six recognized subspecies of M. nigrocinctus, with various degrees of geographic distribution overlap: M. n. babaspul Roze 1967^{21}, M. n. coibensis Schmidt 1936^{22}, M. n. divaricatus (Hallowell 1854)^{23}, M. n. nigrocinctus (Girard 1854)^{19}, M. n. zunilensis Schmidt 1932^{24}, and M. n. ovandoensis Schmidt & Smith 1943^{25}. Recently, Micrurus mosquitensis, previously considered a subspecies of M. nigrocinctus, was given full species status^{26}, but the relationship of this species to other members of the M. nigrocinctus group remains unresolved. Similarly, the phylogenetic relationship of M. ruatanus, a species from the island of Roatán that closely resembles M. nigrocinctus from mainland Honduras, remains unknown. --------------------------------------------------------------------------------
+Micrurus mosquitensis | Instituto Clodomiro Picado (https://www.icp.ucr.ac.cr/es/informacion-y-materiales/serpientes-venenosas-de-costa-rica/micrurus-mosquitensis)
+ [wordlim: 200] Crawled: today; # Micrurus mosquitensis ... Su aspecto es semejante al de la mayoría de especies de este género, en especial al de Micrurus nigrocinctus, por lo que también se puede confundir con varias especies imitadoras de coral (familia Colubridae).
+
+# Micrurus mosquitensis
+
+Nombre científico: Micrurus mosquitensis
+
+Familia: Familia Elapidae
+
+Nombre común: coral costarricense
+
+Es una serpiente de tamaño pequeño a moderado con un promedio de longitud de 60 a 75 cm. Su cuerpo es medianamente robusto, con la cabeza mediana y diferenciada del cuello en forma notable. Su coloración se basa en anillos de tres colores: rojo, negro y amarillo. Su aspecto es semejante al de la mayoría de especies de este género, en especial al de Micrurus nigrocinctus, por lo que también se puede confundir con varias especies imitadoras de coral (familia Colubridae).
+
+Es de hábitos terrestres y de actividad crepuscular y nocturna; generalmente, se le encuentra bajo la hojarasca del suelo y de troncos y piedras; se le ha visto debajo de los pisos o dentro de casas de habitación en forma ocasional. Se alimenta de otras serpientes incluyendo una gran variedad en la familia Colubridae y cecílidos.
+
+Es una serpiente común y se distribuye desde el Caribe este y sureste, del Caribe de Nicaragua hasta el noroeste del Caribe de Panamá. En Costa Rica se extiende a través de los bosques lluviosos tropicales y subtropicales de la vertiente del Caribe desde el nivel del mar hasta los 1 500 m de altitud.--------------------------------------------------------------------------------
+302  REVISTA DE BIOLOGIA TROPICAL (https://tropicalstudies.org/rbt/attachments/volumes/vol21-2/10-Savage-Snakes.pdf)
+ [wordlim: 200] Published: 16.2 years ago; He (29) referred all available tricolor coral snake material from the Atlantic slope of western Panama, Costa Rica and Nicaragua to a new form, Micrurus nigrocinctus mosquitensis (type locality: Panama: Panama: Bahía de Panama: Isla Taboga) that ranges from Chiapas, Mexico south along both Atlantic and Pacific slopes to northwestern Colombia.
+In at least one specimen (US 14062) the posterior chin shields are solid black. The more anterior infracephalic plates (mental; infralabials and anterior chin shields) are never completely black in this species although outlined by black.
+
+DIFERENTIAL CHARACTERISTICS OF TRICOLOR  
+MICRURUS FROM THE ATLANTIC LOWLANDS OF  
+COSTA RICA AND NICARAGUA
+
+SCHMIDT (29) was the first worker to attempt allocation of the specimens of tricolor coral snakes from the Atlantic lowlands of Central America. Previous students of the genus had followed BOULENGER (1), who regarded these snakes as representatives of Micrurus fulvius. Among the most important contributions of Schmidt to coral snake systematics was his gradual breaking up of the composite M. fulvius in the sense of Boulenger into a number of recognizable and distinctive species and races (27, 28, 29, 30). He (29) referred all available tricolor coral snake material from the Atlantic slope of western Panama, Costa Rica and Nicaragua to a new form, Micrurus nigrocinctus mosquitensis (type locality: Panama: Panama: Bahía de Panama: Isla Taboga) that ranges from Chiapas, Mexico south along both Atlantic and Pacific slopes to northwestern Colombia. Mosquitensis was characterized as having 182-194 ventrals in males, 203-209 in females; 10-19 black body rings; yellow rings well developed and scales in red rings uniformly tipped with black.
+
+In 1936, SCHMIDT (30) described a second race from Atlantic lowland Nicaragua as Micrurus nigrocinctus aleni (type locality: Nicaragua: Zelaya: on Río Mico, 11 km above Rama) that differed from mosquitensis in having higher ventral counts (males 205-227, females 230-240 versus males 188-192, females 203-208 in the latter) and in having a backward projecting black marking on the head (head cap with an even posterior margin in mosquitensis). The distribution pattern suggested by Schmidt has the two subspecies sympatric at Nicaragua: Matagalpa: Matagalpa, and hybridizing at two localities, one on the--------------------------------------------------------------------------------
+Taxon Details | MCZbase (https://mczbase.mcz.harvard.edu/name/Micrurus%2Bnigrocinctus%2Bmosquitensis)
+ [wordlim: 200] Crawled: last week; # Micrurus nigrocinctus mosquitensis
+
+Taxonomic classification for Micrurus nigrocinctus mosquitensis
+
+# Micrurus nigrocinctus mosquitensis
+
+Taxonomic classification for Micrurus nigrocinctus mosquitensis
+Kingdom  | Phylum  | Class  | Subclass  | Order  | Suborder  | Superfamily  | Family  | Genus  | Species  | Subspecies  | Nomenclatural_Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Animalia  | Chordata  | Reptilia  | Lepidosauromorpha  | Squamata  | Serpentes  | Colubroidea  | Elapidae  | Micrurus  | nigrocinctus  | mosquitensis  | ICZN
+
+## Name Details
+
+## Name Authority: MCZ
+
+## Common Name(s):
+
+  * No common names recorded.
+
+## Publications, Citations, and Related Names
+
+## Related Publications:
+
+  * Barbour and Loveridge 1946
+  * Schmidt 1933
+
+## Cited MCZ Specimens:
+
+  * MCZ:Herp:R-19741 Holotype p. 33 in Schmidt 1933
+  * MCZ:Herp:R-17087 Paratype p. 33 in Schmidt 1933
+  * MCZ:Herp:R-19333 Paratype p. 33 in Schmidt 1933
+  * MCZ:Herp:R-19742 Paratype p. 33 in Schmidt 1933
+--------------------------------------------------------------------------------
+Montivipera raddei raddei | Pierre Wildlife (https://www.pierrewildlife.com/searchspecies/reptiles/snakes/vipers/montiviperaraddei/)
+ [wordlim: 200] Crawled: last month; # Montivipera raddei raddei
+--------------------------------------------------------------------------------
+New considerations on the systematics of the genus Montivipera Nilson, Tuniyev, Andrén, Orlov, Joger et Herrmann, 1999 (Serpentes Viperidae) (https://www.biodiversityjournal.com/images/pubblicazioni/biodiversity-journal-2023/biodiversity-journal-2023-14-02/biodiversity-journal-2023-14-02_325-327.pdf)
+ [wordlim: 200] Published: 1.5 years ago; (Montivipera raddei Boettger, 1890; M. albicor­
+--------------------------------------------------------------------------------
+Micrurus paraensis | The Reptile Database (https://reptile-database.reptarium.cz/Micrurus/paraensis?search_param=%28%28search%3D%27Uma%27%29%29)
+ [wordlim: 200] Crawled: 2 weeks ago; Micrurus paraensis can be distinguished from the eastern Amazonian coralsnakes (M. filiformis, M. hemprichii hemprichii, M. lemniscatus lemniscatus, M. spixii, M. surinamensis) by the monadal color patterns, long tail, long and bifurcated hemipenis (vs. triad color patterns, short tail, short and bilobed hemipenis). In other Amazonian regions, M. paraensis can be distinguished from monadal color patterned species (M albicinctus and M. langsdorffi) by the tricolor pattern and lower number of black body rings.
+--------------------------------------------------------------------------------
+Chapter 2 (https://serpientes.ins.gov.co/en/Paginas/2.aspx)
+ [wordlim: 200] Crawled: last week; Triadial RBWBWBR (Micrurus surinamensis): Triadal with red rings separated by three black rings and two white/yellow rings; Incomplete rings (Micrurus scutiventris): incomplete light rings along the body, which narrow down towards the dorsum and normally are not complete; the dorsal coloration is mainly black. ... Within Micrurus, two highly supported clades were recovered, one including all the species with monads plus M. elegans, one of the Central American species with triads; and the second contained all the South American species with triads, M. mipartitus, the only bicolored species, and M. narducci, the only species from the old-fashioned genus Leptomicrurus [8] (also known as pygmy coralsnakes, which are herein classified as coralsnakes with a color pattern of incomplete rings).
+--------------------------------------------------------------------------------
+Revision of the venomous snakes of Bolivia: Part 1. The coralsnakes (Elapidae: Micrurus) (https://www.academia.edu/164561941/Revision_of_the_venomous_snakes_of_Bolivia_Part_1_The_coralsnakes_Elapidae_Micrurus_)
+ [wordlim: 200] Published: 23.8 years ago; Crawled: last week; Analplateentire;dorsalpatternconsistingoflongblackringsseparatedbyshortorange or white rings; dorsal surface of head black to level of parietals (orange); ventrals 156191 (Campbell and Lamar, 1989) Micrurus hemprichii y . ... In Bolivia, two clearly distinct species have been referred to Micrurus spixii. ... HOLOTYPE male, “Santarem, Para, Brazil” (MCZ 2612).
+--------------------------------------------------------------------------------
+Montivipera raddei (https://en.wikipedia.org/wiki/Montivipera_raddei)
+ [wordlim: 200] Crawled: 4 days ago; Common names for Montivipera raddei include rock viper, Radde's mountain viper, Armenian mountain viper, Armenian viper, Radde's viper, Armenian mountain adder.
+## Description ... * Vipera (Montivipera) raddei raddei at Checklist of Armenia's Amphibians and Reptiles, Tadevosyan's Herpetological Resources.
+--------------------------------------------------------------------------------
+micrurus nigrocinctus | The Reptile Database (https://reptile-database.reptarium.cz/front.front/species?genus=micrurus&species=nigrocinctus)
+ [wordlim: 200] Crawled: last month; Micrurus nigrocinctus mosquitensis SCHMIDT 1933 has been elevated to full species status.
+--------------------------------------------------------------------------------
+Biology: Montivipera spp., Asian vipers, Mountain vipers | Indian Subcontinent and Southeast Asia | Terrestrial Snakes | VAPAGuide (https://www.vapaguide.info/biomedanimal/ISSEA-TER-VIP-54)
+ [wordlim: 200] Crawled: 3 weeks ago; Montivipera raddei
+--------------------------------------------------------------------------------
+Montivipera raddei albicornuta (https://en.wikipedia.org/wiki/Montivipera_raddei_albicornuta)
+ [wordlim: 200] Crawled: 7 months ago; Montivipera raddei albicornuta ... ## Description ... The color pattern consists of a grayish brown ground color with a darker brown zigzig pattern, made up of about 44-52 windings and edged with black.
+--------------------------------------------------------------------------------
+Micrurus mosquitensis (https://en.wikipedia.org/wiki/Micrurus_mosquitensis)
+ [wordlim: 200] Crawled: 3 months ago; * Micrurus nigrocinctus mosquitensis ... As in many species of the genus Micrurus, the color pattern of Micrurus mosquitensis consists of black, yellow, and red rings. ... Coral Snakes of the Americas: Biology, Identification, and Venoms.
+--------------------------------------------------------------------------------
+Lista de cobras peçonhentas do Brasil (https://pt.wikipedia.org/wiki/Lista_de_cobras_pe%C3%A7onhentas_do_Brasil)
+ [wordlim: 200] Crawled: 3 months ago;  Micrurus paraensis (Cunha e Nascimento, 1973)  | Coral-verdadeira  |   |
+--------------------------------------------------------------------------------
+کمیاب ترین مار ایران، Montivipera raddei kurdistanica، افعی کردستانی، Montivipera raddei raddei - YouTube (https://www.youtube.com/watch?v=3BV74GqT2Jo)
+ [wordlim: 200] Published: 1.9 years ago; Crawled: 2 months ago; # کمیاب ترین مار ایران، Montivipera raddei kurdistanica، افعی کردستانی، Montivipera raddei raddei ... ## Description
+# کمیاب ترین مار ایران، Montivipera raddei kurdistanica، افعی کردستانی، Montivipera raddei raddei
+By: Reptiles and venomous snakes (10900 followers)
+Published: 2024-12-12, 3484 views, 215 likes
+
+## Description
+Montivipera raddei raddei
+(Montivipera raddei kurdistanica)
+
+افعی کردستانی 
+
+افعی کوهستانی کردستانی یک زمانی زیرگونه ای از افعی های کوهستانی ارمنی یا افعی تکابی بودند که با بررسی های انجام شده در سالهای قبل به این نتیجه رسیدند که تفاوت خاصی با افعی های تکابی ندارند و فقط از لحاظ الگو و رنگ تفاوتهایی را دارند.
+البته هنوز برخی از محققین افعی کردستانی را زیرگونه یا حتی گونه می دانند.
+
+این افعی زیبا و خاص در استان آذربایجان غربی و در منطقه ی مرزی بین کشور ترکیه و عراق پراکندگی دارد.
+
+درآینده بیشتر در مورد این گونه صحبت خواهیم کرد امیدوارم با حمایت های روز افزون شما چه معنوی و چه مادی بیشتر و بهتر در مورد خزندگان و جانوران زهرآگین ایران فعالیت کنیم برای دونیت کردن و حمایت مالی در امر تجهیزات و امکانات در صورت تمایل شماره کارت در زیر قرار گرفته است که پیشاپیش قدر دان همگی هستم.
+🙏♥️🙏♥️🙏♥️🙏♥️🙏🙏🙏♥️🙏♥️🙏♥️🙏
+
+( 6219861071510860 )
+بانک سامان مرضیه عبدالهی مقدم
+
+#افعی_کردستانی
+#افعی_کوهستانی
+#افعی_ارمنی
+#افعی_کوهستانی_ارمنی
+#افعی
+#مارهای_ایران
+#مارهای_زهری
+#مستندحیات_وحش
+#Montivipera
+#Montivipera_raddei
+#Montivipera_raddei_kurdistanica
+#Radde_rock_viper
+#Kurdistan_viper
+--------------------------------------------------------------------------------
+Montivipera raddei (https://fr.wikipedia.org/wiki/Montivipera_raddei)
+ [wordlim: 200] Crawled: 9.1 years ago;  Description de l'image Armenian viper.jpg. ... Montivipera raddei est une espèce de serpents de la famille des Viperidae.
+--------------------------------------------------------------------------------
+افعی ها_ افعی تکابی _ مارهای خاص ایران _مارهای ایران_Montivipera raddei - YouTube (https://www.youtube.com/watch?v=6uMvl-A-kVw)
+ [wordlim: 200] Published: 3.4 years ago; Crawled: 11 months ago; # افعی ها_ افعی تکابی _ مارهای خاص ایران _مارهای ایران_Montivipera raddei ... ## Description
+--------------------------------------------------------------------------------
+Misquito-Korallenotter (https://de.wikipedia.org/wiki/Misquito-Korallenotter)
+ [wordlim: 200] Crawled: 2.0 years ago; Schmidt im Jahr 1933 unter der Bezeichnung Micrurus nigrocinctus mosquitensis, also als Unterart von Micrurus nigrocinctus. ... * Micrurus nigrocinctus mosquitensis K.P.
+--------------------------------------------------------------------------------
+[La Fortuna, Costa Rica] (https://www.reddit.com/r/whatsthissnake/comments/1r7tzr8/la_fortuna_costa_rica/)
+ [wordlim: 200] Published: 9 months ago;   *I am a bot created for /r/whatsthissnake, /r/snakes and /r/herpetology to help with snake identification and natural history education. ...   If this was in La Fortuna it is *M. mosquitensis* as *nigrocinctus* don't range on the Atlantic slope. ... *Micrurus mosquitensis* !
+

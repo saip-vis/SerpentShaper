@@ -1,0 +1,65 @@
+{
+  "request_url": "https://api.inaturalist.org/v1/taxa?q=Protobothrops+kelomohy&rank=species&is_active=true&per_page=10",
+  "retrieved_at": "2026-11-19T00:47:33.294796+00:00",
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 1119897,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          30994,
+          1119897
+        ],
+        "is_active": true,
+        "name": "Protobothrops kelomohy",
+        "parent_id": 30994,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/30994",
+        "extinct": false,
+        "provisional": false,
+        "default_photo": {
+          "id": 592204310,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Rupert Grassby-Lewis, some rights reserved (CC BY-NC), uploaded by Rupert Grassby-Lewis",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592204310/square.jpg",
+          "original_dimensions": {
+            "height": 1365,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Rupert Grassby-Lewis",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592204310/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592204310/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 0,
+        "observations_count": 9,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Protobothrops_kelomohy",
+        "complete_rank": "subspecies",
+        "matched_term": "Protobothrops kelomohy",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Omkoi Lance-headed Pit Viper"
+      }
+    ]
+  }
+}

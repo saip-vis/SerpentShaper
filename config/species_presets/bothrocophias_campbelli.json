@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "preset_id": "bothrocophias_campbelli",
+  "species_id": "source_16bb64d7a7884afe",
+  "source_species_name": "Bothrocophias campbelli",
+  "common_name": "Campbell\u2019s toad-headed pitviper",
+  "status": "illustrative_unvalidated",
+  "variant": "Muted brown-gray irregular crossbands and darker postocular patch; short fine terminal tail.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.inaturalist.org/observations/147312713",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_026_bothrocophias_campbelli/manifest.json",
+        "image_id": "inat_253465315",
+        "sha256": "a54841fd90fb7827ac9cbfa1f46d05b39762ec004a417b371d1ebd290a35b895",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_026_bothrocophias_campbelli/manifest.json",
+        "image_id": "inat_346063418",
+        "sha256": "85a7405d6b3f7f93b469ad14905d41af2ce7ed33029785142b610e70423671e7",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_026_bothrocophias_campbelli/manifest.json",
+        "image_id": "inat_347664710",
+        "sha256": "ee083cc420d53c28ffb1d9ef25f013a5b27be7e678bfc39f8bf6f88358ba7b61",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_026_bothrocophias_campbelli/manifest.json",
+        "image_id": "inat_429623933",
+        "sha256": "528bfa6db3caeeefdcb4a0e30157d3422152376beef9f523550eb0bbf90135f8",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_026_bothrocophias_campbelli/manifest.json",
+        "image_id": "inat_349882225",
+        "sha256": "fda31683f205df5acbff5e926af8f36031f213a5e9a0d52bdc9a2ac964340cad",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_253465315": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_346063418": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_347664710": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_429623933": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_349882225": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Broad flattened toad-like head and short upturned-looking muzzle; narrow neck and heavy keeled body.",
+        "Muted brown-gray irregular crossbands and darker postocular patch; short fine terminal tail.",
+        "Second rendered comparison: flattened lower jaw, moved posterior skull breadth rearward and straightened postocular marking; removed inflated oval cheek.",
+        "Third reference comparison: rounded anterior rostral contour and slightly higher nostril distinguish the short toad-like muzzle."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_253465315",
+        "inat_346063418",
+        "inat_347664710",
+        "inat_429623933",
+        "inat_349882225"
+      ]
+    },
+    "modeling_flags": [
+      "Head photos are mostly oblique; exact lateral snout contour remains uncertain.",
+      "No compiled descriptive fields; draft rests on provider-labelled photos, identity needs specialist confirmation."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "crossbands",
+    "skin_color": "#8a7967",
+    "marking_color": "#554c42",
+    "belly_color": "#c9b79b",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 6.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 71,
+      "neck": 10,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -3,
+          4,
+          -9,
+          19.17,
+          -10.08
+        ],
+        [
+          19.17,
+          -10.08,
+          34.08,
+          -15.12,
+          48.989999999999995,
+          -20.16,
+          56.09,
+          -18.48
+        ],
+        [
+          56.09,
+          -18.48,
+          61.06,
+          -10,
+          66.03,
+          -10,
+          71,
+          -10
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          5,
+          17.75,
+          7.82,
+          34.08,
+          9.775
+        ],
+        [
+          34.08,
+          9.775,
+          46.15,
+          11.339,
+          55.38,
+          11.73,
+          59.64,
+          8.797500000000001
+        ],
+        [
+          59.64,
+          8.797500000000001,
+          63.9,
+          10,
+          67.45,
+          10,
+          71,
+          10
+        ]
+      ],
+      "eye": [
+        24,
+        -2,
+        3.3,
+        3.63
+      ],
+      "nostril": [
+        5,
+        -2
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q24.849999999999998 5.474000000000001 49.699999999999996 6.8425 L63.9 5.0",
+      "shields": [],
+      "lip": true,
+      "pit": [
+        13.200000000000001,
+        0
+      ],
+      "markings": [
+        {
+          "path": "M28 0 L61 2 L58 7 L28 4Z",
+          "fill": "#3c3b29"
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        10
+      ],
+      [
+        258,
+        227,
+        17
+      ],
+      [
+        305,
+        249,
+        26
+      ],
+      [
+        390,
+        271,
+        32
+      ],
+      [
+        471,
+        302,
+        33
+      ],
+      [
+        514,
+        347,
+        31
+      ],
+      [
+        502,
+        397,
+        29
+      ],
+      [
+        430,
+        431,
+        27
+      ],
+      [
+        330,
+        445,
+        24
+      ],
+      [
+        253,
+        476,
+        21
+      ],
+      [
+        253,
+        515,
+        16
+      ],
+      [
+        324,
+        550,
+        10
+      ],
+      [
+        400,
+        555,
+        6
+      ],
+      [
+        460,
+        546,
+        3
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

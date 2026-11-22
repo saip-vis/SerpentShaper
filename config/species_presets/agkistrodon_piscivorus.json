@@ -1,0 +1,302 @@
+{
+  "schema_version": 1,
+  "preset_id": "agkistrodon_piscivorus",
+  "species_id": "source_0d6a65964a227910",
+  "source_species_name": "Agkistrodon piscivorus",
+  "common_name": "Cottonmouth",
+  "status": "illustrative_unvalidated",
+  "variant": "Dark adult-style cottonmouth with subdued crossbands; closed mouth.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.outdooralabama.com/venomous-snakes/cottonmouth",
+        "scope": "Qualitative morphology; see physical profile for field provenance."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_012_agkistrodon_piscivorus/manifest.json",
+        "image_id": "inat_53672",
+        "sha256": "696e880c6c6dfeeeec101108162d748b3aa05b4ba064b56aa8ab1df3a75fbb9a",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_012_agkistrodon_piscivorus/manifest.json",
+        "image_id": "inat_772938",
+        "sha256": "70ecd31a52bd0635d86eb88c640b3d441d92d5d56123b927ca22d0b3584a1dc9",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_012_agkistrodon_piscivorus/manifest.json",
+        "image_id": "inat_783641",
+        "sha256": "87b85eb437f97dfc1dc03978575635b5177748d83e38e09af285fae591eff2af",
+        "use": "Qualitative visual reference; no fitted measurements."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_012_agkistrodon_piscivorus/manifest.json",
+        "image_id": "inat_783675",
+        "sha256": "0542197bbdd6ea393f48d626d776e7820bb5a4fce37403d6e4f4960e1664fc5f",
+        "use": "Qualitative visual reference; no fitted measurements."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_53672": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_772938": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_783641": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting.",
+      "inat_783675": "Selected after contact-sheet review; head, trunk or pattern reference. Perspective prevents measurement fitting."
+    },
+    "unextracted_fields": [
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Broad heavy cheek and brow, blunt snout, small sheltered eye; pale labial accents remain discontinuous.",
+        "Heavy keeled trunk with low-contrast crossbands; short terminal taper, no rattle.",
+        "Second pass: shortened terminal tail, carried trunk mass farther posteriorly; removed generic diagonal cheek band in favor of species facial marks.",
+        "Third reference comparison: reduced anterior dome and jaw inflation, retained posterior skull breadth and smoothed crown-to-neck curve."
+      ],
+      "projection_limit": "Artistic projected dorsal/oblique geometry; no calibrated multi-view reconstruction.",
+      "reference_ids": [
+        "inat_53672",
+        "inat_772938",
+        "inat_783641",
+        "inat_783675"
+      ]
+    },
+    "modeling_flags": [
+      "Florida/northern taxon identity of historical provider records needs locality confirmation.",
+      "Open-mouth display references guide color only; no defensive gape modeled."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "crossbands",
+    "skin_color": "#363d32",
+    "marking_color": "#5d5840",
+    "belly_color": "#8d8b6b",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 6.5,
+    "mark_spacing": 65,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": true,
+    "head_geometry": {
+      "length": 74,
+      "neck": 11,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          8.879999999999999,
+          -10.559999999999999,
+          20.720000000000002,
+          -13.64
+        ],
+        [
+          20.720000000000002,
+          -13.64,
+          35.519999999999996,
+          -19.8,
+          51.8,
+          -22,
+          58.46,
+          -18.04
+        ],
+        [
+          58.46,
+          -18.04,
+          62.9,
+          -14.3,
+          69.56,
+          -11,
+          74,
+          -11
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          2,
+          4,
+          17.02,
+          9.1,
+          35.519999999999996,
+          11.9
+        ],
+        [
+          35.519999999999996,
+          11.9,
+          48.84,
+          14,
+          57.72,
+          14,
+          62.16,
+          11.200000000000001
+        ],
+        [
+          62.16,
+          11.200000000000001,
+          66.60000000000001,
+          11,
+          70.3,
+          11,
+          74,
+          11
+        ]
+      ],
+      "eye": [
+        27,
+        -4,
+        3.3,
+        3.6
+      ],
+      "nostril": [
+        7,
+        -2
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q25.9 7.0 51.8 8.4 L66.60000000000001 5.5",
+      "shields": [
+        "M8 -10 L21 -14 L30 -10 M30 -10 L43 -12 L52 -9",
+        "M3 5 L15 9 L30 11 L48 12 L66 8"
+      ],
+      "lip": true,
+      "pit": [
+        14,
+        1
+      ],
+      "markings": [
+        {
+          "path": "M20 -5 L64 5 L61 11 L23 1Z",
+          "fill": "#222923"
+        },
+        {
+          "path": "M6 6 L20 10 L64 13",
+          "stroke": "#c8ba94",
+          "width": 1.5
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        11
+      ],
+      [
+        258,
+        227,
+        16
+      ],
+      [
+        305,
+        249,
+        24
+      ],
+      [
+        390,
+        271,
+        30
+      ],
+      [
+        471,
+        302,
+        31
+      ],
+      [
+        514,
+        347,
+        30
+      ],
+      [
+        502,
+        397,
+        27
+      ],
+      [
+        430,
+        431,
+        34.5
+      ],
+      [
+        330,
+        445,
+        27.0
+      ],
+      [
+        253,
+        476,
+        19.5
+      ],
+      [
+        253,
+        515,
+        13.5
+      ],
+      [
+        324,
+        550,
+        7.5
+      ],
+      [
+        382.58,
+        556.96,
+        2.8
+      ],
+      [
+        441.74,
+        548.84,
+        1.4
+      ],
+      [
+        489.88,
+        530.28,
+        0.6
+      ],
+      [
+        524.1,
+        502.44,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

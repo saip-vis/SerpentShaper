@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "preset_id": "bitis_arietans",
+  "species_id": "source_375f8167dff7597b",
+  "source_species_name": "Bitis arietans",
+  "common_name": "Puff adder",
+  "status": "illustrative_unvalidated",
+  "variant": "Pale-edged dark dorsal chevrons; short tapered tail, not a long whip.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.sanbi.org/animal-of-the-week/puff-adder/",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_005_puff_adder/manifest.json",
+        "image_id": "inat_643481",
+        "sha256": "a722f728379498ad4d2d77903fd2542ad2eecf857725bcbcecd66f387d1b550f",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_005_puff_adder/manifest.json",
+        "image_id": "inat_1250456",
+        "sha256": "4d42896b93878a12866fd18f40a25dc88dc767b05371fbeecc0bb7c3feda32e9",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_005_puff_adder/manifest.json",
+        "image_id": "inat_1309693",
+        "sha256": "aa8c70d1b74c82bf4e6b12e6cb72508c768aea7cde7d13c8ed33a0b8d530bbb6",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_643481": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_1250456": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_1309693": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Short blunt snout and very broad posterior skull; highly keeled, heavy trunk.",
+        "Pale-edged dark dorsal chevrons; short tapered tail, not a long whip.",
+        "Second rendered comparison: flattened lower jaw, moved posterior skull breadth rearward and straightened postocular marking; removed inflated oval cheek.",
+        "Third reference comparison: broader pale labial region; selected facial pigmentation isolated from the body chevrons."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_643481",
+        "inat_1250456",
+        "inat_1309693"
+      ]
+    },
+    "modeling_flags": [
+      "Unobstructed natural lateral head coverage is limited; handled images not used for outline proportions."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "chevrons",
+    "skin_color": "#a28a60",
+    "marking_color": "#40352b",
+    "belly_color": "#ded0a5",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 6.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 74,
+      "neck": 13,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -5,
+          8.879999999999999,
+          -9.975,
+          19.98,
+          -12.6
+        ],
+        [
+          19.98,
+          -12.6,
+          35.519999999999996,
+          -18.9,
+          51.059999999999995,
+          -25.2,
+          58.46,
+          -23.1
+        ],
+        [
+          58.46,
+          -23.1,
+          63.64,
+          -13,
+          68.82000000000001,
+          -13,
+          74,
+          -13
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          5,
+          18.5,
+          9.18,
+          35.519999999999996,
+          11.475
+        ],
+        [
+          35.519999999999996,
+          11.475,
+          48.1,
+          13.310999999999998,
+          57.72,
+          13.77,
+          62.16,
+          10.3275
+        ],
+        [
+          62.16,
+          10.3275,
+          66.60000000000001,
+          13,
+          70.3,
+          13,
+          74,
+          13
+        ]
+      ],
+      "eye": [
+        26,
+        -5,
+        3.4,
+        3.74
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q25.9 6.426 51.8 8.032499999999999 L66.60000000000001 6.5",
+      "shields": [],
+      "lip": true,
+      "labial_boundary": "M-3 1 Q24 1 49 5 L76 7 L76 35 L-3 35Z",
+      "markings": [
+        {
+          "path": "M6 -4 L22 -10 L31 -5 L21 0Z",
+          "fill": "#514331"
+        },
+        {
+          "path": "M30 0 L60 4 L56 10 L32 4Z",
+          "fill": "#514331"
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        13
+      ],
+      [
+        258,
+        227,
+        23
+      ],
+      [
+        305,
+        249,
+        35
+      ],
+      [
+        390,
+        271,
+        41
+      ],
+      [
+        471,
+        302,
+        42
+      ],
+      [
+        514,
+        347,
+        40
+      ],
+      [
+        502,
+        397,
+        37
+      ],
+      [
+        430,
+        431,
+        34
+      ],
+      [
+        330,
+        445,
+        30
+      ],
+      [
+        253,
+        476,
+        26
+      ],
+      [
+        253,
+        515,
+        20
+      ],
+      [
+        324,
+        550,
+        11
+      ],
+      [
+        400,
+        555,
+        6
+      ],
+      [
+        460,
+        546,
+        2.8
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

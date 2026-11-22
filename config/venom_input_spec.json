@@ -1,0 +1,150 @@
+{
+  "spec_version": "0.1.0",
+  "status": "active_input_catalog",
+  "purpose": "Translate user-defined venom composition into evidence-guided hypothetical snake concepts.",
+  "unit": "percentage_points",
+  "source_binding": {
+    "dataset_doi": "10.6084/m9.figshare.22179949.v1",
+    "source_id": "vd2023_e2d1aa974518",
+    "workbook_sha256": "e2d1aa97451838dcdf9ee61fa4c476533d79e3c4a66144536c0c42976b93824b",
+    "sheet": "RAW_DATABASE_VENOM"
+  },
+  "controls": [
+    {
+      "id": "3ftx", "label": "Three-finger toxins", "short_label": "3FTx", "tier": "primary",
+      "source_toxin_ids": ["vd2023_E"],
+      "definition": "The source category for the three-finger toxin protein family.",
+      "boundaries": "Includes functionally diverse members. Do not equate this family with alpha-neurotoxins or cytotoxins alone.",
+      "interpretation": "Retrieve subtype-specific evidence before describing a particular mechanism.",
+      "refinements": ["Source-defined molecular subclasses with separate quantitative measurements; functional tags are not automatically disjoint subtypes."],
+      "evidence_ids": ["family_nomenclature", "three_finger_diversity"],
+      "design_role": "Select documented reference profiles containing this family. Reference anatomy remains an illustrative choice, not a consequence established by the percentage."
+    },
+    {
+      "id": "pla2", "label": "Phospholipases A2", "short_label": "PLA2", "tier": "primary",
+      "source_toxin_ids": ["vd2023_T"],
+      "definition": "The source phospholipase A2 family category.",
+      "boundaries": "Do not equate total PLA2 with a neurotoxic subtype or enzymatic activity; activity and functional effects vary among members.",
+      "interpretation": "Retrieve subtype and assay context before assigning functional characteristics.",
+      "refinements": ["Catalytic status and molecular identity, only if explicitly measured; do not infer partitions from effect names."],
+      "evidence_ids": ["family_nomenclature", "pla2_assay_context"],
+      "design_role": "Introduce relevant measured reference profiles without forcing a taipan, aquatic anatomy, or a fixed body shape."
+    },
+    {
+      "id": "svmp", "label": "Venom metalloproteinases", "short_label": "SVMP", "tier": "primary",
+      "source_toxin_ids": ["vd2023_AZ"],
+      "definition": "The source snake venom metalloproteinase family category.",
+      "boundaries": "P-I, P-II and P-III classes and disintegrin-containing proteins require source-specific accounting. Never add a parent total to its subcomponents.",
+      "interpretation": "Use assay-supported protein-cleavage or vascular findings with their experimental context.",
+      "refinements": ["P-I, P-II and P-III, when the original source reports mutually exclusive class abundances."],
+      "evidence_ids": ["family_nomenclature", "svmp_assay_context", "disintegrin_accounting"],
+      "design_role": "Permit diverse reference anatomies; SVMP-containing reference profiles include both vipers and boomslang. No stocky-body or triangular-head rule is established."
+    },
+    {
+      "id": "svsp", "label": "Venom serine proteases", "short_label": "SVSP", "tier": "primary",
+      "source_toxin_ids": ["vd2023_BG"],
+      "definition": "The source snake venom serine protease family category.",
+      "boundaries": "A family total does not identify a particular coagulation target or establish the net clotting effect of a mixture.",
+      "interpretation": "Require relevant functional evidence for coagulation claims.",
+      "refinements": ["Identified proteases with documented measurements and functional targets."],
+      "evidence_ids": ["family_nomenclature", "svsp_assay_context"],
+      "design_role": "Use documented species as references while leaving morphology conditional on separately sourced traits."
+    },
+    {
+      "id": "kunitz", "label": "Kunitz-type proteins", "short_label": "KSPI", "tier": "advanced",
+      "source_toxin_ids": ["vd2023_Z"],
+      "definition": "The workbook's KSPI category, named Kunitz-type serine protease inhibitors in the cleaning dictionary.",
+      "boundaries": "Kunitz-type proteins can differ in function; do not equate all KSPI with dendrotoxins or active protease inhibition.",
+      "interpretation": "A specific channel or enzyme effect needs molecular evidence.",
+      "refinements": ["Dendrotoxin identity or other identified Kunitz members, with independent abundance evidence."],
+      "evidence_ids": ["family_nomenclature", "kunitz_diversity"],
+      "design_role": "Mamba profiles can be illustrative references; a Kunitz percentage does not specify mamba morphology."
+    },
+    {
+      "id": "ctl", "label": "C-type lectins", "short_label": "CTL", "tier": "advanced",
+      "source_toxin_ids": ["vd2023_AC"],
+      "definition": "The workbook CTL label, retained exactly as a distinct source category.",
+      "boundaries": "Do not merge with CLP (Snaclec) until the contributing study's definitions and overlap are reviewed.",
+      "interpretation": "Functional interpretation requires further primary-source curation.",
+      "refinements": [], "evidence_ids": ["family_nomenclature"],
+      "design_role": "Reference context only; no direct physical-trait rule."
+    },
+    {
+      "id": "snaclec", "label": "C-type lectin-like proteins", "short_label": "CLP (Snaclec)", "tier": "advanced",
+      "source_toxin_ids": ["vd2023_AD"],
+      "definition": "The workbook CLP (Snaclec) category.",
+      "boundaries": "Distinct from CTL and the separate ambiguous workbook label CLP. Do not sum or alias those labels automatically.",
+      "interpretation": "Functional interpretation requires further primary-source curation.",
+      "refinements": [], "evidence_ids": ["source_category_separation"],
+      "design_role": "Reference context only; no direct physical-trait rule."
+    },
+    {
+      "id": "crisp", "label": "Cysteine-rich secretory proteins", "short_label": "CRiSP", "tier": "advanced",
+      "source_toxin_ids": ["vd2023_F"],
+      "definition": "The source CRiSP protein-family category.",
+      "boundaries": "Not a universal ion-channel or muscle-effect measurement.",
+      "interpretation": "Functional interpretation requires further primary-source curation.",
+      "refinements": [], "evidence_ids": ["family_nomenclature"],
+      "design_role": "Reference context only; no direct physical-trait rule."
+    },
+    {
+      "id": "laao", "label": "L-amino acid oxidases", "short_label": "LAAO", "tier": "advanced",
+      "source_toxin_ids": ["vd2023_BJ"],
+      "definition": "The source L-amino acid oxidase family category.",
+      "boundaries": "Abundance alone is not measured oxidative activity or a rate of prey incapacitation.",
+      "interpretation": "Functional interpretation requires further primary-source curation.",
+      "refinements": [], "evidence_ids": ["family_nomenclature"],
+      "design_role": "Reference context only; no direct physical-trait rule."
+    },
+    {
+      "id": "disintegrin", "label": "Disintegrins", "short_label": "DIS", "tier": "advanced",
+      "source_toxin_ids": ["vd2023_AM"],
+      "definition": "The workbook DIS category.",
+      "boundaries": "Distinguish separately quantified disintegrins from domains counted within SVMPs; resolve conventions per source.",
+      "interpretation": "A specific adhesion or platelet effect requires identified-component evidence.",
+      "refinements": [], "evidence_ids": ["family_nomenclature", "disintegrin_accounting"],
+      "design_role": "Reference context only; no direct physical-trait rule."
+    },
+    {
+      "id": "natriuretic_peptide", "label": "Natriuretic peptides", "short_label": "NP", "tier": "advanced",
+      "source_toxin_ids": ["vd2023_H"],
+      "definition": "The workbook NP category.",
+      "boundaries": "Do not merge NP, C-NP, BNP or BPP solely on naming or related physiology.",
+      "interpretation": "Functional interpretation requires further primary-source curation.",
+      "refinements": [], "evidence_ids": ["family_nomenclature"],
+      "design_role": "Reference context only; no direct physical-trait rule."
+    },
+    {
+      "id": "bradykinin_potentiating_peptide", "label": "Bradykinin-potentiating peptides", "short_label": "BPP", "tier": "advanced",
+      "source_toxin_ids": ["vd2023_AN"],
+      "definition": "The workbook BPP category.",
+      "boundaries": "Separate from natriuretic peptides and ambiguous peptide labels. Label expansion is not functional validation.",
+      "interpretation": "Functional interpretation requires further primary-source curation.",
+      "refinements": [], "evidence_ids": ["source_category_separation"],
+      "design_role": "Reference context only; no direct physical-trait rule."
+    }
+  ],
+  "accounting": {
+    "range_per_control": [0, 100],
+    "custom_total_pct": 100,
+    "custom_total_tolerance_percentage_points": 0.01,
+    "missing_is_zero": false,
+    "automatic_normalization": false,
+    "parent_child_mode_v1": "no_child_inputs",
+    "source_only_policy": "Preserve all other source labels and unidentified components individually when loading a historical profile. Never drop them or renormalize the selected controls.",
+    "unidentified_policy": "No ID is an observation category, not a phenotype-driving control.",
+    "unallocated_policy": "Display 100 minus the explicit assigned total as a UI balance only. It is not a measured unidentified component and must not silently become No ID.",
+    "source_mixture_policy": "Do not pool studies or measurement types. This control catalog is not evidence that source categories are universally mutually exclusive."
+  },
+  "phenotype_policy": {
+    "route": ["composition", "contextual_evidence", "documented_reference_profiles", "separately_sourced_traits", "hypothetical_design"],
+    "direct_percentage_to_anatomy_rules": [],
+    "trait_origins": ["documented_reference", "creative_choice", "unresolved"],
+    "candidate_traits": ["body_proportions", "head_shape", "tail_shape", "coloration", "pattern", "diet", "habitat"],
+    "require_citation_for_documented_traits": true,
+    "require_reference_species_for_documented_traits": true,
+    "require_creative_label_when_no_trait_evidence": true,
+    "do_not_infer": ["onset_time", "potency", "exact_prey", "specific_habitat", "body_length", "body_shape", "head_shape", "fang_geometry", "coloration", "evolutionary_history"],
+    "change_behavior": "A composition edit may change selected references or explanations. It does not require every physical trait to change. Preserve explicitly locked creative choices. No continuous response curve is claimed."
+  }
+}

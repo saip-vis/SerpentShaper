@@ -1,0 +1,315 @@
+Capitulo 1 (https://serpientes.ins.gov.co/Paginas/es/1.aspx)
+ [wordlim: 200] Crawled: 6 days ago; Micrurus dumerilii.— Esta serpiente coral está restringida a la región trans-andina de Colombia. ... Del total de las 49 especies de serpientes venenosas presentes en Colombia, 16 especies tienen diez o menos registros o localidades conocidas (Figura 8), lo que representa entre 0,2-0,02% del total de registros disponibles para las serpientes venenosas del país (~5.488 registros, ver https://ofidismo.ins.gov.co), Eso las convierte en las serpientes venenosas más enigmáticas de Colombia (Tabla 2).
+Crotalus durissus*  | No  | No  | Ant, Ara, Atl, Bol, Boy, Ces, Cun, Hui, LaG, Mag, Met, Tol, Vic  | 7—1717,  = 235
+Porthidium lansbergii*  | No  | Si  | Ant, Atla, Bol, Boy, Cas, Ces, Cho, Cór, Hui, LaG, Mag, NSa, San, Suc, Tol  | 0—1243,  = 782
+Porthidium nasutum  | No  | No  | Ant, Cho, Val  | 12—1011,  = 307
+Micrurus dumerilii*  | No  | Si  | Ant, Atl, Bol, Boy, Cal, Cau, Cesar, Cho, Cór, Cun, Hui, LaG, Mag, Met, Nar, NSa, Ris, San, Suc, Tol, Val,  | 2—2278,  = 815
+Micrurus mipartitus*  | No  | Si  | Ant, Boy, Cal, Cau, Ces, Cho, Cór, Cun, Hui, Mag, Met, Nar, NSa, Ris, San, Suc, Tol, Val,  | 11—2606,  = 1204
+Serpientes que muerden frecuentemente, pero rara vez causan envenenamientos graves o potencialmente mortales
+Dryophylax gambotensis  | Si  | Si  | Atl, Bol, Ces, Cór, LaG, Mag, Suc  | 1—161,  = 34
+Helicops angulatus  | No  | No  | Ama, Caq, Cun, Gua, Guav, Met, Put, Vau, Vic  | 52—570,  = 237
+Leptodeira annulata*  | No  | No  | Ama, Ant, Atla, Bol, Boy, Cal, Caq, Cas, Cau, Ces, Cho, Cór, Cun, Hui, LaG, Mag, Met, San, NSa, Suc, Tol, Val, Vic  | 3—2130,  = 646
+La ruta más probable de translocación es a través del agua de lastre de los barcos. El agua de lastre es una de las principales vías para la introducción de especies marinas no autóctonas [117,118]. Debido al continuo tráfico marítimo entre el mar Caribe y el océano Pacífico a través del Canal de Panamá, es posible que H. platurus haya ampliado su rango de distribución hacia algunas localidades de la costa caribeña colombiana utilizando el agua de lastre; siendo esta una posible explicación para los casos ofidismo reportados informalmente en esta región. No obstante, se requieren estudios rigurosos que aporten información confiable sobre el patrón epidemiológico de este evento de mordedura de serpiente, así como para probar la hipótesis del agua de lastre de los barcos como posible medio de translocación (ver Capítulo 9).
+
+Micrurus dumerilii.— Esta serpiente coral está restringida a la región trans-andina de Colombia. Sin embargo, existen dos registros fuera de su rango de distribución histórico conocido. --------------------------------------------------------------------------------
+DIFERENCIAS ENTRE SERPIENTES VENENOSAS Y NO VENENOSAS (https://www.ins.gov.co/Documents/PLEGABLE%20COMO%20DIFERENCIAR%20SERPIENTES.pdf)
+ [wordlim: 200] Published: 9.1 years ago; Crawled: 9 months ago; DIFERENCIAS ENTRE SERPIENTES VENENOSAS Y NO VENENOSAS ... | CORAL | (Micrurus dumerilii) |
+DIFERENCIAS ENTRE SERPIENTES VENENOSAS Y NO VENENOSAS
+
+SERPIENTES VENENOSAS
+
+VIPÉRIDOS
+
+VÍBORAS VERDADERAS  
+SOLENOGLIFAS
+
+VÍBORAS FALSAS  
+AGLIFAS
+
+ELÁPIDOS
+
+CORALES VERDADERAS  
+Cabeza | Cola
+
+| Tipo | Nombre científico |
+|---|---|
+| CORAL | (Micrurus dissoleucus) |
+| RABO DE AJÍ | (Micrurus mipartitus) |
+| CORAL | (Micrurus dumerilii) |
+| CORAL DE AGUA | (Micrurus surinamensis) |
+
+CORALES FALSAS  
+Cabeza | Cola
+
+| Tipo | Nombre científico |
+|---|---|
+| CANDELLILLA | (Pseudoboa neuwiedii) |
+| MORICHALERA | (Siphlophis compressus) |
+| CORALILLA | (Oxyrhopus petolarius) |
+| FALSA CORAL | (Erythrolamprus bizona) |
+
+SERIES DENTARIAS
+
+SOLENOGLIFAS  
+CONSTA DE COLMILLOS RELATIVAMENTE LARGOS, SIMILARES A AGUJAS HIPODÉRMICAS, EVOLUCIONADOS PARA LA INOCULACIÓN PROFUNDA DE VENENO.  
+MUY PELIGROSA
+
+PROTEROGLIFAS  
+TIENEN UN COLMILLO FIJO, ACANALADO DELANTERO A CADA LADO DEL MAXILAR, CONECTADO A UNA PEQUEÑA GLÁNDULA CON VENENO.  
+PELIGROSA
+
+OPISTOGLIFAS  
+TIENEN UN COLMILLO PEQUEÑO FIJO, ACANALADO TRASERO A CADA LADO DEL MAXILAR, CONECTADO A UNA PEQUEÑA GLÁNDULA CON VENENO.  
+MODERADAMENTE PELIGROSA
+
+AGLIFAS  
+NO TIENEN COLMILLOS CAPACES DE INYECTAR VENENO.  
+NO PELIGROSA--------------------------------------------------------------------------------
+Mordeduras, Venenos y serpientes venenosas de Colombia (https://serpientes.ins.gov.co/CapsES/SerpientesCol-CAP01_ESP.pdf)
+ [wordlim: 200] Published: 1.3 years ago; Mordeduras, Venenos y serpientes venenosas de Colombia ... <td><i>Micrurus dumerilii*</i></td> ... INS
+Mordeduras, Venenos y serpientes venenosas de Colombia
+
+<table id="e1">
+<tr>
+<td><i>Crotalus durissus</i></td>
+<td>No</td>
+<td>No</td>
+<td>Ant, Ara, Atl, Bol, Boy, Ces, Cun, Hui, LaG, Mag, Met, Tol, Vic</td>
+<td>7—1717, x̄ = 235</td>
+</tr>
+<tr>
+<td><i>Porthidium lansbergii*</i></td>
+<td>No</td>
+<td>Si</td>
+<td>Ant, Atla, Bol, Boy, Cas, Ces, Cho, Cór, Hui, LaG, Mag, NSa, San, Suc, Tol</td>
+<td>0—1243, x̄ = 782</td>
+</tr>
+<tr>
+<td><i>Porthidium nasutum</i></td>
+<td>No</td>
+<td>No</td>
+<td>Ant, Cho, Val</td>
+<td>12—1011, x̄ = 307</td>
+</tr>
+<tr>
+<td><i>Micrurus dumerilii*</i></td>
+<td>No</td>
+<td>Si</td>
+<td>Ant, Atl, Bol, Boy, Cal, Cau, Cesar, Cho, Cór, Cun, Hui, LaG, Mag, Met, Nar, NSa, Ris, San, Suc, Tol, Val,</td>
+<td>2—2278, x̄ = 815</td>
+</tr>
+<tr>
+<td><i>Micrurus mipartitus*</i></td>
+<td>No</td>
+<td>Si</td>
+<td>Ant, Boy, Cal, Cau, Ces, Cho, Cór, Cun, Hui, Mag, Met, Nar, NSa, Ris, San, Suc, Tol, Val,</td>
+<td>11—2606, x̄ = 1204</td>
+</tr>
+<tr>
+<td colspan="5"><b>Serpientes que muerden frecuentemente, pero rara vez causan envenenamientos graves o potencialmente mortales</b></td>
+--------------------------------------------------------------------------------
+Serpientes Serpientes venenosas en cautiverio: Una historia de lecciones aprendidas (https://serpientes.ins.gov.co/Paginas/es/8.aspx)
+ [wordlim: 200] Crawled: last week; Caso 1: Micrurus dumerilii INSV-SR-109
+
+Condición de salud de la serpiente durante el ingreso.— Una serpiente hembra adulta (LRC: 680 mm; LC: 65 mm; peso: 59,8 g) proveniente de Viotá, Cundinamarca, Colombia, ingresó en julio de 2016 presentando una lesión musculoesquelética en el primer tercio del cuerpo, mostrando una herida en la piel con una depresión cóncava posiblemente causada por aplastamiento o por un golpe con objeto contundente, provocando ataxia y limitando los movimientos serpenteantes naturales del cuerpo posteriores al golpe.
+
+Caso 1: Micrurus dumerilii INSV-SR-109
+
+Condición de salud de la serpiente durante el ingreso.— Una serpiente hembra adulta (LRC: 680 mm; LC: 65 mm; peso: 59,8 g) proveniente de Viotá, Cundinamarca, Colombia, ingresó en julio de 2016 presentando una lesión musculoesquelética en el primer tercio del cuerpo, mostrando una herida en la piel con una depresión cóncava posiblemente causada por aplastamiento o por un golpe con objeto contundente, provocando ataxia y limitando los movimientos serpenteantes naturales del cuerpo posteriores al golpe. La serpiente permaneció en posiciones anatómicas anormales en el encierro, invirtiendo la posición del cuerpo (superficie ventral del cuerpo visible desde arriba) después de la lesión; sin mostrar comportamientos normales como esconderse en el sustrato.
+
+Consideraciones veterinarias en el manejo en cautiverio.— Un mes después del ingreso, la serpiente presentó pérdida de peso (normal al principio de la cautividad). En la zona de la lesión, se observó una estructura similar a una costilla sobresaliendo de la piel, exhibiendo necrosis alrededor de la herida. Sin embargo, en contra de todas las expectativas, la serpiente vivió durante seis años (hasta el 22 de junio de 2022) e hizo parte del esquema de producción, así como de las actividades rutinarias de extracción de veneno y alimentación.
+
+En el momento de su fallecimiento, la necropsia no proporcionó una causa concluyente de la muerte. Sin embargo, durante los últimos diez meses antes de la muerte, la serpiente mostró un deterioro de la salud, exhibiendo pérdida de peso y retención de la muda en todo el cuerpo, así como una inmovilidad general progresiva, signos claros de envejecimiento en reptiles geriátricos [45].
+
+Caso 2: Micrurus dumerilii INSV-SR-113
+
+Condición de salud de la serpiente durante el ingreso.— Una serpiente hembra adulta (LRC: 690 mm; LC: 82 mm; peso: 60,3 g) proveniente de San Onofre, Sucre, Colombia, ingresó el 17 de septiembre de 2017, presentando buenas condiciones de salud.
+
+Consideraciones veterinarias en el manejo en cautiverio.— Un mes después del ingreso, la serpiente presentó pérdida de peso (normal al comienzo de la cautividad), mostrando opacidad en las escamas internasales y parietales. --------------------------------------------------------------------------------
+DIFERENCIAS ENTRE SERPIENTES VENENOSAS Y NO VENENOSAS (https://www.ins.gov.co/Comunicaciones/Infografias/PLEGABLE%20COMO%20DIFERENCIAR%20SERPIENTES.pdf)
+ [wordlim: 200] Published: 9.1 years ago; Crawled: last year; DIFERENCIAS ENTRE SERPIENTES VENENOSAS Y NO VENENOSAS ... CORAL (Micrurus dumerilii)
+DIFERENCIAS ENTRE SERPIENTES VENENOSAS Y NO VENENOSAS
+
+SERPIENTES VENENOSAS
+
+VIPÉRIDOS
+
+VÍBORAS VERDADERAS
+
+SOLENOGLIFAS
+
+AGLIFAS
+
+ELÁPIDOS
+
+CORALES VERDADERAS
+
+Cabeza | Cola
+
+CORAL (Micrurus dissoleucus)  
+RABO DE AJÍ (Micrurus mipartitus)  
+CORAL (Micrurus dumerilii)  
+CORAL DE AGUA (Micrurus surinamensis)
+
+Cabeza | Cola
+
+CORALES FALSAS
+
+CANDELILLA (Pseudoboa neuwiedii)  
+MORICHALERA (Siphlophis compressus)  
+CORALILLA (Oxyrhopus petolarius)  
+FALSA CORAL (Erythrolamprus bizona)
+
+SERIES DENTARIAS
+
+SOLENOGLIFAS  
+CONSTA DE COLMILLOS RELATIVAMENTE LARGOS, SIMILARES A AGUJAS HIPODÉRMICAS, EVOLUCIONADOS PARA LA INOCULACIÓN PROFUNDA DE VENENO.  
+MUY PELIGROSA
+
+PROTEROGLIFAS  
+TIENEN UN COLMILLO FIJO, ACANALADO DELANTERO A CADA LADO DEL MAXILAR, CONECTADO A UNA PEQUEÑA GLÁNDULA CON VENENO.  
+PELIGROSA
+
+OPISTOGLIFAS  
+TIENEN UN COLMILLO PEQUEÑO FIJO, ACANALADO TRASERO A CADA LADO DEL MAXILAR, CONECTADO A UNA PEQUEÑA GLÁNDULA CON VENENO.  
+MODERADAMENTE PELIGROSA
+
+AGLIFAS  
+NO TIENEN COLMILLOS CAPACES DE INYECTAR VENENO.  
+--------------------------------------------------------------------------------
+and by preys (Götmark, 1987). There are some evidences of disruptive coloration function of the viper's zigzag pattern (Cott 1940; Edmunds 1974; Shine and Madsen 1994), but most of the studies, including recent ones, confirm an aposematic function (Andrén and Nilson 1981; Forsman 1995; Lindell and Forsman 1996; Wüster *et al*., 2004; Niskanen and Mappes, 2005; Valkonen *et al*., 2011). It has been shown that even vipers with an aposematic color pattern (e.g. *Vipera berus*) can appear cryptic against their natural background from a distance (Sherrat and Beatty 2003; Tulberg *et al*., 2005). (https://backoffice.biblio.ugent.be/download/4246982/4336883)
+ [wordlim: 200] Published: 13.0 years ago; Crawled: 2 weeks ago; There are some evidences of disruptive coloration function of the viper's zigzag pattern (Cott 1940; Edmunds 1974; Shine and Madsen 1994), but most of the studies, including recent ones, confirm an aposematic function (Andrén and Nilson 1981; Forsman 1995; Lindell and Forsman 1996; Wüster *et al*., 2004; Niskanen and Mappes, 2005; Valkonen *et al*., 2011). ... Dorsal color pattern variation in the *Montivipera raddei* species complex may be the result of a complex trade-off between adaption to vegetation and stones color.
+
+Dorsal color pattern variation in the *Montivipera raddei* species complex may be the result of a complex trade-off between adaption to vegetation and stones color. In *M. latifii* and *M. albicornuta*, inhabiting habitats with bushy vegetation, a dorsal ground color is significantly associated with the stone color. But in *M. raddei* that occupying habitats with tree vegetation, all the examined populations, regardless of inhabiting a medium or dark substrate, had a dark dorsal ground color. It seems that tree vegetation, with wide fields of shadow, brings more cryptic advantages for vipers with a dark ground color, even on medium color stones.
+
+Although juvenile specimens were not included in this study, field observations show the coloration in juvenile specimens is paler than adults. Additional field expeditions and researches are needed to analyze the color pattern of juvenile specimens of the *Montivipera raddei* species complex.
+
+In a phylogenetic context (following Stümpel and Joger, 2009), the basal clade, *Montivipera latifii*, is color polymorphic, with three described dorsal patterns within the Lar population. Of those, the dorsal zigzag pattern over a light ground color is the most frequent morph in this species (Figure 3-6).
+
+57--------------------------------------------------------------------------------
+Serpientes_ColombiaVDigital.indd (https://www.conservation.org.co/media/Serpientes_ColombiaVDigital.pdf)
+ [wordlim: 200] Published: 1.4 years ago; Se alimenta de lagartos y serpientes (Corporación Paisajes Rurales y PNUD 2020). ... Micrurus dumerilii
+Micrurus sangilensis  
+Coral sangileña
+
+Longitud total: hasta 60 cm. Colombia. ENDÉMICA. 1000-2300 m. ANDES (CORDILLERA ORIENTAL). Boyacá, Cesar, Norte de Santander, Santander. Ovípara, nocturna, terrestre. En algunos individuos, el negro que bordea por fuera las bandas blancas está más desarrollado, formando casi tríadas negras. Se alimenta de lagartos y serpientes (Corporación Paisajes Rurales y PNUD 2020). El nombre alude al municipio de San Gil, Santander, donde fue descubierta en 1937. Conservación: Vulnerable. VENENOSA.
+
+(Fotos: arriba, Juan Sebastián Hurtado; abajo, Omar Daniel León-Alvarado, iNaturalist, CC-BY-NC).
+
+Micrurus dumerilii  
+Coral de capucha negra
+
+Longitud total: hasta 96 cm. Datos de longitud total de 1.9-2.17 m (Corporación Paisajes Rurales y PNUD 2020) claramente se tratan de un error (ver Meneses-Pelayo & Caicedo-Portilla 2015). Sureste de Panamá a norte de Ecuador y noroeste de Venezuela. 0-2200 m. ANDES, CARIBE, VALLE DEL MAGDALENA. Antioquia, Atlántico, Bolívar, Boyacá, Cauca, Cesar, Chocó, Córdoba, Cundinamarca, Guajira, Magdalena, Nariño, Norte de Santander, Risaralda, Santander, Sucre, Tolima, Valle. Ovípara, diurna, terrestre. Se alimenta de pequeños vertebrados, incluyendo lagartos, anguilas de pantano, cecilias e incluso otras corales (Herrera-Lopera et al. 2018, Rodríguez-Guerrero 2020c, Barrera-Ocampo & Díaz-Flórez 2023). Los anillos blancos están casi ausentes en algunas poblaciones del Pacífico (subsp. transandinus); en las poblaciones del Caribe (subsp. dumerilii), los anillos negros forman tríadas. Nombrada en honor a Auguste M. C. Dumeril (1812-1870), herpetólogo francés. Conservación: Preocupación menor. VENENOSA.
+
+(Fotos: arriba izquierda, Cristian Londoño, iNaturalist, CC-BY-NC; arriba derecha, Luis Calderón Franco, iNaturalist, CC-BY-NC; centro, Sharon Andrea Céspedes; abajo, Andrés Camilo Montes-Correa, iNaturalist, CC-BY-NC).
+
+110--------------------------------------------------------------------------------
+Chapter 2 (https://serpientes.ins.gov.co/en/Paginas/2.aspx)
+ [wordlim: 200] Crawled: last week; Triads: rings in the body arranged in three colors, with three black rings, separated by light colored rings, which are together between the bright rings. ... We compiled literature data of 34 proteomes belonging to 28 Micrurus species (Table 1). ... Micrurus altirostris  | Triadal + Bicolored  | 65.8  | 79.5  | 13.7  | 0.9  | 1.2  | 2.1  | 0.1  |
+The head and tail in these species normally have black rings arranged between a bright color (red or orange).
+  2. Monads: rings in the body in three colors, with one black ring between the brightly colored rings, and separated from these by light colored rings. The head and tail in these species normally have rings with a light color and black. The name of this color pattern refers to the number of black rings (one) between the brightly colored ones. This color pattern has evolved independently in Micruroides and a monophyletic clade of Micrurus.
+  3. Triads: rings in the body arranged in three colors, with three black rings, separated by light colored rings, which are together between the bright rings. The head and tail ring arrangement are variable but normally is similar to that of the body. The name of this color pattern refers to the number of black rings (three) between the brightly colored ones. This color pattern occurs independently in one large South American clade and in two Central American species.
+Micrurus corallinus  | USNM253597  | 
+ | 
+ | 
+ | JF308715  | 
+Micrurus decoratus  | IVB 2453  | 
+ | 
+ | 
+ | AF228441  | 
+Micrurus diastema  | M299  | 
+ | 
+ | MG947767  | MG947683  | 
+Micrurus dissoleucus  | UTAM673  | 
+ | 
+ | 
+ | JF308717  | 
+Micrurus distans  | M301  | 
+ | 
+ | MG947768  | MG947685  | 
+Micrurus diutius  | CAS231787  | MK534136  | MK534149  | MK534168  | K534178  | MK534158
+Micrurus dumerilii  | MECN2881  | 
+ | 
+ | 
+ | KP998035  | 
+Micrurus elegans  | M48  | 
+ | 
+ | MG947782  | MG947710  | 
+Micrurus ephippifer  | M336  | 
+ | 
+ | 
+ | MG947697  | 
+Micrurus filiformis  | ICN11380  | MW665121  | MT862136  | 
+ | MW662060  | MW662077
+Micrurus frontalis  | CEPB1587  | 
+ | 
+ | 
+ | AF228425  | 
+Micrurus fulvius  | Mitohondrion  | GU045453  | GU045453  | GU045453  | GU045453  | 
+Micrurus helleri  | AF4455  | MW665123  | MW672259  | MW662069  | MW662067  | MW662081
+Micrurus ibiboboca  | YPX161  | YPX161  | 
+ | 
+ | YPX161  | 
+Micrurus laticollaris  | UTAM673  | 
+--------------------------------------------------------------------------------
+Mordeduras, Venenos y serpientes venenosas de Colombia (https://serpientes.ins.gov.co/CapsES/SerpientesCol-CAP02_ESP.pdf)
+ [wordlim: 200] Published: 1.3 years ago; Mordeduras, Venenos y serpientes venenosas de Colombia ... <tr><td><i>Micrurus dumerilii</i></td><td>MECN2881</td><td></td><td></td><td>KP998035</td><td></td><td></td></tr>
+Mordeduras, Venenos y serpientes venenosas de Colombia
+
+<table id="e1">
+<tr><td><i>Micrurus circinalis</i></td><td>UWIZM2011.19.7</td><td>MK534131</td><td>MK534141</td><td>MK534160</td><td>MK534170</td><td>MK534151</td></tr>
+<tr><td><i>Micrurus corallinus</i></td><td>USNM253597</td><td></td><td></td><td>JF308715</td><td></td><td></td></tr>
+<tr><td><i>Micrurus decoratus</i></td><td>IVB 2453</td><td></td><td></td><td>AF228441</td><td></td><td></td></tr>
+<tr><td><i>Micrurus diastema</i></td><td>M299</td><td></td><td></td><td>MG947767</td><td>MG947683</td><td></td></tr>
+<tr><td><i>Micrurus dissoleucus</i></td><td>UTAM673</td><td></td><td></td><td>JF308717</td><td></td><td></td></tr>
+<tr><td><i>Micrurus distans</i></td><td>M301</td><td></td><td></td><td>MG947768</td><td>MG947685</td><td></td></tr>
+<tr><td><i>Micrurus diutius</i></td><td>CAS231787</td><td>MK534136</td><td>MK534149</td><td>MK534168</td><td>K534178</td><td>MK534158</td></tr>
+<tr><td><i>Micrurus dumerilii</i></td><td>MECN2881</td><td></td><td></td><td>KP998035</td><td></td><td></td></tr>
+--------------------------------------------------------------------------------
+How to Identify Radde's Mountain Viper (Identification Guide) (https://www.snakeidentifier.com/encyclopedia/radde-s-mountain-viper/identification-guide)
+ [wordlim: 200] Crawled: 3 weeks ago; Radde's Mountain Viper (Montivipera raddei) is identified by its stout, heavy body, a broad triangular head distinct from the neck, and a striking pattern of large dark brown to black blotches or crossbands set against a pale gray, tan, or yellowish-brown background. ... ## Coloration & pattern
+--------------------------------------------------------------------------------
+Dorsal colour pattern variation in Eurasian mountain vipers (genus Montivipera): A trade-off between thermoregulation and crypsis (https://www.academia.edu/87348703/Dorsal_colour_pattern_variation_in_Eurasian_mountain_vipers_genus_Montivipera_A_trade_off_between_thermoregulation_and_crypsis)
+ [wordlim: 200] Published: 11.6 years ago; Crawled: 2 days ago; Montivipera raddei albicornuta variation in MRC’s colour pattern could be linked to speciﬁc This subspecies inhabits the Zanjan valley (Fig. 1 and Appendix environmental factors.
+--------------------------------------------------------------------------------
+MCZbase MCZ:Herp:R-11865 specimen record | MCZbase (https://mczbase.mcz.harvard.edu/guid/MCZ%3AHerp%3AR-11865)
+ [wordlim: 200] Crawled: last week; ## Micrurus dumerilii colombianus Griffin, 1916 ... Current Identification ... Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Elapidae
+--------------------------------------------------------------------------------
+Spécimen - Micrurus dumerilii (Jan, 1858) (https://science.mnhn.fr/institution/mnhn/collection/ra/item/0.3923?lang=fr_FR)
+ [wordlim: 200] Crawled: 2 days ago; # Micrurus dumerilii (Jan, 1858)
+
+Identification de l'item :
+--------------------------------------------------------------------------------
+Micrurus dumerilii – Serpientes de Venezuela (https://serpientesdevenezuela.org/micrurus-dumerilii/)
+ [wordlim: 200] Crawled: last month; Nombre científico: Micrurus dumerilii. ... Serpiente venenosa.
+--------------------------------------------------------------------------------
+Figure 6 - from Taxonomic key to the snakes (Squamata: (https://www.academia.edu/figures/37996808/figure-6-comparative-lateral-view-of-coral-snakes-midbody)
+ [wordlim: 200] Crawled: 4 days ago; Comparative lateral view of coral snakes midbody: (A) Micrurus altirostris (Cope 1859), showing rings grouped in triads and (B) Micrurus corallinus (Merrem 1820) showing rings grouped in monads.
+--------------------------------------------------------------------------------
+Micrurus dumerilii (https://www.cervantesvirtual.com/obra/micrurus-dumerilii-1275631/)
+ [wordlim: 200] Published: 3.9 years ago; Crawled: last month;   * Micrurus dumerilii Enlace externo en Biblioteca Virtual del Banco de la República ...     * Resumen: Serpiente venenosa proteroglifa (1) que mide entre 50 y 70 cm.
+--------------------------------------------------------------------------------
+What Armenian Viper Looks Like in the Field – Fire Of Roots (https://www.fireofroots.co.uk/item/armenian-viper-appearance/)
+ [wordlim: 200] Published: 3 months ago; Crawled: 2 months ago; In the field, Montivipera raddei is readily identified by its striking, disruptive coloration and robust, stocky build. ... This base color is overlaid with a series of large, dark brown or blackish, irregularly shaped blotches that form a broken or zigzag pattern along the back.
+--------------------------------------------------------------------------------
+Coralsnake Diversity in Brazil (https://www.researchgate.net/publication/354512227_Coralsnake_Diversity_in_Brazil)
+ [wordlim: 200] Published: 5.3 years ago; Crawled: 4 months ago; Micrurus frontalis altirostris Shreve 1953: 2. ... males); the body triads = 8–20 (8–20 in males, 11–19
+--------------------------------------------------------------------------------
+List of snakes of Colombia (https://en.wikipedia.org/wiki/List_of_snakes_of_Colombia)
+ [wordlim: 200] Crawled: last month;  Micrurus dumerilii | Capuchin Coral Snake | Pacific lowlands, Gorgona Island, Andean region, Santa Marta Mountains |
+--------------------------------------------------------------------------------
+Micrurus dumerilii (https://en.wikipedia.org/wiki/Micrurus_dumerilii)
+ [wordlim: 200] Crawled: 2 months ago; The preferred natural habitat of Micrurus dumerilii is forest, especially near water, at elevations from near sea level to 2,133 m (6,998 ft). ... Coral Snakes of the Americas: Biology, Identification, and Venoms.
+--------------------------------------------------------------------------------
+Micrurus dumerilii (https://fr.wikipedia.org/wiki/Micrurus_dumerilii)
+ [wordlim: 200] Crawled: 2 weeks ago;  Description de l'image Micrurus dumerilii.jpg.
+--------------------------------------------------------------------------------
+Micrurus (https://en.wikipedia.org/wiki/Micrurus)
+ [wordlim: 200] Crawled: 5 days ago; * Micrurus dumerilii (Jan, 1858) – Capuchin coral snake
+--------------------------------------------------------------------------------
+List of reptiles of Brazil (https://en.wikipedia.org/wiki/List_of_reptiles_of_Brazil)
+ [wordlim: 200] Crawled: today; * Micrurus hemprichii (Jan, 1858) ... * Micrurus mipartitus (Duméril, Bibron & Duméril)
+--------------------------------------------------------------------------------
+Micrurus (https://it.wikipedia.org/wiki/Micrurus)
+ [wordlim: 200] Crawled: last month; * Micrurus dumerilii (Jan, 1858) – serpente corallo cappuccino
+

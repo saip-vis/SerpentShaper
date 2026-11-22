@@ -1,0 +1,357 @@
+National Taiwan Museum-Works (https://collections.culture.tw/ntm_collectionsweb/EN/Collection?GID=04M6MZ0EMB)
+ [wordlim: 200] Crawled: last month;     * scientific_name:Protobothrops mucrosquamatus ...       * country_id:tw ...   * description_info
+
+Home > Works
+
+## Works
+
+Brown spotted pitviper
+
+  * species_info
+    * english title:Brown spotted pitviper
+    * scientific_name:Protobothrops mucrosquamatus
+    * DIVISION:Chordata
+    * subphylum:Vertebrata
+    * class:Reptilia
+    * subclass:Eureptilia
+    * orders:Squamata
+    * suborder:Ophidia
+    * family:Viperidae
+    * subfamily:Crotalinae
+    * genus:Protobothrops
+    * species:mucrosquamatus
+    * species_author:(Cantor)
+    * species_pub_year:1864
+    * common name
+      * common name english:Pointed-scaled pitviper, Turtle-designed Snake, Taiwan "Habu"
+  * collection_content
+    * collection_locality
+      * country_id:tw
+      * country_en:Republic of China
+      * subdivision_1_en:Taiwan
+      * locality_en:Taiwan
+    * collection_info
+      * quantity:1
+    * collection_feature
+      * S-V length:1170  mm
+      * SEX:MA
+    * collection_record
+      * catalog no:TMRS0073
+      * CAT_NO:RE.0016
+      * :1945/11/13
+  * description_info
+    * description:性別：雄性成體，吻肛長：1170 mm，尾長：254 mm。浸液標本。
+本種全長最大約可達150公分，頭大且呈三角形，頸細，於眼、鼻間具有頰窩，毒牙大，有強烈的出血性毒；體背面淡褐、黃褐或紅褐色，上有大型不規則的黑褐色斑塊，眼後到後頭部有一黑褐色縱紋，頭頂有不規則的雲斑，體背鱗有稜脊，腹鱗平滑；體中段鱗列數為27列。
+分布於臺灣全島及龜山島1,500公尺以下地區。另中國大陸南部、印度、緬甸、越南也有分布。夜行性，喜棲於山區樹林之邊緣地帶或農墾地、溪流邊等；有些個體攻擊性強，遇晃動的光影便會攻擊。卵生，於夏季產卵，每窩約可產卵3～15枚，孵化期約1～1.5個月，雌蛇有護卵行為，仔蛇長約22公分。以蛙、蜥蜴、鳥、小型哺乳動物等為食。
+撰寫者：林俊聰--------------------------------------------------------------------------------
+Protobothrops mucrosquamatus | The Reptile Database (https://reptile-database.reptarium.cz/Protobothrops/mucrosquamatus)
+ [wordlim: 200] Crawled: today; # Protobothrops mucrosquamatus (CANTOR, 1839) ... Description of a New Species of Protobothrops Genus.
+2006
+Protobothrops mucrosquamatus — WALLACH et al. 2014: 573
+Protobothrops mucrosquamatus — WANG et al. 2022 
+Distribution  | India (Assam; Mizoram, Arunachal Pradesh (Itanagar – Papum Pare district) [A. Captain, pers. Comm.], Mizoram, Nagaland and other regions), Myanmar (= Burma), N/C Vietnam (Hoa Binh), Laos, Thailand (Nan),
+S China (from Yunnan north to Gansu in the west, east to Zhejiang; Fukien, Kwangsi, Kwangtun, Sichuan, Hainan, Fujian), Taiwan
+Introduced to Japan (with stable populations on Okinawa, fide Ibuki Fukuyama, pers. comm., 8 Sep 2023)
+Type locality: Naga Hills, Assam, India.  
+Reproduction  | oviparous 
+Types  | Holotype: Unknown; original description probably based on colored drawing no. 18 in Bodleian Library, Oxford) (fide LEVITON et al. 2003). 
+Diagnosis  | DIAGNOSIS (DIAGNOSTIC CHARACTERS). Scales in 25 longitudinal rows at midbody; scales on upper surface of head, small, each scale keeled posteriorly; internasals 5–10 times size of adjacent scales, separated by 3–4 scales; supraoculars, long, narrow, undivided, 14–16 small interocular scales in line between them; 2 scales on line between upper preocular and nasal; 9–11 upper labials, first upper labial separated from nasal by suture; 2–3 small scales between upper labials and subocular; 2–3 rows of temporal scales above upper labials smooth, above those scales keeled; ventrals 200–218; subcaudals 76–91, all paired; grayish or olive brown above, with dorsal series of large brown, black-edged spots or blotches, and a lateral series of smaller spots; head above brownish, below whitish; belly whitish but heavily powdered with light brown; tail brownish (possibly pink in life [fide Smith 1943:507]), with series of dark dorsal spots; hemipenes spinose. Total length males 1122 mm, females 1160; tail length males 195 mm, females 205 mm. [after LEVITON 2003]
+ 
+Comment  | Venomous!
+Distribution: Possibly in Bhutan (Lenz 2012). See map in Guo et a. 2016: 383 (Fig. 1), Grassby-Lewis et al. 2025: 45 (Fig. 1). Not in Bangladesh fide Al Haidar et al. 2025.
+NMo cryptic taxon is present within this widely distributed snake (Guo et al. 2019) 
+Etymology  | Named after the Latin nominative singular mucronis, "sharp point," and –atus, "pertaining to", and the keeled body scales (Latin “squama” = scale). 
+--------------------------------------------------------------------------------
+Reptile of Hong Kong (https://www.biosch.hku.hk/ecology/hkreptiles/snake/Protobothrops_mucrosquamatus.html)
+ [wordlim: 200] Crawled: last month; # Protobothrops mucrosquamatus (Cantor, 1839) ... Species  | Protobothrops mucrosquamatus
+
+# Protobothrops mucrosquamatus (Cantor, 1839)
+Pointed-scale Pit Viper 烙鐵頭
+(Venomous)
+
+* Photos taken in Taiwan
+Order
+Suborder  | Squamata 有鱗目
+Serpentes 蛇亞目
+Family  | Viperidae 蝰蛇科
+Genus  | Protobothrops 原矛頭蝮屬
+Species  | Protobothrops mucrosquamatus
+Other name  | Brown spotted pitviper
+Chinese name  | 原矛頭蝮
+Total length  | Records from China, Average 85 cm, can grow up to 130 cm.
+Description  | Back brown or reddish brown, with a row of dark purple blotches along dorsum and lateral sides.
+Blotches united posteriorly to form a wavy pattern.
+Ventrals pale grey, with light brown.
+Body long and slender. Head triangular, brown above, whitish below. A heat-sensing pit between eye and nostril.
+Eyes with vertical, slit-like pupil. A greyish stripes extend from behind of each eye to the neck. Tail long.
+Long and slender body separates it from the stockier Mountain Pit viper (Ovophis monticola makazayazaya)
+Habitat  | Hillsides species, inhabits bamboo thickets, shrubland and cultivated field.
+Behaviour  | Predominantly nocturnal, but can be seen in daytime.
+A fierce snake, strike readily even from long distance.
+Diet  | Small rodents, frog, lizards.
+Reproduction  | Oviparous. Is reported with litter size 5- 13. Hatchling 25 cm in total length.
+Distribution  | Rare in Hong Kong with only 2 known records.
+In 2002, four dead specimens was found on road near Kei Ling Ha (企嶺下).
+In December 2004, a live adult was found in Ko Tong (高塘), Sai Kung.
+It cannot be ruled out that the individuals found were released or escaped, but the two distant localities where it was found suggest that there may be a wild population. Its status in Hong Kong is still uncertain and need further survey to confirm.
+Occurs in Central to southern China, Taiwan, India, Burma and Vietnam; introduced to Okinawa Japan.
+Conservation Status  | IUCN Redlist: NE (Not Evaluated)--------------------------------------------------------------------------------
+<4D6963726F736F667420576F7264202D203936BB4FC657B2A3AAA6C2CEC3FEAABAA4C0A5ACBDD5AC64202D2D2D2D20AAE1BDACA661B0CFAAA6C2CEACDBA4A7BDD5AC645FA4475F2E646F63> (https://file.moc.gov.tw/Download.ashx?n=MWQzNjFiNWItZjA2Yi00N2MwLWJlMDUtZTc3MDIwYTFkNWVkLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvT2xkRmlsZXMvQWRtaW5VcGxvYWRzL250bWhpc3RvcnkvMWQzNjFiNWItZjA2Yi00N2MwLWJlMDUtZTc3MDIwYTFkNWVkLnBkZg%3D%3D)
+ [wordlim: 200] Published: 18.5 years ago; Crawled: last week; **學名：** *Protobothrops mucrosquamatus* (Cantor, 1839)
+（三）蝮蛇科（Viperidae）
+
+## 06. 龜殼花，烙鐵頭
+
+**學名：** *Protobothrops mucrosquamatus* (Cantor, 1839)
+
+**英文名：** Turtle-designed Snake，Pointed-scaled Pitviper
+
+體長最大約可達 150 公分，頭大且呈三角形，頸細，於眼、鼻間具有頰窩，毒牙大，有強烈的出血性毒，體背面淡褐、黃褐或紅褐色，上有大型不規則的黑褐色斑塊，眼後到後頭部有一黑褐色縱紋，頭頂有不規則的雲斑，體背鱗有稜脊，腹鱗平滑；體中段鱗列數為 27 列。
+
+分布於臺灣全島及龜山島 1,500 公尺以下地區。另中國大陸南部、印度、緬甸、越南也有分布。夜行性，喜棲於山區樹林之邊緣地帶或農墾地、溪流邊等；有些個體攻擊性強，遇晃動的光影便會攻擊。
+
+卵生，卵產於夏季，每窩約可產卵 3～15 枚，孵化期約 1～1.5 個月，雌蛇有護卵行為，仔蛇長約 22 公分。以蛙、蜥蜴、鳥、小型哺乳動物等為食。
+
+<visual_element id="e1">
+照片：龜殼花（烙鐵頭）。蛇體呈盤繞狀，位於草叢及枯枝落葉之間。體色為褐色至紅褐色，背部具有大型不規則深褐色斑塊及斑紋，與周圍草木環境形成保護色。照片為蛇的自然棲息環境中的近距離俯視畫面。
+</visual_element>
+
+頁碼：8--------------------------------------------------------------------------------
+Protobothrops mucrosquamatus / Invasive Species of Japan (https://www.nies.go.jp/biodiversity/invasive/DB/detail/30130e.html)
+ [wordlim: 200] Crawled: 2 weeks ago;   * Terada (2011) The distribution, population density and controls of Protobothrops mucrosquamatus, Protobothrops elegans, Elaphe taeniura friesei, 3 snake species established on Okinawa Island.
+
+# Protobothrops mucrosquamatus
+Basic information
+Scientific name  | Protobothrops mucrosquamatus  | Click to magnify
+Major synonym  | Trimeresurus mucrosquamatus
+Common names  | Taiwan habu
+Higher taxon  | Viperidae, Ophidia (Serpentia), Squamata, Reptilia
+Natural range  | Southern continental China, Hainan Is. and Taiwan.
+Habitat  | Forest to urban area in low land to 1500m alt.
+Invasion information
+Range in Japan  | Okinawajima Is. (Nago City and Onna Village)  | Image: Range in Japan
+Origin  | East Asia.
+Date  | This species wad imported since 1970s. The first record in the field was in 1993 at Nago, and in 2005 at Onna.
+Route  | Deliberate: Imported for exhibition in zoo and for medicine.
+Impact  | Predation, competition, hybridization. Biting on human
+Native organism(s) affected: Predation, competition, hybridization, and biting on human.
+Regulation in Japan  | Import, transport and keeping are prohibited in Japan by the Invasive Alien Species Act.
+Introduced range in other countries  | None.
+Reference  | Notes
+
+  * Ecol Soc Jpn (ed) (2002) Handbook of Alien Species in Japan. Chijinshokan, Tokyo (in Jpn)
+  * Katsuren et al. (1996) Number of snakes arriving alive in mass into Okinawa by Traders. Rep Okinawa Pref Inst Health Environ. 30, 133-136 (in Jpn)
+  * Maenosono & Toda (2007) Distribution of amphibians and terrestrial reptiles in the Ryukyu Archipelago: A review of published records. Akamata. 18, 28-46 (in Jpn)
+  * Ota et al. (2004) Feral populations of amphibians and reptiles in the Ryukyu Archipelago, Japan. Global Environ Res. 8(2), 133-143.
+  * Takada & Otani (2011) Key to the Illustrated manual of Japanese Reptiles and Amphibians in natural Color. Hokuryukan, Tokyo (in Jpn)
+  * Terada (2011) The distribution, population density and controls of Protobothrops mucrosquamatus, Protobothrops elegans, Elaphe taeniura friesei, 3 snake species established on Okinawa Island. Bull Herpetol Soc Jpn. 2011(2), 161-167 (in Jpn)
+  * etc.--------------------------------------------------------------------------------
+MCZbase MCZ:Herp:R-32423 specimen record | MCZbase (https://mczbase.mcz.harvard.edu/guid/MCZ%3AHerp%3AR-32423)
+ [wordlim: 200] Crawled: last week; Shows Cataloged Item: MCZ:Herp:R-32423 Protobothrops mucrosquamatus Description
+
+# MCZ Herpetology R-32423
+
+## Protobothrops mucrosquamatus (Cantor, 1839)
+
+Date Collected:
+
+## 1928-06-02
+
+## Asia: China: Guangxi Zhuang | Kwangsi, Lo-shiang
+
+occurrenceID: https://mczbase.mcz.harvard.edu/guid/MCZ:Herp:R-32423
+
+### Media (1)
+
+(Media Record) (Related) (File)
+
+Shows Cataloged Item: MCZ:Herp:R-32423 Protobothrops mucrosquamatus Description
+
+### [Button: Cataloged Item ]
+
+  * Collection: Herpetology
+  * Catalog Number: R-32423
+  * GUID: MCZ:Herp:R-32423
+
+### [Button: Identifications ]
+
+Current Identification
+
+Protobothrops mucrosquamatus (Cantor, 1839)
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Viperidae
+
+Determiner: Achyuthan Srikanthan on 2022-09-20
+
+Nature of ID: revised taxonomy
+
+Previous Identification
+
+Trimeresurus microsquamatus
+
+Animalia Chordata Reptilia Lepidosauromorpha Squamata Serpentes Colubroidea Viperidae
+
+Determiner: Catalog
+--------------------------------------------------------------------------------
+# 龜殼花
+
+學名：*Protobothrops mucrosquamatus*
+
+保育類：Prot (https://webpac.tad.gov.tw/ebook/A10005909.pdf)
+ [wordlim: 200] Published: 21.9 years ago; Crawled: 3 days ago; 學名：*Protobothrops mucrosquamatus*
+# 龜殼花
+
+學名：*Protobothrops mucrosquamatus*
+
+保育類：Protected
+
+龜殼花別稱「烙鐵頭」，是臺灣六大毒蛇之一，頭部上有斑紋，呈明顯的三角形，體背是黃褐色，廣布黑色斑塊，花紋有如烏龜的外殼，因此得名。牠是夜行性動物，以蛙、鼠、鳥和蜥蜴為食，普遍分布在低、中海拔地區，棲息在農墾地、樹林及廢棄的居舍，攻擊性強，遇異動的光影便立刻攻擊，由於出沒地點與人類活動範圍重疊性高，常遭人捕殺，這也是龜殼花生存較大的危機，如何達到人蛇共存，兼顧人身安全與生態保育，是值得思考的議題。
+
+<visual_element id="e1">
+龜殼花照片：蛇身盤繞，頭部呈三角形，體色為黃褐色，背部具有深色不規則斑塊，外觀花紋類似龜殼。
+</visual_element>
+
+# 阿里山龜殼花
+
+學名：*Trimeresurus monticola orientalis*
+
+保育類：Protected  
+特有亞種：Endemic Subspecies
+
+阿里山龜殼花，別稱「山烙鐵頭」，表示這是居住在山區的龜殼花，分布在臺灣中、低海拔山區。雖然名叫「阿里山」龜殼花，但並非只有阿里山區才有，大屯山、福山、北橫、南橫等地都有零星發現的記錄，最早發現牠是在屏東霧台採集到的。牠的體型短胖，頭呈鈍三角形，也是有毒的蛇，夜間出沒，但行動緩慢，以小型哺乳動物為食。
+
+<visual_element id="e2">
+阿里山龜殼花照片：蛇身呈盤繞狀，體型短胖，頭部呈鈍三角形，背部為灰褐色，具有橘黃色與深色相間的斑塊。
+</visual_element>
+
+## 右側版面文字與分類標示
+
+- Reptiles
+- 爬古獨行客－爬蟲類
+- 常見或代表性物種
+- 動物觀瞭「大阿里山動物生態散記」
+- 頁碼：125--------------------------------------------------------------------------------
+National Taiwan Museum-Works (https://collections.culture.tw/ntm_collectionsweb/EN/Collection?GID=MIM7MEMRMPMAMRMLME)
+ [wordlim: 200] Crawled: 3 days ago;     * scientific_name:Protobothrops mucrosquamatus (Cantor, 1839) ...       * country_id:TW
+
+Home > Works
+
+## Works
+
+龜殼花
+
+  * species_info
+    * scientific_name:Protobothrops mucrosquamatus (Cantor, 1839)
+    * DIVISION:Chordata
+    * class:Squamata
+    * family:Viperidae
+  * collection_content
+    * collection_locality
+      * country_id:TW
+      * country_en:Taiwan
+      * subdivision_1_en:Nantou County
+    * collection_info
+      * Collection Date:1999/09/27
+      * donor_en:Ming-Chung Tu
+      * quantity:1
+    * collection_feature
+      * SEX:female
+    * collection_record
+      * catalog no:TMRS0759--------------------------------------------------------------------------------
+OKINAWA IKIMONO Lab | Okinawan Pit Viper (https://biodiversity.okinawa/en/video_pages/reference/himehabu.html)
+ [wordlim: 200] Crawled: 2 months ago;     Ovophis okinavensis ... Among Habu species found in Okinawa, its size is relatively small with a short and thick body.
+#### Okinawan Pit Viper
+
+Image: Okinawan Pit Viper
+
+English Common Name
+    Okinawan Pit Viper
+Scientific name
+    Ovophis okinavensis
+Taxonomy
+    Order: Squamata, Family: Viperidae
+Size
+    30 cm – 80 cm
+Species Distribution
+    Amami Group, Okinawa Group excluding Kikai, Okierabu, Yoron, and Aguni Islands
+    Back side is dark brown with dark angular patterns. Among Habu species found in Okinawa, its size is relatively small with a short and thick body. The species is a nocturnal animal and found close to rivers and streams in woods and paddy fields. It feeds on amphibians as well as mammals, birds, and reptiles. The species is slow, but can harm people if it is stepped in bush.
+
+※CAUTION!
+Announcement from Okinawa prefecturePlease be careful with Habu Snakes!
+    Updated July 2017--------------------------------------------------------------------------------
+Protobothrops mucrosquamatus (https://zenodo.org/records/18378934)
+ [wordlim: 200] Published: 9 months ago; Crawled: 3 weeks ago; # Protobothrops mucrosquamatus ... 6503 (Field number TC-HN 2025.106); individualCount: 1; sex: male; lifeStage: adult; occurrenceID: 7DB975E7-2FFB-5E1D-8419-0434A73B994A; Taxon: scientificNameID: Protobothrops mucrosquamatus; scientificName: Protobothrops mucrosquamatus; class: Reptilia; order: Squamata; family: Viperidae; genus: Protobothrops; specificEpithet: mucrosquamatus; scientificNameAuthorship: (Cantor, 1839); Location: country: Vietnam; countryCode: VN; stateProvince: Ninh Binh; county: Kim Bang; municipality: Kim Bang; locality: Kim Bang SHCA; verbatimElevation: 150; verbatimLatitude: 20°28444"N; verbatimLongitude: 105°50382"E; verbatimCoordinateSystem: WGS 84; Event: eventDate: 25 April 2025; eventRemarks: collected by Nguyen QT, Pham TC, Phan QT, and Pham VA; Record Level: language: en; collectionCode: Reptilia; basisOfRecord: PreservedSpecimen
+--------------------------------------------------------------------------------
+The Annals and magazine of natural history; zoology, botany, and geology (https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Annals_and_magazine_of_natural_history%3B_zoology%2C_botany%2C_and_geology_%28IA_annalsmagazineof6181896lond%29.pdf)
+ [wordlim: 200] Published: 17.3 years ago; Crawled: 2 weeks ago; ## XXI.—Description of a new Genus of Elapine Snakes from Woodlark Island, British New Guinea. ... ### Toxicocalamus longissimus.
+--------------------------------------------------------------------------------
+オキナワイキモノラボ ヒメハブ (https://biodiversity.okinawa/video_pages/reference/himehabu.html)
+ [wordlim: 200] Crawled: 2 months ago;     Ovophis okinavensis
+--------------------------------------------------------------------------------
+Proc Calif Acad Sci Vol 54 Nos 1-8 (https://repository.si.edu/server/api/core/bitstreams/bd55db74-3492-45a7-b184-122334d63bd2/content)
+ [wordlim: 200] Published: 18.4 years ago; Crawled: last week; ### *Protobothrops mucrosquamatus* (Cantor, 1839)
+
+*Trigonacephalus mucrosquamatus* Cantor, 1839:32 (Type locality: Naga Hills, Assam, India; Holotype: Unknown; original description probably based on colored drawing [no. 18] in Bodleian Library, Oxford).
+--------------------------------------------------------------------------------
+Protobothrops mucrosquamatus (Cantor, 1839) | 臺灣生命大百科 (https://taieol.tw/pages/72514/articles)
+ [wordlim: 200] Crawled: last month; # Protobothrops mucrosquamatus (Cantor, 1839)
+--------------------------------------------------------------------------------
+Toxicocalamus longissimus | The Reptile Database (https://reptile-database.reptarium.cz/Toxicocalamus/longissimus?search_param=%28%28search%3D%27Reptiles%27%29%29)
+ [wordlim: 200] Crawled: 2 days ago; Despite their invertebrate diet and inoffensive behavior, the venom of the sole species studied to date (Toxicocalamus longissimus) contains surprisingly toxic components (Calvete et al., 2012). ... The taxonomic history of the enigmatic Papuan snake genus Toxicocalamus (Elapidae: Hydrophiinae), with the description of a new species from the Managalas Plateau of Oro Province, Papua New Guinea, and a revised dichotomous key.
+--------------------------------------------------------------------------------
+龜殼花 Protobothrops mucrosquamatus 其他應予保育之野生動物 (https://web.wra.gov.tw/swreeis/News_Content.aspx?n=8145&s=43443)
+ [wordlim: 200] Crawled: 2 weeks ago; ### 龜殼花 Protobothrops mucrosquamatus 其他應予保育之野生動物
+--------------------------------------------------------------------------------
+<4D6963726F736F667420576F7264202D203392B28DB88C8B89CA5F8EED82B282C6816A> (https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/017/688/h21tokuteigairai-seibutu-chousa-4.pdf)
+ [wordlim: 200] Published: 16.0 years ago; Crawled: 7 months ago; 学名：Protobothrops mucrosquamatus
+--------------------------------------------------------------------------------
+46. Rắn lục cườm *Protobothrops mucrosquamatus* (Cantor, 1839) (https://elib.vnuf.edu.vn/bitstream/123456789/18684/1/Luong%20cu%20va%20bo%20sat.pdf)
+ [wordlim: 200] Published: 4.5 years ago; Rắn lục cườm *Protobothrops mucrosquamatus* (Cantor, 1839)
+--------------------------------------------------------------------------------
+Protobothrops mucrosquamatus (https://en.wikipedia.org/wiki/Protobothrops_mucrosquamatus)
+ [wordlim: 200] Crawled: last month; Protobothrops mucrosquamatus is a pit viper species endemic to Asia. ... *  Protobothrops mucrosquamatus at the Reptarium.cz Reptile Database.
+--------------------------------------------------------------------------------
+Ovophis okinavensis (https://en.wikipedia.org/wiki/Ovophis_okinavensis)
+ [wordlim: 200] Crawled: 6 months ago; Ovophis okinavensis, commonly known as the hime habu (ヒメハブ), Ryukyu Island pit viper, and the Okinawan pitviper, is a pit viper species found in the Ryukyu Islands of Japan. ... ## Description ... The species is found in the Ryukyu Islands of Japan, including Okinawa and the Amami Islands.
+--------------------------------------------------------------------------------
+Protobothrops (https://en.wikipedia.org/wiki/Protobothrops)
+ [wordlim: 200] Crawled: last month;   | Protobothrops mucrosquamatus (Cantor, 1839) | India (Assam and Mizoram) and Bangladesh, to Myanmar, China (including Hainan, and as far north as Gansu and as far east as Zhejiang), Laos, northern and central Vietnam, also found in northern Thailand as well as in Taiwan
+--------------------------------------------------------------------------------
+Toxicocalamus (https://en.wikipedia.org/wiki/Toxicocalamus)
+ [wordlim: 200] Crawled: 6 months ago; "Snake venomics of two poorly known Hydrophiinae: Comparative proteomics of the venoms of terrestrial Toxicocalamus longissimus and marine Hydrophis cyanocinctus". ... "The taxonomic history of the enigmatic Papuan snake genus Toxicocalamus (Elapidae: Hydrophiinae) with the description of a new species from the Managalas Plateau of Oro Province, Papua New Guinea, and a revised dichotomous key".
+--------------------------------------------------------------------------------
+Toxicocalamus longissimus (https://fr.wikipedia.org/wiki/Toxicocalamus_longissimus)
+ [wordlim: 200] Crawled: last week; ## Description ... * (en) Animal Diversity Web : Toxicocalamus longissimus
+--------------------------------------------------------------------------------
+龜殼花  Protobothrops mucrosquamatus - YouTube (https://www.youtube.com/watch?v=S7qrl47snW8)
+ [wordlim: 200] Published: 8.6 years ago; Crawled: 2 months ago; # 龜殼花  Protobothrops mucrosquamatus ... 學名：Protobothrops mucrosquamatus
+# 龜殼花  Protobothrops mucrosquamatus
+By: CHING PING (1230 followers)
+Published: 2018-04-10, 3524 views, 21 likes
+
+## Description
+龜殼花
+學名：Protobothrops mucrosquamatus
+　
+　
+台灣五大毒蛇之一
+　
+毒性排名 第四
+致死率排 第四
+咬人紀錄 第二
+--------------------------------------------------------------------------------
+Taiwan Habu (Protobothrops mucrosquamatus) guarding an old Yangmingshan bunker entrance - YouTube (https://www.youtube.com/watch?v=dDiR_tz0Vp0)
+ [wordlim: 200] Published: 17.2 years ago; Crawled: 2 months ago; # Taiwan Habu (Protobothrops mucrosquamatus) guarding an old Yangmingshan bunker entrance ... Deadly Taiwan Habu pit viper (Protobothrops mucrosquamatus) spotted on a night field herping session guarding the entrance to an old bunker on Yangmingshan, Taiwan.
+# Taiwan Habu (Protobothrops mucrosquamatus) guarding an old Yangmingshan bunker entrance
+By: THEonionsack (1100 followers)
+Published: 2009-08-25, 2592 views, 10 likes
+
+## Description
+Deadly Taiwan Habu pit viper (Protobothrops mucrosquamatus) spotted on a night field herping session guarding the entrance to an old bunker on Yangmingshan, Taiwan.
+--------------------------------------------------------------------------------
+Protobothrops mucrosquamatus (https://fr.wikipedia.org/wiki/Protobothrops_mucrosquamatus)
+ [wordlim: 200] Crawled: 5.0 years ago; *  (en) Reptarium Reptile Database : Protobothrops mucrosquamatus ... * (en) Animal Diversity Web : Protobothrops mucrosquamatus
+--------------------------------------------------------------------------------
+A New Species of New Guinea Worm-Eating Snake (Elapidae: Toxicocalamus Boulenger, 1896), with Comments on Postfrontal Bone Variation Based on Micro-computed Tomography (https://www.reddit.com/r/herpetology/comments/kfun66)
+ [wordlim: 200] Published: 5.9 years ago; Crawled: 2.9 years ago; > Morphology and DNA sequences are used to describe a new species of New Guinea Worm-Eating Snake (Elapidae: ToxicocalamusBoulenger, 1896) from Papua New Guinea: Toxicocalamus goodenoughensis n. sp., endemic to Goodenough Island of the D'Entrecasteaux Archipelago. ... These guys are in the same family as cobras and mambas and subfamily of sea snakes and their venom (at least of their close relative toxicocalamus longissimus) is delivered via fixed front fangs like all elapidae and consists of alpha neurotoxic three fingers and beta neurotoxic PLA2s along with metalloproteases just in case that’s not enough for a worm (or maybe for digestion, shrug).
+

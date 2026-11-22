@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "scope": "Seed evidence and source locators for the input specification. Not a complete functional knowledge base.",
+  "sources": [
+    {"id": "review_2017", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5618223/", "local_path": "sources/PMC5618223.xml", "type": "review"},
+    {"id": "africa_2022", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9744630/", "local_path": "sources/PMC9744630.xml", "type": "primary_study"},
+    {"id": "venom_diet_2023", "url": "https://doi.org/10.6084/m9.figshare.22179949.v1", "local_path": "data/raw/venom_diet_2023/Supp. Mat. 1.xlsx", "type": "compiled_dataset"}
+  ],
+  "claims": [
+    {
+      "id": "family_nomenclature", "source_id": "review_2017", "locator": "Figure 1 caption; sections 3.1 and 3.2; Table 2 abbreviation note",
+      "kind": "nomenclature", "status": "checked_against_source",
+      "paraphrase": "The review identifies major and secondary protein families and explains their abbreviations. These are compositional categories, not interchangeable physiological-effect labels.",
+      "limits": "Naming does not validate every workbook column assignment or connect percentages directly to anatomy."
+    },
+    {
+      "id": "three_finger_diversity", "source_id": "africa_2022", "locator": "Introduction, XML section sec1; Figure 1",
+      "kind": "literature_background", "status": "checked_against_source",
+      "paraphrase": "The article distinguishes alpha-neurotoxins from cytotoxins within the three-finger family.",
+      "limits": "This is the article's background synthesis, not a new isolated-toxin experiment. A total 3FTx percentage does not specify its functional subtype composition."
+    },
+    {
+      "id": "pla2_assay_context", "source_id": "africa_2022", "locator": "Figure 2 and Results section sec3-5; Methods sec2-5-1",
+      "kind": "whole_venom_assay", "status": "checked_against_source",
+      "paraphrase": "The study presents PLA2 enzymatic activity alongside relative abundance and catalytic-status information.",
+      "limits": "Whole-venom in vitro enzyme assays do not establish prey-specific onset times, anatomy or the effect of every isolated PLA2 molecule."
+    },
+    {
+      "id": "svsp_assay_context", "source_id": "africa_2022", "locator": "Figure 3 and Results section sec3-6; Methods sec2-5-2",
+      "kind": "whole_venom_assay", "status": "checked_against_source",
+      "paraphrase": "The study reports substrate-based SVSP enzymatic activity and relative abundance for the sampled venoms.",
+      "limits": "A substrate assay is not a general prediction of net clotting behavior or snake appearance."
+    },
+    {
+      "id": "svmp_assay_context", "source_id": "africa_2022", "locator": "Figure 4 and Results section sec3-7; Methods sec2-5-2",
+      "kind": "whole_venom_assay", "status": "checked_against_source",
+      "paraphrase": "The study compares measured SVMP enzymatic activity with reported abundance and molecular classes.",
+      "limits": "Activities are assay-specific; they do not establish a quantitative relationship to body shape or prey behavior."
+    },
+    {
+      "id": "disintegrin_accounting", "source_id": "africa_2022", "locator": "Figure 1 caption and Results section sec3-3",
+      "kind": "measurement_convention", "status": "checked_against_source",
+      "paraphrase": "This study groups SVMP-associated disintegrins with SVMPs while keeping other disintegrins separate.",
+      "limits": "That convention must not be assumed to match all studies in the compiled workbook."
+    },
+    {
+      "id": "kunitz_diversity", "source_id": "africa_2022", "locator": "Introduction, XML section sec1; Results section sec3-2",
+      "kind": "literature_background", "status": "checked_against_source",
+      "paraphrase": "The article discusses mamba dendrotoxins as members of the Kunitz-type group with potassium-channel effects.",
+      "limits": "Do not assign that identity or effect to every Kunitz-type protein or infer mamba anatomy from a family total."
+    },
+    {
+      "id": "source_category_separation", "source_id": "venom_diet_2023", "locator": "RAW_DATABASE_VENOM header row 1: AC, AD, AY, H, I, AN, AP",
+      "kind": "source_structure", "status": "checked_against_source",
+      "paraphrase": "The workbook supplies separate CTL, CLP (Snaclec), CLP, NP, C-NP, BPP and BNP columns.",
+      "limits": "A distinct column does not prove a globally disjoint biological family; preserve source definitions until reviewed."
+    }
+  ],
+  "phenotype_claims": [],
+  "note": "No direct toxin-percentage-to-physical-trait claim has been curated. Additional functional evidence is pending for several advanced controls."
+}

@@ -1,0 +1,848 @@
+{
+  "source": "https://api.inaturalist.org/v1/taxa",
+  "note": "Provider names, used only when scientific name matches exactly; not taxonomic reconciliation.",
+  "records": [
+    {
+      "taxon_id": 101504,
+      "scientific_name": "Gloydius brevicaudus",
+      "common_name": "Short-tailed Mamushi"
+    },
+    {
+      "taxon_id": 103915,
+      "scientific_name": "Lachesis acrochorda",
+      "common_name": "Chocoan bushmaster"
+    },
+    {
+      "taxon_id": 105083,
+      "scientific_name": "Macrovipera lebetinus",
+      "common_name": "Levantine Viper"
+    },
+    {
+      "taxon_id": 105866,
+      "scientific_name": "Micrurus altirostris",
+      "common_name": "Uruguayan Coralsnake"
+    },
+    {
+      "taxon_id": 105867,
+      "scientific_name": "Micrurus corallinus",
+      "common_name": "Painted Coralsnake"
+    },
+    {
+      "taxon_id": 106446,
+      "scientific_name": "Naja annulifera",
+      "common_name": "Snouted Cobra"
+    },
+    {
+      "taxon_id": 106447,
+      "scientific_name": "Naja kaouthia",
+      "common_name": "Monocellate Cobra"
+    },
+    {
+      "taxon_id": 108066,
+      "scientific_name": "Ovophis tonkinensis",
+      "common_name": "Tonkin Pit Viper"
+    },
+    {
+      "taxon_id": 1119917,
+      "scientific_name": "Metlapilcoatlus nummifer",
+      "common_name": "Mexican Jumping Pit Viper"
+    },
+    {
+      "taxon_id": 114990,
+      "scientific_name": "Vipera nikolskii",
+      "common_name": "Nikolsky's Viper"
+    },
+    {
+      "taxon_id": 114991,
+      "scientific_name": "Vipera renardi",
+      "common_name": "Steppe Viper"
+    },
+    {
+      "taxon_id": 1304709,
+      "scientific_name": "Craspedocephalus puniceus",
+      "common_name": "Ashy Pit Viper"
+    },
+    {
+      "taxon_id": 1304713,
+      "scientific_name": "Craspedocephalus wiroti",
+      "common_name": "Wirot’s Pit Viper"
+    },
+    {
+      "taxon_id": 145768,
+      "scientific_name": "Daboia siamensis",
+      "common_name": "Siamese Russell's Viper"
+    },
+    {
+      "taxon_id": 145779,
+      "scientific_name": "Ovophis convictus",
+      "common_name": "Indo-Malayan mountain pitviper"
+    },
+    {
+      "taxon_id": 145989,
+      "scientific_name": "Cerrophidion sasai",
+      "common_name": "Costa Rica Montane Pitviper"
+    },
+    {
+      "taxon_id": 146506,
+      "scientific_name": "Trimeresurus albolabris",
+      "common_name": "White-lipped Pit Viper"
+    },
+    {
+      "taxon_id": 146509,
+      "scientific_name": "Trimeresurus insularis",
+      "common_name": "White-lipped Island Pitviper"
+    },
+    {
+      "taxon_id": 200386,
+      "scientific_name": "Hydrophis curtus",
+      "common_name": "Spine-bellied Sea Snake"
+    },
+    {
+      "taxon_id": 200945,
+      "scientific_name": "Montivipera raddei",
+      "common_name": "Armenian Viper"
+    },
+    {
+      "taxon_id": 28767,
+      "scientific_name": "Rhinobothryum bovallii",
+      "common_name": "False Tree Coral"
+    },
+    {
+      "taxon_id": 30358,
+      "scientific_name": "Dispholidus typus",
+      "common_name": "Boomslang"
+    },
+    {
+      "taxon_id": 30405,
+      "scientific_name": "Dendroaspis polylepis",
+      "common_name": "Black Mamba"
+    },
+    {
+      "taxon_id": 30411,
+      "scientific_name": "Dendroaspis angusticeps",
+      "common_name": "Eastern Green Mamba"
+    },
+    {
+      "taxon_id": 30442,
+      "scientific_name": "Bungarus multicinctus",
+      "common_name": "Many-banded Krait"
+    },
+    {
+      "taxon_id": 30448,
+      "scientific_name": "Bungarus fasciatus",
+      "common_name": "Banded Krait"
+    },
+    {
+      "taxon_id": 30461,
+      "scientific_name": "Aspidelaps scutatus",
+      "common_name": "Eastern Shield-nose Snake"
+    },
+    {
+      "taxon_id": 30464,
+      "scientific_name": "Aspidelaps lubricus",
+      "common_name": "Cape Coral Snake"
+    },
+    {
+      "taxon_id": 30472,
+      "scientific_name": "Ophiophagus hannah",
+      "common_name": "Northern King Cobra"
+    },
+    {
+      "taxon_id": 30476,
+      "scientific_name": "Naja nigricollis",
+      "common_name": "Black-necked Spitting Cobra"
+    },
+    {
+      "taxon_id": 30479,
+      "scientific_name": "Naja haje",
+      "common_name": "Egyptian Cobra"
+    },
+    {
+      "taxon_id": 30482,
+      "scientific_name": "Naja sputatrix",
+      "common_name": "Indonesian Cobra"
+    },
+    {
+      "taxon_id": 30486,
+      "scientific_name": "Naja pallida",
+      "common_name": "Red Spitting Cobra"
+    },
+    {
+      "taxon_id": 30488,
+      "scientific_name": "Naja mossambica",
+      "common_name": "Mozambique Spitting Cobra"
+    },
+    {
+      "taxon_id": 30489,
+      "scientific_name": "Naja melanoleuca",
+      "common_name": "Forest Cobra"
+    },
+    {
+      "taxon_id": 30492,
+      "scientific_name": "Naja atra",
+      "common_name": "Chinese Cobra"
+    },
+    {
+      "taxon_id": 30498,
+      "scientific_name": "Micrurus lemniscatus",
+      "common_name": "Ribbon Coralsnake"
+    },
+    {
+      "taxon_id": 30504,
+      "scientific_name": "Micrurus tschudii",
+      "common_name": "Desert Coralsnake"
+    },
+    {
+      "taxon_id": 30507,
+      "scientific_name": "Micrurus surinamensis",
+      "common_name": "Aquatic Coralsnake"
+    },
+    {
+      "taxon_id": 30517,
+      "scientific_name": "Micrurus spixii",
+      "common_name": "Amazon Coralsnake"
+    },
+    {
+      "taxon_id": 30526,
+      "scientific_name": "Micrurus paraensis",
+      "common_name": "Pará Coralsnake"
+    },
+    {
+      "taxon_id": 30531,
+      "scientific_name": "Micrurus nigrocinctus",
+      "common_name": "Central American Coralsnake"
+    },
+    {
+      "taxon_id": 30537,
+      "scientific_name": "Micrurus mosquitensis",
+      "common_name": "Costa Rican Coralsnake"
+    },
+    {
+      "taxon_id": 30544,
+      "scientific_name": "Micrurus mipartitus",
+      "common_name": "Redtail Coralsnake"
+    },
+    {
+      "taxon_id": 30564,
+      "scientific_name": "Micrurus frontalis",
+      "common_name": "Southern Coralsnake"
+    },
+    {
+      "taxon_id": 30577,
+      "scientific_name": "Micrurus dumerilii",
+      "common_name": "Transandean Capuchin Coralsnake"
+    },
+    {
+      "taxon_id": 30599,
+      "scientific_name": "Micrurus clarki",
+      "common_name": "Clark's Coralsnake"
+    },
+    {
+      "taxon_id": 30600,
+      "scientific_name": "Micrurus browni",
+      "common_name": "Brown's Coralsnake"
+    },
+    {
+      "taxon_id": 30613,
+      "scientific_name": "Micrurus alleni",
+      "common_name": "Allen's Coralsnake"
+    },
+    {
+      "taxon_id": 30652,
+      "scientific_name": "Hemachatus haemachatus",
+      "common_name": "common rinkhals"
+    },
+    {
+      "taxon_id": 30674,
+      "scientific_name": "Agkistrodon taylori",
+      "common_name": "Taylor's Cantil"
+    },
+    {
+      "taxon_id": 30685,
+      "scientific_name": "Deinagkistrodon acutus",
+      "common_name": "Chinese Moccasin"
+    },
+    {
+      "taxon_id": 30687,
+      "scientific_name": "Daboia russelii",
+      "common_name": "Russell's Viper"
+    },
+    {
+      "taxon_id": 30693,
+      "scientific_name": "Crotalus durissus",
+      "common_name": "Neotropical Rattlesnake"
+    },
+    {
+      "taxon_id": 30696,
+      "scientific_name": "Crotalus tzabcan",
+      "common_name": "Yucatán Neotropical Rattlesnake"
+    },
+    {
+      "taxon_id": 30701,
+      "scientific_name": "Crotalus culminatus",
+      "common_name": "Northwestern Neotropical Rattlesnake"
+    },
+    {
+      "taxon_id": 30719,
+      "scientific_name": "Crotalus scutulatus",
+      "common_name": "Mojave Rattlesnake"
+    },
+    {
+      "taxon_id": 30746,
+      "scientific_name": "Crotalus horridus",
+      "common_name": "Timber Rattlesnake"
+    },
+    {
+      "taxon_id": 30758,
+      "scientific_name": "Crotalus tigris",
+      "common_name": "Tiger Rattlesnake"
+    },
+    {
+      "taxon_id": 30761,
+      "scientific_name": "Crotalus polystictus",
+      "common_name": "Mexican Lancehead Rattlesnake"
+    },
+    {
+      "taxon_id": 30764,
+      "scientific_name": "Crotalus atrox",
+      "common_name": "Western Diamond-backed Rattlesnake"
+    },
+    {
+      "taxon_id": 30768,
+      "scientific_name": "Bothrops pictus",
+      "common_name": "Desert Lancehead"
+    },
+    {
+      "taxon_id": 30788,
+      "scientific_name": "Bothrops lanceolatus",
+      "common_name": "Martinique Lancehead"
+    },
+    {
+      "taxon_id": 30798,
+      "scientific_name": "Bothrops asper",
+      "common_name": "Terciopelo"
+    },
+    {
+      "taxon_id": 30806,
+      "scientific_name": "Cerrophidion godmani",
+      "common_name": "Godman's Montane Pit Viper"
+    },
+    {
+      "taxon_id": 30810,
+      "scientific_name": "Cerastes cerastes",
+      "common_name": "Desert Horned Viper"
+    },
+    {
+      "taxon_id": 30815,
+      "scientific_name": "Cerastes vipera",
+      "common_name": "Sahara Sand Viper"
+    },
+    {
+      "taxon_id": 30836,
+      "scientific_name": "Bothrops punctatus",
+      "common_name": "Spotted Lancehead"
+    },
+    {
+      "taxon_id": 30844,
+      "scientific_name": "Bothriechis schlegelii",
+      "common_name": "Highland Eyelash-Pitviper"
+    },
+    {
+      "taxon_id": 30846,
+      "scientific_name": "Bothriechis marchi",
+      "common_name": "March's Palm Pit Viper"
+    },
+    {
+      "taxon_id": 30847,
+      "scientific_name": "Bothriechis aurifer",
+      "common_name": "Yellow-blotched Palm Pit Viper"
+    },
+    {
+      "taxon_id": 30848,
+      "scientific_name": "Bothriechis bicolor",
+      "common_name": "Guatemala Palm Pit Viper"
+    },
+    {
+      "taxon_id": 30851,
+      "scientific_name": "Bitis arietans",
+      "common_name": "Puff Adder"
+    },
+    {
+      "taxon_id": 30853,
+      "scientific_name": "Bitis gabonica",
+      "common_name": "Gaboon Viper"
+    },
+    {
+      "taxon_id": 30855,
+      "scientific_name": "Bitis nasicornis",
+      "common_name": "Rhinoceros Viper"
+    },
+    {
+      "taxon_id": 30870,
+      "scientific_name": "Atropoides picadoi",
+      "common_name": "Picado's Pit Viper"
+    },
+    {
+      "taxon_id": 30901,
+      "scientific_name": "Vipera ursinii",
+      "common_name": "Meadow Viper"
+    },
+    {
+      "taxon_id": 30913,
+      "scientific_name": "Vipera orlovi",
+      "common_name": "Orlov's Viper"
+    },
+    {
+      "taxon_id": 30929,
+      "scientific_name": "Vipera aspis",
+      "common_name": "Asp"
+    },
+    {
+      "taxon_id": 30936,
+      "scientific_name": "Tropidolaemus wagleri",
+      "common_name": "Wagler's Pit Viper"
+    },
+    {
+      "taxon_id": 30953,
+      "scientific_name": "Trimeresurus stejnegeri",
+      "common_name": "Chinese Green Tree Viper"
+    },
+    {
+      "taxon_id": 30983,
+      "scientific_name": "Sistrurus miliarius",
+      "common_name": "Pygmy Rattlesnake"
+    },
+    {
+      "taxon_id": 30996,
+      "scientific_name": "Protobothrops mucrosquamatus",
+      "common_name": "Brown spotted pitviper"
+    },
+    {
+      "taxon_id": 31001,
+      "scientific_name": "Protobothrops flavoviridis",
+      "common_name": "Habu"
+    },
+    {
+      "taxon_id": 31011,
+      "scientific_name": "Porthidium nasutum",
+      "common_name": "Rainforest Hognose Viper"
+    },
+    {
+      "taxon_id": 31012,
+      "scientific_name": "Porthidium ophryomegas",
+      "common_name": "Slender Hognose Viper"
+    },
+    {
+      "taxon_id": 31014,
+      "scientific_name": "Porthidium lansbergii",
+      "common_name": "Lansberg's Hognose Viper"
+    },
+    {
+      "taxon_id": 31019,
+      "scientific_name": "Porthidium porrasi",
+      "common_name": "White-tailed Hognose Viper"
+    },
+    {
+      "taxon_id": 31024,
+      "scientific_name": "Ovophis monticola",
+      "common_name": "Chinese Mountain Pit Viper"
+    },
+    {
+      "taxon_id": 31031,
+      "scientific_name": "Ovophis okinavensis",
+      "common_name": "Okinawa Pitviper"
+    },
+    {
+      "taxon_id": 31048,
+      "scientific_name": "Lachesis stenophrys",
+      "common_name": "Central American Bushmaster"
+    },
+    {
+      "taxon_id": 31049,
+      "scientific_name": "Lachesis melanocephala",
+      "common_name": "Black-headed Bushmaster"
+    },
+    {
+      "taxon_id": 31079,
+      "scientific_name": "Echis carinatus",
+      "common_name": "Saw-scaled Viper"
+    },
+    {
+      "taxon_id": 318698,
+      "scientific_name": "Hydrophis schistosus",
+      "common_name": "Beaked Sea Snake"
+    },
+    {
+      "taxon_id": 35161,
+      "scientific_name": "Pseudechis australis",
+      "common_name": "Mulga Snake"
+    },
+    {
+      "taxon_id": 35164,
+      "scientific_name": "Hydrophis platurus",
+      "common_name": "Yellow-bellied Sea Snake"
+    },
+    {
+      "taxon_id": 35170,
+      "scientific_name": "Oxyuranus scutellatus",
+      "common_name": "Coastal Taipan"
+    },
+    {
+      "taxon_id": 35178,
+      "scientific_name": "Notechis scutatus",
+      "common_name": "Tiger Snake"
+    },
+    {
+      "taxon_id": 35260,
+      "scientific_name": "Aipysurus laevis",
+      "common_name": "Olive Sea Snake"
+    },
+    {
+      "taxon_id": 48268,
+      "scientific_name": "Crotalus oreganus",
+      "common_name": "Western Rattlesnake"
+    },
+    {
+      "taxon_id": 49001,
+      "scientific_name": "Bothrops atrox",
+      "common_name": "Common Lancehead"
+    },
+    {
+      "taxon_id": 520469,
+      "scientific_name": "Sistrurus catenatus",
+      "common_name": "Eastern Massasauga"
+    },
+    {
+      "taxon_id": 534187,
+      "scientific_name": "Agkistrodon bilineatus",
+      "common_name": "Mexican Cantil"
+    },
+    {
+      "taxon_id": 53491,
+      "scientific_name": "Crotalus adamanteus",
+      "common_name": "Eastern Diamondback Rattlesnake"
+    },
+    {
+      "taxon_id": 53492,
+      "scientific_name": "Naja naja",
+      "common_name": "Indian Cobra"
+    },
+    {
+      "taxon_id": 539036,
+      "scientific_name": "Bothrops diporus",
+      "common_name": "Painted Lancehead"
+    },
+    {
+      "taxon_id": 539037,
+      "scientific_name": "Bothrops alternatus",
+      "common_name": "Urutu Lancehead"
+    },
+    {
+      "taxon_id": 539046,
+      "scientific_name": "Bothrops neuwiedi",
+      "common_name": "Jararaca Pintada"
+    },
+    {
+      "taxon_id": 539049,
+      "scientific_name": "Bothrops cotiara",
+      "common_name": "Cotiara"
+    },
+    {
+      "taxon_id": 539050,
+      "scientific_name": "Bothrops jararaca",
+      "common_name": "Yarará Lancehead"
+    },
+    {
+      "taxon_id": 539413,
+      "scientific_name": "Bothrops erythromelas",
+      "common_name": "Caatinga Lancehead"
+    },
+    {
+      "taxon_id": 539415,
+      "scientific_name": "Bothrops insularis",
+      "common_name": "Golden Lancehead"
+    },
+    {
+      "taxon_id": 539420,
+      "scientific_name": "Bothrops pauloensis",
+      "common_name": "Cerrado Lancehead"
+    },
+    {
+      "taxon_id": 539987,
+      "scientific_name": "Micropechis ikaheca",
+      "common_name": "Ikaheka Snake"
+    },
+    {
+      "taxon_id": 68343,
+      "scientific_name": "Laticauda colubrina",
+      "common_name": "Yellow-lipped Sea Krait"
+    },
+    {
+      "taxon_id": 68530,
+      "scientific_name": "Hypnale hypnale",
+      "common_name": "Hump-nosed Viper"
+    },
+    {
+      "taxon_id": 70012,
+      "scientific_name": "Bungarus flaviceps",
+      "common_name": "Red-headed Krait"
+    },
+    {
+      "taxon_id": 73724,
+      "scientific_name": "Crotalus basiliscus",
+      "common_name": "Basilisk Rattlesnake"
+    },
+    {
+      "taxon_id": 73840,
+      "scientific_name": "Lachesis muta",
+      "common_name": "South American Bushmaster"
+    },
+    {
+      "taxon_id": 73999,
+      "scientific_name": "Vipera kaznakovi",
+      "common_name": "Caucasian Viper"
+    },
+    {
+      "taxon_id": 81526,
+      "scientific_name": "Crotalus viridis",
+      "common_name": "Prairie Rattlesnake"
+    },
+    {
+      "taxon_id": 83877,
+      "scientific_name": "Bothrops jararacussu",
+      "common_name": "Jararacussu"
+    },
+    {
+      "taxon_id": 904170,
+      "scientific_name": "Agkistrodon piscivorus",
+      "common_name": "Northern Cottonmouth"
+    },
+    {
+      "taxon_id": 912622,
+      "scientific_name": "Agkistrodon contortrix",
+      "common_name": "Eastern Copperhead"
+    },
+    {
+      "taxon_id": 95802,
+      "scientific_name": "Bitis caudalis",
+      "common_name": "Horned Adder"
+    },
+    {
+      "taxon_id": 95897,
+      "scientific_name": "Bothriechis nigroviridis",
+      "common_name": "Black-speckled Palm Pit Viper"
+    },
+    {
+      "taxon_id": 95898,
+      "scientific_name": "Bothriechis supraciliaris",
+      "common_name": "Blotched Palm-pitviper"
+    },
+    {
+      "taxon_id": 95910,
+      "scientific_name": "Bothrocophias campbelli",
+      "common_name": "Ecuadorian Toadheaded Pitviper"
+    },
+    {
+      "taxon_id": 95913,
+      "scientific_name": "Bothrops caribbaeus",
+      "common_name": "Saint Lucia Lancehead"
+    },
+    {
+      "taxon_id": 95916,
+      "scientific_name": "Bothrops leucurus",
+      "common_name": "Whitetail Lancehead"
+    },
+    {
+      "taxon_id": 96224,
+      "scientific_name": "Bungarus caeruleus",
+      "common_name": "Common Krait"
+    },
+    {
+      "taxon_id": 96225,
+      "scientific_name": "Bungarus candidus",
+      "common_name": "Malayan Krait"
+    },
+    {
+      "taxon_id": 966698,
+      "scientific_name": "Vipera berus",
+      "common_name": "Adder"
+    },
+    {
+      "taxon_id": 98683,
+      "scientific_name": "Crotalus simus",
+      "common_name": "Central American Rattlesnake"
+    },
+    {
+      "taxon_id": 98700,
+      "scientific_name": "Trimeresurus purpureomaculatus",
+      "common_name": "Mangrove Viper"
+    },
+    {
+      "taxon_id": 99689,
+      "scientific_name": "Echis ocellatus",
+      "common_name": "African Saw-scaled Viper"
+    }
+  ],
+  "name_search_records": [
+    {
+      "taxon_id": 30430,
+      "scientific_name": "Calliophis intestinalis",
+      "common_name": "Banded Malaysian Coralsnake"
+    },
+    {
+      "taxon_id": 35065,
+      "scientific_name": "Austrelaps labialis",
+      "common_name": "Pygmy Copperhead"
+    },
+    {
+      "taxon_id": 29105,
+      "scientific_name": "Philodryas olfersii",
+      "common_name": "Lichtenstein's Green Racer"
+    },
+    {
+      "taxon_id": 30437,
+      "scientific_name": "Bungarus sindanus",
+      "common_name": "Sind Krait"
+    },
+    {
+      "taxon_id": 106448,
+      "scientific_name": "Naja nubiae",
+      "common_name": "Nubian Spitting Cobra"
+    },
+    {
+      "taxon_id": 30909,
+      "scientific_name": "Vipera anatolica",
+      "common_name": "Anatolian Meadow Viper"
+    },
+    {
+      "taxon_id": 27686,
+      "scientific_name": "Boiga irregularis",
+      "common_name": "Brown Tree Snake"
+    },
+    {
+      "taxon_id": 31085,
+      "scientific_name": "Echis coloratus",
+      "common_name": "Palestine Saw-scaled Viper"
+    },
+    {
+      "taxon_id": 30769,
+      "scientific_name": "Bothrops pirajai",
+      "common_name": "Piraja's Lancehead"
+    },
+    {
+      "taxon_id": 30867,
+      "scientific_name": "Azemiops feae",
+      "common_name": "Fea's Viper"
+    },
+    {
+      "taxon_id": 26946,
+      "scientific_name": "Conophis lineatus",
+      "common_name": "Road Guarder"
+    },
+    {
+      "taxon_id": 540012,
+      "scientific_name": "Ophryacus sphenophrys",
+      "common_name": "Broad-horned Pitviper"
+    },
+    {
+      "taxon_id": 30825,
+      "scientific_name": "Calloselasma rhodostoma",
+      "common_name": "Malayan Pit Viper"
+    },
+    {
+      "taxon_id": 28338,
+      "scientific_name": "Thelotornis mossambicanus",
+      "common_name": "Eastern Twig Snake"
+    },
+    {
+      "taxon_id": 30784,
+      "scientific_name": "Bothrops moojeni",
+      "common_name": "Brazilian Lancehead"
+    },
+    {
+      "taxon_id": 99620,
+      "scientific_name": "Drysdalia coronoides",
+      "common_name": "White-lipped Snake"
+    },
+    {
+      "taxon_id": 30795,
+      "scientific_name": "Bothrops barnetti",
+      "common_name": "Barnett's Lancehead"
+    },
+    {
+      "taxon_id": 539414,
+      "scientific_name": "Bothrops fonsecai",
+      "common_name": "Fonseca's Lancehead"
+    },
+    {
+      "taxon_id": 30121,
+      "scientific_name": "Borikenophis portoricensis",
+      "common_name": "Puerto Rican Racer"
+    },
+    {
+      "taxon_id": 1701177,
+      "scientific_name": "Vipera ammodytes",
+      "common_name": "Long-nosed Viper"
+    },
+    {
+      "taxon_id": 121123,
+      "scientific_name": "Bothrops ayerbei",
+      "common_name": "Ayerbe's Lancehead"
+    },
+    {
+      "taxon_id": 35223,
+      "scientific_name": "Hydrophis cyanocinctus",
+      "common_name": "Annulated Sea Snake"
+    },
+    {
+      "taxon_id": 1119897,
+      "scientific_name": "Protobothrops kelomohy",
+      "common_name": "Omkoi Lance-headed Pit Viper"
+    },
+    {
+      "taxon_id": 31088,
+      "scientific_name": "Echis pyramidum",
+      "common_name": "Egyptian Saw-scaled Viper"
+    },
+    {
+      "taxon_id": 35160,
+      "scientific_name": "Pseudechis papuanus",
+      "common_name": "Papuan Black Snake"
+    },
+    {
+      "taxon_id": 30490,
+      "scientific_name": "Naja katiensis",
+      "common_name": "Katian Spitting Cobra"
+    },
+    {
+      "taxon_id": 73867,
+      "scientific_name": "Micrurus fulvius",
+      "common_name": "Eastern Coralsnake"
+    },
+    {
+      "taxon_id": 31022,
+      "scientific_name": "Trimeresurus nebularis",
+      "common_name": "Cameron Highlands Pitviper"
+    },
+    {
+      "taxon_id": 28493,
+      "scientific_name": "Tantilla nigriceps",
+      "common_name": "Plains Black-headed Snake"
+    },
+    {
+      "taxon_id": 30849,
+      "scientific_name": "Bothriechis thalassinus",
+      "common_name": "Merendon Palm-pitviper"
+    },
+    {
+      "taxon_id": 35091,
+      "scientific_name": "Toxicocalamus longissimus",
+      "common_name": "Woodlark Forest Snake"
+    },
+    {
+      "taxon_id": 27357,
+      "scientific_name": "Cerberus rynchops",
+      "common_name": "Asian Bockadam"
+    }
+  ]
+}

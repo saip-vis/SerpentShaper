@@ -1,0 +1,343 @@
+{
+  "schema_version": 1,
+  "preset_id": "bitis_nasicornis",
+  "species_id": "source_255d2655272b451d",
+  "source_species_name": "Bitis nasicornis",
+  "common_name": "Rhinoceros viper",
+  "status": "illustrative_unvalidated",
+  "variant": "Blue-green, rust and black geometric trunk pattern; stocky body, narrow neck and short taper.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://repository.naturalis.nl/pub/319202/ZM1968043009.pdf",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_018_bitis_nasicornis/manifest.json",
+        "image_id": "inat_81357307",
+        "sha256": "1cb8b53eec8b6c4d18d0249c47ee6cf8753a4511341ec3cc43e0e99607d8887f",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_018_bitis_nasicornis/manifest.json",
+        "image_id": "inat_219636029",
+        "sha256": "02f19ae2271117140d96c76abc93638e9d1150ce87a5a5eaddee865de86787fa",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_018_bitis_nasicornis/manifest.json",
+        "image_id": "inat_395167898",
+        "sha256": "6c551e0dddc1ca5cd23dbe58a7321d144f4946051ec86b590dcbd91a140dad43",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_018_bitis_nasicornis/manifest.json",
+        "image_id": "inat_242168070",
+        "sha256": "6f909872053a627f31f3d6ad0fff527a50585d47a1b300b4ce72645e1f5c6be5",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_018_bitis_nasicornis/manifest.json",
+        "image_id": "inat_395168915",
+        "sha256": "87029c58f0c472e5067b2d9c4af3d236e1e71092337eb15854215a688d4a0a5c",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_81357307": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_219636029": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_395167898": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_242168070": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_395168915": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Elongate triangular leaf-like skull with pronounced nasal horn cluster; eye much closer to snout than broad posterior corner.",
+        "Blue-green, rust and black geometric trunk pattern; stocky body, narrow neck and short taper.",
+        "Second rendered comparison: lower-jaw bulge reduced; species pigment treatment refined while retaining authored supraocular/nasal projections.",
+        "Third reference comparison: nasal horns narrowed and unequal in height; large simple horn silhouettes still need expert review."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_81357307",
+        "inat_219636029",
+        "inat_395167898",
+        "inat_242168070",
+        "inat_395168915"
+      ]
+    },
+    "modeling_flags": [
+      "Photos 6/7/10 need identity check and are not geometry references.",
+      "Existing geometric pigment family does not yet capture all nasicornis tessellation; flag pattern fidelity."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "gaboon",
+    "skin_color": "#657d72",
+    "marking_color": "#d1b875",
+    "belly_color": "#c0b08d",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 6.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 88,
+      "neck": 11,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -4,
+          1,
+          -7,
+          3,
+          -8
+        ],
+        [
+          3,
+          -8,
+          2,
+          -13,
+          3,
+          -21,
+          4,
+          -22
+        ],
+        [
+          4,
+          -22,
+          6,
+          -18,
+          7,
+          -12,
+          9,
+          -11
+        ],
+        [
+          9,
+          -11,
+          10,
+          -16,
+          11,
+          -21,
+          12,
+          -22
+        ],
+        [
+          12,
+          -22,
+          14,
+          -16,
+          15,
+          -12,
+          16,
+          -12
+        ],
+        [
+          16,
+          -12,
+          35,
+          -29,
+          62,
+          -35,
+          70,
+          -21
+        ],
+        [
+          70,
+          -21,
+          77,
+          -11,
+          83,
+          -11,
+          88,
+          -11
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          4,
+          20.240000000000002,
+          7,
+          42.239999999999995,
+          9
+        ],
+        [
+          42.239999999999995,
+          9,
+          57.2,
+          12,
+          68.64,
+          13,
+          73.92,
+          10
+        ],
+        [
+          73.92,
+          10,
+          79.2,
+          11,
+          83.6,
+          11,
+          88,
+          11
+        ]
+      ],
+      "eye": [
+        25,
+        -6,
+        3.1,
+        3.4100000000000006
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q30.799999999999997 7 61.599999999999994 8 L79.2 5.5",
+      "shields": [],
+      "lip": true,
+      "markings": [
+        {
+          "path": "M1 -4 Q30 -12 64 -15 L73 -5 L30 -1Z",
+          "fill": "#302e2b",
+          "stroke": "#c8ac58",
+          "width": 1.2
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        11
+      ],
+      [
+        258,
+        227,
+        20
+      ],
+      [
+        305,
+        249,
+        31
+      ],
+      [
+        390,
+        271,
+        37
+      ],
+      [
+        471,
+        302,
+        38
+      ],
+      [
+        514,
+        347,
+        37
+      ],
+      [
+        502,
+        397,
+        34
+      ],
+      [
+        430,
+        431,
+        31
+      ],
+      [
+        330,
+        445,
+        28
+      ],
+      [
+        253,
+        476,
+        24
+      ],
+      [
+        253,
+        515,
+        18
+      ],
+      [
+        324,
+        550,
+        10
+      ],
+      [
+        400,
+        555,
+        5.5
+      ],
+      [
+        460,
+        546,
+        2.8
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false,
+    "head_pattern": "nasal_leaf"
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

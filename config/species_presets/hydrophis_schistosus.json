@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "preset_id": "hydrophis_schistosus",
+  "species_id": "source_73becb81782bf4da",
+  "source_species_name": "Hydrophis schistosus",
+  "common_name": "Beaked Sea Snake",
+  "status": "illustrative_unvalidated",
+  "variant": "Gray-olive beaked sea snake with pale interspaces and paddle-shaped tail.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5096412/",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://reptile-database.reptarium.cz/Hydrophis/schistosus",
+        "scope": "Species description and/or taxonomy; image views and individual identity need further review."
+      },
+      {
+        "url": "https://ncdc.mohfw.gov.in/uploads/pdf/Final_Medically%20imp%20snakes_English_231016_102536_260715_140946.pdf",
+        "scope": "Indian public-health guide describes tapered dorsal bands, pale underside and the beak-shaped snout."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_079_hydrophis_schistosus/manifest.json",
+        "image_id": "inat_165115220",
+        "sha256": "9a514f5c6e565e24fdf98cff0df3c532d6f452ec1d5695a1b2139d5afd1a40f8",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_079_hydrophis_schistosus/manifest.json",
+        "image_id": "inat_246803780",
+        "sha256": "c388466af4222d5168c19696427a46ca0950fe5654b4b4ec505f63b8359bd608",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_079_hydrophis_schistosus/manifest.json",
+        "image_id": "inat_48372448",
+        "sha256": "f6b75d61cbc1ed62bdeb8baa19b7c89127aa14ce465a311e489b0f7a3b23915b",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_165115220": "Distant healthy-appearing swimmer with alternating gray and pale crossbands.",
+      "inat_246803780": "Shallow-water body and lateral bands; head detail limited.",
+      "inat_48372448": "Paddle shape and repeating body bands at low resolution."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review required.",
+    "modeling_flags": [
+      "The characteristic beaked snout is not yet fitted from a sufficiently detailed healthy head reference.",
+      "Head and paddle use an adapted marine scaffold; angle-specific geometry and scale counts remain unverified."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Distant healthy-appearing swimmer with alternating gray and pale crossbands.",
+        "Shallow-water body and lateral bands; head detail limited.",
+        "Paddle shape and repeating body bands at low resolution.",
+        "Changed the complete rings to upper-body crossbands with a pale ventral surface, as described in the public-health field guide."
+      ],
+      "projection_limit": "One oblique projection; paddle and body proportions are artistic, not measured.",
+      "reference_ids": [
+        "inat_165115220",
+        "inat_246803780",
+        "inat_48372448"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "marine",
+    "pattern": "crossbands",
+    "skin_color": "#bbb8a6",
+    "marking_color": "#59615c",
+    "belly_color": "#ded9bb",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "paddle",
+    "scale_pitch": 4.4,
+    "mark_spacing": 23,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 56,
+      "neck": 8,
+      "upper": [
+        [
+          0.0,
+          0,
+          0.0,
+          -6,
+          3.16981,
+          -10,
+          11.62264,
+          -10
+        ],
+        [
+          11.62264,
+          -10,
+          23.24528,
+          -11,
+          32.75472,
+          -12,
+          42.26415,
+          -9
+        ],
+        [
+          42.26415,
+          -9,
+          47.54717,
+          -8,
+          50.71698,
+          -8,
+          56,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0,
+          0.0,
+          6,
+          6.33962,
+          10,
+          14.79245,
+          10
+        ],
+        [
+          14.79245,
+          10,
+          26.41509,
+          12,
+          38.03774,
+          11,
+          44.37736,
+          9
+        ],
+        [
+          44.37736,
+          9,
+          49.66038,
+          8,
+          51.77358,
+          8,
+          56,
+          8
+        ]
+      ],
+      "eye": [
+        17,
+        -2,
+        2.2,
+        2.3
+      ],
+      "nostril": [
+        5,
+        -4.5
+      ],
+      "jaw": "M2 4 Q21.3 7 43.1 6 L51.0 4",
+      "shields": [
+        "M5 -6 L14 -8 L21 -3 L18 4",
+        "M14 -8 L27 -9 L34 -4 L31 5 L18 4",
+        "M8 5 L9 9 M18 6 L19 10 M29 6 L31 10"
+      ],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#494c42",
+      "markings": []
+    },
+    "body_stations": [
+      [
+        225,
+        212,
+        8
+      ],
+      [
+        265,
+        232,
+        13
+      ],
+      [
+        340,
+        259,
+        23
+      ],
+      [
+        436,
+        283,
+        26
+      ],
+      [
+        503,
+        326,
+        26
+      ],
+      [
+        515,
+        380,
+        25
+      ],
+      [
+        461,
+        421,
+        23
+      ],
+      [
+        364,
+        438,
+        21
+      ],
+      [
+        273,
+        462,
+        18
+      ],
+      [
+        248,
+        500,
+        15
+      ],
+      [
+        286,
+        535,
+        11
+      ],
+      [
+        369,
+        558,
+        9
+      ],
+      [
+        444,
+        562,
+        8
+      ],
+      [
+        498,
+        552,
+        15
+      ],
+      [
+        545,
+        530,
+        19
+      ],
+      [
+        574,
+        503,
+        14
+      ],
+      [
+        583,
+        484,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "head_color": "#858b7e",
+    "pit_present": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

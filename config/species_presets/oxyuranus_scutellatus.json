@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "preset_id": "oxyuranus_scutellatus",
+  "species_id": "source_e5ebffd298c4b05c",
+  "source_species_name": "Oxyuranus scutellatus",
+  "common_name": "Coastal taipan",
+  "status": "illustrative_unvalidated",
+  "variant": "Brown adult with paler snout; seasonal and regional color variation not modeled.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://australian.museum/learn/animals/reptiles/coastal-taipan/",
+        "scope": "Qualitative reference; see compiled physical profile for per-trait scope."
+      },
+      {
+        "path": "docs/StarterSpeciesPhysicalProfiles.md",
+        "scope": "Detailed starter profile and its original citations."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_002_coastal_taipan/manifest.json",
+        "image_id": "inat_455786066",
+        "sha256": "0d055411b25b6780c82452fc73d1745de6068cb953ac257b760314bfb6a3dab1",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_002_coastal_taipan/manifest.json",
+        "image_id": "inat_457026243",
+        "sha256": "d1d5738b744230358958035748d57d80ece2f75d3225cbc108896dc82fcc8649",
+        "use": "Visual reference only; no measurement fitting or image approval implied."
+      }
+    ],
+    "unextracted_fields": [
+      "tail",
+      "pattern",
+      "special"
+    ],
+    "review": "Reference-guided draft; no expert anatomical approval or measurements.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Deeper rectangular head with broad labial shields and pale snout.",
+        "Narrow anterior neck transitions into a robust trunk.",
+        "Body taper is not borrowed from the mamba or boomslang."
+      ],
+      "projection_limit": "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic.",
+      "reference_ids": [
+        "inat_455786066",
+        "inat_457026243"
+      ]
+    },
+    "reference_feature_map": {
+      "inat_455786066": "Deep blunt head profile, large labials, orange-brown iris and pale snout.",
+      "inat_457026243": "Head-neck distinction and overall slender anterior region; perspective limits dimensions."
+    },
+    "modeling_flags": [
+      "Photo perspective, life stage and pose limit comparison; numeric control points remain artistic."
+    ],
+    "modeling_review_status": "previously_reviewed_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "terrestrial",
+    "pattern": "plain",
+    "skin_color": "#806347",
+    "marking_color": "#d5b98a",
+    "belly_color": "#e2c998",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 7.4,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rectangular",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 82,
+      "neck": 10,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -8,
+          3,
+          -12,
+          12,
+          -13
+        ],
+        [
+          12,
+          -13,
+          32,
+          -15,
+          52,
+          -17,
+          66,
+          -13
+        ],
+        [
+          66,
+          -13,
+          75,
+          -10,
+          76,
+          -10,
+          82,
+          -10
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          0,
+          8,
+          6,
+          14,
+          16,
+          15
+        ],
+        [
+          16,
+          15,
+          35,
+          17,
+          57,
+          17,
+          68,
+          13
+        ],
+        [
+          68,
+          13,
+          74,
+          10,
+          78,
+          10,
+          82,
+          10
+        ]
+      ],
+      "eye": [
+        32,
+        -1,
+        4.7,
+        4.8
+      ],
+      "nostril": [
+        7,
+        -2
+      ],
+      "jaw": "M2 5 Q31 9 65 8 L75 6",
+      "shields": [
+        "M6 -8 L18 -11 L25 -4 L21 6",
+        "M18 -11 L35 -12 L48 -8 L47 3 L25 -4",
+        "M48 -8 L61 -11 L71 -6 L68 8 L47 3",
+        "M9 7 L10 13 M21 8 L23 16 M34 9 L35 16 M48 9 L49 16 M60 8 L63 15"
+      ],
+      "lip": true,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17
+    },
+    "body_stations": [
+      [
+        247,
+        222,
+        10
+      ],
+      [
+        281,
+        242,
+        13
+      ],
+      [
+        370,
+        265,
+        23
+      ],
+      [
+        463,
+        295,
+        26
+      ],
+      [
+        515,
+        344,
+        25
+      ],
+      [
+        506,
+        395,
+        24
+      ],
+      [
+        441,
+        430,
+        22
+      ],
+      [
+        341,
+        443,
+        20
+      ],
+      [
+        257,
+        472,
+        17
+      ],
+      [
+        252,
+        515,
+        13
+      ],
+      [
+        324,
+        550,
+        9.5
+      ],
+      [
+        425,
+        562,
+        6.5
+      ],
+      [
+        527,
+        548,
+        3.8
+      ],
+      [
+        603,
+        519,
+        1.8
+      ],
+      [
+        644,
+        486,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ]
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 2
+}

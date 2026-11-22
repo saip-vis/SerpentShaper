@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "preset_id": "bitis_caudalis",
+  "species_id": "source_d3a333aded85455a",
+  "source_species_name": "Bitis caudalis",
+  "common_name": "Horned adder",
+  "status": "illustrative_unvalidated",
+  "variant": "Sandy/rust adult-style variant with pale-edged dorsal blotches, keeled scales and stubby tail.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://www.africansnakebiteinstitute.com/articles/dwarf-adders-of-southern-africa/",
+        "scope": "Qualitative reference; species identity and scope caveats retained."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_017_bitis_caudalis/manifest.json",
+        "image_id": "inat_31698093",
+        "sha256": "d42a997c799840547f32dc4a684dccef49262367f91c570f45422e0319d6f8e0",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_017_bitis_caudalis/manifest.json",
+        "image_id": "inat_97094459",
+        "sha256": "457ebd5d4feea10be4588d3dcb14f432791a7307e8a734bdb9289b3c39836d8d",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_017_bitis_caudalis/manifest.json",
+        "image_id": "inat_111827089",
+        "sha256": "5ca897ca6ebd0f484ce8bde54b543b117356a2762e48b90122430b6c5da76d31",
+        "use": "Qualitative healthy-anatomy reference only."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_017_bitis_caudalis/manifest.json",
+        "image_id": "inat_162452438",
+        "sha256": "bde7d5cd8bd8115c17e019d8ea9b363b9c3a14da12e86af2323e36138f306457",
+        "use": "Qualitative healthy-anatomy reference only."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_31698093": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_97094459": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_111827089": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification.",
+      "inat_162452438": "Viewed contact sheet; selected head/body/pigment guide, not measurement or identity certification."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "pattern",
+      "ventral",
+      "eyes",
+      "variation"
+    ],
+    "review": "Reference-guided draft after rendered comparison and refinement; not anatomically validated.",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Compact broad flattened head, short blunt muzzle, single prominent supraocular horn visible in lateral view.",
+        "Sandy/rust adult-style variant with pale-edged dorsal blotches, keeled scales and stubby tail.",
+        "Second rendered comparison: lower-jaw bulge reduced; species pigment treatment refined while retaining authored supraocular/nasal projections.",
+        "Third reference comparison: iris palette adjusted to the chosen reference form; missing opposite-side and ventral views remain flagged."
+      ],
+      "projection_limit": "Single projected study; quantitative proportions artistic.",
+      "reference_ids": [
+        "inat_31698093",
+        "inat_97094459",
+        "inat_111827089",
+        "inat_162452438"
+      ]
+    },
+    "modeling_flags": [
+      "Cloudy eye in close-up not copied.",
+      "One projected horn cannot document opposite-side horn geometry; ventral coverage missing."
+    ],
+    "modeling_review_status": "refined_draft_with_flags"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "viper",
+    "pattern": "blotches",
+    "skin_color": "#b68b69",
+    "marking_color": "#785345",
+    "belly_color": "#e0cdb1",
+    "body_build": 1,
+    "scale_texture": "keeled",
+    "tail_type": "short",
+    "scale_pitch": 6.5,
+    "mark_spacing": 62,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "triangular",
+    "pupil": "vertical",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "pit_present": false,
+    "head_geometry": {
+      "length": 55,
+      "neck": 8,
+      "upper": [
+        [
+          0,
+          0,
+          0,
+          -6.3,
+          7,
+          -9.9,
+          17,
+          -12.6
+        ],
+        [
+          17,
+          -12.6,
+          19,
+          -19.6,
+          21,
+          -19.6,
+          22,
+          -12.6
+        ],
+        [
+          22,
+          -12.6,
+          30.250000000000004,
+          -19.8,
+          39.6,
+          -18,
+          44.0,
+          -12.6
+        ],
+        [
+          44.0,
+          -12.6,
+          47.85,
+          -8,
+          51.699999999999996,
+          -8,
+          55,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0,
+          0,
+          3,
+          4,
+          12.65,
+          7,
+          26.4,
+          9
+        ],
+        [
+          26.4,
+          9,
+          35.75,
+          12,
+          42.9,
+          13,
+          46.199999999999996,
+          10
+        ],
+        [
+          46.199999999999996,
+          10,
+          49.5,
+          8,
+          52.25,
+          8,
+          55,
+          8
+        ]
+      ],
+      "eye": [
+        20,
+        -3,
+        3.0,
+        3.3000000000000003
+      ],
+      "nostril": [
+        6,
+        -1.5
+      ],
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "jaw": "M1 3 Q19.25 7 38.5 8 L49.5 4.0",
+      "shields": [],
+      "lip": true,
+      "iris_color": "#aa8a63"
+    },
+    "body_stations": [
+      [
+        224,
+        211,
+        8
+      ],
+      [
+        258,
+        227,
+        14
+      ],
+      [
+        305,
+        249,
+        21
+      ],
+      [
+        390,
+        271,
+        25
+      ],
+      [
+        471,
+        302,
+        26
+      ],
+      [
+        514,
+        347,
+        25
+      ],
+      [
+        502,
+        397,
+        23
+      ],
+      [
+        430,
+        431,
+        21
+      ],
+      [
+        330,
+        445,
+        19
+      ],
+      [
+        253,
+        476,
+        16
+      ],
+      [
+        253,
+        515,
+        12
+      ],
+      [
+        324,
+        550,
+        7
+      ],
+      [
+        400,
+        555,
+        4
+      ],
+      [
+        460,
+        546,
+        2
+      ],
+      [
+        510,
+        528,
+        1
+      ],
+      [
+        545,
+        505,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "band_fraction": 0.36,
+    "pit_cheek_band": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

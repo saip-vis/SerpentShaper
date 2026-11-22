@@ -1,0 +1,295 @@
+Zoosyst. Evol. 96 (1) 2020, 123–138  |  DOI 10.3897/zse.96.48431 (https://www.zobodat.at/pdf/Zoosystematics-Evolution_96_0123-0138.pdf)
+ [wordlim: 200] Published: last year; Mirza, Z.A. et al.: A new Trimeresurus  from Arunachal Pradesh ... T. insularis Kramer, 1977, and T. albolabris in its sca- ... Colour of lateral
+scales; 12/13 infralabials, the first pair in contact with 
+each other; the first three pairs in contact with anterior 
+The new species is most similar to T. septentrionalis, 
+T. insularis Kramer, 1977, and T. albolabris in its sca-
+lation but differs in bearing an orange to reddish stripe 
+from the lower margin of the eye to the posterior of the 
+posterior border of the mouth in males (vs a white stripe 
+from the posterior border of the nasal to posterior part of 
+the head in T. septentrionalis and T. albolabris); hemip-
+enis short and bilobed (vs long and deeply forked in T. 
+septentrionalis and T. albolabris); palatine with six teeth 
+(vs five in T. albolabris, T. insularis, and T. septentrion-
+alis); pterygoid with 15 teeth (vs 11 in T. septentrionalis, 
+16 in T. insularis, and 12 in T. albolabris); 19 dentary 
+Table 1. Summary of selected characters for members of the clade containing T. albolabris.
+Species
+Dorsal colouration
+Colour of lateral 
+TaL/TL
+Ventrals
+Subcaudals
+Hemipenis
+stripe on head
+Dorsal scale 
+rows at midbody
+T. albolabris
+Green
+White
+21
+0.19–0.24
+149–173
+48–67
+bilobed, long
+T. andersonii
+Brown or black
+–
+23 or 25
+0.16
+171–183
+53–74
+bilobed, long
+T. cantori
+Green or brown
+White
+27 or 31
+0.12–0.20
+170–176
+44–73
+bilobed, long
+T. erythrurus
+Green
+White
+23
+0.16/0.21
+151–174
+49–67
+bilobed, long
+T. fasciatus
+Brown
+–
+21
+0.18–0.21
+158–163
+63–65
+bilobed, long
+T. insularis 
+Green or blue
+–
+21
+0.21–0.22
+156–167
+54–75
+bilobed, long
+T. purpureomaculatus
+Black to dark brown
+–
+23 to 27
+0.16–0.19
+152–183
+54–79
+bilobed, long
+T. septentrionalis
+Green
+White
+21
+0.19–0.24
+160–181
+55–83
+bilobed, long
+T. salazar sp. nov.
+Green
+Reddish orange
+19 or 21
+0.14–0.18
+163–171
+59–74
+bilobed, 
+short
+zse.pensoft.net--------------------------------------------------------------------------------
+VIPERIDAE; CROTALINAE 120 (https://sipus-old.unpak.ac.id/file/PANDUAN%20BERGAMBAR%20ULAR%20JAWA_compressed.pdf)
+ [wordlim: 200] Published: 6.1 years ago; Crawled: last year; **Trimeresurus insularis** KRAMER, 1977 ... **Catatan:** Studi molekular menunjukkan bahwa *T. albolabris* dan *T. insularis* merupakan spesies yang berbeda, namun ciri morfologis yang membedakan keduanya dengan jelas belum ditemukan.
+VIPERIDAE; CROTALINAE 120
+
+**Trimeresurus insularis** KRAMER, 1977
+
+**Nama umum:** Lesser Sunda White Lipped Pit Viper  
+**Nama Indonesia:** Ular Majapahit, Gadung Luwuk, Ular Bangka Laut  
+**Identifikasi:** Dapat dibedakan dari jenis viper lainnya dengan melihat ciri berikut; a) ekor merah, b) dorsum hijau merata (bisa berbeda di pulau lain), dan c) mata merah rubi atau cokelat kemerahan (dapat bervariasi). Ciri (a) dan (b) juga terdapat pada *T. albolabris*, namun ciri (c) juga dapat berbeda-beda sehingga sulit untuk digunakan sebagai ciri pembeda. Pada ular jantan, ular ini dapat dibedakan dari *T. albolabris* dengan ciri-ciri d) memiliki hemipenis *long calculate* (walaupun memang ciri ini sangat sulit untuk diperiksa)  
+**Ukuran maksimal:** 85 cm  
+**Status konservasi:** IUCN - Least Concern  
+**Catatan:** Studi molekular menunjukkan bahwa *T. albolabris* dan *T. insularis* merupakan spesies yang berbeda, namun ciri morfologis yang membedakan keduanya dengan jelas belum ditemukan. Untuk saat ini, diketahui bahwa *T. albolabris* terdapat di Jawa Barat, dan *T. insularis* terdapat di Jawa Timur. Namun karena inilah, Trimeresurus hijau yang berada di Jawa Tengah sulit untuk di identifikasi sampai ke tahap spesies.
+
+<visual_element id="e1">
+Foto ular hijau melingkar pada latar putih; bagian kepala diberi kotak merah kecil, tubuh dan ekor terlihat, dengan ekor berwarna merah kecokelatan di ujung.
+</visual_element>
+
+<visual_element id="e2">
+Foto close-up kepala ular dari sisi kiri bawah; mata kuning dengan pupil vertikal, label di bawah: "mata kuning".
+</visual_element>
+
+<visual_element id="e3">
+Foto close-up kepala ular dari sisi kanan bawah; mata cokelat kemerahan, label di bawah: "mata cokelat kemerahan".
+</visual_element>--------------------------------------------------------------------------------
+David(Pg149-157) (https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/app/uploads/2017/04/51rbz149-157.pdf)
+ [wordlim: 200] Published: 23.4 years ago; Trimeresurus albolabris is largely present in Indonesia. ... full species status T.  albolabris insularis, as well as T.
+The coloration and pattern of juvenile snakes are similar
+to adults, with a upper head surface dark lead-grey (Fig.
+4).
+Trimeresurus albolabris is largely present in Indonesia. In
+order to accommodate specimens from eastern Java and
+islands located further east, Kramer (1977: 755) described
+T. albolabris insularis (type locality: Soe, Timor Island,
+Indonesia). According to Regenass & Kramer (1981), the
+main differences between these taxa bear on: (1) colour of
+the lips clearly distinct from dorsal head surface in albolabris,
+not so different in insularis, (2) temporals highly keeled in
+insularis, smooth or weakly keeled in albolabris, (3) Ventral
+scales 148-173 in T. albolabris vs. 156-167 in T. insularis,
+and on some other minor scalation characters. Malhotra &
+Thorpe (1996, 2000) and Giannasi et al. (2001a) showed,
+based on mtDNA data, that the molecular phylogeny among
+T.  albolabris populations did not correlate with the
+morphological variation. Accordingly, these authors refuted
+the currently accepted subspecific division of this species as
+defined in Regenass & Kramer (1981). The problem was
+partly clarified by Giannasi et al. (2001b), who elevated to
+full species status T.  albolabris insularis, as well as T.
+albolabris septentrionalis Kramer, 1977, a taxon known from
+Nepal and northern India.
+Molecular data. ÐOur molecular dataset includes 504 bp
+for 29 taxa (174 variable sites, 117 of which are informative
+for parsimony). The CI values used to design step matrices
+are the following : AG1 (first position of codon): 0.571,
+AG2 (second position of codon): 1, AG3 (third position of
+codon): 0.586, CT1: 0.5, CT2: 1, CT3: 0.376, AT1: 1, AT2:
+1, AT3: 0.778, AC1: 0.75, AC2: 1, AC3: 0.583, CG1: 1,
+CG2: 1, CG3: 0.6, GT1: 1, GT2: 1, GT3: 1. The resulting
+heuristic search produced two equally parsimonious trees,
+the strict consensus of which is shown on Fig. 5.
+According to Regenass & Kramer (1981), David & Vogel
+153--------------------------------------------------------------------------------
+Trimeresurus albolabris | The Reptile Database (https://reptile-database.reptarium.cz/Trimeresurus/albolabris)
+ [wordlim: 200] Crawled: today; Trimeresurus (Trimeresurus) albolabris — DAVID et al.
+--------------------------------------------------------------------------------
+Asian Herpetological Research  2021, 12(2): 167–177 (https://dds.sciengine.com/cfs/files/pdfs/view/2095-0357/17FA6C701B7C4BEAAFFFEC2F68A20A30.pdf)
+ [wordlim: 200] Published: 1.1 years ago; T. albolabris  | Green  | White  | Absent  | 21  | 0.14/0.21  | 150–160  | 51–66 ... Trimeresurus guoi sp. nov. is distinct from T. insularis by: (1) ... color being firebrick-red rather than golden yellow.
+--------------------------------------------------------------------------------
+A new species of *Trimeresurus* from Nicobar Archipelago (https://amphibian-reptile-conservation.org/pdfs/Volume/Vol_14_no_3/ARC_14_3_%5BTaxonomy_Section%5D_169-176_e264.pdf)
+ [wordlim: 200] Published: 6.1 years ago; Crawled: last year; Comparison of morphological characters within the *Trimeresurus albolabris* group, adapted from Chen et al. ... <th>*T. insularis*<br><em>n = 7</em></th> ... Additionally, from the green color morph of *Trimeresurus cantori* (Blyth 1846) which occurs on islands of the central group of the Nicobar archipelago, *T. davidi* sp. nov. can be distinguished by a lower number of mid-body scale rows (21–23 in *T. davidi* sp. nov. vs. 25–29 in *T. cantori*); and the absence of a pair of white ventro-lateral stripes along the sides of the body in *T. davidi* sp. nov. (vs. present in *T. cantori*) [Whitaker and Captain 2008].
+--------------------------------------------------------------------------------
+Integrative analysis of geographic variation and species boundaries in the (https://pure.bangor.ac.uk/ws/portalfiles/portal/80158365/VZ_article_142775_en_1.pdf)
+ [wordlim: 200] Published: last year; Malhotra A et al.: Analysis of the Trimeresurus albolabris complex ... Trimeresurus albolabris ... more than 23 and 17, respectively, and from T. insularis
+--------------------------------------------------------------------------------
+Trimeresurus albolabris (https://en.wikipedia.org/wiki/Trimeresurus_albolabris)
+ [wordlim: 200] Crawled: 5 months ago; Giannasi et al. (2001) raised insularis and septentrionalis to species level. ... David et al. (2011) returned it to the genus Trimeresurus and assigned it the subgenus Trimeresurus, creating the new combination Trimeresurus (Trimeresurus) albolabris. ... Color pattern: green above, the side of the head below the eyes is yellow, white or pale green, much lighter than rest of head.
+--------------------------------------------------------------------------------
+Taxonomy, Natural History, and Distribution of the Snakes of the Nicobar Islands (India), Based on New Materials and with an Emphasis on Endemic Species (https://www.researchgate.net/publication/260943233_Taxonomy_Natural_History_and_Distribution_of_the_Snakes_of_the_Nicobar_Islands_India_Based_on_New_Materials_and_with_an_Emphasis_on_Endemic_Species)
+ [wordlim: 200] Published: 20.9 years ago; Crawled: 2 months ago; Timor are identified as Trimeresurus insularis Kramer, ... Trimeresurus albolabris (Gray, 1842).
+--------------------------------------------------------------------------------
+A new species of green pit viper of the genus Trimeresurus Lacépède, 1804 (Reptilia: Serpentes: Viperidae) from the Nicobar Archipelago, Indian Ocean (https://www.academia.edu/68833383/A_new_species_of_green_pit_viper_of_the_genus_Trimeresurus_Lac%C3%A9p%C3%A8de_1804_Reptilia_Serpentes_Viperidae_from_the_Nicobar_Archipelago_Indian_Ocean)
+ [wordlim: 200] Published: 6.1 years ago; Crawled: yesterday; Five 23:19–21:15 in T. albolabris and T. insularis, 21:21:15 individuals of T. davidi sp. nov. were encountered during in T. caudornatus, 21:19:17 in T. septentrionalis, and this study. ... Comparison of morphological characters within the Trimeresurus albolabris group, adapted from Chen et al.
+--------------------------------------------------------------------------------
+Venomous Terrestrial Snakes of Malaysia: Their Identity and Biology (https://www.researchgate.net/publication/283690841_Venomous_Terrestrial_Snakes_of_Malaysia_Their_Identity_and_Biology)
+ [wordlim: 200] Published: 11.9 years ago; Crawled: 4 days ago; Snout ﬂat and projected Trimeresurus wiroti ... Tropidolaemus
+
+wagleri
+--------------------------------------------------------------------------------
+On Trimeresurus fasciatus (Boulenger, 1896)(Serpentes: Crotalidae), with a discussion on its relationships based on morphological and molecular data (https://www.academia.edu/94801714/On_Trimeresurus_fasciatus_Boulenger_1896_Serpentes_Crotalidae_with_a_discussion_on_its_relationships_based_on_morphological_and_molecular_data)
+ [wordlim: 200] Crawled: 4 months ago; ÐThe status of Trimeresurus fasciatus has, quite back, about 3-4 dorsal scales long, reaching ventrally the surprisingly, received some attention from herpetologists, midlateral region, usually divided on the vertebral line, with although this species has variously be regarded as valid or their two parts confluent or set off, sometimes nearly totally as a synonym of T. albolabris (Gray, 1842) (for example, alternating; an irregular dark brown blotch more or less by Auffenberg, 1980). ... Upper head order to accommodate specimens from eastern Java and surface and temporal regions olivaceous brown or dark islands located further east, Kramer (1977: 755) described brown, variegated with very diffuse darker markings; region T. albolabris insularis (type locality: Soe, Timor Island, of supralabials and snout pale greyish-brown or pale brown, Indonesia).
+--------------------------------------------------------------------------------
+Asijští chřestýšovci rodu Trimeresurus | iFauna.cz (https://www.ifauna.cz/terarijni-zvirata/clanky/r/detail/1493/1527-asijsti-chrestysovci-rodu-trimeresurus/)
+ [wordlim: 200] Crawled: last month; ## Trimeresurus purpureomaculatus (Gray, 1829)
+--------------------------------------------------------------------------------
+A new species of green pit vipers of the genus Trimeresurus Lacépède, 1804 (Reptilia, Serpentes, Viperidae) from western Arunachal Pradesh, India (https://www.academia.edu/124054962/A_new_species_of_green_pit_vipers_of_the_genus_Trimeresurus_Lac%C3%A9p%C3%A8de_1804_Reptilia_Serpentes_Viperidae_from_western_Arunachal_Pradesh_India)
+ [wordlim: 200] Published: 6.6 years ago; Crawled: 2 months ago; Species T. albolabris T. andersonii T. cantori T. erythrurus T. fasciatus T. insularis T. purpureomaculatus T. septentrionalis T. salazar sp. nov. zse.pensoft.net Dorsal colouration Green Brown or black Green or brown Green Brown Green or blue Black to dark brown Green Green Colour of lateral stripe on head White – White White – – – White Reddish orange Dorsal scale rows at midbody 21 23 or 25 27 or 31 23 21 21 23 to 27 21 19 or 21 TaL/TL Ventrals Subcaudals Hemipenis 0.19–0.24 0.16 0.12–0.20 0.16/0.21 0.18–0.21 0.21–0.22 0.16–0.19 0.19–0.24 0.14–0.18 149–173 171–183 170–176 151–174 158–163 156–167 152–183 160–181 163–171 48–67 53–74 44–73 49–67 63–65 54–75 54–79 55–83 59–74 bilobed, long bilobed, long bilobed, long bilobed, long bilobed, long bilobed, long bilobed, long bilobed, long bilobed, short Zoosyst. ... Trimeresurus salazar sp. nov. holotype male BNHS 3554. a.
+--------------------------------------------------------------------------------
+A New Species of Trimeresurus Lacépède, 1804 (Squamata: Viperidae) from (https://www.researchgate.net/publication/351088504_A_New_Species_of_Trimeresurus_Lacepede_1804_Squamata_Viperidae_from)
+ [wordlim: 200] Published: 5.6 years ago; Crawled: 3 months ago; Figure 2 Compa rison of coloration between Trimeresurus guoi sp. nov (Lef t) and T. albolabris (Right). ... The color of la teral body gradually turns from olive ... Figure 3 Compa rison in head scales a nd coloration between Trimeresurus guoi sp. nov. a nd T. albolabris.
+--------------------------------------------------------------------------------
+Trimeresurus insularis - Crotale insulaire - Crotale aux lèvres blanches - Crotale de l'île de Komodo - Crotale de l'île de Wetar - Fiche - Fer de lance - Serpent bleu vert jaune vipère asiatique vipéridés prix vendre temperature terrarium venin albolabris (https://www.le-conservatoire-de-kennel.fr/2022/04/27/trimeresurus-insularis-crotale-insulaire-crotale-aux-levres-blanches-crotale-de-l-ile-de-komodo-crotale-de-l-ile-de-wetar-fiche-fer-de-lance-serpent-bleu-vert-jaune-vipere-asiatique-viperides-prix/)
+ [wordlim: 200] Published: 4.6 years ago; Crawled: 3 months ago; En effet certain Trimeresurus insularis ont le même vert feuille que celui des Trimeresurus albolabris.
+--------------------------------------------------------------------------------
+Integrative analysis of geographic variation and species boundaries in the white-lipped pitviper complex (Squamata: Viperidae: Crotalinae: Trimeresurus albolabris) (https://www.researchgate.net/publication/392494850_Integrative_analysis_of_geographic_variation_and_species_boundaries_in_the_white-lipped_pitviper_complex_Squamata_Viperidae_Crotalinae_Trimeresurus_albolabris)
+ [wordlim: 200] Published: 1.5 years ago; Crawled: 3 months ago; (diamonds, except for T. mutabilis, which is indicated by a star to distinguish it from T. cantori from the same location) D insularis ... species: blue for Trimeresurus albolabris sensu stricto ... Both subspecies of Trimeresurus albolabris can be
+--------------------------------------------------------------------------------
+The Dangerously Venomous Snakes of Myanmar. Illustrated Key and Checklist (https://www.academia.edu/60739301/The_Dangerously_Venomous_Snakes_of_Myanmar_Illustrated_Key_and_Checklist)
+ [wordlim: 200] Published: 23.0 years ago; Crawled: today; Trimeresurus purpureomaculatus Gray, 1830 Trigonocephalus purpureomaculatus Gray in Gray and Hardwicke, 1830:pl. ... Trimeresurus stejnegeri K.P.
+--------------------------------------------------------------------------------
+First record of the White-lipped Pitviper (Trimeresurus albolabris) from Hai Phong City: report of an unusual colour morph from Bach Long Vy Island in the Gulf of Tonkin, northern Vietnam and identification of previously erroneously determined T. rubeus and T. cardamomensis from southern Vietnam (https://www.researchgate.net/publication/325988143_First_record_of_the_White-lipped_Pitviper_Trimeresurus_albolabris_from_Hai_Phong_City_report_of_an_unusual_colour_morph_from_Bach_Long_Vy_Island_in_the_Gulf_of_Tonkin_northern_Vietnam_and_identificati)
+ [wordlim: 200] Published: 8.5 years ago; Crawled: 4 months ago; Trimeresurus albolabris – Vietnam ... von [Brownish green colour m orph of Trimeresurus fr om] ... upper parts of head in yellow T. insularis.
+--------------------------------------------------------------------------------
+Trimeresurus insularis (https://en.wikipedia.org/wiki/Trimeresurus_insularis)
+ [wordlim: 200] Crawled: 6 months ago; * Trimeresurus albolabris insularis Kramer, 1977 ... (Trimeresurus albolabris insularis, p.
+--------------------------------------------------------------------------------
+Insel-Bambusotter (https://de.wikipedia.org/wiki/Insel-Bambusotter)
+ [wordlim: 200] Crawled: 9 months ago; Sie wurde 1977 von Eugen Kramer als Trimeresurus albolabris insularis, d. h. zunächst als Unterart der Weißlippen-Bambusotter (Trimeresurus albolabris), wissenschaftlich erstbeschrieben.
+--------------------------------------------------------------------------------
+Trimeresurus salazar (https://de.wikipedia.org/wiki/Trimeresurus_salazar)
+ [wordlim: 200] Crawled: 9 months ago; Trimeresurus salazar ...  T. albolabris  | Grün  | Weiß  | 21  | 0,19–0,24  | 149–173  | 48–67  | gegabelt, lang ...  T. insularis  | Grün oder blau  | –  | 21  | 0,21–0,22  | 156–167  | 54–75  | gegabelt, lang
+--------------------------------------------------------------------------------
+Trimeresurus andersonii (https://de.wikipedia.org/wiki/Trimeresurus_andersonii)
+ [wordlim: 200] Crawled: 3.9 years ago; Trimeresurus andersonii ...  T. albolabris  | Grün  | Weiß  | 21  | 0,19–0,24  | 149–173  | 48–67  | gegabelt, lang ...  T. insularis  | Grün oder blau  | –  | 21  | 0,21–0,22  | 156–167  | 54–75  | gegabelt, lang
+--------------------------------------------------------------------------------
+Trimeresurus erythrurus (https://de.wikipedia.org/wiki/Trimeresurus_erythrurus)
+ [wordlim: 200] Crawled: 3.9 years ago; Trimeresurus erythrurus ...  T. albolabris  | Grün  | Weiß  | 21  | 0,19–0,24  | 149–173  | 48–67  | gegabelt, lang ...  T. insularis  | Grün oder blau  | –  | 21  | 0,21–0,22  | 156–167  | 54–75  | gegabelt, lang
+--------------------------------------------------------------------------------
+Mengenal ular hijau ekor merah / Gadung luwuk ( TRIMERESURUS INSULARIS ) - YouTube (https://www.youtube.com/watch?v=o6BmFnSF29c)
+ [wordlim: 200] Published: 7.9 years ago; Crawled: 7 months ago;   Nh ular yg saya saya temukan kali ini adalah trimeresurus insularis bukan albolabris karna matanya berwarna merah sementara albolabris matanya berwarna kuning.
+# Mengenal ular hijau ekor merah / Gadung luwuk ( TRIMERESURUS INSULARIS )
+By: Sedulurreptilmania (14400 followers)
+Published: 2018-12-27, 38582 views, 348 likes
+
+## Description
+Jangan lupa follow Ig saya:   / rizalreptilemania  
+
+
+
+
+
+  Nh ular yg saya saya temukan kali ini adalah trimeresurus insularis bukan albolabris karna matanya berwarna merah sementara albolabris matanya berwarna kuning. Memang insularis locality jawa dan bali berwarna hijau.
+  Ular hijau ekor merah memang bukan cuma dari jenis albolabris saja ada juga T. Hangeni dan T. Sumatrana
+--------------------------------------------------------------------------------
+Mengenal ular hijau ekor merah ( TRIMERESURUS INSULARIS ) part 1 - YouTube (https://www.youtube.com/watch?v=uN--jeoACVw)
+ [wordlim: 200] Published: 8.3 years ago; Crawled: 3 months ago; Ular yg saya temukan kali ini berjenis trimeresurus insularis bukan albolabris karena di daerah saya gk ada ular dari jenis trimeresurus albolabris.
+# Mengenal ular hijau ekor merah ( TRIMERESURUS INSULARIS ) part 1
+By: Sedulurreptilmania (14500 followers)
+Published: 2018-07-26, 24593 views, 292 likes
+
+## Description
+Jangan lupa folow ig saya :   / rizalreptilemania  
+
+
+
+Ular yg saya temukan kali ini berjenis trimeresurus insularis bukan albolabris karena di daerah saya gk ada ular dari jenis trimeresurus albolabris. Meskipun begitu kandungan bisa dari ular insularis ini sama dengan albolabris karna masih satu keluarga! dan kebanyakan orang yg tergigit ular ini akan berujung pada kematian karna anti bisa yg tersedia di rumah sakit tidak cukup membantu dalam menghadapi gigitan dari ular ini!! 
+
+  Terus apa bedanya trimeresurus insularis dan albolabris padahal dari segi warna sama! Mungkin di lain waktu saya bakal membuat vidionya mengingat saya juga bakal membuat part 2 dari ular trimeresurus insularis ini
+--------------------------------------------------------------------------------
+🔥 Viper having dinner (https://www.reddit.com/r/NatureIsFuckingLit/comments/q78hwr)
+ [wordlim: 200] Published: 5.1 years ago; Crawled: 4.7 years ago; Is that it’s real color? ...   White Lipped Island Pit Viper or Trimeresurus albolabris insularis is the species of viper. The regular morph is green with white scales lining the mouth, blue is the rarer colour morph!
+--------------------------------------------------------------------------------
+Could you please help me with an ID? [Langkawi, Malaysia] (https://www.reddit.com/r/whatsthissnake/comments/1h4bs62)
+ [wordlim: 200] Published: 2.0 years ago; Crawled: 1.8 years ago; Usually the common name refers to Trimeresurus insularis, the island white lipped viper, and Trimeresurus albolabris, the un-prefixed white-lipped viper.
+--------------------------------------------------------------------------------
+Delta was not happy about having his enclosure replanted (https://www.reddit.com/r/reptiles/comments/10akp9a)
+ [wordlim: 200] Published: 3.9 years ago; Crawled: 3.4 years ago; Trimeresurus albolabris insularis is technically speaking a locality that comes in the blue coloration.
+--------------------------------------------------------------------------------
+🔥 The gorgeous white lipped pit viper (https://www.reddit.com/r/NatureIsFuckingLit/comments/d7y9aw)
+ [wordlim: 200] Published: 7.2 years ago; Crawled: 1.2 years ago;     The snake pictured is a colour morph/subspecies of the White-Lipped Pit Viper (Trimeresurus albolabris insularis) it’s an incredibly rare morph and it typically too has a little white patch above its mouth. ... Trimeresurus albolabris insularis is the snake pictured here and it’s just an incredibly rare subspecies of the more commonly seen green viper.
+--------------------------------------------------------------------------------
+Close up of a beautiful Blue Racer. (https://www.reddit.com/r/natureismetal/comments/k9n3cn)
+ [wordlim: 200] Published: 6.0 years ago; Crawled: 5.9 years ago;   White-Lipped Island Pit Viper (Trimeresurus albolabris insularis), this is the blue morph they are more regularly green; found in Indonesia and East Timor!
+--------------------------------------------------------------------------------
+🔥 White-lipped pit viper (https://www.reddit.com/r/NatureIsFuckingLit/comments/g11j81)
+ [wordlim: 200] Published: 6.6 years ago; Crawled: 4.7 years ago; White-lipped pitviper is usually referred to Trimeresurus albolabris. This is Trimeresurus insularis.
+--------------------------------------------------------------------------------
+my pairs (https://www.reddit.com/r/VenomousKeepers/comments/1twnr0h/my_pairs/)
+ [wordlim: 200] Published: 5 months ago; Trimeresurus insularis ... should’ve been three pairs but the blue one ate my male albolabris
+--------------------------------------------------------------------------------
+Pitão-verde-arborícola 🐍 (https://www.reddit.com/r/BiologiaBrasil/comments/1gilzqb)
+ [wordlim: 200] Published: 2.0 years ago; Crawled: 2.0 years ago; Trimeresurus albolabris ... trimeresurus insularis
+--------------------------------------------------------------------------------
+Just picked up these beauties (https://www.reddit.com/r/Sneks/comments/1aobry7)
+ [wordlim: 200] Published: 2.8 years ago; Crawled: 1.6 years ago; I finally have a male (green)/female (blue) pair of Trimeresurus insularis. ... Albolabris?
+--------------------------------------------------------------------------------
+my snakes so far (https://www.reddit.com/r/snakes/comments/1fva011)
+ [wordlim: 200] Published: 2.1 years ago; Crawled: 1.7 years ago; Trimeresurus albolabris ...   all but two is venomous(number 2&4). it’s a blue phase lesser sunda pit viper Trimeresurus insularis ... My favorite is the blue one, absolutely beautiful color and I just genuinely love snakes, I'm kinda scared of them after one was dropped on me from the sky but I plan to have a snake in the future depending on what i do
+--------------------------------------------------------------------------------
+Baby Insularis 😍 (https://www.reddit.com/r/snakes/comments/yjb8dn)
+ [wordlim: 200] Published: 4.1 years ago; Crawled: 3.4 years ago;   Close…this is a Trimeresurus Insularis, the more commonly called white- lipped viper is usually Trimeresurus albolabris (although sometimes these are also called white lipped *island* vipers as well… why I try not to use common names with snakes it gets so confusing lol)
+--------------------------------------------------------------------------------
+does anyone knows what snakes this is? (https://www.reddit.com/r/snakes/comments/q61ha2)
+ [wordlim: 200] Published: 5.1 years ago; Crawled: 5.1 years ago;   White-lipped island pit viper (Trimeresurus insularis), it’s related to the white-lipped pit viper (T. albolabris), endemic to Southeast Asia.
+

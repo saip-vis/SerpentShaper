@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "preset_id": "hydrophis_platurus",
+  "species_id": "source_5c8709e97cfc949f",
+  "source_species_name": "Hydrophis platurus",
+  "common_name": "Yellow-bellied Sea Snake",
+  "status": "illustrative_unvalidated",
+  "variant": "Yellow-bellied sea snake: dark dorsal body, yellow lower flank and spotted yellow paddle.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://australian.museum/learn/animals/reptiles/yellow-bellied-sea-snake/",
+        "scope": "Existing source profile; not yet applied to this template."
+      },
+      {
+        "url": "https://australian.museum/learn/animals/reptiles/yellow-bellied-sea-snake/",
+        "scope": "Species description and/or taxonomy; image views and individual identity need further review."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_078_hydrophis_platurus/manifest.json",
+        "image_id": "inat_8743179",
+        "sha256": "325bb764066b2aae797d31438b0a40c5548d1e978a04e4c6892655b54bacdfd6",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_078_hydrophis_platurus/manifest.json",
+        "image_id": "inat_16268469",
+        "sha256": "d5660d1259b071719fc523c40a06ff89d8a8180739df2c57b4c9340d518ad249",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_078_hydrophis_platurus/manifest.json",
+        "image_id": "inat_30117195",
+        "sha256": "31edb6c88bd02597399e610a287cc40d43046e4b6bbd62d899723491c99043c4",
+        "use": "Qualitative photo reference; no expert identification or health assessment implied."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_8743179": "Dark upper body with yellow lower edge in a beached individual.",
+      "inat_16268469": "Yellow underside and strongly contrasting patterned paddle tail.",
+      "inat_30117195": "Swimming form and paddle seen at a distance."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Initial photo-informed draft; further fitting and independent anatomical review required.",
+    "modeling_flags": [
+      "The oblique split color and paddle spotting are schematic, not a full lateral or ventral reconstruction.",
+      "Head and paddle use an adapted marine scaffold; angle-specific geometry and scale counts remain unverified."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_initial_draft",
+      "observations": [
+        "Dark upper body with yellow lower edge in a beached individual.",
+        "Yellow underside and strongly contrasting patterned paddle tail.",
+        "Swimming form and paddle seen at a distance.",
+        "Added a muted yellow lower-jaw edge after inspecting the full-body and head render."
+      ],
+      "projection_limit": "One oblique projection; paddle and body proportions are artistic, not measured.",
+      "reference_ids": [
+        "inat_8743179",
+        "inat_16268469",
+        "inat_30117195"
+      ]
+    }
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "marine",
+    "pattern": "lateral_bicolor",
+    "skin_color": "#292f33",
+    "marking_color": "#272f31",
+    "belly_color": "#e2ba49",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "paddle",
+    "scale_pitch": 7.4,
+    "mark_spacing": 40,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "neutral",
+    "pose": "grounded_open_S",
+    "head_geometry": {
+      "length": 61,
+      "neck": 8,
+      "upper": [
+        [
+          0.0,
+          0,
+          0.0,
+          -6,
+          3.45283,
+          -10,
+          12.66038,
+          -10
+        ],
+        [
+          12.66038,
+          -10,
+          25.32075,
+          -11,
+          35.67925,
+          -12,
+          46.03774,
+          -9
+        ],
+        [
+          46.03774,
+          -9,
+          51.79245,
+          -8,
+          55.24528,
+          -8,
+          61,
+          -8
+        ]
+      ],
+      "lower": [
+        [
+          0.0,
+          0,
+          0.0,
+          6,
+          6.90566,
+          10,
+          16.11321,
+          10
+        ],
+        [
+          16.11321,
+          10,
+          28.77358,
+          12,
+          41.43396,
+          11,
+          48.33962,
+          9
+        ],
+        [
+          48.33962,
+          9,
+          54.09434,
+          8,
+          56.39623,
+          8,
+          61,
+          8
+        ]
+      ],
+      "eye": [
+        19,
+        -2,
+        2.8,
+        2.9
+      ],
+      "nostril": [
+        5,
+        -4.5
+      ],
+      "jaw": "M2 4 Q23.2 7 47.0 6 L55.5 4",
+      "shields": [
+        "M5 -6 L14 -8 L21 -3 L18 4",
+        "M14 -8 L27 -9 L34 -4 L31 5 L18 4",
+        "M8 5 L9 9 M18 6 L19 10 M29 6 L31 10"
+      ],
+      "lip": false,
+      "origin": [
+        145,
+        185
+      ],
+      "angle_degrees": 17,
+      "iris_color": "#494c42",
+      "markings": [
+        {
+          "path": "M1 3 Q12 6 25 7 L25 9 Q12 9 1 6 Z",
+          "fill": "#bca04e"
+        }
+      ]
+    },
+    "body_stations": [
+      [
+        225,
+        212,
+        8
+      ],
+      [
+        265,
+        232,
+        13
+      ],
+      [
+        340,
+        259,
+        23
+      ],
+      [
+        436,
+        283,
+        26
+      ],
+      [
+        503,
+        326,
+        26
+      ],
+      [
+        515,
+        380,
+        25
+      ],
+      [
+        461,
+        421,
+        23
+      ],
+      [
+        364,
+        438,
+        21
+      ],
+      [
+        273,
+        462,
+        18
+      ],
+      [
+        248,
+        500,
+        15
+      ],
+      [
+        286,
+        535,
+        11
+      ],
+      [
+        369,
+        558,
+        9
+      ],
+      [
+        444,
+        562,
+        8
+      ],
+      [
+        498,
+        552,
+        15
+      ],
+      [
+        545,
+        530,
+        19
+      ],
+      [
+        574,
+        503,
+        14
+      ],
+      [
+        583,
+        484,
+        0
+      ]
+    ],
+    "head_detail_box": [
+      125,
+      140,
+      170,
+      120
+    ],
+    "head_color": "#292f33",
+    "pit_present": false,
+    "tail_pattern": "spots",
+    "tail_pattern_length": 115,
+    "lateral_boundary": 0.12
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3,
+  "common_name_source": "https://api.inaturalist.org/v1/taxa"
+}

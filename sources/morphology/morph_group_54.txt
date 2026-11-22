@@ -1,0 +1,242 @@
+Capitulo 1 (https://serpientes.ins.gov.co/Paginas/es/1.aspx)
+ [wordlim: 200] Crawled: 6 days ago; Particularmente en Colombia, una de las principales dificultades durante el diagnóstico y tratamiento del accidente ofídico es la correcta identificación de la especie o género de la serpiente [1]. ... Crotalus durissus.— La serpiente de cascabel suramericana, a lo largo de su rango de distribución geográfica conocido, ocupa principalmente tierras bajas <1.000 msnm (Tabla 1). ... Del total de las 49 especies de serpientes venenosas presentes en Colombia, 16 especies tienen diez o menos registros o localidades conocidas (Figura 8), lo que representa entre 0,2-0,02% del total de registros disponibles para las serpientes venenosas del país (~5.488 registros, ver https://ofidismo.ins.gov.co), Eso las convierte en las serpientes venenosas más enigmáticas de Colombia (Tabla 2).
+Crotalus durissus*  | No  | No  | Ant, Ara, Atl, Bol, Boy, Ces, Cun, Hui, LaG, Mag, Met, Tol, Vic  | 7—1717,  = 235
+Porthidium lansbergii*  | No  | Si  | Ant, Atla, Bol, Boy, Cas, Ces, Cho, Cór, Hui, LaG, Mag, NSa, San, Suc, Tol  | 0—1243,  = 782
+Porthidium nasutum  | No  | No  | Ant, Cho, Val  | 12—1011,  = 307
+Micrurus dumerilii*  | No  | Si  | Ant, Atl, Bol, Boy, Cal, Cau, Cesar, Cho, Cór, Cun, Hui, LaG, Mag, Met, Nar, NSa, Ris, San, Suc, Tol, Val,  | 2—2278,  = 815
+Micrurus mipartitus*  | No  | Si  | Ant, Boy, Cal, Cau, Ces, Cho, Cór, Cun, Hui, Mag, Met, Nar, NSa, Ris, San, Suc, Tol, Val,  | 11—2606,  = 1204
+Serpientes que muerden frecuentemente, pero rara vez causan envenenamientos graves o potencialmente mortales
+Dryophylax gambotensis  | Si  | Si  | Atl, Bol, Ces, Cór, LaG, Mag, Suc  | 1—161,  = 34
+Helicops angulatus  | No  | No  | Ama, Caq, Cun, Gua, Guav, Met, Put, Vau, Vic  | 52—570,  = 237
+Leptodeira annulata*  | No  | No  | Ama, Ant, Atla, Bol, Boy, Cal, Caq, Cas, Cau, Ces, Cho, Cór, Cun, Hui, LaG, Mag, Met, San, NSa, Suc, Tol, Val, Vic  | 3—2130,  = 646
+Crotalus durissus.— La serpiente de cascabel suramericana, a lo largo de su rango de distribución geográfica conocido, ocupa principalmente tierras bajas <1.000 msnm (Tabla 1). No obstante, en algunas localidades como, San Lorenzo, ubicada sobre vertiente occidental de la Sierra Nevada de Santa Marta, departamento de Magdalena, existen registros confirmados que amplían de forma notable su distribución altitudinal, alcanzando los 1.700 msnm. Por otro lado, existen dos registros de tierras altas que están fuera del rango histórico de distribución conocido para esta especie. Uno en la vereda El Centro, Villa de Leyva, departamento de Boyacá (IAvH 4849); el segundo en Fusagasugá, departamento de Cundinamarca (1.729 msnm; colección CRODUR00021 INSZ). Sin embargo, ambos registros probablemente sean resultado de actividades humanas que causaron una translocación desde el área de distribución original a la localidad reportada.
+
+Hydrophis platurus.— La serpiente marina de vientre amarillo es la única serpiente marina presente en Colombia, y probablemente en todo el hemisferio occidental. Este es el caso de Crotalus durissus, que además de enfrentar las principales amenazas como la pérdida de hábitat y la matanza deliberada por humanos, está sujeta a un fuerte tráfico ilegal en Colombia. Esta especie se utiliza en todo el país en prácticas mágico-religiosas, así como en la medicina tradicional para tratar el cáncer, la disfunción eréctil y como potenciador sexual.
+
+Por lo tanto, las poblaciones de C. durissus están bajo una presión constante y significativa debido al tráfico descontrolado. No obstante, esta especie carece de una evaluación de conservación integral que ayude a abordar acciones y estrategias para revertir, mitigar o detener sus amenazas. Actualmente, C. durissus está incluida en el apéndice III de CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres), lo que le otorga protección legal para el comercio o tráfico cuando los especímenes o sus partes se exportan desde Colombia. Sin embargo, dentro del territorio colombiano, no existen leyes o normativas específicas que protejan a sus poblaciones más allá de las normativas ambientales que establece los requisitos para las licencias de uso comercial de la vida silvestre (Ley 84 de 1989; Ley 611 de 2000; decreto 4688 de 2005; decreto 1076 de 2015; decreto 1272 de 2016; resolución 1263 de 2006; resolución 1909 de 2017).
+
+
+Métodos de búsqueda para la identificación de estudios: Búsquedas electrónicas
+
+Realizamos búsquedas mensuales desde abril de 2021 hasta junio de 2024 en los siguientes repositorios electrónicos y motores de búsqueda web: MEDLINE, Scielo, Scopus, Google Scholar y Pubmed. Las estrategias de búsqueda contenían las siguientes palabras clave que fueron combinados de diferentes maneras utilizando los conectores booleanos AND y OR: venenos de serpientes, Bothrops, Crotalus, Bothriechis, Porthidium, Lachesis, Micrurus, Xenodon, Leptophis, Erythrolamprus, Oxybelis, Helicops, Bothrocophias, Thamnodynastes, Leptodeira, Philodryas, taxonomía, distribución, neotrópicos, morfología, delimitación de especies, taxonomía integrativa.
+
+Búsqueda de otros recursos
+
+Revisamos los estudios citados relevantes al revisar los informes identificados por las búsquedas electrónicas, así como las listas de referencias de cualquier revisión directamente relevante identificada. No aplicamos restricciones de idioma o fecha e incluimos estudios independientemente del tipo de publicación (p. ej., resumen de conferencia, entrada en registros de ensayos, artículo de revista, libro).
+--------------------------------------------------------------------------------
+Mordeduras, Venenos y **serpientes venenosas de Colombia** (https://serpientes.ins.gov.co/CapsES/SerpientesCol-CAP01_ESP.pdf)
+ [wordlim: 200] Published: 1.3 years ago; Es probable que se trate de un caso de identificación errónea de la especie, ya que este registro está demasiado lejos de la distribución geográfica históricamente conocida. ... *Crotalus durissus. ... Uno en la vereda El Centro, Villa de Leyva, departamento de Boyacá (IAvH 4849); el segundo en Fusagasugá, departamento de Cundinamarca (1.729 msnm; colección CRODURU0021 INSZ). ... *— La serpiente marina de vientre amarillo es la única serpiente marina presente en Colombia, y probablemente en todo el hemisferio occidental.
+Mordeduras, Venenos y **serpientes venenosas de Colombia**
+
+existe una localidad problemática en Yarumal, departamento de Antioquia. Es probable que se trate de un caso de identificación errónea de la especie, ya que este registro está demasiado lejos de la distribución geográfica históricamente conocida. El espécimen que sustenta este registro no fue revisado; se encuentra en la colección de reptiles del Museo de La Salle (Bogotá) bajo el número de catálogo MLS 1832. El registro geográfico se recuperó del «Sistema de Información Biológica Colombiano» (SiB Colombia).
+
+*Crotalus durissus.*— La serpiente de cascabel suramericana, a lo largo de su rango de distribución geográfica conocido, ocupa principalmente tierras bajas <1.000 msnm (Tabla 1). No obstante, en algunas localidades como, San Lorenzo, ubicada sobre vertiente occidental de la Sierra Nevada de Santa Marta, departamento de Magdalena, existen registros confirmados que amplían de forma notable su distribución altitudinal, alcanzando los 1.700 msnm. --------------------------------------------------------------------------------
+Serpientes Asesinos por naturaleza: Revisión de los caminos evolutivos de las víboras colombianas (https://serpientes.ins.gov.co/Paginas/es/3.aspx)
+ [wordlim: 200] Crawled: last week; La serpiente cascabel sudamericana Crotalus durissus (sensu lato) es una especie que se destaca entre sus congéneres del género Crotalus por su amplia distribución geográfica, un número significativo de accidentes ofídicos reportados anualmente, y por los síntomas de sus envenenamientos, como la parálisis neuromuscular, rabdomiólisis, lesión renal aguda y coagulopatía [120] (ver Capítulo 5 y 9). ... (Superior) Cabeza en vista lateral de Crotalus durissus del municipio de El Paso, Cesar Colombia (INSZ 115).
+
+Víboras gigantes colombianas: La serpiente cascabel suramericana y el verrugoso
+
+La serpiente cascabel sudamericana Crotalus durissus (sensu lato) es una especie que se destaca entre sus congéneres del género Crotalus por su amplia distribución geográfica, un número significativo de accidentes ofídicos reportados anualmente, y por los síntomas de sus envenenamientos, como la parálisis neuromuscular, rabdomiólisis, lesión renal aguda y coagulopatía [120] (ver Capítulo 5 y 9). Investigaciones taxonómicas y sistemática, documentan la amplia diversidad de linajes/subespecies de la especie C. durissus[121]: C. d. durissus [11]; C. d. cascavella[9]; C. d. collilineatus[52]; C. d. cumanensis[122]; C. d. marojoensis [123]; C. d. maricelae [124]; C. d. ruruima [123]; C. d. terrificus[37]; and C. d. trigonicus [125]. Estos autores incluyen dos especies adicionales del norte de Suramérica, Crotalus unicolor [126] con una distribución geográfica restringida a Aruba, y Crotalus vegrandis[127] restringida a Venezuela, la cual previamente fue considerada como una subespecie de C. durissus (ver Figura 5 Superior).
+--------------------------------------------------------------------------------
+Instituto Nacional de Salud (https://www.ins.gov.co/Transparencia/ReportesControlInterno/Informe%20Evaluaci%C3%B3n%20por%20Dependencias%20vigencia%202019.pdf)
+ [wordlim: 200] Published: 6.7 years ago; Crawled: 2 weeks ago; |  |  |  | crotalus durissus, 1 espécimen vivo Serpiente rabo de ají.). ... Actividades asociadas a proyectos de investigación: De acuerdo a lo manifestado por el proceso se efectuaron gestiones relacionadas con adquisición e importación de equipos proyecto Colciencias 58348 de 2017, se observan comunicaciones que soportan esta tarea.<br>e) Construir documentos técnicos y realizar capacitaciones sobre animales venenosos y los antivenenos del INS: Se observa elaboración y revisión final del documento Instructivo colecta, transporte, manejo y mantenimiento de orugas del genero de lonomia y modificación de los diferentes documentos normalizados del proceso; Se reporta en el informe de gestión del área la publicación en la revista PLOS Neglected Tropical Diseases del artículo científico: “A polyvalent coral snake antivenom with broad neutralization capacity”, asimismo se dio inicio a la construcción del artículo científico sobre antiveneno lonomico; Se observan registros en FOR-A01.0000-006 registro de asistencia de capacitaciones sobre Manejo y prevención de accidente ofídico, capacitación serpientes de importancia médica y manejo prehospitalario en AO, Capacitación serpientes de importancia médica, Venenos y Antivenenos, Capacitación identificación animales venenosos, prevención y manejo de AO, Capacitación serpientes de importancia médica, venenos y antivenenos, Capacitación "identificación animales venenosos, |
+|
+
+</table>
+
+<table id="e3">
+
+| 4. COMPROMISOS ASOCIADOS AL CUMPLIMIENTO DEL OBJETIVO INSTITUCIONAL (ACTIVIDADES POA) | 5.1. INDICADOR | 5.2. RESULTADO | 5.3. ANÁLISIS DE LOS RESULTADOS (DESCRIPCIÓN AVANCES) |
+|---|---|---|---|
+|  |  |  | crotalus durissus, 1 espécimen vivo Serpiente rabo de ají.). Se evidencia registro en FOR-R04.6014-032 Formato de control de ingreso de serpientes, soporte salvoconducto para la movilización de especies de diversidad biológica emitidas por las corporaciones ambientales autorizadas con fechas de 17 de abril (Corpoguavio), 15 de mayo (Cortolima), 17 de mayo (CAR) y 11 de junio del 2019 (Corpoguavio).<br>b) Ejecutar actividades de cuidados, manejo y desarrollo del plan sanitario ponzoñosos según corresponda: Se observa reporte de las actividades realizadas para el cuidado y manejo de los animales ponzoñosos de la Hacienda Galindo, entre las que se encuentra: inspección diaria, alimentación y cambio de sustratos, pesaje, toma de muestra coprológica y revisión clínica. --------------------------------------------------------------------------------
+Tabla 10 Ingreso de animales de importancia médica (https://www.ins.gov.co/Transparencia/Informes%20de%20gestin/INFORME%20DE%20GESTION%20INS%202025%2016%2003%202026.pdf)
+ [wordlim: 200] Published: 8 months ago; <td><b>SERPIENTES</b></td> ... <td><i>Crotalus durissus</i></td> ... Estas actividades abordaron temas fundamentales como la identificación y la historia natural de los animales venenosos, así como la prevención, los primeros auxilios y la atención prehospitalaria frente a accidentes ocasionados por estos organismos. Asimismo, se incluyó la socialización de los procesos de producción de antivenenos realizados en el INS.
+<td></td>
+<td><b>VIPERIDAE</b></td>
+<td></td>
+</tr>
+<tr>
+<td><i>Ananteris solimariae</i></td>
+<td>29</td>
+<td><i>Bothrocophias tulitoi</i></td>
+<td>5</td>
+</tr>
+<tr>
+<td><i>Centruroides edwardsii</i></td>
+<td>551</td>
+<td><i>Bothrops asper</i></td>
+<td>8</td>
+</tr>
+<tr>
+<td><i>Rhopalurus laticauda</i></td>
+<td>54</td>
+<td><i>Bothrops atrox</i></td>
+<td>2</td>
+</tr>
+<tr>
+<td><i>Tityus bastosi</i></td>
+<td>6</td>
+<td><i>Bothrops punctatus</i></td>
+<td>1</td>
+</tr>
+<tr>
+<td><i>Tityus guane</i></td>
+<td>3</td>
+<td><i>Crotalus durissus</i></td>
+<td>1</td>
+</tr>
+<tr>
+<td><i>Tityus pachyurus</i></td>
+<td>1155</td>
+<td><i>Porthidium lansbergii</i></td>
+<td>4</td>
+</tr>
+<tr>
+<td><i>Tityus sabinae</i></td>
+<td>821</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><i>Tityus sp</i></td>
+<td>18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>SUBTOTAL: 2637</b></td>
+<td></td>
+<td><b>SUBTOTAL: 21</b></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4"><b>TOTAL GENERAL: 2820</b></td>
+</tr>
+</table>
+
+Fuente: Elaboración propia
+
+Del total general de especímenes colectados de animales de importancia médica, el 93.5% correspondió a escorpiones de la familia Buthidae. --------------------------------------------------------------------------------
+9.1 Accidente ofídico (https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/GT/guias-manejo-emergencias-toxicologicas-outpout.pdf)
+ [wordlim: 200] Published: 9.1 years ago; De acuerdo al Sistema de Vigilancia en Salud Pública, los accidentes por *Crotalus durissus cumanensis* (cascabel) se estiman en un 2%, seguido de accidentes por *Micrurus* spp. con 1% y *Lachesis* spp. con 0,4%³.
+
+Las serpientes de la familia Colubridae ocasionan el 12 % de las mordeduras en el Cauca⁴. ... *Nota: Se excluye de esta clasificación a la serpiente de mar (*Pelamis platura*⁶), de la familia Elapidae. ... Existen algunas características que permiten la identificación de especies venenosas y no venenosas de ofidios.
+87)⁵:
+
+Tabla No 87. Nombres comunes de especies representativas de ofidios de importancia médica en Colombia
+
+<table id="e1">
+<tr>
+<th>Familia</th>
+<th>Género</th>
+<th>Especies representativas</th>
+<th>Nombres comunes</th>
+</tr>
+<tr>
+<td rowspan="8">Viperidae (Víboras)</td>
+<td rowspan="6">Grupo <i>Bothrops</i> (sensu lato)</td>
+<td><i>Bothrops asper, atrox, ayerbei</i>⁶</td>
+<td>Mapaná, taya X, cuatronarices, boquidora, pelo de gato, terciopelo, rabisea, rabo de chucha, equis Patiana.</td>
+</tr>
+<tr>
+<td><i>Bothrops rhombeatus</i>⁶</td>
+<td></td>
+</tr>
+<tr>
+<td><i>Bothrops punctatus</i></td>
+<td>Rabo de chucha, mapaná rabiseca.</td>
+</tr>
+<tr>
+<td><i>Bothriechis schlegelii</i></td>
+<td>Granadilla, cabeza de candado, víbora de pestaña ó víbora de tierra fría, yaruma.</td>
+</tr>
+<tr>
+<td><i>Bothriopsis bilineata</i></td>
+<td>Lora, lorita, orito.</td>
+</tr>
+<tr>
+<td><i>Porthidium lansbergii, nasutum</i>⁶</td>
+<td>Patoco, patoquilla venticuatro, sapa.</td>
+</tr>
+<tr>
+<td><i>Lachesis</i></td>
+<td><i>Lachesis acrochorda, muta</i>⁶</td>
+<td>Verrugoso, rieca, surucucú, guascama.</td>
+</tr>
+<tr>
+<td><i>Crotalus</i></td>
+<td><i>Crotalus durissus cumanensis</i></td>
+<td>Cascabel.</td>
+</tr>
+<tr>
+<td>Elapidae (Corales)</td>
+<td><i>Micrurus</i></td>
+<td><i>Micrurus ancoralis, dumerilii, mipartitus, nattereri, nigrocinctus, isozonus, lemniscatus, obscurus, surinamensis</i>⁶</td>
+<td>Coral, coralillo, rabo de ají, gargantilla, cabeza de chocho, rabo de candela, mata-gatos.</td>
+</tr>
+</table>
+
+*Nota: Se excluye de esta clasificación a la serpiente de mar (*Pelamis platura*⁶), de la familia Elapidae. Adaptado de:7,8,8,10. Existen algunas características que permiten la identificación de especies venenosas y no venenosas de ofidios. La Tabla Nº 88, muestra dichas particularidades para las víboras y la Tabla Nº 89. evidencia lo propio para las serpientes corales.*--------------------------------------------------------------------------------
+Capitulo 10 (https://serpientes.ins.gov.co/Paginas/es/10.aspx)
+ [wordlim: 200] Crawled: last week; En particular, entre las víboras colombianas, Crotalus durissus la única serpiente de cascabel presente en el país, posee crotoxina una neurotoxina exclusiva de las serpientes de cascabel, construida a partir de una subunidad básica que es PLA2 (CB) y una subunidad ácida (CA) formada por tres péptidos (α, β y γ) unidos por siete enlaces disulfuro (ver Capítulo 5).
+En particular, entre las víboras colombianas, Crotalus durissus la única serpiente de cascabel presente en el país, posee crotoxina una neurotoxina exclusiva de las serpientes de cascabel, construida a partir de una subunidad básica que es PLA2 (CB) y una subunidad ácida (CA) formada por tres péptidos (α, β y γ) unidos por siete enlaces disulfuro (ver Capítulo 5). Esta toxina actúa como acompañante de la subunidad CB [143]. La crotoxina, tiene actividad antitumoral demostrada en cultivo celular y en pacientes con tumores sólidos que son refractarios a la terapia convencional [144–147]. Un estudio reciente propuso que la crotoxina pudiera ser una herramienta útil para evitar el desarrollo de trombosis al reducir los niveles de proteínas procoagulantes y aumentar los de proteínas anticoagulantes [148]. Finalmente, la cadena α de la subunidad CA de la crotoxina tiene actividad analgésica mediada por varios mecanismos. Por todas estas razones, Crotalus durissus entre todas las serpientes colombianas, es una de las especies que presenta el mayor potencial farmacológico.
+--------------------------------------------------------------------------------
+Serpientes Ecoepidemiología en el contexto colombiano: una mirada clínica de las mordeduras de serpientes venenosas (https://serpientes.ins.gov.co/Paginas/es/9.aspx)
+ [wordlim: 200] Crawled: last week; En Colombia, el envenenamiento crotálico es causado por Crotalus durissus. ... Este evento se caracteriza por los síntomas típicos de coagulopatía observados en las mordeduras de serpiente de la familia Viperidae, pero los síntomas locales son de menor intensidad que los presentes en el envenenamiento botrópico y laquésico.
+--------------------------------------------------------------------------------
+Guia de serpientes venenosas de Colombia bk 2.cdr (https://www.paisajesrurales.com/wp-content/uploads/2023/06/Guia-de-serpientes-venenosas-de-Colombia.pdf)
+ [wordlim: 200] Published: 3.4 years ago; Crotalus durissus (Linnaeus, 1758) **Cascabel** .................................................... ... Porthidium lansbergii (Schlegel, 1841) **Patoco** .................................................. ... **IDENTIFICACIÓN DE CORALES. ... **SERPIENTES FALSA CORALES** ...............................................................
+--------------------------------------------------------------------------------
+Serpientes Serpientes venenosas en cautiverio: Una historia de lecciones aprendidas (https://serpientes.ins.gov.co/Paginas/es/8.aspx)
+ [wordlim: 200] Crawled: last week; Históricamente, el serpentario del INS ha albergado al menos 608 ejemplares de serpientes, según los registros clínicos disponibles de 1990 a 2021. ... Después de la reubicación del serpentario de Armero (ver Capítulo 7) a lo largo del tiempo, la riqueza y abundancia de especies del serpentario crecieron gradualmente, agregando ocasionalmente víboras como Bothriechis schlegelii (víbora de pestañas), y Lachesis muta (verrugoso), pero manteniendo a Crotalus durissus, Bothrops asper y B. atrox como el núcleo de especies para la producción de antiofídicos.
+--------------------------------------------------------------------------------
+IDENTIFICACIÓN DE LA HEPATOTOXICIDAD INDUCIDA POR EL VENENO DE (https://repositorio.unicauca.edu.co/bitstream/handle/123456789/4324/Identificaci%C3%B3n%20de%20la%20hepatotoxicidad%20inducida%20por%20el%20veneno%20de%20la%20serpiente%20de%20cascabel%20Crotalus%20durissus%20cumanensis%20de%20la%20cuenca%20del%20r%C3%ADo%20Magdalena.pdf?isAllowed=y&sequence=1)
+ [wordlim: 200] Published: 4.4 years ago; Crotalus ... C. durissus ... La serpiente C. durissus se distribuye desde Colombia hasta Argentina, excepto
+--------------------------------------------------------------------------------
+Sin título 1 (https://serpientes.ins.gov.co/Paginas/es/5.html)
+ [wordlim: 200] Crawled: last week; (D) Solenglifa (serpiente de cascabel sudamericana Crotalus durissus, UMMZ 119571). ... Las serpientes con colmillos presentan cuatro tipos de arquitectura dental (Figura 1): colmillos frontales cortos, con canales abiertos o parcialmente cerrados que conducen el veneno a través de un surco visible que conecta con los orificios (dentición proteroglifa: Elapidae y Atractaspididae, como las serpiente coral o la serpiente áspid africana, respectivamente; Figura 1C); colmillos frontales largos y tubulares con conductos cerrados que transportan el veneno una superficie lisa entre los orificios (dentición solenoglifa: Viperidae, cascabeles o víboras; Figura 1D); y colmillos acanalados sólidos y agrandados ubicados en el extremo posterior del maxilar (dentición opistoglifa: colmillos traseros de falsas cobras de agua; Figura 1B); estos esta presentan en numerosos linajes de colúbridos (los surcos pueden estar presentes en la región anterior, posterior, lingual o labial del colmillo).
+--------------------------------------------------------------------------------
+Crotalus durissus (https://www.acguanacaste.ac.cr/bosque_seco_virtual/bs_web_page/paginas_de_especies/crotalus_durissus.html)
+ [wordlim: 200] Crawled: 2 weeks ago; #### Crotalus durissus ... Identificación: ... Aunque tengan los crótalos bien desarrollados,en centroamérica no están dispuestas a usarlos ,cuando se les provoca es una serpiente agresiva que levanta la cabeza bien por encima del suelo y a veces hasta ataca.Es resistente a su propio veneno.
+--------------------------------------------------------------------------------
+Alamos Nomenclature (https://desertmuseum.org/programs/alamos_fauna_tdfgallery2.php)
+ [wordlim: 200] Crawled: last month; The tiger rattlesnake (Crotalus tigris) is a small crevice-dwelling víbora de cascabel in tropical deciduous forest and foothills thornscrub. ... This moderately-small crevice-dweller is easily recognized by its small head, high body, and strongly banded color pattern.
+--------------------------------------------------------------------------------
+Corporación Autónoma Regional del Cesar (https://www.corpocesar.gov.co/Serpiente_cascabel_que_estaba_siendo_vendida_en_Facebook__fue_rescatada_en_Valledupar.html)
+ [wordlim: 200] Published: 8.8 years ago; Crawled: 2 months ago; Por su parte, el médico veterinario de Corpocesar, Marino Zuleta, manifestó su preocupación por la tenencia de un animal como este; ya que la serpiente Cascabel (Crotalus durissus) es una especie altamente peligrosa, pues contiene un veneno muy tóxico que afecta la salud y puede ser mortal en el ser humano. ... Ahora, las autoridades iniciarán el proceso de identificación del traficante, quien podrá pasar varios años en la cárcel.
+--------------------------------------------------------------------------------
+Staff View: Accidente ofídico en Caldas – Colombia: Aspectos clínicos y epidemiológicos (https://redcol.minciencias.gov.co/Record/REPOUCALDA_7564b52714347406ab263f9a8f5e841c/Details)
+ [wordlim: 200] Published: 1.7 years ago; Crawled: last month; Indague al afectado o los familiares si en el momento del accidente fue posible ver la serpiente agresora Si/No Nominal Dicotómica Se capturo la serpiente Pregunte al paciente o sus acompañantes si luego del accidente, capturaron la serpiente agresora (Viva o muerta) Si/No Nominal Dicotómica Agente agresor, identificación del genero De acuerdo con las características como color, tamaño, forma de la cola, nombre común, entre otras, mencionadas por el afectado o la familia identifique a cuál de los géneros pertenece la serpiente agresora; 1. ... Crotalus; 3.
+--------------------------------------------------------------------------------
+Crotalus durissus cumanensis (https://www.cervantesvirtual.com/obra/crotalus-durissus-cumanensis-1276819/)
+ [wordlim: 200] Published: 3.9 years ago; Crawled: last week;   * Crotalus durissus cumanensis Enlace externo en Biblioteca Virtual del Banco de la República ...     * Resumen: Serpiente venenosa solenoglifa (1), con una longitud promedio de 100 cm, que puede alcanzar los 180 cm.
+--------------------------------------------------------------------------------
+Informe Mensual de Fauna y Flora | PDF | Fotovoltaica | Energía renovable (https://es.scribd.com/document/1004044788/Informe-Mensual-de-Fauna-y-Flora)
+ [wordlim: 200] Published: 1.7 years ago; Crawled: today; Crotalus durissus Cascabel EV-RE-1593 26/02/2025 N/A 2727145
+--------------------------------------------------------------------------------
+Tiger rattlesnake (https://en.wikipedia.org/wiki/Tiger_rattlesnake)
+ [wordlim: 200] Crawled: 3 weeks ago; The specific name tigris, (Latin for 'tiger'), refers to the many narrow dorsal crossbands, which create a pattern of vertical stripes when viewed from the side. ... The tiger rattlesnake is easily identified by its small, spade-shaped head, which is about 1/25 of its total body length. ... "Snake Venomics of Crotalus tigris: The Minimalist Toxin Arsenal of the Deadliest Neartic Rattlesnake Venom".
+--------------------------------------------------------------------------------
+Rattlesnake "Crotalus tigris" - YouTube (https://www.youtube.com/watch?v=Hep7SmJJqmc)
+ [wordlim: 200] Published: 3.1 years ago; Crawled: 2 months ago; # Rattlesnake "Crotalus tigris" ... The tiger rattlesnake (Crotalus tigris) is easily identified by its small head, being the rattlesnake with the smallest head and a large rattle.
+# Rattlesnake "Crotalus tigris"
+By: Chulada de maíz prieto (96300 followers)
+Published: 2023-09-29, 3603 views
+
+## Description
+#viper
+#Rattlesnake
+#Tiger
+#Crotalus tigris
+#atrox
+#Snakes
+#Snake
+"Crotalus tigris"
+The tiger rattlesnake (Crotalus tigris) is easily identified by its small head, being the rattlesnake with the smallest head and a large rattle. The color pattern consists of a gray, lavender, bluish-gray, pink, or beige background color that usually becomes pink, pale orange, or cream on the sides. Tiger rattlesnakes are the only rattlesnakes with crossbands on the anterior part of their bodies, with a series of 35 to 52 gray, olive, or brown bands on the back consisting mainly of thick dots. These crossbands have indistinct edges and are wider dorsally than laterally. Regarding its venom, the tiger rattlesnake (Crotalus tigris) is considered the most venomous rattlesnake in Mexico. Although it has a comparatively low venom yield, its toxicity is considered the second highest of all rattlesnake venoms (after the Mojave rattlesnake) and the second highest of all snakes in the Western Hemisphere. It has a high neurotoxic fraction that is antigenically related to the Mojave rattlesnake toxin and includes another component immunologically identical to crotamine, a myotoxin also found in tropical rattlesnakes. Tiger rattlesnakes generally feed on mammals such as rodents, but they are also known to prey on lizards. The tiger rattlesnake ambushes most of its prey, but it also actively hunts small rodents and lizards. Juveniles rely heavily on lizards, while adults rely more on rodents. In addition, these small rattlesnakes have been known to eat fairly large prey. The venom of this species is considered the most toxic of all rattlesnakes and contains a myotoxin known to cause muscle necrosis and a neurotoxin similar to Mojave toxin.
+--------------------------------------------------------------------------------
+Crotalus ravus (https://es.wikipedia.org/wiki/Crotalus_ravus)
+ [wordlim: 200] Crawled: 2 months ago; Existe, sin embargo, una única especie que se encuentra en Brasil y algunos otros países sudamericanos, la Crotalus durissus. ... Es una serpiente de complexión robusta y en etapa adulta alcanza entre los 45 y 65 cm de longitud, es parecida a la cascabel transvolcánica (Crotalus triseriatus) solo que esta tiene las manchas más grandes y el cuerpo más robusto. ... *  Semarnat (2013) Ficha de identificación.
+--------------------------------------------------------------------------------
+vibora cascabel "crotalus tigris" - YouTube (https://www.youtube.com/watch?v=5zP2YEW93yM)
+ [wordlim: 200] Published: 1.9 years ago; Crawled: 4 months ago; # vibora cascabel "crotalus tigris" ... The tiger rattlesnake (tiger rattlesnake) is easily identified by its small head, being the smallest-headed rattlesnake with a large rattle. ... Regarding its venom, the Mojave rattlesnake Crotalus tigris is considered to be the most venomous rattlesnake in Mexico.
+

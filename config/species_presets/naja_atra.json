@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "preset_id": "naja_atra",
+  "species_id": "source_6e9247f0bed47d1c",
+  "source_species_name": "Naja atra",
+  "common_name": "Chinese cobra",
+  "status": "illustrative_unvalidated",
+  "variant": "Selected illustrated color and display form; individual variation is substantial.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://biosch.hku.hk/ecology/hkreptiles/snake/Naja_atra.html",
+        "scope": "Existing source profile; not yet applied to this template."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_106_naja_atra/manifest.json",
+        "image_id": "inat_27824853",
+        "sha256": "9a4d3764b35400e527c6a428cb5865e8b1317e146f0f8240aee6c5f8db435929",
+        "use": "Qualitative shape and pattern reference; no measurements fitted."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_106_naja_atra/manifest.json",
+        "image_id": "inat_16787991",
+        "sha256": "1dd1a087909d754b19ce71f39b8276e6138d03f164402bed4b3288b3ef51c530",
+        "use": "Qualitative shape and pattern reference; no measurements fitted."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_27824853": "Provider-labelled photograph of selected form, used qualitatively for body, hood or head.",
+      "inat_16787991": "Provider-labelled photograph of selected form, used qualitatively for body, hood or head."
+    },
+    "unextracted_fields": [
+      "tail",
+      "eyes",
+      "variation"
+    ],
+    "review": "First reference-guided hood and color draft; head and pattern need further review.",
+    "modeling_flags": [
+      "Head shape still uses shared stylized cobra head and requires species-specific remodeling.",
+      "Hood shapes and throat patterns are qualitative approximations; exact band placement and symmetry are not measured.",
+      "Source images have not received expert identity verification.",
+      "Head is a shared anatomical starting point adapted for illustration; verify species-specific skull proportions and front/side views."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Grey illustrated individual; short broad hood and pale ventral region, dark throat patches vary.",
+        "Replaced flattened shared muzzle with rounded three-quarter head geometry; rounded hood maximum and taper. Artistic shape still needs species-specific validation."
+      ],
+      "projection_limit": "Stylized shared head, artistic hood proportions; individual and geographic variation remain.",
+      "reference_ids": [
+        "inat_27824853",
+        "inat_16787991"
+      ]
+    },
+    "template_source_preset": "naja_kaouthia"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "plain",
+    "skin_color": "#66655b",
+    "marking_color": "#d0c5a6",
+    "belly_color": "#c9b897",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        54
+      ],
+      [
+        200,
+        68.0
+      ],
+      [
+        220,
+        72
+      ],
+      [
+        235,
+        72
+      ],
+      [
+        250,
+        69.8
+      ],
+      [
+        270,
+        59.8
+      ],
+      [
+        290,
+        53.3
+      ],
+      [
+        310,
+        39
+      ],
+      [
+        330,
+        31.5
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "cobra_profile_direct": true,
+    "ventral_markings": false,
+    "throat_bands": [
+      {
+        "y": 235,
+        "height": 12
+      },
+      {
+        "y": 278,
+        "height": 14
+      }
+    ],
+    "front_head_profile": {
+      "left": [
+        [
+          [
+            296.12,
+            92
+          ],
+          [
+            284.48,
+            91
+          ],
+          [
+            275.75,
+            96
+          ],
+          [
+            275.75,
+            104
+          ]
+        ],
+        [
+          [
+            275.75,
+            104
+          ],
+          [
+            275.75,
+            111
+          ],
+          [
+            281.57,
+            115
+          ],
+          [
+            288.36,
+            117
+          ]
+        ],
+        [
+          [
+            288.36,
+            117
+          ],
+          [
+            295.15,
+            122
+          ],
+          [
+            274.78,
+            139
+          ],
+          [
+            272,
+            145
+          ]
+        ]
+      ],
+      "right": [
+        [
+          [
+            296.12,
+            92
+          ],
+          [
+            306.79,
+            90
+          ],
+          [
+            318.43,
+            92
+          ],
+          [
+            324.25,
+            99
+          ]
+        ],
+        [
+          [
+            324.25,
+            99
+          ],
+          [
+            329.1,
+            106
+          ],
+          [
+            325.22,
+            138
+          ],
+          [
+            328,
+            145
+          ]
+        ]
+      ]
+    }
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 3
+}

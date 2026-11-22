@@ -1,0 +1,323 @@
+110
+
+**ZOOLOGISCHE MEDEDELINGEN 43 (1968)**
+
+# BIT (https://repository.naturalis.nl/pub/319202/ZM1968043009.pdf)
+ [wordlim: 200] Published: 17.9 years ago; Crawled: last week; # BITIS GABONICA, B. ... - **b** — Middle drawing: body scale of Dabocrom hybrid (*B. nasicornis* × *gabonica*).
+110
+
+**ZOOLOGISCHE MEDEDELINGEN 43 (1968)**
+
+# BITIS GABONICA, B. NASICORNIS AND THE DABOCROM SPECIMEN
+
+Distinguishing characters may be discussed under the following heads: nasal rosette; scale number and shape; umbilical scar; and colour pattern of body and head.
+
+**Nasal rosette (fig. 2).** — In *B. gabonica* a pair of scales medial to the nostrils is enlarged to form a pair of ‘horns’. *B. nasicornis* has larger, more conspicuous ‘horns’ and in front of them two more pairs of scales are enlarged and deflected sideways to form the floor of a depression on the apex of the snout. The group of enlarged scales, three pairs, is known as a ‘rosette’. The Dabocrom specimen has a rosette of the *B. nasicornis* type but it is smaller than usual, probably because the specimen is subadult.
+
+**Scale numbers (table 1).** — Other details of scalation are given in table 1. With the exception of lower labial counts the ranges of variation in *B. gabonica* and *B. nasicornis* are taken from Villiers (1963). None of the counts is distinctive, in every case the ranges of the two species overlap, so the data for the Dabocrom female do not assist in its identification but are included for the sake of completeness.
+
+<visual_element id="e1">
+**Fig. 3. Body scales of (a) Rhinoceros, (b) Dabocrom hybrid and (c) Gaboon Vipers.**
+
+Three outlined body-scale drawings arranged vertically:
+
+- **a** — Upper drawing: body scale of Rhinoceros (*B. nasicornis*). Irregular, angular outline, with a pointed anterior end and a narrow, elongated central keel/line.
+- **b** — Middle drawing: body scale of Dabocrom hybrid (*B. nasicornis* × *gabonica*). Rounded outline, with a narrow elongated keel/line.
+- **c** — Lower drawing: body scale of Gaboon Vipers (*B. g. rhinoceros*). Rounded outline, with a narrow elongated keel/line.
+
+An orientation label **“ant. ←”** appears above the drawings, with the arrow pointing left to indicate the anterior direction. A vertical scale indicator marked **“mm”**, with horizontal end marks and intermediate graduations, is positioned to the right of drawings b and c.
+
+Caption identification:
+- a. *B. nasicornis* (UG V3N21);
+- b. *B. nasicornis* × *gabonica* (RMNH 1647);
+- c. *B. g. rhinoceros* (UG V3G26).
+</visual_element>
+
+**Scale shape (fig. 3).** — *B. nasicornis* does not reach the size achieved by *B. gabonica* and its scales are correspondingly smaller and seemingly more closely packed together, each scale appearing more angular when compared with the smoothly rounded scales of *B. gabonica*. The scales of *B. nasicornis* are strongly keeled, especially towards the vertebral line, and at the free posterior end most scales are notched to accommodate the keel of the scale they overlap behind. The scales of *B. gabonica* are never more--------------------------------------------------------------------------------
+<visual_element id="e1"> (https://chicagoherp.org/wp-content/uploads/bsk-pdf-manager/2024/06/586-1.pdf)
+ [wordlim: 200] Published: 3.3 years ago; Crawled: last year; Head of a preserved female *Bitis gabonica* (RBINS 19802) from Bengamisa, DRC. ... *Bitis nasicornis* (Shaw, 1802) ... Kakolo (1979: 45) mentioned that his single specimen from Bengamisa showed a black triangle on the dorsal surface of its head, and two nasal horns each made of two or three prominent scales.
+
+Viperidae
+
+*Atheris squamigera* (Hallowell, 1854)  
+R 587 and R 597–599, 26 October 1985.  
+In total five specimens of this arboreal viper are recorded from Bengamisa.
+
+*Bitis gabonica* (Duméril, Bibron & Duméril, 1854)  
+R130, 26 March 1984; R 368 and RBINS 19802, 24 February 1985; and R 606, 26 October 1985.  
+Only the head of R130 was available to MC, and its head scalation was not noted, so it is not included in Appendix 1. The RBINS 19802 (Figure 9) shows 12 circumocular scales on the left side (right side damaged). Besides the five Bengamisa specimens listed here in Appendix 1, Kakolo (1979: 44) examined the head of another specimen; this head showed a length of 80 mm and a maximum width of 50 mm. Kakolo mentioned that both specimens he examined showed the typical thin brown midline on the upper surface of the head, and two horn-like elongate scales between the nostrils.
+
+*Bitis nasicornis* (Shaw, 1802)  
+R 242, 2 August 1984; and R 604–605, 26 October 1985.  
+Kakolo (1979: 45) mentioned that his single specimen from Bengamisa showed a black triangle on the dorsal surface of its head, and two nasal horns each made of two or three prominent scales.
+--------------------------------------------------------------------------------
+WHO/AFR/EDW/EDP/10.01GUIDELINESfor the (https://iris.who.int/bitstream/handle/10665/204458/9789290231684.pdf)
+ [wordlim: 200] Published: 7 months ago; Morphologically similar to that of Bitis gabonica except that there is only one distinctive sub-ocular black triangle beneath each eye.Figure 58: Nose-horned viper Bitis nasicornis© Dav. ... The top of the head is blue or green, the belly is dirty white to dull green,Figure 59: Nose-horned viper Bitis Nasicornis
+with numerous black and grey blotches.
+The scales are very sharply keeled. Unlike B.
+gabonica and B. rhinoceros, the dorsum of
+the head bears a large dark arrow-shaped
+marking.Figure 56: Gaboon viper Bitis gabonica St Lucia,
+KwaZulu Natal, South Africa2.3.8.2 Western Gaboon/Gabon or rhinoceros adder or viper (Bitis rhinoceros) (Figure 57). Maximum total length 12 cm. The snake is named for its large nasal horns. Morphologically similar to that of Bitis gabonica except that there is only one distinctive sub-ocular black triangle beneath each eye.Figure 58: Nose-horned viper Bitis nasicornis© Dav. WarrellFigure 57: Rhinoceros viper Bitis rhinoceros
+Ghana2.3.8.3 Nose-horned or rhinoceros-horned viper or riverjack (Bitis nasicornis) (Figure 58).
+Average total length 60–90 cm (maximum 120 cm). A heavily built, semi-arboreal snake,
+with long “nose-horn” scales). On the end of the nose is a cluster of two to three pairs of
+horn-like scales, the front pair may be quite long (Figure 59). Its overall geometric colour
+pattern is similar to that of Bitis gabonica. However, it has brighter and more vivid
+colours. The top of the head is blue or green, the belly is dirty white to dull green,Figure 59: Nose-horned viper Bitis Nasicornis
+Kumba, Cameroon, showing long nasal horns2.3.9  Small (dwarf) adders (Genus Bitis)
+(Map 11)2.3.9.1 Berg adder or Cape mountain adder
+(Bitis atropos) (Figure 60). Average total
+length 30–40 cm (maximum 60 cm). This
+small, stoutly built viper is greyish-olive to
+dark brown with two rows of triangular black
+dorsal markings and lateral rows of square
+markings. The chin and throat are usually--------------------------------------------------------------------------------
+120
+
+H. OTA, T. HIKIDA & J. BARCELO
+
+1857 *Atracta (https://jambo.africa.kyoto-u.ac.jp/kiroku/asm_normal/abstracts/pdf/ASM%20%20Vol.8%20No.2%201987/Hidetoshi%20OTA%20%20Tsutomu%20HIKIDA%20%20Jean%20BARCELO.pdf)
+ [wordlim: 200] Published: 22.2 years ago; Crawled: 2 weeks ago; ### *Bitis gabonica* (Duméril et Bibron, 1854) (Fig. ... 1847 *Cerastes nasicornis* Hallowell (non Shaw), Proc. ... 1854 *Echidna gabonica*, Duméril et Bibron, Erpét.
+Scales smooth, 26 rows at neck, 27 rows at mid-body, 21 rows at just before cloaca. Ventrals 180. Anal entire. Subcaudals 25, not paired. Snout to vent length 202, tail length 22.
+
+Dorsum dark brown, venter light brown without markings.
+
+## Genus *Bitis* Gray, 1842
+
+### *Bitis gabonica* (Duméril et Bibron, 1854) (Fig. 3H)
+
+1847 *Cerastes nasicornis* Hallowell (non Shaw), Proc. Acad. Philadelphia, p. 319.  
+1854 *Echidna gabonica*, Duméril et Bibron, Erpét. Gén. 7: 1428.  
+1856 *Echidna rhinoceros* Duméril, Rev. & Mag. Zool., p. 220.  
+1859 *Clotho rhinoceros*, Cope, Proc. Acad. Philadelphia, p. 340.  
+1882 *Bitis rhinoceros* Peters, Monber. Berlin Acad., 3: 146.
+
+*Specimens examined*—Two adults (KUZ R8338, R8341, both head and anterior part of neck only). The former found on the ground of the forest in RFC during the second expedition. The latter also found on the ground of the forest in RFC also during the second expedition.
+
+*Remarks*—Head large, rather depressed, much wider than neck. Rostral very small, pentagonal, invisible dorsally. Nostril opening dorsally. Snout very short and wide, roundish at tip. Internasals paired, each with a vertical horn-like projection. Dorsum of head covered with slightly to moderately keeled scales, 14 between eyes. Supralabials 13 to 15, all separated from eye. Mental small, triangular. Infralabials 17 to 18, first in contact with each other. Primary postmentals distinctly enlarged, in contact with first four to five infralabials. Scales on ventral surface of head smooth. Total length of KUZ R8338 was approximately 1600.
+
+Ground color of head grayish tan, with a narrow dark brown mid-line on dorsum, and two broad band of the same color extending from eye to labial region.
+
+One of the authors (JB) noticed KUZ R8341 on the floor of the forest by alarm calls of squirrels. He investigated the specimen by dissecting just after the capture, and found an adult squirrel, probably *Protoxenus stangeri* or *Epixerus ebii*. KUZ R8338 possessed 40 yolked follicles.--------------------------------------------------------------------------------
+Australian venomous snakes overview: Tiger snake group (https://biomedicalsciences.unimelb.edu.au/__data/assets/pdf_file/0004/3216739/A-Clinicians-Guide-to-Venomous-Bites-and-Stings-2013.pdf)
+ [wordlim: 200] Published: 13.6 years ago; The pygmy copperhead, *Austrelaps labialis*, is smaller and grey in colour.
+Australian venomous snakes overview: Tiger snake group
+
+The species¹,⁴⁹,⁶⁹-⁷¹ … cont’d  
+– The common copperhead, *Austrelaps superbus*, is similar in size to the common tiger snake, but has a russet sheen on the sides of the body and is not banded. There are typical pale cream or white edging to the scales of the upper and lower lips in all copperheads, a useful diagnostic feature.  
+– The highland copperhead, *Austrelaps ramsayi*, is similar to the common copperhead, though generally smaller. The pygmy copperhead, *Austrelaps labialis*, is smaller and grey in colour.  
+– The rough scaled snake, *Tropidechis carinatus*, also known as the Clarence River tiger snake, is up to 1.2 m long, with banding on the body.  
+– The broad headed snake, pale headed snake and Stephens’ banded snake, all of the genus *Hoplocephalus*, are generally nocturnal, and small in size. Colouration depends on species.
+
+<visual_element id="e1">
+Six snake photos arranged in two rows of three with captions:
+- Pygmy copperhead, *Austrelaps labialis*.
+- Rough scaled snake, *Tropidechis carinatus*.
+- Broad headed snake, *Hoplocephalus bungaroides*.
+- Pale headed snake, *Hoplocephalus bitorquatus*.
+- Stephens’ banded snake, *Hoplocephalus stephensi*.
+- Head of pygmy copperhead. Copperheads typically have distinctive white edging to lips (labial scales).
+</visual_element>
+
+Photos copyright A/Prof Julian White.
+
+150--------------------------------------------------------------------------------
+Copperhead Snake - The Australian Museum (https://australian.museum/learn/animals/reptiles/copperhead/)
+ [wordlim: 200] Crawled: today; Scientific name: Austrelaps labialis, ramsayi, superbus ...   * Pygmy Copperhead (Austrelaps labialis) - only found in the Mount Lofty Ranges east of Adelaide and on Kangaroo Island.
+
+# Copperhead Snake
+
+Scientific name: Austrelaps labialis, ramsayi, superbus
+
+Similar species:
+Depending on the locality copperheads may be confused with patternless tiger snakes Notechis, Eastern Brown Snake Pseudonaja textilis, or Red-bellied Black Snake Pseudechis porphyriacus.
+
+  * Author(s)
+    Cecilie Beatson
+  * Updated
+    16/04/26
+
+Image: Highland Copperhead (Austrelaps ramsayi) Image: Highland Copperhead (Austrelaps ramsayi) Click to enlarge image Toggle Caption
+
+The Highland Copperhead, Austrelaps ramsayi, is a venomous Australian snake that inhabits woodlands and wetland margins, sheltering under fallen timber, tussock grasses and flat stones. Image: Hal Coggar
+© Hal Coggar
+
+### Fast Facts
+
+  * Classification
+
+Genus
+    Austrelaps
+Species
+    labialis, ramsayi, superbus
+Family
+    Elapidae
+Suborder
+    Serpentes
+Order
+    Squamata
+Class
+    Reptilia
+Phylum
+    Chordata
+  * Number of Species
+--------------------------------------------------------------------------------
+Pygmy copperhead (Austrelaps labialis) | AROD (https://arod.com.au/arod/reptilia/Squamata/Elapidae/Austrelaps/labialis/)
+ [wordlim: 200] Crawled: last month;  | Image: pygmy copperhead (Austrelaps labialis) ... ### Description
+
+# Pygmy copperhead
+
+ | Image: pygmy copperhead (Austrelaps labialis)
+Adelaide Hills, South Australia
+Photo © Rob Valentic
+Austrelaps labialis - (Jan, 1859)
+Pronunciation   | ostr-EE-laps   LAH-bee-AH-liss
+Etymology   | Austrelaps: 'southern Elaps' - Elaps is another genus of snakes.
+labialis: '(notably-) lipped'.
+Other names   |  
+ 
+Total length
+Species avg: 84 cm
+Reproduction
+Live-bearing Litter size
+Average: 7
+Range: 2 - 10
+Length and clutch size information comes from a variety of sources, but primarily from Shine (1991) and Cogger (2000).
+
+### Description
+
+Pale brown, grey to dark grey in colour; sometimes with a dark vertebral stripe and a dark bar on the nape; lips are heavily barred. Ventral colouration extremely variable.
+
+### Similar species
+
+### Scale count information
+
+Dorsal scales at midbody   15
+Ventrals   135 to 148 with a single anal scale
+Other scale information  
+Danger rating   Dangerously venomous.
+Note: even a bite from a 'virtually harmless' or non-venomous reptile can result in serious complications. --------------------------------------------------------------------------------
+Puff Adder - African Snakebite Institute (https://www.africansnakebiteinstitute.com/snake/puff-adder/)
+ [wordlim: 200] Crawled: today; Full Name: Puff Adder (Bitis arietans) ... Image Map indicating the distribution of the Puff Adder in Southern Africa. ... Puff-Adder-Snakebite-Profile ... Horned Adder (Bitis caudalis) ... West African Carpet Viper (Echis ocellatus)
+--------------------------------------------------------------------------------
+Proc Calif Acad Sci Vol 54 Nos 1-8 (https://doczz.net/doc/7877987/proc-calif-acad-sci-vol-54-nos-1-8)
+ [wordlim: 200] Published: 23.0 years ago; Crawled: today;     Azemiops Boulenger, 1888 (Type species: Azemiops feae Boulenger, 1888).
+--------------------------------------------------------------------------------
+Dwarf Adders of Southern Africa - African Snakebite Institute (https://www.africansnakebiteinstitute.com/articles/dwarf-adders-of-southern-africa/)
+ [wordlim: 200] Published: 8.3 years ago; Crawled: last week; The genus Bitis comprises of 18 species restricted to Africa with the exception of the Puff Adder (Bitis arietans) which has a limited distribution on the Arabian Peninsula. ... The dwarf adders in southern Africa are very diverse, with some being widespread across southern Africa such as the Horned Adder (Bitis caudalis) and others being restricted to a tiny area or single mountain range such as the Albany Adder (Bitis albanica) or the Plain Mountain Adder (Bitis inornata). ... We will discuss the ten species of dwarf adder that occur in southern Africa and key features for their identification. ... Bill Branch elevated it to a full species in 1997 as Hewitt never released a formal description.
+--------------------------------------------------------------------------------
+Bitis - MeSH - NCBI (https://www.ncbi.nlm.nih.gov/mesh/2106541)
+ [wordlim: 200] Crawled: 2 months ago; Bitis snakes are found in Africa and Arabia. Bitis includes African puff adder (Bitis arietans) and horned adder (Bitis caudalis).
+--------------------------------------------------------------------------------
+An unusual rhinoceros viper, Bitis nasicornis, from Ghana, West Africa (https://repository.naturalis.nl/pub/319202)
+ [wordlim: 200] Published: 58.9 years ago; Crawled: 2 months ago; The characters which serve to distinguish the Gaboon Viper (Bitis gabonica) from the Rhinoceros Viper (B. nasicornis) are examined in relation to a subadult female from Dabocrom, Ghana, which displays characters of both species.
+--------------------------------------------------------------------------------
+Puff adder - SANBI (https://www.sanbi.org/animal-of-the-week/puff-adder/)
+ [wordlim: 200] Published: 7 months ago; Crawled: today; Several Bitis species occur in southern Africa alongside B. arietans [for example B. atropos (berg adder), B. caudalis (horned adder), B. cornuta (many-horned adder); B. rubida (red adder), B. albanica (Albany adder) and others]. ...   * African Snake Bite Institute. ... Puff adder. https://www.africansnakebiteinstitute.com/snake/puff-adder/?
+--------------------------------------------------------------------------------
+On the taxonomy and the distribution of snakes of the genus Azemiops Boulenger, 1888: description of a new species (vol 20, pg 110, 2013) (https://www.researchgate.net/publication/279315910_On_the_taxonomy_and_the_distribution_of_snakes_of_the_genus_Azemiops_Boulenger_1888_description_of_a_new_species_vol_20_pg_110_2013)
+ [wordlim: 200] Crawled: 3 months ago; Fea’s viper, Azemiops feae Boulenger, 1888 was named ... cality of Azemiops feae Boulenger, 1888 is “Kakhien ... tion in the description of color pattern in holotype by
+--------------------------------------------------------------------------------
+- Taxonomic Search Report (https://products.coastalscience.noaa.gov/nbi/data/itis.aspx?tsn=700449)
+ [wordlim: 200] Crawled: last week; Austrelaps labialis
+--------------------------------------------------------------------------------
+Miscellanea Herpetologica Gabonica XIII (https://www.researchgate.net/publication/326633325_Miscellanea_Herpetologica_Gabonica_XIII)
+ [wordlim: 200] Published: 8.4 years ago; Crawled: 5 months ago; The maximum total length known for Bitis gabonica is ... Bitis nasicornis (Shaw, 1802)
+--------------------------------------------------------------------------------
+Structural and bioinformatic analyses of Azemiops venom serine proteases reveal close phylogeographic relationships to pitvipers from eastern China and the New World (https://www.sciencedirect.com/science/article/pii/S004101012100132X)
+ [wordlim: 200] Published: 5.3 years ago; Crawled: 3 months ago; The semi-fossil and pit-less Azemiops feae is possibly the most primitive crotalid species. ... Its fang morphology and skin color and pattern are also rather unique, as compared with those of other Crotalinae (Mebs et al., 1994).
+--------------------------------------------------------------------------------
+Bitis rhinoceros (https://en.wikipedia.org/wiki/Bitis_rhinoceros)
+ [wordlim: 200] Crawled: 3 months ago; Species of snake ... * Bitis gabonica rhinoceros ... ## Description ... Bitis rhinoceros has a distinctive set of enlarged nasal scales that look like a pair of horns on its nose. This is a characteristic that it shares with a close relative, B. nasicornis.
+--------------------------------------------------------------------------------
+Austrelaps labialis (https://fr.wikipedia.org/wiki/Austrelaps_labialis)
+ [wordlim: 200] Crawled: 4.0 years ago;  Description de l'image Austrelaps labialis.jpg.
+--------------------------------------------------------------------------------
+Bitis nasicornis (https://en.wikipedia.org/wiki/Bitis_nasicornis)
+ [wordlim: 200] Crawled: 3 days ago; Fully adult B. nasicornis resting flattened at Cincinnati Zoo, US Fully adult B. nasicornis resting flattened at Cincinnati Zoo, US ... B. nasicornis held captive with a Gaboon viper (Bitis gabonica) image
+--------------------------------------------------------------------------------
+Pygmy copperhead (https://en.wikipedia.org/wiki/Pygmy_copperhead)
+ [wordlim: 200] Crawled: last week;  Austrelaps labialis ... The pygmy copperhead (Austrelaps labialis) is an Australian venomous elapid snake species found on Kangaroo Island Fleurieu Peninsula and the Mount Lofty Ranges where it is considered under threat.
+--------------------------------------------------------------------------------
+Species Spotlight: GABOON VIPER (Bitis gabonica) - YouTube (https://www.youtube.com/watch?v=qDfh278ajZE)
+ [wordlim: 200] Published: 7.3 years ago; Crawled: 2 months ago; # Species Spotlight: GABOON VIPER (Bitis gabonica) ... ## Description ... Just like her colorful cousin, the Rhinoceros viper (Bitis nasicornis), her future in Uganda is bleak.
+# Species Spotlight: GABOON VIPER (Bitis gabonica)
+By: H.E.R.P. Channel (5750 followers)
+Published: 2019-08-08, 3195 views, 54 likes
+
+## Description
+The Shrouded Serpent -
+
+The largest, venomous viper in Africa!
+
+Watch in HD -
+
+In November 2018 a H.E.R.P. Expedition tracked down one of the most impressive snakes on the Globe: the Gaboon Viper (Bitis gabonica). 
+
+Its large fangs, impressive size, deceivingly calm nature and undeniable beauty might not even be the most impressive feats of this piece of evolutionary art. The camouflage on this snake is a fine example of an exceptional adaptation! Using disruptive camouflage, a techinque used to break up outlines and shapes, the gaboon viper virtually disappears into the leaf litter. This majestic disruptive patterning is unserpassed by any other snake species on Earth.
+
+This incredible master of camouflage was not easy to find... Hours of searching and days of hiking only delivered one specimen. Standing two meters away, this almost 1.5 meter long beast was almost impossible to spot in between the roots of the tree she was hiding in.
+
+Just like her colorful cousin, the Rhinoceros viper (Bitis nasicornis), her future in Uganda is bleak. Massive deforestation threatens their last remaining habitat patches and collection for bushmeat and the pet trade pushes these last populations to the very limit.
+
+LIKE, SHARE & SUBSCRIBE!
+
+Want to join us next time?
+More info on our herping expeditions on:
+URL
+--------------------------------------------------------------------------------
+Azemiops (https://de.wikipedia.org/wiki/Azemiops)
+ [wordlim: 200] Crawled: 2.5 years ago; Das Basioccipital weist anteroventral (vorderer Bereich, unterseits) bei Azemiops feae zwei Tuberkel auf, nicht jedoch bei Azemioips kharini.
+--------------------------------------------------------------------------------
+Gaboon viper (https://en.wikipedia.org/wiki/Gaboon_viper)
+ [wordlim: 200] Crawled: 3 months ago;  Bitis gabonica ... The Gaboon viper (Bitis gabonica), also called the Gaboon adder, is a large and highly venomous species of viper found in the rainforests and savannas of sub-Saharan Africa. ... According to their research, these two subspecies are as genetically different from each other as they are from B. nasicornis.
+--------------------------------------------------------------------------------
+Deadly venomous snakes of Africa - Gaboon viper, Puff adder, Rhinoceros viper, venom extraction - YouTube (https://www.youtube.com/watch?v=hNL7lsOqi38)
+ [wordlim: 200] Published: 3.6 years ago; Crawled: 2 months ago; ## Description ... Gaboon viper (Bitis gabonica)
+Rhinoceros viper (Bitis nasicornis)
+# Deadly venomous snakes of Africa - Gaboon viper, Puff adder, Rhinoceros viper, venom extraction
+By: Living Zoology (414000 followers, Verified)
+Published: 2023-04-09, 44415 views
+
+## Description
+Big African vipers from the genus Bitis have very potent venoms, huge fangs and they belong to the heaviest vipers in the world. The Gaboon viper and the Rhinoceros viper are secretive species living in forests and woodlands, the Puff adder is a very common species of savannas and semi-desert which bites many people.
+
+We worked with East African Venom Supplies in Kenya to bring you species profiles of some of the most dangerous snakes of Africa! 
+
+In this episode you will see 3 species of snakes:
+Gaboon viper (Bitis gabonica)
+Rhinoceros viper (Bitis nasicornis)
+Puff adder (Bitis arietans)
+
+🐍BUY YOUR LIVING ZOOLOGY MERCHANDISE HERE: URL...
+
+🐍BECOME A MEMBER!!!    / livingzoology  
+--------------------------------------------------------------------------------
+I saw this fella at the Jacksonville Zoo and Gardens yesterday and I was wondering if anyone knows what he is and more info on him! The moment I saw him I fell in LOVE. I think I remember him being a viper, just not sure what flavor viper. His venom cheeks are so cute. (https://www.reddit.com/r/snakes/comments/m0i735)
+ [wordlim: 200] Published: 5.7 years ago; Crawled: 3.2 years ago; In fact, I double checked with the Zoo's website, they have a listing for all of their animals! ... For example, *Bitis nasicornis* and *Bitis rhinoceros* both have nasal "horns" and both are sometimes called rhino vipers, despite being different species. There's also *Bitis gabonica*, commonly called the Gaboon viper, which is closely related but lacks these.
+--------------------------------------------------------------------------------
+Pit vipers at the sedgwick County zoo (https://www.reddit.com/r/snakes/comments/owq28n)
+ [wordlim: 200] Published: 5.3 years ago; Crawled: 5.1 years ago; *B. rhinoceros, B. gabonica, and B. nasicornis* are all closely related. ... The one you have photographed here, the western gaboon viper, has a horn whereas it's eastern kin does not, so to differentiate the two it has the name bitis gabonica rhinoceros.
+--------------------------------------------------------------------------------
+Possibly a Pygmy Copper head. Only assuming based on information on Google. (https://www.reddit.com/r/AustralianSnakes/comments/1ni7mbd)
+ [wordlim: 200] Published: 1.2 years ago; Crawled: 1.2 years ago; Yep good ID - lovely little Pygmy copperhead *Austrelaps labialis*.
+--------------------------------------------------------------------------------
+West African Gaboon Adder (Bitis rhinoceros), dangerously venomous (https://www.reddit.com/r/herpetology/comments/vbxbu9)
+ [wordlim: 200] Published: 4.4 years ago; Crawled: 4.4 years ago; What was wrong with good old Bitis gabonica? And doesn’t Bitis rhinoceros get confusing with the Rhinoceros Viper (Bitis nasicornis)?
+--------------------------------------------------------------------------------
+Gaboon vipers will always be a one of my favourite species (Bitis rhinoceros). (https://www.reddit.com/r/snakes/comments/jdpv82)
+ [wordlim: 200] Published: 6.1 years ago; Crawled: 4.9 years ago; Gaboon viper- Bitis gabonica,  Rhino viper- Bitis rhinoceros, Butterfly viper- Bitis nasicornis. ...   My understanding is that *Bitis gabonica* is the East African Gaboon Viper while *Bitis rhinoceros* is the West African Gaboon Viper, the two species differing visually by size and nasal anatomy.
+--------------------------------------------------------------------------------
+I went to the National Zoo in DC yesterday and saw this pretty danger noodle. Forgot to take a pic of the label, I think it was a cobra of some kind? [washington, dc, usa] (https://www.reddit.com/r/whatsthissnake/comments/zjk62s)
+ [wordlim: 200] Published: 3.9 years ago; Crawled: 3.9 years ago; Venomous East African Gaboon viper (*Bitis gabonica*) ... I wish they had more information on the labels in the reptile house at the zoo, they’re pretty bare with just a species ID and 25 or so words about the animals. ...     Rhinoceros Vipers, or African Nose-Horned Vipers, *Bitis nasicornis* are medium-large (80-110cm, up to 140cm) true vipers that range from southeastern Sierra Leone east to southern South Sudan, south into northeastern Tanzania and northwestern Angola, from near sea level up to 1,500m.
+--------------------------------------------------------------------------------
+[Southeast TN] kid saw this in the local zoo, but not sure I can ID. (https://www.reddit.com/r/whatsthissnake/comments/waplwk)
+ [wordlim: 200] Published: 4.3 years ago; Crawled: 4.1 years ago; In the west African species, the triangles beneath the eyes are not divided, whereas they are in *Bitis gabonica*. ...           That's true, but both "rhinoceros" and "nasicornis" mean the same thing; nose-horned. ... If this is at the Chattanooga zoo, I have a pic of this exact same snake on my phone.
+--------------------------------------------------------------------------------
+Average Width, Length and Weight of 4 species of Vipers (https://www.reddit.com/r/zoology/comments/1crs8ax)
+ [wordlim: 200] Published: 2.5 years ago; Crawled: 2.5 years ago; * Gaboon Viper, *Bitis gabonica* ( Adult & Baby ) ... * Rhinoceros Viper, *Bitis nasicornis* ( Adult & Baby )
+--------------------------------------------------------------------------------
+[Unknown] Saw this snake on a nature TV show, never seen a pattern like it, anyone know what it is? (https://www.reddit.com/r/whatsthissnake/comments/yfdada)
+ [wordlim: 200] Published: 4.1 years ago; Crawled: 1.9 years ago;   This one is actually a Gabino viper, which is a hybrid between *Bitis nasicornis* and *B. gabonica* or *B. rhinoceros* . ...     Rhinoceros Vipers, or African Nose-Horned Vipers, *Bitis nasicornis* are medium-large (80-110cm, up to 140cm) true vipers that range from southeastern Sierra Leone east to southern South Sudan, south into northeastern Tanzania and northwestern Angola, from near sea level up to 1,500m.
+

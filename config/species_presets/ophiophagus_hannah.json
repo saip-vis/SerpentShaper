@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "preset_id": "ophiophagus_hannah",
+  "species_id": "source_238f0471c3dc3b6e",
+  "source_species_name": "Ophiophagus hannah",
+  "common_name": "King cobra",
+  "status": "illustrative_unvalidated",
+  "variant": "Olive-brown illustrated individual; historical Ophiophagus hannah source label, complex needs taxonomic review.",
+  "evidence": {
+    "physical_profile_path": "data/processed/morphology/physical_profiles.json",
+    "sources": [
+      {
+        "url": "https://doi.org/10.5852/ejt.2024.961.2681",
+        "scope": "Existing source profile; not yet applied to this template."
+      }
+    ],
+    "photo_references": [
+      {
+        "manifest_path": "data/image_pilots/pilot_117_ophiophagus_hannah/manifest.json",
+        "image_id": "inat_60531092",
+        "sha256": "9a25364f494007ed9fc60c17e39b61dcaf38b14e67b7f084169aeb9fdf734719",
+        "use": "Visual reference only; provider identity not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_117_ophiophagus_hannah/manifest.json",
+        "image_id": "inat_122692917",
+        "sha256": "a185392e892ca1eadc9babeff50466faa92614cf5aa8c16c7f21dff47b99487b",
+        "use": "Visual reference only; provider identity not independently verified."
+      },
+      {
+        "manifest_path": "data/image_pilots/pilot_117_ophiophagus_hannah/manifest.json",
+        "image_id": "inat_157899882",
+        "sha256": "46e7f813e34bc325e0a5d17190bb9f01fe877ea4598e2e74605dfdbf4aa6a760",
+        "use": "Visual reference only; provider identity not independently verified."
+      }
+    ],
+    "reference_feature_map": {
+      "inat_60531092": "Oblique head: broad rounded muzzle, eye and large head shields.",
+      "inat_122692917": "Front display and pale throat; limited by image angle.",
+      "inat_157899882": "Raised hood and full-body appearance; not calibrated."
+    },
+    "unextracted_fields": [
+      "body",
+      "head",
+      "tail",
+      "scales",
+      "ventral",
+      "eyes",
+      "special",
+      "variation"
+    ],
+    "review": "Reference-guided draft; no anatomical validation.",
+    "modeling_flags": [
+      "Historical Ophiophagus hannah complex requires locality/taxonomic verification.",
+      "Head remains simplified three-quarter projection; individual skull-shield geometry and hood markings need further work.",
+      "User-supplied reference photo is a side view with partially expanded hood; exact frontal geometry is not measured."
+    ],
+    "modeling_review_status": "initial_model_awaiting_refinement",
+    "modeling_observations": {
+      "status": "qualitative_photo_comparison_not_morphometric_fit",
+      "observations": [
+        "Shortened the projected snout width and narrowed the raised hood against local photos.",
+        "Olive head and pale throat illustrate one form; body bands and individual variation need dedicated modeling.",
+        "Rebuilt the front three-quarter skull outline and jaw/neck connection using the user-supplied side-view reference and pilot head photograph; still a stylized projection.",
+        "Smoothed the rounded crown and muzzle and softened the lower jaw connection using the supplied reference; illustration remains approximate.",
+        "Narrowed the illustrated hood around the raised neck to better match the supplied pose.",
+        "Direct smooth hood profile replaces a blend that created pinched shoulders.",
+        "Slightly increased hood width at the upper and middle stations on user feedback; artistic rather than measured.",
+        "Substantially widened expanded-hood profile at user request; artistic proportions, not a measured species average.",
+        "Rounded the widest hood arc and softened its taper while preserving the maximum illustrated width."
+      ],
+      "projection_limit": "No fitted measurements; provider photos may span taxa or color forms.",
+      "reference_ids": [
+        "inat_60531092",
+        "inat_122692917",
+        "inat_157899882"
+      ]
+    },
+    "template_source_preset": "naja_kaouthia"
+  },
+  "biological_measurements": null,
+  "venom_trait_mapping": null,
+  "artistic_parameters": {
+    "body_plan": "cobra",
+    "pattern": "plain",
+    "skin_color": "#6a674b",
+    "marking_color": "#d0c29c",
+    "belly_color": "#d4ba7e",
+    "body_build": 1,
+    "scale_texture": "smooth",
+    "tail_type": "pointed",
+    "scale_pitch": 8.2,
+    "mark_spacing": 63,
+    "mark_size": 1,
+    "tail_segments": 0,
+    "head_style": "rounded",
+    "pupil": "round",
+    "display_state": "expanded_hood",
+    "pose": "upright_open_S",
+    "hood_profile": [
+      [
+        145,
+        28
+      ],
+      [
+        178,
+        48
+      ],
+      [
+        200,
+        68
+      ],
+      [
+        220,
+        76
+      ],
+      [
+        235,
+        77
+      ],
+      [
+        250,
+        75
+      ],
+      [
+        270,
+        66
+      ],
+      [
+        290,
+        52
+      ],
+      [
+        310,
+        40
+      ],
+      [
+        330,
+        30
+      ],
+      [
+        350,
+        24
+      ]
+    ],
+    "front_head_profile": {
+      "left": [
+        [
+          [
+            296,
+            92
+          ],
+          [
+            284,
+            91
+          ],
+          [
+            275,
+            96
+          ],
+          [
+            275,
+            104
+          ]
+        ],
+        [
+          [
+            275,
+            104
+          ],
+          [
+            275,
+            111
+          ],
+          [
+            281,
+            115
+          ],
+          [
+            288,
+            117
+          ]
+        ],
+        [
+          [
+            288,
+            117
+          ],
+          [
+            295,
+            122
+          ],
+          [
+            274,
+            139
+          ],
+          [
+            272,
+            145
+          ]
+        ]
+      ],
+      "right": [
+        [
+          [
+            296,
+            92
+          ],
+          [
+            307,
+            90
+          ],
+          [
+            319,
+            92
+          ],
+          [
+            325,
+            99
+          ]
+        ],
+        [
+          [
+            325,
+            99
+          ],
+          [
+            330,
+            106
+          ],
+          [
+            326,
+            138
+          ],
+          [
+            328,
+            145
+          ]
+        ]
+      ]
+    },
+    "cobra_profile_direct": true,
+    "ventral_markings": false
+  },
+  "policy": {
+    "numeric_values_are_artistic": true,
+    "no_venom_inference": true,
+    "no_image_reviews_changed": true,
+    "shared_pose_is_presentation_not_biology": true
+  },
+  "model_revision": 8,
+  "common_name_source": "https://nationalzoo.si.edu/animals/king-cobra"
+}

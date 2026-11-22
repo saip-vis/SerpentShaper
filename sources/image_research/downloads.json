@@ -1,0 +1,90 @@
+[
+  {
+    "url": "https://ptak.felk.cvut.cz/plants/plants/SnakeCLEF2023/SnakeCLEF2023-TrainMetadata-iNat.csv",
+    "file": "snakeclef_train_inat.csv",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)>"
+  },
+  {
+    "url": "https://ptak.felk.cvut.cz/plants/plants/SnakeCLEF2023/SnakeCLEF2023-TrainMetadata-HM.csv",
+    "file": "snakeclef_train_hm.csv",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)>"
+  },
+  {
+    "url": "https://ptak.felk.cvut.cz/plants/plants/SnakeCLEF2023/SnakeCLEF2023-ValMetadata.csv",
+    "file": "snakeclef_validation.csv",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)>"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9617216/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9617216/fullTextXML",
+    "path": "sources/image_research/batch_mask_article.xml",
+    "bytes": 70895,
+    "sha256": "9326a83fe28988b5a6338d402502f59c42023bc2d1ec8581c1d669bc5e386578",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/inaturalist/inaturalist-open-data/main/Metadata/README.md",
+    "final_url": "https://raw.githubusercontent.com/inaturalist/inaturalist-open-data/main/Metadata/README.md",
+    "path": "sources/image_research/inaturalist_metadata_README.md",
+    "bytes": 5598,
+    "sha256": "36b367f42a3235477025ac4d9ff90c7cdfdcfb0d9253c56c81d1043bf0701fdf",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://api.figshare.com/v2/articles/29567672",
+    "final_url": "https://api.figshare.com/v2/articles/29567672",
+    "path": "sources/image_research/strike_kinematics_metadata.json",
+    "bytes": 8587,
+    "sha256": "52aeea5527d5822a6e06984a13a10cbddfc1aa46b0043ade8842c65e57aa69a1",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://huggingface.co/api/spaces/BVRA/SnakeCLEF2024/tree/main?recursive=true",
+    "final_url": "https://huggingface.co/api/spaces/BVRA/SnakeCLEF2024/tree/main?recursive=true",
+    "path": "sources/image_research/snakeclef_official_tree.json",
+    "bytes": 293,
+    "sha256": "159a5796ac03f99db82c860047ae948a5d384142218756aea9afec47eb9b8da3",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://huggingface.co/api/models/pengdadaaa/SnakeCLEF2024/tree/main/metadata",
+    "final_url": "https://huggingface.co/api/models/pengdadaaa/SnakeCLEF2024/tree/main/metadata",
+    "path": "sources/image_research/snakeclef_participant_metadata_tree.json",
+    "bytes": 1122,
+    "sha256": "e2c9cd3290eab0f6101eddd4fbbf5da98bd2f76863ff65a610ae2d8796d3259c",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://doi.org/10.7302/qta3-xs67",
+    "file": "ummz_landing.html",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://huggingface.co/pengdadaaa/SnakeCLEF2024/resolve/786f6a6a17453a8686d1cb9af7407525292d0d7c/metadata/SnakeCLEF2023-TrainMetadata-iNat.csv",
+    "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/66616ca31581213a2ec4ae29/602062012b6129dc0bd7a314a53d23123f29a437da0f4f69eb5fdecd83632583?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27SnakeCLEF2023-TrainMetadata-iNat.csv%3B+filename%3D%22SnakeCLEF2023-TrainMetadata-iNat.csv%22%3B&user_id=public&response-content-type=text%2Fcsv%3B+charset%3Dutf-8&xip=JudgxYfAFjM&X-Xet-Cas-Uid=public&Expires=1795052092&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjY2MTZjYTMxNTgxMjEzYTJlYzRhZTI5LzYwMjA2MjAxMmI2MTI5ZGMwYmQ3YTMxNGE1M2QyMzEyM2YyOWE0MzdkYTBmNGY2OWViNWZkZWNkODM2MzI1ODNcXD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3U25ha2VDTEVGMjAyMy1UcmFpbk1ldGFkYXRhLWlOYXQuY3N2JTNCK2ZpbGVuYW1lJTNEJTIyU25ha2VDTEVGMjAyMy1UcmFpbk1ldGFkYXRhLWlOYXQuY3N2JTIyJTNCJnVzZXJfaWQ9cHVibGljJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT10ZXh0JTJGY3N2JTNCK2NoYXJzZXQlM0R1dGYtOCZ4aXA9SnVkZ3hZZkFGak0mWC1YZXQtQ2FzLVVpZD1wdWJsaWMiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc5NTA1MjA5Mn19fV19&Signature=MEQCIGzRptC4GG1rO%7EVZkQaTiwo1cUV9D1Qeiws1zht75%7Ev1AiBouPuhzkzxnapQHicv0KZDC7Den-TWRXWYP8rKrf6rrQ__&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
+    "path": "sources/image_research/SnakeCLEF2023-TrainMetadata-iNat.csv",
+    "bytes": 13509584,
+    "sha256": "0748b85225610459038d5899312e7ca73e89eaa469ffeb56134c4793c5b653a6",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://huggingface.co/pengdadaaa/SnakeCLEF2024/resolve/786f6a6a17453a8686d1cb9af7407525292d0d7c/metadata/SnakeCLEF2023-TrainMetadata-HM.csv",
+    "final_url": "https://huggingface.co/api/resolve-cache/models/pengdadaaa/SnakeCLEF2024/786f6a6a17453a8686d1cb9af7407525292d0d7c/metadata%2FSnakeCLEF2023-TrainMetadata-HM.csv?%2Fpengdadaaa%2FSnakeCLEF2024%2Fresolve%2F786f6a6a17453a8686d1cb9af7407525292d0d7c%2Fmetadata%2FSnakeCLEF2023-TrainMetadata-HM.csv=&etag=%224acdcfbf518c65523c542b2e2674c5b2df434094%22",
+    "path": "sources/image_research/SnakeCLEF2023-TrainMetadata-HM.csv",
+    "bytes": 1194148,
+    "sha256": "83a93d4972ab4bb9b667fe86dccb66836c2695b67f3df809c777157fd6b9a4c7",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://huggingface.co/pengdadaaa/SnakeCLEF2024/resolve/786f6a6a17453a8686d1cb9af7407525292d0d7c/metadata/SnakeCLEF2023-ValMetadata.csv",
+    "final_url": "https://huggingface.co/api/resolve-cache/models/pengdadaaa/SnakeCLEF2024/786f6a6a17453a8686d1cb9af7407525292d0d7c/metadata%2FSnakeCLEF2023-ValMetadata.csv?%2Fpengdadaaa%2FSnakeCLEF2024%2Fresolve%2F786f6a6a17453a8686d1cb9af7407525292d0d7c%2Fmetadata%2FSnakeCLEF2023-ValMetadata.csv=&etag=%222f14e11d83c2893239cc9321437cbd3fd3ccf0bc%22",
+    "path": "sources/image_research/SnakeCLEF2023-ValMetadata.csv",
+    "bytes": 1294081,
+    "sha256": "dd1ce7c96cb36225675bd7b73b69d083dee9b011e06425f5c064fe6822ff2a68",
+    "status": "downloaded"
+  }
+]
