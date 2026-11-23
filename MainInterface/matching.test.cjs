@@ -28,15 +28,24 @@ class NodeMock {
   append(...nodes){this.children.push(...nodes);} replaceChildren(...nodes){this.children=nodes;} setAttribute(k,v){this.attrs[k]=String(v);} removeAttribute(k){delete this.attrs[k];}
   addEventListener(k,fn){this.events[k]=fn;} fire(k){this.events[k]({target:this});}
 }
-const ids=['primary-controls','advanced-controls','source-profile','dataset-link','reset','dorsal','ventral','unknown-help','unknown-info','source-note','retained-section','retained-count','retained-list','total','progress-bar','balance-text','matches','empty-drawing','snake-drawing','snake-name','scientific-name','selection-note','anatomy-link'];
+const ids=['primary-controls','advanced-controls','source-profile','dataset-link','reset','dorsal','ventral','unknown-help','unknown-info','source-note','retained-section','retained-count','retained-list','total','progress-bar','balance-text','matches','empty-drawing','snake-drawing','snake-name','scientific-name','selection-note','anatomy-link','download-svg'];
 const dom=Object.fromEntries(ids.map(id=>[id,new NodeMock()]));dom['progress-bar'].parentElement=new NodeMock();
 const created=[];const fakeDocument={getElementById:id=>dom[id],createElement:tag=>{const x=new NodeMock(tag);created.push(x);return x;},createTextNode:text=>({textContent:text})};
-const context={window:{SERPENT_VENOM_DATA:sandbox.window.SERPENT_VENOM_DATA,SERPENT_PRESETS:presetContext.window.SERPENT_PRESETS},document:fakeDocument,SerpentMatching:require('./matching.js'),SpeciesRenderer:{render:()=>({svg:'<svg></svg>'})},console,Number,Map,Set,URLSearchParams};
+const styleContext={window:{}};vm.runInNewContext(fs.readFileSync(__dirname+'/visual-style-model.js','utf8'),styleContext);
+const context={window:{SERPENT_VENOM_DATA:sandbox.window.SERPENT_VENOM_DATA,SERPENT_PRESETS:presetContext.window.SERPENT_PRESETS,SERPENT_STYLE_MODEL:styleContext.window.SERPENT_STYLE_MODEL},document:fakeDocument,SerpentMatching:require('./matching.js'),SerpentStyle:require('./style-inference.js'),SpeciesRenderer:{render:(p,o)=>({svg:`<svg data-skin="${o.skinColor||''}" data-mark="${o.ringColor||''}"></svg>`})},console,Number,Map,Set,URLSearchParams};
 vm.runInNewContext(fs.readFileSync(__dirname+'/app.js','utf8'),context);
 assert.equal(dom['source-profile'].value,'vd2023_e2d1aa974518_r269');assert.equal(dom['snake-name'].textContent,'Monocled cobra');
 assert.equal(dom['total'].textContent,'100%');assert.match(dom['anatomy-link'].href,/preset=naja_kaouthia/);
-const three=created.find(x=>x.id==='number-3ftx');assert.equal(three.value,'63.7');three.value='80';three.fire('input');
+const before=dom['snake-drawing'].innerHTML;const three=created.find(x=>x.id==='number-3ftx');assert.equal(three.value,'63.7');three.value='80';three.fire('input');
+assert.notEqual(dom['snake-drawing'].innerHTML,before,'changing venom should update the rendered concept');
 assert.equal(dom['total'].textContent,'116.3%');assert.match(dom['balance-text'].textContent,/above 100/);
 three.value='';three.fire('input');assert.equal(three.value,'');assert.match(dom['balance-text'].textContent,/unallocated/);
+dom['source-profile'].value='vd2023_e2d1aa974518_r189';dom['source-profile'].fire('change');
+assert.match(dom['source-note'].textContent,/NP value is excluded/);
+assert.ok(dom.matches.children.some(card=>card.children.some(child=>child.children?.some(text=>/NP value is excluded/.test(text.textContent)))));
+const quarantined=find('vd2023_e2d1aa974518_r189').components.find(c=>c.toxin_id==='vd2023_H');
+assert.equal(quarantined.value,null);assert.equal(quarantined.original_value,2.9);
+assert.equal(quarantined.status,'source_uncertain');
+assert.equal(compare({natriuretic_peptide:2.9},find('vd2023_e2d1aa974518_r189'),controls),null);
 dom.reset.fire('click');assert.equal(dom['source-profile'].value,'');assert.equal(dom['total'].textContent,'0%');assert.equal(dom['empty-drawing'].hidden,false);
 console.log('Profile loading, edits, totals, matching updates, and clear interactions verified with a DOM mock.');

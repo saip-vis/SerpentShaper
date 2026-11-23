@@ -6,8 +6,9 @@ const profilesById=new Map(profiles.map(p=>[p.profile_id,p]));
 const $=id=>document.getElementById(id);
 const inputs=new Map(), values=Object.fromEntries(controls.map(c=>[c.id,null]));
 const editableIds=new Set(controls.flatMap(c=>c.source_toxin_ids));
-let source=null, selectedMatch=null, surface='dorsal', currentMatches=[], invalid=new Set(), drawnKey='';
+let source=null, selectedMatch=null, surface='dorsal', currentMatches=[], invalid=new Set(), drawnKey='', currentSvg='';
 const fmt=n=>Number(n.toFixed(2)).toString();
+const uncertainMambaProfile='vd2023_e2d1aa974518_r189';
 function labelProfile(p){const name=presets.get(p.preset_id)?.common_name;return `${name?name+' · ':''}${p.species_name}${p.location?' · '+p.location:''} · row ${p.source_row}`;}
 function createControl(c){
   const box=document.createElement('div');box.className='toxin';
@@ -38,6 +39,7 @@ function loadProfile(id){
 function updateSource(){
   const retained=sourceOnly(), reported=retained.filter(c=>Number.isFinite(c.value));
   $('source-note').textContent=source?`Proteomics · ${source.location||'location not reported'} · source row ${source.source_row}. Unreported values stay blank.`:'No source profile selected. Blank values are unspecified.';
+  if(source?.profile_id===uncertainMambaProfile)$('source-note').textContent+=' The source NP value is excluded because its attribution is unverified; the original is preserved in the database.';
   $('retained-section').hidden=!source||!reported.length;$('retained-count').textContent=`${reported.length} reported`;
   $('retained-list').replaceChildren();for(const item of reported){const row=document.createElement('div');row.className='retained-entry';const a=document.createElement('span');a.textContent=item.label;const b=document.createElement('strong');b.textContent=`${fmt(item.value)}%`;row.append(a,b);$('retained-list').append(row);}
 }
@@ -55,17 +57,23 @@ function updateMatches(){
     const top=document.createElement('div');top.className='match-top';const name=document.createElement('span');name.className='match-name';name.textContent=preset?.common_name||p.species_name;const rank=document.createElement('span');rank.className='match-rank';rank.textContent=`0${i+1}`;top.append(name,rank);
     const sci=document.createElement('span');sci.className='match-scientific';sci.textContent=p.species_name;
     const stats=document.createElement('div');stats.className='match-stats';const coverage=document.createElement('strong');coverage.textContent=`${result.compared} of ${result.selected} categories compared`;stats.append(coverage,document.createElement('br'),document.createTextNode(`Mean difference ${fmt(result.meanDifference)} percentage points · ${p.location||'location unreported'} · row ${p.source_row}`));
+    if(p.profile_id===uncertainMambaProfile)stats.append(document.createElement('br'),document.createTextNode('The unverified source NP value is excluded from this comparison.'));
     button.append(top,sci,stats);button.addEventListener('click',()=>{selectedMatch=p.profile_id;updateMatches();draw();});container.append(button);
   });
 }
 function draw(){
   const match=currentMatches.find(m=>m.profile.profile_id===selectedMatch),preset=match&&presets.get(match.profile.preset_id);
   $('empty-drawing').hidden=!!preset;$('snake-drawing').hidden=!preset;
-  if(!preset){$('snake-name').textContent='No reference selected';$('scientific-name').textContent='';$('selection-note').textContent='Compare a reported category to begin';drawnKey='';return;}
+  if(!preset){$('snake-name').textContent='No reference selected';$('scientific-name').textContent='';$('selection-note').textContent='Compare a reported category to begin';drawnKey='';currentSvg='';$('download-svg').disabled=true;return;}
   $('snake-name').textContent=preset.common_name||preset.source_species_name;$('scientific-name').textContent=preset.source_species_name;
   $('anatomy-link').href=`../PhysicalRendererTest/index.html?preset=${encodeURIComponent(preset.preset_id)}`;
-  $('selection-note').textContent=`Illustrative preset · ${match.compared} of ${match.selected} selected categories compared`;
-  const key=`${preset.preset_id}:${surface}`;if(key!==drawnKey){$('snake-drawing').innerHTML=SpeciesRenderer.render(preset,{surface,framing:'full'}).svg;drawnKey=key;}
+  const concept=SerpentStyle.concept(preset,values,window.SERPENT_STYLE_MODEL);
+  $('selection-note').textContent=concept?`Experimental style · ${match.compared} of ${match.selected} categories compared`:'Base reference shown · enter 3 categories to create a variation';
+  const key=JSON.stringify([preset.preset_id,surface,values]);if(key!==drawnKey){
+    currentSvg=SpeciesRenderer.render(concept?.preset||preset,{surface,framing:'full',...(concept?.options||{})}).svg;
+    $('snake-drawing').innerHTML=currentSvg;drawnKey=key;
+  }
+  $('download-svg').disabled=false;
   $('dorsal').setAttribute('aria-pressed',String(surface==='dorsal'));$('ventral').setAttribute('aria-pressed',String(surface==='ventral'));
 }
 function update(){updateSource();updateTotal();updateMatches();draw();}
@@ -73,6 +81,7 @@ for(const c of controls)$(c.tier==='primary'?'primary-controls':'advanced-contro
 const blank=document.createElement('option');blank.value='';blank.textContent='Start with a blank composition';$('source-profile').append(blank);
 for(const p of profiles){const option=document.createElement('option');option.value=p.profile_id;option.textContent=labelProfile(p);$('source-profile').append(option);}
 $('dataset-link').href=data.source_url;
+$('download-svg').addEventListener('click',()=>{if(!currentSvg)return;const url=URL.createObjectURL(new Blob([currentSvg],{type:'image/svg+xml'}));const a=document.createElement('a');a.href=url;a.download='serpentshaper-concept.svg';a.click();setTimeout(()=>URL.revokeObjectURL(url),0);});
 $('source-profile').addEventListener('change',e=>loadProfile(e.target.value));
 $('reset').addEventListener('click',()=>{$('source-profile').value='';loadProfile('');});
 for(const name of ['dorsal','ventral'])$(name).addEventListener('click',()=>{surface=name;draw();});

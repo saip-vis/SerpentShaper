@@ -2,13 +2,13 @@
 
 Biologically informed visualization of hypothetical snakes from user-defined venom profiles.
 
-This folder contains dataset discovery, an initial source audit, and a cleaning pipeline for the 2023 venom workbook. It does not contain a trained model or a merged training dataset.
+This folder contains the venom data pipeline, image references, procedural renderer and experimental trained models. The current visual model learns from authored species presets associated by source species name; it is not trained on venom-paired snake photographs or validated as a biological predictor.
 
 Start with [the dataset report](reports/dataset_report.md).
 
 For ingestion, see [the cleaning report](reports/cleaning_report.md). The SQLite database and flat tables are in `data/processed/venom_diet_2023/`.
 
-The main [venom explorer](MainInterface/index.html) combines editable family-level compositions, measured reference comparisons, and the species SVG preview. See [usage and limitations](MainInterface/README.md).
+The main [venom explorer](MainInterface/index.html) combines editable family-level compositions, measured reference comparisons, and an experimental SVG concept. See [usage and limitations](MainInterface/README.md) and the [visual model's training manifest](ML/visual_style_model.json).
 
 To browse the cleaned data and test custom inputs locally, run `python3 InitialInterfaceTest.py` and open `http://127.0.0.1:8765`. See [interface usage and API](InitialInterfaceTest.md).
 
@@ -31,7 +31,7 @@ The [image review policy](config/image_review_policy.json) excludes injury/defor
 
 Run the audit with `python3 scripts/audit_sources.py` from this folder. It reads the downloaded files and writes the JSON audit. The download scripts make network requests; they are retained for provenance and are not needed to read the data.
 
-Original files remain unchanged. The processed workbook tables preserve source values and separate records requiring review. They have not been normalized, merged with other sources, or analyzed with ML or correlations.
+Original files remain unchanged. The processed workbook tables preserve source values and separate records requiring review. Experimental models use derived species-level associations; their outputs do not modify the source data.
 
 For species-level venom/image links, run `python3 scripts/build_species_catalog.py`. See [the species catalog guide](docs/SpeciesCatalog.md) for the JSON structure, coverage and limitations.
 

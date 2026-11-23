@@ -1,0 +1,78 @@
+{
+  "record_id": "redureau_2025_dendroaspis_polylepis_tanzania",
+  "status": "figure_level_extracted_not_ingested_or_training_approved",
+  "species": "Dendroaspis polylepis",
+  "source": {
+    "title": "Dual Proteomics Strategies to Dissect and Quantify the Components of Nine Medically Important African Snake Venoms",
+    "first_author": "Redureau",
+    "publication_date": "2025-05-13",
+    "doi": "10.3390/toxins17050243",
+    "url": "https://www.mdpi.com/2072-6651/17/5/243",
+    "locators": [
+      "Section 2.4 and Figure 4D",
+      "Section 5, Ethical statement, animal care and venoms' sampling"
+    ],
+    "supplement_url": "https://www.mdpi.com/article/10.3390/toxins17050243/s1",
+    "figure_url": "https://mdpi-res.com/toxins/toxins-17-00243/article_deploy/html/images/toxins-17-00243-g004-550.jpg",
+    "figure": "Figure 4D, the outer values in the chart; inspected visually."
+  },
+  "sample": {
+    "geographic_origin": "Tanzania",
+    "composition": "Pooled venom from multiple wild-caught specimens held in captivity.",
+    "specimen_count": null,
+    "individuals_paired_with_project_images": false,
+    "age_when_captured": "young adults",
+    "sex": null,
+    "captive_since": "2014",
+    "study_specimen_identifier": null
+  },
+  "measurement": {
+    "type": "proteomics",
+    "method": "Relative area of unique-peptide chromatographic peaks after trypsin-only digestion, grouped by parent toxin family; label-free shotgun LC-MS.",
+    "units": "reported relative percentage",
+    "note": "These are method-dependent abundance estimates, not direct measurements of protein mass. The paper also used MELD for identification; its identified-sequence proportions are a different measure and must not be mixed with these values.",
+    "complete_figure_group_total_pct": 100.0
+  },
+  "reported_values": [
+    {
+      "source_label": "3FTxs",
+      "candidate_toxin_id": "vd2023_E",
+      "percentage": 33.48
+    },
+    {
+      "source_label": "vKunitz-type proteins",
+      "candidate_toxin_id": "vd2023_Z",
+      "percentage": 55.62
+    },
+    {
+      "source_label": "natriuretic peptides",
+      "candidate_toxin_id": "vd2023_H",
+      "percentage": 0.04
+    },
+    {
+      "source_label": "SVMP",
+      "candidate_toxin_id": "vd2023_AZ",
+      "percentage": 1.02
+    },
+    {
+      "source_label": "hyaluronidase",
+      "candidate_toxin_id": "vd2023_BK",
+      "percentage": 0.2
+    }
+  ],
+  "completeness": "The six outer-chart categories in Figure 4D sum to 100.00%; this is a complete transcription of the displayed figure groups, not a full molecular breakdown. Categories not separately displayed remain unknown and are not zero. The figure does not establish individual specimen pairing or cross-study measurement equivalence.",
+  "comparison_policy": "This later Tanzanian pooled sample is not proven to be the same material as the 2015 Kenyan sample underlying the candidate earlier profile; do not overwrite, merge, or infer a correction to that measurement. Prefer this later primary study for evidence about this measured sample, not as a universal species composition.",
+  "training_eligible": false,
+  "reported_aggregate_categories": [
+    {
+      "source_label": "Others",
+      "percentage": 9.64,
+      "meaning": "Non-toxins (including cellular components) and unknown proteins, as defined by the paper; not equivalent to an unidentified-toxins category."
+    }
+  ],
+  "limitations": [
+    "The graphical summary contains an aggregate Others group, so not every protein or category is resolved.",
+    "Full quantitative supporting data were not accessed: publisher supplementary endpoint returned HTTP 429.",
+    "Species-specificity and mapping of source categories to existing controls require review."
+  ]
+}

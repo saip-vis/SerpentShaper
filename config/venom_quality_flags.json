@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "policy": "Preserve original data; exclude unresolved source values from derived modeling and comparisons until reviewed. A likely study match is not proven provenance.",
+  "component_exclusions": [
+    {
+      "profile_id": "vd2023_e2d1aa974518_r189",
+      "toxin_id": "vd2023_H",
+      "reason": "Possible misclassification: a candidate primary paper labels 2.9% NP as non-protein components, whereas a later review labels it natriuretic peptides. Direct workbook provenance is not confirmed.",
+      "evidence": "ML/research_updates/black_mamba_source_review.md"
+    }
+  ],
+  "profile_warnings": [
+    {
+      "profile_id": "vd2023_e2d1aa974518_r190",
+      "field": "location",
+      "source_value": "South Africa",
+      "candidate_value": "Tanzania",
+      "reason": "The matching candidate study used a Tanzanian venom-gland specimen for transcriptomics and separately obtained South African-origin venom for proteomics; the workbook row's direct source is not confirmed.",
+      "evidence": "ML/research_updates/pilot_five_species_review.md"
+    }
+  ]
+}
