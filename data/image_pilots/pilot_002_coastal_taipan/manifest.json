@@ -19,7 +19,7 @@
     "original_width": 2048,
     "original_height": 1366,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -42,7 +42,13 @@
     ],
     "duplicate_check_status": "visual_similarity_flag_not_confirmed",
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_244026573",
@@ -64,7 +70,7 @@
     "original_width": 2048,
     "original_height": 1365,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -83,7 +89,13 @@
       "notes": "Lateral head and anterior body; remaining body outside frame; night/flash lighting."
     },
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_244026581",
@@ -105,7 +117,7 @@
     "original_width": 2048,
     "original_height": 1366,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -124,7 +136,13 @@
       "notes": "Extended body on road; night/flash lighting; distant head."
     },
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_305384270",
@@ -146,7 +164,7 @@
     "original_width": 2048,
     "original_height": 1366,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -169,7 +187,22 @@
     ],
     "duplicate_check_status": "visual_similarity_flag_not_confirmed",
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    },
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "near_duplicate",
+    "near_duplicate_of": "inat_187467409",
+    "near_duplicate_review": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-23T03:18:50.461414+00:00",
+      "basis": "Same scene; 2048×1366 decoded images have mean absolute RGB differences under one level per channel; both source observations report the same observer and observed date.",
+      "note": "Held out to prevent duplicate content crossing splits; original user acceptance is retained."
+    }
   },
   {
     "image_id": "inat_455786066",
@@ -191,7 +224,7 @@
     "original_width": 2048,
     "original_height": 1364,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -210,7 +243,13 @@
       "notes": "Close lateral head detail; most body outside frame."
     },
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_457026243",
@@ -232,7 +271,7 @@
     "original_width": 2048,
     "original_height": 1366,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -251,7 +290,13 @@
       "notes": "Lateral head and anterior body on road; remaining body outside frame."
     },
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_633202983",
@@ -273,7 +318,7 @@
     "original_width": 768,
     "original_height": 1024,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "rejected",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -292,7 +337,25 @@
       "notes": "Overhead extended body view; snake relatively small in frame; night/flash lighting."
     },
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    },
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "injury",
+    "body_condition": "injured",
+    "review_issues": [
+      "injury"
+    ],
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-23T03:17:45.225549+00:00",
+      "category": "rejected",
+      "reason": "Same observation shows severe body damage; all photos of this specimen excluded under user healthy-phenotype policy."
+    }
   },
   {
     "image_id": "inat_633202984",
@@ -314,7 +377,7 @@
     "original_width": 1024,
     "original_height": 768,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "rejected",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -333,7 +396,25 @@
       "notes": "Broad body view with head visible; night/flash lighting; same observation as TA07, TA09 and TA10."
     },
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    },
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "injury",
+    "body_condition": "injured",
+    "review_issues": [
+      "injury"
+    ],
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-23T03:17:45.225549+00:00",
+      "category": "rejected",
+      "reason": "Same observation shows severe body damage; all photos of this specimen excluded under user healthy-phenotype policy."
+    }
   },
   {
     "image_id": "inat_633202985",
@@ -355,7 +436,7 @@
     "original_width": 1024,
     "original_height": 768,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "rejected",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -374,7 +455,25 @@
       "notes": "Close lateral head detail; same observation as TA07, TA08 and TA10."
     },
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    },
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "injury",
+    "body_condition": "injured",
+    "review_issues": [
+      "injury"
+    ],
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-23T03:17:45.225549+00:00",
+      "category": "rejected",
+      "reason": "Same observation shows severe body damage; all photos of this specimen excluded under user healthy-phenotype policy."
+    }
   },
   {
     "image_id": "inat_633203005",
@@ -396,7 +495,7 @@
     "original_width": 1024,
     "original_height": 768,
     "retrieved_at": "2026-11-20T06:02:29.853231+00:00",
-    "review_status": "unreviewed",
+    "review_status": "rejected",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -415,6 +514,24 @@
       "notes": "Similar body pose to TA08; equipment visible; same observation as TA07, TA08 and TA09."
     },
     "collection_batch": "pilot_002_coastal_taipan",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    },
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "injury",
+    "body_condition": "injured",
+    "review_issues": [
+      "injury"
+    ],
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-23T03:17:45.225549+00:00",
+      "category": "rejected",
+      "reason": "Same observation shows severe body damage; all photos of this specimen excluded under user healthy-phenotype policy."
+    }
   }
 ]

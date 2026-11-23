@@ -19,7 +19,7 @@
     "original_width": 1864,
     "original_height": 1328,
     "retrieved_at": "2026-11-20T06:02:32.572569+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -38,7 +38,13 @@
       "notes": "Close head held by a human; mouth open; handling changes pose; not a natural full-body reference."
     },
     "collection_batch": "pilot_003_black_mamba",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_15887679",
@@ -186,7 +192,7 @@
     "original_width": 1280,
     "original_height": 855,
     "retrieved_at": "2026-11-20T06:02:32.572569+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -205,7 +211,13 @@
       "notes": "Snake heavily obscured by branches; weak morphology reference."
     },
     "collection_batch": "pilot_003_black_mamba",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_1578447",
@@ -227,7 +239,7 @@
     "original_width": 1024,
     "original_height": 684,
     "retrieved_at": "2026-11-20T06:02:32.572569+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -246,7 +258,13 @@
       "notes": "Snake heavily obscured by branches; weak morphology reference."
     },
     "collection_batch": "pilot_003_black_mamba",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_1578474",
@@ -268,7 +286,7 @@
     "original_width": 1024,
     "original_height": 768,
     "retrieved_at": "2026-11-20T06:02:32.572569+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -287,7 +305,13 @@
       "notes": "Snake partly obscured by branches; same observation as BM05 and BM06."
     },
     "collection_batch": "pilot_003_black_mamba",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_2699122",
@@ -309,7 +333,7 @@
     "original_width": 800,
     "original_height": 531,
     "retrieved_at": "2026-11-20T06:02:32.572569+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -328,7 +352,13 @@
       "notes": "Body on building/pipe with partial occlusion; limited head detail."
     },
     "collection_batch": "pilot_003_black_mamba",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_15204377",
@@ -350,7 +380,7 @@
     "original_width": 990,
     "original_height": 779,
     "retrieved_at": "2026-11-20T06:02:32.572569+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -369,7 +399,13 @@
       "notes": "Head and raised anterior body clearly visible; remaining body partly outside frame; flash lighting."
     },
     "collection_batch": "pilot_003_black_mamba",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   },
   {
     "image_id": "inat_15204379",
@@ -391,7 +427,7 @@
     "original_width": 990,
     "original_height": 622,
     "retrieved_at": "2026-11-20T06:02:32.572569+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -410,6 +446,12 @@
       "notes": "Head and coiled anterior body visible; remaining body outside frame; same observation as BM09."
     },
     "collection_batch": "pilot_003_black_mamba",
-    "discovered_in_batch": "pilot_001"
+    "discovered_in_batch": "pilot_001",
+    "review_provenance": {
+      "decision_source": "user",
+      "basis": "User previously confirmed all images in the coastal taipan and black mamba pilot folders were acceptable.",
+      "recorded_on": "2026-11-22",
+      "note": "Earlier user review recorded retrospectively; previously rejected records remain rejected."
+    }
   }
 ]
