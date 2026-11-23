@@ -6,7 +6,7 @@ const profilesById=new Map(profiles.map(p=>[p.profile_id,p]));
 const $=id=>document.getElementById(id);
 const inputs=new Map(), values=Object.fromEntries(controls.map(c=>[c.id,null]));
 const editableIds=new Set(controls.flatMap(c=>c.source_toxin_ids));
-let source=null, selectedMatch=null, surface='dorsal', currentMatches=[], invalid=new Set(), drawnKey='', currentSvg='';
+let source=null, surface='dorsal', currentMatches=[], invalid=new Set(), drawnKey='', currentSvg='';
 const fmt=n=>Number(n.toFixed(2)).toString();
 const uncertainMambaProfile='vd2023_e2d1aa974518_r189';
 function labelProfile(p){const name=presets.get(p.preset_id)?.common_name;return `${name?name+' · ':''}${p.species_name}${p.location?' · '+p.location:''} · row ${p.source_row}`;}
@@ -24,7 +24,7 @@ function createControl(c){
   function apply(raw,fromRange=false){
     const n=raw===''?null:Number(raw);const bad=raw!=='' && (!Number.isFinite(n)||n<0||n>100);
     if(bad){invalid.add(c.id);number.setAttribute('aria-invalid','true');}else{invalid.delete(c.id);number.removeAttribute('aria-invalid');values[c.id]=n;range.value=n??0;range.classList.toggle('unknown',n===null);range.setAttribute('aria-valuetext',n===null?'Unreported':`${fmt(n)} percent`);if(fromRange)number.value=fmt(n);}
-    selectedMatch=null;update();
+    update();
   }
   number.addEventListener('input',()=>apply(number.value));range.addEventListener('input',()=>apply(range.value,true));clear.addEventListener('click',()=>{number.value='';apply('');});
   return box;
@@ -34,7 +34,7 @@ function sourceOnly(){return source?source.components.filter(c=>!editableIds.has
 function loadProfile(id){
   source=profilesById.get(id)||null;const lookup=new Map((source?.components||[]).map(c=>[c.toxin_id,c.value]));
   for(const c of controls){const v=lookup.get(c.source_toxin_ids[0]);values[c.id]=Number.isFinite(v)?v:null;}
-  selectedMatch=null;updateInputs();update();
+  updateInputs();update();
 }
 function updateSource(){
   const retained=sourceOnly(), reported=retained.filter(c=>Number.isFinite(c.value));
@@ -48,29 +48,32 @@ function updateTotal(){
   $('balance-text').textContent=invalid.size?'Enter a value from 0 to 100 in each highlighted field.':totals.over>.01?`${fmt(totals.over)} percentage points above 100%. Source totals may differ due to rounding; custom entries are not normalized.`:totals.unallocated>.01?`${fmt(totals.unallocated)}% unallocated. This is a balance, not a measured category.`:'Reported values total approximately 100%. Unreported categories remain unknown.';
 }
 function updateMatches(){
-  currentMatches=invalid.size?[]:SerpentMatching.rank(values,profiles,controls).slice(0,3);
-  if(!currentMatches.some(x=>x.profile.profile_id===selectedMatch))selectedMatch=currentMatches[0]?.profile.profile_id||null;
+  currentMatches=invalid.size?[]:SerpentMatching.influences(values,profiles,controls);
+  const hasConcept=!invalid.size&&!!SerpentStyle.predict(values,window.SERPENT_STYLE_MODEL);
   const container=$('matches');container.replaceChildren();
   if(!currentMatches.length){const p=document.createElement('p');p.className='empty-matches';p.textContent=invalid.size?'Correct the highlighted value to compare references.':'Enter at least one value reported by a reference profile to see comparisons.';container.append(p);return;}
   currentMatches.forEach((result,i)=>{
-    const p=result.profile,preset=presets.get(p.preset_id);const button=document.createElement('button');button.type='button';button.className='match-card';button.setAttribute('aria-pressed',String(p.profile_id===selectedMatch));
-    const top=document.createElement('div');top.className='match-top';const name=document.createElement('span');name.className='match-name';name.textContent=preset?.common_name||p.species_name;const rank=document.createElement('span');rank.className='match-rank';rank.textContent=`0${i+1}`;top.append(name,rank);
+    const p=result.profile,preset=presets.get(p.preset_id);const card=document.createElement('div');card.className='match-card';
+    const top=document.createElement('div');top.className='match-top';const name=document.createElement('span');name.className='match-name';name.textContent=preset?.common_name||p.species_name;const rank=document.createElement('span');rank.className='match-rank';rank.textContent=hasConcept?`${(result.weight*100).toFixed(1)}%`:'—';top.append(name,rank);
     const sci=document.createElement('span');sci.className='match-scientific';sci.textContent=p.species_name;
     const stats=document.createElement('div');stats.className='match-stats';const coverage=document.createElement('strong');coverage.textContent=`${result.compared} of ${result.selected} categories compared`;stats.append(coverage,document.createElement('br'),document.createTextNode(`Mean difference ${fmt(result.meanDifference)} percentage points · ${p.location||'location unreported'} · row ${p.source_row}`));
     if(p.profile_id===uncertainMambaProfile)stats.append(document.createElement('br'),document.createTextNode('The unverified source NP value is excluded from this comparison.'));
-    button.append(top,sci,stats);button.addEventListener('click',()=>{selectedMatch=p.profile_id;updateMatches();draw();});container.append(button);
+    card.append(top,sci,stats);container.append(card);
   });
 }
 function draw(){
-  const match=currentMatches.find(m=>m.profile.profile_id===selectedMatch),preset=match&&presets.get(match.profile.preset_id);
-  $('empty-drawing').hidden=!!preset;$('snake-drawing').hidden=!preset;
-  if(!preset){$('snake-name').textContent='No reference selected';$('scientific-name').textContent='';$('selection-note').textContent='Compare a reported category to begin';drawnKey='';currentSvg='';$('download-svg').disabled=true;return;}
-  $('snake-name').textContent=preset.common_name||preset.source_species_name;$('scientific-name').textContent=preset.source_species_name;
-  $('anatomy-link').href=`../PhysicalRendererTest/index.html?preset=${encodeURIComponent(preset.preset_id)}`;
-  const concept=SerpentStyle.concept(preset,values,window.SERPENT_STYLE_MODEL);
-  $('selection-note').textContent=concept?`Experimental style · ${match.compared} of ${match.selected} categories compared`:'Base reference shown · enter 3 categories to create a variation';
-  const key=JSON.stringify([preset.preset_id,surface,values]);if(key!==drawnKey){
-    currentSvg=SpeciesRenderer.render(concept?.preset||preset,{surface,framing:'full',...(concept?.options||{})}).svg;
+  const references=currentMatches.map(match=>({preset:presets.get(match.profile.preset_id),weight:match.weight}));
+  const concept=invalid.size?null:SerpentStyle.concept(values,window.SERPENT_STYLE_MODEL,references);
+  $('empty-drawing').hidden=!!concept;$('snake-drawing').hidden=!concept;
+  $('snake-name').textContent='Your snake concept';
+  if(!concept){$('scientific-name').textContent='';$('selection-note').textContent='Enter at least 3 comparable components';drawnKey='';currentSvg='';$('download-svg').disabled=true;return;}
+  const formLabels={cobra:'Hooded form',viper:'Broad-headed form',terrestrial:'Slender form',marine:'Paddle-tailed form'};
+  $('scientific-name').textContent=formLabels[concept.preset.artistic_parameters.body_plan]||'Blended form';
+  $('selection-note').textContent='Reference-blended anatomy and experimental style';
+  const key=JSON.stringify([surface,values]);if(key!==drawnKey){
+    const conceptMetadata={kind:'illustrative_not_biological_prediction',bodyPlan:concept.preset.artistic_parameters.body_plan,
+      venomInputs:{...values},referenceStyleMix:currentMatches.map(r=>({species:r.profile.species_name,profileId:r.profile.profile_id,weight:r.weight}))};
+    currentSvg=SpeciesRenderer.render(concept.preset,{surface,framing:'full',...concept.options,conceptMetadata}).svg;
     $('snake-drawing').innerHTML=currentSvg;drawnKey=key;
   }
   $('download-svg').disabled=false;
@@ -86,5 +89,5 @@ $('source-profile').addEventListener('change',e=>loadProfile(e.target.value));
 $('reset').addEventListener('click',()=>{$('source-profile').value='';loadProfile('');});
 for(const name of ['dorsal','ventral'])$(name).addEventListener('click',()=>{surface=name;draw();});
 $('unknown-help').addEventListener('click',()=>{const hidden=$('unknown-info').hidden;$('unknown-info').hidden=!hidden;$('unknown-help').setAttribute('aria-expanded',String(hidden));});
-const initial=profilesById.has('vd2023_e2d1aa974518_r269')?'vd2023_e2d1aa974518_r269':profiles.find(p=>p.preset_id)?.profile_id||'';$('source-profile').value=initial;loadProfile(initial);
+$('source-profile').value='';loadProfile('');
 })();

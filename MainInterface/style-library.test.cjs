@@ -5,9 +5,12 @@ const scope={window:{}};
 vm.runInNewContext(fs.readFileSync(__dirname+'/visual-style-model.js','utf8'),scope);
 vm.runInNewContext(fs.readFileSync(__dirname+'/../PhysicalRendererTest/presets/species-presets.js','utf8'),scope);
 const model=scope.window.SERPENT_STYLE_MODEL,presets=scope.window.SERPENT_PRESETS.presets;
+const referenceIds=['naja_kaouthia','dendroaspis_polylepis'];
+const referencePresets=referenceIds.map(id=>presets.find(p=>p.preset_id===id));
 for(const preset of presets){
   for(const [surface,values] of [['dorsal',{'3ftx':100,pla2:0,svmp:0}],['ventral',{'3ftx':0,pla2:100,svmp:0}]]){
-    const concept=style.concept(preset,values,model);
+    const refs=[{preset,weight:.6},{preset:referencePresets[0],weight:.2},{preset:referencePresets[1],weight:.2}];
+    const concept=style.concept(values,model,refs);
     assert.ok(concept,`${preset.preset_id} should create a concept`);
     const rendering=renderer.render(concept.preset,{...concept.options,surface,framing:'full'});
     assert.match(rendering.shape.path,/Z$/,`${preset.preset_id} ${surface} must have a closed contour`);
