@@ -1,0 +1,3029 @@
+{
+  "schema_version": 1,
+  "status": "engineering_and_authored_reference_checks_not_biological_validation",
+  "caveats": [
+    "The eight displayed starting profiles were used to train the current model; comparison to authored SVG references is not an unseen-image or biological test.",
+    "Grouped holdout results average by source species and were examined during model development, so they are not a final untouched test.",
+    "A hypothetical blend has no known correct phenotype. Missing entries are set to zero solely for the interpolation exercise; this does not establish absence.",
+    "Control values are illustration settings, not probabilities or measured traits."
+  ],
+  "source_hashes": {
+    "scripts/evaluate_visual_generation.cjs": "2c44addfc4aff588250afa43a20a0fd11b45699734110a10be2aedfc30b97557",
+    "MainInterface/venom-data.js": "3154de0f21ee8585938ca752bc4e7a053a0d3cc637d00e30f0947f45cf8a743d",
+    "MainInterface/connected-model.js": "fdcc00b20ecfbc7a1625180b099c1f423f924eff779a162a69fa87fa0d87b6f6",
+    "MainInterface/connected-inference.js": "11fd30ddaf2edcd392e38d639451efddf8c74e0a3650beb6a26975a9c51fe222",
+    "MainInterface/species-starters.js": "fc4ff50e32a9738ed440cf2a7d3b74acb60185198b228d3ec50458875acb84e4",
+    "MainInterface/detailed-concept.js": "d42a469b3d9644eddb02b990df6bb21ec322409df3efe0b378a9983a903cc1e0",
+    "PhysicalRendererTest/presets/species-presets.json": "c950b99a9a39fc017b4287da6687b11565ac755961ac7c613451edb060d0810f",
+    "PhysicalRendererTest/species-geometry.js": "ed04416687dcff7b426a301f1f0c6d2bc102fdd5b53788a2f2ffb30320f543c4",
+    "PhysicalRendererTest/species-renderer.js": "90f53a37a8292f2b15ad6aaf53e7d4c379e15ad2513f22dd9442c79b2aec75ee",
+    "ML/learned_morphology/connected_prototype.json": "c8cec1621d725568d8f4c5d63a41131d324e862d60ef1a0d34b496ee0a2bca8f",
+    "ML/image_traits/pattern_holdout.json": "f897d713ed888c6aaa1dff6612224fb02975150737974f5f380c2635d6309614"
+  },
+  "cases": [
+    {
+      "species": "Crotalus atrox",
+      "common_name": "Western diamondback",
+      "profile_id": "vd2023_e2d1aa974518_r127",
+      "source_row": 127,
+      "input_values": {
+        "3ftx": null,
+        "pla2": 7.3,
+        "svmp": 49.7,
+        "svsp": 19.8,
+        "kunitz": null,
+        "ctl": 1.7,
+        "snaclec": null,
+        "crisp": 4.3,
+        "laao": 8,
+        "disintegrin": 6.2,
+        "natriuretic_peptide": null,
+        "bradykinin_potentiating_peptide": 0.9
+      },
+      "reference": {
+        "body_plan": "viper",
+        "pattern": "diamonds",
+        "tail_type": "rattle",
+        "skin_color": "#ac9370"
+      },
+      "training_profile": true,
+      "authored_targets": {
+        "headWidth": 0.8666666666666667,
+        "headLength": 0.72,
+        "bodyWidth": 0.9428571428571428,
+        "hood": 0,
+        "diamond": 1,
+        "monocle": 0,
+        "rattle": 1,
+        "tailTaper": 0.65,
+        "bands": 0,
+        "blotches": 0
+      },
+      "predicted": {
+        "headWidth": 0.6799699094603004,
+        "headLength": 0.7136265867245086,
+        "bodyWidth": 0.78408757442743,
+        "hood": 0,
+        "diamond": 0.4429353231086583,
+        "monocle": 0,
+        "rattle": 0.44202851921679415,
+        "tailTaper": 0.7084074069533324,
+        "bands": 0,
+        "blotches": 0.5483323620679834
+      },
+      "predicted_colors": {
+        "skin": "#90806a",
+        "marking": "#978e79",
+        "belly": "#cfc0a2",
+        "highlight": "#cfc0a2"
+      },
+      "grouped_holdout": {
+        "predicted": {
+          "headWidth": 0.5733103419336321,
+          "headLength": 0.7268449123539583,
+          "bodyWidth": 0.6746978425494199,
+          "hood": 0,
+          "diamond": 0.05197544311744572,
+          "monocle": 0.00015862690099439566,
+          "rattle": 0.030675581929022273,
+          "tailTaper": 0.6729787659511126,
+          "bands": 0.1616831274336625,
+          "blotches": 0.7564079095537035
+        },
+        "note": "Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test."
+      },
+      "drawing_checks": {
+        "dorsal_closed": true,
+        "ventral_closed": true,
+        "dorsal_scale_count": 1210,
+        "ventral_scale_count": 1210
+      },
+      "generated_svg": "crotalus_atrox_generated.svg",
+      "reference_svg": "crotalus_atrox_reference.svg"
+    },
+    {
+      "species": "Naja kaouthia",
+      "common_name": "Monocled cobra",
+      "profile_id": "vd2023_e2d1aa974518_r267",
+      "source_row": 267,
+      "input_values": {
+        "3ftx": 56.5,
+        "pla2": 26.9,
+        "svmp": 1.1,
+        "svsp": null,
+        "kunitz": null,
+        "ctl": null,
+        "snaclec": null,
+        "crisp": 5.4,
+        "laao": null,
+        "disintegrin": null,
+        "natriuretic_peptide": null,
+        "bradykinin_potentiating_peptide": null
+      },
+      "reference": {
+        "body_plan": "cobra",
+        "pattern": "monocle",
+        "tail_type": "pointed",
+        "skin_color": "#796246"
+      },
+      "training_profile": true,
+      "authored_targets": {
+        "headWidth": 0.48,
+        "headLength": 0.58,
+        "bodyWidth": 0.56,
+        "hood": 1,
+        "diamond": 0,
+        "monocle": 1,
+        "rattle": 0,
+        "tailTaper": 0.39999999999999997,
+        "bands": 0,
+        "blotches": 0
+      },
+      "predicted": {
+        "headWidth": 0.453102453038112,
+        "headLength": 0.5971987511601935,
+        "bodyWidth": 0.6360311610593091,
+        "hood": 0.6342663278840879,
+        "diamond": 0.0009130391444458139,
+        "monocle": 0.10092149264218676,
+        "rattle": 0.0016136449456390298,
+        "tailTaper": 0.3790796259614772,
+        "bands": 0,
+        "blotches": 0.004704264977035598
+      },
+      "predicted_colors": {
+        "skin": "#45403c",
+        "marking": "#8e8877",
+        "belly": "#d4b979",
+        "highlight": "#d4b979"
+      },
+      "grouped_holdout": {
+        "predicted": {
+          "headWidth": 0.47478751335098673,
+          "headLength": 0.5338248059522485,
+          "bodyWidth": 0.5443579397383401,
+          "hood": 0.18841178937388203,
+          "diamond": 0.029440791590659137,
+          "monocle": 0,
+          "rattle": 0.05099572656820248,
+          "tailTaper": 0.5786219901107493,
+          "bands": 0.5768852521096255,
+          "blotches": 0.12234020908030167
+        },
+        "note": "Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test."
+      },
+      "drawing_checks": {
+        "dorsal_closed": true,
+        "ventral_closed": true,
+        "dorsal_scale_count": 698,
+        "ventral_scale_count": 698
+      },
+      "generated_svg": "naja_kaouthia_generated.svg",
+      "reference_svg": "naja_kaouthia_reference.svg"
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "common_name": "Black mamba",
+      "profile_id": "vd2023_e2d1aa974518_r189",
+      "source_row": 189,
+      "input_values": {
+        "3ftx": 31,
+        "pla2": 0.1,
+        "svmp": 3.2,
+        "svsp": null,
+        "kunitz": 61.1,
+        "ctl": null,
+        "snaclec": null,
+        "crisp": null,
+        "laao": null,
+        "disintegrin": null,
+        "natriuretic_peptide": null,
+        "bradykinin_potentiating_peptide": null
+      },
+      "reference": {
+        "body_plan": "terrestrial",
+        "pattern": "plain",
+        "tail_type": "pointed",
+        "skin_color": "#858477"
+      },
+      "training_profile": true,
+      "authored_targets": {
+        "headWidth": 0.5,
+        "headLength": 0.84,
+        "bodyWidth": 0.4057142857142857,
+        "hood": 0,
+        "diamond": 0,
+        "monocle": 0,
+        "rattle": 0,
+        "tailTaper": 0.4,
+        "bands": 0,
+        "blotches": 0
+      },
+      "predicted": {
+        "headWidth": 0.5015612046759761,
+        "headLength": 0.8303915035811189,
+        "bodyWidth": 0.4150881195723165,
+        "hood": 0.006094133493033486,
+        "diamond": 0.0019388192960321292,
+        "monocle": 0,
+        "rattle": 0.0027768155941059985,
+        "tailTaper": 0.40962395740295593,
+        "bands": 0.012114419112901773,
+        "blotches": 0.014790132709995421
+      },
+      "predicted_colors": {
+        "skin": "#817d6f",
+        "marking": "#cbc4a9",
+        "belly": "#d6d2bd",
+        "highlight": "#d6d2bd"
+      },
+      "grouped_holdout": {
+        "predicted": {
+          "headWidth": 0.5245235393365495,
+          "headLength": 0.6027605662350074,
+          "bodyWidth": 0.6183719400452339,
+          "hood": 0.1103747592771807,
+          "diamond": 0.04545582145072534,
+          "monocle": 0,
+          "rattle": 0.06529369836060267,
+          "tailTaper": 0.5950912199756343,
+          "bands": 0.4167870218945161,
+          "blotches": 0.33597671078742164
+        },
+        "note": "Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test."
+      },
+      "drawing_checks": {
+        "dorsal_closed": true,
+        "ventral_closed": true,
+        "dorsal_scale_count": 693,
+        "ventral_scale_count": 693
+      },
+      "generated_svg": "dendroaspis_polylepis_generated.svg",
+      "reference_svg": "dendroaspis_polylepis_reference.svg"
+    },
+    {
+      "species": "Ophiophagus hannah",
+      "common_name": "King cobra",
+      "profile_id": "vd2023_e2d1aa974518_r297",
+      "source_row": 297,
+      "input_values": {
+        "3ftx": 43,
+        "pla2": 4,
+        "svmp": 24.4,
+        "svsp": 0.7,
+        "kunitz": 1,
+        "ctl": null,
+        "snaclec": null,
+        "crisp": 8.7,
+        "laao": 5.7,
+        "disintegrin": null,
+        "natriuretic_peptide": null,
+        "bradykinin_potentiating_peptide": null
+      },
+      "reference": {
+        "body_plan": "cobra",
+        "pattern": "plain",
+        "tail_type": "pointed",
+        "skin_color": "#6a674b"
+      },
+      "training_profile": true,
+      "authored_targets": {
+        "headWidth": 0.48,
+        "headLength": 0.58,
+        "bodyWidth": 0.56,
+        "hood": 1,
+        "diamond": 0,
+        "monocle": 0,
+        "rattle": 0,
+        "tailTaper": 0.4,
+        "bands": 0,
+        "blotches": 0
+      },
+      "predicted": {
+        "headWidth": 0.48154809103969803,
+        "headLength": 0.577788801925859,
+        "bodyWidth": 0.5641384370784053,
+        "hood": 0.9943616389005027,
+        "diamond": 0,
+        "monocle": 0.09188409562996874,
+        "rattle": 0,
+        "tailTaper": 0.41425589402857244,
+        "bands": 0.014175430834334864,
+        "blotches": 0
+      },
+      "predicted_colors": {
+        "skin": "#6c654d",
+        "marking": "#d6c79d",
+        "belly": "#d1b97f",
+        "highlight": "#d1b97f"
+      },
+      "grouped_holdout": {
+        "predicted": {
+          "headWidth": 0.4884984137718967,
+          "headLength": 0.5678233091256579,
+          "bodyWidth": 0.5827250712814501,
+          "hood": 0.9693206810807935,
+          "diamond": 0,
+          "monocle": 0.5051364356991407,
+          "rattle": 0,
+          "tailTaper": 0.47830720687954453,
+          "bands": 0.07778876294613574,
+          "blotches": 0
+        },
+        "note": "Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test."
+      },
+      "drawing_checks": {
+        "dorsal_closed": true,
+        "ventral_closed": true,
+        "dorsal_scale_count": 698,
+        "ventral_scale_count": 698
+      },
+      "generated_svg": "ophiophagus_hannah_generated.svg",
+      "reference_svg": "ophiophagus_hannah_reference.svg"
+    },
+    {
+      "species": "Micrurus alleni",
+      "common_name": "Allen's Coralsnake",
+      "profile_id": "vd2023_e2d1aa974518_r230",
+      "source_row": 230,
+      "input_values": {
+        "3ftx": 77.3,
+        "pla2": 10.9,
+        "svmp": 1.2,
+        "svsp": null,
+        "kunitz": null,
+        "ctl": 1.8,
+        "snaclec": null,
+        "crisp": null,
+        "laao": 3,
+        "disintegrin": null,
+        "natriuretic_peptide": 3.9,
+        "bradykinin_potentiating_peptide": null
+      },
+      "reference": {
+        "body_plan": "terrestrial",
+        "pattern": "band_sequence",
+        "tail_type": "short",
+        "skin_color": "#e55520"
+      },
+      "training_profile": true,
+      "authored_targets": {
+        "headWidth": 0.44000000000000006,
+        "headLength": 0.45,
+        "bodyWidth": 0.42857142857142855,
+        "hood": 0,
+        "diamond": 0,
+        "monocle": 0,
+        "rattle": 0,
+        "tailTaper": 0.75,
+        "bands": 1,
+        "blotches": 0
+      },
+      "predicted": {
+        "headWidth": 0.4403213149078687,
+        "headLength": 0.45536251761165764,
+        "bodyWidth": 0.434973938130076,
+        "hood": 0.007403843104977299,
+        "diamond": 0.002900476134306676,
+        "monocle": 0.008070879622423517,
+        "rattle": 0.003854818703446926,
+        "tailTaper": 0.745817355975543,
+        "bands": 0.9738724879612408,
+        "blotches": 0.012293574161843186
+      },
+      "predicted_colors": {
+        "skin": "#cc5328",
+        "marking": "#202323",
+        "belly": "#efe8d1",
+        "highlight": "#efe8d1"
+      },
+      "grouped_holdout": {
+        "predicted": {
+          "headWidth": 0.5556289787391765,
+          "headLength": 0.6487121940737408,
+          "bodyWidth": 0.6664978453491637,
+          "hood": 0.23961635705564316,
+          "diamond": 0.07890416214830269,
+          "monocle": 0.18774212569632673,
+          "rattle": 0.11033520300515182,
+          "tailTaper": 0.5478377353552035,
+          "bands": 0.10253083374384757,
+          "blotches": 0.4246627116847294
+        },
+        "note": "Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test."
+      },
+      "drawing_checks": {
+        "dorsal_closed": true,
+        "ventral_closed": true,
+        "dorsal_scale_count": 1966,
+        "ventral_scale_count": 1966
+      },
+      "generated_svg": "micrurus_alleni_generated.svg",
+      "reference_svg": "micrurus_alleni_reference.svg"
+    },
+    {
+      "species": "Daboia russelii",
+      "common_name": "Russell's Viper",
+      "profile_id": "vd2023_e2d1aa974518_r166",
+      "source_row": 166,
+      "input_values": {
+        "3ftx": null,
+        "pla2": 35,
+        "svmp": 6.9,
+        "svsp": 16,
+        "kunitz": 4.6,
+        "ctl": null,
+        "snaclec": 22.4,
+        "crisp": 2,
+        "laao": 5.2,
+        "disintegrin": null,
+        "natriuretic_peptide": null,
+        "bradykinin_potentiating_peptide": null
+      },
+      "reference": {
+        "body_plan": "viper",
+        "pattern": "ocelli",
+        "tail_type": "short",
+        "skin_color": "#ae9874"
+      },
+      "training_profile": true,
+      "authored_targets": {
+        "headWidth": 0.6585366666666667,
+        "headLength": 0.6799999999999998,
+        "bodyWidth": 0.8,
+        "hood": 0,
+        "diamond": 0,
+        "monocle": 0,
+        "rattle": 0,
+        "tailTaper": 0.75,
+        "bands": 0,
+        "blotches": 1
+      },
+      "predicted": {
+        "headWidth": 0.6336384589386279,
+        "headLength": 0.669444676402775,
+        "bodyWidth": 0.7548820177782842,
+        "hood": 0.022177602505716387,
+        "diamond": 0.0029905977705447524,
+        "monocle": 0.009066861074324188,
+        "rattle": 0,
+        "tailTaper": 0.7109482759160277,
+        "bands": 0.01596791416982861,
+        "blotches": 0.9318361255485847
+      },
+      "predicted_colors": {
+        "skin": "#aa9476",
+        "marking": "#4c4036",
+        "belly": "#e3d6ba",
+        "highlight": "#e3d6ba"
+      },
+      "grouped_holdout": {
+        "predicted": {
+          "headWidth": 0.5179651498840236,
+          "headLength": 0.589231202639146,
+          "bodyWidth": 0.6506828436439736,
+          "hood": 0.051752574777232004,
+          "diamond": 0.023259617339030886,
+          "monocle": 0.028953423910674844,
+          "rattle": 0.06088681671126027,
+          "tailTaper": 0.6861207862557474,
+          "bands": 0.20002599087802966,
+          "blotches": 0.5858130241704772
+        },
+        "note": "Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test."
+      },
+      "drawing_checks": {
+        "dorsal_closed": true,
+        "ventral_closed": true,
+        "dorsal_scale_count": 2208,
+        "ventral_scale_count": 2208
+      },
+      "generated_svg": "daboia_russelii_generated.svg",
+      "reference_svg": "daboia_russelii_reference.svg"
+    },
+    {
+      "species": "Bungarus multicinctus",
+      "common_name": "Many-banded krait",
+      "profile_id": "vd2023_e2d1aa974518_r108",
+      "source_row": 108,
+      "input_values": {
+        "3ftx": 27.5,
+        "pla2": 15.34,
+        "svmp": 0.78,
+        "svsp": 0.08,
+        "kunitz": 2.26,
+        "ctl": 0.41,
+        "snaclec": null,
+        "crisp": 2.42,
+        "laao": 2.11,
+        "disintegrin": null,
+        "natriuretic_peptide": 0.09,
+        "bradykinin_potentiating_peptide": null
+      },
+      "reference": {
+        "body_plan": "terrestrial",
+        "pattern": "rings",
+        "tail_type": "short",
+        "skin_color": "#222b2d"
+      },
+      "training_profile": true,
+      "authored_targets": {
+        "headWidth": 0.4400000000000001,
+        "headLength": 0.45,
+        "bodyWidth": 0.5142857142857142,
+        "hood": 0,
+        "diamond": 0,
+        "monocle": 0,
+        "rattle": 0,
+        "tailTaper": 0.75,
+        "bands": 1,
+        "blotches": 0
+      },
+      "predicted": {
+        "headWidth": 0.44186919197894853,
+        "headLength": 0.4726484440694527,
+        "bodyWidth": 0.5223007467423794,
+        "hood": 0.21111759974934882,
+        "diamond": 0.0005933502842717661,
+        "monocle": 0.029318940557048416,
+        "rattle": 0.0012134594359431185,
+        "tailTaper": 0.6966423331196291,
+        "bands": 0.8052971688250161,
+        "blotches": 0
+      },
+      "predicted_colors": {
+        "skin": "#333537",
+        "marking": "#e1ddcb",
+        "belly": "#d5cdb5",
+        "highlight": "#d5cdb5"
+      },
+      "grouped_holdout": {
+        "predicted": {
+          "headWidth": 0.4676074928920069,
+          "headLength": 0.5751360795453043,
+          "bodyWidth": 0.5838197198909475,
+          "hood": 0.6619450944970818,
+          "diamond": 0.007812666590911796,
+          "monocle": 0.2742787095818157,
+          "rattle": 0.015242769150831323,
+          "tailTaper": 0.501160456716393,
+          "bands": 0.2999403069399376,
+          "blotches": 0.10237547894970107
+        },
+        "note": "Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test."
+      },
+      "drawing_checks": {
+        "dorsal_closed": true,
+        "ventral_closed": true,
+        "dorsal_scale_count": 1051,
+        "ventral_scale_count": 1051
+      },
+      "generated_svg": "bungarus_multicinctus_generated.svg",
+      "reference_svg": "bungarus_multicinctus_reference.svg"
+    },
+    {
+      "species": "Hydrophis platurus",
+      "common_name": "Yellow-bellied Sea Snake",
+      "profile_id": "vd2023_e2d1aa974518_r212",
+      "source_row": 212,
+      "input_values": {
+        "3ftx": 49.9,
+        "pla2": 32.9,
+        "svmp": 0.9,
+        "svsp": null,
+        "kunitz": null,
+        "ctl": null,
+        "snaclec": null,
+        "crisp": 9.1,
+        "laao": null,
+        "disintegrin": null,
+        "natriuretic_peptide": null,
+        "bradykinin_potentiating_peptide": null
+      },
+      "reference": {
+        "body_plan": "marine",
+        "pattern": "lateral_bicolor",
+        "tail_type": "paddle",
+        "skin_color": "#292f33"
+      },
+      "training_profile": true,
+      "authored_targets": {
+        "headWidth": 0.4,
+        "headLength": 0.61,
+        "bodyWidth": 0.7428571428571429,
+        "hood": 0,
+        "diamond": 0,
+        "monocle": 0,
+        "rattle": 0,
+        "tailTaper": 0.35,
+        "bands": 0,
+        "blotches": 0
+      },
+      "predicted": {
+        "headWidth": 0.42497899319127747,
+        "headLength": 0.5982468229625929,
+        "bodyWidth": 0.6930869325758543,
+        "hood": 0.3316448811520805,
+        "diamond": 0,
+        "monocle": 0.05904509720831552,
+        "rattle": 0.0004078400295385934,
+        "tailTaper": 0.36016681313035565,
+        "bands": 0.07999159647176748,
+        "blotches": 0.01298892725486614
+      },
+      "predicted_colors": {
+        "skin": "#474442",
+        "marking": "#616259",
+        "belly": "#d9bb6d",
+        "highlight": "#d9bb6d"
+      },
+      "grouped_holdout": {
+        "predicted": {
+          "headWidth": 0.46759860803886166,
+          "headLength": 0.5793456817317226,
+          "bodyWidth": 0.5990121741682876,
+          "hood": 0.9305259837269968,
+          "diamond": 0,
+          "monocle": 0.17637286201720911,
+          "rattle": 0.0003885071875594226,
+          "tailTaper": 0.38429750263349394,
+          "bands": 0.039728952180585225,
+          "blotches": 0.08793254564374631
+        },
+        "note": "Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test."
+      },
+      "drawing_checks": {
+        "dorsal_closed": true,
+        "ventral_closed": true,
+        "dorsal_scale_count": 779,
+        "ventral_scale_count": 779
+      },
+      "generated_svg": "hydrophis_platurus_generated.svg",
+      "reference_svg": "hydrophis_platurus_reference.svg"
+    }
+  ],
+  "component_checks": [
+    {
+      "component": "3ftx",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": 0.1663346899907241
+      }
+    },
+    {
+      "component": "pla2",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": 0.6118248495269326
+      }
+    },
+    {
+      "component": "svmp",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": 0.7900365218311173
+      }
+    },
+    {
+      "component": "svsp",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.513644608028309
+      }
+    },
+    {
+      "component": "kunitz",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.6814668826919844
+      }
+    },
+    {
+      "component": "ctl",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.5745908008423849
+      }
+    },
+    {
+      "component": "snaclec",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.577020065133196
+      }
+    },
+    {
+      "component": "crisp",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.588877363213058
+      }
+    },
+    {
+      "component": "laao",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.6957774134331791
+      }
+    },
+    {
+      "component": "disintegrin",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.5176968723742266
+      }
+    },
+    {
+      "component": "natriuretic_peptide",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.523386953268829
+      }
+    },
+    {
+      "component": "bradykinin_potentiating_peptide",
+      "zero_restores_output": true,
+      "largest_control_effect": {
+        "trait": "hood",
+        "change": -0.5834387889943444
+      }
+    }
+  ],
+  "photo_pattern_check": [
+    {
+      "species": "Crotalus atrox",
+      "image_id": "inat_937491",
+      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+      "visible_diamonds": true,
+      "note": "Dark diamond-like dorsal marks are visible on part of the body. Held-out shape-model values average profiles and were obtained during model development, not a final untouched test.",
+      "photo_page": "https://www.inaturalist.org/photos/937491",
+      "photo_attribution": "(c) Eric Knight, some rights reserved (CC BY)",
+      "photo_sha256": "81ef689f1bf6249bffc5169a6a148cb16c38cdb459f8a10d94b42d69dedbc983",
+      "heldout_diamond_control": 0.05197544311744572
+    },
+    {
+      "species": "Oxyuranus scutellatus",
+      "image_id": "inat_457026243",
+      "manifest": "data/image_pilots/pilot_002_coastal_taipan/manifest.json",
+      "visible_diamonds": false,
+      "note": "No large diamonds visible on the forebody; full animal is not shown. Held-out shape-model values average profiles and were obtained during model development, not a final untouched test.",
+      "photo_page": "https://www.inaturalist.org/photos/457026243",
+      "photo_attribution": "no rights reserved",
+      "photo_sha256": "d1d5738b744230358958035748d57d80ece2f75d3225cbc108896dc82fcc8649",
+      "heldout_diamond_control": 0.019821014349951274
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "image_id": "inat_15204379",
+      "manifest": "data/image_pilots/pilot_003_black_mamba/manifest.json",
+      "visible_diamonds": false,
+      "note": "No large diamonds visible on the exposed body; full animal is not shown. Held-out shape-model values average profiles and were obtained during model development, not a final untouched test.",
+      "photo_page": "https://www.inaturalist.org/photos/15204379",
+      "photo_attribution": "(c) Wynand Uys, some rights reserved (CC BY)",
+      "photo_sha256": "2df323739ee29c1f526d54049e6b95809e06baf2f9ca038a68e6131492e7a0c0",
+      "heldout_diamond_control": 0.04545582145072534
+    }
+  ],
+  "transition": {
+    "from": "Crotalus atrox source row 127",
+    "to": "Naja kaouthia source row 267",
+    "steps": 100,
+    "max_step_in_control": 0.49541713405396093,
+    "max_step_in_body_point_or_radius": 29.180773847602023,
+    "trajectory": [
+      {
+        "fraction": 0,
+        "traits": {
+          "headWidth": 0.6799699094603004,
+          "headLength": 0.7136265867245086,
+          "bodyWidth": 0.78408757442743,
+          "hood": 0,
+          "diamond": 0.4429353231086583,
+          "monocle": 0,
+          "rattle": 0.44202851921679415,
+          "tailTaper": 0.7084074069533324,
+          "bands": 0,
+          "blotches": 0.5483323620679834
+        },
+        "colors": {
+          "skin": "#90806a",
+          "marking": "#978e79",
+          "belly": "#cfc0a2",
+          "highlight": "#cfc0a2"
+        },
+        "scale_count": 1210
+      },
+      {
+        "fraction": 0.01,
+        "traits": {
+          "headWidth": 0.7340906303918071,
+          "headLength": 0.7424971545553865,
+          "bodyWidth": 0.9097897264876252,
+          "hood": 0.03778036589034559,
+          "diamond": 0.8217403357173668,
+          "monocle": 0.005266720811990321,
+          "rattle": 0.3941514525500932,
+          "tailTaper": 0.876741740848009,
+          "bands": 0,
+          "blotches": 0.05291522801402249
+        },
+        "colors": {
+          "skin": "#926e77",
+          "marking": "#b2816a",
+          "belly": "#d4bab7",
+          "highlight": "#d4bab7"
+        },
+        "scale_count": 1708
+      },
+      {
+        "fraction": 0.02,
+        "traits": {
+          "headWidth": 0.667865155416867,
+          "headLength": 0.7004518976984261,
+          "bodyWidth": 0.8246147757195589,
+          "hood": 0.06898567355177875,
+          "diamond": 0.5768342745788414,
+          "monocle": 0.006642441045645625,
+          "rattle": 0.24327573530273963,
+          "tailTaper": 0.7942140485243703,
+          "bands": 0.10073409053623454,
+          "blotches": 0.13596090468098285
+        },
+        "colors": {
+          "skin": "#8f6c6c",
+          "marking": "#976e5a",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1655
+      },
+      {
+        "fraction": 0.03,
+        "traits": {
+          "headWidth": 0.6682768050606632,
+          "headLength": 0.7004106812411258,
+          "bodyWidth": 0.8248854846019247,
+          "hood": 0.0692430380893367,
+          "diamond": 0.5787859758494818,
+          "monocle": 0.0068223151813831245,
+          "rattle": 0.24505860112000818,
+          "tailTaper": 0.7943344267669316,
+          "bands": 0.09965585729327914,
+          "blotches": 0.1358427942507445
+        },
+        "colors": {
+          "skin": "#8f6c6d",
+          "marking": "#976e5a",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1655
+      },
+      {
+        "fraction": 0.04,
+        "traits": {
+          "headWidth": 0.668649740621162,
+          "headLength": 0.7003508375244085,
+          "bodyWidth": 0.825114147523995,
+          "hood": 0.06952626618560065,
+          "diamond": 0.5805668074867789,
+          "monocle": 0.007016670079612665,
+          "rattle": 0.24680897449022568,
+          "tailTaper": 0.7943965470654436,
+          "bands": 0.09862695287304776,
+          "blotches": 0.1358238678758456
+        },
+        "colors": {
+          "skin": "#8f6c6d",
+          "marking": "#976f5a",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1655
+      },
+      {
+        "fraction": 0.05,
+        "traits": {
+          "headWidth": 0.6689833620652856,
+          "headLength": 0.7002723776885411,
+          "bodyWidth": 0.8253008320342298,
+          "hood": 0.06983579344872173,
+          "diamond": 0.5821744880424404,
+          "monocle": 0.007225864169781614,
+          "rattle": 0.24852554665473667,
+          "tailTaper": 0.7944002104123431,
+          "bands": 0.09764884552483255,
+          "blotches": 0.13590323115036038
+        },
+        "colors": {
+          "skin": "#8f6d6d",
+          "marking": "#976f5a",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1654
+      },
+      {
+        "fraction": 0.06,
+        "traits": {
+          "headWidth": 0.6692771010762504,
+          "headLength": 0.7001753281038113,
+          "bodyWidth": 0.8254456439642504,
+          "hood": 0.07017203780117426,
+          "diamond": 0.5836068976302321,
+          "monocle": 0.007450250930090328,
+          "rattle": 0.25020704307828984,
+          "tailTaper": 0.7943452613256109,
+          "bands": 0.09672297338492798,
+          "blotches": 0.13607985792984748
+        },
+        "colors": {
+          "skin": "#8f6d6d",
+          "marking": "#976f5a",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1651
+      },
+      {
+        "fraction": 0.07,
+        "traits": {
+          "headWidth": 0.6695304220299304,
+          "headLength": 0.7000597302978491,
+          "bodyWidth": 0.8255487270161767,
+          "hood": 0.0705353985309938,
+          "diamond": 0.5848620819186015,
+          "monocle": 0.007690178251406852,
+          "rattle": 0.2518522254682491,
+          "tailTaper": 0.7942315879156941,
+          "bands": 0.09585074193061867,
+          "blotches": 0.1363525916343632
+        },
+        "colors": {
+          "skin": "#8f6d6d",
+          "marking": "#97705b",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1651
+      },
+      {
+        "fraction": 0.08,
+        "traits": {
+          "headWidth": 0.6697428229319715,
+          "headLength": 0.6999256408622829,
+          "bodyWidth": 0.8256102622841904,
+          "hood": 0.07092625535104552,
+          "diamond": 0.5859382558812342,
+          "monocle": 0.007945987791454796,
+          "rattle": 0.25345989373103356,
+          "tailTaper": 0.7940591219000612,
+          "bands": 0.09503352144165533,
+          "blotches": 0.13672014682770103
+        },
+        "colors": {
+          "skin": "#8f6d6d",
+          "marking": "#98705b",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1649
+      },
+      {
+        "fraction": 0.09,
+        "traits": {
+          "headWidth": 0.669913836313616,
+          "headLength": 0.6997731313389367,
+          "bodyWidth": 0.8256304677114745,
+          "hood": 0.07134496746820461,
+          "diamond": 0.5868338072964033,
+          "monocle": 0.008218014320219895,
+          "rattle": 0.2550288878609765,
+          "tailTaper": 0.7938278385660482,
+          "bands": 0.09427264447457627,
+          "blotches": 0.1371811110717639
+        },
+        "colors": {
+          "skin": "#8f6d6d",
+          "marking": "#98705b",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1647
+      },
+      {
+        "fraction": 0.1,
+        "traits": {
+          "headWidth": 0.6700430300845119,
+          "headLength": 0.6996022880861137,
+          "bodyWidth": 0.8256095974839373,
+          "hood": 0.07179187266435788,
+          "diamond": 0.5875472999865212,
+          "monocle": 0.008506585057574002,
+          "rattle": 0.25655808975694144,
+          "tailTaper": 0.7935377566827222,
+          "bands": 0.09356940335531194,
+          "blotches": 0.13773394705427008
+        },
+        "colors": {
+          "skin": "#8f6d6d",
+          "marking": "#98705b",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1643
+      },
+      {
+        "fraction": 0.11,
+        "traits": {
+          "headWidth": 0.6701300083405853,
+          "headLength": 0.6994132121252229,
+          "bodyWidth": 0.8255479413623564,
+          "hood": 0.07226728639114366,
+          "diamond": 0.5880774767895915,
+          "monocle": 0.008812019004154844,
+          "rattle": 0.2580464249620975,
+          "tailTaper": 0.7931889383625442,
+          "bands": 0.09292504769559913,
+          "blotches": 0.13837699498716344
+        },
+        "colors": {
+          "skin": "#8f6d6d",
+          "marking": "#98715b",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1642
+      },
+      {
+        "fraction": 0.12,
+        "traits": {
+          "headWidth": 0.670174412125389,
+          "headLength": 0.6992060189683116,
+          "bodyWidth": 0.8254458239545861,
+          "hood": 0.0727715008803658,
+          "diamond": 0.5884232622551389,
+          "monocle": 0.009134626266587212,
+          "rattle": 0.2594928643226755,
+          "tailTaper": 0.7927814888737912,
+          "bands": 0.09234078193877057,
+          "blotches": 0.13910847527245204
+        },
+        "colors": {
+          "skin": "#8f6e6d",
+          "marking": "#98715c",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1642
+      },
+      {
+        "fraction": 0.13,
+        "traits": {
+          "headWidth": 0.6701759201432667,
+          "headLength": 0.6989808384269743,
+          "bodyWidth": 0.8253036039297487,
+          "hood": 0.07330478427202512,
+          "diamond": 0.5885837650573735,
+          "monocle": 0.009474707378174218,
+          "rattle": 0.2608964255613852,
+          "tailTaper": 0.7923155564046699,
+          "bands": 0.0918177629405463,
+          "blotches": 0.13992649143150845
+        },
+        "colors": {
+          "skin": "#8f6e6d",
+          "marking": "#98715c",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1640
+      },
+      {
+        "fraction": 0.14,
+        "traits": {
+          "headWidth": 0.6701342494227092,
+          "headLength": 0.6987378144031554,
+          "bodyWidth": 0.8251216731764155,
+          "hood": 0.07386737976191415,
+          "diamond": 0.5885582801193592,
+          "monocle": 0.009832552616229496,
+          "rattle": 0.2622561747616859,
+          "tailTaper": 0.7917913317802272,
+          "bands": 0.09135709759039655,
+          "blotches": 0.1408290332929714
+        },
+        "colors": {
+          "skin": "#8f6e6d",
+          "marking": "#98715c",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1635
+      },
+      {
+        "fraction": 0.15,
+        "traits": {
+          "headWidth": 0.6700491559285665,
+          "headLength": 0.6984771046624431,
+          "bodyWidth": 0.8249004559069522,
+          "hood": 0.07445950477072268,
+          "diamond": 0.5883462904420859,
+          "monocle": 0.010208441317257025,
+          "rattle": 0.263571227759106,
+          "tailTaper": 0.7912090481331909,
+          "bands": 0.09095984047920327,
+          "blotches": 0.14181398043390298
+        },
+        "colors": {
+          "skin": "#8f6e6d",
+          "marking": "#98725c",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1633
+      },
+      {
+        "fraction": 0.16,
+        "traits": {
+          "headWidth": 0.669920435121697,
+          "headLength": 0.6981988805903997,
+          "bodyWidth": 0.8246404077103011,
+          "hood": 0.07508135013659246,
+          "diamond": 0.5879474686334276,
+          "monocle": 0.010602641191231289,
+          "rattle": 0.2648407514362028,
+          "tailTaper": 0.7905689805299015,
+          "bands": 0.09062699161882036,
+          "blotches": 0.1428791058679511
+        },
+        "colors": {
+          "skin": "#8f6e6d",
+          "marking": "#98725c",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1628
+      },
+      {
+        "fraction": 0.17,
+        "traits": {
+          "headWidth": 0.6697479224647301,
+          "headLength": 0.6979033269326473,
+          "bodyWidth": 0.8243420145556846,
+          "hood": 0.07573307933306131,
+          "diamond": 0.5873616781323112,
+          "monocle": 0.011015407636253617,
+          "rattle": 0.2660639649178169,
+          "tailTaper": 0.789871445552675,
+          "bands": 0.09035949421913349,
+          "blotches": 0.14402207997370559
+        },
+        "colors": {
+          "skin": "#8e6e6d",
+          "marking": "#98725d",
+          "belly": "#d2bdb3",
+          "highlight": "#d2bdb3"
+        },
+        "scale_count": 1625
+      },
+      {
+        "fraction": 0.18,
+        "traits": {
+          "headWidth": 0.6695314938728746,
+          "headLength": 0.6975906415192561,
+          "bodyWidth": 0.824005791749726,
+          "hood": 0.07641482771429903,
+          "diamond": 0.5865889741241279,
+          "monocle": 0.011446983054907971,
+          "rattle": 0.2672401406637005,
+          "tailTaper": 0.7891168008398719,
+          "bands": 0.0901582325281974,
+          "blotches": 0.1452404746556308
+        },
+        "colors": {
+          "skin": "#8e6e6d",
+          "marking": "#98725d",
+          "belly": "#d2beb3",
+          "highlight": "#d2beb3"
+        },
+        "scale_count": 1623
+      },
+      {
+        "fraction": 0.19,
+        "traits": {
+          "headWidth": 0.6692710661086237,
+          "headLength": 0.6972610349742058,
+          "bodyWidth": 0.823632282849671,
+          "hood": 0.07712670178955489,
+          "diamond": 0.585629604144251,
+          "monocle": 0.011897596173663339,
+          "rattle": 0.2683686054558039,
+          "tailTaper": 0.788305444585081,
+          "bands": 0.09002402974105005,
+          "blotches": 0.14653176772941703
+        },
+        "colors": {
+          "skin": "#8e6e6d",
+          "marking": "#98735d",
+          "belly": "#d2beb3",
+          "highlight": "#d2beb3"
+        },
+        "scale_count": 1618
+      },
+      {
+        "fraction": 0.2,
+        "traits": {
+          "headWidth": 0.6689665971193794,
+          "headLength": 0.6969147304105651,
+          "bodyWidth": 0.823222058535485,
+          "hood": 0.07786877852867395,
+          "diamond": 0.5844840083669768,
+          "monocle": 0.012367461366696692,
+          "rattle": 0.2694487412775983,
+          "tailTaper": 0.7874378149967934,
+          "bands": 0.08995764598256588,
+          "blotches": 0.14789334752284605
+        },
+        "colors": {
+          "skin": "#8e6e6d",
+          "marking": "#98735d",
+          "belly": "#d2beb3",
+          "highlight": "#d2beb3"
+        },
+        "scale_count": 1613
+      },
+      {
+        "fraction": 0.21,
+        "traits": {
+          "headWidth": 0.6686180863172142,
+          "headLength": 0.6965519631121945,
+          "bodyWidth": 0.82277571544367,
+          "hood": 0.0786411047005388,
+          "diamond": 0.5831528195780773,
+          "monocle": 0.012856777985544026,
+          "rattle": 0.27047998608355867,
+          "tailTaper": 0.7865143897201693,
+          "bands": 0.0899597763698169,
+          "blotches": 0.1493225176826712
+        },
+        "colors": {
+          "skin": "#8e6f6d",
+          "marking": "#98735d",
+          "belly": "#d2beb3",
+          "highlight": "#d2beb3"
+        },
+        "scale_count": 1610
+      },
+      {
+        "fraction": 0.22,
+        "traits": {
+          "headWidth": 0.6682255747999011,
+          "headLength": 0.6961729802025887,
+          "bodyWidth": 0.8222938749658301,
+          "hood": 0.07944369624624675,
+          "diamond": 0.5816368628297385,
+          "monocle": 0.013365729696002566,
+          "rattle": 0.27146183445654753,
+          "tailTaper": 0.785535685222176,
+          "bands": 0.0900310491591238,
+          "blotches": 0.15081650217740716
+        },
+        "colors": {
+          "skin": "#8e6f6d",
+          "marking": "#98735d",
+          "belly": "#d2beb2",
+          "highlight": "#d2beb2"
+        },
+        "scale_count": 1606
+      },
+      {
+        "fraction": 0.23,
+        "traits": {
+          "headWidth": 0.6677891455126699,
+          "headLength": 0.6957780403017837,
+          "bodyWidth": 0.821777182014927,
+          "hood": 0.08027653768880144,
+          "diamond": 0.5799371547774737,
+          "monocle": 0.013894483823733953,
+          "rattle": 0.27239383815186025,
+          "tailTaper": 0.7845022561418887,
+          "bands": 0.09017202398303044,
+          "blotches": 0.15237245048530848
+        },
+        "colors": {
+          "skin": "#8e6f6d",
+          "marking": "#98735e",
+          "belly": "#d2beb2",
+          "highlight": "#d2beb2"
+        },
+        "scale_count": 1603
+      },
+      {
+        "fraction": 0.24,
+        "traits": {
+          "headWidth": 0.6673089233500945,
+          "headLength": 0.695367413171942,
+          "bodyWidth": 0.8212263037623531,
+          "hood": 0.08113958158104204,
+          "diamond": 0.5780549026992056,
+          "monocle": 0.014443190710032836,
+          "rattle": 0.2732756065264036,
+          "tailTaper": 0.7834146946073275,
+          "bands": 0.09038319018223062,
+          "blotches": 0.153987442956323
+        },
+        "colors": {
+          "skin": "#8e6f6d",
+          "marking": "#98745e",
+          "belly": "#d2beb2",
+          "highlight": "#d2beb2"
+        },
+        "scale_count": 1595
+      },
+      {
+        "fraction": 0.25,
+        "traits": {
+          "headWidth": 0.6667850751976889,
+          "headLength": 0.6949413793525382,
+          "bodyWidth": 0.820641928349112,
+          "hood": 0.08203274799350883,
+          "diamond": 0.5759915031974979,
+          "monocle": 0.015011983079238142,
+          "rattle": 0.27410680685211375,
+          "tailTaper": 0.7822736295204842,
+          "bands": 0.09066496523725671,
+          "blotches": 0.15565849633617987
+        },
+        "colors": {
+          "skin": "#8e6f6d",
+          "marking": "#98745e",
+          "belly": "#d2beb2",
+          "highlight": "#d2beb2"
+        },
+        "scale_count": 1587
+      },
+      {
+        "fraction": 0.26,
+        "traits": {
+          "headWidth": 0.6662178099129349,
+          "headLength": 0.6945002297858632,
+          "bodyWidth": 0.8200247635741158,
+          "hood": 0.08295592404386154,
+          "diamond": 0.5737485405865715,
+          "monocle": 0.01560097541927829,
+          "rattle": 0.274887164512882,
+          "tailTaper": 0.7810797258121445,
+          "bands": 0.09101769330469735,
+          "blotches": 0.15738256944038176
+        },
+        "colors": {
+          "skin": "#8e6f6d",
+          "marking": "#98745e",
+          "belly": "#d2beb2",
+          "highlight": "#d2beb2"
+        },
+        "scale_count": 1584
+      },
+      {
+        "fraction": 0.27,
+        "traits": {
+          "headWidth": 0.6656073782455344,
+          "headLength": 0.6940442654336686,
+          "bodyWidth": 0.8193755355630736,
+          "hood": 0.08390896346943834,
+          "diamond": 0.5713277849665448,
+          "monocle": 0.01621026337684956,
+          "rattle": 0.2756164630847612,
+          "tailTaper": 0.7798336836680707,
+          "bands": 0.09144164386252279,
+          "blotches": 0.1591565689652693
+        },
+        "colors": {
+          "skin": "#8d6f6d",
+          "marking": "#98745e",
+          "belly": "#d2beb2",
+          "highlight": "#d2beb2"
+        },
+        "scale_count": 1581
+      },
+      {
+        "fraction": 0.28,
+        "traits": {
+          "headWidth": 0.6649540726968031,
+          "headLength": 0.6935737968857815,
+          "bodyWidth": 0.8186949874211429,
+          "hood": 0.08489168624445327,
+          "diamond": 0.5687311899879133,
+          "monocle": 0.01683992316872593,
+          "rattle": 0.27629454429927225,
+          "tailTaper": 0.7785362377282083,
+          "bands": 0.09193701046868841,
+          "blotches": 0.16097735542305838
+        },
+        "colors": {
+          "skin": "#8d6f6d",
+          "marking": "#98755e",
+          "belly": "#d2beb2",
+          "highlight": "#d2beb2"
+        },
+        "scale_count": 1577
+      },
+      {
+        "fraction": 0.29,
+        "traits": {
+          "headWidth": 0.6642582273182674,
+          "headLength": 0.693089143961461,
+          "bodyWidth": 0.8179838778726592,
+          "hood": 0.08590387824329411,
+          "diamond": 0.5659608903101544,
+          "monocle": 0.017490011010706012,
+          "rattle": 0.2769213078901282,
+          "tailTaper": 0.7771881562604599,
+          "bands": 0.09250390963740758,
+          "blotches": 0.16284174918716604
+        },
+        "colors": {
+          "skin": "#8d6f6d",
+          "marking": "#98755e",
+          "belly": "#d2beb2",
+          "highlight": "#d2beb2"
+        },
+        "scale_count": 1574
+      },
+      {
+        "fraction": 0.3,
+        "traits": {
+          "headWidth": 0.6635202174495967,
+          "headLength": 0.692590635304347,
+          "bodyWidth": 0.8172429798913903,
+          "hood": 0.08694529095128178,
+          "diamond": 0.5630191987588276,
+          "monocle": 0.01816056256569255,
+          "rattle": 0.2774967113239514,
+          "tailTaper": 0.7757902403106577,
+          "bands": 0.09314237983672281,
+          "blotches": 0.16474653663392444
+        },
+        "colors": {
+          "skin": "#8d6f6c",
+          "marking": "#98755f",
+          "belly": "#d1beb2",
+          "highlight": "#d1beb2"
+        },
+        "scale_count": 1570
+      },
+      {
+        "fraction": 0.31,
+        "traits": {
+          "headWidth": 0.662740459396169,
+          "headLength": 0.6920786079717923,
+          "bodyWidth": 0.8164730793244955,
+          "hood": 0.08801564122419604,
+          "diamond": 0.5599086031864298,
+          "monocle": 0.018851592412400604,
+          "rattle": 0.2780207694159387,
+          "tailTaper": 0.7743433228303694,
+          "bands": 0.09385238061125992,
+          "blotches": 0.16668847636639414
+        },
+        "colors": {
+          "skin": "#8d6f6c",
+          "marking": "#98755f",
+          "belly": "#d1beb2",
+          "highlight": "#d1beb2"
+        },
+        "scale_count": 1568
+      },
+      {
+        "fraction": 0.32,
+        "traits": {
+          "headWidth": 0.6619194100466204,
+          "headLength": 0.6915534070193543,
+          "bodyWidth": 0.815674973513669,
+          "hood": 0.08911461109778585,
+          "diamond": 0.5566317630428347,
+          "monocle": 0.01956309353617306,
+          "rattle": 0.27849355383163105,
+          "tailTaper": 0.7728482677840149,
+          "bands": 0.09463379183346599,
+          "blotches": 0.1686643055056723
+        },
+        "colors": {
+          "skin": "#8d6f6c",
+          "marking": "#98755f",
+          "belly": "#d1beb2",
+          "highlight": "#d1beb2"
+        },
+        "scale_count": 1562
+      },
+      {
+        "fraction": 0.33,
+        "traits": {
+          "headWidth": 0.6610575664309394,
+          "headLength": 0.6910153850813221,
+          "bodyWidth": 0.8148494699165993,
+          "hood": 0.09024184764839797,
+          "diamond": 0.5531915056617585,
+          "monocle": 0.020295036843370726,
+          "rattle": 0.2789151924763344,
+          "tailTaper": 0.7713059692369565,
+          "bands": 0.09548641308649145,
+          "blotches": 0.1706707460349332
+        },
+        "colors": {
+          "skin": "#8c6f6c",
+          "marking": "#98755f",
+          "belly": "#d1beb1",
+          "highlight": "#d1beb1"
+        },
+        "scale_count": 1559
+      },
+      {
+        "fraction": 0.34,
+        "traits": {
+          "headWidth": 0.6601554652196688,
+          "headLength": 0.6904649019479311,
+          "bodyWidth": 0.8139973847322441,
+          "hood": 0.09139696290577277,
+          "diamond": 0.5495908222704657,
+          "monocle": 0.021047370700783982,
+          "rattle": 0.27928586877403394,
+          "tailTaper": 0.769717350425993,
+          "bands": 0.09640996318166503,
+          "blotches": 0.1727045111811294
+        },
+        "colors": {
+          "skin": "#8c6f6c",
+          "marking": "#98765f",
+          "belly": "#d1beb1",
+          "highlight": "#d1beb1"
+        },
+        "scale_count": 1555
+      },
+      {
+        "fraction": 0.35,
+        "traits": {
+          "headWidth": 0.6592136821650069,
+          "headLength": 0.6899023241402006,
+          "bodyWidth": 0.8131195415329419,
+          "hood": 0.09257953381896289,
+          "diamond": 0.5458328637304594,
+          "monocle": 0.021820020501494126,
+          "rattle": 0.2796058208378874,
+          "tailTaper": 0.7680833628138397,
+          "bands": 0.09740407981303183,
+          "blotches": 0.17476231181923
+        },
+        "colors": {
+          "skin": "#8c6f6c",
+          "marking": "#98765f",
+          "belly": "#d1beb1",
+          "highlight": "#d1beb1"
+        },
+        "scale_count": 1553
+      },
+      {
+        "fraction": 0.36,
+        "traits": {
+          "headWidth": 0.6582328314845644,
+          "headLength": 0.6893280244830353,
+          "bodyWidth": 0.8122167699067422,
+          "hood": 0.09378910227623095,
+          "diamond": 0.5419209360175021,
+          "monocle": 0.022612888258580918,
+          "rattle": 0.27987534053477753,
+          "tailTaper": 0.7664049851290657,
+          "bands": 0.0984683193513794,
+          "blotches": 0.17684086288361264
+        },
+        "colors": {
+          "skin": "#8c6f6b",
+          "marking": "#98765f",
+          "belly": "#d1bfb1",
+          "highlight": "#d1bfb1"
+        },
+        "scale_count": 1546
+      },
+      {
+        "fraction": 0.37,
+        "traits": {
+          "headWidth": 0.6572135651888144,
+          "headLength": 0.6887423816773809,
+          "bodyWidth": 0.8112899041129409,
+          "hood": 0.09502517517968985,
+          "diamond": 0.5378584954500022,
+          "monocle": 0.023425852228042273,
+          "rattle": 0.28009477244654996,
+          "tailTaper": 0.7646832223928217,
+          "bands": 0.09960215677958476,
+          "blotches": 0.17893688977135044
+        },
+        "colors": {
+          "skin": "#8c6f6b",
+          "marking": "#97765f",
+          "belly": "#d1bfb1",
+          "highlight": "#d1bfb1"
+        },
+        "scale_count": 1543
+      },
+      {
+        "fraction": 0.38,
+        "traits": {
+          "headWidth": 0.65615657235326,
+          "headLength": 0.6881457798721746,
+          "bodyWidth": 0.8103397817540271,
+          "hood": 0.09628722457534977,
+          "diamond": 0.5336491436752059,
+          "monocle": 0.024258766562267182,
+          "rattle": 0.28026451273109176,
+          "tailTaper": 0.7629191049339249,
+          "bands": 0.10080498577111105,
+          "blotches": 0.18104713472185735
+        },
+        "colors": {
+          "skin": "#8b6f6b",
+          "marking": "#97765f",
+          "belly": "#d1bfb1",
+          "highlight": "#d1bfb1"
+        },
+        "scale_count": 1542
+      },
+      {
+        "fraction": 0.39,
+        "traits": {
+          "headWidth": 0.6550625783364974,
+          "headLength": 0.6875386082367915,
+          "bodyWidth": 0.8093672424669542,
+          "hood": 0.09757468783910439,
+          "diamond": 0.5292966224233198,
+          "monocle": 0.02511146099534426,
+          "rattle": 0.280385007886235,
+          "tailTaper": 0.7611136873934711,
+          "bands": 0.10207611891277371,
+          "blotches": 0.18316836315761062
+        },
+        "colors": {
+          "skin": "#8b6f6b",
+          "marking": "#97765f",
+          "belly": "#d1bfb1",
+          "highlight": "#d1bfb1"
+        },
+        "scale_count": 1535
+      },
+      {
+        "fraction": 0.4,
+        "traits": {
+          "headWidth": 0.653932343945394,
+          "headLength": 0.6869212605346643,
+          "bodyWidth": 0.8083731266366592,
+          "hood": 0.09888696791914034,
+          "diamond": 0.5248048080401044,
+          "monocle": 0.025983740561472863,
+          "rattle": 0.28045675342023213,
+          "tailTaper": 0.7592680477205043,
+          "bands": 0.10341478807302405,
+          "blotches": 0.18529736997052165
+        },
+        "colors": {
+          "skin": "#8b6f6b",
+          "marking": "#977760",
+          "belly": "#d1bfb0",
+          "highlight": "#d1bfb0"
+        },
+        "scale_count": 1532
+      },
+      {
+        "fraction": 0.41,
+        "traits": {
+          "headWidth": 0.6527666645488257,
+          "headLength": 0.6862941346987759,
+          "bodyWidth": 0.8073582741347048,
+          "hood": 0.10022343363506396,
+          "diamond": 0.5201777058090294,
+          "monocle": 0.02687538534766624,
+          "rattle": 0.28048029243248995,
+          "tailTaper": 0.757383286159788,
+          "bands": 0.10482014491623717,
+          "blotches": 0.18743098573881095
+        },
+        "colors": {
+          "skin": "#8b6f6a",
+          "marking": "#977760",
+          "belly": "#d1bfb0",
+          "highlight": "#d1bfb0"
+        },
+        "scale_count": 1529
+      },
+      {
+        "fraction": 0.42,
+        "traits": {
+          "headWidth": 0.6519161771143418,
+          "headLength": 0.6860419170517803,
+          "bodyWidth": 0.8060531259041402,
+          "hood": 0.10321000644010202,
+          "diamond": 0.515403096912912,
+          "monocle": 0.027715232591198395,
+          "rattle": 0.28127474452418416,
+          "tailTaper": 0.7559113497613326,
+          "bands": 0.10358771758433512,
+          "blotches": 0.19066366347911676
+        },
+        "colors": {
+          "skin": "#8a6f6a",
+          "marking": "#96775f",
+          "belly": "#d1bfb0",
+          "highlight": "#d1bfb0"
+        },
+        "scale_count": 1517
+      },
+      {
+        "fraction": 0.43,
+        "traits": {
+          "headWidth": 0.651040945686011,
+          "headLength": 0.6858349951241326,
+          "bodyWidth": 0.8045894037802601,
+          "hood": 0.1066848039792753,
+          "diamond": 0.5103700951601001,
+          "monocle": 0.028564137194641646,
+          "rattle": 0.2823064097008496,
+          "tailTaper": 0.7543884616366875,
+          "bands": 0.10173391322699671,
+          "blotches": 0.1942819853767439
+        },
+        "colors": {
+          "skin": "#8a6f6a",
+          "marking": "#96765f",
+          "belly": "#d1bfb0",
+          "highlight": "#d1bfb0"
+        },
+        "scale_count": 1503
+      },
+      {
+        "fraction": 0.44,
+        "traits": {
+          "headWidth": 0.6500603905604987,
+          "headLength": 0.6855878296947469,
+          "bodyWidth": 0.8030204801423271,
+          "hood": 0.11030873060958227,
+          "diamond": 0.505086012904227,
+          "monocle": 0.029437361112008804,
+          "rattle": 0.28341732064238795,
+          "tailTaper": 0.7527094124505281,
+          "bands": 0.0998269498421598,
+          "blotches": 0.19805353012403662
+        },
+        "colors": {
+          "skin": "#8a6f6a",
+          "marking": "#95765f",
+          "belly": "#d1bfb0",
+          "highlight": "#d1bfb0"
+        },
+        "scale_count": 1491
+      },
+      {
+        "fraction": 0.45,
+        "traits": {
+          "headWidth": 0.6489755239278359,
+          "headLength": 0.6852999486515141,
+          "bodyWidth": 0.8013500546858285,
+          "hood": 0.11407939073958476,
+          "diamond": 0.4995682664220281,
+          "monocle": 0.030334361921006966,
+          "rattle": 0.2846143535788006,
+          "tailTaper": 0.7508767548157008,
+          "bands": 0.09786656963709,
+          "blotches": 0.20196537516414015
+        },
+        "colors": {
+          "skin": "#8a6f69",
+          "marking": "#95755e",
+          "belly": "#d1bfb0",
+          "highlight": "#d1bfb0"
+        },
+        "scale_count": 1476
+      },
+      {
+        "fraction": 0.46,
+        "traits": {
+          "headWidth": 0.6477876276306211,
+          "headLength": 0.6849709456519184,
+          "bodyWidth": 0.7995820451879031,
+          "hood": 0.11799388490961675,
+          "diamond": 0.4938346926441633,
+          "monocle": 0.03125451938290076,
+          "rattle": 0.2859038917278065,
+          "tailTaper": 0.7488934369631476,
+          "bands": 0.09585306634748124,
+          "blotches": 0.20600419875934306
+        },
+        "colors": {
+          "skin": "#8a6f69",
+          "marking": "#94755e",
+          "belly": "#d2bfb0",
+          "highlight": "#d2bfb0"
+        },
+        "scale_count": 1460
+      },
+      {
+        "fraction": 0.47,
+        "traits": {
+          "headWidth": 0.6464982521907653,
+          "headLength": 0.6846004853422614,
+          "bodyWidth": 0.7977205740432326,
+          "hood": 0.12204880445826582,
+          "diamond": 0.4879034662268227,
+          "monocle": 0.03219713474017991,
+          "rattle": 0.287291769781486,
+          "tailTaper": 0.7467627953072404,
+          "bands": 0.09378730705670886,
+          "blotches": 0.21015633260654384
+        },
+        "colors": {
+          "skin": "#8a6f69",
+          "marking": "#93755e",
+          "belly": "#d2c0af",
+          "highlight": "#d2c0af"
+        },
+        "scale_count": 1441
+      },
+      {
+        "fraction": 0.48,
+        "traits": {
+          "headWidth": 0.645109214869439,
+          "headLength": 0.6841883085747348,
+          "bodyWidth": 0.7957699541683105,
+          "hood": 0.12624022823347494,
+          "diamond": 0.4817930158547301,
+          "monocle": 0.033161430292512666,
+          "rattle": 0.28878322103012355,
+          "tailTaper": 0.7444885454793742,
+          "bands": 0.09167075017786831,
+          "blotches": 0.21440781631347133
+        },
+        "colors": {
+          "skin": "#8a6f69",
+          "marking": "#93755e",
+          "belly": "#d2c0af",
+          "highlight": "#d2c0af"
+        },
+        "scale_count": 1424
+      },
+      {
+        "fraction": 0.49,
+        "traits": {
+          "headWidth": 0.6436225967531339,
+          "headLength": 0.6837342375758151,
+          "bodyWidth": 0.7937346743324853,
+          "hood": 0.1305637214276912,
+          "diamond": 0.47552194028003286,
+          "monocle": 0.03414654926141185,
+          "rattle": 0.2903828275488565,
+          "tailTaper": 0.742074771861756,
+          "bands": 0.08950545935630518,
+          "blotches": 0.21874445349900243
+        },
+        "colors": {
+          "skin": "#8a6f68",
+          "marking": "#92745e",
+          "belly": "#d2c0af",
+          "highlight": "#d2c0af"
+        },
+        "scale_count": 1406
+      },
+      {
+        "fraction": 0.5,
+        "traits": {
+          "headWidth": 0.6420407388627615,
+          "headLength": 0.683238181017485,
+          "bodyWidth": 0.791619383975818,
+          "hood": 0.13501433660676718,
+          "diamond": 0.4691089245981404,
+          "monocle": 0.035151555952796315,
+          "rattle": 0.29209447385500875,
+          "tailTaper": 0.7395259156613716,
+          "bands": 0.0872941130817213,
+          "blotches": 0.22315186927058672
+        },
+        "colors": {
+          "skin": "#8a6f68",
+          "marking": "#92745d",
+          "belly": "#d2c0af",
+          "highlight": "#d2c0af"
+        },
+        "scale_count": 1383
+      },
+      {
+        "fraction": 0.51,
+        "traits": {
+          "headWidth": 0.6403662372867361,
+          "headLength": 0.6827001389410301,
+          "bodyWidth": 0.7894288775746439,
+          "hood": 0.13958661699170186,
+          "diamond": 0.4625726572544757,
+          "monocle": 0.036175436225356676,
+          "rattle": 0.29392130442385955,
+          "tailTaper": 0.7368467615715393,
+          "bands": 0.08504000983077135,
+          "blotches": 0.22761556882201547
+        },
+        "colors": {
+          "skin": "#8a6f68",
+          "marking": "#91745d",
+          "belly": "#d2c0af",
+          "highlight": "#d2c0af"
+        },
+        "scale_count": 1366
+      },
+      {
+        "fraction": 0.52,
+        "traits": {
+          "headWidth": 0.6386019373430556,
+          "headLength": 0.6821202074821476,
+          "bodyWidth": 0.787168078616739,
+          "hood": 0.14427460204104298,
+          "diamond": 0.45593174826522403,
+          "monocle": 0.037217098271242914,
+          "rattle": 0.2958656854261087,
+          "tailTaper": 0.7340424230762166,
+          "bands": 0.08274706859714055,
+          "blotches": 0.23212099688622442
+        },
+        "colors": {
+          "skin": "#8a6f67",
+          "marking": "#91745d",
+          "belly": "#d3c0ae",
+          "highlight": "#d3c0ae"
+        },
+        "scale_count": 1351
+      },
+      {
+        "fraction": 0.53,
+        "traits": {
+          "headWidth": 0.6367509267797817,
+          "headLength": 0.6814985833453125,
+          "bodyWidth": 0.7848420232488642,
+          "hood": 0.14907183536984742,
+          "diamond": 0.44920464912092656,
+          "monocle": 0.03827537371414179,
+          "rattle": 0.29792917102275507,
+          "tailTaper": 0.7311183264591203,
+          "bands": 0.08041982470273093,
+          "blotches": 0.2366535977703355
+        },
+        "colors": {
+          "skin": "#896f67",
+          "marking": "#90735d",
+          "belly": "#d3c0ae",
+          "highlight": "#d3c0ae"
+        },
+        "scale_count": 1339
+      },
+      {
+        "fraction": 0.54,
+        "traits": {
+          "headWidth": 0.6348165280275542,
+          "headLength": 0.6808355679754954,
+          "bodyWidth": 0.7824558436596695,
+          "hood": 0.15397137502855185,
+          "diamond": 0.4424095748243635,
+          "monocle": 0.039349019028298016,
+          "rattle": 0.3001124745225614,
+          "tailTaper": 0.7280801935867538,
+          "bands": 0.07806342082295342,
+          "blotches": 0.24119887569368822
+        },
+        "colors": {
+          "skin": "#896f67",
+          "marking": "#90735d",
+          "belly": "#d3c0ae",
+          "highlight": "#d3c0ae"
+        },
+        "scale_count": 1326
+      },
+      {
+        "fraction": 0.55,
+        "traits": {
+          "headWidth": 0.6328022895220584,
+          "headLength": 0.6801315713755937,
+          "bodyWidth": 0.7800147512616427,
+          "hood": 0.15896580615209477,
+          "diamond": 0.43556442849334454,
+          "monocle": 0.04043671728046295,
+          "rattle": 0.30241544467377784,
+          "tailTaper": 0.7249340235407536,
+          "bands": 0.07568359319895586,
+          "blotches": 0.24574245514430526
+        },
+        "colors": {
+          "skin": "#896f67",
+          "marking": "#8f735d",
+          "belly": "#d3c0ae",
+          "highlight": "#d3c0ae"
+        },
+        "scale_count": 1311
+      },
+      {
+        "fraction": 0.56,
+        "traits": {
+          "headWidth": 0.6307119761191327,
+          "headLength": 0.6793871155191106,
+          "bodyWidth": 0.777524019735447,
+          "hood": 0.16404725597612818,
+          "diamond": 0.4286867289356298,
+          "monocle": 0.04153708019513101,
+          "rattle": 0.3048370473256375,
+          "tailTaper": 0.7216860731810112,
+          "bands": 0.07328665305090747,
+          "blotches": 0.25027014096538786
+        },
+        "colors": {
+          "skin": "#896f67",
+          "marking": "#8f735d",
+          "belly": "#d3c0ad",
+          "highlight": "#d3c0ad"
+        },
+        "scale_count": 1298
+      },
+      {
+        "fraction": 0.57,
+        "traits": {
+          "headWidth": 0.6285495586292087,
+          "headLength": 0.6786028373093159,
+          "bodyWidth": 0.7749889680005291,
+          "hood": 0.1692074112033775,
+          "diamond": 0.42179354157708526,
+          "monocle": 0.04264865054177694,
+          "rattle": 0.30737535265667904,
+          "tailTaper": 0.7183428367267181,
+          "bands": 0.07087946324798344,
+          "blotches": 0.2547679778806146
+        },
+        "colors": {
+          "skin": "#896f66",
+          "marking": "#8e735d",
+          "belly": "#d3c0ad",
+          "highlight": "#d3c0ad"
+        },
+        "scale_count": 1286
+      },
+      {
+        "fraction": 0.58,
+        "traits": {
+          "headWidth": 0.6263192025026638,
+          "headLength": 0.6777794910381213,
+          "bodyWidth": 0.7724149431749914,
+          "hood": 0.17443753768909467,
+          "diamond": 0.414901413095544,
+          "monocle": 0.04376990484112175,
+          "rattle": 0.310027528126637,
+          "tailTaper": 0.7149110244472865,
+          "bands": 0.06846941033249464,
+          "blotches": 0.2592223091657127
+        },
+        "colors": {
+          "skin": "#896f66",
+          "marking": "#8e735d",
+          "belly": "#d3c1ad",
+          "highlight": "#d3c1ad"
+        },
+        "scale_count": 1274
+      },
+      {
+        "fraction": 0.59,
+        "traits": {
+          "headWidth": 0.6240252557017822,
+          "headLength": 0.6769179503008915,
+          "bodyWidth": 0.7698073035881201,
+          "hood": 0.17972850240032096,
+          "diamond": 0.40802631008233875,
+          "monocle": 0.04489925638575798,
+          "rattle": 0.312789837266572,
+          "tailTaper": 0.7113975405599954,
+          "bands": 0.06606437203685718,
+          "blotches": 0.2636198341740338
+        },
+        "colors": {
+          "skin": "#897066",
+          "marking": "#8e735d",
+          "belly": "#d3c1ac",
+          "highlight": "#d3c1ac"
+        },
+        "scale_count": 1261
+      },
+      {
+        "fraction": 0.6,
+        "traits": {
+          "headWidth": 0.6216722357996709,
+          "headLength": 0.6760192093266615,
+          "bodyWidth": 0.7671714019077094,
+          "hood": 0.1850707975893795,
+          "diamond": 0.4011835620209564,
+          "monocle": 0.046035058568772914,
+          "rattle": 0.3156576443784385,
+          "tailTaper": 0.7078094604347974,
+          "bands": 0.06367268047301446,
+          "blotches": 0.2679476644251819
+        },
+        "colors": {
+          "skin": "#897066",
+          "marking": "#8d735d",
+          "belly": "#d3c1ac",
+          "highlight": "#d3c1ac"
+        },
+        "scale_count": 1248
+      },
+      {
+        "fraction": 0.61,
+        "traits": {
+          "headWidth": 0.6192648163505887,
+          "headLength": 0.675084383686934,
+          "bodyWidth": 0.7645125684440388,
+          "hood": 0.19045456710774913,
+          "diamond": 0.39438780883843566,
+          "monocle": 0.047175608512298045,
+          "rattle": 0.31862542517122394,
+          "tailTaper": 0.7041540072103927,
+          "bands": 0.061303081213242884,
+          "blotches": 0.27219337796913134
+        },
+        "colors": {
+          "skin": "#897065",
+          "marking": "#8d745d",
+          "belly": "#d3c1ac",
+          "highlight": "#d3c1ac"
+        },
+        "scale_count": 1238
+      },
+      {
+        "fraction": 0.62,
+        "traits": {
+          "headWidth": 0.6168078125804187,
+          "headLength": 0.6741147103507726,
+          "bodyWidth": 0.7618360946916409,
+          "hood": 0.19586963477233887,
+          "diamond": 0.38765295324985716,
+          "monocle": 0.04831915098625038,
+          "rattle": 0.32168678331585554,
+          "tailTaper": 0.7004385279284087,
+          "bands": 0.05896468851927443,
+          "blotches": 0.2763450717427096
+        },
+        "colors": {
+          "skin": "#887065",
+          "marking": "#8d745e",
+          "belly": "#d3c1ac",
+          "highlight": "#d3c1ac"
+        },
+        "scale_count": 1225
+      },
+      {
+        "fraction": 0.63,
+        "traits": {
+          "headWidth": 0.6143061664503073,
+          "headLength": 0.6731115470585978,
+          "bodyWidth": 0.7591472171684175,
+          "hood": 0.20130553468234938,
+          "diamond": 0.38099211808045713,
+          "monocle": 0.04946388260586599,
+          "rattle": 0.3248344728561312,
+          "tailTaper": 0.6966704692944624,
+          "bands": 0.05666693701286894,
+          "blotches": 0.28039141164187453
+        },
+        "colors": {
+          "skin": "#887065",
+          "marking": "#8d745e",
+          "belly": "#d3c1ab",
+          "highlight": "#d3c1ab"
+        },
+        "scale_count": 1209
+      },
+      {
+        "fraction": 0.64,
+        "traits": {
+          "headWidth": 0.6117649311499399,
+          "headLength": 0.6720763709921482,
+          "bodyWidth": 0.7564511016111692,
+          "hood": 0.20675154337136703,
+          "diamond": 0.3744176087130079,
+          "monocle": 0.05060795629503547,
+          "rattle": 0.32806042636843735,
+          "tailTaper": 0.6928573531768054,
+          "bands": 0.05441953011451418,
+          "blotches": 0.28432168004090824
+        },
+        "colors": {
+          "skin": "#887065",
+          "marking": "#8d745e",
+          "belly": "#d3c1ab",
+          "highlight": "#d3c1ab"
+        },
+        "scale_count": 1194
+      },
+      {
+        "fraction": 0.65,
+        "traits": {
+          "headWidth": 0.6091892550811834,
+          "headLength": 0.6710107767238905,
+          "bodyWidth": 0.7537528275847585,
+          "hood": 0.21219671366632753,
+          "diamond": 0.3679408807716286,
+          "monocle": 0.05174948600086751,
+          "rattle": 0.33135578871868093,
+          "tailTaper": 0.689006751953734,
+          "bands": 0.052232385607975385,
+          "blotches": 0.2881258204995062
+        },
+        "colors": {
+          "skin": "#887065",
+          "marking": "#8d755f",
+          "belly": "#d3c1ab",
+          "highlight": "#d3c1ab"
+        },
+        "scale_count": 1178
+      },
+      {
+        "fraction": 0.66,
+        "traits": {
+          "headWidth": 0.6065843653959645,
+          "headLength": 0.6699164734347784,
+          "bodyWidth": 0.7510573735609493,
+          "hood": 0.21762991011252014,
+          "diamond": 0.3615725131159026,
+          "monocle": 0.05288655164342271,
+          "rattle": 0.3347109562222553,
+          "tailTaper": 0.6851262638214096,
+          "bands": 0.0501155787164833,
+          "blotches": 0.2917944794097377
+        },
+        "colors": {
+          "skin": "#887065",
+          "marking": "#8d755f",
+          "belly": "#d3c1aa",
+          "highlight": "#d3c1aa"
+        },
+        "scale_count": 1168
+      },
+      {
+        "fraction": 0.67,
+        "traits": {
+          "headWidth": 0.6039555511555328,
+          "headLength": 0.6687952813955229,
+          "bodyWidth": 0.7483696025210079,
+          "hood": 0.22303984581200745,
+          "diamond": 0.3553221861830451,
+          "monocle": 0.054017204283118146,
+          "rattle": 0.33811562097082776,
+          "tailTaper": 0.6812234881733441,
+          "bands": 0.048079283101130584,
+          "blotches": 0.29531904434813305
+        },
+        "colors": {
+          "skin": "#887065",
+          "marking": "#8d755f",
+          "belly": "#d3c1aa",
+          "highlight": "#d3c1aa"
+        },
+        "scale_count": 1162
+      },
+      {
+        "fraction": 0.68,
+        "traits": {
+          "headWidth": 0.6013081461813258,
+          "headLength": 0.6676491277126898,
+          "bodyWidth": 0.7456942481345776,
+          "hood": 0.22841512051182483,
+          "diamond": 0.3491986656797248,
+          "monocle": 0.055139471486964894,
+          "rattle": 0.3415588200504815,
+          "tailTaper": 0.6773060011615376,
+          "bands": 0.04613371021289881,
+          "blotches": 0.29869167891249654
+        },
+        "colors": {
+          "skin": "#877064",
+          "marking": "#8d7660",
+          "belly": "#d2c1aa",
+          "highlight": "#d2c1aa"
+        },
+        "scale_count": 1152
+      },
+      {
+        "fraction": 0.69,
+        "traits": {
+          "headWidth": 0.5986475116702332,
+          "headLength": 0.6664800413475227,
+          "bodyWidth": 0.7430359015648865,
+          "hood": 0.23374425976826432,
+          "diamond": 0.3432097915901641,
+          "monocle": 0.05625136287352896,
+          "rattle": 0.34502898933758885,
+          "tailTaper": 0.6733813315479215,
+          "bands": 0.04428904744742701,
+          "blotches": 0.3019053538393715
+        },
+        "colors": {
+          "skin": "#877164",
+          "marking": "#8d7660",
+          "belly": "#d2c0a9",
+          "highlight": "#d2c0a9"
+        },
+        "scale_count": 1145
+      },
+      {
+        "fraction": 0.7,
+        "traits": {
+          "headWidth": 0.5959790186491625,
+          "headLength": 0.6652901474217336,
+          "bodyWidth": 0.7403989989485584,
+          "hood": 0.23901575500427377,
+          "diamond": 0.33736247243326734,
+          "monocle": 0.05735087581533995,
+          "rattle": 0.3485140215239933,
+          "tailTaper": 0.6694569369520952,
+          "bands": 0.04255539556456837,
+          "blotches": 0.30495387421597253
+        },
+        "colors": {
+          "skin": "#877164",
+          "marking": "#8d7761",
+          "belly": "#d2c0a9",
+          "highlight": "#d2c0a9"
+        },
+        "scale_count": 1135
+      },
+      {
+        "fraction": 0.71,
+        "traits": {
+          "headWidth": 0.5933080303460193,
+          "headLength": 0.6640816608309497,
+          "bodyWidth": 0.7377878095953875,
+          "hood": 0.24421810426901128,
+          "diamond": 0.3316626846688948,
+          "monocle": 0.058436001276435987,
+          "rattle": 0.3520013279904024,
+          "tailTaper": 0.6655401805988008,
+          "bands": 0.04094270584434184,
+          "blotches": 0.30783190261963056
+        },
+        "colors": {
+          "skin": "#877164",
+          "marking": "#8d7861",
+          "belly": "#d2c0a8",
+          "highlight": "#d2c0a8"
+        },
+        "scale_count": 1130
+      },
+      {
+        "fraction": 0.72,
+        "traits": {
+          "headWidth": 0.5906398845553331,
+          "headLength": 0.6628568791929604,
+          "bodyWidth": 0.7352064249510927,
+          "hood": 0.24933985350153157,
+          "diamond": 0.32611547712249367,
+          "monocle": 0.05950472976175293,
+          "rattle": 0.3554779041178589,
+          "tailTaper": 0.661638308664946,
+          "bands": 0.03946071745534079,
+          "blotches": 0.3105349780387377
+        },
+        "colors": {
+          "skin": "#877164",
+          "marking": "#8e7862",
+          "belly": "#d2c0a8",
+          "highlight": "#d2c0a8"
+        },
+        "scale_count": 1123
+      },
+      {
+        "fraction": 0.73,
+        "traits": {
+          "headWidth": 0.5879798760781555,
+          "headLength": 0.6616181751640663,
+          "bodyWidth": 0.732658748362863,
+          "hood": 0.2543696380948963,
+          "diamond": 0.32072498026810264,
+          "monocle": 0.0605550573542803,
+          "rattle": 0.3589303976007825,
+          "tailTaper": 0.6577584283220186,
+          "bands": 0.038118895512769264,
+          "blotches": 0.3130595304511711
+        },
+        "colors": {
+          "skin": "#877164",
+          "marking": "#8e7963",
+          "belly": "#d2c0a8",
+          "highlight": "#d2c0a8"
+        },
+        "scale_count": 1117
+      },
+      {
+        "fraction": 0.74,
+        "traits": {
+          "headWidth": 0.5853332393162427,
+          "headLength": 0.6603679881628302,
+          "bodyWidth": 0.7301484856848788,
+          "hood": 0.2592962245524021,
+          "diamond": 0.31549442018239676,
+          "monocle": 0.06158499181516845,
+          "rattle": 0.3623451793028547,
+          "tailTaper": 0.6539074865653253,
+          "bands": 0.03692637029891611,
+          "blotches": 0.31540289095973284
+        },
+        "colors": {
+          "skin": "#867164",
+          "marking": "#8e7a63",
+          "belly": "#d1c0a7",
+          "highlight": "#d1c0a7"
+        },
+        "scale_count": 1108
+      },
+      {
+        "fraction": 0.75,
+        "traits": {
+          "headWidth": 0.5827051311007515,
+          "headLength": 0.6591088155462101,
+          "bodyWidth": 0.727679136757031,
+          "hood": 0.26410855202452477,
+          "diamond": 0.31042613695735694,
+          "monocle": 0.06259255872143012,
+          "rattle": 0.36570841617826116,
+          "tailTaper": 0.6500922499163497,
+          "bands": 0.035891878111634204,
+          "blotches": 0.31756329740864553
+        },
+        "colors": {
+          "skin": "#867164",
+          "marking": "#8f7a64",
+          "belly": "#d1c0a7",
+          "highlight": "#d1c0a7"
+        },
+        "scale_count": 1100
+      },
+      {
+        "fraction": 0.76,
+        "traits": {
+          "headWidth": 0.5801006138353341,
+          "headLength": 0.6578432032884888,
+          "bodyWidth": 0.7252539877871684,
+          "hood": 0.2687957735132812,
+          "diamond": 0.30552160733628064,
+          "monocle": 0.06357580761542246,
+          "rattle": 0.3690061457656233,
+          "tailTaper": 0.6463192850793187,
+          "bands": 0.03502370419318477,
+          "blotches": 0.3195398954306887
+        },
+        "colors": {
+          "skin": "#867264",
+          "marking": "#8f7b65",
+          "belly": "#d1c0a7",
+          "highlight": "#d1c0a7"
+        },
+        "scale_count": 1092
+      },
+      {
+        "fraction": 0.77,
+        "traits": {
+          "headWidth": 0.5775246390327459,
+          "headLength": 0.6565737362182885,
+          "bodyWidth": 0.7228761046630263,
+          "hood": 0.2733472965303228,
+          "diamond": 0.3007814713170874,
+          "monocle": 0.06453281814001387,
+          "rattle": 0.37222435175155266,
+          "tailTaper": 0.6425949406270421,
+          "bands": 0.034329628176329535,
+          "blotches": 0.32133273490082914
+        },
+        "colors": {
+          "skin": "#867264",
+          "marking": "#907c65",
+          "belly": "#d0c0a6",
+          "highlight": "#d0c0a6"
+        },
+        "scale_count": 1085
+      },
+      {
+        "fraction": 0.78,
+        "traits": {
+          "headWidth": 0.5749820313225619,
+          "headLength": 0.6553030278734246,
+          "bodyWidth": 0.7205483272162507,
+          "hood": 0.2777528229960514,
+          "diamond": 0.29620556244880114,
+          "monocle": 0.06546170613315966,
+          "rattle": 0.3753490400936197,
+          "tailTaper": 0.6389253297850376,
+          "bands": 0.03381687246362499,
+          "blotches": 0.3229427617994833
+        },
+        "colors": {
+          "skin": "#867264",
+          "marking": "#907d66",
+          "belly": "#d0bfa6",
+          "highlight": "#d0bfa6"
+        },
+        "scale_count": 1078
+      },
+      {
+        "fraction": 0.79,
+        "traits": {
+          "headWidth": 0.5724774730060173,
+          "headLength": 0.654033710037404,
+          "bodyWidth": 0.7182732644567605,
+          "hood": 0.28200238816943834,
+          "diamond": 0.2917929415314432,
+          "monocle": 0.06636062965560542,
+          "rattle": 0.37836631518980873,
+          "tailTaper": 0.63531631437639,
+          "bands": 0.033492053932113124,
+          "blotches": 0.3243718055157689
+        },
+        "colors": {
+          "skin": "#857264",
+          "marking": "#917e67",
+          "belly": "#d0bfa5",
+          "highlight": "#d0bfa5"
+        },
+        "scale_count": 1071
+      },
+      {
+        "fraction": 0.8,
+        "traits": {
+          "headWidth": 0.5700154892313924,
+          "headLength": 0.6527684220247063,
+          "bodyWidth": 0.7160532907913674,
+          "hood": 0.28608639840204586,
+          "diamond": 0.28754193341614476,
+          "monocle": 0.06722779492555842,
+          "rattle": 0.38126245558342425,
+          "tailTaper": 0.6317734899831033,
+          "bands": 0.03336113932806065,
+          "blotches": 0.32562256164916725
+        },
+        "colors": {
+          "skin": "#857264",
+          "marking": "#917f68",
+          "belly": "#d0bfa5",
+          "highlight": "#d0bfa5"
+        },
+        "scale_count": 1067
+      },
+      {
+        "fraction": 0.81,
+        "traits": {
+          "headWidth": 0.5676004338607101,
+          "headLength": 0.6515097997847984,
+          "bodyWidth": 0.7138905432361479,
+          "hood": 0.2899956675150963,
+          "diamond": 0.28345016659182937,
+          "monocle": 0.06806146213440567,
+          "rattle": 0.3840239886972071,
+          "tailTaper": 0.6283021723726521,
+          "bands": 0.03342940468553506,
+          "blotches": 0.32669857039581185
+        },
+        "colors": {
+          "skin": "#857264",
+          "marking": "#928069",
+          "belly": "#cfbfa5",
+          "highlight": "#cfbfa5"
+        },
+        "scale_count": 1061
+      },
+      {
+        "fraction": 0.82,
+        "traits": {
+          "headWidth": 0.5652364760951302,
+          "headLength": 0.6502604648970571,
+          "bodyWidth": 0.7117869196274433,
+          "hood": 0.2937214516048907,
+          "diamond": 0.2795146152365783,
+          "monocle": 0.06885995111800054,
+          "rattle": 0.38663776410083006,
+          "tailTaper": 0.6249073852312067,
+          "bands": 0.03370139906923933,
+          "blotches": 0.32760419063332585
+        },
+        "colors": {
+          "skin": "#857264",
+          "marking": "#938169",
+          "belly": "#cfbfa4",
+          "highlight": "#cfbfa4"
+        },
+        "scale_count": 1054
+      },
+      {
+        "fraction": 0.83,
+        "traits": {
+          "headWidth": 0.5629275879225671,
+          "headLength": 0.6490230135302345,
+          "bodyWidth": 0.7097440778315584,
+          "hood": 0.2972554820900046,
+          "diamond": 0.27573164340601386,
+          "monocle": 0.06962164685852963,
+          "rattle": 0.3890910248286054,
+          "tailTaper": 0.62159384923794,
+          "bands": 0.03418091290540449,
+          "blotches": 0.32834456984570193
+        },
+        "colors": {
+          "skin": "#857264",
+          "marking": "#93826a",
+          "belly": "#cfbfa4",
+          "highlight": "#cfbfa4"
+        },
+        "scale_count": 1051
+      },
+      {
+        "fraction": 0.84,
+        "traits": {
+          "headWidth": 0.5596118777331861,
+          "headLength": 0.6469729985029483,
+          "bodyWidth": 0.7065560543527205,
+          "hood": 0.30434407065396835,
+          "diamond": 0.26957819765771956,
+          "monocle": 0.07102233817662966,
+          "rattle": 0.3884788365245539,
+          "tailTaper": 0.6166640500553889,
+          "bands": 0.03514989584157165,
+          "blotches": 0.32866575499108863
+        },
+        "colors": {
+          "skin": "#847264",
+          "marking": "#94836b",
+          "belly": "#cebea4",
+          "highlight": "#cebea4"
+        },
+        "scale_count": 1041
+      },
+      {
+        "fraction": 0.85,
+        "traits": {
+          "headWidth": 0.5489306386986068,
+          "headLength": 0.6391478068561028,
+          "bodyWidth": 0.6948112197107702,
+          "hood": 0.33786555576177263,
+          "diamond": 0.24547094368822217,
+          "monocle": 0.07704106369339729,
+          "rattle": 0.3660674990155879,
+          "tailTaper": 0.5993472421291361,
+          "bands": 0.039405854718237536,
+          "blotches": 0.32545737943141584
+        },
+        "colors": {
+          "skin": "#816f63",
+          "marking": "#97856d",
+          "belly": "#ccbca2",
+          "highlight": "#ccbca2"
+        },
+        "scale_count": 1021
+      },
+      {
+        "fraction": 0.86,
+        "traits": {
+          "headWidth": 0.5380447279089579,
+          "headLength": 0.6310512512540393,
+          "bodyWidth": 0.6824142427605167,
+          "hood": 0.37321721663065865,
+          "diamond": 0.21991884951075227,
+          "monocle": 0.08311528721393614,
+          "rattle": 0.3401009498680234,
+          "tailTaper": 0.5806655492724992,
+          "bands": 0.04586699687490159,
+          "blotches": 0.31908464857944785
+        },
+        "colors": {
+          "skin": "#7e6d62",
+          "marking": "#998770",
+          "belly": "#cabba1",
+          "highlight": "#cabba1"
+        },
+        "scale_count": 1007
+      },
+      {
+        "fraction": 0.87,
+        "traits": {
+          "headWidth": 0.5271682693704194,
+          "headLength": 0.6228019871930369,
+          "bodyWidth": 0.6695393206112502,
+          "hood": 0.4099597094368402,
+          "diamond": 0.19344305437439663,
+          "monocle": 0.08915960963170219,
+          "rattle": 0.31114293368540313,
+          "tailTaper": 0.5611013307831877,
+          "bands": 0.05431128224205903,
+          "blotches": 0.3094751042269542
+        },
+        "colors": {
+          "skin": "#7a6a61",
+          "marking": "#9d8a72",
+          "belly": "#c9baa0",
+          "highlight": "#c9baa0"
+        },
+        "scale_count": 989
+      },
+      {
+        "fraction": 0.88,
+        "traits": {
+          "headWidth": 0.5151259277907326,
+          "headLength": 0.6142981270660741,
+          "bodyWidth": 0.6546680412695565,
+          "hood": 0.45790358040918866,
+          "diamond": 0.17065509292715303,
+          "monocle": 0.10656290795593178,
+          "rattle": 0.284743720869575,
+          "tailTaper": 0.535670628467453,
+          "bands": 0.05322336188076438,
+          "blotches": 0.2922596834798337
+        },
+        "colors": {
+          "skin": "#776860",
+          "marking": "#a08e76",
+          "belly": "#c8b99f",
+          "highlight": "#c8b99f"
+        },
+        "scale_count": 970
+      },
+      {
+        "fraction": 0.89,
+        "traits": {
+          "headWidth": 0.5022491169959233,
+          "headLength": 0.6060156982165269,
+          "bodyWidth": 0.6378612767783295,
+          "hood": 0.5169569334957527,
+          "diamond": 0.15168367814093148,
+          "monocle": 0.1386278882734501,
+          "rattle": 0.260464530579129,
+          "tailTaper": 0.5037348590417471,
+          "bands": 0.040952436878510357,
+          "blotches": 0.2663854249455645
+        },
+        "colors": {
+          "skin": "#73665e",
+          "marking": "#a5937a",
+          "belly": "#c7b89d",
+          "highlight": "#c7b89d"
+        },
+        "scale_count": 937
+      },
+      {
+        "fraction": 0.9,
+        "traits": {
+          "headWidth": 0.4904916137784167,
+          "headLength": 0.5986137213995935,
+          "bodyWidth": 0.6215059118729637,
+          "hood": 0.5750335145099987,
+          "diamond": 0.13305226816674948,
+          "monocle": 0.17436769783179956,
+          "rattle": 0.234146112820566,
+          "tailTaper": 0.4718232516847249,
+          "bands": 0.02801993967797111,
+          "blotches": 0.2366870846684233
+        },
+        "colors": {
+          "skin": "#70655d",
+          "marking": "#aa997f",
+          "belly": "#c6b79b",
+          "highlight": "#c6b79b"
+        },
+        "scale_count": 886
+      },
+      {
+        "fraction": 0.91,
+        "traits": {
+          "headWidth": 0.4803565826617022,
+          "headLength": 0.5923783909588555,
+          "bodyWidth": 0.6063972583065114,
+          "hood": 0.6298186670493138,
+          "diamond": 0.11538092455867757,
+          "monocle": 0.21271291433992662,
+          "rattle": 0.20693705285456515,
+          "tailTaper": 0.44150424142731587,
+          "bands": 0.014289721092923473,
+          "blotches": 0.2045219341593485
+        },
+        "colors": {
+          "skin": "#6d655c",
+          "marking": "#af9f84",
+          "belly": "#c6b798",
+          "highlight": "#c6b798"
+        },
+        "scale_count": 857
+      },
+      {
+        "fraction": 0.92,
+        "traits": {
+          "headWidth": 0.4722232864738377,
+          "headLength": 0.5874988217852889,
+          "bodyWidth": 0.5932265271350368,
+          "hood": 0.6789806296306684,
+          "diamond": 0.0990966698082252,
+          "monocle": 0.2522644326920641,
+          "rattle": 0.17986349883772762,
+          "tailTaper": 0.41422449162235764,
+          "bands": 0,
+          "blotches": 0.1716475464554568
+        },
+        "colors": {
+          "skin": "#6b655b",
+          "marking": "#b3a588",
+          "belly": "#c6b796",
+          "highlight": "#c6b796"
+        },
+        "scale_count": 832
+      },
+      {
+        "fraction": 0.93,
+        "traits": {
+          "headWidth": 0.466327616607283,
+          "headLength": 0.5840628384836815,
+          "bodyWidth": 0.5825284431251292,
+          "hood": 0.7203293614329818,
+          "diamond": 0.08444406206397234,
+          "monocle": 0.29137176408963816,
+          "rattle": 0.15377624714871466,
+          "tailTaper": 0.3911898425073871,
+          "bands": 0,
+          "blotches": 0.14005170925802002
+        },
+        "colors": {
+          "skin": "#69665a",
+          "marking": "#b7aa8b",
+          "belly": "#c7b893",
+          "highlight": "#c7b893"
+        },
+        "scale_count": 807
+      },
+      {
+        "fraction": 0.94,
+        "traits": {
+          "headWidth": 0.46275864158266494,
+          "headLength": 0.5820642767272689,
+          "bodyWidth": 0.574647057943366,
+          "hood": 0.7519717884447832,
+          "diamond": 0.07152103659504346,
+          "monocle": 0.3282451559901451,
+          "rattle": 0.1293340959662982,
+          "tailTaper": 0.3732813228289268,
+          "bands": 0,
+          "blotches": 0.11175565344265616
+        },
+        "colors": {
+          "skin": "#686759",
+          "marking": "#baae8e",
+          "belly": "#c7b891",
+          "highlight": "#c7b891"
+        },
+        "scale_count": 773
+      },
+      {
+        "fraction": 0.95,
+        "traits": {
+          "headWidth": 0.46081723722100754,
+          "headLength": 0.5810792171532158,
+          "bodyWidth": 0.5696294329933763,
+          "hood": 0.7746759407858481,
+          "diamond": 0.059659907265763076,
+          "monocle": 0.36149884241679814,
+          "rattle": 0.10643704650910923,
+          "tailTaper": 0.36071730712559197,
+          "bands": 0,
+          "blotches": 0.08570678211472842
+        },
+        "colors": {
+          "skin": "#676758",
+          "marking": "#bcb291",
+          "belly": "#c8b98f",
+          "highlight": "#c8b98f"
+        },
+        "scale_count": 749
+      },
+      {
+        "fraction": 0.96,
+        "traits": {
+          "headWidth": 0.4495741533429126,
+          "headLength": 0.5766577517053264,
+          "bodyWidth": 0.5701051979636188,
+          "hood": 0.8142928586913541,
+          "diamond": 0.03535897788764816,
+          "monocle": 0.37962962017770124,
+          "rattle": 0.07147061494396739,
+          "tailTaper": 0.35138695605393877,
+          "bands": 0,
+          "blotches": 0.015444336346099527
+        },
+        "colors": {
+          "skin": "#5d6254",
+          "marking": "#c3ba9a",
+          "belly": "#cab98a",
+          "highlight": "#cab98a"
+        },
+        "scale_count": 707
+      },
+      {
+        "fraction": 0.97,
+        "traits": {
+          "headWidth": 0.44245623016026436,
+          "headLength": 0.5768695036367332,
+          "bodyWidth": 0.5809747066671523,
+          "hood": 0.8171621057889988,
+          "diamond": 0.013430960904803682,
+          "monocle": 0.35407144593313367,
+          "rattle": 0.03737339484767249,
+          "tailTaper": 0.3506269911890637,
+          "bands": 0,
+          "blotches": 0
+        },
+        "colors": {
+          "skin": "#535a4e",
+          "marking": "#c1b89b",
+          "belly": "#cdb986",
+          "highlight": "#cdb986"
+        },
+        "scale_count": 683
+      },
+      {
+        "fraction": 0.98,
+        "traits": {
+          "headWidth": 0.44020015311118565,
+          "headLength": 0.5811831226979551,
+          "bodyWidth": 0.5988337964917195,
+          "hood": 0.7855101380402209,
+          "diamond": 0,
+          "monocle": 0.2876468266550716,
+          "rattle": 0.01163091833546212,
+          "tailTaper": 0.3548506496735534,
+          "bands": 0,
+          "blotches": 0
+        },
+        "colors": {
+          "skin": "#4b5148",
+          "marking": "#b5ae95",
+          "belly": "#d0b980",
+          "highlight": "#d0b980"
+        },
+        "scale_count": 671
+      },
+      {
+        "fraction": 0.99,
+        "traits": {
+          "headWidth": 0.4436133239424732,
+          "headLength": 0.5884116565775366,
+          "bodyWidth": 0.6186825531724143,
+          "hood": 0.7228195288305826,
+          "diamond": 0,
+          "monocle": 0.19578671841657116,
+          "rattle": 0,
+          "tailTaper": 0.3635402231815168,
+          "bands": 0,
+          "blotches": 0
+        },
+        "colors": {
+          "skin": "#464742",
+          "marking": "#a29c87",
+          "belly": "#d2b97c",
+          "highlight": "#d2b97c"
+        },
+        "scale_count": 679
+      },
+      {
+        "fraction": 1,
+        "traits": {
+          "headWidth": 0.453102453038112,
+          "headLength": 0.5971987511601935,
+          "bodyWidth": 0.6360311610593091,
+          "hood": 0.6342663278840879,
+          "diamond": 0.0009130391444458139,
+          "monocle": 0.10092149264218676,
+          "rattle": 0.0016136449456390298,
+          "tailTaper": 0.3790796259614772,
+          "bands": 0,
+          "blotches": 0.004704264977035598
+        },
+        "colors": {
+          "skin": "#45403c",
+          "marking": "#8e8877",
+          "belly": "#d4b979",
+          "highlight": "#d4b979"
+        },
+        "scale_count": 698
+      }
+    ]
+  }
+}

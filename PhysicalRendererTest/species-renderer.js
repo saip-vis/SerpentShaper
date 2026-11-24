@@ -4,10 +4,12 @@ const G=typeof module!=='undefined'?require('./species-geometry.js'):root.Specie
 const Head=typeof module!=='undefined'?require('./head-renderer.js'):root.SpeciesHead;
 const rgb=h=>[1,3,5].map(i=>parseInt(h.slice(i,i+2),16));
 const shade=(hex,f)=>'#'+rgb(hex).map(v=>Math.max(0,Math.min(255,Math.round(v*f))).toString(16).padStart(2,'0')).join('');
+const mix=(a,b,t)=>'#'+rgb(a).map((v,i)=>Math.max(0,Math.min(255,Math.round(v*(1-t)+rgb(b)[i]*t))).toString(16).padStart(2,'0')).join('');
 const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
 function render(preset, options={}) {
   const p=preset.artistic_parameters,cobra=p.body_plan==='cobra',rear=(options.surface||'dorsal')==='dorsal';
-  const skin=options.skinColor||p.skin_color,headColor=p.head_color||skin,cream=options.ringColor||p.marking_color,belly=p.belly_color;
+  const skin=options.skinColor||p.skin_color,cream=options.ringColor||p.marking_color,belly=p.belly_color;
+  const headColor=options.conceptMetadata&&!rear?belly:(p.head_color||skin);
   const width=options.width??1,detail=options.scaleDetail??1,contrast=options.patternContrast??1,markSize=options.ringSize??1;
   const shape=G.geometry(preset,options),mesh=G.surface(shape.points),pitch=p.scale_pitch/detail;
   const coord=(s,u)=>{const a=mesh.at(s,u);return `${a.x.toFixed(2)} ${a.y.toFixed(2)}`;};
@@ -130,6 +132,23 @@ function render(preset, options={}) {
     if(p.pattern==='mottled' && Math.sin(s*.11/markSize+u*19/markSize)*Math.cos(s*.04/markSize-u*13/markSize)>.61)return cream;
     return skin;
   };
+  // Continuous motif strengths are used only for the generated concept.
+  // Existing species presets keep their original, species-specific pigments.
+  const conceptPigment=(s,u,base)=>{
+    const weights=options.conceptPatternWeights;
+    if(!rear||cobra||!weights||s<50)return base;
+    const clamp=v=>Math.max(0,Math.min(1,Number.isFinite(v)?v:0));
+    const smooth=(a,b,v)=>{const t=clamp((v-a)/(b-a));return t*t*(3-2*t);};
+    const phase=((s-55)%(p.mark_spacing||52))/(p.mark_spacing||52),d=Math.abs(phase-.5)*2,au=Math.abs(u);
+    const diamond=d+au,diamondMask=1-smooth(.88,1.05,diamond),core=1-smooth(.70,.88,diamond);
+    const bandMask=1-smooth(.25,.37,d),blotchMask=1-smooth(.56,.70,d+au*.75);
+    const diamondColor=mix(cream,p.diamond_center_color||shade(skin,.50),core);
+    let color=mix(base,cream,clamp(weights.bands)*bandMask);
+    const bandEdge=Math.max(0,1-smooth(.44,.53,d)-bandMask);
+    color=mix(color,belly,clamp(weights.bands)*clamp(weights.bandAccent)*bandEdge);
+    color=mix(color,diamondColor,clamp(weights.diamond)*diamondMask);
+    return mix(color,shade(cream,.72),clamp(weights.blotches)*blotchMask);
+  };
   let scales='',scaleTips='',seams='',keels='',plates='',count=0;
   for(let s=start,row=0;s<mesh.length-5;s+=pitch*.8,row++){
     const center=mesh.at(s),cols=Math.max(3,Math.round(2*center.r/pitch)+(row%2));
@@ -137,13 +156,14 @@ function render(preset, options={}) {
       const u=-1+(col+.5)*2/cols,h=1.08/cols;
       const d=`M${coord(s-pitch*.7,u)} Q${coord(s-pitch*.55,u-h)} ${coord(s,u-h)} Q${coord(s+pitch*.55,u-h*.9)} ${coord(s+pitch*.9,u)} Q${coord(s+pitch*.55,u+h*.9)} ${coord(s,u+h)} Q${coord(s-pitch*.55,u+h)} ${coord(s-pitch*.7,u)}Z`;
       const light=.68+.38*Math.sqrt(Math.max(0,1-u*u))-.13*u+Math.sin(row*37+col*19)*.035;
-      const basePigment=pigment(s,u);
+      const basePigment=conceptPigment(s,u,pigment(s,u));
       scales+=`<path d="${d}" fill="${shade(basePigment,light)}"/>`;
       if(rear && p.scale_tip_color && basePigment===skin){
         const tip=`M${coord(s+pitch*.32,u-h*.25)} Q${coord(s+pitch*.82,u)} ${coord(s+pitch*.32,u+h*.25)} Q${coord(s+pitch*.48,u)} ${coord(s+pitch*.32,u-h*.25)}Z`;
         scaleTips+=`<path d="${tip}" fill="${p.scale_tip_color}" opacity=".72"/>`;
       }
-      if(rear || !cobra || center.y>=420 || Math.abs(u)>.84){
+      const showSeam=options.conceptMetadata&&!rear&&!cobra?(s<=45||Math.abs(u)>.84):(rear||!cobra||center.y>=420||Math.abs(u)>.84);
+      if(showSeam){
         const exposed=`M${coord(s,u-h)} Q${coord(s+pitch*.55,u-h*.9)} ${coord(s+pitch*.9,u)} Q${coord(s+pitch*.55,u+h*.9)} ${coord(s,u+h)}`;
         seams+=`<path d="${exposed}"/>`;
         if(p.scale_texture==='keeled')keels+=`<path d="M${coord(s-pitch*.28,u)} L${coord(s+pitch*.65,u)}"/>`;
@@ -174,10 +194,16 @@ function render(preset, options={}) {
       head=`<path d="M276 78 H334 V119 Q312 124 289 119 L270 114Z" fill="url(#headVolume)"/><path d="M279 106 Q291 118 316 115 Q325 113 329 108 L328 125 Q310 133 286 126 Q291 121 290 118Z" fill="${belly}" opacity=".8"/><g fill="none" stroke="${shade(skin,.48)}" stroke-width=".75"><path d="M279 105 Q293 116 309 113 Q320 112 328 107 M283 100 L291 97 L299 101 L300 108 L290 108 Z M291 97 L298 92 L307 94 L310 99 M300 108 L307 112 L314 107 M284 108 L283 112 M291 111 L290 115 M299 113 L299 117 M307 113 L307 117 M315 111 L316 115 M315 101 L324 98 L330 101 M315 107 L322 110 L329 107"/></g><g id="eyes"><ellipse cx="313" cy="101" rx="4" ry="3.6" fill="#393b2b"/><ellipse cx="313" cy="101" rx="3.1" ry="2.8" fill="#b9a779"/><circle cx="313" cy="101" r="1.8" fill="#17231c"/><circle cx="312.3" cy="100.2" r=".5" fill="#fff3d9"/><ellipse cx="282" cy="102" rx="1.1" ry=".65" fill="#302f25"/></g>`;
     }
   } else {
-    head=Head.render(preset,shape,p.head_color||skin,cream,belly,rear);
-    if(p.tail_type==='rattle'){
+    head=Head.render(preset,shape,headColor,cream,belly,rear);
+    if(rear&&Number.isFinite(options.conceptMonocle)&&options.conceptMonocle>0&&Number.isFinite(options.conceptHood)&&options.conceptHood>0){
+      const point=mesh.at(mesh.length*.075),angle=Math.atan2(point.ty,point.tx)*180/Math.PI;
+      const opacity=Math.max(0,Math.min(1,options.conceptMonocle))*Math.max(0,Math.min(1,options.conceptHood));
+      markings+=`<ellipse id="concept-hood-mark" cx="${point.x.toFixed(2)}" cy="${point.y.toFixed(2)}" rx="16" ry="${Math.max(5,point.r*.58).toFixed(2)}" transform="rotate(${angle.toFixed(2)} ${point.x.toFixed(2)} ${point.y.toFixed(2)})" fill="${shade(skin,.5)}" stroke="${cream}" stroke-width="4" opacity="${opacity.toFixed(4)}"/>`;
+    }
+    if(p.tail_type==='rattle'||Number.isFinite(options.conceptRattle)&&options.conceptRattle>0){
       const tip=mesh.at(mesh.length),angle=Math.atan2(tip.ty,tip.tx)*180/Math.PI;
-      appendage=`<g id="rattle" transform="translate(${tip.x} ${tip.y}) rotate(${angle}) scale(${p.rattle_size??1})">${Array.from({length:p.tail_segments},(_,i)=>`<ellipse cx="${3+i*5}" cy="0" rx="4" ry="${6-i*.55}" fill="${i%2?'#b9a07a':'#d6c5a0'}" stroke="#635946" stroke-width=".8"/>`).join('')}</g>`;
+      const strength=p.tail_type==='rattle'?1:Math.max(0,Math.min(1,options.conceptRattle));
+      appendage=`<g id="rattle" opacity="${strength}" transform="translate(${tip.x} ${tip.y}) rotate(${angle}) scale(${(p.rattle_size??1)*(.45+.55*strength)})">${Array.from({length:p.tail_segments},(_,i)=>`<ellipse cx="${3+i*5}" cy="0" rx="4" ry="${6-i*.55}" fill="${i%2?'#b9a07a':'#d6c5a0'}" stroke="#635946" stroke-width=".8"/>`).join('')}</g>`;
     }
     if(p.tail_type==='paddle'){
       for(let s=mesh.length-120;s<mesh.length-10;s+=9)appendage+=`<path d="M${coord(s,-.8)} Q${coord(s+5,0)} ${coord(s,.8)}" fill="none" stroke="${shade(skin,.6)}" opacity=".4" stroke-width=".8"/>`;
@@ -204,7 +230,8 @@ function render(preset, options={}) {
     }
   }
   const box=options.framing==='hood'?(cobra?'195 65 210 340':(p.head_detail_box||[125,140,170,120]).join(' ')):(cobra?'185 55 465 660':'105 140 585 465');
-  const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="${box}" role="img" aria-labelledby="modelTitle modelDescription"><title id="modelTitle">${escape(preset.source_species_name)} — ${rear?'dorsal / oblique':'ventral study'}</title><desc id="modelDescription">Illustrative preset: ${escape(preset.variant)}. Artistic proportions; no venom inference.</desc><metadata>${escape(JSON.stringify({preset_id:preset.preset_id,model_revision:preset.model_revision,species_id:preset.species_id,options,measurement_status:'artistic_not_measured',venom_trait_mapping:null}))}</metadata><defs><path id="bodyGeometry" d="${shape.path}"/>${shape.headPath?`<clipPath id="headClip"><path d="${shape.headPath}"/></clipPath>`:''}<clipPath id="anatomyClip"><use href="#bodyGeometry"/></clipPath><linearGradient id="headVolume"><stop stop-color="${shade(headColor,.6)}"/><stop offset=".45" stop-color="${shade(headColor,1.18)}"/><stop offset="1" stop-color="${shade(headColor,.7)}"/></linearGradient></defs><g id="anatomy-layer"><use href="#bodyGeometry" fill="${skin}"/></g><g clip-path="url(#anatomyClip)"><g id="dorsal-scale-fills">${scales}</g>${scaleTips?`<g id="scale-tips">${scaleTips}</g>`:''}<g id="ventral-plates">${plates}</g><g id="pigment-pattern">${markings}</g><g id="scale-seams" fill="none" stroke="${['edged_scales','reticulated'].includes(p.pattern)?cream:'#302b24'}" opacity="${(['edged_scales','reticulated'].includes(p.pattern)?.85:.44)*contrast}" stroke-width="${p.scale_border_width||.42}">${seams}</g><g id="scale-keels" fill="none" stroke="#2d3024" opacity=".3" stroke-width=".45">${keels}</g><g id="scale-highlights" fill="none" stroke="#fff0cf" opacity=".16" stroke-width=".22" transform="translate(-.3 -.5)">${seams}</g>${head}</g><use href="#bodyGeometry" fill="none" stroke="${shade(skin,.48)}" stroke-width="1.1"/>${appendage}</svg>`;
+  const description=options.conceptMetadata?'Experimental venom-driven illustration. Anatomy is based on authored designs, not a validated biological prediction.':`Illustrative preset: ${preset.variant}. Artistic proportions; no venom inference.`;
+  const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="${box}" role="img" aria-labelledby="modelTitle modelDescription"><title id="modelTitle">${escape(preset.source_species_name)} — ${rear?'dorsal / oblique':'ventral study'}</title><desc id="modelDescription">${escape(description)}</desc><metadata>${escape(JSON.stringify({preset_id:preset.preset_id,model_revision:preset.model_revision,species_id:preset.species_id,options,measurement_status:'artistic_not_measured',venom_trait_mapping:null}))}</metadata><defs><path id="bodyGeometry" d="${shape.path}"/>${shape.headPath?`<clipPath id="headClip"><path d="${shape.headPath}"/></clipPath>`:''}<clipPath id="anatomyClip"><use href="#bodyGeometry"/></clipPath><linearGradient id="headVolume"><stop stop-color="${shade(headColor,.6)}"/><stop offset=".45" stop-color="${shade(headColor,1.18)}"/><stop offset="1" stop-color="${shade(headColor,.7)}"/></linearGradient></defs><g id="anatomy-layer"><use href="#bodyGeometry" fill="${skin}"/></g><g clip-path="url(#anatomyClip)"><g id="dorsal-scale-fills">${scales}</g>${scaleTips?`<g id="scale-tips">${scaleTips}</g>`:''}<g id="ventral-plates">${plates}</g><g id="pigment-pattern">${markings}</g><g id="scale-seams" fill="none" stroke="${['edged_scales','reticulated'].includes(p.pattern)?cream:'#302b24'}" opacity="${(['edged_scales','reticulated'].includes(p.pattern)?.85:.44)*contrast}" stroke-width="${p.scale_border_width||.42}">${seams}</g><g id="scale-keels" fill="none" stroke="#2d3024" opacity=".3" stroke-width=".45">${keels}</g><g id="scale-highlights" fill="none" stroke="#fff0cf" opacity=".16" stroke-width=".22" transform="translate(-.3 -.5)">${seams}</g>${head}</g><use href="#bodyGeometry" fill="none" stroke="${shade(skin,.48)}" stroke-width="1.1"/>${appendage}</svg>`;
   if(options.silhouette){
     const simple=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="${box}" role="img" aria-label="${escape(preset.common_name)} anatomy silhouette"><path d="${shape.path}" fill="#34463d"/><style>#silhouette-appendage *{fill:#34463d;stroke:#34463d}</style><g id="silhouette-appendage" fill="#34463d" stroke="#34463d">${p.tail_type==='rattle'?appendage:''}</g></svg>`;
     return {svg:simple,scaleCount:0,shape};

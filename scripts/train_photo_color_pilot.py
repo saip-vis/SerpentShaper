@@ -1,7 +1,7 @@
-"""Fit an isolated venom-to-photographed-body-patch-color experiment.
+"""Fit an experimental venom-to-photographed-body-patch-color model.
 
 No species labels are inference features. This small candidate is not a
-whole-snake phenotype model and is not loaded into the product.
+whole-snake phenotype model. Its coefficients are reused as a small color cue.
 """
 import hashlib
 import json
@@ -49,7 +49,7 @@ def run():
     models={t:fit(rows,t,len(spec)) for t in TARGETS}
     evaluation={t:evaluate(rows,t,len(spec)) for t in TARGETS}
     model_mae=float(np.mean([e['model_mae'] for e in evaluation.values()]));baseline_mae=float(np.mean([e['baseline_mae'] for e in evaluation.values()]))
-    return {'schema_version':1,'status':'exploratory_candidate_not_deployed',
+    return {'schema_version':1,'status':'exploratory_photo_color_reused_as_limited_cue',
       'task':'Predict median sRGB of small observed body patches from venom values; not shape or full-snake color.',
       'feature_ids':[c['id'] for c in spec],'targets':TARGETS,'activation_width_percentage_points':ACTIVATION_WIDTH,
       'model':'Three regularized linear regressions; species-equal training weights; fold-specific median/missingness preprocessing.',
@@ -64,7 +64,7 @@ def run():
       'limitations':['This small patch dataset is inadequate for a reliable generative model.',
                      'Lighting, camera processing and patterned scales affect measured colors.',
                      'The images and venom profiles are not known to share individuals.',
-                     'The output is not a label for an entire snake, and this candidate is not connected to the renderer.']}
+                     'The output is not a label for an entire snake; its coefficients contribute a 15% skin-color cue in the connected prototype.']}
 
 
 def main():

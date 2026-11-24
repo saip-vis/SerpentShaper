@@ -70,6 +70,20 @@ function geometry(preset, options={}){
  const stations=p.body_stations.slice(firstStation);
  const anchors=[[...attach,neck],lead,...stations.map(([x,y,r])=>[x,y,r*thickness])];
  const points=sampleBody(anchors,p.tail_type==='paddle');
+ // The shared concept can continuously widen the anterior trunk into a hood.
+ // Real-species presets do not use this option and retain their own geometry.
+ const hood=Math.max(0,Math.min(1,Number.isFinite(options.conceptHood)?options.conceptHood:0));
+ if(hood>0){
+  let length=0;const distances=points.map((q,i)=>{if(i)length+=Math.hypot(q.x-points[i-1].x,q.y-points[i-1].y);return length;});
+  for(let i=0;i<points.length;i++){const u=distances[i]/Math.max(length,1),entry=Math.min(1,u/.025);points[i].r+=hood*38*Math.exp(-(((u-.075)/.055)**2))*entry*entry*(3-2*entry);}
+ }
+ // A separate continuous control broadens the tail near its tip, without
+ // changing authored species presets or turning it into a species switch.
+ const paddle=Math.max(0,Math.min(1,Number.isFinite(options.conceptPaddle)?options.conceptPaddle:0));
+ if(paddle>0){
+  let length=0;const distances=points.map((q,i)=>{if(i)length+=Math.hypot(q.x-points[i-1].x,q.y-points[i-1].y);return length;});
+  for(let i=0;i<points.length;i++){const u=distances[i]/Math.max(length,1),end=Math.min(1,Math.max(0,(1-u)/.025));points[i].r+=paddle*12*Math.exp(-(((u-.96)/.035)**2))*end*end*(3-2*end);}
+ }
  // Exact attachment tangent prevents a visible seam between the authored head and swept body.
  points[0].tx=cos;points[0].ty=sin;points[0].nx=-sin;points[0].ny=cos;
  function side(segments){const out=[];for(const seg of segments)for(let j=out.length?1:0;j<=24;j++){

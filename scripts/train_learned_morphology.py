@@ -33,13 +33,14 @@ def medians_for(rows,feature_count):
     return medians
 
 
-def transform(values,medians):
-    """0 and missing are inactive; a one-point ramp avoids an on/off jump."""
+def transform(values,medians,activation_width=None,indicator_scale=1.0):
+    """Treat zero and missing as inactive, with configurable smoothing."""
+    width=ACTIVATION_WIDTH if activation_width is None else activation_width
     out=[];missing=[]
     for value,median in zip(values,medians):
-        alpha=min(max(value/ACTIVATION_WIDTH,0.0),1.0) if value is not None and np.isfinite(value) else 0.0
+        alpha=min(max(value/width,0.0),1.0) if value is not None and np.isfinite(value) else 0.0
         out.append((median+alpha*((value if alpha else median)-median))/100.0)
-        missing.append(1.0-alpha)
+        missing.append((1.0-alpha)*indicator_scale)
     return out+missing
 
 

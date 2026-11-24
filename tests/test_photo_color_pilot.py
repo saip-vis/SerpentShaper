@@ -43,7 +43,7 @@ class PhotoPilotTests(unittest.TestCase):
             if not (manifest.parent / match['local_path']).is_file():
                 self.skipTest('Raw photos are intentionally absent from version control')
         result = color.run()
-        self.assertEqual(result['status'], 'exploratory_candidate_not_deployed')
+        self.assertEqual(result['status'], 'exploratory_photo_color_reused_as_limited_cue')
         self.assertNotIn('species', result['feature_ids'])
         self.assertEqual(set(result['models']), {'patch_r', 'patch_g', 'patch_b'})
         self.assertEqual(result['data']['photo_count'], result['data']['observation_count'])

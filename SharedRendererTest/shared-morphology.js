@@ -24,8 +24,12 @@ function blend(weights){
 }
 function geometry(input){
   const t=Object.fromEntries(TRAITS.map(k=>[k,clamp(Number.isFinite(input[k])?input[k]:0)]));
+  // Optional motif controls used by the connected model; older examples omit them.
+  for(const k of ['bands','blotches'])t[k]=clamp(Number.isFinite(input[k])?input[k]:0);
+  t.markSpacing=clamp(Number.isFinite(input.markSpacing)?input.markSpacing:.4);
+  t.scaleDetail=clamp(Number.isFinite(input.scaleDetail)?input.scaleDetail:.5);
   const headR=15+16*t.headWidth, headL=46+24*t.headLength, start=50+headL;
-  const center=x=>150+14*Math.sin(Math.PI*(x-start)/(650-start))*Math.sin(2*Math.PI*(x-start)/(650-start));
+  const center=x=>150+24*Math.sin(Math.PI*(x-start)/(650-start))*Math.sin(2*Math.PI*(x-start)/(650-start));
   const smooth=(a,b,x)=>{const z=clamp((x-a)/(b-a));return z*z*(3-2*z);};
   const base=9+19*t.bodyWidth, neck=8+5*t.bodyWidth;
   const radius=x=>{const u=clamp((x-start)/(650-start));
@@ -38,7 +42,7 @@ function geometry(input){
   const upper=points.map(p=>`${fmt(p.x)} ${fmt(p.y-p.r)}`).join(' L');
   const lower=points.slice().reverse().map(p=>`${fmt(p.x)} ${fmt(p.y+p.r)}`).join(' L');
   const neckY=center(start),nr=radius(start);
-  const path=`M50 150 C50 ${fmt(150-headR*.35)} ${fmt(50+headL*.15)} ${fmt(150-headR*.50)} ${fmt(50+headL*.35)} ${fmt(150-headR*.55)} C${fmt(50+headL*.52)} ${fmt(150-headR*.66)} ${fmt(50+headL*.60)} ${fmt(150-headR)} ${fmt(50+headL*.75)} ${fmt(150-headR*.90)} C${fmt(50+headL*.87)} ${fmt(150-headR*.80)} ${fmt(start-headL*.10)} ${fmt(neckY-nr)} ${fmt(start)} ${fmt(neckY-nr)} L${upper} L${lower} C${fmt(start-headL*.10)} ${fmt(neckY+nr)} ${fmt(50+headL*.87)} ${fmt(150+headR*.80)} ${fmt(50+headL*.75)} ${fmt(150+headR*.90)} C${fmt(50+headL*.60)} ${fmt(150+headR)} ${fmt(50+headL*.52)} ${fmt(150+headR*.66)} ${fmt(50+headL*.35)} ${fmt(150+headR*.55)} C${fmt(50+headL*.15)} ${fmt(150+headR*.50)} 50 ${fmt(150+headR*.35)} 50 150 Z`;
+  const path=`M50 150 C50 ${fmt(150-headR*.45)} ${fmt(50+headL*.16)} ${fmt(150-headR*.67)} ${fmt(50+headL*.38)} ${fmt(150-headR*.78)} C${fmt(50+headL*.66)} ${fmt(150-headR*.98)} ${fmt(start-headL*.16)} ${fmt(neckY-nr)} ${fmt(start)} ${fmt(neckY-nr)} L${upper} L${lower} C${fmt(start-headL*.16)} ${fmt(neckY+nr)} ${fmt(50+headL*.66)} ${fmt(150+headR*.98)} ${fmt(50+headL*.38)} ${fmt(150+headR*.78)} C${fmt(50+headL*.16)} ${fmt(150+headR*.67)} 50 ${fmt(150+headR*.45)} 50 150 Z`;
   return {traits:t,path,points,start,headR,headL,center,radius};
 }
 function render(data,options={}){
@@ -46,19 +50,29 @@ function render(data,options={}){
   const g=geometry(data.traits),t=g.traits,{skin,marking,highlight}=data.colors;
   const surface=options.surface==='ventral'?'ventral':'dorsal',rear=surface==='dorsal';
   const bodyColor=rear?skin:(data.colors.belly||skin);
-  // Fixed-position motifs and their opacity are continuous control values.
-  const diamonds=[];for(let x=235;x<585;x+=48){const y=g.center(x),r=g.radius(x)*.80;
-    diamonds.push(`<path d="M${fmt(x-21)} ${fmt(y)} L${fmt(x)} ${fmt(y-r)} L${fmt(x+21)} ${fmt(y)} L${fmt(x)} ${fmt(y+r)} Z" fill="${marking}" stroke="${highlight}" stroke-width="2"/>`);
+  // The source designs often use their marking color for a pale border.
+  // A darker center makes a diamond motif legible without changing its opacity.
+  const diamondCenter=hex(rgb(marking).map((value,i)=>Math.min(value,rgb(skin)[i]*.60)));
+  // Fixed count plus a tail fade prevents a motif from popping in when spacing changes.
+  const spacing=28+50*t.markSpacing,fade=x=>clamp((650-x)/45),diamonds=[];
+  for(let i=0;i<22;i++){const x=235+i*spacing,y=g.center(x),r=g.radius(x)*.80,half=spacing*.42;
+    diamonds.push(`<path opacity="${fmt(fade(x))}" d="M${fmt(x-half)} ${fmt(y)} L${fmt(x)} ${fmt(y-r)} L${fmt(x+half)} ${fmt(y)} L${fmt(x)} ${fmt(y+r)} Z" fill="${diamondCenter}" stroke="${highlight}" stroke-width="2"/>`);
+  }
+  const bands=[];for(let i=0;i<22;i++){const x=200+i*spacing,y=g.center(x),r=g.radius(x);
+    bands.push(`<path opacity="${fmt(fade(x))}" d="M${fmt(x)} ${fmt(y-r-2)} L${fmt(x+8)} ${fmt(y+r+2)}" stroke="${marking}" stroke-width="${fmt(spacing*.27)}"/>`);
+  }
+  const blotches=[];for(let i=0;i<22;i++){const x=210+i*spacing,y=g.center(x),r=g.radius(x);
+    blotches.push(`<ellipse opacity="${fmt(fade(x))}" cx="${fmt(x)}" cy="${fmt(y)}" rx="${fmt(spacing*.26)}" ry="${fmt(r*.55)}" fill="${marking}"/>`);
   }
   const hcx=g.start+(650-g.start)*.14,hcy=g.center(hcx),hoodRy=Math.max(8,g.radius(hcx)*.6);
   const hoodMark=`<ellipse cx="${fmt(hcx)}" cy="${fmt(hcy)}" rx="17" ry="${fmt(hoodRy)}" fill="${marking}" stroke="${highlight}" stroke-width="4"/>`;
   const eyeX=50+g.headL*.52, eyeY=g.headR*.56;
-  const rattleSize=5*t.rattle, rattle=Array.from({length:4},(_,i)=>`<ellipse cx="${fmt(650+t.rattle*(3+i*6))}" cy="150" rx="${fmt(rattleSize*.65)}" ry="${fmt(rattleSize*(1-i*.1))}" fill="${i%2?marking:highlight}" stroke="${marking}" stroke-width=".7"/>`).join('');
-  const metadata={type:'shared_control_illustration',surface,traits:t,influence:data.influence||[],manualTraits:data.manualTraits||[],venomContext:data.venomContext||null,note:data.venomContext?.kind==='direct_image_trait_model'?'Experimental image-trait model output; not a validated biological prediction.':'Hand-authored coordinates; not a biological prediction or trained image model.'};
+  const rattleSize=7*t.rattle, rattle=Array.from({length:4},(_,i)=>`<ellipse cx="${fmt(650+t.rattle*(3+i*7))}" cy="150" rx="${fmt(rattleSize*.65)}" ry="${fmt(rattleSize*(1-i*.1))}" fill="${i%2?marking:highlight}" stroke="${marking}" stroke-width=".7"/>`).join('');
+  const metadata={type:'shared_control_illustration',surface,traits:t,influence:data.influence||[],manualTraits:data.manualTraits||[],venomContext:data.venomContext||null,note:data.venomContext?.kind==='connected_hybrid_prototype'?'Experimental model: anatomy from authored designs; limited color cue from photographed patches. Not a biological prediction.':data.venomContext?.kind==='direct_image_trait_model'?'Experimental image-trait model output; not a validated biological prediction.':'Hand-authored coordinates; not a biological prediction or trained image model.'};
   const plates=[];if(!rear)for(let x=g.start+8;x<640;x+=10){const y=g.center(x),r=g.radius(x);plates.push(`<path d="M${fmt(x)} ${fmt(y-r)} Q${fmt(x+3)} ${fmt(y)} ${fmt(x)} ${fmt(y+r)}" fill="none" stroke="#594e3b" stroke-opacity=".35" stroke-width=".8"/>`);}
-  const visiblePattern=rear?`<g opacity="${fmt(t.diamond)}">${diamonds.join('')}</g><g opacity="${fmt(t.monocle*t.hood)}">${hoodMark}</g><path d="${g.path}" fill="url(#snake-scales)"/>`:`<g id="ventral-plates">${plates.join('')}</g>`;
-  const eyes=rear?`<g fill="#262920"><ellipse cx="${fmt(eyeX)}" cy="${fmt(150-eyeY)}" rx="2.4" ry="1.9"/><ellipse cx="${fmt(eyeX)}" cy="${fmt(150+eyeY)}" rx="2.4" ry="1.9"/></g>`:'';
-  return {geometry:g,svg:`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 70 720 170" role="img" aria-labelledby="title desc"><title id="title">Shared-shape snake concept</title><desc id="desc">An illustrative ${surface} snake with independently controlled body, head, hood, markings, and tail.</desc><metadata>${escape(JSON.stringify(metadata))}</metadata><defs><clipPath id="snake-clip"><path d="${g.path}"/></clipPath><pattern id="snake-scales" width="10" height="7" patternUnits="userSpaceOnUse"><path d="M0 0 Q5 6 10 0 M-5 3.5 Q0 9 5 3.5 M5 3.5 Q10 9 15 3.5" fill="none" stroke="#241e19" stroke-opacity=".25" stroke-width=".5"/></pattern><linearGradient id="volume" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".18"/><stop offset=".5" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#17110b" stop-opacity=".24"/></linearGradient></defs><path d="${g.path}" fill="${bodyColor}"/><g clip-path="url(#snake-clip)">${visiblePattern}<path d="${g.path}" fill="url(#volume)"/></g><path d="${g.path}" fill="none" stroke="#403a2c" stroke-width="1.6" stroke-linejoin="round"/>${eyes}<g opacity="${fmt(t.rattle)}">${rattle}</g></svg>`};
+  const visiblePattern=rear?`<g opacity="${fmt(t.bands)}">${bands.join('')}</g><g opacity="${fmt(t.blotches)}">${blotches.join('')}</g><g opacity="${fmt(t.diamond)}">${diamonds.join('')}</g><g opacity="${fmt(t.monocle*t.hood)}">${hoodMark}</g><path d="${g.path}" fill="url(#snake-scales)"/>`:`<g id="ventral-plates">${plates.join('')}</g>`;
+  const eyes=rear?`<g fill="#262920"><ellipse cx="${fmt(eyeX)}" cy="${fmt(150-eyeY)}" rx="2.4" ry="1.9"/><ellipse cx="${fmt(eyeX)}" cy="${fmt(150+eyeY)}" rx="2.4" ry="1.9"/><circle cx="${fmt(50+g.headL*.16)}" cy="${fmt(150-g.headR*.25)}" r=".8"/><circle cx="${fmt(50+g.headL*.16)}" cy="${fmt(150+g.headR*.25)}" r=".8"/></g><g fill="none" stroke="#302f25" stroke-opacity=".38" stroke-width=".7"><path d="M${fmt(50+g.headL*.2)} 150 Q${fmt(50+g.headL*.43)} ${fmt(150-g.headR*.28)} ${fmt(50+g.headL*.58)} ${fmt(150-g.headR*.18)}"/><path d="M${fmt(50+g.headL*.2)} 150 Q${fmt(50+g.headL*.43)} ${fmt(150+g.headR*.28)} ${fmt(50+g.headL*.58)} ${fmt(150+g.headR*.18)}"/><path d="M${fmt(50+g.headL*.58)} ${fmt(150-g.headR*.18)} Q${fmt(50+g.headL*.72)} 150 ${fmt(50+g.headL*.58)} ${fmt(150+g.headR*.18)}"/></g>`:'';
+  return {geometry:g,svg:`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 70 720 170" role="img" aria-labelledby="title desc"><title id="title">Shared-shape snake concept</title><desc id="desc">An illustrative ${surface} snake with independently controlled body, head, hood, markings, and tail.</desc><metadata>${escape(JSON.stringify(metadata))}</metadata><defs><clipPath id="snake-clip"><path d="${g.path}"/></clipPath><pattern id="snake-scales" width="10" height="7" patternUnits="userSpaceOnUse" patternTransform="scale(${fmt(.7+.6*t.scaleDetail)})"><path d="M0 0 Q5 6 10 0 M-5 3.5 Q0 9 5 3.5 M5 3.5 Q10 9 15 3.5" fill="none" stroke="#241e19" stroke-opacity=".25" stroke-width=".5"/></pattern><linearGradient id="volume" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".18"/><stop offset=".5" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#17110b" stop-opacity=".24"/></linearGradient></defs><path d="${g.path}" fill="${bodyColor}"/><g clip-path="url(#snake-clip)">${visiblePattern}<path d="${g.path}" fill="url(#volume)"/></g><path d="${g.path}" fill="none" stroke="#403a2c" stroke-width="1.6" stroke-linejoin="round"/>${eyes}<g opacity="${fmt(t.rattle)}">${rattle}</g></svg>`};
 }
 const api={TRAITS,REFERENCES,blend,geometry,render};
 if(typeof module!=='undefined')module.exports=api;else root.SharedMorphology=api;

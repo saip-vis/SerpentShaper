@@ -1,0 +1,277 @@
+{
+  "status": "experimental_candidates_not_installed",
+  "purpose": "Assess the smoothness versus example-fidelity tradeoff without changing the connected model.",
+  "limitations": [
+    "The same development holdout folds informed previous model selection and are reused here; they are not an independent final test.",
+    "A 100-step synthetic interpolation is only one path and does not prove biological plausibility.",
+    "Missing inputs are treated as zero only for this exercise, not claimed to be absent in a venom sample.",
+    "Control outputs describe authored designs and are not biological probabilities."
+  ],
+  "current_bundle_sha256": "fdcc00b20ecfbc7a1625180b099c1f423f924eff779a162a69fa87fa0d87b6f6",
+  "feature_ids": [
+    "3ftx",
+    "pla2",
+    "svmp",
+    "svsp",
+    "kunitz",
+    "ctl",
+    "snaclec",
+    "crisp",
+    "laao",
+    "disintegrin",
+    "natriuretic_peptide",
+    "bradykinin_potentiating_peptide"
+  ],
+  "results": [
+    {
+      "activation_width_percentage_points": 1.0,
+      "missingness_indicator_scale": 1.0,
+      "largest_adjacent_shape_control_change": {
+        "difference": 0.49541713405396764,
+        "trait": "blotches",
+        "from_fraction": 0.0,
+        "to_fraction": 0.01
+      },
+      "mean_development_holdout_mae_across_design_controls": 0.17334266524577469,
+      "mean_baseline_mae_across_design_controls": 0.18783085611877115,
+      "photo_color_mae_8bit": 35.31595488151152,
+      "training_example_controls": {
+        "Crotalus atrox": {
+          "hood": 0.0,
+          "diamond": 0.4429353231086505,
+          "rattle": 0.44202851921679503,
+          "bands": 0.0,
+          "monocle": 0.0
+        },
+        "Naja kaouthia": {
+          "hood": 0.6342663278840859,
+          "diamond": 0.0009130391444458624,
+          "rattle": 0.0016136449456391616,
+          "bands": 0.0,
+          "monocle": 0.100921492642189
+        },
+        "Dendroaspis polylepis": {
+          "hood": 0.006094133493033005,
+          "diamond": 0.0019388192960321377,
+          "rattle": 0.002776815594106044,
+          "bands": 0.012114419112901065,
+          "monocle": 0.0
+        },
+        "Micrurus alleni": {
+          "hood": 0.007403843104977326,
+          "diamond": 0.002900476134306648,
+          "rattle": 0.003854818703446991,
+          "bands": 0.9738724879612408,
+          "monocle": 0.008070879622423498
+        },
+        "Bungarus multicinctus": {
+          "hood": 0.21111759974934768,
+          "diamond": 0.0005933502842712518,
+          "rattle": 0.0012134594359427958,
+          "bands": 0.8052971688250092,
+          "monocle": 0.029318940557050886
+        }
+      }
+    },
+    {
+      "activation_width_percentage_points": 2.0,
+      "missingness_indicator_scale": 0.1,
+      "largest_adjacent_shape_control_change": {
+        "difference": 0.07848943831627153,
+        "trait": "blotches",
+        "from_fraction": 0.0,
+        "to_fraction": 0.01
+      },
+      "mean_development_holdout_mae_across_design_controls": 0.16666850038871886,
+      "mean_baseline_mae_across_design_controls": 0.18783085611877115,
+      "photo_color_mae_8bit": 36.69913716268035,
+      "training_example_controls": {
+        "Crotalus atrox": {
+          "hood": 0.0,
+          "diamond": 0.28985342398784625,
+          "rattle": 0.3910397678376261,
+          "bands": 0.0,
+          "monocle": 0.0
+        },
+        "Naja kaouthia": {
+          "hood": 0.5505494709229075,
+          "diamond": 0.0,
+          "rattle": 0.061842860574801636,
+          "bands": 0.3194382509789288,
+          "monocle": 0.06622752944197
+        },
+        "Dendroaspis polylepis": {
+          "hood": 0.0,
+          "diamond": 0.02869765328931502,
+          "rattle": 0.02820296278785732,
+          "bands": 0.0033893586781547635,
+          "monocle": 0.0
+        },
+        "Micrurus alleni": {
+          "hood": 0.15401426991790051,
+          "diamond": 0.0229405248412637,
+          "rattle": 0.044244520716399324,
+          "bands": 0.7631605662102305,
+          "monocle": 0.06577105366540117
+        },
+        "Bungarus multicinctus": {
+          "hood": 0.23638751296220478,
+          "diamond": 0.0,
+          "rattle": 0.18784471082403315,
+          "bands": 0.705694177931323,
+          "monocle": 0.05807735601380228
+        }
+      }
+    },
+    {
+      "activation_width_percentage_points": 2.0,
+      "missingness_indicator_scale": 0.25,
+      "largest_adjacent_shape_control_change": {
+        "difference": 0.10821518276341457,
+        "trait": "hood",
+        "from_fraction": 0.99,
+        "to_fraction": 1.0
+      },
+      "mean_development_holdout_mae_across_design_controls": 0.16547194957019545,
+      "mean_baseline_mae_across_design_controls": 0.18783085611877115,
+      "photo_color_mae_8bit": 36.69913716268035,
+      "training_example_controls": {
+        "Crotalus atrox": {
+          "hood": 0.0,
+          "diamond": 0.299814112694509,
+          "rattle": 0.39237686181894077,
+          "bands": 0.036435127847485205,
+          "monocle": 0.0
+        },
+        "Naja kaouthia": {
+          "hood": 0.5588632792806454,
+          "diamond": 0.0,
+          "rattle": 0.02463223047141709,
+          "bands": 0.2899428953208864,
+          "monocle": 0.09680010160092092
+        },
+        "Dendroaspis polylepis": {
+          "hood": 0.0,
+          "diamond": 0.021250975736104308,
+          "rattle": 0.022125647075407914,
+          "bands": 0.0,
+          "monocle": 0.0
+        },
+        "Micrurus alleni": {
+          "hood": 0.058486698038276275,
+          "diamond": 0.014856359018787749,
+          "rattle": 0.05849902877119066,
+          "bands": 0.9012120331916076,
+          "monocle": 0.0764436310639808
+        },
+        "Bungarus multicinctus": {
+          "hood": 0.20379027398944677,
+          "diamond": 0.004789321325027365,
+          "rattle": 0.1627209698416388,
+          "bands": 0.7093036383956732,
+          "monocle": 0.06371113184667823
+        }
+      }
+    },
+    {
+      "activation_width_percentage_points": 3.0,
+      "missingness_indicator_scale": 0.25,
+      "largest_adjacent_shape_control_change": {
+        "difference": 0.0726104915301154,
+        "trait": "hood",
+        "from_fraction": 0.99,
+        "to_fraction": 1.0
+      },
+      "mean_development_holdout_mae_across_design_controls": 0.1671012586899112,
+      "mean_baseline_mae_across_design_controls": 0.18783085611877115,
+      "photo_color_mae_8bit": 38.16906544531707,
+      "training_example_controls": {
+        "Crotalus atrox": {
+          "hood": 0.001256409148268245,
+          "diamond": 0.3368384682131535,
+          "rattle": 0.4553385013434537,
+          "bands": 0.07424375755080231,
+          "monocle": 0.0
+        },
+        "Naja kaouthia": {
+          "hood": 0.47928110622369585,
+          "diamond": 0.0,
+          "rattle": 0.014367356498125747,
+          "bands": 0.3474671615065314,
+          "monocle": 0.1078788823629421
+        },
+        "Dendroaspis polylepis": {
+          "hood": 0.0,
+          "diamond": 0.0212193535415401,
+          "rattle": 0.025839766148993124,
+          "bands": 0.0,
+          "monocle": 0.0
+        },
+        "Micrurus alleni": {
+          "hood": 0.06767916063306417,
+          "diamond": 0.01339276810145025,
+          "rattle": 0.03429042501293238,
+          "bands": 0.884110356688075,
+          "monocle": 0.07624759583903809
+        },
+        "Bungarus multicinctus": {
+          "hood": 0.22460656253632733,
+          "diamond": 0.019967186721332644,
+          "rattle": 0.17488048270025708,
+          "bands": 0.6612068860106131,
+          "monocle": 0.06518696449044517
+        }
+      }
+    },
+    {
+      "activation_width_percentage_points": 5.0,
+      "missingness_indicator_scale": 1.0,
+      "largest_adjacent_shape_control_change": {
+        "difference": 0.09324749839016011,
+        "trait": "hood",
+        "from_fraction": 0.98,
+        "to_fraction": 0.99
+      },
+      "mean_development_holdout_mae_across_design_controls": 0.16736132318593697,
+      "mean_baseline_mae_across_design_controls": 0.18783085611877115,
+      "photo_color_mae_8bit": 39.863913548405705,
+      "training_example_controls": {
+        "Crotalus atrox": {
+          "hood": 0.0,
+          "diamond": 0.7940408318831376,
+          "rattle": 0.8411923954002258,
+          "bands": 0.15910189019710302,
+          "monocle": 0.000867880186156543
+        },
+        "Naja kaouthia": {
+          "hood": 0.13293415554589666,
+          "diamond": 0.005092819401274512,
+          "rattle": 0.0037018534525046637,
+          "bands": 0.2250893366186097,
+          "monocle": 0.16984632398301167
+        },
+        "Dendroaspis polylepis": {
+          "hood": 0.0031531123552747675,
+          "diamond": 0.0024581100694409663,
+          "rattle": 0.0032805442496069703,
+          "bands": 0.010368011179958614,
+          "monocle": 0.0004391749138216369
+        },
+        "Micrurus alleni": {
+          "hood": 0.021543097606412986,
+          "diamond": 0.0009795370454120517,
+          "rattle": 0.003239977977483946,
+          "bands": 0.9582282434484213,
+          "monocle": 0.02507455649751291
+        },
+        "Bungarus multicinctus": {
+          "hood": 0.02154335368946464,
+          "diamond": 0.007179679813862791,
+          "rattle": 0.012806010472053361,
+          "bands": 0.9516052373149282,
+          "monocle": 0.10779291565003316
+        }
+      }
+    }
+  ]
+}

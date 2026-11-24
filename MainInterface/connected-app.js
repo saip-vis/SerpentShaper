@@ -1,0 +1,124 @@
+(() => {
+'use strict';
+const controls=window.SERPENT_VENOM_DATA.controls,values=Object.fromEntries(controls.map(c=>[c.id,null]));
+const $=id=>document.getElementById(id),inputs=new Map(),invalid=new Set();
+const profileById=new Map(window.SERPENT_VENOM_DATA.profiles.map(p=>[p.profile_id,p]));
+const presets=window.SERPENT_PRESETS.presets,starters=SpeciesStarters.build(window.SERPENT_VENOM_DATA,presets);
+const startersBySpecies=new Map(starters.map(s=>[s.species,s]));
+const expandedSpecies=new Set();
+let surface='dorsal',svg=null,currentSources=[],starting=null,startingValues=null,referenceKey='',limitNotice='',sourcesPending=false;
+const EPSILON=1e-8;
+const enteredTotal=()=>Object.values(values).reduce((sum,v)=>sum+(Number.isFinite(v)?v:0),0);
+for(const photo of window.SERPENT_CONNECTED_MODEL?.photo_sources||[]){
+  const item=document.createElement('li'),label=document.createElement('span');label.textContent=`${photo.species} — `;item.append(label);
+  if(typeof photo.photo_page==='string'&&/^https:\/\/www\.inaturalist\.org\/photos\/\d+$/.test(photo.photo_page)){const link=document.createElement('a');link.href=photo.photo_page;link.target='_blank';link.rel='noopener noreferrer';link.textContent=photo.image_id;item.append(link);}else{const source=document.createElement('span');source.textContent=photo.image_id;item.append(source);}
+  const attribution=document.createElement('span');attribution.textContent=` · ${photo.attribution}`;item.append(attribution);$('photo-list').append(item);
+}
+function addSourceCards(list,sources){
+  for(const source of sources){
+    const card=document.createElement('article');card.className='source-card';
+    const heading=document.createElement('h4');heading.textContent=source.common_name?`${source.common_name} — ${source.species}`:source.species;card.append(heading);
+    const effect=document.createElement('p');effect.className='source-effect';
+    effect.textContent=`Raw shape contribution: ${source.score.toFixed(3)}. Strongest effect: ${source.largest.change>=0?'increases':'decreases'} ${source.largest.label} by ${(Math.abs(source.largest.change)*100).toFixed(2)} illustration-scale points before clamping.`;card.append(effect);
+    function profileLine(profile){
+      const row=document.createElement('p');row.className='source-profile';
+      const record=profileById.get(profile.profile_id),prefix=record?`Source row ${record.source_row}`:profile.profile_id;
+      const entries=controls.map((control,i)=>({label:control.short_label,value:profile.features[i]})).filter(c=>Number.isFinite(c.value)).map(c=>`${c.label} ${c.value}%`);
+      row.textContent=`${prefix}: ${entries.length?entries.join(' · '):'No model categories reported'}`;return row;
+    }
+    card.append(profileLine(source.profiles[0]));
+    if(source.profiles.length>1){const more=document.createElement('details');more.className='profile-more';more.open=expandedSpecies.has(source.species);more.addEventListener('toggle',()=>{if(more.open)expandedSpecies.add(source.species);else expandedSpecies.delete(source.species);});const summary=document.createElement('summary');summary.textContent=`Show ${source.profiles.length-1} more venom profile${source.profiles.length===2?'':'s'}`;more.append(summary);for(const profile of source.profiles.slice(1))more.append(profileLine(profile));card.append(more);}
+    list.append(card);
+  }
+}
+function renderMoreSources(){const list=$('source-list-more');list.replaceChildren();if($('more-sources').open)addSourceCards(list,currentSources.slice(5));}
+function renderSources(concept){
+  const list=$('source-list');list.replaceChildren();currentSources=concept?.sourceContributions||[];
+  $('more-sources').hidden=currentSources.length<=5;
+  $('more-sources-label').textContent=`Show ${Math.max(0,currentSources.length-5)} more contributing species`;
+  renderMoreSources();
+  if(!concept){const text=document.createElement('p');text.className='source-empty';text.textContent='Enter a venom profile to see the underlying sources.';list.append(text);return;}
+  addSourceCards(list,currentSources.slice(0,5));
+}
+$('more-sources').addEventListener('toggle',renderMoreSources);
+function updateReference(){
+  $('starting-reference').hidden=!starting;
+  if(!starting){referenceKey='';$('reference-drawing').innerHTML='';return;}
+  const name=starting.preset.common_name?`${starting.preset.common_name} — ${starting.species}`:starting.species;
+  $('reference-title').textContent=`Starting species reference: ${name}`;
+  const key=`${starting.preset.preset_id}:${surface}`;
+  if(referenceKey!==key){$('reference-drawing').innerHTML=SpeciesRenderer.render(starting.preset,{surface,framing:'full'}).svg;referenceKey=key;}
+}
+function updateStartingNote(){
+  if(!starting){$('starting-note').textContent='Start with a blank profile or choose a species.';return;}
+  const changed=invalid.size>0||controls.some(c=>values[c.id]!==startingValues[c.id]);
+  const uncertain=starting.profile.components.some(c=>c.status==='source_uncertain');
+  $('starting-note').textContent=`${changed?'Edited starting profile':'Starting venom profile'} · source row ${starting.profile.source_row}${starting.profile.location?' · '+starting.profile.location:''}. ${changed?'The concept uses your current values.':'This is one reported profile; individuals can vary.'}${uncertain?' A disputed source value remains blank.':''}`;
+}
+function update({deferSources=false}={}){
+  const active=Object.values(values).filter(v=>Number.isFinite(v)&&v>0),total=enteredTotal(),overLimit=total>100+EPSILON;
+  $('total').textContent=`${Number(total.toFixed(2))}%`;
+  $('balance-note').textContent=invalid.size?'Enter values from 0 to 100.':overLimit?'This source profile exceeds 100%. Review and reduce its values before generating; the reported values have not been changed.':limitNotice|| (active.length<3&&active.length?'Sparse input: the concept has limited support.':'Blank values are unreported.');
+  for(const c of controls){const {slider}=inputs.get(c.id),current=values[c.id]||0,remaining=Number(Math.max(0,100-(total-current)).toFixed(8));slider.max=String(Math.max(current,remaining));slider.value=String(current);}
+  const ready=ConnectedInference.ready(window.SERPENT_CONNECTED_MODEL);
+  const concept=invalid.size||overLimit?null:ConnectedInference.predict(values,window.SERPENT_CONNECTED_MODEL,{includeSources:!deferSources});
+  const drawing=concept?DetailedConcept.render(concept,presets,SpeciesRenderer,{surface}):null;
+  svg=drawing?.svg||null;$('drawing').innerHTML=svg||'';$('drawing').hidden=!svg;$('empty').hidden=!!svg;$('download').disabled=!svg;
+  $('empty').textContent=!ready?'The experimental model could not be loaded.':invalid.size?'Correct the highlighted inputs.':overLimit?'Reduce the entered total to 100% or less to create a concept.':'Enter a nonzero component to create a concept.';
+  $('dorsal').setAttribute('aria-pressed',String(surface==='dorsal'));$('ventral').setAttribute('aria-pressed',String(surface==='ventral'));
+  updateStartingNote();updateReference();
+  $('influences').replaceChildren();
+  if(deferSources&&concept){sourcesPending=true;$('source-status').textContent='Release the slider to update these influences.';}
+  else{sourcesPending=false;$('source-status').textContent='';renderSources(concept);}
+  $('visual-traits').textContent=concept?`Illustration controls (not probabilities): hood ${Math.round(concept.traits.hood*100)}%, bands ${Math.round(concept.traits.bands*100)}%, blotches ${Math.round(concept.traits.blotches*100)}%, diamonds ${Math.round(concept.traits.diamond*100)}%, rattle ${Math.round(concept.traits.rattle*100)}%.`:'';
+  $('explanation-summary').textContent=concept?'The largest effects on the model’s shape controls, compared with setting each component to zero:':'Enter a profile to see how the model responds.';
+  if(concept){
+    const byId=new Map(controls.map(c=>[c.id,c]));
+    for(const effect of concept.contributions.filter(x=>x.score>1e-8).slice(0,3)){
+      const item=document.createElement('li'),name=byId.get(effect.id)?.short_label||effect.id,delta=effect.largest.change;
+      item.textContent=`${name}: ${delta>=0?'increases':'decreases'} ${effect.largest.label} by ${(Math.abs(delta)*100).toFixed(1)} points on its illustration scale.`;
+      $('influences').append(item);
+    }
+    if(!concept.contributions.some(x=>x.score>1e-8)){const item=document.createElement('li');item.textContent='These inputs have little effect on the displayed shape controls.';$('influences').append(item);}
+  }
+}
+for(const c of controls){
+  const box=document.createElement('div');box.className='toxin';const head=document.createElement('div');head.className='toxin-head';
+  const label=document.createElement('label');label.className='toxin-label';label.textContent=c.short_label;label.htmlFor=`component-${c.id}`;label.title=c.definition||c.label;
+  const small=document.createElement('small');small.textContent=c.label;label.append(small);
+  const wrap=document.createElement('div');wrap.className='value-wrap';const input=document.createElement('input');input.type='number';input.id=label.htmlFor;input.min='0';input.max='100';input.step='.1';input.placeholder='—';input.setAttribute('aria-label',`${c.label} percentage`);
+  const percent=document.createElement('span');percent.textContent='%';wrap.append(input,percent);head.append(label,wrap);
+  const slider=document.createElement('input');slider.type='range';slider.min='0';slider.max='100';slider.step='.1';slider.value='0';slider.setAttribute('aria-label',`${c.label} percentage slider`);
+  const row=document.createElement('div');row.className='slider-row';row.append(slider);box.append(head,row);$('controls').append(box);inputs.set(c.id,{input,slider});
+  function apply(raw,fromSlider,deferSources=false){
+    const value=raw===''?null:Number(raw);
+    if(value!==null&&(!Number.isFinite(value)||value<0||value>100)){invalid.add(c.id);input.setAttribute('aria-invalid','true');limitNotice='';}
+    else{
+      invalid.delete(c.id);input.removeAttribute('aria-invalid');
+      const previous=values[c.id],before=enteredTotal(),after=before-(previous??0)+(value??0);
+      if(after>100+EPSILON && (before<=100+EPSILON || after>=before-EPSILON)){
+        input.value=previous===null?'':String(previous);slider.value=previous??0;
+        limitNotice='The entered total cannot exceed 100%. Reduce another component first.';
+      }else{values[c.id]=value;slider.value=value??0;if(fromSlider)input.value=String(value);limitNotice='';}
+    }
+    update({deferSources});
+  }
+  input.addEventListener('input',()=>apply(input.value,false));
+  slider.addEventListener('input',()=>apply(slider.value,true,true));
+  const finishSlider=()=>{if(sourcesPending)apply(slider.value,true);};
+  slider.addEventListener('change',finishSlider);slider.addEventListener('pointerup',finishSlider);slider.addEventListener('blur',finishSlider);
+}
+function loadSpecies(species){
+  starting=startersBySpecies.get(species)||null;
+  startingValues=starting?SpeciesStarters.valuesForProfile(controls,starting.profile):null;
+  for(const c of controls){const v=startingValues?.[c.id]??null;values[c.id]=v;const {input,slider}=inputs.get(c.id);input.value=v===null?'':String(v);input.removeAttribute('aria-invalid');slider.value=v??0;}
+  invalid.clear();limitNotice='';update();
+}
+const blank=document.createElement('option');blank.value='';blank.textContent='Create a new snake';$('starting-species').append(blank);
+for(const entry of starters){const option=document.createElement('option');option.value=entry.species;option.textContent=entry.preset.common_name?`${entry.preset.common_name} — ${entry.species}`:entry.species;$('starting-species').append(option);}
+$('starting-species').addEventListener('change',e=>loadSpecies(e.target.value));
+for(const s of ['dorsal','ventral'])$(s).addEventListener('click',()=>{surface=s;update();});
+$('clear').addEventListener('click',()=>{$('starting-species').value='';loadSpecies('');});
+$('download').addEventListener('click',()=>{if(!svg)return;const url=URL.createObjectURL(new Blob([svg],{type:'image/svg+xml'})),a=document.createElement('a');a.href=url;a.download='serpentshaper-concept.svg';a.click();setTimeout(()=>URL.revokeObjectURL(url),0);});
+update();
+})();

@@ -2,17 +2,17 @@
 
 Biologically informed visualization of hypothetical snakes from user-defined venom profiles.
 
-This folder contains the venom data pipeline, image references, procedural renderer and experimental trained models. The current visual model learns from authored species presets associated by source species name; it is not trained on venom-paired snake photographs or validated as a biological predictor.
+This folder contains the venom data pipeline, image references, procedural renderer and experimental trained models. The connected prototype learns shape from authored snake designs associated with venom by source species label, with a small color cue trained on photo patches. Venom and photographs are not matched by individual snake; the output is not validated as a biological predictor.
 
 Start with [the dataset report](reports/dataset_report.md).
 
 For ingestion, see [the cleaning report](reports/cleaning_report.md). The SQLite database and flat tables are in `data/processed/venom_diet_2023/`.
 
-The main [venom explorer](MainInterface/index.html) combines editable family-level compositions, measured reference comparisons, and an experimental SVG concept. See [usage and limitations](MainInterface/README.md) and the [visual model's training manifest](ML/visual_style_model.json).
+The main [venom explorer](MainInterface/index.html) connects venom-family inputs directly to a trained experimental SVG concept and explains the model's responses. See [usage and limitations](MainInterface/README.md) and the [connected model's training report](ML/learned_morphology/connected_prototype.json). The earlier, more detailed reference-based renderer is preserved in the [research interface](MainInterface/research-interface.html).
 
 To browse the cleaned data and test custom inputs locally, run `python3 InitialInterfaceTest.py` and open `http://127.0.0.1:8765`. See [interface usage and API](InitialInterfaceTest.md).
 
-The [venom input specification](docs/VenomInputSpecification.md) defines four primary and eight advanced controls, now available in the local composition editor with explanations, evidence links, and live totals. Its phenotype output contract remains a draft; no phenotype inference is implemented. Validate the catalog's database bindings with `python3 scripts/validate_input_spec.py`.
+The [venom input specification](docs/VenomInputSpecification.md) defines four primary and eight advanced controls available in the composition editor. Its biological phenotype output contract remains a draft; the connected model produces an experimental illustration rather than validated phenotype inference. Validate the catalog's database bindings with `python3 scripts/validate_input_spec.py`.
 
 For the first image collection batch, see [the image pilot instructions](docs/ImageCollection.md). Run `python3 scripts/collect_image_pilot.py discover` to collect a small licensed-photo candidate manifest, then `python3 scripts/collect_image_pilot.py download --limit 10` to download candidates separately. Images remain unreviewed until inspected; use provider exports for bulk acquisition.
 

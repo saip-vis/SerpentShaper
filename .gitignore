@@ -23,3 +23,4 @@ data/image_pilots/*/review.html
 data/image_pilots/*/collection.log
 data/image_pilots/index.html
 data/image_pilots/rendering_manifest.json
+reports/visual_generation_checks/.work/
