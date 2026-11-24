@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "status": "exploratory_observed_body_pixels_not_anatomy_labels",
+  "description": "Manually selected patches of visible snake body, normalized bounding boxes [left, top, right, bottom]. One photo per observation; color depends on illumination and may include markings.",
+  "samples": [
+    {
+      "image_id": "inat_244026573",
+      "bbox": [
+        0.28,
+        0.472,
+        0.42,
+        0.49
+      ],
+      "note": "Flash/night image; partial body. Color is sensitive to lighting."
+    },
+    {
+      "image_id": "inat_2699122",
+      "bbox": [
+        0.56,
+        0.5,
+        0.62,
+        0.52
+      ],
+      "note": "Exposed body section near handling equipment; partial view."
+    },
+    {
+      "image_id": "inat_873868",
+      "bbox": [
+        0.405,
+        0.55,
+        0.62,
+        0.64
+      ],
+      "note": "Coiled dorsal body; region includes light and dark patterned scales."
+    },
+    {
+      "image_id": "inat_1767459",
+      "bbox": [
+        0.4,
+        0.38,
+        0.53,
+        0.44
+      ],
+      "note": "Coiled dorsal body; region includes light and dark scales."
+    },
+    {
+      "image_id": "inat_1904884",
+      "bbox": [
+        0.47,
+        0.52,
+        0.6,
+        0.6
+      ],
+      "note": "Coiled dorsal body; region includes markings."
+    },
+    {
+      "image_id": "inat_136221239",
+      "bbox": [
+        0.3,
+        0.43,
+        0.36,
+        0.45
+      ],
+      "note": "Visible dark dorsal body scales; sunlight and sheen influence this small patch."
+    },
+    {
+      "image_id": "inat_32528083",
+      "bbox": [
+        0.62,
+        0.66,
+        0.66,
+        0.69
+      ],
+      "note": "Visible pale patterned body scales; small region does not represent the full pattern."
+    },
+    {
+      "image_id": "inat_643481",
+      "bbox": [
+        0.73,
+        0.35,
+        0.76,
+        0.38
+      ],
+      "note": "Visible patterned dorsal body scales in strong light; not a whole-animal color."
+    },
+    {
+      "image_id": "inat_23736963",
+      "bbox": [
+        0.31,
+        0.7,
+        0.34,
+        0.72
+      ],
+      "note": "Visible body band including dark and pale scales; low-light color and highlights affect measurement."
+    },
+    {
+      "image_id": "inat_102607075",
+      "bbox": [
+        0.68,
+        0.8,
+        0.71,
+        0.83
+      ],
+      "note": "Visible orange body scales under flash; pattern, glare and lighting affect color."
+    }
+  ]
+}

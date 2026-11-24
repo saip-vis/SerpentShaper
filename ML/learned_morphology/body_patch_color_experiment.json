@@ -1,0 +1,613 @@
+{
+  "schema_version": 1,
+  "status": "exploratory_candidate_not_deployed",
+  "task": "Predict median sRGB of small observed body patches from venom values; not shape or full-snake color.",
+  "feature_ids": [
+    "3ftx",
+    "pla2",
+    "svmp",
+    "svsp",
+    "kunitz",
+    "ctl",
+    "snaclec",
+    "crisp",
+    "laao",
+    "disintegrin",
+    "natriuretic_peptide",
+    "bradykinin_potentiating_peptide"
+  ],
+  "targets": [
+    "patch_r",
+    "patch_g",
+    "patch_b"
+  ],
+  "activation_width_percentage_points": 1.0,
+  "model": "Three regularized linear regressions; species-equal training weights; fold-specific median/missingness preprocessing.",
+  "data": {
+    "source_species_count": 8,
+    "observation_count": 10,
+    "photo_count": 10,
+    "profile_image_rows": 35,
+    "link_scope": "source species label only; venom and photo do not come from a verified common specimen"
+  },
+  "evaluation_method": "Leave-one-genus-out; average predictions per source species; compare with the mean training-species patch color.",
+  "evaluation": {
+    "patch_r": {
+      "held_out_species": 8,
+      "model_mae": 0.14927919816758445,
+      "baseline_mae": 0.15271241830065366,
+      "predictions": [
+        {
+          "species": "Daboia russelii",
+          "actual": 0.8078431372549021,
+          "predicted": 0.41609639505282153,
+          "baseline": 0.39981325863678807
+        },
+        {
+          "species": "Naja kaouthia",
+          "actual": 0.3490196078431373,
+          "predicted": 0.414261473013347,
+          "baseline": 0.4653594771241831
+        },
+        {
+          "species": "Crotalus atrox",
+          "actual": 0.44183006535947716,
+          "predicted": 0.5754943878195333,
+          "baseline": 0.45210084033613457
+        },
+        {
+          "species": "Bungarus multicinctus",
+          "actual": 0.3607843137254902,
+          "predicted": 0.3856485913706229,
+          "baseline": 0.4435729847494554
+        },
+        {
+          "species": "Aspidelaps lubricus",
+          "actual": 0.5843137254901961,
+          "predicted": 0.4454579141636644,
+          "baseline": 0.4435729847494554
+        },
+        {
+          "species": "Oxyuranus scutellatus",
+          "actual": 0.20784313725490197,
+          "predicted": 0.48374265710042375,
+          "baseline": 0.5087581699346406
+        },
+        {
+          "species": "Dendroaspis polylepis",
+          "actual": 0.403921568627451,
+          "predicted": 0.4822460416087334,
+          "baseline": 0.5087581699346406
+        },
+        {
+          "species": "Bitis arietans",
+          "actual": 0.45098039215686275,
+          "predicted": 0.5366169658667234,
+          "baseline": 0.5087581699346406
+        }
+      ]
+    },
+    "patch_g": {
+      "held_out_species": 8,
+      "model_mae": 0.12547740974803906,
+      "baseline_mae": 0.11872549019607839,
+      "predictions": [
+        {
+          "species": "Daboia russelii",
+          "actual": 0.7137254901960783,
+          "predicted": 0.3190724250457404,
+          "baseline": 0.3226890756302521
+        },
+        {
+          "species": "Naja kaouthia",
+          "actual": 0.2980392156862745,
+          "predicted": 0.31900294480710145,
+          "baseline": 0.38207282913165264
+        },
+        {
+          "species": "Crotalus atrox",
+          "actual": 0.38823529411764707,
+          "predicted": 0.47927926735371784,
+          "baseline": 0.36918767507002803
+        },
+        {
+          "species": "Bungarus multicinctus",
+          "actual": 0.3490196078431372,
+          "predicted": 0.32523189478051,
+          "baseline": 0.37450980392156863
+        },
+        {
+          "species": "Aspidelaps lubricus",
+          "actual": 0.3764705882352941,
+          "predicted": 0.3849991907883844,
+          "baseline": 0.37450980392156863
+        },
+        {
+          "species": "Oxyuranus scutellatus",
+          "actual": 0.1450980392156863,
+          "predicted": 0.4334712276507843,
+          "baseline": 0.4250980392156862
+        },
+        {
+          "species": "Dendroaspis polylepis",
+          "actual": 0.36470588235294116,
+          "predicted": 0.40495550525626467,
+          "baseline": 0.4250980392156862
+        },
+        {
+          "species": "Bitis arietans",
+          "actual": 0.33725490196078434,
+          "predicted": 0.47347428548372233,
+          "baseline": 0.4250980392156862
+        }
+      ]
+    },
+    "patch_b": {
+      "held_out_species": 8,
+      "model_mae": 0.1864718257740446,
+      "baseline_mae": 0.18008092125739186,
+      "predictions": [
+        {
+          "species": "Daboia russelii",
+          "actual": 0.6666666666666666,
+          "predicted": 0.2772386345879059,
+          "baseline": 0.299906629318394
+        },
+        {
+          "species": "Naja kaouthia",
+          "actual": 0.3058823529411765,
+          "predicted": 0.3365509294427584,
+          "baseline": 0.35144724556489265
+        },
+        {
+          "species": "Crotalus atrox",
+          "actual": 0.37777777777777777,
+          "predicted": 0.38316920331705334,
+          "baseline": 0.3411764705882353
+        },
+        {
+          "species": "Bungarus multicinctus",
+          "actual": 0.46274509803921565,
+          "predicted": 0.28591765182084056,
+          "baseline": 0.31786492374727665
+        },
+        {
+          "species": "Aspidelaps lubricus",
+          "actual": 0.396078431372549,
+          "predicted": 0.36060612711011913,
+          "baseline": 0.31786492374727665
+        },
+        {
+          "species": "Oxyuranus scutellatus",
+          "actual": 0.07450980392156863,
+          "predicted": 0.480542500052792,
+          "baseline": 0.44183006535947716
+        },
+        {
+          "species": "Dendroaspis polylepis",
+          "actual": 0.3254901960784314,
+          "predicted": 0.4516054236435656,
+          "baseline": 0.44183006535947716
+        },
+        {
+          "species": "Bitis arietans",
+          "actual": 0.1568627450980392,
+          "predicted": 0.4787016429936153,
+          "baseline": 0.44183006535947716
+        }
+      ]
+    }
+  },
+  "mean_channel_mae_normalized": 0.15374281122988936,
+  "baseline_mean_channel_mae_normalized": 0.15050627658470797,
+  "mean_channel_mae_8bit": 39.20441686362179,
+  "baseline_mean_channel_mae_8bit": 38.37910052910053,
+  "models": {
+    "patch_r": {
+      "median": [
+        40.74074074074074,
+        21.5,
+        5.1,
+        13.345,
+        5.455,
+        2.8,
+        11.1,
+        3.08,
+        1.89,
+        1.4,
+        1.05,
+        0.9
+      ],
+      "coefficients": [
+        0.06607827427027282,
+        -0.01618276811729068,
+        -0.01648447371810484,
+        -0.0003352405881325879,
+        0.011392319588041112,
+        0.002106736866439857,
+        -0.0007290247895189083,
+        0.0036858692636012845,
+        -0.0026831958640897687,
+        -0.003568939998326226,
+        -0.0007514692799645349,
+        -5.442873546014093e-33,
+        0.10947542689982537,
+        0.010539288876007469,
+        0.010835494483430436,
+        -0.0562239297602917,
+        -0.07446014821712695,
+        0.025037359265952817,
+        -0.0758191165461135,
+        -0.014497351809478573,
+        -0.0749940259373974,
+        0.035507100027327106,
+        0.06107753637473528,
+        0.017657445663737028
+      ],
+      "intercept": 0.4412580993534317
+    },
+    "patch_g": {
+      "median": [
+        40.74074074074074,
+        21.5,
+        5.1,
+        13.345,
+        5.455,
+        2.8,
+        11.1,
+        3.08,
+        1.89,
+        1.4,
+        1.05,
+        0.9
+      ],
+      "coefficients": [
+        0.03953875238611316,
+        -0.0037386923711883588,
+        -0.019592172513085676,
+        -0.00189576378909093,
+        0.020590043072262625,
+        -0.0004204345294747671,
+        -0.0006441863564138462,
+        0.0028832211837780874,
+        -0.0012822695452842177,
+        -0.006053282559679815,
+        -0.00020429047340898414,
+        -1.2769182361562358e-33,
+        0.10910123287430273,
+        0.026323719915034863,
+        0.02537713173158426,
+        -0.053487909875961005,
+        -0.03938165193588811,
+        0.021510941295923125,
+        -0.07719569431961293,
+        -0.004229409443306667,
+        -0.05936539669491594,
+        0.03539371371457474,
+        0.04091500379175463,
+        0.01175809735087838
+      ],
+      "intercept": 0.37333843095112984
+    },
+    "patch_b": {
+      "median": [
+        40.74074074074074,
+        21.5,
+        5.1,
+        13.345,
+        5.455,
+        2.8,
+        11.1,
+        3.08,
+        1.89,
+        1.4,
+        1.05,
+        0.9
+      ],
+      "coefficients": [
+        0.05836683382443072,
+        -0.007314398354383144,
+        -0.02691997211224083,
+        -0.005810506251138238,
+        0.017928783071690192,
+        -0.0059913646423938325,
+        -0.0007698136987665548,
+        0.0018105862406557092,
+        -0.0020921648946444337,
+        -0.010842202531855185,
+        0.0003573182204044359,
+        4.012537085673466e-34,
+        0.11250473833486815,
+        0.020040445107315775,
+        0.05908334447499628,
+        -0.015555503518385607,
+        -0.004378824713641221,
+        0.05265243767717764,
+        -0.07432718368723992,
+        -0.016447555926017324,
+        -0.08975808150980354,
+        0.06821025706877586,
+        0.030803072950631744,
+        -0.0001373684022642609
+      ],
+      "intercept": 0.30413629572943857
+    }
+  },
+  "image_records": [
+    {
+      "image_id": "inat_244026573",
+      "species_label": "Oxyuranus scutellatus",
+      "observation_id": 142349091,
+      "photo_page": "https://www.inaturalist.org/photos/244026573",
+      "photo_sha256": "c754a0c6985954298edd83debc52b454d1d3c49f1dd1dcc4bd3c540419dbb677",
+      "manifest": "data/image_pilots/pilot_002_coastal_taipan/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Tom Field, some rights reserved (CC BY)",
+      "bbox": [
+        0.28,
+        0.472,
+        0.42,
+        0.49
+      ],
+      "pixel_count": 7175,
+      "median_rgb": [
+        0.20784313725490197,
+        0.1450980392156863,
+        0.07450980392156863
+      ],
+      "note": "Flash/night image; partial body. Color is sensitive to lighting."
+    },
+    {
+      "image_id": "inat_2699122",
+      "species_label": "Dendroaspis polylepis",
+      "observation_id": 2423901,
+      "photo_page": "https://www.inaturalist.org/photos/2699122",
+      "photo_sha256": "ccd53467a1f25b17b2576c391831eca4bd0d82b95ab048e9fca8b1087029a051",
+      "manifest": "data/image_pilots/pilot_003_black_mamba/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
+      "bbox": [
+        0.56,
+        0.5,
+        0.62,
+        0.52
+      ],
+      "pixel_count": 480,
+      "median_rgb": [
+        0.403921568627451,
+        0.36470588235294116,
+        0.3254901960784314
+      ],
+      "note": "Exposed body section near handling equipment; partial view."
+    },
+    {
+      "image_id": "inat_873868",
+      "species_label": "Crotalus atrox",
+      "observation_id": 696263,
+      "photo_page": "https://www.inaturalist.org/photos/873868",
+      "photo_sha256": "ee07ab2f921d61c69bee5dbbfc52a94ad2f3c32eba9c5951fb4ccce4d10c23bb",
+      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Tom Devitt, some rights reserved (CC BY)",
+      "bbox": [
+        0.405,
+        0.55,
+        0.62,
+        0.64
+      ],
+      "pixel_count": 60858,
+      "median_rgb": [
+        0.49019607843137253,
+        0.4470588235294118,
+        0.4549019607843137
+      ],
+      "note": "Coiled dorsal body; region includes light and dark patterned scales."
+    },
+    {
+      "image_id": "inat_1767459",
+      "species_label": "Crotalus atrox",
+      "observation_id": 1428159,
+      "photo_page": "https://www.inaturalist.org/photos/1767459",
+      "photo_sha256": "ba4001a14f7c6b79d2974841d9cb54e3022b073a43c08e3e66a66d93c6b39a7e",
+      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "bbox": [
+        0.4,
+        0.38,
+        0.53,
+        0.44
+      ],
+      "pixel_count": 14976,
+      "median_rgb": [
+        0.4,
+        0.396078431372549,
+        0.4117647058823529
+      ],
+      "note": "Coiled dorsal body; region includes light and dark scales."
+    },
+    {
+      "image_id": "inat_1904884",
+      "species_label": "Crotalus atrox",
+      "observation_id": 1537698,
+      "photo_page": "https://www.inaturalist.org/photos/1904884",
+      "photo_sha256": "c1eb3bf1e62065d20e18986793a61741027c779a284040f227484772dccaeb5e",
+      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Mike Lewinski, some rights reserved (CC BY)",
+      "bbox": [
+        0.47,
+        0.52,
+        0.6,
+        0.6
+      ],
+      "pixel_count": 26866,
+      "median_rgb": [
+        0.43529411764705883,
+        0.3215686274509804,
+        0.26666666666666666
+      ],
+      "note": "Coiled dorsal body; region includes markings."
+    },
+    {
+      "image_id": "inat_136221239",
+      "species_label": "Naja kaouthia",
+      "observation_id": 82239605,
+      "photo_page": "https://www.inaturalist.org/photos/136221239",
+      "photo_sha256": "faea0d8d90d10738cb4a7a439fbdc64d28ee00df0b36f7c3ec16cfaca785f8b0",
+      "manifest": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
+      "bbox": [
+        0.3,
+        0.43,
+        0.36,
+        0.45
+      ],
+      "pixel_count": 3813,
+      "median_rgb": [
+        0.34901960784313724,
+        0.2980392156862745,
+        0.3058823529411765
+      ],
+      "note": "Visible dark dorsal body scales; sunlight and sheen influence this small patch."
+    },
+    {
+      "image_id": "inat_32528083",
+      "species_label": "Daboia russelii",
+      "observation_id": 21054217,
+      "photo_page": "https://www.inaturalist.org/photos/32528083",
+      "photo_sha256": "b4fad6c6f0139ecb54c2add1493cfeb9699d43b39fea85c8faabf2e93b3dffc6",
+      "manifest": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Harshjeet Singh Bal, some rights reserved (CC BY)",
+      "bbox": [
+        0.62,
+        0.66,
+        0.66,
+        0.69
+      ],
+      "pixel_count": 4264,
+      "median_rgb": [
+        0.807843137254902,
+        0.7137254901960784,
+        0.6666666666666666
+      ],
+      "note": "Visible pale patterned body scales; small region does not represent the full pattern."
+    },
+    {
+      "image_id": "inat_643481",
+      "species_label": "Bitis arietans",
+      "observation_id": 505270,
+      "photo_page": "https://www.inaturalist.org/photos/643481",
+      "photo_sha256": "a722f728379498ad4d2d77903fd2542ad2eecf857725bcbcecd66f387d1b550f",
+      "manifest": "data/image_pilots/pilot_005_puff_adder/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
+      "bbox": [
+        0.73,
+        0.35,
+        0.76,
+        0.38
+      ],
+      "pixel_count": 2623,
+      "median_rgb": [
+        0.45098039215686275,
+        0.33725490196078434,
+        0.1568627450980392
+      ],
+      "note": "Visible patterned dorsal body scales in strong light; not a whole-animal color."
+    },
+    {
+      "image_id": "inat_23736963",
+      "species_label": "Bungarus multicinctus",
+      "observation_id": 15874123,
+      "photo_page": "https://www.inaturalist.org/photos/23736963",
+      "photo_sha256": "643212438e1185af843417de26f8d3c000952e4d8575bfe23cdca92d7a27acd5",
+      "manifest": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Chen Jia Hong, some rights reserved (CC BY)",
+      "bbox": [
+        0.31,
+        0.7,
+        0.34,
+        0.72
+      ],
+      "pixel_count": 1891,
+      "median_rgb": [
+        0.3607843137254902,
+        0.34901960784313724,
+        0.4627450980392157
+      ],
+      "note": "Visible body band including dark and pale scales; low-light color and highlights affect measurement."
+    },
+    {
+      "image_id": "inat_102607075",
+      "species_label": "Aspidelaps lubricus",
+      "observation_id": 63887617,
+      "photo_page": "https://www.inaturalist.org/photos/102607075",
+      "photo_sha256": "adb3442bbe005a68196570097449f5463045e2110060b8cfb0fc884f09de1e6d",
+      "manifest": "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Ryan van Huyssteen, some rights reserved (CC BY)",
+      "bbox": [
+        0.68,
+        0.8,
+        0.71,
+        0.83
+      ],
+      "pixel_count": 2501,
+      "median_rgb": [
+        0.5843137254901961,
+        0.3764705882352941,
+        0.396078431372549
+      ],
+      "note": "Visible orange body scales under flash; pattern, glare and lighting affect color."
+    }
+  ],
+  "input_sha256": {
+    "ML/learned_morphology/body_patch_samples.json": "e8aea86963ecd5a9021b98f8f916ba1128a0cdbbdddbccd5807e4872b0be0af4",
+    "ML/learned_morphology/body_patch_measurements.json": "e64ceaeba94e7a086bcf7ffbd68b3ec760bd8a194e37474f95e3849df3c7bb47",
+    "scripts/train_photo_color_pilot.py": "d1816a13e2bc8c575e2da24aabb74b878fb34a5a65d966527c73eb12d5f2bf86",
+    "scripts/train_learned_morphology.py": "f4e29a9fba55af2369b1f840ad474789dcc9850a8cbc75350d21eed15622e4c9",
+    "scripts/build_learned_training_data.py": "55bd5e8b11aa8ed4c44607a8ed3118d7dfd4fcc5abc463cfebbfefc3718057bb",
+    "data/image_pilots/pilot_002_coastal_taipan/manifest.json": "2bda966746785ad673db7e2a574036dcba012d96d569a88c8440b487d41c0d5a",
+    "data/image_pilots/pilot_003_black_mamba/manifest.json": "335c6fab59daa4e5ba91fe1113a7eec2d11d70caf9726ebe74047c8baeed8275",
+    "data/image_pilots/pilot_004_western_diamondback/manifest.json": "4eaf558ab28ce214f6aaad3e3d327962a6b5ad42509b98fca8f10bb0ad980c78",
+    "data/image_pilots/pilot_005_puff_adder/manifest.json": "af5ee1d97713a0280d7af3e6dc5fbd8e92b854e4fc3c49f0c06b3f326c03112f",
+    "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json": "4237bc67418f92a1f378f6ec7d2111354be30222270468ae9b40af8df01c5c85",
+    "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json": "2afac7c8331f59ef1751752d627e3784e310b307e8fe7634af84648bbe07695f",
+    "data/image_pilots/pilot_069_daboia_russelii/manifest.json": "c96856a7ce270370d3e1b5deadc18be5f5f8aa717d16823f071a84e007b5abb7",
+    "data/image_pilots/pilot_108_naja_kaouthia/manifest.json": "2d287f632fbfa857b834f78bfe0eb2859430eec7dd53e0d76c313fc2007ad549"
+  },
+  "dataset_source_sha256": {
+    "data/processed/venom_diet_2023/serpentshaper.sqlite": "abf3f5b22f003dfa9cabbcddc89f171c64a34c16b56a12cc675a9b18f27e3192",
+    "config/venom_input_spec.json": "e5f1da97e22415196aded20b2405d013a38741ef3e2a53f18e40a0d192b42322",
+    "config/venom_quality_flags.json": "c97646a4f8171b9f39be861da0995c5276ee502bfac81eb7458b14b4bd6f0ffd",
+    "ML/learned_morphology/annotations.json": "3bf72b29020c26e71de1d4171760d3a64577126099fe9cfa5d29d0321637cb81",
+    "ML/image_traits/pilot_observations.json": "44db4da14a80dce58bea69f59a3674c84afdfa9603f4c31410b062a568f10a2b",
+    "ML/image_traits/pattern_holdout.json": "f897d713ed888c6aaa1dff6612224fb02975150737974f5f380c2635d6309614",
+    "ML/pilot_image_review.json": "7858dafb93a913dcc36acbeab30c20a17b3be744f34214c13ffea4d71e182b05",
+    "scripts/build_learned_training_data.py": "55bd5e8b11aa8ed4c44607a8ed3118d7dfd4fcc5abc463cfebbfefc3718057bb"
+  },
+  "versions": {
+    "numpy": "2.4.6",
+    "scikit_learn": "1.9.1"
+  },
+  "limitations": [
+    "This small patch dataset is inadequate for a reliable generative model.",
+    "Lighting, camera processing and patterned scales affect measured colors.",
+    "The images and venom profiles are not known to share individuals.",
+    "The output is not a label for an entire snake, and this candidate is not connected to the renderer."
+  ]
+}

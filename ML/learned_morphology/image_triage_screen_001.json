@@ -1,0 +1,730 @@
+{
+  "schema_version": 1,
+  "status": "selective_source_review_no_automatic_trait_approval",
+  "batch": "ML/learned_morphology/image_triage_batch_001.json",
+  "batch_sha256": "4826fd56e5dd1539296856a4b19fee45b2c077b69dae91b52ec1c74b4c4f1ad0",
+  "screened_on": "2026-11-24",
+  "scope": "72 photos screened in contact sheets; four damaged images individually inspected and rejected; five further photos individually inspected and accepted for visible body evidence. Others remain unreviewed.",
+  "records": [
+    {
+      "image_id": "inat_136221239",
+      "species_label": "Naja kaouthia",
+      "observation_id": 82239605,
+      "manifest": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/136221239",
+      "screen_status": "accepted_visible_body",
+      "screen_method": "full_image",
+      "note": "Full photograph inspected: no obvious injury in visible portions. Visible body scales accepted for local use; occluded anatomy and species identity are not independently verified."
+    },
+    {
+      "image_id": "inat_46690465",
+      "species_label": "Naja kaouthia",
+      "observation_id": 29900310,
+      "manifest": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/46690465",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_175095743",
+      "species_label": "Naja kaouthia",
+      "observation_id": 104491389,
+      "manifest": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/175095743",
+      "screen_status": "condition_review",
+      "screen_method": "contact_sheet",
+      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+    },
+    {
+      "image_id": "inat_157899882",
+      "species_label": "Ophiophagus hannah",
+      "observation_id": 95133147,
+      "manifest": "data/image_pilots/pilot_117_ophiophagus_hannah/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/157899882",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_122692917",
+      "species_label": "Ophiophagus hannah",
+      "observation_id": 75024971,
+      "manifest": "data/image_pilots/pilot_117_ophiophagus_hannah/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/122692917",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_135071772",
+      "species_label": "Ophiophagus hannah",
+      "observation_id": 82305354,
+      "manifest": "data/image_pilots/pilot_117_ophiophagus_hannah/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/135071772",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_740837716",
+      "species_label": "Naja naja",
+      "observation_id": 403486981,
+      "manifest": "data/image_pilots/pilot_150_cobra_followup/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/740837716",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_764912440",
+      "species_label": "Naja naja",
+      "observation_id": 415405731,
+      "manifest": "data/image_pilots/pilot_150_cobra_followup/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/764912440",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_52766284",
+      "species_label": "Naja naja",
+      "observation_id": 33589393,
+      "manifest": "data/image_pilots/pilot_001_spectacled_cobra/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/52766284",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_2829005",
+      "species_label": "Dispholidus typus",
+      "observation_id": 2521347,
+      "manifest": "data/image_pilots/pilot_007_boomslang/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/2829005",
+      "screen_status": "condition_review",
+      "screen_method": "contact_sheet",
+      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+    },
+    {
+      "image_id": "inat_736977129",
+      "species_label": "Dispholidus typus",
+      "observation_id": 401522451,
+      "manifest": "data/image_pilots/pilot_154_boomslang_followup/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/736977129",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_765369308",
+      "species_label": "Dispholidus typus",
+      "observation_id": 415634694,
+      "manifest": "data/image_pilots/pilot_154_boomslang_followup/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/765369308",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_7450756",
+      "species_label": "Bothrops asper",
+      "observation_id": 5963063,
+      "manifest": "data/image_pilots/pilot_028_bothrops_asper/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/7450756",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_2406462",
+      "species_label": "Bothrops asper",
+      "observation_id": 1964093,
+      "manifest": "data/image_pilots/pilot_028_bothrops_asper/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/2406462",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_29141",
+      "species_label": "Bothrops asper",
+      "observation_id": 14998,
+      "manifest": "data/image_pilots/pilot_028_bothrops_asper/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/29141",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_59775685",
+      "species_label": "Daboia russelii",
+      "observation_id": 37674750,
+      "manifest": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/59775685",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_32528083",
+      "species_label": "Daboia russelii",
+      "observation_id": 21054217,
+      "manifest": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/32528083",
+      "screen_status": "accepted_visible_body",
+      "screen_method": "full_image",
+      "note": "Full photograph inspected: no obvious injury in visible portions. Visible body scales accepted for local use; occluded anatomy and species identity are not independently verified."
+    },
+    {
+      "image_id": "inat_10970044",
+      "species_label": "Daboia russelii",
+      "observation_id": 8270679,
+      "manifest": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/10970044",
+      "screen_status": "rejected_severe_damage",
+      "screen_method": "full_image",
+      "note": "Individually inspected the full image: severe visible damage or remains. Excluded under the healthy-snake policy."
+    },
+    {
+      "image_id": "inat_643481",
+      "species_label": "Bitis arietans",
+      "observation_id": 505270,
+      "manifest": "data/image_pilots/pilot_005_puff_adder/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/643481",
+      "screen_status": "accepted_visible_body",
+      "screen_method": "full_image",
+      "note": "Full photograph inspected: no obvious injury in visible portions. Visible body scales accepted for local use; occluded anatomy and species identity are not independently verified."
+    },
+    {
+      "image_id": "inat_1250458",
+      "species_label": "Bitis arietans",
+      "observation_id": 1020058,
+      "manifest": "data/image_pilots/pilot_005_puff_adder/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/1250458",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_1309693",
+      "species_label": "Bitis arietans",
+      "observation_id": 1043996,
+      "manifest": "data/image_pilots/pilot_005_puff_adder/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/1309693",
+      "screen_status": "condition_review",
+      "screen_method": "contact_sheet",
+      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+    },
+    {
+      "image_id": "inat_23736963",
+      "species_label": "Bungarus multicinctus",
+      "observation_id": 15874123,
+      "manifest": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/23736963",
+      "screen_status": "accepted_visible_body",
+      "screen_method": "full_image",
+      "note": "Full photograph inspected: no obvious injury in visible portions. Visible body scales accepted for local use; occluded anatomy and species identity are not independently verified."
+    },
+    {
+      "image_id": "inat_26493659",
+      "species_label": "Bungarus multicinctus",
+      "observation_id": 17431574,
+      "manifest": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/26493659",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_28898787",
+      "species_label": "Bungarus multicinctus",
+      "observation_id": 18861638,
+      "manifest": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/28898787",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_1683200",
+      "species_label": "Crotalus scutulatus",
+      "observation_id": 1361106,
+      "manifest": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/1683200",
+      "screen_status": "rejected_severe_damage",
+      "screen_method": "full_image",
+      "note": "Individually inspected the full image: severe visible damage or remains. Excluded under the healthy-snake policy."
+    },
+    {
+      "image_id": "inat_3489252",
+      "species_label": "Crotalus scutulatus",
+      "observation_id": 3031134,
+      "manifest": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/3489252",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_4810654",
+      "species_label": "Crotalus scutulatus",
+      "observation_id": 4060376,
+      "manifest": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/4810654",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_312606977",
+      "species_label": "Agkistrodon bilineatus",
+      "observation_id": 179548629,
+      "manifest": "data/image_pilots/pilot_010_agkistrodon_bilineatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/312606977",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_152410778",
+      "species_label": "Agkistrodon bilineatus",
+      "observation_id": 92083315,
+      "manifest": "data/image_pilots/pilot_010_agkistrodon_bilineatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/152410778",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_2144298",
+      "species_label": "Agkistrodon bilineatus",
+      "observation_id": 1772581,
+      "manifest": "data/image_pilots/pilot_010_agkistrodon_bilineatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/2144298",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_339406549",
+      "species_label": "Aspidelaps lubricus",
+      "observation_id": 193232616,
+      "manifest": "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/339406549",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_102607075",
+      "species_label": "Aspidelaps lubricus",
+      "observation_id": 63887617,
+      "manifest": "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/102607075",
+      "screen_status": "accepted_visible_body",
+      "screen_method": "full_image",
+      "note": "Full photograph inspected: no obvious injury in visible portions. Visible body scales accepted for local use; occluded anatomy and species identity are not independently verified."
+    },
+    {
+      "image_id": "inat_419366497",
+      "species_label": "Aspidelaps lubricus",
+      "observation_id": 235784785,
+      "manifest": "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/419366497",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_356134195",
+      "species_label": "Bothriechis bicolor",
+      "observation_id": 201722092,
+      "manifest": "data/image_pilots/pilot_020_bothriechis_bicolor/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/356134195",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_371443743",
+      "species_label": "Bothriechis bicolor",
+      "observation_id": 209947692,
+      "manifest": "data/image_pilots/pilot_020_bothriechis_bicolor/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/371443743",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_405435951",
+      "species_label": "Bothriechis bicolor",
+      "observation_id": 228472864,
+      "manifest": "data/image_pilots/pilot_020_bothriechis_bicolor/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/405435951",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_12887205",
+      "species_label": "Cerastes cerastes",
+      "observation_id": 9470544,
+      "manifest": "data/image_pilots/pilot_052_cerastes_cerastes/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/12887205",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_51436617",
+      "species_label": "Cerastes cerastes",
+      "observation_id": 32779718,
+      "manifest": "data/image_pilots/pilot_052_cerastes_cerastes/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/51436617",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_188084051",
+      "species_label": "Cerastes cerastes",
+      "observation_id": 111417033,
+      "manifest": "data/image_pilots/pilot_052_cerastes_cerastes/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/188084051",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_72036429",
+      "species_label": "Cerrophidion godmani",
+      "observation_id": 45430146,
+      "manifest": "data/image_pilots/pilot_054_cerrophidion_godmani/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/72036429",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_123762495",
+      "species_label": "Cerrophidion godmani",
+      "observation_id": 75631518,
+      "manifest": "data/image_pilots/pilot_054_cerrophidion_godmani/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/123762495",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_151315901",
+      "species_label": "Cerrophidion godmani",
+      "observation_id": 91473424,
+      "manifest": "data/image_pilots/pilot_054_cerrophidion_godmani/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/151315901",
+      "screen_status": "condition_review",
+      "screen_method": "contact_sheet",
+      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+    },
+    {
+      "image_id": "inat_375402124",
+      "species_label": "Deinagkistrodon acutus",
+      "observation_id": 212428649,
+      "manifest": "data/image_pilots/pilot_071_deinagkistrodon_acutus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/375402124",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_532701553",
+      "species_label": "Deinagkistrodon acutus",
+      "observation_id": 295880436,
+      "manifest": "data/image_pilots/pilot_071_deinagkistrodon_acutus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/532701553",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_389554400",
+      "species_label": "Deinagkistrodon acutus",
+      "observation_id": 220053890,
+      "manifest": "data/image_pilots/pilot_071_deinagkistrodon_acutus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/389554400",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_46026481",
+      "species_label": "Echis carinatus",
+      "observation_id": 29500894,
+      "manifest": "data/image_pilots/pilot_073_echis_carinatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/46026481",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_52145389",
+      "species_label": "Echis carinatus",
+      "observation_id": 33213250,
+      "manifest": "data/image_pilots/pilot_073_echis_carinatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/52145389",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_56021809",
+      "species_label": "Echis carinatus",
+      "observation_id": 35522616,
+      "manifest": "data/image_pilots/pilot_073_echis_carinatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/56021809",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_116175200",
+      "species_label": "Gloydius brevicaudus",
+      "observation_id": 71362051,
+      "manifest": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/116175200",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_323005809",
+      "species_label": "Gloydius brevicaudus",
+      "observation_id": 184992041,
+      "manifest": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/323005809",
+      "screen_status": "condition_review",
+      "screen_method": "contact_sheet",
+      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+    },
+    {
+      "image_id": "inat_4376954",
+      "species_label": "Gloydius brevicaudus",
+      "observation_id": 3758467,
+      "manifest": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/4376954",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_103019572",
+      "species_label": "Hydrophis platurus",
+      "observation_id": 64112603,
+      "manifest": "data/image_pilots/pilot_078_hydrophis_platurus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/103019572",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_110411645",
+      "species_label": "Hydrophis platurus",
+      "observation_id": 68167188,
+      "manifest": "data/image_pilots/pilot_078_hydrophis_platurus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/110411645",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_28448950",
+      "species_label": "Hydrophis platurus",
+      "observation_id": 18590529,
+      "manifest": "data/image_pilots/pilot_078_hydrophis_platurus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/28448950",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_30693206",
+      "species_label": "Hypnale hypnale",
+      "observation_id": 19901148,
+      "manifest": "data/image_pilots/pilot_080_hypnale_hypnale/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/30693206",
+      "screen_status": "condition_review",
+      "screen_method": "contact_sheet",
+      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+    },
+    {
+      "image_id": "inat_78545071",
+      "species_label": "Hypnale hypnale",
+      "observation_id": 49479336,
+      "manifest": "data/image_pilots/pilot_080_hypnale_hypnale/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/78545071",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_87674079",
+      "species_label": "Hypnale hypnale",
+      "observation_id": 55077000,
+      "manifest": "data/image_pilots/pilot_080_hypnale_hypnale/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/87674079",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_245512651",
+      "species_label": "Lachesis muta",
+      "observation_id": 143170482,
+      "manifest": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/245512651",
+      "screen_status": "rejected_severe_damage",
+      "screen_method": "full_image",
+      "note": "Individually inspected the full image: severe visible damage or remains. Excluded under the healthy-snake policy."
+    },
+    {
+      "image_id": "inat_2975401",
+      "species_label": "Lachesis muta",
+      "observation_id": 2649252,
+      "manifest": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/2975401",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_314932719",
+      "species_label": "Lachesis muta",
+      "observation_id": 180763395,
+      "manifest": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/314932719",
+      "screen_status": "rejected_severe_damage",
+      "screen_method": "full_image",
+      "note": "Individually inspected the full image: severe visible damage or remains. Excluded under the healthy-snake policy."
+    },
+    {
+      "image_id": "inat_2212018",
+      "species_label": "Micrurus alleni",
+      "observation_id": 1823480,
+      "manifest": "data/image_pilots/pilot_089_micrurus_alleni/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/2212018",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_114218615",
+      "species_label": "Micrurus alleni",
+      "observation_id": 70281876,
+      "manifest": "data/image_pilots/pilot_089_micrurus_alleni/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/114218615",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_114218633",
+      "species_label": "Micrurus alleni",
+      "observation_id": 70281877,
+      "manifest": "data/image_pilots/pilot_089_micrurus_alleni/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/114218633",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_27526369",
+      "species_label": "Notechis scutatus",
+      "observation_id": 18006013,
+      "manifest": "data/image_pilots/pilot_116_notechis_scutatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/27526369",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_27742557",
+      "species_label": "Notechis scutatus",
+      "observation_id": 18149326,
+      "manifest": "data/image_pilots/pilot_116_notechis_scutatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/27742557",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_28247525",
+      "species_label": "Notechis scutatus",
+      "observation_id": 18473347,
+      "manifest": "data/image_pilots/pilot_116_notechis_scutatus/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/28247525",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_217886022",
+      "species_label": "Ovophis monticola",
+      "observation_id": 128282646,
+      "manifest": "data/image_pilots/pilot_120_ovophis_monticola/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/217886022",
+      "screen_status": "condition_review",
+      "screen_method": "contact_sheet",
+      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+    },
+    {
+      "image_id": "inat_424901007",
+      "species_label": "Ovophis monticola",
+      "observation_id": 238648196,
+      "manifest": "data/image_pilots/pilot_120_ovophis_monticola/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/424901007",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_178428018",
+      "species_label": "Ovophis monticola",
+      "observation_id": 106235336,
+      "manifest": "data/image_pilots/pilot_120_ovophis_monticola/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/178428018",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_233127608",
+      "species_label": "Porthidium lansbergii",
+      "observation_id": 136583478,
+      "manifest": "data/image_pilots/pilot_123_porthidium_lansbergii/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/233127608",
+      "screen_status": "limited_or_obscured_view",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail suggests substantial occlusion, handling, or limited subject visibility; assess usefulness for each proposed trait."
+    },
+    {
+      "image_id": "inat_169915379",
+      "species_label": "Porthidium lansbergii",
+      "observation_id": 101726544,
+      "manifest": "data/image_pilots/pilot_123_porthidium_lansbergii/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/169915379",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    },
+    {
+      "image_id": "inat_170020641",
+      "species_label": "Porthidium lansbergii",
+      "observation_id": 101783110,
+      "manifest": "data/image_pilots/pilot_123_porthidium_lansbergii/manifest.json",
+      "photo_page": "https://www.inaturalist.org/photos/170020641",
+      "screen_status": "further_review_needed",
+      "screen_method": "contact_sheet",
+      "note": "Thumbnail screened; identity, condition and trait-specific suitability remain unverified."
+    }
+  ]
+}

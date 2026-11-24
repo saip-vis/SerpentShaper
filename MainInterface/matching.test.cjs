@@ -46,13 +46,13 @@ class NodeMock {
   append(...nodes){this.children.push(...nodes);} replaceChildren(...nodes){this.children=nodes;} setAttribute(k,v){this.attrs[k]=String(v);} removeAttribute(k){delete this.attrs[k];}
   addEventListener(k,fn){this.events[k]=fn;} fire(k){this.events[k]({target:this});}
 }
-const ids=['primary-controls','advanced-controls','source-profile','dataset-link','reset','dorsal','ventral','unknown-help','unknown-info','source-note','retained-section','retained-count','retained-list','total','progress-bar','balance-text','matches','empty-drawing','snake-drawing','snake-name','scientific-name','selection-note','anatomy-link','download-svg'];
+const ids=['primary-controls','advanced-controls','source-profile','dataset-link','reset','dorsal','ventral','unknown-help','unknown-info','source-note','retained-section','retained-count','retained-list','total','progress-bar','balance-text','matches','empty-drawing','snake-drawing','snake-name','scientific-name','selection-note','anatomy-link','download-svg','render-mode','mode-note','reference-intro','comparison-note'];
 const dom=Object.fromEntries(ids.map(id=>[id,new NodeMock()]));dom['progress-bar'].parentElement=new NodeMock();
 const created=[];const fakeDocument={getElementById:id=>dom[id],createElement:tag=>{const x=new NodeMock(tag);created.push(x);return x;},createTextNode:text=>({textContent:text})};
 const styleContext={window:{}};vm.runInNewContext(fs.readFileSync(__dirname+'/visual-style-model.js','utf8'),styleContext);
 vm.runInNewContext(fs.readFileSync(__dirname+'/photo-cues.js','utf8'),styleContext);
 let lastRenderOptions=null,lastRenderedPreset=null;
-const context={window:{SERPENT_VENOM_DATA:sandbox.window.SERPENT_VENOM_DATA,SERPENT_PRESETS:presetContext.window.SERPENT_PRESETS,SERPENT_STYLE_MODEL:styleContext.window.SERPENT_STYLE_MODEL,SERPENT_PHOTO_CUES:styleContext.window.SERPENT_PHOTO_CUES},document:fakeDocument,SerpentMatching:require('./matching.js'),SerpentStyle:require('./style-inference.js'),SpeciesRenderer:{render:(p,o)=>{lastRenderOptions=o;lastRenderedPreset=p;return {svg:`<svg data-skin="${o.skinColor||''}" data-mark="${o.ringColor||''}"></svg>`};}},console,Number,Map,Set,URLSearchParams};
+const context={window:{SERPENT_VENOM_DATA:sandbox.window.SERPENT_VENOM_DATA,SERPENT_PRESETS:presetContext.window.SERPENT_PRESETS,SERPENT_STYLE_MODEL:styleContext.window.SERPENT_STYLE_MODEL,SERPENT_PHOTO_CUES:styleContext.window.SERPENT_PHOTO_CUES},document:fakeDocument,SerpentMatching:require('./matching.js'),SerpentStyle:require('./style-inference.js'),SharedMorphology:require('../SharedRendererTest/shared-morphology.js'),SharedConcept:require('./shared-concept.js'),SpeciesRenderer:{render:(p,o)=>{lastRenderOptions=o;lastRenderedPreset=p;return {svg:`<svg data-skin="${o.skinColor||''}" data-mark="${o.ringColor||''}"></svg>`};}},console,Number,Map,Set,URLSearchParams};
 vm.runInNewContext(fs.readFileSync(__dirname+'/app.js','utf8'),context);
 assert.equal(dom['source-profile'].value,'');assert.equal(dom['snake-name'].textContent,'Your snake concept');
 assert.equal(dom['empty-drawing'].hidden,false,'the page must not silently start with a cobra');
@@ -113,6 +113,30 @@ assert.equal(JSON.stringify(lastRenderOptions.conceptMetadata.referenceStyleMix)
 assert.equal(dom['snake-drawing'].innerHTML,absentSvg,'slider interaction restores the earlier visible style');
 setInput('pla2','0');
 assert.equal(dom['empty-drawing'].hidden,false,'zero values do not satisfy the minimum number of active inputs');
+// Opt-in shared mode compares only the supported species, produces its own
+// metadata, and supports separate illustrative surfaces without changing input.
+dom['source-profile'].value=diamond.profile_id;dom['source-profile'].fire('change');
+dom['render-mode'].value='shared';dom['render-mode'].fire('change');
+assert.equal(dom['mode-note'].hidden,false);
+assert.match(dom['snake-drawing'].innerHTML,/shared_control_illustration/);
+assert.match(dom['snake-drawing'].innerHTML,/three_reference_illustrative_pilot/);
+assert.match(dom['reference-intro'].textContent,/only its three reference species/);
+assert.equal(dom['download-svg'].disabled,false);
+const sharedDorsal=dom['snake-drawing'].innerHTML;dom.ventral.fire('click');
+assert.match(dom['snake-drawing'].innerHTML,/ventral-plates/);
+assert.notEqual(dom['snake-drawing'].innerHTML,sharedDorsal);dom.dorsal.fire('click');
+assert.equal(dom['snake-drawing'].innerHTML,sharedDorsal);
+const sharedVisible=s=>s.replace(/<metadata>.*?<\/metadata>/,'');
+const sharedProfileSvg=sharedVisible(dom['snake-drawing'].innerHTML);
+dom.reset.fire('click');
+for(const control of controls){const component=diamond.components.find(c=>c.toxin_id===control.source_toxin_ids[0]);if(component.value!==null)setInput(control.id,String(component.value));}
+assert.equal(sharedVisible(dom['snake-drawing'].innerHTML),sharedProfileSvg,'the same venom values must produce the same pilot concept regardless of starting profile');
+dom.reset.fire('click');setInput('pla2','7.3');setInput('svmp','49.7');setInput('crisp','4.3');
+const originalShared=sharedVisible(dom['snake-drawing'].innerHTML);
+setInput('svsp','19.8');assert.notEqual(sharedVisible(dom['snake-drawing'].innerHTML),originalShared);
+setInput('svsp','0');assert.equal(sharedVisible(dom['snake-drawing'].innerHTML),originalShared,'turning a component back off restores the shared drawing');
+dom['render-mode'].value='reference';dom['render-mode'].fire('change');
+assert.equal(dom['mode-note'].hidden,true);
 // Real-data transition between two illustrative input mixtures. Explicit zero
 // crosses into the inactive state, so use a small positive starting value for
 // this fixed-active-set continuity check. Values are illustrative inputs.

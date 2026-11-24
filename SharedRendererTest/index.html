@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SerpentShaper · Shared shape lab</title>
+<link rel="stylesheet" href="../MainInterface/style.css"><link rel="stylesheet" href="lab.css">
+</head>
+<body>
+<header class="topbar"><a class="brand" href="../MainInterface/index.html"><span class="brand-icon" aria-hidden="true">S</span><span>serpent<span>shaper</span></span></a><div class="top-meta"><span class="prototype-pill">Shape lab · prototype</span></div></header>
+<main class="page lab-page">
+<div class="intro"><div><div class="eyebrow"><span class="eyebrow-line"></span> SHARED MORPHOLOGY</div><h1>Explore the in-between.</h1><p>Blend a few reference-inspired designs using the same shape controls.</p></div><a class="about-link" href="../MainInterface/index.html">← Back to venom explorer</a></div>
+<div class="lab-layout">
+<section class="panel lab-controls"><div class="section-kicker">01 / REFERENCES</div><h2>Mix visual influences</h2><p class="muted intro-copy">Adjust their relative influence; the percentages are normalized across the three references.</p><div id="reference-controls" class="lab-list"></div><p id="mix-status" class="field-note"></p><div class="divider"></div><div class="section-kicker">02 / SHARED CONTROLS</div><div class="lab-heading"><h2>Refine the shape</h2><button id="reset-traits" class="text-button" type="button">Reset to blend</button></div><p class="muted intro-copy">Adjust individual traits. Changing the reference mix resets these refinements.</p><div id="trait-controls" class="lab-list"></div></section>
+<section class="panel visual-panel"><div class="visual-header"><div><div class="section-kicker">03 / SHAPE STUDY</div><h2>One shape, many possibilities</h2></div><span class="reference-tag"><span></span> EXPERIMENTAL</span></div><div class="lab-stage" id="stage"><div class="stage-grid" aria-hidden="true"></div><div id="drawing" class="lab-drawing" aria-live="polite"></div><p id="empty" class="empty-drawing" hidden>Choose at least one visual influence to start.</p></div><div class="visual-footer"><span id="source-note">Reference-inspired controls</span><button id="download" class="text-button" type="button">Download SVG</button></div><div class="disclaimer"><span class="disclaimer-icon">i</span><p><strong>Early shape prototype.</strong> This is a simplified top-down illustration, not a species identification or an accurate anatomical reconstruction. The three control profiles are hand-authored design examples, not measurements. Venom sliders and ML are not connected to this lab yet.</p></div><div class="lab-explain"><h3>What changes here?</h3><p>Body and head proportions, hood width, markings, and the tail use the same controls for every reference. Their values move continuously as you change the blend.</p><p>Reference photography can inform future refinements. The photos and venom samples in this project are not known to be from the same animals.</p></div></section>
+</div></main>
+<script src="shared-morphology.js"></script><script src="lab.js"></script>
+</body></html>

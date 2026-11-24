@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "status": "awaiting_image_trait_annotations",
+  "note": "Only add image-supported, individually reviewed numeric traits. Do not convert existing provisional or excluded labels into training examples. Null or absent traits remain unobserved.",
+  "annotations": []
+}

@@ -1,0 +1,118 @@
+{
+  "status": "insufficient_approved_image_traits",
+  "minimum_species_per_target": 4,
+  "minimum_genera_per_target": 3,
+  "threshold_note": "Minimums only permit a small grouped experiment; they do not establish scientific validity or production readiness.",
+  "data_counts": {
+    "image_records": 1213,
+    "not_eligible_under_source_gate": 1186,
+    "accepted_not_excluded": 27,
+    "annotation_records": 0,
+    "approved_joined_images": 0,
+    "joined_source_species": 0,
+    "joined_profile_image_rows": 0,
+    "accepted_photo_candidates_without_known_review_blocks": 12
+  },
+  "targets": {
+    "headWidth": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "headLength": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "bodyWidth": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "hood": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "diamond": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "monocle": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "rattle": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "tailTaper": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "skin_r": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "skin_g": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "skin_b": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "marking_r": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "marking_g": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "marking_b": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "highlight_r": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "highlight_g": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "highlight_b": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "belly_r": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "belly_g": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    },
+    "belly_b": {
+      "species_count": 0,
+      "genus_count": 0,
+      "enough_for_workflow": false
+    }
+  }
+}

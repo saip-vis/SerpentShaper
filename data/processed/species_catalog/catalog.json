@@ -23,7 +23,7 @@
     },
     {
       "path": "data/image_pilots/pilot_005_puff_adder/manifest.json",
-      "sha256": "456469867ad43a39ac63a1535e4de9034503d91b421bc1992e145feb9feb3ccd"
+      "sha256": "af5ee1d97713a0280d7af3e6dc5fbd8e92b854e4fc3c49f0c06b3f326c03112f"
     },
     {
       "path": "data/image_pilots/pilot_006_jararaca/manifest.json",
@@ -59,7 +59,7 @@
     },
     {
       "path": "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json",
-      "sha256": "a9037d55d2579e7f9e3c97676f91f8ce08d6b9a8bd4e6f6efa79c08808c0b7ab"
+      "sha256": "4237bc67418f92a1f378f6ec7d2111354be30222270468ae9b40af8df01c5c85"
     },
     {
       "path": "data/image_pilots/pilot_015_aspidelaps_scutatus/manifest.json",
@@ -203,7 +203,7 @@
     },
     {
       "path": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
-      "sha256": "86497ed277a554f64c5d47362cb0de2bccd9b4b62819a135d778679b542b8382"
+      "sha256": "2afac7c8331f59ef1751752d627e3784e310b307e8fe7634af84648bbe07695f"
     },
     {
       "path": "data/image_pilots/pilot_051_bungarus_sindanus/manifest.json",
@@ -255,7 +255,7 @@
     },
     {
       "path": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
-      "sha256": "f530e6c08d0203db97d765e2edf6ae0003db94ded8c272e9a205fe5af096e27b"
+      "sha256": "d7da951a5cd796386bf9921a4b44f52f70622da00836c1922ec38717d57e3045"
     },
     {
       "path": "data/image_pilots/pilot_064_crotalus_simus/manifest.json",
@@ -279,7 +279,7 @@
     },
     {
       "path": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
-      "sha256": "ef511b52089c2576056e692b4867af196972a20e959bb37ffdc5ad3888a8c929"
+      "sha256": "c96856a7ce270370d3e1b5deadc18be5f5f8aa717d16823f071a84e007b5abb7"
     },
     {
       "path": "data/image_pilots/pilot_070_daboia_siamensis/manifest.json",
@@ -335,7 +335,7 @@
     },
     {
       "path": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
-      "sha256": "ed902c38105d81ac4cdaa8b2dc2e4e99421d01b7da3bbf5081695151ac122238"
+      "sha256": "7ce02359bacf97ccd6ac81c1db07f6d17851c7f5a730afa346ff22273de4be4b"
     },
     {
       "path": "data/image_pilots/pilot_084_lachesis_stenophrys/manifest.json",
@@ -435,7 +435,7 @@
     },
     {
       "path": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
-      "sha256": "2c02f3f68451c73706fa13e146ef5e768081d78bf9382d245235d1f7b32f21b4"
+      "sha256": "2d287f632fbfa857b834f78bfe0eb2859430eec7dd53e0d76c313fc2007ad549"
     },
     {
       "path": "data/image_pilots/pilot_109_naja_katiensis/manifest.json",
@@ -2953,7 +2953,7 @@
           "original_width": 2048,
           "original_height": 1369,
           "retrieved_at": "2026-11-20T08:41:40.720040+00:00",
-          "review_status": "unreviewed",
+          "review_status": "accepted",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -2964,13 +2964,20 @@
           "byte_count": 2243993,
           "content_type": "image/jpeg",
           "collection_batch": "pilot_014_aspidelaps_lubricus",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
+          "rendering_exclusion_reason": null,
           "review_id": "Aspidelaps_lubricus03",
+          "body_condition": "no_obvious_injury_on_visible_portions",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "accepted",
+            "reason": "Full photograph inspected; no obvious injury or deformation in visible portions. Useful visible body scales; occluded portions and other traits are not assessed. Species identity remains provider-assigned, not independently verified."
+          },
           "manifest_path": "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_117449088",
@@ -3269,9 +3276,10 @@
         "ready_proteomic_profiles": 2,
         "image_records": 10,
         "available_images": 10,
-        "rendering_eligible_images": 0,
+        "rendering_eligible_images": 1,
         "review_statuses": {
-          "unreviewed": 10
+          "unreviewed": 9,
+          "accepted": 1
         }
       },
       "link_status": "venom_and_images",
@@ -4059,7 +4067,7 @@
           "original_width": 2048,
           "original_height": 1436,
           "retrieved_at": "2026-11-20T08:09:51.675877+00:00",
-          "review_status": "unreviewed",
+          "review_status": "accepted",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -4079,15 +4087,17 @@
           },
           "suitability_screening": {
             "reviewer": "assistant",
-            "reviewed_on": "2026-11-20",
-            "category": "candidate",
-            "reason": "Dorsal body and head reference",
-            "identity_status": "provider_label_not_independently_confirmed"
+            "reviewed_on": "2026-11-24",
+            "category": "accepted",
+            "reason": "Full photograph inspected; no obvious injury or deformation in visible portions. Useful visible body scales; occluded portions and other traits are not assessed. Species identity remains provider-assigned, not independently verified."
           },
+          "rendering_training_excluded": false,
+          "rendering_exclusion_reason": null,
+          "body_condition": "no_obvious_injury_on_visible_portions",
           "manifest_path": "data/image_pilots/pilot_005_puff_adder/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_1250456",
@@ -4526,10 +4536,11 @@
         "ready_proteomic_profiles": 2,
         "image_records": 10,
         "available_images": 10,
-        "rendering_eligible_images": 0,
+        "rendering_eligible_images": 1,
         "review_statuses": {
           "rejected": 4,
-          "unreviewed": 6
+          "accepted": 1,
+          "unreviewed": 5
         }
       },
       "link_status": "venom_and_images",
@@ -16396,7 +16407,7 @@
           "original_width": 2048,
           "original_height": 1536,
           "retrieved_at": "2026-11-20T08:50:33.506244+00:00",
-          "review_status": "unreviewed",
+          "review_status": "accepted",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -16407,13 +16418,20 @@
           "byte_count": 1664410,
           "content_type": "image/jpeg",
           "collection_batch": "pilot_050_bungarus_multicinctus",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
+          "rendering_exclusion_reason": null,
           "review_id": "Bungarus_multicinctus03",
+          "body_condition": "no_obvious_injury_on_visible_portions",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "accepted",
+            "reason": "Full photograph inspected; no obvious injury or deformation in visible portions. Useful visible body scales; occluded portions and other traits are not assessed. Species identity remains provider-assigned, not independently verified."
+          },
           "manifest_path": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_26493659",
@@ -16712,9 +16730,10 @@
         "ready_proteomic_profiles": 3,
         "image_records": 10,
         "available_images": 10,
-        "rendering_eligible_images": 0,
+        "rendering_eligible_images": 1,
         "review_statuses": {
-          "unreviewed": 10
+          "unreviewed": 9,
+          "accepted": 1
         }
       },
       "link_status": "venom_and_images",
@@ -22431,7 +22450,7 @@
           "original_width": 2019,
           "original_height": 2019,
           "retrieved_at": "2026-11-20T08:54:30.874792+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -22443,8 +22462,15 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_063_crotalus_scutulatus",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Crotalus_scutulatus01",
+          "body_condition": "severely_damaged",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "rejected",
+            "reason": "Full image visually inspected; severe body damage or remains are visible. Excluded under the healthy-snake training policy; original file preserved."
+          },
           "manifest_path": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -22829,7 +22855,8 @@
         "available_images": 10,
         "rendering_eligible_images": 0,
         "review_statuses": {
-          "unreviewed": 10
+          "rejected": 1,
+          "unreviewed": 9
         }
       },
       "link_status": "venom_and_images",
@@ -25153,7 +25180,7 @@
           "original_width": 2048,
           "original_height": 1536,
           "retrieved_at": "2026-11-20T08:56:35.429422+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -25165,8 +25192,15 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_069_daboia_russelii",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Daboia_russelii01",
+          "body_condition": "severely_damaged",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "rejected",
+            "reason": "Full image visually inspected; severe body damage or remains are visible. Excluded under the healthy-snake training policy; original file preserved."
+          },
           "manifest_path": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -25273,7 +25307,7 @@
           "original_width": 2048,
           "original_height": 1738,
           "retrieved_at": "2026-11-20T08:56:35.429422+00:00",
-          "review_status": "unreviewed",
+          "review_status": "accepted",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -25284,13 +25318,20 @@
           "byte_count": 2783125,
           "content_type": "image/jpeg",
           "collection_batch": "pilot_069_daboia_russelii",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
+          "rendering_exclusion_reason": null,
           "review_id": "Daboia_russelii04",
+          "body_condition": "no_obvious_injury_on_visible_portions",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "accepted",
+            "reason": "Full photograph inspected; no obvious injury or deformation in visible portions. Useful visible body scales; occluded portions and other traits are not assessed. Species identity remains provider-assigned, not independently verified."
+          },
           "manifest_path": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_53030899",
@@ -25549,9 +25590,11 @@
         "ready_proteomic_profiles": 13,
         "image_records": 10,
         "available_images": 10,
-        "rendering_eligible_images": 0,
+        "rendering_eligible_images": 1,
         "review_statuses": {
-          "unreviewed": 10
+          "rejected": 1,
+          "unreviewed": 8,
+          "accepted": 1
         }
       },
       "link_status": "venom_and_images",
@@ -33071,7 +33114,7 @@
           "original_width": 2048,
           "original_height": 1536,
           "retrieved_at": "2026-11-20T09:00:54.834761+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -33083,8 +33126,15 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_083_lachesis_muta",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Lachesis_muta04",
+          "body_condition": "severely_damaged",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "rejected",
+            "reason": "Full image visually inspected; severe body damage or remains are visible. Excluded under the healthy-snake training policy; original file preserved."
+          },
           "manifest_path": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -33151,7 +33201,7 @@
           "original_width": 1536,
           "original_height": 2048,
           "retrieved_at": "2026-11-20T09:00:54.834761+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -33163,8 +33213,15 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_083_lachesis_muta",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Lachesis_muta06",
+          "body_condition": "severely_damaged",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "rejected",
+            "reason": "Full image visually inspected; severe body damage or remains are visible. Excluded under the healthy-snake training policy; original file preserved."
+          },
           "manifest_path": "data/image_pilots/pilot_083_lachesis_muta/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -33349,7 +33406,8 @@
         "available_images": 10,
         "rendering_eligible_images": 0,
         "review_statuses": {
-          "unreviewed": 10
+          "unreviewed": 8,
+          "rejected": 2
         }
       },
       "link_status": "venom_and_images",
@@ -41461,7 +41519,7 @@
           "original_width": 2048,
           "original_height": 1536,
           "retrieved_at": "2026-11-20T09:07:33.562227+00:00",
-          "review_status": "unreviewed",
+          "review_status": "accepted",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -41472,13 +41530,20 @@
           "byte_count": 1584695,
           "content_type": "image/jpeg",
           "collection_batch": "pilot_108_naja_kaouthia",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
+          "rendering_exclusion_reason": null,
           "review_id": "Naja_kaouthia06",
+          "body_condition": "no_obvious_injury_on_visible_portions",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "accepted",
+            "reason": "Full photograph inspected; no obvious injury or deformation in visible portions. Useful visible body scales; occluded portions and other traits are not assessed. Species identity remains provider-assigned, not independently verified."
+          },
           "manifest_path": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_175095743",
@@ -41657,9 +41722,10 @@
         "ready_proteomic_profiles": 6,
         "image_records": 10,
         "available_images": 10,
-        "rendering_eligible_images": 0,
+        "rendering_eligible_images": 1,
         "review_statuses": {
-          "unreviewed": 10
+          "unreviewed": 9,
+          "accepted": 1
         }
       },
       "link_status": "venom_and_images",
@@ -100750,7 +100816,7 @@
     "image_records": 1213,
     "available_images": 1213,
     "distinct_image_hashes": 1203,
-    "rendering_eligible_images": 22,
+    "rendering_eligible_images": 27,
     "unresolved_image_links": 0,
     "species_without_images": [
       "Ahaetulla prasina",

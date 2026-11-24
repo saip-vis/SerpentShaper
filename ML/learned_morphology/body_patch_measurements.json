@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "status": "exploratory_photo_measurements_not_full_morphology_labels",
+  "method": "Median per sRGB channel from manually selected visible body crop; no color calibration or segmentation.",
+  "limitations": [
+    "Lighting, camera processing, markings and occlusion affect pixel colors.",
+    "Color of a small patch is not necessarily the species or whole-animal color.",
+    "Species-level photo and venom associations are not paired individuals.",
+    "No image, specimen, or annotation approval is changed by this script."
+  ],
+  "sample_definition_sha256": "e8aea86963ecd5a9021b98f8f916ba1128a0cdbbdddbccd5807e4872b0be0af4",
+  "records": [
+    {
+      "image_id": "inat_244026573",
+      "species_label": "Oxyuranus scutellatus",
+      "observation_id": 142349091,
+      "photo_page": "https://www.inaturalist.org/photos/244026573",
+      "photo_sha256": "c754a0c6985954298edd83debc52b454d1d3c49f1dd1dcc4bd3c540419dbb677",
+      "manifest": "data/image_pilots/pilot_002_coastal_taipan/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Tom Field, some rights reserved (CC BY)",
+      "bbox": [
+        0.28,
+        0.472,
+        0.42,
+        0.49
+      ],
+      "pixel_count": 7175,
+      "median_rgb": [
+        0.20784313725490197,
+        0.1450980392156863,
+        0.07450980392156863
+      ],
+      "note": "Flash/night image; partial body. Color is sensitive to lighting."
+    },
+    {
+      "image_id": "inat_2699122",
+      "species_label": "Dendroaspis polylepis",
+      "observation_id": 2423901,
+      "photo_page": "https://www.inaturalist.org/photos/2699122",
+      "photo_sha256": "ccd53467a1f25b17b2576c391831eca4bd0d82b95ab048e9fca8b1087029a051",
+      "manifest": "data/image_pilots/pilot_003_black_mamba/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
+      "bbox": [
+        0.56,
+        0.5,
+        0.62,
+        0.52
+      ],
+      "pixel_count": 480,
+      "median_rgb": [
+        0.403921568627451,
+        0.36470588235294116,
+        0.3254901960784314
+      ],
+      "note": "Exposed body section near handling equipment; partial view."
+    },
+    {
+      "image_id": "inat_873868",
+      "species_label": "Crotalus atrox",
+      "observation_id": 696263,
+      "photo_page": "https://www.inaturalist.org/photos/873868",
+      "photo_sha256": "ee07ab2f921d61c69bee5dbbfc52a94ad2f3c32eba9c5951fb4ccce4d10c23bb",
+      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Tom Devitt, some rights reserved (CC BY)",
+      "bbox": [
+        0.405,
+        0.55,
+        0.62,
+        0.64
+      ],
+      "pixel_count": 60858,
+      "median_rgb": [
+        0.49019607843137253,
+        0.4470588235294118,
+        0.4549019607843137
+      ],
+      "note": "Coiled dorsal body; region includes light and dark patterned scales."
+    },
+    {
+      "image_id": "inat_1767459",
+      "species_label": "Crotalus atrox",
+      "observation_id": 1428159,
+      "photo_page": "https://www.inaturalist.org/photos/1767459",
+      "photo_sha256": "ba4001a14f7c6b79d2974841d9cb54e3022b073a43c08e3e66a66d93c6b39a7e",
+      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
+      "bbox": [
+        0.4,
+        0.38,
+        0.53,
+        0.44
+      ],
+      "pixel_count": 14976,
+      "median_rgb": [
+        0.4,
+        0.396078431372549,
+        0.4117647058823529
+      ],
+      "note": "Coiled dorsal body; region includes light and dark scales."
+    },
+    {
+      "image_id": "inat_1904884",
+      "species_label": "Crotalus atrox",
+      "observation_id": 1537698,
+      "photo_page": "https://www.inaturalist.org/photos/1904884",
+      "photo_sha256": "c1eb3bf1e62065d20e18986793a61741027c779a284040f227484772dccaeb5e",
+      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Mike Lewinski, some rights reserved (CC BY)",
+      "bbox": [
+        0.47,
+        0.52,
+        0.6,
+        0.6
+      ],
+      "pixel_count": 26866,
+      "median_rgb": [
+        0.43529411764705883,
+        0.3215686274509804,
+        0.26666666666666666
+      ],
+      "note": "Coiled dorsal body; region includes markings."
+    },
+    {
+      "image_id": "inat_136221239",
+      "species_label": "Naja kaouthia",
+      "observation_id": 82239605,
+      "photo_page": "https://www.inaturalist.org/photos/136221239",
+      "photo_sha256": "faea0d8d90d10738cb4a7a439fbdc64d28ee00df0b36f7c3ec16cfaca785f8b0",
+      "manifest": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Utain Pummarin, some rights reserved (CC BY)",
+      "bbox": [
+        0.3,
+        0.43,
+        0.36,
+        0.45
+      ],
+      "pixel_count": 3813,
+      "median_rgb": [
+        0.34901960784313724,
+        0.2980392156862745,
+        0.3058823529411765
+      ],
+      "note": "Visible dark dorsal body scales; sunlight and sheen influence this small patch."
+    },
+    {
+      "image_id": "inat_32528083",
+      "species_label": "Daboia russelii",
+      "observation_id": 21054217,
+      "photo_page": "https://www.inaturalist.org/photos/32528083",
+      "photo_sha256": "b4fad6c6f0139ecb54c2add1493cfeb9699d43b39fea85c8faabf2e93b3dffc6",
+      "manifest": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Harshjeet Singh Bal, some rights reserved (CC BY)",
+      "bbox": [
+        0.62,
+        0.66,
+        0.66,
+        0.69
+      ],
+      "pixel_count": 4264,
+      "median_rgb": [
+        0.807843137254902,
+        0.7137254901960784,
+        0.6666666666666666
+      ],
+      "note": "Visible pale patterned body scales; small region does not represent the full pattern."
+    },
+    {
+      "image_id": "inat_643481",
+      "species_label": "Bitis arietans",
+      "observation_id": 505270,
+      "photo_page": "https://www.inaturalist.org/photos/643481",
+      "photo_sha256": "a722f728379498ad4d2d77903fd2542ad2eecf857725bcbcecd66f387d1b550f",
+      "manifest": "data/image_pilots/pilot_005_puff_adder/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) i_c_riddell, some rights reserved (CC BY)",
+      "bbox": [
+        0.73,
+        0.35,
+        0.76,
+        0.38
+      ],
+      "pixel_count": 2623,
+      "median_rgb": [
+        0.45098039215686275,
+        0.33725490196078434,
+        0.1568627450980392
+      ],
+      "note": "Visible patterned dorsal body scales in strong light; not a whole-animal color."
+    },
+    {
+      "image_id": "inat_23736963",
+      "species_label": "Bungarus multicinctus",
+      "observation_id": 15874123,
+      "photo_page": "https://www.inaturalist.org/photos/23736963",
+      "photo_sha256": "643212438e1185af843417de26f8d3c000952e4d8575bfe23cdca92d7a27acd5",
+      "manifest": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Chen Jia Hong, some rights reserved (CC BY)",
+      "bbox": [
+        0.31,
+        0.7,
+        0.34,
+        0.72
+      ],
+      "pixel_count": 1891,
+      "median_rgb": [
+        0.3607843137254902,
+        0.34901960784313724,
+        0.4627450980392157
+      ],
+      "note": "Visible body band including dark and pale scales; low-light color and highlights affect measurement."
+    },
+    {
+      "image_id": "inat_102607075",
+      "species_label": "Aspidelaps lubricus",
+      "observation_id": 63887617,
+      "photo_page": "https://www.inaturalist.org/photos/102607075",
+      "photo_sha256": "adb3442bbe005a68196570097449f5463045e2110060b8cfb0fc884f09de1e6d",
+      "manifest": "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json",
+      "photo_license": "cc-by",
+      "license_version": null,
+      "attribution": "(c) Ryan van Huyssteen, some rights reserved (CC BY)",
+      "bbox": [
+        0.68,
+        0.8,
+        0.71,
+        0.83
+      ],
+      "pixel_count": 2501,
+      "median_rgb": [
+        0.5843137254901961,
+        0.3764705882352941,
+        0.396078431372549
+      ],
+      "note": "Visible orange body scales under flash; pattern, glare and lighting affect color."
+    }
+  ]
+}

@@ -92,7 +92,7 @@
     "original_width": 2048,
     "original_height": 1369,
     "retrieved_at": "2026-11-20T08:41:40.720040+00:00",
-    "review_status": "unreviewed",
+    "review_status": "accepted",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -103,9 +103,16 @@
     "byte_count": 2243993,
     "content_type": "image/jpeg",
     "collection_batch": "pilot_014_aspidelaps_lubricus",
-    "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
-    "review_id": "Aspidelaps_lubricus03"
+    "rendering_training_excluded": false,
+    "rendering_exclusion_reason": null,
+    "review_id": "Aspidelaps_lubricus03",
+    "body_condition": "no_obvious_injury_on_visible_portions",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-24",
+      "category": "accepted",
+      "reason": "Full photograph inspected; no obvious injury or deformation in visible portions. Useful visible body scales; occluded portions and other traits are not assessed. Species identity remains provider-assigned, not independently verified."
+    }
   },
   {
     "image_id": "inat_117449088",
@@ -160,7 +167,7 @@
     "photo_license": "cc-by",
     "license_reference": "https://www.inaturalist.org/pages/terms",
     "license_version": null,
-    "attribution": "(c) Linda L\u00f6tj\u00f6nen, some rights reserved (CC BY)",
+    "attribution": "(c) Linda Lötjönen, some rights reserved (CC BY)",
     "original_width": 988,
     "original_height": 791,
     "retrieved_at": "2026-11-20T08:41:40.720040+00:00",
@@ -196,7 +203,7 @@
     "photo_license": "cc-by",
     "license_reference": "https://www.inaturalist.org/pages/terms",
     "license_version": null,
-    "attribution": "(c) Linda L\u00f6tj\u00f6nen, some rights reserved (CC BY)",
+    "attribution": "(c) Linda Lötjönen, some rights reserved (CC BY)",
     "original_width": 2048,
     "original_height": 1540,
     "retrieved_at": "2026-11-20T08:41:40.720040+00:00",

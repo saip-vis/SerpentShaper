@@ -20,7 +20,7 @@
     "original_width": 2019,
     "original_height": 2019,
     "retrieved_at": "2026-11-20T08:54:30.874792+00:00",
-    "review_status": "unreviewed",
+    "review_status": "rejected",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -32,8 +32,15 @@
     "content_type": "image/jpeg",
     "collection_batch": "pilot_063_crotalus_scutulatus",
     "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
-    "review_id": "Crotalus_scutulatus01"
+    "rendering_exclusion_reason": "injury",
+    "review_id": "Crotalus_scutulatus01",
+    "body_condition": "severely_damaged",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-24",
+      "category": "rejected",
+      "reason": "Full image visually inspected; severe body damage or remains are visible. Excluded under the healthy-snake training policy; original file preserved."
+    }
   },
   {
     "image_id": "inat_2780340",

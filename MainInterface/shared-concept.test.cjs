@@ -1,0 +1,46 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs'),vm=require('node:vm');
+const Matching=require('./matching.js'),Pilot=require('./shared-concept.js'),Morph=require('../SharedRendererTest/shared-morphology.js');
+const scope={window:{}};vm.runInNewContext(fs.readFileSync(__dirname+'/venom-data.js','utf8'),scope);
+const {profiles,controls}=scope.window.SERPENT_VENOM_DATA;
+const allowed=new Set(Object.values(Morph.REFERENCES).map(r=>r.species));
+const matching=values=>Pilot.match(values,profiles,controls,Matching,Morph);
+assert.equal(matching({pla2:10,svmp:20}).length,0,'at least three active components are required');
+assert.equal(Pilot.create({},[],Morph),null);
+const inputs={'3ftx':28.3,pla2:17.1,svmp:25.4,crisp:4.85};
+const refs=matching(inputs);
+assert.ok(refs.length>=2);
+assert.ok(refs.every(r=>allowed.has(r.profile.species_name)&&r.compared>=3&&r.massCoverage>=0&&r.massCoverage<=1));
+assert.ok(Math.abs(refs.reduce((n,r)=>n+r.weight,0)-1)<1e-12);
+const cobra=refs.find(r=>r.profile.species_name==='Naja kaouthia');
+const diamondback=refs.find(r=>r.profile.species_name==='Crotalus atrox');
+assert.ok(cobra.weight>.1&&diamondback.weight>.1,'a mid-mixture should exercise an intermediate shape');
+assert.ok(diamondback.massCoverage<cobra.massCoverage,'a missing category lowers measured input coverage');
+const drawing=Pilot.create(inputs,refs,Morph);
+assert.match(drawing.svg,/^<svg/);assert.match(drawing.geometry.path,/Z$/);
+assert.doesNotMatch(drawing.svg,/NaN|Infinity|undefined/);
+const payload=drawing.svg.match(/<metadata>(.*?)<\/metadata>/)[1].replace(/&quot;/g,'"').replace(/&apos;/g,"'").replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&amp;/g,'&');
+const metadata=JSON.parse(payload);
+assert.equal(metadata.venomContext.kind,'three_reference_illustrative_pilot');
+assert.deepEqual(metadata.venomContext.venomInputs,inputs);
+assert.ok(Math.abs(metadata.venomContext.references.reduce((n,r)=>n+r.weight,0)-1)<1e-12);
+assert.deepEqual(matching({...inputs,svsp:0}),refs,'turning a component to zero is the same comparison as leaving it inactive');
+assert.equal(Pilot.create(inputs,matching(inputs),Morph).svg,drawing.svg,'same composition is independent of previous slider history');
+const controlIds=['a','b','c','d'],cs=controlIds.map(id=>({id,short_label:id,source_toxin_ids:[id]}));
+const fake=(species,vals)=>({species_name:species,preset_id:species,source_row:1,components:controlIds.map((id,i)=>({toxin_id:id,value:vals[i]}))});
+const synthetic=[fake('Crotalus atrox',[1,1,1,null]),fake('Naja kaouthia',[1,1,1,90])];
+const ranked=Pilot.match({a:1,b:1,c:1,d:90},synthetic,cs,Matching,Morph);
+assert.equal(ranked[0].profile.species_name,'Naja kaouthia');
+assert.ok(ranked[1].massCoverage<.04&&ranked[1].weight<.001,'a reference missing most entered abundance gets little influence without assuming zero');
+const start={'3ftx':.1,pla2:7.3,svmp:49.7,crisp:4.3},end={'3ftx':56.5,pla2:26.9,svmp:1.1,crisp:5.4};
+let last=null;
+for(let i=0;i<=100;i++){
+ const t=i/100,values=Object.fromEntries(Object.keys(start).map(k=>[k,start[k]*(1-t)+end[k]*t]));
+ const matches=matching(values),shape=Pilot.create(values,matches,Morph);
+ assert.ok(shape);assert.doesNotMatch(shape.svg,/NaN|Infinity/);
+ if(last){const before=new Map(last.map(r=>[r.profile.species_name,r.weight])),now=new Map(matches.map(r=>[r.profile.species_name,r.weight]));
+  const delta=[...new Set([...before.keys(),...now.keys()])].reduce((n,k)=>n+Math.abs((before.get(k)||0)-(now.get(k)||0)),0);
+  assert.ok(delta<.15,'small fixed-set changes should not abruptly replace the pilot blend');}
+ last=matches;
+}
+console.log('Venom-to-shared-shape linkage, missingness, provenance, reversibility, and gradual blend verified.');

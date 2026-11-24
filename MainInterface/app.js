@@ -2,12 +2,14 @@
 'use strict';
 const data=window.SERPENT_VENOM_DATA, controls=data.controls, profiles=data.profiles;
 const presets=new Map(window.SERPENT_PRESETS.presets.map(p=>[p.preset_id,p]));
+const pilotSpecies=new Set(Object.values(SharedMorphology.REFERENCES).map(r=>r.species));
+const pilotProfiles=profiles.filter(p=>pilotSpecies.has(p.species_name));
 const photoCues=new Map((window.SERPENT_PHOTO_CUES?.cues||[]).map(c=>[c.species,c]));
 const profilesById=new Map(profiles.map(p=>[p.profile_id,p]));
 const $=id=>document.getElementById(id);
 const inputs=new Map(), values=Object.fromEntries(controls.map(c=>[c.id,null]));
 const editableIds=new Set(controls.flatMap(c=>c.source_toxin_ids));
-let source=null, surface='dorsal', currentMatches=[], invalid=new Set(), drawnKey='', currentSvg='';
+let source=null, surface='dorsal', mode='reference', currentMatches=[], invalid=new Set(), drawnKey='', currentSvg='';
 const fmt=n=>Number(n.toFixed(2)).toString();
 const uncertainMambaProfile='vd2023_e2d1aa974518_r189';
 function labelProfile(p){const name=presets.get(p.preset_id)?.common_name;return `${name?name+' · ':''}${p.species_name}${p.location?' · '+p.location:''} · row ${p.source_row}`;}
@@ -49,27 +51,37 @@ function updateTotal(){
   $('balance-text').textContent=invalid.size?'Enter a value from 0 to 100 in each highlighted field.':totals.over>.01?`${fmt(totals.over)} percentage points above 100%. Source totals may differ due to rounding; custom entries are not normalized.`:totals.unallocated>.01?`${fmt(totals.unallocated)}% unallocated. This is a balance, not a measured category.`:'Reported values total approximately 100%. Unreported categories remain unknown.';
 }
 function updateMatches(){
-  currentMatches=invalid.size?[]:SerpentMatching.influences(values,profiles,controls);
-  const hasConcept=!invalid.size&&!!SerpentStyle.predictActive(values,window.SERPENT_STYLE_MODEL);
+  currentMatches=invalid.size?[]:(mode==='shared'?SharedConcept.match(values,pilotProfiles,controls,SerpentMatching,SharedMorphology):SerpentMatching.influences(values,profiles,controls));
+  const hasConcept=!invalid.size&&(mode==='shared'?currentMatches.length>0:!!SerpentStyle.predictActive(values,window.SERPENT_STYLE_MODEL));
   const container=$('matches');container.replaceChildren();
   if(!currentMatches.length){const p=document.createElement('p');p.className='empty-matches';p.textContent=invalid.size?'Correct the highlighted value to compare references.':'Enter at least three values above 0% that are also reported together by a reference profile.';container.append(p);return;}
   const best=currentMatches[0],fit=document.createElement('p');fit.className='field-note';
-  fit.textContent=`Best-weighted comparison: ${best.compared} of ${best.selected} active categories, averaging ${fmt(best.meanDifference)} percentage points apart. Weights are relative even when every match is weak.`;
+  fit.textContent=`${mode==='shared'?'Three-species pilot. ':''}Best-weighted comparison: ${best.compared} of ${best.selected} active categories, averaging ${fmt(best.meanDifference)} percentage points apart.${mode==='shared'?` It covers ${(best.massCoverage*100).toFixed(0)}% of the entered active abundance.`:''} Weights are relative even when every match is weak.`;
   container.append(fit);
   currentMatches.slice(0,5).forEach((result,i)=>{
     const p=result.profile,preset=presets.get(p.preset_id);const card=document.createElement('div');card.className='match-card';
     const top=document.createElement('div');top.className='match-top';const name=document.createElement('span');name.className='match-name';name.textContent=preset?.common_name||p.species_name;const rank=document.createElement('span');rank.className='match-rank';rank.textContent=hasConcept?`${(result.weight*100).toFixed(1)}%`:'—';top.append(name,rank);
     const sci=document.createElement('span');sci.className='match-scientific';sci.textContent=p.species_name;
     const stats=document.createElement('div');stats.className='match-stats';const coverage=document.createElement('strong');coverage.textContent=`${result.compared} of ${result.selected} categories compared`;stats.append(coverage,document.createElement('br'),document.createTextNode(`Mean difference ${fmt(result.meanDifference)} percentage points · ${p.location||'location unreported'} · row ${p.source_row}`));
+    if(mode==='shared')stats.append(document.createElement('br'),document.createTextNode(`Entered active abundance covered: ${(result.massCoverage*100).toFixed(0)}%.`));
     const details=result.differences.slice().sort((a,b)=>b.difference-a.difference).slice(0,2).map(d=>`${d.label}: ${fmt(d.input)}% entered, ${fmt(d.reference)}% reference`).join(' · ');
     stats.append(document.createElement('br'),document.createTextNode(`Largest shared differences: ${details}.`));
     if(p.profile_id===uncertainMambaProfile)stats.append(document.createElement('br'),document.createTextNode('The unverified source NP value is excluded from this comparison.'));
-    const cue=photoCues.get(p.species_name);if(cue){const evidence=document.createElement('div');evidence.className='match-stats';evidence.append(document.createTextNode('Photo color cue available for compatible diamond markings: '));cue.sources.forEach((s,index)=>{if(index)evidence.append(document.createTextNode(' · '));const a=document.createElement('a');a.href=s.photo_page;a.target='_blank';a.rel='noopener noreferrer';a.textContent=`photo ${index+1}`;a.title=s.attribution||'Photo source';evidence.append(a);});stats.append(document.createElement('br'),evidence);}
+    const cue=mode==='reference'?photoCues.get(p.species_name):null;if(cue){const evidence=document.createElement('div');evidence.className='match-stats';evidence.append(document.createTextNode('Photo color cue available for compatible diamond markings: '));cue.sources.forEach((s,index)=>{if(index)evidence.append(document.createTextNode(' · '));const a=document.createElement('a');a.href=s.photo_page;a.target='_blank';a.rel='noopener noreferrer';a.textContent=`photo ${index+1}`;a.title=s.attribution||'Photo source';evidence.append(a);});stats.append(document.createElement('br'),evidence);}
     card.append(top,sci,stats);container.append(card);
   });
   if(currentMatches.length>5){const rest=currentMatches.slice(5).reduce((n,r)=>n+r.weight,0),p=document.createElement('p');p.className='empty-matches';p.textContent=`${currentMatches.length-5} additional references contribute ${(rest*100).toFixed(1)}% combined. Percentages are blend weights, not certainty.`;container.append(p);}
 }
 function draw(){
+  if(mode==='shared'){
+    const concept=invalid.size?null:SharedConcept.create(values,currentMatches,SharedMorphology,surface);
+    $('empty-drawing').hidden=!!concept;$('snake-drawing').hidden=!concept;
+    $('snake-name').textContent='Your snake concept';$('scientific-name').textContent=concept?`Shared-shape pilot · ${surface}`:'';
+    $('selection-note').textContent=concept?'Venom comparison · three illustrative references':'Enter at least 3 active, comparable components';
+    if(!concept){drawnKey='';currentSvg='';$('download-svg').disabled=true;return;}
+    const key=JSON.stringify([mode,surface,values]);if(key!==drawnKey){currentSvg=concept.svg;$('snake-drawing').innerHTML=currentSvg;drawnKey=key;}
+    $('download-svg').disabled=false;$('dorsal').setAttribute('aria-pressed',String(surface==='dorsal'));$('ventral').setAttribute('aria-pressed',String(surface==='ventral'));return;
+  }
   const references=currentMatches.map(match=>({preset:presets.get(match.profile.preset_id),weight:match.weight,photoCue:surface==='dorsal'?photoCues.get(match.profile.species_name):null}));
   const concept=invalid.size?null:SerpentStyle.concept(values,window.SERPENT_STYLE_MODEL,references);
   $('empty-drawing').hidden=!!concept;$('snake-drawing').hidden=!concept;
@@ -78,7 +90,7 @@ function draw(){
   const formLabels={cobra:'Hooded form',viper:'Broad-headed form',terrestrial:'Slender form',marine:'Paddle-tailed form'};
   $('scientific-name').textContent=formLabels[concept.preset.artistic_parameters.body_plan]||'Blended form';
   $('selection-note').textContent=concept.photoCue?'Reference blend · photo color cue applied':'Reference-blended anatomy and experimental style';
-  const key=JSON.stringify([surface,values]);if(key!==drawnKey){
+  const key=JSON.stringify([mode,surface,values]);if(key!==drawnKey){
     const conceptMetadata={kind:'illustrative_not_biological_prediction',bodyPlan:concept.preset.artistic_parameters.body_plan,
       venomInputs:{...values},referenceStyleMix:currentMatches.map(r=>({species:r.profile.species_name,profileId:r.profile.profile_id,weight:r.weight})),photoCue:concept.photoCue};
     currentSvg=SpeciesRenderer.render(concept.preset,{surface,framing:'full',...concept.options,conceptMetadata}).svg;
@@ -96,6 +108,8 @@ $('download-svg').addEventListener('click',()=>{if(!currentSvg)return;const url=
 $('source-profile').addEventListener('change',e=>loadProfile(e.target.value));
 $('reset').addEventListener('click',()=>{$('source-profile').value='';loadProfile('');});
 for(const name of ['dorsal','ventral'])$(name).addEventListener('click',()=>{surface=name;draw();});
+$('render-mode').value='reference';
+$('render-mode').addEventListener('change',e=>{mode=e.target.value==='shared'?'shared':'reference';$('mode-note').hidden=mode!=='shared';$('reference-intro').textContent=mode==='shared'?'This pilot compares only its three reference species; weights are relative to those available comparisons.':'The strongest reference comparisons are shown; additional references can also influence the concept.';$('comparison-note').textContent=mode==='shared'?'These are relative weights across the available pilot references, not certainty or ancestry. At least three active components must be shared with a reference. The shape controls are hand-authored.':'Percentages are relative blend weights, not biological certainty or species ancestry. At least three components above 0% must be shared with a reference. Compatible shapes blend, but cobra and other forms can still switch abruptly.';$('dorsal').setAttribute('aria-pressed',String(surface==='dorsal'));$('ventral').setAttribute('aria-pressed',String(surface==='ventral'));update();});
 $('unknown-help').addEventListener('click',()=>{const hidden=$('unknown-info').hidden;$('unknown-info').hidden=!hidden;$('unknown-help').setAttribute('aria-expanded',String(hidden));});
 $('source-profile').value='';loadProfile('');
 })();
