@@ -3,6 +3,7 @@
   const clamp=(v,min,max)=>Math.max(min,Math.min(max,v));
   function rgb(hex){return [1,3,5].map(i=>parseInt(hex.slice(i,i+2),16));}
   function hex(colors){return '#'+colors.map(v=>Math.round(clamp(v,0,255)).toString(16).padStart(2,'0')).join('');}
+  function blendRgb(base,target,strength){return hex(rgb(base).map((v,i)=>v*(1-strength)+target[i]*strength));}
   function predict(values,model){
     if(!model)return null;
     const input=model.feature_ids.map(id=>Number.isFinite(values[id])?values[id]:null);
@@ -11,6 +12,13 @@
     const indicators=model.missing_indicator_indices.map(i=>input[i]===null?1:0);
     const scaled=filled.concat(indicators).map((v,i)=>(v-model.scaler_mean[i])/model.scaler_scale[i]);
     return model.coefficients.map((weights,i)=>model.intercepts[i]+weights.reduce((n,w,j)=>n+w*scaled[j],0));
+  }
+  // Keep predict() as the exact low-level model for training parity. In the
+  // interface, 0% is an inactive control and uses the same model handling as
+  // a blank input; input state and the original source data remain unchanged.
+  function predictActive(values,model){
+    const active=Object.fromEntries(Object.entries(values).map(([id,v])=>[id,Number.isFinite(v)&&v>0?v:null]));
+    return predict(active,model);
   }
   function sampleStations(stations,t){
     const lengths=[0];for(let i=1;i<stations.length;i++)lengths.push(lengths[i-1]+Math.hypot(stations[i][0]-stations[i-1][0],stations[i][1]-stations[i-1][1]));
@@ -35,12 +43,20 @@
       const ys=[145,178,200,220,235,250,270,290,310,330,350];
       p.hood_profile=ys.map(y=>[y,group.reduce((n,r)=>n+r.weight*hoodWidth(r.preset.artistic_parameters.hood_profile,y),0)]);
     }else{
+      // Terrestrial and viper presets share the same swept-body projection and
+      // head coordinate system. Blend their geometry together even when the
+      // winning body-plan label changes. Cobras and marine shapes use different
+      // projections/topology and cannot safely be interpolated this way.
+      const sameProjection=['viper','terrestrial'].includes(plan)
+        ?refs.filter(r=>['viper','terrestrial'].includes(r.preset.artistic_parameters.body_plan)):same;
+      const shapeTotal=sameProjection.reduce((n,r)=>n+r.weight,0);
+      const shapeGroup=sameProjection.map(r=>({...r,weight:r.weight/shapeTotal}));
       p.body_stations=Array.from({length:16},(_,i)=>{
-        const points=group.map(r=>({point:sampleStations(r.preset.artistic_parameters.body_stations,i/15),weight:r.weight}));
+        const points=shapeGroup.map(r=>({point:sampleStations(r.preset.artistic_parameters.body_stations,i/15),weight:r.weight}));
         return [0,1,2].map(k=>points.reduce((n,v)=>n+v.weight*v.point[k],0));
       });
       const base=p.head_geometry;
-      const compatible=group.filter(r=>{const h=r.preset.artistic_parameters.head_geometry;return h.upper.length===base.upper.length&&h.lower.length===base.lower.length&&h.upper.every(a=>a.length===8)&&h.lower.every(a=>a.length===8);});
+      const compatible=shapeGroup.filter(r=>{const h=r.preset.artistic_parameters.head_geometry;return h.upper.length===base.upper.length&&h.lower.length===base.lower.length&&h.upper.every(a=>a.length===8)&&h.lower.every(a=>a.length===8);});
       const htotal=compatible.reduce((n,r)=>n+r.weight,0);
       const weighted=(field)=>compatible.reduce((n,r)=>n+r.weight*r.preset.artistic_parameters.head_geometry[field]/htotal,0);
       const head={...base,length:weighted('length'),neck:weighted('neck')};
@@ -57,7 +73,7 @@
       variant:'Reference-blended artistic anatomy. Not an identified species or a measured phenotype.',artistic_parameters:p};
   }
   function concept(values,model,references=[]){
-    const modelPrediction=predict(values,model);
+    const modelPrediction=predictActive(values,model);
     if(!modelPrediction)return null;
     const preset=anatomy(references);
     if(!preset)return null;
@@ -82,9 +98,24 @@
     const widths=cobra?p.hood_profile.map(v=>v[1]):p.body_stations.map(v=>v[2]);
     const baseRatio=Math.max(...widths)/model.shape_normalizers[p.body_plan];
     const widthAdjustment=1+clamp(prediction[8]-baseRatio,-.12,.12)*strength;
-    const variant={...preset,artistic_parameters:{...p,mark_spacing:mixedSpacing}};
-    return {preset:variant,options:{skinColor:mixColor(p.skin_color,0),ringColor:mixColor(p.marking_color,3),
-      scaleDetail:clamp(originalPitch/mixedPitch,.85,1.15),...(cobra?{width:widthAdjustment}:{thickness:widthAdjustment})},prediction};
+    // Photo colors are a small, explicitly sourced illustration cue, not a learned
+    // phenotype or a replacement for the authored style. Only matching geometry
+    // and pattern are compatible; no source photo is needed in the browser.
+    const photoRefs=usable.filter(r=>r.photoCue&&r.photoCue.species===r.preset.source_species_name&&
+      r.preset.artistic_parameters.body_plan===p.body_plan&&r.photoCue.pattern===p.pattern&&
+      r.preset.artistic_parameters.pattern===p.pattern&&
+      [r.photoCue.dark_rgb,r.photoCue.light_rgb].every(a=>Array.isArray(a)&&a.length===3&&a.every(v=>Number.isFinite(v)&&v>=0&&v<=255)));
+    const photoWeight=photoRefs.reduce((n,r)=>n+r.weight,0), photoStrength=totalWeight?Math.min(.2,.2*photoWeight/totalWeight):0;
+    let ringColor=mixColor(p.marking_color,3), centerColor=p.diamond_center_color, photoCue=null;
+    if(photoStrength>0&&p.pattern==='diamonds'){
+      const avg=key=>[0,1,2].map(i=>photoRefs.reduce((n,r)=>n+r.weight*r.photoCue[key][i],0)/photoWeight);
+      ringColor=blendRgb(ringColor,avg('light_rgb'),photoStrength);
+      centerColor=blendRgb(centerColor||'#584732',avg('dark_rgb'),photoStrength);
+      photoCue={strength:photoStrength,sources:photoRefs.flatMap(r=>r.photoCue.sources.map(s=>({species:r.photoCue.species,photo_page:s.photo_page,attribution:s.attribution})))};
+    }
+    const variant={...preset,artistic_parameters:{...p,mark_spacing:mixedSpacing,...(centerColor?{diamond_center_color:centerColor}:{})}};
+    return {preset:variant,options:{skinColor:mixColor(p.skin_color,0),ringColor,
+      scaleDetail:clamp(originalPitch/mixedPitch,.85,1.15),...(cobra?{width:widthAdjustment}:{thickness:widthAdjustment})},prediction,photoCue};
   }
-  const api={predict,anatomy,concept};if(typeof module!=='undefined')module.exports=api;else root.SerpentStyle=api;
+  const api={predict,predictActive,anatomy,concept};if(typeof module!=='undefined')module.exports=api;else root.SerpentStyle=api;
 })(typeof window!=='undefined'?window:this);

@@ -1,0 +1,140 @@
+{
+  "task": "Exploratory binary diamond-like marking versus other authored pattern; not species identification.",
+  "training_targets": "Manually authored SVG patterns, not snake photos. Positive patterns: diamonds or outlined_diamonds.",
+  "features": "12 broad venom categories; training-only median imputation with missingness indicators and scaling.",
+  "model": "Logistic regression, default regularization, equal total training weight per source species. A second variant balances total species weight across the two training classes within each fold.",
+  "baseline": "Training-set fraction of positive authored species, with equal species weighting.",
+  "validation": "Five-fold genus-held-out for authored labels; separate three-species photo check excludes all three genera from training.",
+  "authored_validation": {
+    "species_count": 148,
+    "positive_species": 11,
+    "model_accuracy_at_0_5": 0.8986486486486487,
+    "baseline_accuracy_at_0_5": 0.9256756756756757,
+    "model_positive_recall_at_0_5": 0.0,
+    "baseline_positive_recall_at_0_5": 0.0,
+    "model_brier": 0.09489621063338313,
+    "baseline_brier": 0.07680463802935339
+  },
+  "photo_check": {
+    "species_count": 3,
+    "positive_species": 1,
+    "model_accuracy_at_0_5": 0.6666666666666666,
+    "baseline_accuracy_at_0_5": 0.6666666666666666,
+    "model_positive_recall_at_0_5": 0.0,
+    "baseline_positive_recall_at_0_5": 0.0,
+    "model_brier": 0.32161275459568034,
+    "baseline_brier": 0.318698347107438
+  },
+  "photo_check_predictions": [
+    {
+      "species": "Crotalus atrox",
+      "profile_count": 2,
+      "actual": 1,
+      "probability": 0.01775760061317911,
+      "baseline_probability": 0.022727272727272728,
+      "image_id": "inat_937491",
+      "observation_id": 745702,
+      "photo_page": "https://www.inaturalist.org/photos/937491"
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "profile_count": 1,
+      "actual": 0,
+      "probability": 0.004786239073837381,
+      "baseline_probability": 0.022727272727272728,
+      "image_id": "inat_15204379",
+      "observation_id": 10843862,
+      "photo_page": "https://www.inaturalist.org/photos/15204379"
+    },
+    {
+      "species": "Oxyuranus scutellatus",
+      "profile_count": 2,
+      "actual": 0,
+      "probability": 0.003901864860569631,
+      "baseline_probability": 0.022727272727272728,
+      "image_id": "inat_457026243",
+      "observation_id": 255071530,
+      "photo_page": "https://www.inaturalist.org/photos/457026243"
+    }
+  ],
+  "balanced_authored_validation": {
+    "species_count": 148,
+    "positive_species": 11,
+    "model_accuracy_at_0_5": 0.7837837837837838,
+    "baseline_accuracy_at_0_5": 0.9256756756756757,
+    "model_positive_recall_at_0_5": 0.18181818181818182,
+    "baseline_positive_recall_at_0_5": 0.0,
+    "model_brier": 0.1686233270096618,
+    "baseline_brier": 0.07680463802935339
+  },
+  "balanced_photo_check": {
+    "species_count": 3,
+    "positive_species": 1,
+    "model_accuracy_at_0_5": 0.6666666666666666,
+    "baseline_accuracy_at_0_5": 0.6666666666666666,
+    "model_positive_recall_at_0_5": 0.0,
+    "baseline_positive_recall_at_0_5": 0.0,
+    "model_brier": 0.29631605030637537,
+    "baseline_brier": 0.318698347107438
+  },
+  "balanced_photo_check_predictions": [
+    {
+      "species": "Crotalus atrox",
+      "profile_count": 2,
+      "actual": 1,
+      "probability": 0.057354374878453886,
+      "baseline_probability": 0.022727272727272728,
+      "image_id": "inat_937491",
+      "observation_id": 745702,
+      "photo_page": "https://www.inaturalist.org/photos/937491"
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "profile_count": 1,
+      "actual": 0,
+      "probability": 0.017935982427882743,
+      "baseline_probability": 0.022727272727272728,
+      "image_id": "inat_15204379",
+      "observation_id": 10843862,
+      "photo_page": "https://www.inaturalist.org/photos/15204379"
+    },
+    {
+      "species": "Oxyuranus scutellatus",
+      "profile_count": 2,
+      "actual": 0,
+      "probability": 0.006758468220119503,
+      "baseline_probability": 0.022727272727272728,
+      "image_id": "inat_457026243",
+      "observation_id": 255071530,
+      "photo_page": "https://www.inaturalist.org/photos/457026243"
+    }
+  ],
+  "photo_training_count": 0,
+  "photo_check_train_species": 132,
+  "photo_check_train_profiles": 236,
+  "excluded_photo_check_genera": [
+    "Crotalus",
+    "Dendroaspis",
+    "Oxyuranus"
+  ],
+  "limitations": [
+    "Three photographs cannot establish accuracy or species-wide appearance.",
+    "Photo check labels refer only to visible parts; no observed diamond is not proof of absence.",
+    "Training uses authored presets, which may be inaccurate or incomplete; held-out genus does not eliminate broader relatedness or data source confounding.",
+    "Venom profiles and photographs are not paired specimens; no causation or real-snake phenotype prediction is established.",
+    "Reference images remain subject to their existing review, exclusion and license policies; no model is integrated into the app."
+  ],
+  "versions": {
+    "numpy": "2.4.6",
+    "scikit_learn": "1.9.1"
+  },
+  "input_sha256": {
+    "data/processed/venom_diet_2023/serpentshaper.sqlite": "abf3f5b22f003dfa9cabbcddc89f171c64a34c16b56a12cc675a9b18f27e3192",
+    "config/venom_input_spec.json": "e5f1da97e22415196aded20b2405d013a38741ef3e2a53f18e40a0d192b42322",
+    "config/venom_quality_flags.json": "c97646a4f8171b9f39be861da0995c5276ee502bfac81eb7458b14b4bd6f0ffd",
+    "PhysicalRendererTest/presets/species-presets.json": "c950b99a9a39fc017b4287da6687b11565ac755961ac7c613451edb060d0810f",
+    "ML/image_traits/pattern_holdout.json": "f897d713ed888c6aaa1dff6612224fb02975150737974f5f380c2635d6309614",
+    "scripts/run_pattern_experiment.py": "1585c78b7c4e08ffb1d7700a9a8d0091054b574080dfec7af107b96403a34317",
+    "scripts/train_visual_style_model.py": "6386e306fda40fbc76bcb130bb4cbb141b2ae2f6c5b201c907caeaa77266be91"
+  }
+}

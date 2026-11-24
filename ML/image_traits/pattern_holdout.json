@@ -1,0 +1,8 @@
+{
+  "purpose": "Provisional image-level visual check, never model training labels. A negative means no large diamond-like markings are visible on the photographed portion, not that the entire animal lacks them.",
+  "records": [
+    {"species":"Crotalus atrox","image_id":"inat_937491","manifest":"data/image_pilots/pilot_004_western_diamondback/manifest.json","visible_diamonds":true,"note":"Dark diamond-like dorsal marks are visible on part of the body."},
+    {"species":"Oxyuranus scutellatus","image_id":"inat_457026243","manifest":"data/image_pilots/pilot_002_coastal_taipan/manifest.json","visible_diamonds":false,"note":"No large diamonds visible on the forebody; full animal is not shown."},
+    {"species":"Dendroaspis polylepis","image_id":"inat_15204379","manifest":"data/image_pilots/pilot_003_black_mamba/manifest.json","visible_diamonds":false,"note":"No large diamonds visible on the exposed body; full animal is not shown."}
+  ]
+}

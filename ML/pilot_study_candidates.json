@@ -1,0 +1,98 @@
+{
+  "status": "candidate_matches_not_confirmed_row_level_provenance",
+  "method": "Manual comparison of cleaned pilot source rows with species-specific records in a separate published-proteome compilation, then checking accessible articles. Numerical agreement is evidence for follow-up, not proof that a workbook row originated from a given study.",
+  "records": [
+    {
+      "profile_id": "vd2023_e2d1aa974518_r189",
+      "source_row": 189,
+      "species": "Dendroaspis polylepis",
+      "candidate_study": "Laustsen et al. 2015",
+      "candidate_url": "https://www.sciencedirect.com/science/article/pii/S1874391915000561",
+      "candidate_doi": "10.1016/j.jprot.2015.02.002",
+      "evidence": "Both the source profile and article report 61.1% Kunitz-type and 31.0% three-finger toxin; the paper describes a pooled Kenya venom sample.",
+      "unresolved": "The row-level citation is absent and the NP category has a conflicting definition/value in the candidate 2015 paper versus a later review. Do not treat this as a verified join or a confirmed natriuretic-peptide measurement.",
+      "candidate_primary_postprint": "https://orbit.dtu.dk/files/126906680/Unveiling_the_nature_of_black_mamba_Dendroaspis_polylepis_venom_through_venomics_and_antivenom_immunoprofiling_postprint.pdf",
+      "label_review": {
+        "status": "unresolved_do_not_reinterpret_automatically",
+        "concern": "The 2017 review reports 2.9% as natriuretic peptide and cites Laustsen 2015. Direct inspection of Figure 2 (PDF page 50) and its legend (page 34) in Laustsen 2015 shows the same 2.9% NP represents non-protein components. This is a serious primary-versus-review label conflict. The workbook has no row-level citations; its value matches, but its direct provenance is unproven.",
+        "review_2017": "https://www.mdpi.com/2072-6651/9/9/290",
+        "reclassification_study_2017": "https://www.academia.edu/35383240/2017_Mamba_Venom_final_pdf",
+        "action": "Preserve the raw value and recorded label, flag this profile/category for source reconciliation before model use, and do not interpret it as a confirmed quantified natriuretic peptide measurement.",
+        "reanalysis_note": "Ainsworth et al. 2018 reanalyzed Petras et al. 2016 top-down MS data, not demonstrably the Laustsen 2015 sample. Their peptide identification does not establish the provenance or reclassification of the workbook 2.9% value.",
+        "newer_primary_study": {
+          "year": 2025,
+          "doi": "10.3390/toxins17050243",
+          "url": "https://www.mdpi.com/2072-6651/17/5/243",
+          "finding": "0.04% natriuretic peptides in a pooled Tanzanian sample using relative tryptic peptide peak areas; distinct sample, not a correction of the original row.",
+          "partial_candidate": "ML/research_updates/black_mamba_2025.json"
+        },
+        "detailed_review": "ML/research_updates/black_mamba_source_review.md",
+        "correction": "Earlier project notes incorrectly described the 2015 figure as reporting 2.5%. Visual inspection of the original figure confirms 2.9%.",
+        "primary_pdf": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/126906680/Unveiling_the_nature_of_black_mamba_Dendroaspis_polylepis_venom_through_venomics_and_antivenom_immunoprofiling_postprint.pdf"
+      }
+    },
+    {
+      "profile_id": "vd2023_e2d1aa974518_r305",
+      "source_row": 305,
+      "species": "Oxyuranus scutellatus",
+      "candidate_study": "Herrera et al. 2012",
+      "candidate_url": "https://doi.org/10.1016/j.jprot.2012.01.006",
+      "corroborating_source": "https://www.academia.edu/120573925/Development_of_a_chicken_derived_antivenom_against_the_taipan_snake_Oxyuranus_scutellatus_venom_and_comparison_with_an_equine_antivenom",
+      "evidence": "Papua New Guinea location and multiple values match a separately compiled record and an independent later description of the Herrera dataset: 68.3% PLA2, 13.0% Kunitz, 8.9% SVMP and 4.2% 3FTx. The available original manuscript independently reports 68.3% PLA2 for the Papua New Guinea sample.",
+      "unresolved": "Direct row-to-study mapping is absent in the workbook; the corroborating description is a later paper, and the accessible source does not establish a link to any pilot photograph.",
+      "primary_text_url": "https://www.academia.edu/6173727/Comparative_proteomic_analysis_of_the_venom_of_the_taipan_snake_Oxyuranus_scutellatus_from_Papua_New_Guinea_and_Australia_Role_of_neurotoxic_and_procoagulant_effects_in_venom_toxicity"
+    },
+    {
+      "profile_id": "vd2023_e2d1aa974518_r127",
+      "source_row": 127,
+      "species": "Crotalus atrox",
+      "candidate_study": "Calvete et al. 2009",
+      "candidate_url": "https://pubs.acs.org/doi/10.1021/pr900249q",
+      "corroborating_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7435869/",
+      "evidence": "Six shared family values in the separate compilation match the row; a later review attributes 49.7% SVMP and 19.8% SVSP to the candidate study.",
+      "unresolved": "The original workbook gives location as unknown and does not cite the individual row; compare with the original paper and its sampling details before accepting this join."
+    },
+    {
+      "profile_id": "vd2023_e2d1aa974518_r278",
+      "source_row": 278,
+      "species": "Naja naja",
+      "candidate_study": "Dutta et al. 2017",
+      "candidate_url": "https://pubmed.ncbi.nlm.nih.gov/28062377/",
+      "candidate_doi": "10.1016/j.jprot.2016.12.018",
+      "evidence": "The source row and accessible research article both report 63.8% three-finger toxins and 11.4% PLA2; the article describes an eastern Indian sample.",
+      "unresolved": "The workbook records only India and has no explicit citation per row. Numerical agreement is not conclusive proof of this mapping."
+    },
+    {
+      "candidate_study": "Pla et al. 2017",
+      "candidate_url": "https://doi.org/10.1016/j.bbagen.2017.01.020",
+      "candidate_primary_text": "https://archive.lstmed.ac.uk/6772/1/BBA_What%20killed%20Karl%20Patterson%20Schmidt%20final%20accepted_10_1_17.pdf",
+      "species": "Dispholidus typus",
+      "profile_id": "vd2023_e2d1aa974518_r190",
+      "source_row": 190,
+      "evidence": "Workbook transcriptomics row reports 74.64% SVMP; Pla et al. report 74.64% toxin-encoding gene expression for SVMP and approximately 7.56% PLA2. These agree with the row values 74.64 and 7.6, respectively.",
+      "unresolved": "Probable but not proven match. The workbook says South Africa, whereas the candidate paper states the single venom-gland specimen was Tanzanian. The proteomics venom in that paper was sourced separately from South Africa. Do not silently change the original location."
+    },
+    {
+      "candidate_study": "Pla et al. 2017",
+      "candidate_url": "https://doi.org/10.1016/j.bbagen.2017.01.020",
+      "candidate_primary_text": "https://archive.lstmed.ac.uk/6772/1/BBA_What%20killed%20Karl%20Patterson%20Schmidt%20final%20accepted_10_1_17.pdf",
+      "species": "Dispholidus typus",
+      "profile_id": "vd2023_e2d1aa974518_r191",
+      "source_row": 191,
+      "evidence": "Workbook measured-protein row reports 77.5% SVMP; Pla et al. report 77.5% SVMP for the venom proteome of adult D. typus. The paper describes South African-origin venom, matching the workbook location.",
+      "unresolved": "Probable but not verified row-level citation: match the full quantitative figure and supplementary table. Source sample is not demonstrated to be the same snake as the Tanzanian gland sample or any pilot photo."
+    }
+  ],
+  "unresolved_examples": [
+    {
+      "profile_id": "vd2023_e2d1aa974518_r128",
+      "species": "Crotalus atrox",
+      "reason": "No matching primary study established in this review."
+    },
+    {
+      "profile_id": "vd2023_e2d1aa974518_r306",
+      "species": "Oxyuranus scutellatus",
+      "reason": "The candidate Herrera Australia record has several differing family values, including PLA2. Do not assign without investigating the discrepancy."
+    }
+  ]
+}

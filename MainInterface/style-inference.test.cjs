@@ -16,6 +16,8 @@ const get=id=>sandbox.window.SERPENT_PRESETS.presets.find(p=>p.preset_id===id);
 const cobra=get('naja_kaouthia'),mamba=get('dendroaspis_polylepis'),diamondback=get('crotalus_atrox'),massasauga=get('sistrurus_catenatus');
 const original=JSON.stringify(diamondback);
 const values={'3ftx':40,pla2:10,svmp:5},changed={...values,'3ftx':80};
+assert.deepEqual(style.predictActive({...values,svsp:0},model),style.predictActive(values,model),'zero must have the same model effect as an inactive control');
+assert.equal(style.predictActive({'3ftx':40,pla2:10,svsp:0},model),null,'zero does not count toward the minimum active inputs');
 assert.equal(style.concept({'3ftx':40,pla2:10},model,[{preset:cobra,weight:1}]),null,'three inputs are required');
 assert.equal(style.concept(values,model,[]),null,'the system must not silently choose a default snake');
 const refs=[{preset:diamondback,weight:.7},{preset:massasauga,weight:.3}];
@@ -40,8 +42,33 @@ assert.notEqual(renderer.render(a.preset,{...a.options,surface:'dorsal'}).svg,re
 const influenceA=style.concept(values,model,[{preset:cobra,weight:1}]);
 const influenceB=style.concept(values,model,[{preset:mamba,weight:1}]);
 assert.notDeepEqual(influenceA.prediction,influenceB.prediction,'reference weights must affect the generated style');
+// Vipers and terrestrial snakes have compatible coordinate systems. Geometry
+// should vary smoothly even when the dominant categorical plan flips.
+const mixedBefore=style.anatomy([{preset:diamondback,weight:.51},{preset:mamba,weight:.49}]);
+const mixedAfter=style.anatomy([{preset:diamondback,weight:.49},{preset:mamba,weight:.51}]);
+assert.notEqual(mixedBefore.artistic_parameters.body_plan,mixedAfter.artistic_parameters.body_plan);
+assert.ok(Math.abs(mixedBefore.artistic_parameters.body_stations[5][2]-mixedAfter.artistic_parameters.body_stations[5][2])<1,'body widths must not jump when the dominant compatible plan changes');
+assert.ok(Math.abs(mixedBefore.artistic_parameters.head_geometry.length-mixedAfter.artistic_parameters.head_geometry.length)<1,'compatible head dimensions must remain continuous');
+for(const variant of [mixedBefore,mixedAfter]){
+  const rendering=renderer.render(variant,{surface:'dorsal'});
+  assert.match(rendering.shape.path,/Z$/);
+  assert.doesNotMatch(rendering.svg,/NaN|Infinity/);
+}
 const channel=x=>parseInt(x.artistic_parameters.skin_color.slice(1,3),16);
 const partial=style.concept(values,model,[{preset:cobra,weight:.25},{preset:mamba,weight:.75}]);
 assert.ok(Math.abs(partial.prediction[0]-(style.predict(values,model)[0]+.25*channel(cobra)+.75*channel(mamba))/2)<1e-8,'displayed weights must feed reference style');
 assert.equal(partial.preset.artistic_parameters.body_plan,'terrestrial','compatible dominant anatomy is chosen by total reference influence');
+vm.runInNewContext(fs.readFileSync(__dirname+'/photo-cues.js','utf8'),sandbox);
+const cue=sandbox.window.SERPENT_PHOTO_CUES.cues[0];
+const withoutPhoto=style.concept(values,model,[{preset:diamondback,weight:1}]);
+const withPhoto=style.concept(values,model,[{preset:diamondback,weight:1,photoCue:cue}]);
+assert.equal(withPhoto.photoCue.strength,.2);
+assert.notEqual(withPhoto.preset.artistic_parameters.diamond_center_color,withoutPhoto.preset.artistic_parameters.diamond_center_color);
+assert.notEqual(withPhoto.options.ringColor,withoutPhoto.options.ringColor);
+assert.equal(withPhoto.photoCue.sources.length,2);
+assert.equal(style.concept(values,model,[{preset:mamba,weight:1,photoCue:cue}]).photoCue,null,'unrelated or incompatible references must not apply cues');
+assert.equal(JSON.stringify(diamondback),original,'photo cues must not mutate presets');
+const photoSvg=renderer.render(withPhoto.preset,{...withPhoto.options,surface:'dorsal'}).svg;
+assert.notEqual(photoSvg,renderer.render(withoutPhoto.preset,{...withoutPhoto.options,surface:'dorsal'}).svg);
+assert.doesNotMatch(photoSvg,/NaN|Infinity/);
 console.log('Style model parity, reference-blended anatomy, closed geometry and SVG changes verified.');

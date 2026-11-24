@@ -1,0 +1,32 @@
+{
+  "status": "research_candidates_not_ingested",
+  "selection": "Focused follow-up on two labels without an eligible measured-protein profile in the current workbook; not a comprehensive or exhaustive literature search.",
+  "candidates": [
+    {
+      "source_species_name": "Echis coloratus",
+      "source": "Redureau et al. 2025",
+      "doi": "10.3390/toxins17050243",
+      "url": "https://www.mdpi.com/2072-6651/17/5/243",
+      "location": "Egypt",
+      "sample": "Pooled venom from multiple wild-caught snakes maintained in captivity; number not specified in the reported methods.",
+      "method": "Label-free relative unique-peptide peak area after tryptic digestion, grouped by parent toxin family.",
+      "partial_reported_values": [
+        {"label": "SVMP", "candidate_toxin_id": "vd2023_AZ", "percentage": 44.47},
+        {"label": "PLA2", "candidate_toxin_id": "vd2023_T", "percentage": 18.62},
+        {"label": "SVSP", "candidate_toxin_id": "vd2023_BG", "percentage": 5.85},
+        {"label": "LAAO", "candidate_toxin_id": "vd2023_BJ", "percentage": 5.57}
+      ],
+      "limits": "Partial values only. Figure 5C and full quantitative source need verification before ingestion. Remaining categories are unknown, not zero. This is an assay-dependent estimate for one pooled sample.",
+      "training_eligible": false
+    },
+    {
+      "source_species_name": "Vipera ammodytes",
+      "reported_taxon": "Vipera ammodytes ammodytes",
+      "source": "The Venom of Vipera ammodytes ammodytes: Proteomics, Neurotoxic Effect and Neutralization by Antivenom (2024)",
+      "doi": "10.3390/vetsci11120605",
+      "url": "https://www.mdpi.com/2306-7381/11/12/605",
+      "limits": "Relevant primary study, but no values transcribed: determine whether reported family percentages quantify abundance or the distribution of identified protein groups, and reconcile the subspecies with the source label before ingestion.",
+      "training_eligible": false
+    }
+  ]
+}

@@ -8,7 +8,7 @@ const model=scope.window.SERPENT_STYLE_MODEL,presets=scope.window.SERPENT_PRESET
 const referenceIds=['naja_kaouthia','dendroaspis_polylepis'];
 const referencePresets=referenceIds.map(id=>presets.find(p=>p.preset_id===id));
 for(const preset of presets){
-  for(const [surface,values] of [['dorsal',{'3ftx':100,pla2:0,svmp:0}],['ventral',{'3ftx':0,pla2:100,svmp:0}]]){
+  for(const [surface,values] of [['dorsal',{'3ftx':98,pla2:1,svmp:1}],['ventral',{'3ftx':1,pla2:98,svmp:1}]]){
     const refs=[{preset,weight:.6},{preset:referencePresets[0],weight:.2},{preset:referencePresets[1],weight:.2}];
     const concept=style.concept(values,model,refs);
     assert.ok(concept,`${preset.preset_id} should create a concept`);

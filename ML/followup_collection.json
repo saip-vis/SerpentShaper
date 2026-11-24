@@ -1,0 +1,45 @@
+{
+  "status": "completed",
+  "species": [
+    {
+      "species": "Naja naja",
+      "folder": "pilot_150_cobra_followup",
+      "selected": 12,
+      "downloaded": 12,
+      "failures": 0,
+      "pending_review": 12
+    },
+    {
+      "species": "Oxyuranus scutellatus",
+      "folder": "pilot_151_taipan_followup",
+      "selected": 2,
+      "downloaded": 2,
+      "failures": 0,
+      "pending_review": 2
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "folder": "pilot_152_mamba_followup",
+      "selected": 12,
+      "downloaded": 12,
+      "failures": 0,
+      "pending_review": 12
+    },
+    {
+      "species": "Crotalus atrox",
+      "folder": "pilot_153_diamondback_followup",
+      "selected": 12,
+      "downloaded": 12,
+      "failures": 0,
+      "pending_review": 12
+    },
+    {
+      "species": "Dispholidus typus",
+      "folder": "pilot_154_boomslang_followup",
+      "selected": 12,
+      "downloaded": 12,
+      "failures": 0,
+      "pending_review": 12
+    }
+  ]
+}

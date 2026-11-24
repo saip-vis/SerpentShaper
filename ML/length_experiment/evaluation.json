@@ -1,0 +1,1404 @@
+{
+  "status": "exploratory_genus_held_out_test_not_product_validation",
+  "task": "Predict a compilation-reported species maximum total length from species-associated venom profiles.",
+  "rows": 267,
+  "species_labels": 141,
+  "genus_labels": 42,
+  "split": "5-fold GroupKFold by source genus; all profiles from each genus stay together; evaluation averages predictions within species.",
+  "preprocessing": "Per-fold training-only median imputation with missingness indicators, scaling, then ridge regression; each species has equal total regression training weight.",
+  "minimum_reported_input_categories": 3,
+  "baseline": "Training-fold median of one observed maximum length per species.",
+  "model_mae_mm": 718.0679252514575,
+  "baseline_mae_mm": 595.2765957446809,
+  "model_median_absolute_error_mm": 533.2034527161693,
+  "folds": [
+    {
+      "fold": 1,
+      "train_profiles": 213,
+      "test_profiles": 54,
+      "train_species": 113,
+      "test_species": 28,
+      "test_genera": [
+        "Atropoides",
+        "Bitis",
+        "Bothrops",
+        "Deinagkistrodon",
+        "Dendroaspis",
+        "Hemachatus",
+        "Notechis"
+      ],
+      "model_mae_mm": 547.2991226839346,
+      "baseline_mae_mm": 545.3571428571429
+    },
+    {
+      "fold": 2,
+      "train_profiles": 213,
+      "test_profiles": 54,
+      "train_species": 113,
+      "test_species": 28,
+      "test_genera": [
+        "Aipysurus",
+        "Bothriechis",
+        "Cerastes",
+        "Cerrophidion",
+        "Crotalus",
+        "Gloydius",
+        "Macrovipera",
+        "Montivipera"
+      ],
+      "model_mae_mm": 746.7899433037336,
+      "baseline_mae_mm": 498.89285714285717
+    },
+    {
+      "fold": 3,
+      "train_profiles": 214,
+      "test_profiles": 53,
+      "train_species": 113,
+      "test_species": 28,
+      "test_genera": [
+        "Dispholidus",
+        "Hydrophis",
+        "Lachesis",
+        "Micropechis",
+        "Naja",
+        "Oxyuranus",
+        "Toxicocalamus",
+        "Trimeresurus"
+      ],
+      "model_mae_mm": 786.9985793195789,
+      "baseline_mae_mm": 861.6071428571429
+    },
+    {
+      "fold": 4,
+      "train_profiles": 214,
+      "test_profiles": 53,
+      "train_species": 110,
+      "test_species": 31,
+      "test_genera": [
+        "Agkistrodon",
+        "Aspidelaps",
+        "Cryptelytrops",
+        "Echis",
+        "Metlapilcoatlus",
+        "Micrurus",
+        "Porthidium",
+        "Protobothrops",
+        "Rhinobothryum"
+      ],
+      "model_mae_mm": 818.1382029482801,
+      "baseline_mae_mm": 415.06451612903226
+    },
+    {
+      "fold": 5,
+      "train_profiles": 214,
+      "test_profiles": 53,
+      "train_species": 115,
+      "test_species": 26,
+      "test_genera": [
+        "Bothrocophias",
+        "Bungarus",
+        "Daboia",
+        "Hypnale",
+        "Ophiophagus",
+        "Ovophis",
+        "Pseudechis",
+        "Sistrurus",
+        "Tropidolaemus",
+        "Vipera"
+      ],
+      "model_mae_mm": 677.493811555996,
+      "baseline_mae_mm": 680.8846153846154
+    }
+  ],
+  "held_out_species_predictions": [
+    {
+      "species": "Atropoides picadoi",
+      "genus": "Atropoides",
+      "observed_mm": 1202.0,
+      "predicted_mm": 1246.9402050178035,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bitis arietans",
+      "genus": "Bitis",
+      "observed_mm": 1850.0,
+      "predicted_mm": 1502.899270892291,
+      "profile_count": 2,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bitis caudalis",
+      "genus": "Bitis",
+      "observed_mm": 600.0,
+      "predicted_mm": 902.0607587544675,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bitis gabonica",
+      "genus": "Bitis",
+      "observed_mm": 1800.0,
+      "predicted_mm": 1152.5207072234139,
+      "profile_count": 2,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bitis nasicornis",
+      "genus": "Bitis",
+      "observed_mm": 1200.0,
+      "predicted_mm": 1268.53372899911,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops alternatus",
+      "genus": "Bothrops",
+      "observed_mm": 1690.0,
+      "predicted_mm": 1619.6009526146156,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops asper",
+      "genus": "Bothrops",
+      "observed_mm": 2500.0,
+      "predicted_mm": 1155.992190285776,
+      "profile_count": 2,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops atrox",
+      "genus": "Bothrops",
+      "observed_mm": 1532.0,
+      "predicted_mm": 1896.5856220715855,
+      "profile_count": 16,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops ayerbei",
+      "genus": "Bothrops",
+      "observed_mm": 1270.0,
+      "predicted_mm": 1604.4569737634781,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops barnetti",
+      "genus": "Bothrops",
+      "observed_mm": 1400.0,
+      "predicted_mm": 1475.531671969875,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops caribbaeus",
+      "genus": "Bothrops",
+      "observed_mm": 2000.0,
+      "predicted_mm": 1724.2224165846428,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops cotiara",
+      "genus": "Bothrops",
+      "observed_mm": 1000.0,
+      "predicted_mm": 1818.2456431200035,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops diporus",
+      "genus": "Bothrops",
+      "observed_mm": 1100.0,
+      "predicted_mm": 1589.9242748016247,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops erythromelas",
+      "genus": "Bothrops",
+      "observed_mm": 850.0,
+      "predicted_mm": 1516.5766987578559,
+      "profile_count": 5,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops insularis",
+      "genus": "Bothrops",
+      "observed_mm": 1180.0,
+      "predicted_mm": 1882.6010942267812,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops jararaca",
+      "genus": "Bothrops",
+      "observed_mm": 1600.0,
+      "predicted_mm": 1775.9382454710696,
+      "profile_count": 3,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops jararacussu",
+      "genus": "Bothrops",
+      "observed_mm": 2200.0,
+      "predicted_mm": 1232.0740061082047,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops lanceolatus",
+      "genus": "Bothrops",
+      "observed_mm": 2000.0,
+      "predicted_mm": 1860.6607772677166,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops leucurus",
+      "genus": "Bothrops",
+      "observed_mm": 1950.0,
+      "predicted_mm": 734.6623720716833,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops neuwiedi",
+      "genus": "Bothrops",
+      "observed_mm": 1000.0,
+      "predicted_mm": 1469.6885068064596,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops pictus",
+      "genus": "Bothrops",
+      "observed_mm": 600.0,
+      "predicted_mm": 1293.3259064918245,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops pirajai",
+      "genus": "Bothrops",
+      "observed_mm": 1370.0,
+      "predicted_mm": 836.7965472838307,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Bothrops punctatus",
+      "genus": "Bothrops",
+      "observed_mm": 1400.0,
+      "predicted_mm": 1280.6100551336872,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Deinagkistrodon acutus",
+      "genus": "Deinagkistrodon",
+      "observed_mm": 1490.0,
+      "predicted_mm": 1265.509581956603,
+      "profile_count": 3,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Dendroaspis angusticeps",
+      "genus": "Dendroaspis",
+      "observed_mm": 2500.0,
+      "predicted_mm": 1823.1518214586806,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "genus": "Dendroaspis",
+      "observed_mm": 4250.0,
+      "predicted_mm": 2499.699933319739,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Hemachatus haemachatus",
+      "genus": "Hemachatus",
+      "observed_mm": 1500.0,
+      "predicted_mm": 1749.023480344149,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Notechis scutatus",
+      "genus": "Notechis",
+      "observed_mm": 2000.0,
+      "predicted_mm": 442.656743245034,
+      "profile_count": 1,
+      "fold": 1,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Aipysurus laevis",
+      "genus": "Aipysurus",
+      "observed_mm": 2000.0,
+      "predicted_mm": 1542.8913651591702,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Bothriechis aurifer",
+      "genus": "Bothriechis",
+      "observed_mm": 1000.0,
+      "predicted_mm": 2025.0071046362123,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Bothriechis bicolor",
+      "genus": "Bothriechis",
+      "observed_mm": 1000.0,
+      "predicted_mm": 1163.6063293812228,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Bothriechis marchi",
+      "genus": "Bothriechis",
+      "observed_mm": 968.0,
+      "predicted_mm": 1692.495164917437,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Bothriechis nigroviridis",
+      "genus": "Bothriechis",
+      "observed_mm": 937.0,
+      "predicted_mm": 3329.134052097598,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Bothriechis schlegelii",
+      "genus": "Bothriechis",
+      "observed_mm": 820.0,
+      "predicted_mm": 2565.786503785169,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Bothriechis supraciliaris",
+      "genus": "Bothriechis",
+      "observed_mm": 800.0,
+      "predicted_mm": 3336.73286537443,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Bothriechis thalassinus",
+      "genus": "Bothriechis",
+      "observed_mm": 1000.0,
+      "predicted_mm": 1835.817609733018,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Cerastes cerastes",
+      "genus": "Cerastes",
+      "observed_mm": 890.0,
+      "predicted_mm": 1223.9898621320435,
+      "profile_count": 2,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Cerastes vipera",
+      "genus": "Cerastes",
+      "observed_mm": 480.0,
+      "predicted_mm": 1288.8523899037536,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Cerrophidion godmani",
+      "genus": "Cerrophidion",
+      "observed_mm": 822.0,
+      "predicted_mm": 1230.3733214376873,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Cerrophidion sasai",
+      "genus": "Cerrophidion",
+      "observed_mm": 713.0,
+      "predicted_mm": 1230.3733214376873,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus adamanteus",
+      "genus": "Crotalus",
+      "observed_mm": 2515.0,
+      "predicted_mm": 1496.8313418966407,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus atrox",
+      "genus": "Crotalus",
+      "observed_mm": 2337.0,
+      "predicted_mm": 1179.6028446862686,
+      "profile_count": 2,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus basiliscus",
+      "genus": "Crotalus",
+      "observed_mm": 2045.0,
+      "predicted_mm": 1513.8739252805858,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus culminatus",
+      "genus": "Crotalus",
+      "observed_mm": 1680.0,
+      "predicted_mm": 1862.8492314821037,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus durissus",
+      "genus": "Crotalus",
+      "observed_mm": 1800.0,
+      "predicted_mm": 1383.44748844445,
+      "profile_count": 9,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus horridus",
+      "genus": "Crotalus",
+      "observed_mm": 1892.0,
+      "predicted_mm": 1276.981345067308,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus oreganus",
+      "genus": "Crotalus",
+      "observed_mm": 1625.0,
+      "predicted_mm": 1563.776811900179,
+      "profile_count": 11,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus polystictus",
+      "genus": "Crotalus",
+      "observed_mm": 1000.0,
+      "predicted_mm": 1101.7759613034093,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus scutulatus",
+      "genus": "Crotalus",
+      "observed_mm": 1400.0,
+      "predicted_mm": 1694.455608667491,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus simus",
+      "genus": "Crotalus",
+      "observed_mm": 1800.0,
+      "predicted_mm": 1332.007625858434,
+      "profile_count": 4,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus tigris",
+      "genus": "Crotalus",
+      "observed_mm": 910.0,
+      "predicted_mm": 1772.4865145638446,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus tzabcan",
+      "genus": "Crotalus",
+      "observed_mm": 1555.0,
+      "predicted_mm": 935.9488270793971,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Crotalus viridis",
+      "genus": "Crotalus",
+      "observed_mm": 1650.0,
+      "predicted_mm": 1426.5369537015579,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Gloydius brevicaudus",
+      "genus": "Gloydius",
+      "observed_mm": 710.0,
+      "predicted_mm": 1332.4849830513074,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Macrovipera lebetina",
+      "genus": "Macrovipera",
+      "observed_mm": 2140.0,
+      "predicted_mm": 844.70017140924,
+      "profile_count": 4,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Montivipera raddei",
+      "genus": "Montivipera",
+      "observed_mm": 1100.0,
+      "predicted_mm": 608.5037109166428,
+      "profile_count": 1,
+      "fold": 2,
+      "baseline_prediction_mm": 1340.0
+    },
+    {
+      "species": "Dispholidus typus",
+      "genus": "Dispholidus",
+      "observed_mm": 1850.0,
+      "predicted_mm": 1868.805258094385,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Hydrophis curtus",
+      "genus": "Hydrophis",
+      "observed_mm": 1100.0,
+      "predicted_mm": 1235.2442181784245,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Hydrophis platurus",
+      "genus": "Hydrophis",
+      "observed_mm": 880.0,
+      "predicted_mm": 1574.644953341854,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Hydrophis schistosus",
+      "genus": "Hydrophis",
+      "observed_mm": 1200.0,
+      "predicted_mm": 1542.10222974099,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Lachesis acrochorda",
+      "genus": "Lachesis",
+      "observed_mm": 3000.0,
+      "predicted_mm": 960.9628715609388,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Lachesis melanocephala",
+      "genus": "Lachesis",
+      "observed_mm": 3900.0,
+      "predicted_mm": 426.09036644548564,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Lachesis muta",
+      "genus": "Lachesis",
+      "observed_mm": 3600.0,
+      "predicted_mm": 974.9278139037079,
+      "profile_count": 3,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Lachesis stenophrys",
+      "genus": "Lachesis",
+      "observed_mm": 3900.0,
+      "predicted_mm": 879.7357126338779,
+      "profile_count": 2,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Micropechis ikaheka",
+      "genus": "Micropechis",
+      "observed_mm": 2000.0,
+      "predicted_mm": 1605.0426111307795,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja annulifera",
+      "genus": "Naja",
+      "observed_mm": 2130.0,
+      "predicted_mm": 1637.5604903631247,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja atra",
+      "genus": "Naja",
+      "observed_mm": 1650.0,
+      "predicted_mm": 1644.6281123633912,
+      "profile_count": 4,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja haje",
+      "genus": "Naja",
+      "observed_mm": 2600.0,
+      "predicted_mm": 1692.1315578627534,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja kaouthia",
+      "genus": "Naja",
+      "observed_mm": 2300.0,
+      "predicted_mm": 1337.3634969358293,
+      "profile_count": 6,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja katiensis",
+      "genus": "Naja",
+      "observed_mm": 1400.0,
+      "predicted_mm": 1569.9446897762073,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja melanoleuca",
+      "genus": "Naja",
+      "observed_mm": 2700.0,
+      "predicted_mm": 1405.6963562849114,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja mossambica",
+      "genus": "Naja",
+      "observed_mm": 1500.0,
+      "predicted_mm": 1429.2909959565068,
+      "profile_count": 2,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja naja",
+      "genus": "Naja",
+      "observed_mm": 2200.0,
+      "predicted_mm": 1643.1403181191245,
+      "profile_count": 11,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja nigricollis",
+      "genus": "Naja",
+      "observed_mm": 2700.0,
+      "predicted_mm": 1523.0083953996948,
+      "profile_count": 3,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja nubiae",
+      "genus": "Naja",
+      "observed_mm": 1480.0,
+      "predicted_mm": 1420.356320779535,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja pallida",
+      "genus": "Naja",
+      "observed_mm": 1500.0,
+      "predicted_mm": 1418.0461428167696,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Naja sputatrix",
+      "genus": "Naja",
+      "observed_mm": 1370.0,
+      "predicted_mm": 1513.758958603505,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Oxyuranus scutellatus",
+      "genus": "Oxyuranus",
+      "observed_mm": 3360.0,
+      "predicted_mm": 1742.903917300825,
+      "profile_count": 2,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Toxicocalamus longissimus",
+      "genus": "Toxicocalamus",
+      "observed_mm": 650.0,
+      "predicted_mm": 1397.2322126392717,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Trimeresurus albolabris",
+      "genus": "Trimeresurus",
+      "observed_mm": 1000.0,
+      "predicted_mm": 1074.5015601759342,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Trimeresurus insularis",
+      "genus": "Trimeresurus",
+      "observed_mm": 930.0,
+      "predicted_mm": 1193.7362319030706,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Trimeresurus puniceus",
+      "genus": "Trimeresurus",
+      "observed_mm": 860.0,
+      "predicted_mm": 975.9127052599588,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Trimeresurus purpureomaculatus",
+      "genus": "Trimeresurus",
+      "observed_mm": 1050.0,
+      "predicted_mm": 1099.9420236531168,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Trimeresurus stejnegeri",
+      "genus": "Trimeresurus",
+      "observed_mm": 1045.0,
+      "predicted_mm": 1546.0206594387455,
+      "profile_count": 1,
+      "fold": 3,
+      "baseline_prediction_mm": 1230.0
+    },
+    {
+      "species": "Agkistrodon bilineatus",
+      "genus": "Agkistrodon",
+      "observed_mm": 1380.0,
+      "predicted_mm": 1056.5371897969803,
+      "profile_count": 2,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Agkistrodon contortrix",
+      "genus": "Agkistrodon",
+      "observed_mm": 1350.0,
+      "predicted_mm": 1055.188610846682,
+      "profile_count": 5,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Agkistrodon piscivorus",
+      "genus": "Agkistrodon",
+      "observed_mm": 1892.0,
+      "predicted_mm": 996.1973565735793,
+      "profile_count": 4,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Aspidelaps lubricus",
+      "genus": "Aspidelaps",
+      "observed_mm": 850.0,
+      "predicted_mm": 2359.143445002956,
+      "profile_count": 2,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Aspidelaps scutatus",
+      "genus": "Aspidelaps",
+      "observed_mm": 750.0,
+      "predicted_mm": 2032.8041747170482,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Cryptelytrops purpureomaculatus",
+      "genus": "Cryptelytrops",
+      "observed_mm": 1050.0,
+      "predicted_mm": 1231.5171160188356,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Echis carinatus",
+      "genus": "Echis",
+      "observed_mm": 800.0,
+      "predicted_mm": 956.8244109100348,
+      "profile_count": 7,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Echis ocellatus",
+      "genus": "Echis",
+      "observed_mm": 670.0,
+      "predicted_mm": 1851.219494728389,
+      "profile_count": 2,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Metlapilcoatlus nummifer",
+      "genus": "Metlapilcoatlus",
+      "observed_mm": 870.0,
+      "predicted_mm": 2236.296415783073,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus alleni",
+      "genus": "Micrurus",
+      "observed_mm": 1340.0,
+      "predicted_mm": 1488.5605955241074,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus altirostris",
+      "genus": "Micrurus",
+      "observed_mm": 1310.0,
+      "predicted_mm": 1865.6665422216513,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus browni",
+      "genus": "Micrurus",
+      "observed_mm": 1000.0,
+      "predicted_mm": 2230.1853305024733,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus clarki",
+      "genus": "Micrurus",
+      "observed_mm": 832.0,
+      "predicted_mm": 2123.6856041274696,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus corallinus",
+      "genus": "Micrurus",
+      "observed_mm": 987.0,
+      "predicted_mm": 2007.4390813653717,
+      "profile_count": 2,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus dumerilii",
+      "genus": "Micrurus",
+      "observed_mm": 948.0,
+      "predicted_mm": 2025.0417018372202,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus frontalis",
+      "genus": "Micrurus",
+      "observed_mm": 1418.0,
+      "predicted_mm": 2092.6246030150814,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus lemniscatus",
+      "genus": "Micrurus",
+      "observed_mm": 1390.0,
+      "predicted_mm": 2687.6727047066297,
+      "profile_count": 2,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus mipartitus",
+      "genus": "Micrurus",
+      "observed_mm": 1130.0,
+      "predicted_mm": 2094.9665088953166,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus mosquitensis",
+      "genus": "Micrurus",
+      "observed_mm": 750.0,
+      "predicted_mm": 1476.3125842424674,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus nigrocinctus",
+      "genus": "Micrurus",
+      "observed_mm": 1150.0,
+      "predicted_mm": 1638.5578404787702,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus paraensis",
+      "genus": "Micrurus",
+      "observed_mm": 530.0,
+      "predicted_mm": 2427.062841913131,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus spixii",
+      "genus": "Micrurus",
+      "observed_mm": 1602.0,
+      "predicted_mm": 2466.653455540854,
+      "profile_count": 2,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus surinamensis",
+      "genus": "Micrurus",
+      "observed_mm": 1325.0,
+      "predicted_mm": 2306.391635956694,
+      "profile_count": 3,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Micrurus tschudii",
+      "genus": "Micrurus",
+      "observed_mm": 880.0,
+      "predicted_mm": 2367.962403623629,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Porthidium lansbergii",
+      "genus": "Porthidium",
+      "observed_mm": 900.0,
+      "predicted_mm": 1060.7948686512896,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Porthidium nasutum",
+      "genus": "Porthidium",
+      "observed_mm": 635.0,
+      "predicted_mm": 1135.8349231231346,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Porthidium ophryomegas",
+      "genus": "Porthidium",
+      "observed_mm": 800.0,
+      "predicted_mm": 1127.35216115767,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Porthidium porrasi",
+      "genus": "Porthidium",
+      "observed_mm": 700.0,
+      "predicted_mm": 1031.0250129538426,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Protobothrops flavoviridis",
+      "genus": "Protobothrops",
+      "observed_mm": 2400.0,
+      "predicted_mm": 971.4093784407011,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Protobothrops mucrosquamatus",
+      "genus": "Protobothrops",
+      "observed_mm": 1280.0,
+      "predicted_mm": 1407.9667918447672,
+      "profile_count": 2,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Rhinobothryum bovallii",
+      "genus": "Rhinobothryum",
+      "observed_mm": 1762.0,
+      "predicted_mm": 1174.9454217872826,
+      "profile_count": 1,
+      "fold": 4,
+      "baseline_prediction_mm": 1400.0
+    },
+    {
+      "species": "Bothrocophias campbelli",
+      "genus": "Bothrocophias",
+      "observed_mm": 1230.0,
+      "predicted_mm": 1352.637731739913,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Bungarus caeruleus",
+      "genus": "Bungarus",
+      "observed_mm": 1750.0,
+      "predicted_mm": 1595.6046631227302,
+      "profile_count": 3,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Bungarus candidus",
+      "genus": "Bungarus",
+      "observed_mm": 1600.0,
+      "predicted_mm": 2179.768155709101,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Bungarus fasciatus",
+      "genus": "Bungarus",
+      "observed_mm": 2250.0,
+      "predicted_mm": 1674.2365065968163,
+      "profile_count": 3,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Bungarus flaviceps",
+      "genus": "Bungarus",
+      "observed_mm": 1850.0,
+      "predicted_mm": 2106.9585321298787,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Bungarus multicinctus",
+      "genus": "Bungarus",
+      "observed_mm": 1354.0,
+      "predicted_mm": 1748.1581677645183,
+      "profile_count": 3,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Bungarus sindanus",
+      "genus": "Bungarus",
+      "observed_mm": 1800.0,
+      "predicted_mm": 1570.03526586438,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Daboia russelii",
+      "genus": "Daboia",
+      "observed_mm": 1850.0,
+      "predicted_mm": 1753.2644968380164,
+      "profile_count": 13,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Daboia siamensis",
+      "genus": "Daboia",
+      "observed_mm": 1500.0,
+      "predicted_mm": 1696.5248880973058,
+      "profile_count": 3,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Hypnale hypnale",
+      "genus": "Hypnale",
+      "observed_mm": 550.0,
+      "predicted_mm": 1442.753755015791,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Ophiophagus hannah",
+      "genus": "Ophiophagus",
+      "observed_mm": 5850.0,
+      "predicted_mm": 1575.0022535328808,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Ovophis convictus",
+      "genus": "Ovophis",
+      "observed_mm": 1150.0,
+      "predicted_mm": 2097.5511687869316,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Ovophis monticola",
+      "genus": "Ovophis",
+      "observed_mm": 1250.0,
+      "predicted_mm": 1687.0508777432717,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Ovophis okinavensis",
+      "genus": "Ovophis",
+      "observed_mm": 1000.0,
+      "predicted_mm": 1711.7515247550284,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Pseudechis australis",
+      "genus": "Pseudechis",
+      "observed_mm": 2750.0,
+      "predicted_mm": 1884.8643901293028,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Pseudechis papuanus",
+      "genus": "Pseudechis",
+      "observed_mm": 2440.0,
+      "predicted_mm": 1376.6114166674233,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Sistrurus catenatus",
+      "genus": "Sistrurus",
+      "observed_mm": 1030.0,
+      "predicted_mm": 1382.1171267827583,
+      "profile_count": 3,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Sistrurus miliarius",
+      "genus": "Sistrurus",
+      "observed_mm": 803.0,
+      "predicted_mm": 1362.7198656707142,
+      "profile_count": 3,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Tropidolaemus wagleri",
+      "genus": "Tropidolaemus",
+      "observed_mm": 920.0,
+      "predicted_mm": 1017.2417327152945,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Vipera aspis",
+      "genus": "Vipera",
+      "observed_mm": 850.0,
+      "predicted_mm": 1206.615307871137,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Vipera berus",
+      "genus": "Vipera",
+      "observed_mm": 752.0,
+      "predicted_mm": 1322.8027770340705,
+      "profile_count": 4,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Vipera kaznakovi",
+      "genus": "Vipera",
+      "observed_mm": 700.0,
+      "predicted_mm": 1068.138444462801,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Vipera nikolskii",
+      "genus": "Vipera",
+      "observed_mm": 496.0,
+      "predicted_mm": 1675.4926664163124,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Vipera orlovi",
+      "genus": "Vipera",
+      "observed_mm": 650.0,
+      "predicted_mm": 1416.1432310167297,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Vipera renardii",
+      "genus": "Vipera",
+      "observed_mm": 710.0,
+      "predicted_mm": 918.3988738907835,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    },
+    {
+      "species": "Vipera ursinii",
+      "genus": "Vipera",
+      "observed_mm": 600.0,
+      "predicted_mm": 1956.6332656051068,
+      "profile_count": 1,
+      "fold": 5,
+      "baseline_prediction_mm": 1350.0
+    }
+  ],
+  "input_sha256": {
+    "data/processed/venom_diet_2023/serpentshaper.sqlite": "abf3f5b22f003dfa9cabbcddc89f171c64a34c16b56a12cc675a9b18f27e3192",
+    "data/processed/morphology/physical_profiles.json": "77eb3833992a99c25fd3acc48316897ba951cada486fe35172f55cf949a6aa20",
+    "config/venom_input_spec.json": "e5f1da97e22415196aded20b2405d013a38741ef3e2a53f18e40a0d192b42322",
+    "config/venom_quality_flags.json": "c97646a4f8171b9f39be861da0995c5276ee502bfac81eb7458b14b4bd6f0ffd",
+    "scripts/train_length_experiment.py": "f5434b9089a1ab8420473152ebe985bdd75b20584496b95a8055fa2987fc94dd"
+  },
+  "versions": {
+    "scikit_learn": "1.9.1",
+    "numpy": "2.4.6"
+  },
+  "limitations": [
+    "Species maximum length is a compilation-reported extreme, not a typical or individually measured length.",
+    "Venom and morphology records are associated by unreconciled source name, not measured on the same animal.",
+    "Species and genus names may be unresolved synonyms; relatedness, shared sources, methods and geography can confound results.",
+    "A trained association does not show venom causes size, and outputs are not demonstrated to generalize to invented snakes.",
+    "Missing values are imputed within the training fold, with indicators; they are not claims that toxins are absent.",
+    "No images, diet, habitat, age or individual-level labels were used. The 2025 staged mamba record is not included.",
+    "No model selection or hyperparameter tuning is reported. Negative or implausible predictions are possible."
+  ]
+}

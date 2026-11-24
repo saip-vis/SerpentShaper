@@ -1,0 +1,7 @@
+{
+  "description": "Manually selected body patches; normalized coordinates [left, top, right, bottom]. Provisional reference-only color samples, not training labels. Lighting and scale pattern affect the result.",
+  "samples": [
+    {"image_id":"inat_873868", "manifest":"data/image_pilots/pilot_004_western_diamondback/manifest.json", "bbox":[0.405,0.55,0.62,0.64]},
+    {"image_id":"inat_937491", "manifest":"data/image_pilots/pilot_004_western_diamondback/manifest.json", "bbox":[0.47,0.408,0.49,0.47]}
+  ]
+}

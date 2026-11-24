@@ -1,0 +1,398 @@
+{
+  "screened_at": "2026-11-23T03:34:42.954845+00:00",
+  "scope": "50 follow-up photos screened visually at contact-sheet scale; selected originals inspected. Flags are not expert identification or a health diagnosis. All remain excluded from training.",
+  "species": [
+    {
+      "species": "Naja naja",
+      "folder": "pilot_150_cobra_followup",
+      "downloaded": 12,
+      "rejected": 3,
+      "flagged_for_closer_review": 4,
+      "candidates_pending_review": 5
+    },
+    {
+      "species": "Oxyuranus scutellatus",
+      "folder": "pilot_151_taipan_followup",
+      "downloaded": 2,
+      "rejected": 1,
+      "flagged_for_closer_review": 0,
+      "candidates_pending_review": 1
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "folder": "pilot_152_mamba_followup",
+      "downloaded": 12,
+      "rejected": 1,
+      "flagged_for_closer_review": 5,
+      "candidates_pending_review": 6
+    },
+    {
+      "species": "Crotalus atrox",
+      "folder": "pilot_153_diamondback_followup",
+      "downloaded": 12,
+      "rejected": 0,
+      "flagged_for_closer_review": 2,
+      "candidates_pending_review": 10
+    },
+    {
+      "species": "Dispholidus typus",
+      "folder": "pilot_154_boomslang_followup",
+      "downloaded": 12,
+      "rejected": 1,
+      "flagged_for_closer_review": 7,
+      "candidates_pending_review": 4
+    }
+  ],
+  "records": [
+    {
+      "image_id": "inat_764912440",
+      "species": "Naja naja",
+      "category": "needs_closer_review",
+      "note": "Snake mostly hidden in crevice.",
+      "photo_page": "https://www.inaturalist.org/photos/764912440"
+    },
+    {
+      "image_id": "inat_763006601",
+      "species": "Naja naja",
+      "category": "needs_closer_review",
+      "note": "Snake partially hidden in dark enclosure.",
+      "photo_page": "https://www.inaturalist.org/photos/763006601"
+    },
+    {
+      "image_id": "inat_755828337",
+      "species": "Naja naja",
+      "category": "reject",
+      "note": "Shed skin or remains rather than an intact live-animal reference.",
+      "photo_page": "https://www.inaturalist.org/photos/755828337"
+    },
+    {
+      "image_id": "inat_740837716",
+      "species": "Naja naja",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/740837716"
+    },
+    {
+      "image_id": "inat_728544358",
+      "species": "Naja naja",
+      "category": "reject",
+      "note": "Severe visible head injury.",
+      "photo_page": "https://www.inaturalist.org/photos/728544358"
+    },
+    {
+      "image_id": "inat_723530631",
+      "species": "Naja naja",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/723530631"
+    },
+    {
+      "image_id": "inat_699959793",
+      "species": "Naja naja",
+      "category": "reject",
+      "note": "Visible body and head injuries.",
+      "photo_page": "https://www.inaturalist.org/photos/699959793"
+    },
+    {
+      "image_id": "inat_695045053",
+      "species": "Naja naja",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/695045053"
+    },
+    {
+      "image_id": "inat_694311277",
+      "species": "Naja naja",
+      "category": "needs_closer_review",
+      "note": "Snake small and obscured in scene.",
+      "photo_page": "https://www.inaturalist.org/photos/694311277"
+    },
+    {
+      "image_id": "inat_688364265",
+      "species": "Naja naja",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/688364265"
+    },
+    {
+      "image_id": "inat_687674425",
+      "species": "Naja naja",
+      "category": "needs_closer_review",
+      "note": "Distant and blurry.",
+      "photo_page": "https://www.inaturalist.org/photos/687674425"
+    },
+    {
+      "image_id": "inat_679577337",
+      "species": "Naja naja",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/679577337"
+    },
+    {
+      "image_id": "inat_701469850",
+      "species": "Oxyuranus scutellatus",
+      "category": "reject",
+      "note": "Visible severe injury on road.",
+      "photo_page": "https://www.inaturalist.org/photos/701469850"
+    },
+    {
+      "image_id": "inat_701226080",
+      "species": "Oxyuranus scutellatus",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/701226080"
+    },
+    {
+      "image_id": "inat_722665604",
+      "species": "Dendroaspis polylepis",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/722665604"
+    },
+    {
+      "image_id": "inat_662677156",
+      "species": "Dendroaspis polylepis",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/662677156"
+    },
+    {
+      "image_id": "inat_647839558",
+      "species": "Dendroaspis polylepis",
+      "category": "needs_closer_review",
+      "note": "Heavily obscured by foliage.",
+      "photo_page": "https://www.inaturalist.org/photos/647839558"
+    },
+    {
+      "image_id": "inat_636517908",
+      "species": "Dendroaspis polylepis",
+      "category": "needs_closer_review",
+      "note": "Heavily obscured by grass.",
+      "photo_page": "https://www.inaturalist.org/photos/636517908"
+    },
+    {
+      "image_id": "inat_636012191",
+      "species": "Dendroaspis polylepis",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/636012191"
+    },
+    {
+      "image_id": "inat_628172794",
+      "species": "Dendroaspis polylepis",
+      "category": "needs_closer_review",
+      "note": "Mostly hidden by foliage.",
+      "photo_page": "https://www.inaturalist.org/photos/628172794"
+    },
+    {
+      "image_id": "inat_590631655",
+      "species": "Dendroaspis polylepis",
+      "category": "reject",
+      "note": "Severe visible injury on road.",
+      "photo_page": "https://www.inaturalist.org/photos/590631655"
+    },
+    {
+      "image_id": "inat_588181714",
+      "species": "Dendroaspis polylepis",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/588181714"
+    },
+    {
+      "image_id": "inat_582106250",
+      "species": "Dendroaspis polylepis",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/582106250"
+    },
+    {
+      "image_id": "inat_578332792",
+      "species": "Dendroaspis polylepis",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/578332792"
+    },
+    {
+      "image_id": "inat_554219099",
+      "species": "Dendroaspis polylepis",
+      "category": "needs_closer_review",
+      "note": "Snake difficult to distinguish in branches.",
+      "photo_page": "https://www.inaturalist.org/photos/554219099"
+    },
+    {
+      "image_id": "inat_462290760",
+      "species": "Dendroaspis polylepis",
+      "category": "needs_closer_review",
+      "note": "Body and head obscured by branches.",
+      "photo_page": "https://www.inaturalist.org/photos/462290760"
+    },
+    {
+      "image_id": "inat_762089726",
+      "species": "Crotalus atrox",
+      "category": "needs_closer_review",
+      "note": "Distant subject, limited detail.",
+      "photo_page": "https://www.inaturalist.org/photos/762089726"
+    },
+    {
+      "image_id": "inat_760911863",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/760911863"
+    },
+    {
+      "image_id": "inat_760862021",
+      "species": "Crotalus atrox",
+      "category": "needs_closer_review",
+      "note": "Very distant subject, limited detail.",
+      "photo_page": "https://www.inaturalist.org/photos/760862021"
+    },
+    {
+      "image_id": "inat_760218400",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/760218400"
+    },
+    {
+      "image_id": "inat_759892848",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/759892848"
+    },
+    {
+      "image_id": "inat_759054020",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/759054020"
+    },
+    {
+      "image_id": "inat_759014942",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/759014942"
+    },
+    {
+      "image_id": "inat_758711891",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/758711891"
+    },
+    {
+      "image_id": "inat_757438049",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/757438049"
+    },
+    {
+      "image_id": "inat_757292045",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/757292045"
+    },
+    {
+      "image_id": "inat_756608343",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/756608343"
+    },
+    {
+      "image_id": "inat_756590016",
+      "species": "Crotalus atrox",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/756590016"
+    },
+    {
+      "image_id": "inat_765369308",
+      "species": "Dispholidus typus",
+      "category": "needs_closer_review",
+      "note": "Partial crop; head not visible.",
+      "photo_page": "https://www.inaturalist.org/photos/765369308"
+    },
+    {
+      "image_id": "inat_761077219",
+      "species": "Dispholidus typus",
+      "category": "needs_closer_review",
+      "note": "Snake largely hidden behind nest; possible related/duplicate observation with inat_761076886.",
+      "photo_page": "https://www.inaturalist.org/photos/761077219"
+    },
+    {
+      "image_id": "inat_761076886",
+      "species": "Dispholidus typus",
+      "category": "needs_closer_review",
+      "note": "Snake largely hidden behind nest; possible related/duplicate observation with inat_761077219.",
+      "photo_page": "https://www.inaturalist.org/photos/761076886"
+    },
+    {
+      "image_id": "inat_747900169",
+      "species": "Dispholidus typus",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/747900169"
+    },
+    {
+      "image_id": "inat_739216817",
+      "species": "Dispholidus typus",
+      "category": "needs_closer_review",
+      "note": "Only part of body visible.",
+      "photo_page": "https://www.inaturalist.org/photos/739216817"
+    },
+    {
+      "image_id": "inat_736977129",
+      "species": "Dispholidus typus",
+      "category": "needs_closer_review",
+      "note": "Snake largely hidden in vegetation.",
+      "photo_page": "https://www.inaturalist.org/photos/736977129"
+    },
+    {
+      "image_id": "inat_732538316",
+      "species": "Dispholidus typus",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/732538316"
+    },
+    {
+      "image_id": "inat_731360788",
+      "species": "Dispholidus typus",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/731360788"
+    },
+    {
+      "image_id": "inat_722817339",
+      "species": "Dispholidus typus",
+      "category": "needs_closer_review",
+      "note": "Head close-up; possible damage or blood, requires closer review.",
+      "photo_page": "https://www.inaturalist.org/photos/722817339"
+    },
+    {
+      "image_id": "inat_722817119",
+      "species": "Dispholidus typus",
+      "category": "needs_closer_review",
+      "note": "Distant, backlit and obscured by branches.",
+      "photo_page": "https://www.inaturalist.org/photos/722817119"
+    },
+    {
+      "image_id": "inat_722800244",
+      "species": "Dispholidus typus",
+      "category": "reject",
+      "note": "Dead or injured specimen with flies; unsuitable as healthy anatomy reference.",
+      "photo_page": "https://www.inaturalist.org/photos/722800244"
+    },
+    {
+      "image_id": "inat_722766338",
+      "species": "Dispholidus typus",
+      "category": "candidate_pending_review",
+      "note": "No obvious disqualifying issue found in contact sheet; identity, condition and suitability still require review.",
+      "photo_page": "https://www.inaturalist.org/photos/722766338"
+    }
+  ]
+}

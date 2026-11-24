@@ -1,0 +1,93 @@
+{
+  "method": "shared-category mean absolute percentage-point difference; coverage first",
+  "status": "exploratory comparison; no model training and no performance evaluation",
+  "query_profile": {
+    "profile_id": "vd2023_e2d1aa974518_r189",
+    "species_name": "Dendroaspis polylepis",
+    "location": "Kenya",
+    "measurement_type": "proteomics",
+    "ingestion_status": "ready_with_caveats",
+    "source_row": 189
+  },
+  "ranked_reference_profiles": [
+    {
+      "reference_profile": {
+        "profile_id": "vd2023_e2d1aa974518_r305",
+        "species_name": "Oxyuranus scutellatus",
+        "location": "Papua New Guinea",
+        "measurement_type": "proteomics",
+        "ingestion_status": "ready_with_caveats",
+        "source_row": 305
+      },
+      "compared": 4,
+      "selected": 4,
+      "mean_absolute_difference_percentage_points": 37.2,
+      "shared_source_toxin_ids": [
+        "vd2023_AZ",
+        "vd2023_E",
+        "vd2023_T",
+        "vd2023_Z"
+      ]
+    },
+    {
+      "reference_profile": {
+        "profile_id": "vd2023_e2d1aa974518_r306",
+        "species_name": "Oxyuranus scutellatus",
+        "location": "Australia",
+        "measurement_type": "proteomics",
+        "ingestion_status": "ready_with_caveats",
+        "source_row": 306
+      },
+      "compared": 4,
+      "selected": 4,
+      "mean_absolute_difference_percentage_points": 41.025000000000006,
+      "shared_source_toxin_ids": [
+        "vd2023_AZ",
+        "vd2023_E",
+        "vd2023_T",
+        "vd2023_Z"
+      ]
+    },
+    {
+      "reference_profile": {
+        "profile_id": "vd2023_e2d1aa974518_r128",
+        "species_name": "Crotalus atrox",
+        "location": "unknown",
+        "measurement_type": "proteomics",
+        "ingestion_status": "ready_with_caveats",
+        "source_row": 128
+      },
+      "compared": 2,
+      "selected": 4,
+      "mean_absolute_difference_percentage_points": 17.45,
+      "shared_source_toxin_ids": [
+        "vd2023_AZ",
+        "vd2023_T"
+      ]
+    },
+    {
+      "reference_profile": {
+        "profile_id": "vd2023_e2d1aa974518_r127",
+        "species_name": "Crotalus atrox",
+        "location": "unknown",
+        "measurement_type": "proteomics",
+        "ingestion_status": "ready_with_caveats",
+        "source_row": 127
+      },
+      "compared": 2,
+      "selected": 4,
+      "mean_absolute_difference_percentage_points": 26.85,
+      "shared_source_toxin_ids": [
+        "vd2023_AZ",
+        "vd2023_T"
+      ]
+    }
+  ],
+  "limitations": [
+    "The query profile itself is excluded, but unknown shared studies or specimens may remain.",
+    "Missing values are not treated as zero; categories with no overlap cannot be compared.",
+    "The uncertain NP category in black mamba profile r189 is excluded from comparisons pending source reconciliation.",
+    "Venom profiles and photographs are associated only by source species name, not by individual.",
+    "Similarity does not validate venom-to-phenotype inference or imply a causal relationship."
+  ]
+}
