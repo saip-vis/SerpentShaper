@@ -19,7 +19,7 @@
     },
     {
       "path": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
-      "sha256": "4eaf558ab28ce214f6aaad3e3d327962a6b5ad42509b98fca8f10bb0ad980c78"
+      "sha256": "86bf26c7541dea7c2d2a03b325676207dd4d1d02eebafecabbb335a712839866"
     },
     {
       "path": "data/image_pilots/pilot_005_puff_adder/manifest.json",
@@ -19385,10 +19385,18 @@
             "basis": "User reviewed the western diamondback batch and said it checked out.",
             "scope": "Dataset review; not expert taxonomic certification."
           },
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "body_condition_unresolved",
+          "body_condition": "tail_condition_uncertain",
+          "training_hold": {
+            "reviewed_on": "2026-11-24",
+            "reviewer": "assistant",
+            "reason": "Tail-end appearance is unclear in the available photos; possible abnormal condition cannot be resolved visually. Hold all photos of this observation without asserting injury. User species review is preserved."
+          },
           "manifest_path": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": true
+          "rendering_eligible": false
         },
         {
           "image_id": "inat_1767460",
@@ -19437,10 +19445,18 @@
             "basis": "User reviewed the western diamondback batch and said it checked out.",
             "scope": "Dataset review; not expert taxonomic certification."
           },
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "body_condition_unresolved",
+          "body_condition": "tail_condition_uncertain",
+          "training_hold": {
+            "reviewed_on": "2026-11-24",
+            "reviewer": "assistant",
+            "reason": "Tail-end appearance is unclear in the available photos; possible abnormal condition cannot be resolved visually. Hold all photos of this observation without asserting injury. User species review is preserved."
+          },
           "manifest_path": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": true
+          "rendering_eligible": false
         },
         {
           "image_id": "inat_1904884",
@@ -20169,7 +20185,7 @@
         "ready_proteomic_profiles": 2,
         "image_records": 22,
         "available_images": 22,
-        "rendering_eligible_images": 10,
+        "rendering_eligible_images": 8,
         "review_statuses": {
           "accepted": 10,
           "unreviewed": 12
@@ -100816,7 +100832,7 @@
     "image_records": 1213,
     "available_images": 1213,
     "distinct_image_hashes": 1203,
-    "rendering_eligible_images": 27,
+    "rendering_eligible_images": 25,
     "unresolved_image_links": 0,
     "species_without_images": [
       "Ahaetulla prasina",

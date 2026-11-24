@@ -40,13 +40,13 @@
   ],
   "counts": {
     "image_records": 1213,
-    "not_eligible_under_source_gate": 1186,
-    "accepted_not_excluded": 27,
+    "not_eligible_under_source_gate": 1188,
+    "accepted_not_excluded": 25,
     "annotation_records": 0,
     "approved_joined_images": 0,
     "joined_source_species": 0,
     "joined_profile_image_rows": 0,
-    "accepted_photo_candidates_without_known_review_blocks": 12
+    "accepted_photo_candidates_without_known_review_blocks": 10
   },
   "target_source_species_counts": {
     "headWidth": 0,
@@ -347,34 +347,6 @@
       "review_blocks": [
         "advisory_quality_review"
       ]
-    },
-    {
-      "image_id": "inat_1767459",
-      "species": "Crotalus atrox",
-      "observation_id": 1428159,
-      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
-      "photo_page": "https://www.inaturalist.org/photos/1767459",
-      "sha256": "ba4001a14f7c6b79d2974841d9cb54e3022b073a43c08e3e66a66d93c6b39a7e",
-      "license": "cc-by",
-      "license_version": null,
-      "advisory_flag": "reference_candidate",
-      "advisory_note": "Coiled body, dorsal pattern and tail visible; same observation as WD07.",
-      "annotation_status": "not_automatically_approved",
-      "review_blocks": []
-    },
-    {
-      "image_id": "inat_1767460",
-      "species": "Crotalus atrox",
-      "observation_id": 1428159,
-      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
-      "photo_page": "https://www.inaturalist.org/photos/1767460",
-      "sha256": "864f26b81d3ae42c89da3a982a9d5d3d91e1e086b2fe21923f7746e2b88836b3",
-      "license": "cc-by",
-      "license_version": null,
-      "advisory_flag": "reference_candidate",
-      "advisory_note": "Another view of the same coiled snake as WD06.",
-      "annotation_status": "not_automatically_approved",
-      "review_blocks": []
     },
     {
       "image_id": "inat_1904884",

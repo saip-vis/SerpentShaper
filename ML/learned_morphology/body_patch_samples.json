@@ -34,16 +34,6 @@
       "note": "Coiled dorsal body; region includes light and dark patterned scales."
     },
     {
-      "image_id": "inat_1767459",
-      "bbox": [
-        0.4,
-        0.38,
-        0.53,
-        0.44
-      ],
-      "note": "Coiled dorsal body; region includes light and dark scales."
-    },
-    {
       "image_id": "inat_1904884",
       "bbox": [
         0.47,
@@ -102,6 +92,18 @@
         0.83
       ],
       "note": "Visible orange body scales under flash; pattern, glare and lighting affect color."
+    }
+  ],
+  "removed_samples": [
+    {
+      "image_id": "inat_1767459",
+      "former_bbox": [
+        0.4,
+        0.38,
+        0.53,
+        0.44
+      ],
+      "reason": "Entire observation held due to unresolved visible tail condition."
     }
   ]
 }

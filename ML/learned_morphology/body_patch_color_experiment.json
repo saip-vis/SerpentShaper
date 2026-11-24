@@ -25,312 +25,312 @@
   "model": "Three regularized linear regressions; species-equal training weights; fold-specific median/missingness preprocessing.",
   "data": {
     "source_species_count": 8,
-    "observation_count": 10,
-    "photo_count": 10,
-    "profile_image_rows": 35,
+    "observation_count": 9,
+    "photo_count": 9,
+    "profile_image_rows": 33,
     "link_scope": "source species label only; venom and photo do not come from a verified common specimen"
   },
   "evaluation_method": "Leave-one-genus-out; average predictions per source species; compare with the mean training-species patch color.",
   "evaluation": {
     "patch_r": {
       "held_out_species": 8,
-      "model_mae": 0.14927919816758445,
-      "baseline_mae": 0.15271241830065366,
+      "model_mae": 0.13885411254705754,
+      "baseline_mae": 0.14131652661064428,
       "predictions": [
-        {
-          "species": "Daboia russelii",
-          "actual": 0.8078431372549021,
-          "predicted": 0.41609639505282153,
-          "baseline": 0.39981325863678807
-        },
-        {
-          "species": "Naja kaouthia",
-          "actual": 0.3490196078431373,
-          "predicted": 0.414261473013347,
-          "baseline": 0.4653594771241831
-        },
-        {
-          "species": "Crotalus atrox",
-          "actual": 0.44183006535947716,
-          "predicted": 0.5754943878195333,
-          "baseline": 0.45210084033613457
-        },
-        {
-          "species": "Bungarus multicinctus",
-          "actual": 0.3607843137254902,
-          "predicted": 0.3856485913706229,
-          "baseline": 0.4435729847494554
-        },
         {
           "species": "Aspidelaps lubricus",
           "actual": 0.5843137254901961,
-          "predicted": 0.4454579141636644,
-          "baseline": 0.4435729847494554
-        },
-        {
-          "species": "Oxyuranus scutellatus",
-          "actual": 0.20784313725490197,
-          "predicted": 0.48374265710042375,
-          "baseline": 0.5087581699346406
-        },
-        {
-          "species": "Dendroaspis polylepis",
-          "actual": 0.403921568627451,
-          "predicted": 0.4822460416087334,
-          "baseline": 0.5087581699346406
+          "predicted": 0.4259844584715561,
+          "baseline": 0.43473389355742303
         },
         {
           "species": "Bitis arietans",
           "actual": 0.45098039215686275,
-          "predicted": 0.5366169658667234,
-          "baseline": 0.5087581699346406
+          "predicted": 0.48469710984199765,
+          "baseline": 0.45378151260504207
+        },
+        {
+          "species": "Bungarus multicinctus",
+          "actual": 0.3607843137254902,
+          "predicted": 0.4253301585757407,
+          "baseline": 0.46666666666666673
+        },
+        {
+          "species": "Crotalus atrox",
+          "actual": 0.46274509803921565,
+          "predicted": 0.5754943878195333,
+          "baseline": 0.45210084033613457
+        },
+        {
+          "species": "Daboia russelii",
+          "actual": 0.8078431372549021,
+          "predicted": 0.4219454333925057,
+          "baseline": 0.4028011204481793
+        },
+        {
+          "species": "Dendroaspis polylepis",
+          "actual": 0.403921568627451,
+          "predicted": 0.3647965744603591,
+          "baseline": 0.46050420168067235
+        },
+        {
+          "species": "Naja kaouthia",
+          "actual": 0.3490196078431373,
+          "predicted": 0.4196900468275177,
+          "baseline": 0.4683473389355743
+        },
+        {
+          "species": "Oxyuranus scutellatus",
+          "actual": 0.20784313725490197,
+          "predicted": 0.4536417812831503,
+          "baseline": 0.4885154061624651
         }
       ]
     },
     "patch_g": {
       "held_out_species": 8,
-      "model_mae": 0.12547740974803906,
-      "baseline_mae": 0.11872549019607839,
+      "model_mae": 0.12118980188935276,
+      "baseline_mae": 0.10322128851540614,
       "predictions": [
-        {
-          "species": "Daboia russelii",
-          "actual": 0.7137254901960783,
-          "predicted": 0.3190724250457404,
-          "baseline": 0.3226890756302521
-        },
-        {
-          "species": "Naja kaouthia",
-          "actual": 0.2980392156862745,
-          "predicted": 0.31900294480710145,
-          "baseline": 0.38207282913165264
-        },
-        {
-          "species": "Crotalus atrox",
-          "actual": 0.38823529411764707,
-          "predicted": 0.47927926735371784,
-          "baseline": 0.36918767507002803
-        },
-        {
-          "species": "Bungarus multicinctus",
-          "actual": 0.3490196078431372,
-          "predicted": 0.32523189478051,
-          "baseline": 0.37450980392156863
-        },
         {
           "species": "Aspidelaps lubricus",
           "actual": 0.3764705882352941,
-          "predicted": 0.3849991907883844,
-          "baseline": 0.37450980392156863
-        },
-        {
-          "species": "Oxyuranus scutellatus",
-          "actual": 0.1450980392156863,
-          "predicted": 0.4334712276507843,
-          "baseline": 0.4250980392156862
-        },
-        {
-          "species": "Dendroaspis polylepis",
-          "actual": 0.36470588235294116,
-          "predicted": 0.40495550525626467,
-          "baseline": 0.4250980392156862
+          "predicted": 0.38506326852611417,
+          "baseline": 0.37030812324929974
         },
         {
           "species": "Bitis arietans",
           "actual": 0.33725490196078434,
-          "predicted": 0.47347428548372233,
-          "baseline": 0.4250980392156862
+          "predicted": 0.41284889934016045,
+          "baseline": 0.37591036414565826
+        },
+        {
+          "species": "Bungarus multicinctus",
+          "actual": 0.3490196078431372,
+          "predicted": 0.32052785317078647,
+          "baseline": 0.3742296918767507
+        },
+        {
+          "species": "Crotalus atrox",
+          "actual": 0.3843137254901961,
+          "predicted": 0.47927926735371784,
+          "baseline": 0.36918767507002803
+        },
+        {
+          "species": "Daboia russelii",
+          "actual": 0.7137254901960783,
+          "predicted": 0.3180664119529079,
+          "baseline": 0.32212885154061627
+        },
+        {
+          "species": "Dendroaspis polylepis",
+          "actual": 0.36470588235294116,
+          "predicted": 0.27859338802051775,
+          "baseline": 0.3719887955182073
+        },
+        {
+          "species": "Naja kaouthia",
+          "actual": 0.2980392156862745,
+          "predicted": 0.31789563372753776,
+          "baseline": 0.3815126050420168
+        },
+        {
+          "species": "Oxyuranus scutellatus",
+          "actual": 0.1450980392156863,
+          "predicted": 0.4053444895075826,
+          "baseline": 0.40336134453781514
         }
       ]
     },
     "patch_b": {
       "held_out_species": 8,
-      "model_mae": 0.1864718257740446,
-      "baseline_mae": 0.18008092125739186,
+      "model_mae": 0.15543790769901938,
+      "baseline_mae": 0.14621848739495796,
       "predictions": [
-        {
-          "species": "Daboia russelii",
-          "actual": 0.6666666666666666,
-          "predicted": 0.2772386345879059,
-          "baseline": 0.299906629318394
-        },
-        {
-          "species": "Naja kaouthia",
-          "actual": 0.3058823529411765,
-          "predicted": 0.3365509294427584,
-          "baseline": 0.35144724556489265
-        },
-        {
-          "species": "Crotalus atrox",
-          "actual": 0.37777777777777777,
-          "predicted": 0.38316920331705334,
-          "baseline": 0.3411764705882353
-        },
-        {
-          "species": "Bungarus multicinctus",
-          "actual": 0.46274509803921565,
-          "predicted": 0.28591765182084056,
-          "baseline": 0.31786492374727665
-        },
         {
           "species": "Aspidelaps lubricus",
           "actual": 0.396078431372549,
-          "predicted": 0.36060612711011913,
-          "baseline": 0.31786492374727665
-        },
-        {
-          "species": "Oxyuranus scutellatus",
-          "actual": 0.07450980392156863,
-          "predicted": 0.480542500052792,
-          "baseline": 0.44183006535947716
-        },
-        {
-          "species": "Dendroaspis polylepis",
-          "actual": 0.3254901960784314,
-          "predicted": 0.4516054236435656,
-          "baseline": 0.44183006535947716
+          "predicted": 0.41749269098036856,
+          "baseline": 0.33613445378151263
         },
         {
           "species": "Bitis arietans",
           "actual": 0.1568627450980392,
-          "predicted": 0.4787016429936153,
-          "baseline": 0.44183006535947716
+          "predicted": 0.37801520882642703,
+          "baseline": 0.37030812324929974
+        },
+        {
+          "species": "Bungarus multicinctus",
+          "actual": 0.46274509803921565,
+          "predicted": 0.29386695043572897,
+          "baseline": 0.3266106442577031
+        },
+        {
+          "species": "Crotalus atrox",
+          "actual": 0.3607843137254902,
+          "predicted": 0.38316920331705334,
+          "baseline": 0.3411764705882353
+        },
+        {
+          "species": "Daboia russelii",
+          "actual": 0.6666666666666666,
+          "predicted": 0.27258666968789746,
+          "baseline": 0.29747899159663865
+        },
+        {
+          "species": "Dendroaspis polylepis",
+          "actual": 0.3254901960784314,
+          "predicted": 0.261834423870957,
+          "baseline": 0.346218487394958
+        },
+        {
+          "species": "Naja kaouthia",
+          "actual": 0.3058823529411765,
+          "predicted": 0.3321272823431764,
+          "baseline": 0.34901960784313724
+        },
+        {
+          "species": "Oxyuranus scutellatus",
+          "actual": 0.07450980392156863,
+          "predicted": 0.4002026063942231,
+          "baseline": 0.38207282913165264
         }
       ]
     }
   },
-  "mean_channel_mae_normalized": 0.15374281122988936,
-  "baseline_mean_channel_mae_normalized": 0.15050627658470797,
-  "mean_channel_mae_8bit": 39.20441686362179,
-  "baseline_mean_channel_mae_8bit": 38.37910052910053,
+  "mean_channel_mae_normalized": 0.1384939407118099,
+  "baseline_mean_channel_mae_normalized": 0.13025210084033614,
+  "mean_channel_mae_8bit": 35.31595488151152,
+  "baseline_mean_channel_mae_8bit": 33.214285714285715,
   "models": {
     "patch_r": {
       "median": [
         40.74074074074074,
-        21.5,
-        5.1,
-        13.345,
+        22.19,
+        4.9,
+        12.75,
         5.455,
         2.8,
         11.1,
         3.08,
-        1.89,
+        1.585,
         1.4,
         1.05,
         0.9
       ],
       "coefficients": [
-        0.06607827427027282,
-        -0.01618276811729068,
-        -0.01648447371810484,
-        -0.0003352405881325879,
-        0.011392319588041112,
-        0.002106736866439857,
-        -0.0007290247895189083,
-        0.0036858692636012845,
-        -0.0026831958640897687,
-        -0.003568939998326226,
-        -0.0007514692799645349,
-        -5.442873546014093e-33,
-        0.10947542689982537,
-        0.010539288876007469,
-        0.010835494483430436,
-        -0.0562239297602917,
-        -0.07446014821712695,
-        0.025037359265952817,
-        -0.0758191165461135,
-        -0.014497351809478573,
-        -0.0749940259373974,
-        0.035507100027327106,
-        0.06107753637473528,
-        0.017657445663737028
+        0.06534554036673097,
+        -0.016425729248245587,
+        -0.015050963621643617,
+        0.00033782694321146537,
+        0.012066515676841584,
+        0.0018269238326679485,
+        -0.0007313174619577053,
+        0.003584098486550207,
+        -0.0022098708891966994,
+        -0.0038278855465218864,
+        -0.0007484167481607882,
+        -3.4287583644844476e-33,
+        0.11222638593467968,
+        0.0116323362386213,
+        0.01067086402131714,
+        -0.056619323821793466,
+        -0.06954361982283935,
+        0.02404252407142878,
+        -0.07465421068181123,
+        -0.015325438581211475,
+        -0.07670402035602185,
+        0.033166284598938216,
+        0.060919864482065655,
+        0.014849106633880223
       ],
-      "intercept": 0.4412580993534317
+      "intercept": 0.4469597932584702
     },
     "patch_g": {
       "median": [
         40.74074074074074,
-        21.5,
-        5.1,
-        13.345,
+        22.19,
+        4.9,
+        12.75,
         5.455,
         2.8,
         11.1,
         3.08,
-        1.89,
+        1.585,
         1.4,
         1.05,
         0.9
       ],
       "coefficients": [
-        0.03953875238611316,
-        -0.0037386923711883588,
-        -0.019592172513085676,
-        -0.00189576378909093,
-        0.020590043072262625,
-        -0.0004204345294747671,
-        -0.0006441863564138462,
-        0.0028832211837780874,
-        -0.0012822695452842177,
-        -0.006053282559679815,
-        -0.00020429047340898414,
-        -1.2769182361562358e-33,
-        0.10910123287430273,
-        0.026323719915034863,
-        0.02537713173158426,
-        -0.053487909875961005,
-        -0.03938165193588811,
-        0.021510941295923125,
-        -0.07719569431961293,
-        -0.004229409443306667,
-        -0.05936539669491594,
-        0.03539371371457474,
-        0.04091500379175463,
-        0.01175809735087838
+        0.03970466588609056,
+        -0.003544705448927052,
+        -0.019912570293496603,
+        -0.0016420850241088039,
+        0.02047796548181295,
+        -0.00036706965840219207,
+        -0.0006434618392111333,
+        0.00290261283568631,
+        -0.001147479605407455,
+        -0.006002764758021377,
+        -0.00020486797798229087,
+        -1.2681318834988332e-33,
+        0.10858457816710564,
+        0.026140696125192993,
+        0.025381139208620673,
+        -0.05340968223790064,
+        -0.04030278518389335,
+        0.02169425116054031,
+        -0.07741043497012877,
+        -0.00407096950368406,
+        -0.059056178110787914,
+        0.03582054142128857,
+        0.04095713275808774,
+        0.01228253553595781
       ],
-      "intercept": 0.37333843095112984
+      "intercept": 0.37215787333302874
     },
     "patch_b": {
       "median": [
         40.74074074074074,
-        21.5,
-        5.1,
-        13.345,
+        22.19,
+        4.9,
+        12.75,
         5.455,
         2.8,
         11.1,
         3.08,
-        1.89,
+        1.585,
         1.4,
         1.05,
         0.9
       ],
       "coefficients": [
-        0.05836683382443072,
-        -0.007314398354383144,
-        -0.02691997211224083,
-        -0.005810506251138238,
-        0.017928783071690192,
-        -0.0059913646423938325,
-        -0.0007698136987665548,
-        0.0018105862406557092,
-        -0.0020921648946444337,
-        -0.010842202531855185,
-        0.0003573182204044359,
-        4.012537085673466e-34,
-        0.11250473833486815,
-        0.020040445107315775,
-        0.05908334447499628,
-        -0.015555503518385607,
-        -0.004378824713641221,
-        0.05265243767717764,
-        -0.07432718368723992,
-        -0.016447555926017324,
-        -0.08975808150980354,
-        0.06821025706877586,
-        0.030803072950631744,
-        -0.0001373684022642609
+        0.05898848375494077,
+        -0.0069759360704516465,
+        -0.028213781778173682,
+        -0.005993181641704172,
+        0.017411033525588402,
+        -0.0057630894736291835,
+        -0.0007677287083391358,
+        0.0018933394588389859,
+        -0.0020170158730873074,
+        -0.01062952518558221,
+        0.0003547570864367055,
+        -2.081114235758324e-33,
+        0.11027725901330233,
+        0.019199160137919846,
+        0.059176022516422164,
+        -0.015236518940211755,
+        -0.00837454538383816,
+        0.0534534506177888,
+        -0.07527140725005804,
+        -0.015760009266728638,
+        -0.08837827092671892,
+        0.07009331636004935,
+        0.030949681062414552,
+        0.0021369728414779355
       ],
-      "intercept": 0.30413629572943857
+      "intercept": 0.2993929269586695
     }
   },
   "image_records": [
@@ -405,30 +405,6 @@
         0.4549019607843137
       ],
       "note": "Coiled dorsal body; region includes light and dark patterned scales."
-    },
-    {
-      "image_id": "inat_1767459",
-      "species_label": "Crotalus atrox",
-      "observation_id": 1428159,
-      "photo_page": "https://www.inaturalist.org/photos/1767459",
-      "photo_sha256": "ba4001a14f7c6b79d2974841d9cb54e3022b073a43c08e3e66a66d93c6b39a7e",
-      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
-      "photo_license": "cc-by",
-      "license_version": null,
-      "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
-      "bbox": [
-        0.4,
-        0.38,
-        0.53,
-        0.44
-      ],
-      "pixel_count": 14976,
-      "median_rgb": [
-        0.4,
-        0.396078431372549,
-        0.4117647058823529
-      ],
-      "note": "Coiled dorsal body; region includes light and dark scales."
     },
     {
       "image_id": "inat_1904884",
@@ -576,14 +552,14 @@
     }
   ],
   "input_sha256": {
-    "ML/learned_morphology/body_patch_samples.json": "e8aea86963ecd5a9021b98f8f916ba1128a0cdbbdddbccd5807e4872b0be0af4",
-    "ML/learned_morphology/body_patch_measurements.json": "e64ceaeba94e7a086bcf7ffbd68b3ec760bd8a194e37474f95e3849df3c7bb47",
+    "ML/learned_morphology/body_patch_samples.json": "b39d4bbfe1b7adaad8a26b2334aa9e7a0fc638bf08be36a182ea0317afe24885",
+    "ML/learned_morphology/body_patch_measurements.json": "4acb9dceb3bce039f171d8653c8accd7fabba54644ad50dcb35d2c320c9b1158",
     "scripts/train_photo_color_pilot.py": "d1816a13e2bc8c575e2da24aabb74b878fb34a5a65d966527c73eb12d5f2bf86",
-    "scripts/train_learned_morphology.py": "f4e29a9fba55af2369b1f840ad474789dcc9850a8cbc75350d21eed15622e4c9",
+    "scripts/train_learned_morphology.py": "43754901c0682e9678564aadd2e099223716f4bed0bfa73fa2c00f38a3750865",
     "scripts/build_learned_training_data.py": "55bd5e8b11aa8ed4c44607a8ed3118d7dfd4fcc5abc463cfebbfefc3718057bb",
     "data/image_pilots/pilot_002_coastal_taipan/manifest.json": "2bda966746785ad673db7e2a574036dcba012d96d569a88c8440b487d41c0d5a",
     "data/image_pilots/pilot_003_black_mamba/manifest.json": "335c6fab59daa4e5ba91fe1113a7eec2d11d70caf9726ebe74047c8baeed8275",
-    "data/image_pilots/pilot_004_western_diamondback/manifest.json": "4eaf558ab28ce214f6aaad3e3d327962a6b5ad42509b98fca8f10bb0ad980c78",
+    "data/image_pilots/pilot_004_western_diamondback/manifest.json": "86bf26c7541dea7c2d2a03b325676207dd4d1d02eebafecabbb335a712839866",
     "data/image_pilots/pilot_005_puff_adder/manifest.json": "af5ee1d97713a0280d7af3e6dc5fbd8e92b854e4fc3c49f0c06b3f326c03112f",
     "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json": "4237bc67418f92a1f378f6ec7d2111354be30222270468ae9b40af8df01c5c85",
     "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json": "2afac7c8331f59ef1751752d627e3784e310b307e8fe7634af84648bbe07695f",

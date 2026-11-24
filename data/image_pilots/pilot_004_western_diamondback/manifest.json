@@ -285,6 +285,14 @@
       "decision": "accepted",
       "basis": "User reviewed the western diamondback batch and said it checked out.",
       "scope": "Dataset review; not expert taxonomic certification."
+    },
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "body_condition_unresolved",
+    "body_condition": "tail_condition_uncertain",
+    "training_hold": {
+      "reviewed_on": "2026-11-24",
+      "reviewer": "assistant",
+      "reason": "Tail-end appearance is unclear in the available photos; possible abnormal condition cannot be resolved visually. Hold all photos of this observation without asserting injury. User species review is preserved."
     }
   },
   {
@@ -333,6 +341,14 @@
       "decision": "accepted",
       "basis": "User reviewed the western diamondback batch and said it checked out.",
       "scope": "Dataset review; not expert taxonomic certification."
+    },
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "body_condition_unresolved",
+    "body_condition": "tail_condition_uncertain",
+    "training_hold": {
+      "reviewed_on": "2026-11-24",
+      "reviewer": "assistant",
+      "reason": "Tail-end appearance is unclear in the available photos; possible abnormal condition cannot be resolved visually. Hold all photos of this observation without asserting injury. User species review is preserved."
     }
   },
   {

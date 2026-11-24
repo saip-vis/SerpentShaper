@@ -8,7 +8,7 @@
     "Species-level photo and venom associations are not paired individuals.",
     "No image, specimen, or annotation approval is changed by this script."
   ],
-  "sample_definition_sha256": "e8aea86963ecd5a9021b98f8f916ba1128a0cdbbdddbccd5807e4872b0be0af4",
+  "sample_definition_sha256": "b39d4bbfe1b7adaad8a26b2334aa9e7a0fc638bf08be36a182ea0317afe24885",
   "records": [
     {
       "image_id": "inat_244026573",
@@ -81,30 +81,6 @@
         0.4549019607843137
       ],
       "note": "Coiled dorsal body; region includes light and dark patterned scales."
-    },
-    {
-      "image_id": "inat_1767459",
-      "species_label": "Crotalus atrox",
-      "observation_id": 1428159,
-      "photo_page": "https://www.inaturalist.org/photos/1767459",
-      "photo_sha256": "ba4001a14f7c6b79d2974841d9cb54e3022b073a43c08e3e66a66d93c6b39a7e",
-      "manifest": "data/image_pilots/pilot_004_western_diamondback/manifest.json",
-      "photo_license": "cc-by",
-      "license_version": null,
-      "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
-      "bbox": [
-        0.4,
-        0.38,
-        0.53,
-        0.44
-      ],
-      "pixel_count": 14976,
-      "median_rgb": [
-        0.4,
-        0.396078431372549,
-        0.4117647058823529
-      ],
-      "note": "Coiled dorsal body; region includes light and dark scales."
     },
     {
       "image_id": "inat_1904884",

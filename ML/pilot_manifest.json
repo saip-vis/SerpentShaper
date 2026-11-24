@@ -1601,8 +1601,8 @@
       "all_profile_count": 2,
       "image_records": 22,
       "available_images": 22,
-      "accepted_and_metadata_checked_images": 10,
-      "accepted_unique_observations": 8,
+      "accepted_and_metadata_checked_images": 8,
+      "accepted_unique_observations": 7,
       "unreviewed_images": 12,
       "rejected_images": 0,
       "license_versions_missing": 22,
@@ -1754,13 +1754,16 @@
           "provider_species_name": "Crotalus atrox",
           "species_link_status": "exact_name",
           "review_status": "accepted",
-          "rendering_eligible": true,
+          "rendering_eligible": false,
           "photo_license": "cc-by",
           "license_version": null,
           "license_reference": "https://www.inaturalist.org/pages/terms",
           "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
-          "eligible_for_pilot_after_metadata_checks": true,
-          "excluded_reasons": [],
+          "eligible_for_pilot_after_metadata_checks": false,
+          "excluded_reasons": [
+            "not_accepted_by_existing_rendering_gate",
+            "excluded_or_reference_only"
+          ],
           "split": null
         },
         {
@@ -1777,13 +1780,16 @@
           "provider_species_name": "Crotalus atrox",
           "species_link_status": "exact_name",
           "review_status": "accepted",
-          "rendering_eligible": true,
+          "rendering_eligible": false,
           "photo_license": "cc-by",
           "license_version": null,
           "license_reference": "https://www.inaturalist.org/pages/terms",
           "attribution": "(c) Sam Kieschnick, some rights reserved (CC BY)",
-          "eligible_for_pilot_after_metadata_checks": true,
-          "excluded_reasons": [],
+          "eligible_for_pilot_after_metadata_checks": false,
+          "excluded_reasons": [
+            "not_accepted_by_existing_rendering_gate",
+            "excluded_or_reference_only"
+          ],
           "split": null
         },
         {

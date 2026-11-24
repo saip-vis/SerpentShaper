@@ -10,7 +10,7 @@ from pathlib import Path
 
 import numpy as np
 from sklearn.linear_model import Ridge
-from sklearn.model_selection import GroupKFold
+from sklearn.model_selection import LeaveOneGroupOut
 
 from build_learned_training_data import ROOT, OUTPUTS, build, sha
 
@@ -60,7 +60,7 @@ def predict(row,params):
 def evaluate(rows,target,feature_count):
     groups=np.array([genus(r['species']) for r in rows])
     results=[]
-    for train_idx,test_idx in GroupKFold(n_splits=min(5,len(set(groups)))).split(np.zeros((len(rows),1)),groups=groups):
+    for train_idx,test_idx in LeaveOneGroupOut().split(np.zeros((len(rows),1)),groups=groups):
         train=[rows[int(i)] for i in train_idx];test=[rows[int(i)] for i in test_idx]
         if {genus(r['species']) for r in train}&{genus(r['species']) for r in test}:
             raise ValueError('Genus leakage')
