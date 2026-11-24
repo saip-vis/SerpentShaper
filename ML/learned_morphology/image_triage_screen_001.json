@@ -4,7 +4,7 @@
   "batch": "ML/learned_morphology/image_triage_batch_001.json",
   "batch_sha256": "4826fd56e5dd1539296856a4b19fee45b2c077b69dae91b52ec1c74b4c4f1ad0",
   "screened_on": "2026-11-24",
-  "scope": "72 photos screened in contact sheets; four damaged images individually inspected and rejected; five further photos individually inspected and accepted for visible body evidence. Others remain unreviewed.",
+  "scope": "72 photos screened in contact sheets; six damaged images individually inspected and rejected; five further photos individually inspected and accepted for visible body evidence. Others remain unreviewed.",
   "records": [
     {
       "image_id": "inat_136221239",
@@ -33,8 +33,8 @@
       "manifest": "data/image_pilots/pilot_108_naja_kaouthia/manifest.json",
       "photo_page": "https://www.inaturalist.org/photos/175095743",
       "screen_status": "condition_review",
-      "screen_method": "contact_sheet",
-      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+      "screen_method": "full_image",
+      "note": "Full image inspected; condition or photographic usefulness remains uncertain. No injury diagnosis or training approval made."
     },
     {
       "image_id": "inat_157899882",
@@ -103,8 +103,8 @@
       "manifest": "data/image_pilots/pilot_007_boomslang/manifest.json",
       "photo_page": "https://www.inaturalist.org/photos/2829005",
       "screen_status": "condition_review",
-      "screen_method": "contact_sheet",
-      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+      "screen_method": "full_image",
+      "note": "Full image inspected; condition or photographic usefulness remains uncertain. No injury diagnosis or training approval made."
     },
     {
       "image_id": "inat_736977129",
@@ -213,8 +213,8 @@
       "manifest": "data/image_pilots/pilot_005_puff_adder/manifest.json",
       "photo_page": "https://www.inaturalist.org/photos/1309693",
       "screen_status": "condition_review",
-      "screen_method": "contact_sheet",
-      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+      "screen_method": "full_image",
+      "note": "Full image inspected; condition or photographic usefulness remains uncertain. No injury diagnosis or training approval made."
     },
     {
       "image_id": "inat_23736963",
@@ -423,8 +423,8 @@
       "manifest": "data/image_pilots/pilot_054_cerrophidion_godmani/manifest.json",
       "photo_page": "https://www.inaturalist.org/photos/151315901",
       "screen_status": "condition_review",
-      "screen_method": "contact_sheet",
-      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+      "screen_method": "full_image",
+      "note": "Full image inspected; condition or photographic usefulness remains uncertain. No injury diagnosis or training approval made."
     },
     {
       "image_id": "inat_375402124",
@@ -502,9 +502,9 @@
       "observation_id": 184992041,
       "manifest": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
       "photo_page": "https://www.inaturalist.org/photos/323005809",
-      "screen_status": "condition_review",
-      "screen_method": "contact_sheet",
-      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+      "screen_status": "rejected_severe_damage",
+      "screen_method": "full_image",
+      "note": "Full image visually inspected: severe visible body damage. Excluded under the healthy-snake policy."
     },
     {
       "image_id": "inat_4376954",
@@ -553,8 +553,8 @@
       "manifest": "data/image_pilots/pilot_080_hypnale_hypnale/manifest.json",
       "photo_page": "https://www.inaturalist.org/photos/30693206",
       "screen_status": "condition_review",
-      "screen_method": "contact_sheet",
-      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+      "screen_method": "full_image",
+      "note": "Full image inspected; condition or photographic usefulness remains uncertain. No injury diagnosis or training approval made."
     },
     {
       "image_id": "inat_78545071",
@@ -672,9 +672,9 @@
       "observation_id": 128282646,
       "manifest": "data/image_pilots/pilot_120_ovophis_monticola/manifest.json",
       "photo_page": "https://www.inaturalist.org/photos/217886022",
-      "screen_status": "condition_review",
-      "screen_method": "contact_sheet",
-      "note": "Contact sheet shows an ambiguous feature or posture; individual inspection needed before any approval. Injury is not established."
+      "screen_status": "rejected_severe_damage",
+      "screen_method": "full_image",
+      "note": "Full image visually inspected: severe visible body damage. Excluded under the healthy-snake policy."
     },
     {
       "image_id": "inat_424901007",

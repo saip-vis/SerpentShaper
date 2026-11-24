@@ -344,7 +344,7 @@
     "original_width": 2048,
     "original_height": 1536,
     "retrieved_at": "2026-11-20T08:58:26.395671+00:00",
-    "review_status": "unreviewed",
+    "review_status": "rejected",
     "framing": "unknown",
     "viewpoint": "unknown",
     "pose": "unknown",
@@ -356,7 +356,14 @@
     "content_type": "image/jpeg",
     "collection_batch": "pilot_075_gloydius_brevicaudus",
     "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
-    "review_id": "Gloydius_brevicaudus10"
+    "rendering_exclusion_reason": "injury",
+    "review_id": "Gloydius_brevicaudus10",
+    "body_condition": "severely_damaged",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-24",
+      "category": "rejected",
+      "reason": "Full image visually inspected; severe visible body damage. Excluded under healthy-snake training policy; original file preserved."
+    }
   }
 ]

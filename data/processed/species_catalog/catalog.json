@@ -303,7 +303,7 @@
     },
     {
       "path": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
-      "sha256": "49a39619162f695752d3a1f2df6e61d6fae0fa57694a000ff3af283fbd77fae3"
+      "sha256": "2baaf4db84da8169b37d796bffbd6a857e92bd62a6d3426fad620d847841490b"
     },
     {
       "path": "data/image_pilots/pilot_076_hemachatus_haemachatus/manifest.json",
@@ -483,7 +483,7 @@
     },
     {
       "path": "data/image_pilots/pilot_120_ovophis_monticola/manifest.json",
-      "sha256": "44bf9735ac577c8b39287f26af2d22dd0f44c06e89079a3c6615747ec789dec2"
+      "sha256": "9f08254cbb4813048045f9209ad9975ecb86fc7d7d32bec0c54f64103c83031a"
     },
     {
       "path": "data/image_pilots/pilot_121_ovophis_okinavensis/manifest.json",
@@ -30205,7 +30205,7 @@
           "original_width": 2048,
           "original_height": 1536,
           "retrieved_at": "2026-11-20T08:58:26.395671+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -30217,8 +30217,15 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_075_gloydius_brevicaudus",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Gloydius_brevicaudus10",
+          "body_condition": "severely_damaged",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "rejected",
+            "reason": "Full image visually inspected; severe visible body damage. Excluded under healthy-snake training policy; original file preserved."
+          },
           "manifest_path": "data/image_pilots/pilot_075_gloydius_brevicaudus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -30243,7 +30250,8 @@
         "available_images": 10,
         "rendering_eligible_images": 0,
         "review_statuses": {
-          "unreviewed": 10
+          "unreviewed": 9,
+          "rejected": 1
         }
       },
       "link_status": "venom_and_images",
@@ -46101,7 +46109,7 @@
           "original_width": 2048,
           "original_height": 2048,
           "retrieved_at": "2026-11-20T09:10:24.946848+00:00",
-          "review_status": "unreviewed",
+          "review_status": "rejected",
           "framing": "unknown",
           "viewpoint": "unknown",
           "pose": "unknown",
@@ -46113,8 +46121,15 @@
           "content_type": "image/jpeg",
           "collection_batch": "pilot_120_ovophis_monticola",
           "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_exclusion_reason": "injury",
           "review_id": "Ovophis_monticola06",
+          "body_condition": "severely_damaged",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-24",
+            "category": "rejected",
+            "reason": "Full image visually inspected; severe visible body damage. Excluded under healthy-snake training policy; original file preserved."
+          },
           "manifest_path": "data/image_pilots/pilot_120_ovophis_monticola/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
@@ -46299,7 +46314,8 @@
         "available_images": 10,
         "rendering_eligible_images": 0,
         "review_statuses": {
-          "unreviewed": 10
+          "unreviewed": 9,
+          "rejected": 1
         }
       },
       "link_status": "venom_and_images",

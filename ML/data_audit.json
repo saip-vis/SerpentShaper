@@ -7,8 +7,8 @@
     "available_image_records": 1213,
     "distinct_available_image_hashes": 1203,
     "accepted_and_metadata_checked_images": 25,
-    "unreviewed_image_records": 1152,
-    "rejected_image_records": 33,
+    "unreviewed_image_records": 1150,
+    "rejected_image_records": 35,
     "available_images_without_license_version": 1213,
     "repeated_hash_groups": 10
   },
@@ -1419,8 +1419,8 @@
       "available_images": 10,
       "accepted_and_metadata_checked_images": 0,
       "accepted_unique_observations": 0,
-      "unreviewed_images": 10,
-      "rejected_images": 0,
+      "unreviewed_images": 9,
+      "rejected_images": 1,
       "license_versions_missing": 10
     },
     {
@@ -2203,8 +2203,8 @@
       "available_images": 10,
       "accepted_and_metadata_checked_images": 0,
       "accepted_unique_observations": 0,
-      "unreviewed_images": 10,
-      "rejected_images": 0,
+      "unreviewed_images": 9,
+      "rejected_images": 1,
       "license_versions_missing": 10
     },
     {
