@@ -39,6 +39,22 @@ assert.ok(flattened.shape.points.some((p,i)=>p.r>unflattened.shape.points[i].r+5
 const noAccent=D.render({...base,traits:{...base.traits,bands:1,bandAccent:0}},presets,R);
 const accent=D.render({...base,traits:{...base.traits,bands:1,bandAccent:1}},presets,R);
 assert.notEqual(noAccent.svg,accent.svg,'band accent changes the rendering');
+// Strong ring/triad-style cues should extend to the generated ventral plates,
+// without asserting that an individual snake's underside has been observed.
+const ventralNoAccent=D.render({...base,traits:{...base.traits,bands:1,bandAccent:0}},presets,R,{surface:'ventral'});
+const ventralAccent=D.render({...base,traits:{...base.traits,bands:1,bandAccent:1}},presets,R,{surface:'ventral'});
+const ventralPlates=svg=>svg.match(/<g id="ventral-plates">([\s\S]*?)<\/g>/)[1];
+assert.notEqual(ventralPlates(ventralAccent.svg),ventralPlates(ventralNoAccent.svg),'band accents should affect ventral plates');
+const ventralNoBands=D.render({...base,traits:{...base.traits,bands:0,bandAccent:1}},presets,R,{surface:'ventral'});
+const ventralPlain=D.render({...base,traits:{...base.traits,bands:0,bandAccent:0}},presets,R,{surface:'ventral'});
+assert.equal(ventralPlates(ventralNoBands.svg),ventralPlates(ventralPlain.svg),'accent alone must not introduce bands');
+const rattleOpacity=amount=>{
+  const svg=D.render({...base,traits:{...base.traits,rattle:amount}},presets,R).svg;
+  return Number(svg.match(/<g id="rattle" opacity="([^"]+)"/)[1]);
+};
+assert.equal(rattleOpacity(.10),0,'a tiny rattle cue should not visibly add an appendage');
+assert.ok(rattleOpacity(.39)>.39,'a moderate rattle cue should be visible');
+assert.equal(rattleOpacity(.7),1,'a strong rattle cue should be fully visible');
 const patterns=D.render({...base,traits:{...base.traits,diamond:1,bands:1,blotches:1}},presets,R);
 assert.notEqual(patterns.svg,plain.svg);
 // Head lengths must not cause the geometry engine to skip a different first body station.

@@ -8,7 +8,7 @@
     "Control values are illustration settings, not probabilities or measured traits."
   ],
   "source_hashes": {
-    "scripts/evaluate_visual_generation.cjs": "f7780cab4cd30bee226080e92267478493338ad381a97395c76d6515fe8f20e9",
+    "scripts/evaluate_visual_generation.cjs": "1d46d0802292eff3bbbca8fcce7042c69eba07755f7d0e7afce0efef4cfa32a7",
     "MainInterface/venom-data.js": "3154de0f21ee8585938ca752bc4e7a053a0d3cc637d00e30f0947f45cf8a743d",
     "MainInterface/connected-model.js": "051a089ab1744cd1ab4522b2b893eeff3320faeb9f337bb3a41d02468450db98",
     "MainInterface/connected-inference.js": "5ed04444b708e338cad3ddfcc637570e4f3906229fe11bcf65e87118abcbc8c0",
@@ -16,7 +16,7 @@
     "MainInterface/detailed-concept.js": "aa930a0c2ea6497680b0b79246d803653905d74315f6a88d6998551d62cd7417",
     "PhysicalRendererTest/presets/species-presets.json": "c950b99a9a39fc017b4287da6687b11565ac755961ac7c613451edb060d0810f",
     "PhysicalRendererTest/species-geometry.js": "e9228f768cc7ec59c0fb6bb2afb278c4a52bc17571eb596746a1672e438c0944",
-    "PhysicalRendererTest/species-renderer.js": "c8156067b1255dbf9303aa81dbf1b60226efa510570d031ae3b59bcfcf601b9d",
+    "PhysicalRendererTest/species-renderer.js": "576c21bc70498b6c42c05d735fa63ba09e226f1ff573d155cd5609db0e6c4694",
     "ML/learned_morphology/connected_prototype.json": "65b273ffc62fb1cc10e42021d4d45ed694f6017ef48ef40417e3d306a600b9c8",
     "ML/image_traits/pattern_holdout.json": "f897d713ed888c6aaa1dff6612224fb02975150737974f5f380c2635d6309614"
   },
@@ -105,6 +105,7 @@
         "ventral_scale_count": 1157
       },
       "generated_svg": "crotalus_atrox_generated.svg",
+      "ventral_svg": "crotalus_atrox_ventral.svg",
       "reference_svg": "crotalus_atrox_reference.svg"
     },
     {
@@ -191,6 +192,7 @@
         "ventral_scale_count": 820
       },
       "generated_svg": "naja_kaouthia_generated.svg",
+      "ventral_svg": "naja_kaouthia_ventral.svg",
       "reference_svg": "naja_kaouthia_reference.svg"
     },
     {
@@ -277,6 +279,7 @@
         "ventral_scale_count": 695
       },
       "generated_svg": "dendroaspis_polylepis_generated.svg",
+      "ventral_svg": "dendroaspis_polylepis_ventral.svg",
       "reference_svg": "dendroaspis_polylepis_reference.svg"
     },
     {
@@ -363,6 +366,7 @@
         "ventral_scale_count": 736
       },
       "generated_svg": "ophiophagus_hannah_generated.svg",
+      "ventral_svg": "ophiophagus_hannah_ventral.svg",
       "reference_svg": "ophiophagus_hannah_reference.svg"
     },
     {
@@ -449,6 +453,7 @@
         "ventral_scale_count": 1847
       },
       "generated_svg": "micrurus_alleni_generated.svg",
+      "ventral_svg": "micrurus_alleni_ventral.svg",
       "reference_svg": "micrurus_alleni_reference.svg"
     },
     {
@@ -535,6 +540,7 @@
         "ventral_scale_count": 2566
       },
       "generated_svg": "daboia_russelii_generated.svg",
+      "ventral_svg": "daboia_russelii_ventral.svg",
       "reference_svg": "daboia_russelii_reference.svg"
     },
     {
@@ -621,6 +627,7 @@
         "ventral_scale_count": 982
       },
       "generated_svg": "bungarus_multicinctus_generated.svg",
+      "ventral_svg": "bungarus_multicinctus_ventral.svg",
       "reference_svg": "bungarus_multicinctus_reference.svg"
     },
     {
@@ -707,6 +714,7 @@
         "ventral_scale_count": 849
       },
       "generated_svg": "hydrophis_platurus_generated.svg",
+      "ventral_svg": "hydrophis_platurus_ventral.svg",
       "reference_svg": "hydrophis_platurus_reference.svg"
     }
   ],

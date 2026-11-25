@@ -70,7 +70,25 @@ def main():
         im = render(f'transition_{fraction}.svg', 280, 300)
         strip.paste(im, (x + (280-im.width)//2, 108 + (300-im.height)//2))
     strip.save(OUT / 'transition.png', optimize=True)
-    print('Wrote comparison.png and transition.png; original photographs were not copied.')
+
+    ventral = Image.new('RGB', (1440, 960), '#f4f7f3')
+    draw = ImageDraw.Draw(ventral)
+    draw.text((30, 20), 'Generated dorsal and ventral concepts', fill='#173c2a', font=font(29, True))
+    draw.text((30, 58), 'The inputs are source profiles used in training. Undersides are illustrative, not observed reconstructions.', fill='#50675a', font=font(16))
+    names = ['Micrurus alleni', 'Crotalus atrox', 'Naja kaouthia', 'Bungarus multicinctus']
+    by_name = {case['species']: case for case in data['cases']}
+    for index, name in enumerate(names):
+        case = by_name[name]
+        x, y = 25 + (index % 2) * 710, 95 + (index // 2) * 420
+        draw.rounded_rectangle((x, y, x+690, y+400), 12, fill='white', outline='#dae5d9')
+        draw.text((x+14, y+11), f"{case['common_name'] or name} | {name}", fill='#203d2c', font=font(18, True))
+        for side, key in enumerate(('generated_svg', 'ventral_svg')):
+            xx = x + 10 + side * 340
+            draw.text((xx+4, y+40), 'Dorsal' if side == 0 else 'Ventral', fill='#728578', font=font(14))
+            im = render(case[key], 330, 300)
+            ventral.paste(im, (xx + (330-im.width)//2, y + 65 + (300-im.height)//2))
+    ventral.save(OUT / 'ventral_comparison.png', optimize=True)
+    print('Wrote comparison, transition and ventral comparison sheets; original photographs were not copied.')
 
 
 if __name__ == '__main__':

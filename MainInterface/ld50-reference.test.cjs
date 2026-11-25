@@ -1,0 +1,17 @@
+const assert=require('node:assert/strict');
+const R=require('./ld50-reference.js');
+const match=(species,shared=4,entered=4,distance=0)=>({profile:{species_name:species},shared:Array(shared).fill({}),entered,adjustedDistance:distance});
+let result=R.estimate([match('Crotalus atrox'),match('Crotalus oreganus')]);
+assert.equal(result.study.id,'sanchez2003');assert.equal(result.min,2.1);assert.equal(result.max,5.1);assert.equal(result.speciesCount,2);
+result=R.estimate([match('Naja kaouthia'),match('Bungarus caeruleus')]);
+assert.equal(result.study.id,'leong2012');assert.equal(result.min,.17);assert.equal(result.max,.89);
+assert.ok(result.records.some(r=>r.reported.includes('Malaysia')),'multiple regional measurements remain visible');
+assert.equal(R.estimate([match('Naja kaouthia')]),null,'two samples from one species are not two species');
+assert.equal(R.estimate([match('Naja kaouthia'),match('Crotalus atrox')]),null,'values from different studies are not mixed');
+assert.equal(R.estimate([match('Crotalus atrox'),match('Crotalus oreganus',2)]),null,'sparse comparison does not qualify');
+assert.equal(R.estimate([match('Crotalus atrox'),match('Crotalus oreganus',3,8)]),null,'low coverage does not qualify');
+assert.equal(R.estimate([match('Crotalus atrox'),match('Crotalus oreganus',4,4,21)]),null,'distant comparison does not qualify');
+assert.equal(R.estimate([match('Crotalus atrox'),...Array(4).fill(match('No reference')),match('Crotalus oreganus')]),null,'do not search beyond the top five');
+result=R.estimate([match('Naja nigricollis'),match('Naja melanoleuca')]);
+assert.equal(result.study.id,'araya2024','newer source wins when coverage ties');
+console.log('Source-specific LD50 reference ranges, eligibility, sparse and unavailable cases verified.');

@@ -1,0 +1,610 @@
+{
+  "schema_version": 1,
+  "status": "development_only_not_connected",
+  "method": "Leave-one-genus-out; equal total training weight per source label; average test profile predictions per held-out species.",
+  "counts": {
+    "photos": 55,
+    "genera": 29,
+    "positive": 37,
+    "negative": 18
+  },
+  "model_config": "80 trees, leaf size 3 and 0.7 feature fraction for forests; histogram boosting uses 60 iterations, 5 leaf nodes, and L2 regularization 2.",
+  "labels_sha256": "1b8f9bf0c71c9eb8a9366d7f40eda48c4fba72f52eebc1236831c2c8c59d976b",
+  "input_sha256": {
+    "ML/image_traits/photo_pattern_pilot_labels.json": "1b8f9bf0c71c9eb8a9366d7f40eda48c4fba72f52eebc1236831c2c8c59d976b",
+    "data/processed/venom_diet_2023/serpentshaper.sqlite": "abf3f5b22f003dfa9cabbcddc89f171c64a34c16b56a12cc675a9b18f27e3192",
+    "config/venom_input_spec.json": "e5f1da97e22415196aded20b2405d013a38741ef3e2a53f18e40a0d192b42322",
+    "config/venom_quality_flags.json": "c97646a4f8171b9f39be861da0995c5276ee502bfac81eb7458b14b4bd6f0ffd",
+    "scripts/compare_photo_pattern_models.py": "d6e6d4e22199d3d0224e7c14da3c38c1dd1c3558606d588035f67d9a90c43868",
+    "scripts/evaluate_photo_pattern_pilot.py": "100aedd927e212d1289f4f953f48ded90986567ffeccd8749430195929787ca9",
+    "data/image_pilots/pilot_002_coastal_taipan/manifest.json": "2bda966746785ad673db7e2a574036dcba012d96d569a88c8440b487d41c0d5a",
+    "data/image_pilots/pilot_003_black_mamba/manifest.json": "335c6fab59daa4e5ba91fe1113a7eec2d11d70caf9726ebe74047c8baeed8275",
+    "data/image_pilots/pilot_004_western_diamondback/manifest.json": "86bf26c7541dea7c2d2a03b325676207dd4d1d02eebafecabbb335a712839866",
+    "data/image_pilots/pilot_005_puff_adder/manifest.json": "af5ee1d97713a0280d7af3e6dc5fbd8e92b854e4fc3c49f0c06b3f326c03112f",
+    "data/image_pilots/pilot_011_agkistrodon_contortrix/manifest.json": "a3aa875d8373c5f183d221d78bc1e0f83c4453073c81f09f3b9a107e91a2ee49",
+    "data/image_pilots/pilot_014_aspidelaps_lubricus/manifest.json": "4237bc67418f92a1f378f6ec7d2111354be30222270468ae9b40af8df01c5c85",
+    "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json": "2afac7c8331f59ef1751752d627e3784e310b307e8fe7634af84648bbe07695f",
+    "data/image_pilots/pilot_052_cerastes_cerastes/manifest.json": "91e7079f4f6ce4f0184e5786d6a78b319d97ac897c1446f54c4228979a737e13",
+    "data/image_pilots/pilot_069_daboia_russelii/manifest.json": "c96856a7ce270370d3e1b5deadc18be5f5f8aa717d16823f071a84e007b5abb7",
+    "data/image_pilots/pilot_108_naja_kaouthia/manifest.json": "2d287f632fbfa857b834f78bfe0eb2859430eec7dd53e0d76c313fc2007ad549",
+    "data/image_pilots/pilot_164_extra_bitis_caudalis/manifest.json": "c3c058e2a22dd19ea090089fac4f64ebbaf624863259af615c6483d6a08fe91a",
+    "data/image_pilots/pilot_168_extra_bothriechis_bicolor/manifest.json": "899730516096943052ab700bdeb0897f989f7641c89b8c866de4543d6ffe6771",
+    "data/image_pilots/pilot_177_extra_bothrops_atrox/manifest.json": "75d3991fd0c3376e3efe6c98195165d00825e88782f1cdeccc6e5ad6cf2397d3",
+    "data/image_pilots/pilot_183_extra_bothrops_diporus/manifest.json": "be0de3869b6e576457b88b8fd3bb5c643b96edca9082b6522fd8030f9a79247d",
+    "data/image_pilots/pilot_184_extra_bothrops_erythromelas/manifest.json": "3ce2780c580f2294ec8dd3d6a70322bb1d053686f9dd315a34bf24818e413834",
+    "data/image_pilots/pilot_186_extra_bothrops_jararaca/manifest.json": "6ba27b418a7c375ffc15295838e162f415ab12b6b60a54d5a41c3d462230cd50",
+    "data/image_pilots/pilot_189_extra_bothrops_leucurus/manifest.json": "450576bbfcb890e217612ac0cc7f1d98e1b8723bf394c535370f8dc21ba2cb18",
+    "data/image_pilots/pilot_190_extra_bothrops_neuwiedi/manifest.json": "4e1b73788d9355969fb59e335013c3459a7e232238b9d9b7aced08b5a60f4e76",
+    "data/image_pilots/pilot_195_extra_bungarus_caeruleus/manifest.json": "e1ad440325e162c4de2a24c6f547feffb0e4936ccfb22fd488616fe907f6bba8",
+    "data/image_pilots/pilot_197_extra_bungarus_fasciatus/manifest.json": "72c49e46e057399f6a67c323e6b002db0a4c361e11d83d6039a950f6e36bb081",
+    "data/image_pilots/pilot_207_extra_crotalus_basiliscus/manifest.json": "a06beaba7fdde7870fb2709fa0b98826138e842194ce6b629049a59763c54a03",
+    "data/image_pilots/pilot_209_extra_crotalus_durissus/manifest.json": "4390ca9c9fbe5626ecf07b3aafb662aa1ec237c1360e93c3aad51397851f7d72",
+    "data/image_pilots/pilot_210_extra_crotalus_horridus/manifest.json": "c2473c4d340a934d35e1e244b1c61c36c8a8257e0cc0e3c0022d3b71ed858058",
+    "data/image_pilots/pilot_213_extra_crotalus_scutulatus/manifest.json": "bfec6833e7f4865e5951bd50a1bf8776f74a8213eaa25d38d74efe22b225f93d",
+    "data/image_pilots/pilot_215_extra_crotalus_tigris/manifest.json": "de87422d22f6d1380800b32327744cc5303b9b106a55792333a02b9d4edb5257",
+    "data/image_pilots/pilot_221_extra_deinagkistrodon_acutus/manifest.json": "4a07c32156538a39c02bdb208b56748b56e2cdea03dfbfe46cea8d9431fff02d",
+    "data/image_pilots/pilot_224_extra_dispholidus_typus/manifest.json": "d6bdd6905a6a7781064246bb3ae86406c157214d2c0e269b6cfe035637f3d705",
+    "data/image_pilots/pilot_225_extra_echis_carinatus/manifest.json": "1abf0486fc42125a4bb0c390ac8b79755566dc8524f8e21c871427b1de810d9d",
+    "data/image_pilots/pilot_227_extra_gloydius_brevicaudus/manifest.json": "915e5bc61643c750a402b166cc192aa4ab3a3b8098a2c37daa96e1764cdd042b",
+    "data/image_pilots/pilot_230_extra_hydrophis_platurus/manifest.json": "71e53c769fd22f532c1324d29ae81515634861e10bd5fa57f2c45c3c49ec655f",
+    "data/image_pilots/pilot_235_extra_lachesis_muta/manifest.json": "87db28f9dc6a7f98b265fac0a187697be55838dd5037d3143740819be362637c",
+    "data/image_pilots/pilot_242_extra_micrurus_altirostris/manifest.json": "fa32f4738e779514665c4b7b2594b4f85db428ae0c36bd47f7e2917d1b5f453d",
+    "data/image_pilots/pilot_245_extra_micrurus_corallinus/manifest.json": "4c044e1617524a9d2f376137d6f3276d09549643b6a25292767d2671333c4fc4",
+    "data/image_pilots/pilot_251_extra_micrurus_nigrocinctus/manifest.json": "ddd34f563228e878bc69b8bd0cd8c8860999d58625a4b6d8bb6bdd3ba3b1f7d1",
+    "data/image_pilots/pilot_257_extra_naja_annulifera/manifest.json": "ce3efd1882f1ffbbc2256b3638f54a18005c082e71809fddfc8c7b2579573b0b",
+    "data/image_pilots/pilot_258_extra_naja_atra/manifest.json": "f5c25e4409c0c22ef5aab407adbec1d3e940b6facc1530d0aff52101f3a4257f",
+    "data/image_pilots/pilot_263_extra_naja_mossambica/manifest.json": "39dd6ea1f9db2f6be75db35d44c552ea795b2a8b64f5bdba98e71526252259ad",
+    "data/image_pilots/pilot_264_extra_naja_naja/manifest.json": "2e9ed12183808294ac03f92df7c399b47cb397fe9af95fe2be5efbda2a74e63a",
+    "data/image_pilots/pilot_265_extra_naja_nigricollis/manifest.json": "f9e72eb0083ff4043a5fd1f9e502d33fc7a1d9a41d3d7a196979f535930205a3",
+    "data/image_pilots/pilot_269_extra_notechis_scutatus/manifest.json": "12418c5c4bd50f916696a80bbf448d053d32c25f904a388daacb82929e2ffc9b",
+    "data/image_pilots/pilot_270_extra_ophiophagus_hannah/manifest.json": "7fc2d6a1e306928e7f84876f7a78c5ab5916def1c2c05c1eb3963ce502a90bbd",
+    "data/image_pilots/pilot_273_extra_ovophis_monticola/manifest.json": "3191939369952f04943517d0a596531a15b3a46e2497adf1d7cee7a27a60e6d1",
+    "data/image_pilots/pilot_274_extra_ovophis_okinavensis/manifest.json": "7c530f2dbb31e5dcf07963d0331ebedbe8f866ea47f272c506874d56dc6b507a",
+    "data/image_pilots/pilot_278_extra_porthidium_nasutum/manifest.json": "2ce571ac783b3e645056f1147d2e2a3fa9e9fa84884ff381e5e9c8f78295ca12",
+    "data/image_pilots/pilot_279_extra_porthidium_ophryomegas/manifest.json": "af1a5cb6071e27d56907f1dcf5abf4e1a4eb0dc8f0cca97da0ce98c2e5cfd8e6",
+    "data/image_pilots/pilot_283_extra_protobothrops_mucrosquamatus/manifest.json": "66cf4795851c7c6ef118633ef68edd231213f346104b183eb1ff6c29e4bbe5dc",
+    "data/image_pilots/pilot_284_extra_pseudechis_australis/manifest.json": "2c8f7ed4245a7a19459421cb92fd72b801d63691dd0c2a49aae15ad5ba0d858c",
+    "data/image_pilots/pilot_287_extra_sistrurus_catenatus/manifest.json": "3383a02afbbbbe116845dd0c2fae75a359f9916a3030083e90c2278f48c2f0e7",
+    "data/image_pilots/pilot_290_extra_trimeresurus_albolabris/manifest.json": "0c61860c2c994f3ee14f43cb355b3dce2ea8ad1d8d7edbb5f8d90c152289b8ac",
+    "data/image_pilots/pilot_291_extra_trimeresurus_insularis/manifest.json": "49c05337a82591b2bf59d678fd66a370b62032dbe098b7759e051d2b5944791d",
+    "data/image_pilots/pilot_293_extra_trimeresurus_purpureomaculatus/manifest.json": "ebb8c41d2fc94798441e15183a024a93507611c583f7768d4dd3c4e7aaebff02",
+    "data/image_pilots/pilot_296_extra_tropidolaemus_wagleri/manifest.json": "dc3aecbb090cf9450d66d1714fcf57c0de952692d950fc8a2d86c5545f9a4a85",
+    "data/image_pilots/pilot_297_extra_vipera_aspis/manifest.json": "965fd3c6b77585f165651418de87475523fb2a1d91d11e275cfc313e2b277074",
+    "data/image_pilots/pilot_298_extra_vipera_berus/manifest.json": "11bfae0f77e665287ef8fe36ae96fa4512e1f8691849cdd07670a5319b5787a8",
+    "data/image_pilots/pilot_300_extra_vipera_nikolskii/manifest.json": "5bb236a185236c32037fdf0c9e203b99f47dfa3b96180bd684ea07811ea34f66"
+  },
+  "versions": {
+    "python": "3.14.2",
+    "numpy": "2.4.6",
+    "scikit_learn": "1.9.1"
+  },
+  "limitations": [
+    "Exploratory development comparison, not an untouched test; methods were selected after earlier results.",
+    "Labels are binary observations of visible body regions, not whole-animal traits or specific motif classes.",
+    "Photo and venom data are linked by source species label, not by an individual specimen.",
+    "No model or output in this comparison has been connected to the renderer."
+  ],
+  "metrics": {
+    "baseline": {
+      "brier_score": 0.24272275894745227,
+      "balanced_accuracy_at_0_5": 0.5,
+      "recall_negative": 0.0,
+      "recall_positive": 1.0
+    },
+    "random_forest": {
+      "brier_score": 0.2824015109987597,
+      "balanced_accuracy_at_0_5": 0.4189189189189189,
+      "recall_negative": 0.0,
+      "recall_positive": 0.8378378378378378
+    },
+    "extra_trees": {
+      "brier_score": 0.2628820023843376,
+      "balanced_accuracy_at_0_5": 0.4466966966966967,
+      "recall_negative": 0.05555555555555555,
+      "recall_positive": 0.8378378378378378
+    },
+    "hist_gradient_boosting": {
+      "brier_score": 0.32220111002544544,
+      "balanced_accuracy_at_0_5": 0.4061561561561562,
+      "recall_negative": 0.05555555555555555,
+      "recall_positive": 0.7567567567567568
+    }
+  },
+  "predictions": [
+    {
+      "species": "Agkistrodon contortrix",
+      "image_id": "inat_134223",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.8946204004329005,
+      "extra_trees": 0.8732705580521779,
+      "hist_gradient_boosting": 0.8829296675839228
+    },
+    {
+      "species": "Aspidelaps lubricus",
+      "image_id": "inat_102607075",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.3699485236985236,
+      "extra_trees": 0.41922754179929944,
+      "hist_gradient_boosting": 0.2732881665856852
+    },
+    {
+      "species": "Bitis arietans",
+      "image_id": "inat_643481",
+      "label": 1,
+      "baseline": 0.660377358490566,
+      "random_forest": 0.5859592837717837,
+      "extra_trees": 0.48756409118460226,
+      "hist_gradient_boosting": 0.6245573549436303
+    },
+    {
+      "species": "Bitis caudalis",
+      "image_id": "inat_624977397",
+      "label": 1,
+      "baseline": 0.660377358490566,
+      "random_forest": 0.6797222222222221,
+      "extra_trees": 0.5600738946158217,
+      "hist_gradient_boosting": 0.5574804019341169
+    },
+    {
+      "species": "Bothriechis bicolor",
+      "image_id": "inat_653885001",
+      "label": 0,
+      "baseline": 0.6851851851851852,
+      "random_forest": 0.8966089466089467,
+      "extra_trees": 0.9736863794100638,
+      "hist_gradient_boosting": 0.8859104864983459
+    },
+    {
+      "species": "Bothrops atrox",
+      "image_id": "inat_761128538",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.7633030359397548,
+      "extra_trees": 0.8625046340820444,
+      "hist_gradient_boosting": 0.7429531871408717
+    },
+    {
+      "species": "Bothrops diporus",
+      "image_id": "inat_703694297",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.6267361111111112,
+      "extra_trees": 0.7918579246823787,
+      "hist_gradient_boosting": 0.5577807692760066
+    },
+    {
+      "species": "Bothrops erythromelas",
+      "image_id": "inat_767240699",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.8282424693362194,
+      "extra_trees": 0.9665807836701734,
+      "hist_gradient_boosting": 0.7492143199288546
+    },
+    {
+      "species": "Bothrops jararaca",
+      "image_id": "inat_745152888",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.6370662208162209,
+      "extra_trees": 0.7822867567033259,
+      "hist_gradient_boosting": 0.8221972597620538
+    },
+    {
+      "species": "Bothrops leucurus",
+      "image_id": "inat_684744474",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.5305316558441558,
+      "extra_trees": 0.46564573751650595,
+      "hist_gradient_boosting": 0.7836144531401877
+    },
+    {
+      "species": "Bothrops neuwiedi",
+      "image_id": "inat_644257068",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.7045066738816739,
+      "extra_trees": 0.9176362493125714,
+      "hist_gradient_boosting": 0.7720744063007474
+    },
+    {
+      "species": "Bungarus multicinctus",
+      "image_id": "inat_23736963",
+      "label": 1,
+      "baseline": 0.6538461538461539,
+      "random_forest": 0.43647333569208574,
+      "extra_trees": 0.6037647679368934,
+      "hist_gradient_boosting": 0.49722374228990057
+    },
+    {
+      "species": "Bungarus fasciatus",
+      "image_id": "inat_766235782",
+      "label": 1,
+      "baseline": 0.6538461538461539,
+      "random_forest": 0.40308519027269024,
+      "extra_trees": 0.4264408622693692,
+      "hist_gradient_boosting": 0.3015159575717495
+    },
+    {
+      "species": "Bungarus caeruleus",
+      "image_id": "inat_740946278",
+      "label": 1,
+      "baseline": 0.6538461538461539,
+      "random_forest": 0.35407683173308174,
+      "extra_trees": 0.6100628489932006,
+      "hist_gradient_boosting": 0.2244851690198503
+    },
+    {
+      "species": "Cerastes cerastes",
+      "image_id": "inat_12887205",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.7881374007936508,
+      "extra_trees": 0.8238446955492891,
+      "hist_gradient_boosting": 0.7092977493980749
+    },
+    {
+      "species": "Crotalus atrox",
+      "image_id": "inat_1904884",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.879875992063492,
+      "extra_trees": 0.8921347688790244,
+      "hist_gradient_boosting": 0.8930418504799176
+    },
+    {
+      "species": "Crotalus scutulatus",
+      "image_id": "inat_724562887",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.6995166985791985,
+      "extra_trees": 0.8373249549666566,
+      "hist_gradient_boosting": 0.8008291414818348
+    },
+    {
+      "species": "Crotalus basiliscus",
+      "image_id": "inat_608468342",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.8766468253968253,
+      "extra_trees": 0.9329130071168302,
+      "hist_gradient_boosting": 0.664966048396891
+    },
+    {
+      "species": "Crotalus durissus",
+      "image_id": "inat_767244357",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.6603774061586561,
+      "extra_trees": 0.8420390849618092,
+      "hist_gradient_boosting": 0.650852971317018
+    },
+    {
+      "species": "Crotalus horridus",
+      "image_id": "inat_751407365",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.5449413780663781,
+      "extra_trees": 0.8343160493553101,
+      "hist_gradient_boosting": 0.7128755545403533
+    },
+    {
+      "species": "Crotalus tigris",
+      "image_id": "inat_728444096",
+      "label": 1,
+      "baseline": 0.6326530612244898,
+      "random_forest": 0.5038541666666666,
+      "extra_trees": 0.8043712236381101,
+      "hist_gradient_boosting": 0.18415212865917036
+    },
+    {
+      "species": "Daboia russelii",
+      "image_id": "inat_32528083",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.6240326468246434,
+      "extra_trees": 0.42890022901682406,
+      "hist_gradient_boosting": 0.5752705654514018
+    },
+    {
+      "species": "Deinagkistrodon acutus",
+      "image_id": "inat_751683314",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.8081842116217116,
+      "extra_trees": 0.9143167215908479,
+      "hist_gradient_boosting": 0.6719457227132023
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "image_id": "inat_2699122",
+      "label": 0,
+      "baseline": 0.6851851851851852,
+      "random_forest": 0.7048322510822511,
+      "extra_trees": 0.5961592147960899,
+      "hist_gradient_boosting": 0.8408153184570011
+    },
+    {
+      "species": "Dispholidus typus",
+      "image_id": "inat_684473507",
+      "label": 0,
+      "baseline": 0.6851851851851852,
+      "random_forest": 0.7292063492063493,
+      "extra_trees": 0.7169549506261854,
+      "hist_gradient_boosting": 0.8603906256726078
+    },
+    {
+      "species": "Echis carinatus",
+      "image_id": "inat_757474922",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.5573246446014304,
+      "extra_trees": 0.6439766409558051,
+      "hist_gradient_boosting": 0.4906953503388965
+    },
+    {
+      "species": "Gloydius brevicaudus",
+      "image_id": "inat_752124064",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.8971650224775225,
+      "extra_trees": 0.9356932122049884,
+      "hist_gradient_boosting": 0.7304156633661013
+    },
+    {
+      "species": "Hydrophis platurus",
+      "image_id": "inat_694413715",
+      "label": 0,
+      "baseline": 0.6851851851851852,
+      "random_forest": 0.6078778860028862,
+      "extra_trees": 0.1477155310192394,
+      "hist_gradient_boosting": 0.3093572011332558
+    },
+    {
+      "species": "Lachesis muta",
+      "image_id": "inat_613610960",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.9532638888888888,
+      "extra_trees": 0.9276334901326928,
+      "hist_gradient_boosting": 0.9275045967696341
+    },
+    {
+      "species": "Micrurus altirostris",
+      "image_id": "inat_636082545",
+      "label": 1,
+      "baseline": 0.6538461538461539,
+      "random_forest": 0.36903273809523807,
+      "extra_trees": 0.05997785563794793,
+      "hist_gradient_boosting": 0.30887961221487653
+    },
+    {
+      "species": "Micrurus corallinus",
+      "image_id": "inat_763140176",
+      "label": 1,
+      "baseline": 0.6538461538461539,
+      "random_forest": 0.5032467930353959,
+      "extra_trees": 0.6666139779650793,
+      "hist_gradient_boosting": 0.4626616505194977
+    },
+    {
+      "species": "Micrurus nigrocinctus",
+      "image_id": "inat_735914843",
+      "label": 1,
+      "baseline": 0.6538461538461539,
+      "random_forest": 0.7021676587301584,
+      "extra_trees": 0.6812325266821252,
+      "hist_gradient_boosting": 0.5398502455184054
+    },
+    {
+      "species": "Naja kaouthia",
+      "image_id": "inat_136221239",
+      "label": 0,
+      "baseline": 0.7346938775510204,
+      "random_forest": 0.7014786689005438,
+      "extra_trees": 0.6911815786554748,
+      "hist_gradient_boosting": 0.7165233920141395
+    },
+    {
+      "species": "Naja nigricollis",
+      "image_id": "inat_608547037",
+      "label": 0,
+      "baseline": 0.7346938775510204,
+      "random_forest": 0.6250750522625523,
+      "extra_trees": 0.6127107910466163,
+      "hist_gradient_boosting": 0.6272165130878836
+    },
+    {
+      "species": "Naja annulifera",
+      "image_id": "inat_761117078",
+      "label": 0,
+      "baseline": 0.7346938775510204,
+      "random_forest": 0.7615622745310245,
+      "extra_trees": 0.6361450866313759,
+      "hist_gradient_boosting": 0.7546804073148257
+    },
+    {
+      "species": "Naja atra",
+      "image_id": "inat_762281686",
+      "label": 1,
+      "baseline": 0.7346938775510204,
+      "random_forest": 0.7334358219905096,
+      "extra_trees": 0.7072770993086384,
+      "hist_gradient_boosting": 0.8157036407616136
+    },
+    {
+      "species": "Naja mossambica",
+      "image_id": "inat_722837555",
+      "label": 0,
+      "baseline": 0.7346938775510204,
+      "random_forest": 0.722128878066378,
+      "extra_trees": 0.5673991038631132,
+      "hist_gradient_boosting": 0.5273215519554635
+    },
+    {
+      "species": "Naja naja",
+      "image_id": "inat_622823289",
+      "label": 0,
+      "baseline": 0.7346938775510204,
+      "random_forest": 0.7489402516675244,
+      "extra_trees": 0.7517872814759518,
+      "hist_gradient_boosting": 0.7519118945612067
+    },
+    {
+      "species": "Notechis scutatus",
+      "image_id": "inat_762246263",
+      "label": 0,
+      "baseline": 0.6851851851851852,
+      "random_forest": 0.6925800588300588,
+      "extra_trees": 0.7261969416263097,
+      "hist_gradient_boosting": 0.9400303610455856
+    },
+    {
+      "species": "Ophiophagus hannah",
+      "image_id": "inat_635550601",
+      "label": 0,
+      "baseline": 0.6851851851851852,
+      "random_forest": 0.6098382173382174,
+      "extra_trees": 0.5182667239622913,
+      "hist_gradient_boosting": 0.7941580796884066
+    },
+    {
+      "species": "Ovophis monticola",
+      "image_id": "inat_751077128",
+      "label": 1,
+      "baseline": 0.660377358490566,
+      "random_forest": 0.9624652777777778,
+      "extra_trees": 0.9795334224598932,
+      "hist_gradient_boosting": 0.934691354184697
+    },
+    {
+      "species": "Ovophis okinavensis",
+      "image_id": "inat_718408681",
+      "label": 1,
+      "baseline": 0.660377358490566,
+      "random_forest": 0.465678175990676,
+      "extra_trees": 0.6770696504497745,
+      "hist_gradient_boosting": 0.2727622592224385
+    },
+    {
+      "species": "Oxyuranus scutellatus",
+      "image_id": "inat_244026573",
+      "label": 0,
+      "baseline": 0.6851851851851852,
+      "random_forest": 0.5699169406981907,
+      "extra_trees": 0.6164254649230343,
+      "hist_gradient_boosting": 0.6190424156286094
+    },
+    {
+      "species": "Porthidium ophryomegas",
+      "image_id": "inat_761181818",
+      "label": 1,
+      "baseline": 0.660377358490566,
+      "random_forest": 0.5374665948838744,
+      "extra_trees": 0.5636750541493241,
+      "hist_gradient_boosting": 0.8768093760846418
+    },
+    {
+      "species": "Porthidium nasutum",
+      "image_id": "inat_679353652",
+      "label": 1,
+      "baseline": 0.660377358490566,
+      "random_forest": 0.6637904823934236,
+      "extra_trees": 0.6330821855154206,
+      "hist_gradient_boosting": 0.8768093760846418
+    },
+    {
+      "species": "Protobothrops mucrosquamatus",
+      "image_id": "inat_757059356",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.9584449925074925,
+      "extra_trees": 0.9212895360592257,
+      "hist_gradient_boosting": 0.9052646403434019
+    },
+    {
+      "species": "Pseudechis australis",
+      "image_id": "inat_762969846",
+      "label": 0,
+      "baseline": 0.6851851851851852,
+      "random_forest": 0.8570535714285716,
+      "extra_trees": 0.8830996932544588,
+      "hist_gradient_boosting": 0.8415580132362073
+    },
+    {
+      "species": "Sistrurus catenatus",
+      "image_id": "inat_727553769",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.7837614757927258,
+      "extra_trees": 0.9102949032866214,
+      "hist_gradient_boosting": 0.8609688139761374
+    },
+    {
+      "species": "Trimeresurus albolabris",
+      "image_id": "inat_761567538",
+      "label": 0,
+      "baseline": 0.7115384615384616,
+      "random_forest": 0.9895833333333333,
+      "extra_trees": 1.0,
+      "hist_gradient_boosting": 0.9673963869456603
+    },
+    {
+      "species": "Trimeresurus insularis",
+      "image_id": "inat_759904371",
+      "label": 0,
+      "baseline": 0.7115384615384616,
+      "random_forest": 0.8589935064935068,
+      "extra_trees": 0.9203247791889775,
+      "hist_gradient_boosting": 0.9634527992197034
+    },
+    {
+      "species": "Trimeresurus purpureomaculatus",
+      "image_id": "inat_481845481",
+      "label": 0,
+      "baseline": 0.7115384615384616,
+      "random_forest": 0.9390827922077921,
+      "extra_trees": 0.9931484502446981,
+      "hist_gradient_boosting": 0.9508448616714661
+    },
+    {
+      "species": "Tropidolaemus wagleri",
+      "image_id": "inat_759008156",
+      "label": 1,
+      "baseline": 0.6666666666666666,
+      "random_forest": 0.8834573412698413,
+      "extra_trees": 0.8162753737512995,
+      "hist_gradient_boosting": 0.8304867465702735
+    },
+    {
+      "species": "Vipera berus",
+      "image_id": "inat_758350503",
+      "label": 0,
+      "baseline": 0.6923076923076923,
+      "random_forest": 0.8567931547619048,
+      "extra_trees": 0.8716836209289148,
+      "hist_gradient_boosting": 0.7907216089036476
+    },
+    {
+      "species": "Vipera aspis",
+      "image_id": "inat_740775351",
+      "label": 1,
+      "baseline": 0.6923076923076923,
+      "random_forest": 0.657968906093906,
+      "extra_trees": 0.5890665040924044,
+      "hist_gradient_boosting": 0.5643767907641581
+    },
+    {
+      "species": "Vipera nikolskii",
+      "image_id": "inat_524453791",
+      "label": 0,
+      "baseline": 0.6923076923076923,
+      "random_forest": 0.6210028166278165,
+      "extra_trees": 0.7823720081436505,
+      "hist_gradient_boosting": 0.9127651334755238
+    }
+  ]
+}

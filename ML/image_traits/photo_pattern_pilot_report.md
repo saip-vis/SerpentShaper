@@ -21,13 +21,19 @@ A fixed logistic regression and a training-species prevalence baseline were comp
 
 The model underperformed this baseline on the development comparison. Fifty-five examples and one coarse pattern label do not establish a reliable result, so this model has **not** been connected to the main interface. These numbers describe a narrow photo-label task, not the accuracy of generating an imagined snake.
 
+## Additional model comparison
+
+The separate [model comparison](photo_pattern_model_comparison.json) tries random forest, extra trees and histogram gradient boosting with the same reviewed visible-pattern labels and genus-held-out development folds. Their Brier scores were 0.282, 0.263 and 0.322, respectively, against 0.243 for the training-species prevalence baseline (lower is better). These are development experiments selected after seeing earlier results, and the baseline's threshold predicts every photo as patterned. The results do not establish a better pattern predictor, so none of these candidates changes the renderer. In particular, this single coarse label does not identify whether a marking is a band, diamond or blotch.
+
 ## Reproduce
 
 From the repository root, with Python, NumPy, scikit-learn, and the original local photos:
 
 ```sh
 python3 scripts/evaluate_photo_pattern_pilot.py
+python3 scripts/compare_photo_pattern_models.py
 python3 -m unittest tests.test_photo_pattern_experiment
+python3 -m unittest tests.test_photo_pattern_comparison
 ```
 
 The evaluator enforces the source-image gate, rejects reserved observations and duplicate species or observation IDs, checks hashes, and fits preprocessing inside each training fold. Additional traceably reviewed examples, fuller phenotype labels, and a separate held-out evaluation are needed before this experiment can inform renderer controls.

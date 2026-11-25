@@ -142,11 +142,12 @@ function render(preset, options={}) {
     const phase=((s-55)%(p.mark_spacing||52))/(p.mark_spacing||52),d=Math.abs(phase-.5)*2,au=Math.abs(u);
     const diamond=d+au,diamondMask=1-smooth(.88,1.05,diamond),core=1-smooth(.70,.88,diamond);
     const bandMask=1-smooth(.25,.37,d),blotchMask=1-smooth(.56,.70,d+au*.75);
-    const diamondColor=mix(cream,p.diamond_center_color||shade(skin,.50),core);
+    const diamondColor=mix(mix(cream,belly,.65),p.diamond_center_color||shade(skin,.50),core);
     let color=mix(base,cream,clamp(weights.bands)*bandMask);
     const bandEdge=Math.max(0,1-smooth(.44,.53,d)-bandMask);
     color=mix(color,belly,clamp(weights.bands)*clamp(weights.bandAccent)*bandEdge);
-    color=mix(color,diamondColor,clamp(weights.diamond)*diamondMask);
+    const diamondStrength=clamp(weights.diamond);
+    color=mix(color,diamondColor,diamondStrength*(2-diamondStrength)*diamondMask);
     return mix(color,shade(cream,.72),clamp(weights.blotches)*blotchMask);
   };
   let scales='',scaleTips='',seams='',keels='',plates='',count=0;
@@ -172,7 +173,21 @@ function render(preset, options={}) {
     }
     if(!rear && (cobra?center.y<420:s>45) && !(p.tail_type==='rattle' && s>tailStart)) {
       const d=`M${coord(s,-.82)} Q${coord(s+pitch*.6,0)} ${coord(s,.82)} L${coord(s+pitch*.78,.82)} Q${coord(s+pitch*1.3,0)} ${coord(s+pitch*.78,-.82)}Z`;
-      const plateColor=['coral_triads','band_sequence'].includes(p.pattern)||p.ventral_pattern==='bands'||p.tail_pattern==='alternating_bands'&&s>tailStart?pigment(s,0):belly;
+      let plateColor=['coral_triads','band_sequence'].includes(p.pattern)||p.ventral_pattern==='bands'||p.tail_pattern==='alternating_bands'&&s>tailStart?pigment(s,0):belly;
+      // For generated concepts only, carry the learned broad ring/triad cue
+      // onto the ventral plates. This is illustrative, not a measurement of
+      // the photographed animal's underside. The existing authored reference
+      // species keep their own explicitly configured ventral pattern.
+      const weights=options.conceptPatternWeights;
+      if(weights&&!cobra){
+        const clamp=v=>Math.max(0,Math.min(1,Number.isFinite(v)?v:0));
+        const smooth=(a,b,v)=>{const t=clamp((v-a)/(b-a));return t*t*(3-2*t);};
+        const phase=((s-55)%(p.mark_spacing||52))/(p.mark_spacing||52),d=Math.abs(phase-.5)*2;
+        const bandMask=1-smooth(.25,.37,d),bandEdge=Math.max(0,1-smooth(.44,.53,d)-bandMask);
+        const strength=clamp(weights.bands)*clamp(weights.bandAccent);
+        plateColor=mix(mix(belly,skin,strength),cream,strength*bandMask);
+        plateColor=mix(plateColor,belly,strength*bandEdge);
+      }
       plates+=`<path d="${d}" fill="${shade(plateColor,.93+.04*Math.sin(row*.63))}" stroke="#68573b" stroke-opacity=".35" stroke-width=".45"/>`;
     }
   }
@@ -202,7 +217,11 @@ function render(preset, options={}) {
     }
     if(p.tail_type==='rattle'||Number.isFinite(options.conceptRattle)&&options.conceptRattle>0){
       const tip=mesh.at(mesh.length),angle=Math.atan2(tip.ty,tip.tx)*180/Math.PI;
-      const strength=p.tail_type==='rattle'?1:Math.max(0,Math.min(1,options.conceptRattle));
+      const raw=p.tail_type==='rattle'?1:Math.max(0,Math.min(1,options.conceptRattle));
+      // Smoothly make moderate learned rattle cues legible while keeping tiny
+      // incidental cues visually absent. This controls illustration only.
+      const t=Math.max(0,Math.min(1,(raw-.12)/.43));
+      const strength=p.tail_type==='rattle'?1:t*t*(3-2*t);
       appendage=`<g id="rattle" opacity="${strength}" transform="translate(${tip.x} ${tip.y}) rotate(${angle}) scale(${(p.rattle_size??1)*(.45+.55*strength)})">${Array.from({length:p.tail_segments},(_,i)=>`<ellipse cx="${3+i*5}" cy="0" rx="4" ry="${6-i*.55}" fill="${i%2?'#b9a07a':'#d6c5a0'}" stroke="#635946" stroke-width=".8"/>`).join('')}</g>`;
     }
     if(p.tail_type==='paddle'){

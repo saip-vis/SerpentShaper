@@ -28,7 +28,7 @@ for(const name of species){
   const reference=entry.preset.artistic_parameters,full=D.render(concept,presets,R,{surface:'dorsal'}),underside=D.render(concept,presets,R,{surface:'ventral'});
   if(!full||!underside||/NaN|Infinity|undefined/.test(full.svg+underside.svg))throw Error('Invalid SVG: '+name);
   const ref=R.render(entry.preset,{surface:'dorsal',framing:'full'}),file=filename(name);
-  writeSVG(file+'_generated.svg',full.svg);writeSVG(file+'_reference.svg',ref.svg);
+  writeSVG(file+'_generated.svg',full.svg);writeSVG(file+'_ventral.svg',underside.svg);writeSVG(file+'_reference.svg',ref.svg);
   const held=report.evaluation.species_results.find(x=>x.species===name);
   cases.push({species:name,common_name:entry.preset.common_name,profile_id:entry.profile.profile_id,source_row:entry.profile.source_row,
     input_values:input,reference:{body_plan:reference.body_plan,pattern:reference.pattern,tail_type:reference.tail_type,skin_color:reference.skin_color},
@@ -36,7 +36,7 @@ for(const name of species){
     authored_targets:held?pick(fromArray(held.actual),briefTraits):null,predicted:pick(concept.traits,briefTraits),predicted_colors:concept.colors,
     grouped_holdout:held?{predicted:pick(fromArray(held.predicted),briefTraits),note:'Genus held out during development; values are averaged across this source label’s available profiles. Folds were used in model selection and are not a final independent test.'}:null,
     drawing_checks:{dorsal_closed:full.shape.path.endsWith('Z'),ventral_closed:underside.shape.path.endsWith('Z'),dorsal_scale_count:full.scaleCount,ventral_scale_count:underside.scaleCount},
-    generated_svg:file+'_generated.svg',reference_svg:file+'_reference.svg'});
+    generated_svg:file+'_generated.svg',ventral_svg:file+'_ventral.svg',reference_svg:file+'_reference.svg'});
 }
 const inputFor=name=>S.valuesForProfile(data.controls,starters.find(x=>x.species===name).profile);
 const left=inputFor('Crotalus atrox'),right=inputFor('Naja kaouthia'),trajectory=[];
