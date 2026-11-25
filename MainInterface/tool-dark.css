@@ -89,3 +89,74 @@ select{height:48px;font-size:.875rem;padding-left:13px}.select-wrap:after{top:18
 .mobile-jump{display:none}
 @media(max-width:720px){.mobile-jump{display:inline-block;margin-top:16px;padding:9px 0;color:#dcebcf;font-size:.8rem;font-weight:700;border-bottom:1px solid #9cb69b}.mobile-return{margin:4px 0 4px}}
 .reference-stage{overflow:hidden}.reference-stage svg{overflow:hidden}
+
+/* Field-guide polish: keep the illustration and controls visually prominent. */
+@media(min-width:721px){
+  .intro{min-height:160px;padding:28px 0 24px}
+  .intro h1{font-size:clamp(2.5rem,3.4vw,3.5rem);margin-top:12px}
+  .intro p{margin-top:8px}
+  .workspace.learned-workspace{gap:32px;padding-top:20px}
+}
+.eyebrow,.section-kicker,.field-label,.stage-label,.reference-tag{
+  font-size:.75rem;line-height:1.35;letter-spacing:.035em;font-weight:600;color:#b5c8b5
+}
+.eyebrow-line{width:24px}
+.input-panel{padding:24px;background:#112019;border:1px solid rgba(221,235,218,.12);border-radius:4px}
+.panel-heading{padding-bottom:20px;border-color:rgba(221,235,218,.14)}
+.panel-heading + .field-label{margin-top:20px}
+.panel h2{font-size:1.75rem;margin-top:8px}
+.intro-copy{font-size:.9375rem;line-height:1.55;margin:16px 0 20px}
+.field-label{margin-bottom:8px}
+select,.value-wrap,.study-search input{border-color:rgba(221,235,218,.23);border-radius:4px}
+select{padding-left:12px}
+.field-note{font-size:.8125rem;line-height:1.5}
+.control-list{margin-top:20px;border-color:rgba(221,235,218,.14)}
+.toxin{padding:16px 0;border-color:rgba(221,235,218,.14)}
+.toxin-label{font-size:1rem;font-weight:600}
+.toxin-label small{font-size:.8125rem;margin-top:4px}
+.value-wrap input{font-variant-numeric:tabular-nums}
+.slider-row{margin-top:12px}
+.toxin-about{margin-top:8px}
+.toxin-about,.toxin-about p{font-size:.8125rem;line-height:1.5}
+.balance{padding-top:20px}
+.visual-header{min-height:64px;padding-bottom:16px;border-color:rgba(221,235,218,.14)}
+.reference-tag{border:0;padding:4px 0;font-weight:500;color:#b5c8b5}
+.stage-top{padding:16px 0 12px}
+.stage-label{font-size:.75rem}
+.stage-top h3{margin-top:4px;font-size:1.25rem}
+.segmented{padding:4px;border-color:rgba(221,235,218,.16);border-radius:6px}
+.segmented button{min-height:36px;padding:8px 16px;border-radius:4px;font-size:.8125rem;font-weight:600}
+.stage{border:1px solid rgba(221,235,218,.16);border-radius:4px;background:#26372b}
+.stage-grid{opacity:.2;background-size:56px 56px}
+.visual-footer{justify-content:flex-end;padding:12px 0 16px;border-color:rgba(221,235,218,.14);font-size:.8125rem}
+.snake-context{margin-top:32px}
+.snake-context h3,.model-explanation h3{margin:8px 0 12px;font-size:1.75rem}
+.snake-context>p{font-size:.9375rem;line-height:1.6}
+.context-grid{margin:20px 0;background:rgba(221,235,218,.13);border-color:rgba(221,235,218,.13)}
+.context-grid>div{min-height:128px;padding:20px;background:#14231a}
+.context-grid dt{font-size:.75rem;letter-spacing:.035em}
+.context-grid .context-secondary,.context-grid .context-unavailable,.context-details{font-size:.8125rem}
+.starting-reference,.source-breakdown,.photo-references{margin-top:16px;background:transparent;border:0;border-top:1px solid rgba(221,235,218,.16);border-radius:0}
+.starting-reference,.photo-references{padding:16px 0}
+.source-breakdown>summary{padding:16px 0;font-size:.9375rem}
+.starting-reference summary,.photo-references summary,.study-panel summary{font-size:.9375rem}
+.source-intro,.source-footnote,.source-empty{margin-left:0;margin-right:0;font-size:.8125rem}
+.source-list{margin-left:0;margin-right:0}
+.more-sources>summary{margin-left:0;margin-right:0}
+.source-card{background:#14231a;border-color:rgba(221,235,218,.14);border-radius:4px;padding:12px 16px}
+.source-effect,.source-profile{font-size:.8125rem}
+.disclaimer,.evidence-note{border-color:rgba(221,235,218,.13);background:#14231a;font-size:.8125rem}
+.model-explanation{margin-top:32px;padding-top:24px}
+.model-explanation>p,.influences,.study-panel{font-size:.875rem}
+.study-panel button:not(.text-button){border-radius:4px}
+@media(max-width:720px){
+  .page{padding:0 20px}
+  .intro{padding:32px 0 24px}
+  .intro::before{left:-20px;right:-20px}
+  .intro h1{font-size:2.5rem;margin-top:12px}
+  .workspace.learned-workspace{gap:24px;padding:20px 0 56px}
+  .input-panel{padding:20px}
+  .visual-panel{padding:0}
+  .stage{height:390px;min-height:390px}
+  .context-grid>div{min-height:0}
+}

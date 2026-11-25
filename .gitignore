@@ -12,6 +12,7 @@ venv/
 *.tmp
 .pytest_cache/
 .coverage
+render-dist/
 data/processed/cleaning-validation-*/
 data/image_pilots/*/images/
 data/image_pilots/*/api_cache/

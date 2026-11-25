@@ -14,3 +14,7 @@
 .cursor-glow{position:fixed;z-index:20;top:0;left:0;width:448px;height:448px;border-radius:50%;pointer-events:none;opacity:0;background:radial-gradient(circle,rgba(169,211,151,.2184) 0%,rgba(126,179,115,.10192) 30%,transparent 70%);transition:opacity .25s ease;will-change:transform}
 .cursor-glow.is-visible{opacity:1}
 @media(prefers-reduced-motion:reduce){.cursor-glow{display:none}}
+
+/* Retain the original title placement without the decorative eyebrow. */
+.hero-heading{padding-top:2rem}
+@media(max-width:700px){.hero-heading{padding-top:1.5rem}}

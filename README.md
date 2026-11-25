@@ -12,6 +12,10 @@ The [homepage](MainInterface/home.html) introduces the project and links to the 
 
 To run the main interface with local PDF/text study search, run `./start_serpentshaper.sh` and open `http://127.0.0.1:8768/`. Study passages and optional literal-percentage suggestions remain local; users review and apply values explicitly. Optional retrieval-augmented answers use a separately installed local Ollama `llama3:latest` model and do not retrain the phenotype model. See the interface notes for limitations and dependencies.
 
+### Render static deployment
+
+`render.yaml` configures the public website as a Render static site. Connect this repository on Render, or create a static site from `main` with build command `python3 scripts/build_render_site.py` and publish directory `render-dist`. The build copies only the pages and assets needed for the website; it does not publish the raw research data, local photos, or the study server. The trained generator runs in the visitor's browser and needs no API key. Study uploads and local-AI answers are available only through the local server, not the public static site. The local server is not designed to be exposed to the internet. The 50% input minimum is an interface rule, not a validated accuracy threshold.
+
 To browse the cleaned data and test custom inputs locally, run `python3 InitialInterfaceTest.py` and open `http://127.0.0.1:8765`. See [interface usage and API](InitialInterfaceTest.md).
 
 The [venom input specification](docs/VenomInputSpecification.md) defines four primary and eight advanced controls available in the composition editor. Its biological phenotype output contract remains a draft; the connected model produces an experimental illustration rather than validated phenotype inference. Validate the catalog's database bindings with `python3 scripts/validate_input_spec.py`.

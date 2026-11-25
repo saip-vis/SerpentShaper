@@ -7,7 +7,7 @@ const startersBySpecies=new Map(starters.map(s=>[s.species,s]));
 const presetById=new Map(presets.map(p=>[p.preset_id,p]));
 const expandedContext=new Set();
 let surface='dorsal',svg=null,currentSources=[],starting=null,startingValues=null,referenceKey='',limitNotice='',sourcesPending=false;
-const EPSILON=1e-8;
+const EPSILON=1e-8,MIN_PROFILE_PERCENT=50;
 const enteredTotal=()=>Object.values(values).reduce((sum,v)=>sum+(Number.isFinite(v)?v:0),0);
 for(const photo of window.SERPENT_CONNECTED_MODEL?.photo_sources||[]){
   const item=document.createElement('li'),label=document.createElement('span');label.textContent=`${photo.species} — `;item.append(label);
@@ -116,20 +116,21 @@ function updateStartingNote(){
   $('starting-note').textContent=`${changed?'Edited starting profile':'Starting venom profile'} · source row ${starting.profile.source_row}${starting.profile.location?' · '+starting.profile.location:''}. ${changed?'The concept uses your current values.':'This is one reported profile; individuals can vary.'}${uncertain?' A disputed source value remains blank.':''}`;
 }
 function update({deferSources=false}={}){
-  const active=Object.values(values).filter(v=>Number.isFinite(v)&&v>0),total=enteredTotal(),overLimit=total>100+EPSILON;
+  const active=Object.values(values).filter(v=>Number.isFinite(v)&&v>0),total=enteredTotal(),overLimit=total>100+EPSILON,belowMinimum=total<MIN_PROFILE_PERCENT-EPSILON;
+  const comparable=active.length>0&&!invalid.size&&!overLimit;
   $('total').textContent=`${Number(total.toFixed(2))}%`;
-  $('balance-note').textContent=invalid.size?'Enter values from 0 to 100.':overLimit?'This source profile exceeds 100%. Review and reduce its values before generating; the reported values have not been changed.':limitNotice|| (active.length<3&&active.length?'Sparse input: the concept has limited support.':'Blank values are unreported.');
+  $('balance-note').textContent=invalid.size?'Enter values from 0 to 100.':overLimit?'This source profile exceeds 100%. Review and reduce its values before generating; the reported values have not been changed.':limitNotice|| (belowMinimum?`Add ${Number((MIN_PROFILE_PERCENT-total).toFixed(2))}% more to reach the 50% minimum for an illustration. Blank values remain unreported.`:active.length<3?'Sparse input: the concept has limited support.':'Blank values are unreported.');
   for(const c of controls){const {slider}=inputs.get(c.id),current=values[c.id]||0,remaining=Number(Math.max(0,100-(total-current)).toFixed(8));slider.max=String(Math.max(current,remaining));slider.value=String(current);}
   const ready=ConnectedInference.ready(window.SERPENT_CONNECTED_MODEL);
-  const concept=invalid.size||overLimit?null:ConnectedInference.predict(values,window.SERPENT_CONNECTED_MODEL,{includeSources:false});
+  const concept=invalid.size||overLimit||belowMinimum?null:ConnectedInference.predict(values,window.SERPENT_CONNECTED_MODEL,{includeSources:false});
   const drawing=concept?DetailedConcept.render(concept,presets,SpeciesRenderer,{surface}):null;
   svg=drawing?.svg||null;$('drawing').innerHTML=svg||'';$('drawing').hidden=!svg;$('empty').hidden=!!svg;$('download').disabled=!svg;
-  $('empty').textContent=!ready?'The experimental model could not be loaded.':invalid.size?'Correct the highlighted inputs.':overLimit?'Reduce the entered total to 100% or less to create a concept.':'Enter a nonzero component to create a concept.';
+  $('empty').textContent=!ready?'The experimental model could not be loaded.':invalid.size?'Correct the highlighted inputs.':overLimit?'Reduce the entered total to 100% or less to create a concept.':'Enter at least 50% in total to create an illustration. Unentered amounts remain unspecified. This is a practical minimum, not a guarantee of accuracy.';
   $('dorsal').setAttribute('aria-pressed',String(surface==='dorsal'));$('ventral').setAttribute('aria-pressed',String(surface==='ventral'));
   updateStartingNote();updateReference();
   $('influences').replaceChildren();
-  if(deferSources&&concept){sourcesPending=true;$('source-status').textContent=`Sidebar total: ${Number(total.toFixed(2))}%. The list still shows the previous profile; release the slider to update it.`;}
-  else{sourcesPending=false;$('source-status').textContent=concept?`Comparing the current sidebar values (${Number(total.toFixed(2))}% entered).${controls.filter(c=>Number.isFinite(values[c.id])).length<3?' Few entered categories: comparisons are especially limited.':''}`:'';renderSources(concept);}
+  if(deferSources&&comparable){sourcesPending=true;$('source-status').textContent=`Sidebar total: ${Number(total.toFixed(2))}%. The list still shows the previous profile; release the slider to update it.`;}
+  else{sourcesPending=false;$('source-status').textContent=comparable?`Comparing the current sidebar values (${Number(total.toFixed(2))}% entered).${controls.filter(c=>Number.isFinite(values[c.id])).length<3?' Few entered categories: comparisons are especially limited.':''}`:'';renderSources(comparable);}
   renderContext(concept,deferSources);
   renderLd50(concept,deferSources);
   $('visual-traits').textContent=concept?`Illustration controls (not probabilities): hood ${Math.round(concept.traits.hood*100)}%, bands ${Math.round(concept.traits.bands*100)}%, blotches ${Math.round(concept.traits.blotches*100)}%, diamonds ${Math.round(concept.traits.diamond*100)}%, rattle ${Math.round(concept.traits.rattle*100)}%.`:'';

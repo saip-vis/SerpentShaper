@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: serpentshaper
+    runtime: static
+    buildCommand: python3 scripts/build_render_site.py
+    staticPublishPath: ./render-dist
+    autoDeployTrigger: commit

@@ -83,7 +83,11 @@ const toxinAbout=dom.controls.children[0].children.find(c=>c.className==='toxin-
 assert.ok(toxinAbout);assert.match(toxinAbout.children[0].textContent,/About 3FTx/);assert.match(toxinAbout.children[1].textContent,/functionally diverse/);
 assert.ok(dom['starting-species'].children.some(option=>option.textContent==='Western diamondback — Crotalus atrox'));
 const input=id=>created.find(e=>e.id===`component-${id}`);
-input('3ftx').value='25';input('3ftx').fire('input');assert.equal(dom.drawing.hidden,false);assert.match(dom['balance-note'].textContent,/Sparse/);assert.match(dom['context-status'].textContent,/not enough comparable/i);
+input('3ftx').value='1';input('3ftx').fire('input');assert.equal(dom.drawing.hidden,true);assert.equal(dom.download.disabled,true);assert.match(dom.empty.textContent,/at least 50%/);assert.match(dom['balance-note'].textContent,/49% more/);assert.match(dom['source-status'].textContent,/1% entered/);
+input('3ftx').value='49.9';input('3ftx').fire('input');assert.equal(dom.drawing.hidden,true);assert.match(dom['balance-note'].textContent,/0.1% more/);
+input('3ftx').value='50';input('3ftx').fire('input');assert.equal(dom.drawing.hidden,false);assert.equal(dom.download.disabled,false);assert.match(dom['balance-note'].textContent,/Sparse/);
+input('3ftx').value='49.9';input('3ftx').fire('input');assert.equal(dom.drawing.hidden,true);assert.equal(dom.download.disabled,true);
+input('3ftx').value='25';input('3ftx').fire('input');assert.equal(dom.drawing.hidden,true);assert.match(dom['context-status'].textContent,/enter at least/i);
 input('pla2').value='15';input('pla2').fire('input');input('svmp').value='40';input('svmp').fire('input');
 const before=dom.drawing.innerHTML;input('svsp').value='10';input('svsp').fire('input');assert.notEqual(dom.drawing.innerHTML,before);
 input('svsp').value='0';input('svsp').fire('input');

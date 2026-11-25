@@ -4,7 +4,9 @@ const $=id=>document.getElementById(id);
 const status=$('study-status'),results=$('study-results');
 if(!window.location || window.location.hostname!=='127.0.0.1' || window.location.protocol!=='http:'){
   $('study-controls').hidden=true;
-  $('study-availability').textContent='To use study uploads, run ./start_serpentshaper.sh and open the local address it prints.';
+  $('study-availability').textContent=window.location?.protocol==='file:'
+    ?'To use study uploads, run ./start_serpentshaper.sh and open the local address it prints.'
+    :'Study uploads are available in the local version only; they are not available on this website.';
   return;
 }
 $('study-availability').textContent='Your files stay on this computer and are not saved when the server stops.';
