@@ -1,0 +1,620 @@
+{
+  "schema_version": 1,
+  "status": "triage_only_no_acceptance_or_training_approval",
+  "description": "Metadata-prioritized local photos for assistant-supported review; pixels, condition, species identity, image rights and useful traits are not verified by selection.",
+  "source_species_count": 16,
+  "image_count": 32,
+  "selection": "Unreviewed; original source and provider names agree; local file available; retained license code; diverse genera; at most one image per observation and three per species. Resolution is only a triage hint.",
+  "species": [
+    {
+      "species_label": "Naja kaouthia",
+      "venom_profile_count": 6,
+      "images": [
+        {
+          "image_id": "inat_482621115",
+          "observation_id": 268490661,
+          "manifest": "data/image_pilots/pilot_260_extra_naja_kaouthia/manifest.json",
+          "local_path": "data/image_pilots/pilot_260_extra_naja_kaouthia/images/af813cf80240d34d634abc7254ef9803c7b0388ac9356f6d3a377742aeebfab1.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/482621115",
+          "sha256": "af813cf80240d34d634abc7254ef9803c7b0388ac9356f6d3a377742aeebfab1",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Ashwin Viswanathan, some rights reserved (CC BY)",
+          "original_width": 1999,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_586883722",
+          "observation_id": 324269052,
+          "manifest": "data/image_pilots/pilot_260_extra_naja_kaouthia/manifest.json",
+          "local_path": "data/image_pilots/pilot_260_extra_naja_kaouthia/images/4dd3ec8975a5576bf7f72d3741362c1b816594e19df776c60c68796d67f8b770.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/586883722",
+          "sha256": "4dd3ec8975a5576bf7f72d3741362c1b816594e19df776c60c68796d67f8b770",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Ankur Nandi, some rights reserved (CC BY)",
+          "original_width": 1700,
+          "original_height": 1768,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Ophiophagus hannah",
+      "venom_profile_count": 1,
+      "images": [
+        {
+          "image_id": "inat_635550601",
+          "observation_id": 348478386,
+          "manifest": "data/image_pilots/pilot_270_extra_ophiophagus_hannah/manifest.json",
+          "local_path": "data/image_pilots/pilot_270_extra_ophiophagus_hannah/images/ef3a3ad4375b045755c5059d0b383f44d91ab1d5f89f5c1b3244f180fc9fb428.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/635550601",
+          "sha256": "ef3a3ad4375b045755c5059d0b383f44d91ab1d5f89f5c1b3244f180fc9fb428",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Huey, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 2047,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_627170846",
+          "observation_id": 344227934,
+          "manifest": "data/image_pilots/pilot_270_extra_ophiophagus_hannah/manifest.json",
+          "local_path": "data/image_pilots/pilot_270_extra_ophiophagus_hannah/images/5ba75cff77e8f92bcca47246225c362877e9c5af6e923803622ddfcbd8ded4d4.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/627170846",
+          "sha256": "5ba75cff77e8f92bcca47246225c362877e9c5af6e923803622ddfcbd8ded4d4",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Thomas Galewski, some rights reserved (CC BY)",
+          "original_width": 1668,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Naja naja",
+      "venom_profile_count": 11,
+      "images": [
+        {
+          "image_id": "inat_740837716",
+          "observation_id": 403486981,
+          "manifest": "data/image_pilots/pilot_150_cobra_followup/manifest.json",
+          "local_path": "data/image_pilots/pilot_150_cobra_followup/images/21522cffdfe8177930027bf39276052091bbc8d74ec3df53fccd94e3580d7dd5.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/740837716",
+          "sha256": "21522cffdfe8177930027bf39276052091bbc8d74ec3df53fccd94e3580d7dd5",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Rahul kumar, some rights reserved (CC BY)",
+          "original_width": 1710,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_764912440",
+          "observation_id": 415405731,
+          "manifest": "data/image_pilots/pilot_150_cobra_followup/manifest.json",
+          "local_path": "data/image_pilots/pilot_150_cobra_followup/images/deee9ac0188def3a71f9d9d707fa54f59878663adb1dd0b4ef0f8ae1e480def1.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/764912440",
+          "sha256": "deee9ac0188def3a71f9d9d707fa54f59878663adb1dd0b4ef0f8ae1e480def1",
+          "photo_license": "cc0",
+          "license_version": null,
+          "attribution": "no rights reserved",
+          "original_width": 1685,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Dispholidus typus",
+      "venom_profile_count": 1,
+      "images": [
+        {
+          "image_id": "inat_722685748",
+          "observation_id": 394220014,
+          "manifest": "data/image_pilots/pilot_224_extra_dispholidus_typus/manifest.json",
+          "local_path": "data/image_pilots/pilot_224_extra_dispholidus_typus/images/52f2b2d41af3e1db20be80a05a9d00b684c765c5a8ab80ca16fed0e5b0f08286.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/722685748",
+          "sha256": "52f2b2d41af3e1db20be80a05a9d00b684c765c5a8ab80ca16fed0e5b0f08286",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Ryan van Huyssteen, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1627,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_2829005",
+          "observation_id": 2521347,
+          "manifest": "data/image_pilots/pilot_007_boomslang/manifest.json",
+          "local_path": "data/image_pilots/pilot_007_boomslang/images/22ff9730e7e9e575947563eb4c0d98939f8d48011ca4f3f757820a9e761a4d3c.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/2829005",
+          "sha256": "22ff9730e7e9e575947563eb4c0d98939f8d48011ca4f3f757820a9e761a4d3c",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Carrie Seltzer, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1536,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": null,
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Bothrops asper",
+      "venom_profile_count": 2,
+      "images": [
+        {
+          "image_id": "inat_732255620",
+          "observation_id": 399132456,
+          "manifest": "data/image_pilots/pilot_176_extra_bothrops_asper/manifest.json",
+          "local_path": "data/image_pilots/pilot_176_extra_bothrops_asper/images/e1dd70802622579e279e2537526f904e08292a385937983a7ca254723608b85d.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/732255620",
+          "sha256": "e1dd70802622579e279e2537526f904e08292a385937983a7ca254723608b85d",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Echo Severs, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_7450756",
+          "observation_id": 5963063,
+          "manifest": "data/image_pilots/pilot_028_bothrops_asper/manifest.json",
+          "local_path": "data/image_pilots/pilot_028_bothrops_asper/images/86ecbb46140a6d18768d2f68567df9ae4baf0e6e939b9c4f15f1d4aaf0c46950.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/7450756",
+          "sha256": "86ecbb46140a6d18768d2f68567df9ae4baf0e6e939b9c4f15f1d4aaf0c46950",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Cole Wolf, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1618,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Daboia russelii",
+      "venom_profile_count": 13,
+      "images": [
+        {
+          "image_id": "inat_762298975",
+          "observation_id": 414118146,
+          "manifest": "data/image_pilots/pilot_219_extra_daboia_russelii/manifest.json",
+          "local_path": "data/image_pilots/pilot_219_extra_daboia_russelii/images/8bdddc626f588b51ecff417ac2864a2ca39b2b946d67278c89cbec6f9fafd715.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/762298975",
+          "sha256": "8bdddc626f588b51ecff417ac2864a2ca39b2b946d67278c89cbec6f9fafd715",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Abhinav Thakur, some rights reserved (CC BY)",
+          "original_width": 1938,
+          "original_height": 1900,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_59775685",
+          "observation_id": 37674750,
+          "manifest": "data/image_pilots/pilot_069_daboia_russelii/manifest.json",
+          "local_path": "data/image_pilots/pilot_069_daboia_russelii/images/d900e9bbefe596c3de2e97a61839a0e2ceab20be349f7cef9bc2604c06040519.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/59775685",
+          "sha256": "d900e9bbefe596c3de2e97a61839a0e2ceab20be349f7cef9bc2604c06040519",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Harshjeet Singh Bal, some rights reserved (CC BY)",
+          "original_width": 1824,
+          "original_height": 1794,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Bitis arietans",
+      "venom_profile_count": 2,
+      "images": [
+        {
+          "image_id": "inat_747851314",
+          "observation_id": 406996980,
+          "manifest": "data/image_pilots/pilot_163_extra_bitis_arietans/manifest.json",
+          "local_path": "data/image_pilots/pilot_163_extra_bitis_arietans/images/36c9f313534775916e6f6ada9c4977403b19f317b560ea86975cb3211cfa496b.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/747851314",
+          "sha256": "36c9f313534775916e6f6ada9c4977403b19f317b560ea86975cb3211cfa496b",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Christina, some rights reserved (CC BY)",
+          "original_width": 1536,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_761975661",
+          "observation_id": 413958390,
+          "manifest": "data/image_pilots/pilot_163_extra_bitis_arietans/manifest.json",
+          "local_path": "data/image_pilots/pilot_163_extra_bitis_arietans/images/f0ce2e6bc74779a32fa462d9a711469c5ba210dbf84b1e1fd88c31498adcab82.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/761975661",
+          "sha256": "f0ce2e6bc74779a32fa462d9a711469c5ba210dbf84b1e1fd88c31498adcab82",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Caroline Voget, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1536,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Bungarus multicinctus",
+      "venom_profile_count": 3,
+      "images": [
+        {
+          "image_id": "inat_26493659",
+          "observation_id": 17431574,
+          "manifest": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
+          "local_path": "data/image_pilots/pilot_050_bungarus_multicinctus/images/4ebddd9e1d985f984821607c505634508f62e9c649872e75e28825843abe1dfd.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/26493659",
+          "sha256": "4ebddd9e1d985f984821607c505634508f62e9c649872e75e28825843abe1dfd",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Chung-Yen, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1536,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_28898787",
+          "observation_id": 18861638,
+          "manifest": "data/image_pilots/pilot_050_bungarus_multicinctus/manifest.json",
+          "local_path": "data/image_pilots/pilot_050_bungarus_multicinctus/images/589ef73bd3f0b0471acd7948b56f830b8fb4b1d65aaee322ceef90e735ecfd86.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/28898787",
+          "sha256": "589ef73bd3f0b0471acd7948b56f830b8fb4b1d65aaee322ceef90e735ecfd86",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Chung-Yen, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1536,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Crotalus scutulatus",
+      "venom_profile_count": 1,
+      "images": [
+        {
+          "image_id": "inat_724562887",
+          "observation_id": 395175739,
+          "manifest": "data/image_pilots/pilot_213_extra_crotalus_scutulatus/manifest.json",
+          "local_path": "data/image_pilots/pilot_213_extra_crotalus_scutulatus/images/f8664ac89d80112ceb32a31b297ecfdffedf70c44638d4bc7d5d18ec863fd567.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/724562887",
+          "sha256": "f8664ac89d80112ceb32a31b297ecfdffedf70c44638d4bc7d5d18ec863fd567",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) nmoorhatch, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1773,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_3489252",
+          "observation_id": 3031134,
+          "manifest": "data/image_pilots/pilot_063_crotalus_scutulatus/manifest.json",
+          "local_path": "data/image_pilots/pilot_063_crotalus_scutulatus/images/20d2848d99c6e90e89af6432f06f30017bc2c0c588d08965a3b5e41e061ff0d2.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/3489252",
+          "sha256": "20d2848d99c6e90e89af6432f06f30017bc2c0c588d08965a3b5e41e061ff0d2",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Adam J. Searcy, some rights reserved (CC BY)",
+          "original_width": 1742,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Agkistrodon contortrix",
+      "venom_profile_count": 5,
+      "images": [
+        {
+          "image_id": "inat_761696206",
+          "observation_id": 413822991,
+          "manifest": "data/image_pilots/pilot_156_extra_agkistrodon_contortrix/manifest.json",
+          "local_path": "data/image_pilots/pilot_156_extra_agkistrodon_contortrix/images/406de36a2e05d0474681cedcf265fbad0c77ca5b85f3f540fd6cf492d6210c95.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/761696206",
+          "sha256": "406de36a2e05d0474681cedcf265fbad0c77ca5b85f3f540fd6cf492d6210c95",
+          "photo_license": "cc0",
+          "license_version": null,
+          "attribution": "no rights reserved",
+          "original_width": 1542,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_134223",
+          "observation_id": 92163,
+          "manifest": "data/image_pilots/pilot_011_agkistrodon_contortrix/manifest.json",
+          "local_path": "data/image_pilots/pilot_011_agkistrodon_contortrix/images/7743fe17f7cbd4ef0490606ca884888fb9eb7c58b53b179f5cac00b67345193f.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/134223",
+          "sha256": "7743fe17f7cbd4ef0490606ca884888fb9eb7c58b53b179f5cac00b67345193f",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Tigran Tadevosyan, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1536,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Cerastes cerastes",
+      "venom_profile_count": 2,
+      "images": [
+        {
+          "image_id": "inat_727045175",
+          "observation_id": 396451089,
+          "manifest": "data/image_pilots/pilot_201_extra_cerastes_cerastes/manifest.json",
+          "local_path": "data/image_pilots/pilot_201_extra_cerastes_cerastes/images/ef867041ef4cae6f650953409d68d1a6752444f1663b7a3847f0f43a28e575b6.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/727045175",
+          "sha256": "ef867041ef4cae6f650953409d68d1a6752444f1663b7a3847f0f43a28e575b6",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Alexander Pohle, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_12887205",
+          "observation_id": 9470544,
+          "manifest": "data/image_pilots/pilot_052_cerastes_cerastes/manifest.json",
+          "local_path": "data/image_pilots/pilot_052_cerastes_cerastes/images/adf5f6c6753c46d131035f2556a8893a3b86cd3f67872b0d06b747fa9d247b23.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/12887205",
+          "sha256": "adf5f6c6753c46d131035f2556a8893a3b86cd3f67872b0d06b747fa9d247b23",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Julien Renoult, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1536,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Deinagkistrodon acutus",
+      "venom_profile_count": 3,
+      "images": [
+        {
+          "image_id": "inat_751683314",
+          "observation_id": 408879942,
+          "manifest": "data/image_pilots/pilot_221_extra_deinagkistrodon_acutus/manifest.json",
+          "local_path": "data/image_pilots/pilot_221_extra_deinagkistrodon_acutus/images/95a68442f2e92b59e6806b9d47025b1b49959c59955a17cda988bf4c5915e97b.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/751683314",
+          "sha256": "95a68442f2e92b59e6806b9d47025b1b49959c59955a17cda988bf4c5915e97b",
+          "photo_license": "cc0",
+          "license_version": null,
+          "attribution": "no rights reserved",
+          "original_width": 2048,
+          "original_height": 1538,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_375402124",
+          "observation_id": 212428649,
+          "manifest": "data/image_pilots/pilot_071_deinagkistrodon_acutus/manifest.json",
+          "local_path": "data/image_pilots/pilot_071_deinagkistrodon_acutus/images/117d0238e3fdcfb8516f32418d0a6af2fd716ee23c5bf56b227380c87e2d9365.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/375402124",
+          "sha256": "117d0238e3fdcfb8516f32418d0a6af2fd716ee23c5bf56b227380c87e2d9365",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) \u674e\u5b9c\u9f8d, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1536,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Echis carinatus",
+      "venom_profile_count": 7,
+      "images": [
+        {
+          "image_id": "inat_758628355",
+          "observation_id": 412300365,
+          "manifest": "data/image_pilots/pilot_225_extra_echis_carinatus/manifest.json",
+          "local_path": "data/image_pilots/pilot_225_extra_echis_carinatus/images/85dcec64d318818d2f78de0cb4fe39152e6d157828a8fad8e0b5078d1c5876f7.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/758628355",
+          "sha256": "85dcec64d318818d2f78de0cb4fe39152e6d157828a8fad8e0b5078d1c5876f7",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Ashwin Viswanathan, some rights reserved (CC BY)",
+          "original_width": 1993,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_757474922",
+          "observation_id": 411726861,
+          "manifest": "data/image_pilots/pilot_225_extra_echis_carinatus/manifest.json",
+          "local_path": "data/image_pilots/pilot_225_extra_echis_carinatus/images/76e12f83cf5d4387ba6fe42a929226652ed1561b9d1d49927528331b7c56c51d.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/757474922",
+          "sha256": "76e12f83cf5d4387ba6fe42a929226652ed1561b9d1d49927528331b7c56c51d",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) desertnaturalist, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1827,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Hydrophis platurus",
+      "venom_profile_count": 1,
+      "images": [
+        {
+          "image_id": "inat_626968554",
+          "observation_id": 344119876,
+          "manifest": "data/image_pilots/pilot_230_extra_hydrophis_platurus/manifest.json",
+          "local_path": "data/image_pilots/pilot_230_extra_hydrophis_platurus/images/0e27a7fafa592803643e2332c31c1936e150ab5bc006811850119b46f2a90523.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/626968554",
+          "sha256": "0e27a7fafa592803643e2332c31c1936e150ab5bc006811850119b46f2a90523",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Theo Busschau, some rights reserved (CC BY)",
+          "original_width": 1677,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_103019572",
+          "observation_id": 64112603,
+          "manifest": "data/image_pilots/pilot_078_hydrophis_platurus/manifest.json",
+          "local_path": "data/image_pilots/pilot_078_hydrophis_platurus/images/43be9587318d9b81c8f21f9d523f223fa5d833667e17848984b4ea823ef34aba.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/103019572",
+          "sha256": "43be9587318d9b81c8f21f9d523f223fa5d833667e17848984b4ea823ef34aba",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Emily Franzen, some rights reserved (CC BY)",
+          "original_width": 1536,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Hypnale hypnale",
+      "venom_profile_count": 1,
+      "images": [
+        {
+          "image_id": "inat_743347363",
+          "observation_id": 404755385,
+          "manifest": "data/image_pilots/pilot_232_extra_hypnale_hypnale/manifest.json",
+          "local_path": "data/image_pilots/pilot_232_extra_hypnale_hypnale/images/0683546d70e878e9ac50b728272d87c1ce2719a9a2c5a5538202f2ab225b43c0.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/743347363",
+          "sha256": "0683546d70e878e9ac50b728272d87c1ce2719a9a2c5a5538202f2ab225b43c0",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Smruthi KP, some rights reserved (CC BY)",
+          "original_width": 1761,
+          "original_height": 2048,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_743330589",
+          "observation_id": 404747107,
+          "manifest": "data/image_pilots/pilot_232_extra_hypnale_hypnale/manifest.json",
+          "local_path": "data/image_pilots/pilot_232_extra_hypnale_hypnale/images/30c963b9720a73c257a5273aae45d4f25e8e70198dc575de8c684f7064805c44.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/743330589",
+          "sha256": "30c963b9720a73c257a5273aae45d4f25e8e70198dc575de8c684f7064805c44",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Smruthi KP, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1745,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    },
+    {
+      "species_label": "Micrurus alleni",
+      "venom_profile_count": 1,
+      "images": [
+        {
+          "image_id": "inat_2212018",
+          "observation_id": 1823480,
+          "manifest": "data/image_pilots/pilot_089_micrurus_alleni/manifest.json",
+          "local_path": "data/image_pilots/pilot_089_micrurus_alleni/images/5ae18fc80e52e88e9a3a21f32c78c116fddeafa03c8bd18b686a1dbcb28cddf5.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/2212018",
+          "sha256": "5ae18fc80e52e88e9a3a21f32c78c116fddeafa03c8bd18b686a1dbcb28cddf5",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Annika Lindqvist, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1541,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        },
+        {
+          "image_id": "inat_114218615",
+          "observation_id": 70281876,
+          "manifest": "data/image_pilots/pilot_089_micrurus_alleni/manifest.json",
+          "local_path": "data/image_pilots/pilot_089_micrurus_alleni/images/7667b75bd853dd12b95f5ab21ef1d154119467178e88d258ffdfe9a586f2c5bf.jpg",
+          "photo_page": "https://www.inaturalist.org/photos/114218615",
+          "sha256": "7667b75bd853dd12b95f5ab21ef1d154119467178e88d258ffdfe9a586f2c5bf",
+          "photo_license": "cc-by",
+          "license_version": null,
+          "attribution": "(c) Dan Riley, some rights reserved (CC BY)",
+          "original_width": 2048,
+          "original_height": 1536,
+          "review_status": "unreviewed",
+          "existing_exclusion_reason": "pending_visual_review",
+          "triage_status": "pending_visual_and_trait_review"
+        }
+      ]
+    }
+  ],
+  "purpose": "Prioritize a small visual review batch; no identity, health, trait or license validation is implied.",
+  "next_step": "Inspect each original image and provider page for visible traits, identity and condition before recording any acceptance or label."
+}

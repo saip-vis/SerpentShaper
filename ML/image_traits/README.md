@@ -19,3 +19,15 @@ The recorded genus-held-out run includes 148 species labels, only 11 with author
 One previously accepted photo (`inat_791396`) shows a suspicious area that could indicate injury; it was not used in the new cue or image check. This is a flag for further review, not a diagnosis, and the original manifest decision remains unchanged.
 
 Next, inspect or correct the provisional labels and establish image/annotation and license review before considering them as training data. Preserve observation groups when splitting data so images of the same observation cannot appear in both training and evaluation sets.
+
+## Photo-observed pattern pilot
+
+A first direct photo-label experiment and its important limitations are documented in [photo_pattern_pilot_report.md](photo_pattern_pilot_report.md). It is exploratory only and does not change the product model or photo review status.
+
+`python3 scripts/build_photo_pilot_shortlist.py` prepares a separate, bounded metadata-based shortlist of up to 16 source labels and two candidate photos each. The output `photo_pilot_review_shortlist.json` is for prioritizing future visual review only: it does not approve images or labels, verify identities, or make them training-eligible. Rebuild it after collection finishes to include current local photos.
+
+## Catalog-wide contact-sheet screen
+
+`assistant_catalog_screen_2026.json` records a first-pass contact-sheet screen of all 599 newly downloaded photos. Its `visual_candidate` and `hold` decisions are **not** species or health verification, final individual photo review, or training approval. The reviewer inspected selected originals and rejected 34 showing severe damage or remains and two showing only shed skin in their manifests. Forty-five newly collected photos were subsequently accepted after individual inspection; 518 remain unreviewed and excluded from training; the source files and review history are preserved. `assistant_shortlist_screen_2026.json` separately records 32 prioritized photos from both older and newer batches and overlaps the 599; it must not be counted as 32 additional photos.
+
+Run `python3 scripts/summarize_image_screen.py` to check screening records against manifest IDs and hashes and regenerate the [screen summary](../../reports/image_research/catalog_photo_screen_2026.md). This checks record consistency, not identity, health, image rights, or biological correctness. Before using a candidate, review the original photo for the intended visible trait, source identification, condition and license; approve the source and a separate evidence-backed annotation through the existing gates. Keep observation groups separate during evaluation.

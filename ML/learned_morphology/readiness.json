@@ -4,8 +4,8 @@
   "minimum_genera_per_target": 3,
   "threshold_note": "Minimums only permit a small grouped experiment; they do not establish scientific validity or production readiness.",
   "data_counts": {
-    "image_records": 1213,
-    "not_eligible_under_source_gate": 1188,
+    "image_records": 1815,
+    "not_eligible_under_source_gate": 1790,
     "accepted_not_excluded": 25,
     "annotation_records": 0,
     "approved_joined_images": 0,

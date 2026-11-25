@@ -17,7 +17,7 @@
     "PhysicalRendererTest/presets/species-presets.json": "c950b99a9a39fc017b4287da6687b11565ac755961ac7c613451edb060d0810f",
     "PhysicalRendererTest/species-geometry.js": "e9228f768cc7ec59c0fb6bb2afb278c4a52bc17571eb596746a1672e438c0944",
     "PhysicalRendererTest/species-renderer.js": "c8156067b1255dbf9303aa81dbf1b60226efa510570d031ae3b59bcfcf601b9d",
-    "ML/learned_morphology/connected_prototype.json": "2d190f24357b5b928dae6c936c380c7341c0e902a2a3c41e25da33f546595854",
+    "ML/learned_morphology/connected_prototype.json": "65b273ffc62fb1cc10e42021d4d45ed694f6017ef48ef40417e3d306a600b9c8",
     "ML/image_traits/pattern_holdout.json": "f897d713ed888c6aaa1dff6612224fb02975150737974f5f380c2635d6309614"
   },
   "cases": [

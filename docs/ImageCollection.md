@@ -82,3 +82,23 @@ Every candidate starts as `unreviewed`; framing, viewpoint, and pose start as `u
 Keep all photographs from an observation together using `split_group`. These are species-level references, not photographs of the individual snakes whose venom was measured. SnakeCLEF and iNaturalist overlap, so their records must not be counted as independent sources.
 
 Requests are sequential, cached, and spaced by at least 1.2 seconds. Failed requests are recorded; there is no automatic retry loop. API responses can include public observation information not copied into the manifest. Review cached responses before sharing. Large media and API caches are ignored by Git.
+
+## Additional catalog-wide collection
+
+`scripts/collect_catalog_followup.py` runs a separate, resumable follow-up across the 149 source labels in `reports/image_research/imaging_gaps.json`. It reuses the bounded iNaturalist collector, searches up to five pages of research-grade observations per resolved taxon, requests recorded CC0 or CC BY photo licenses, and aims for up to eight photos from previously unrepresented observations per label. It records the original species name, resolved provider name, photo/observation IDs, attribution, license code, source page, and file checksum. API caches and downloaded photos are ignored by Git; the manifests and summaries record provenance. Photos start unreviewed and excluded from training. Duplicate image bytes are separately flagged and excluded.
+
+Run intentionally with network access:
+
+```sh
+python3 scripts/collect_catalog_followup.py --plan-only
+python3 scripts/collect_catalog_followup.py
+python3 scripts/summarize_catalog_followup.py
+```
+
+The script checkpoints each source label in `reports/image_research/catalog_followup_2026.json`, uses folders numbered `pilot_155` through `pilot_303`, and skips completed labels on subsequent runs. If the provider has not rate-limited the run, `--retry-failed-downloads` can retry individual failed files once per invocation without repeating successful downloads. It stops on provider rate limiting or repeated connection failures. The summary script checks the downloaded files, hashes, review/exclusion status and source metadata and writes readable notes and an audit beside the collection report. Run it again after collection finishes to refresh its snapshot. A zero-result or unresolved name is recorded in the report; this is a bounded sample, not proof that no photo exists elsewhere. A present license code and provider-supplied identity are not independent verification of license terms or species. Source files and earlier review decisions are not overwritten.
+
+### Wikimedia Commons gap references
+
+`scripts/collect_commons_gap_references.py` can sample exact Wikimedia Commons species categories when the iNaturalist follow-up recorded no new candidates or failed to resolve a name. It records the Commons file page, creator credit, license description, and content hash; filters to image formats and recorded public-domain/CC0/CC BY/CC BY-SA terms; and excludes obvious map/diagram filenames. This metadata filtering is not verification that the file shows the named snake, that the depiction is healthy, or that the license metadata is correct. Commons files lack verified observation groups, so they remain reference-only and are excluded from training until independently reviewed and grouped.
+
+The collector stops on HTTP 403 or 429 and records the outcome in `reports/image_research/commons_gap_references_2026.json`. Wait for the provider's limit to clear before any later manual resumption; do not automatically retry or attempt to evade provider limits. Category and license metadata do not guarantee unrestricted redistribution.

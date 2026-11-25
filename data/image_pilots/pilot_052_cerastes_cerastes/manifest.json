@@ -20,9 +20,9 @@
     "original_width": 2048,
     "original_height": 1536,
     "retrieved_at": "2026-11-20T08:50:57.504502+00:00",
-    "review_status": "unreviewed",
-    "framing": "unknown",
-    "viewpoint": "unknown",
+    "review_status": "accepted",
+    "framing": "partial_body",
+    "viewpoint": "oblique",
     "pose": "unknown",
     "download_status": "downloaded",
     "local_path": "images/adf5f6c6753c46d131035f2556a8893a3b86cd3f67872b0d06b747fa9d247b23.jpg",
@@ -31,9 +31,44 @@
     "byte_count": 859120,
     "content_type": "image/jpeg",
     "collection_batch": "pilot_052_cerastes_cerastes",
-    "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
-    "review_id": "Cerastes_cerastes01"
+    "rendering_training_excluded": false,
+    "review_id": "Cerastes_cerastes01",
+    "species_confidence": "confirmed",
+    "body_condition": "no_visible_injury",
+    "reference_only_exception": false,
+    "review_issues": [],
+    "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Horn-like raised scales over both eyes and repeated brown dorsal patches are visible; most of the body is shown, although the tail continues outside the frame.",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-24T21:22:53.570888+00:00",
+      "category": "candidate",
+      "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Horn-like raised scales over both eyes and repeated brown dorsal patches are visible; most of the body is shown, although the tail continues outside the frame."
+    },
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-24T21:22:53.570888+00:00",
+      "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Horn-like raised scales over both eyes and repeated brown dorsal patches are visible; most of the body is shown, although the tail continues outside the frame.",
+      "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+      "provider_identification_count": 11,
+      "provider_most_agree": true,
+      "cache_file": "data/image_pilots/pilot_052_cerastes_cerastes/api_cache/fcde683d394fa41d346ac0125c57c17a126c13194c4f7026caf00c9334343260.json"
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "accept",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-24T21:22:53.570888+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review",
+          "species_confidence": null,
+          "body_condition": null
+        },
+        "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Horn-like raised scales over both eyes and repeated brown dorsal patches are visible; most of the body is shown, although the tail continues outside the frame."
+      }
+    ]
   },
   {
     "image_id": "inat_51436617",

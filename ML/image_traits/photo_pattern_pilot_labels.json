@@ -1,0 +1,417 @@
+{
+  "schema_version": 1,
+  "status": "assistant_observed_exploratory_labels_not_expert_verified",
+  "target": "prominent repeated body markings visible in the photographed body section",
+  "definition": "1 means at least three prominent repeated bands, blotches or similar markings are visible in the body region; 0 means no such prominent repeated markings are visible on an adequately visible body section. It does not describe hidden regions or assert absence in the species.",
+  "method": "Assistant visual inspection of accepted, unblocked local photos. Labels are preliminary, observation-level, and have not been independently verified. Existing source review and renderer-training decisions are unchanged. Seven additional examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Ten further patterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Eleven further patterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Two further examples, including one visibly unpatterned trunk, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples, including two visibly unpatterned trunks, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples, including one visibly unpatterned trunk, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Three further visibly unpatterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification.",
+  "records": [
+    {
+      "image_id": "inat_244026573",
+      "species": "Oxyuranus scutellatus",
+      "visible_pattern": 0,
+      "evidence": "Visible lateral anterior body is mostly dark, without obvious large repeated markings; posterior body is outside frame."
+    },
+    {
+      "image_id": "inat_2699122",
+      "species": "Dendroaspis polylepis",
+      "visible_pattern": 0,
+      "evidence": "Multiple visible sections of the body appear largely uniform, without obvious large repeated markings; some body portions are concealed."
+    },
+    {
+      "image_id": "inat_1904884",
+      "species": "Crotalus atrox",
+      "visible_pattern": 1,
+      "evidence": "Repeated large dark markings are visible across the coiled body; the tail is not assessed."
+    },
+    {
+      "image_id": "inat_643481",
+      "species": "Bitis arietans",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark chevron-like body markings are visible on the coiled snake."
+    },
+    {
+      "image_id": "inat_102607075",
+      "species": "Aspidelaps lubricus",
+      "visible_pattern": 1,
+      "evidence": "Contrasting dark transverse bands repeat along the visible raised and coiled body."
+    },
+    {
+      "image_id": "inat_23736963",
+      "species": "Bungarus multicinctus",
+      "visible_pattern": 1,
+      "evidence": "Repeated pale transverse bands contrast with the dark visible coiled body."
+    },
+    {
+      "image_id": "inat_32528083",
+      "species": "Daboia russelii",
+      "visible_pattern": 1,
+      "evidence": "Repeated outlined oval dark markings are visible on the coiled body."
+    },
+    {
+      "image_id": "inat_136221239",
+      "species": "Naja kaouthia",
+      "visible_pattern": 0,
+      "evidence": "The visible dorsal trunk behind the raised hood appears mostly uniform without prominent repeated markings. The ventral hood has distinct color blocks and is not the evaluated body section."
+    },
+    {
+      "image_id": "inat_12887205",
+      "species": "Cerastes cerastes",
+      "visible_pattern": 1,
+      "evidence": "Horn-like raised scales over both eyes and repeated brown dorsal patches are visible; most of the body is shown, although the tail continues outside the frame.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:22:53.570888+00:00"
+    },
+    {
+      "image_id": "inat_134223",
+      "species": "Agkistrodon contortrix",
+      "visible_pattern": 1,
+      "evidence": "Multiple reddish-brown crossbands on the visible flank; the remaining body is concealed under rocks.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:22:53.572597+00:00"
+    },
+    {
+      "image_id": "inat_751683314",
+      "species": "Deinagkistrodon acutus",
+      "visible_pattern": 1,
+      "evidence": "Repeated large dark triangular flank markings on visible coils; underside and tail are partly concealed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:22:53.573339+00:00"
+    },
+    {
+      "image_id": "inat_757474922",
+      "species": "Echis carinatus",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark and light body markings on the visible coils; tail is partly hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:22:53.573863+00:00"
+    },
+    {
+      "image_id": "inat_724562887",
+      "species": "Crotalus scutulatus",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark dorsal blotches outlined by pale scales on visible coils; tail is outside the frame.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:22:53.574472+00:00"
+    },
+    {
+      "image_id": "inat_635550601",
+      "species": "Ophiophagus hannah",
+      "visible_pattern": 0,
+      "evidence": "The visible anterior trunk behind the head is predominantly brown without prominent repeated markings; posterior body is outside the frame.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:22:53.574940+00:00"
+    },
+    {
+      "image_id": "inat_762246263",
+      "species": "Notechis scutatus",
+      "visible_pattern": 0,
+      "evidence": "A long visible section of the dark dorsal body has no prominent repeated bands or blotches; coloration of obscured portions is unknown.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:22:53.575567+00:00"
+    },
+    {
+      "image_id": "inat_608547037",
+      "species": "Naja nigricollis",
+      "visible_pattern": 0,
+      "evidence": "The dorsal coils behind the raised hood have no prominent repeated markings. Hood and throat color blocks are outside the evaluated trunk region.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:27:27.095203+00:00"
+    },
+    {
+      "image_id": "inat_762969846",
+      "species": "Pseudechis australis",
+      "visible_pattern": 0,
+      "evidence": "The visible dorsal body has pale scale edges but no large repeated crossbands or blotches. Some portions overlap.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:27:27.096977+00:00"
+    },
+    {
+      "image_id": "inat_761567538",
+      "species": "Trimeresurus albolabris",
+      "visible_pattern": 0,
+      "evidence": "The visible green trunk has no prominent repeated bands or blotches; the reddish tail is outside the evaluated region.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:27:27.097484+00:00"
+    },
+    {
+      "image_id": "inat_758350503",
+      "species": "Vipera berus",
+      "visible_pattern": 0,
+      "evidence": "The visible black dorsal coils have no prominent repeated markings; a portion of the animal is concealed in the coils.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:27:27.097984+00:00"
+    },
+    {
+      "image_id": "inat_624977397",
+      "species": "Bitis caudalis",
+      "visible_pattern": 1,
+      "evidence": "Repeated pale dorsal blotches stand out on the brown visible coils; the tail and parts of the body are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.142054+00:00"
+    },
+    {
+      "image_id": "inat_766235782",
+      "species": "Bungarus fasciatus",
+      "visible_pattern": 1,
+      "evidence": "Repeated yellow and black bands cover the visible body; part of the body continues outside the frame.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.143097+00:00"
+    },
+    {
+      "image_id": "inat_608468342",
+      "species": "Crotalus basiliscus",
+      "visible_pattern": 1,
+      "evidence": "Repeated pale-edged contrasting markings are visible on the coiled trunk; the tail and portions of the animal are obscured.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.143854+00:00"
+    },
+    {
+      "image_id": "inat_752124064",
+      "species": "Gloydius brevicaudus",
+      "visible_pattern": 1,
+      "evidence": "Repeated contrasting dark dorsal and flank blotches are visible on the exposed coils; the tail is partly hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.144391+00:00"
+    },
+    {
+      "image_id": "inat_613610960",
+      "species": "Lachesis muta",
+      "visible_pattern": 1,
+      "evidence": "Large dark repeated shapes contrast with the pale ground on the visible coiled body; lower surfaces are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.144904+00:00"
+    },
+    {
+      "image_id": "inat_636082545",
+      "species": "Micrurus altirostris",
+      "visible_pattern": 1,
+      "evidence": "Repeated red, dark, and pale bands are visible along the exposed body. The underside is not assessed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.145420+00:00"
+    },
+    {
+      "image_id": "inat_751077128",
+      "species": "Ovophis monticola",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark markings are visible on the reddish body; lighting and focus affect some of the image.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.145738+00:00"
+    },
+    {
+      "image_id": "inat_761181818",
+      "species": "Porthidium ophryomegas",
+      "visible_pattern": 1,
+      "evidence": "Repeated pale-edged dark dorsal markings are visible in the coiled body; the tail is not clearly visible.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.146089+00:00"
+    },
+    {
+      "image_id": "inat_757059356",
+      "species": "Protobothrops mucrosquamatus",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark markings contrast with the pale body ground on the exposed coils; portions of the body are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.146641+00:00"
+    },
+    {
+      "image_id": "inat_759008156",
+      "species": "Tropidolaemus wagleri",
+      "visible_pattern": 1,
+      "evidence": "Multiple pale transverse markings are visible on the dark coiled body; lighting is dim and parts are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:31:15.146966+00:00"
+    },
+    {
+      "image_id": "inat_761128538",
+      "species": "Bothrops atrox",
+      "visible_pattern": 1,
+      "evidence": "The exposed coiled trunk has repeated dark, pale-edged blotches; the tail is hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.810019+00:00"
+    },
+    {
+      "image_id": "inat_703694297",
+      "species": "Bothrops diporus",
+      "visible_pattern": 1,
+      "evidence": "Repeated pale-edged dark crossbands are visible on the coiled body; parts of the tail are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.811496+00:00"
+    },
+    {
+      "image_id": "inat_767240699",
+      "species": "Bothrops erythromelas",
+      "visible_pattern": 1,
+      "evidence": "Multiple dark flank markings are visible on the head and anterior body view; the rest is outside the frame.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.812198+00:00"
+    },
+    {
+      "image_id": "inat_745152888",
+      "species": "Bothrops jararaca",
+      "visible_pattern": 1,
+      "evidence": "The exposed coils show repeated dark zigzag-like markings; some body parts are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.812691+00:00"
+    },
+    {
+      "image_id": "inat_684744474",
+      "species": "Bothrops leucurus",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark and pale markings and some ventral plates are visible on the coils; the head is partly obscured.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.813307+00:00"
+    },
+    {
+      "image_id": "inat_644257068",
+      "species": "Bothrops neuwiedi",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark bands are visible on the coiled trunk; portions of the body are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.813961+00:00"
+    },
+    {
+      "image_id": "inat_767244357",
+      "species": "Crotalus durissus",
+      "visible_pattern": 1,
+      "evidence": "Repeated pale-edged dark markings are visible on the coiled trunk; portions are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.814590+00:00"
+    },
+    {
+      "image_id": "inat_751407365",
+      "species": "Crotalus horridus",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark chevrons are visible on the body crossing the grass; the head is obscured.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.815231+00:00"
+    },
+    {
+      "image_id": "inat_728444096",
+      "species": "Crotalus tigris",
+      "visible_pattern": 1,
+      "evidence": "Repeated narrow crosswise brown markings are visible on the coiled trunk; portions are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.815877+00:00"
+    },
+    {
+      "image_id": "inat_763140176",
+      "species": "Micrurus corallinus",
+      "visible_pattern": 1,
+      "evidence": "Multiple red and black bands edged in pale scales are visible along the body; the underside is not assessed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.816276+00:00"
+    },
+    {
+      "image_id": "inat_735914843",
+      "species": "Micrurus nigrocinctus",
+      "visible_pattern": 1,
+      "evidence": "Repeated red and pale-edged black bands are visible on the exposed body; the head and some body parts are concealed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:36:58.816839+00:00"
+    },
+    {
+      "image_id": "inat_740946278",
+      "species": "Bungarus caeruleus",
+      "visible_pattern": 1,
+      "evidence": "Thin pale crossbands repeat on the visible dark trunk; head and other areas are concealed by debris.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:38:30.141073+00:00"
+    },
+    {
+      "image_id": "inat_694413715",
+      "species": "Hydrophis platurus",
+      "visible_pattern": 0,
+      "evidence": "The visible dark dorsal trunk is largely uniform without repeated body markings; the patterned tail and the paler lower side are separate visible regions.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:38:30.144558+00:00"
+    },
+    {
+      "image_id": "inat_761117078",
+      "species": "Naja annulifera",
+      "visible_pattern": 0,
+      "evidence": "The exposed gray dorsal trunk appears largely uniform without prominent repeated markings; the head and parts of the body are concealed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:40:03.478374+00:00"
+    },
+    {
+      "image_id": "inat_762281686",
+      "species": "Naja atra",
+      "visible_pattern": 1,
+      "evidence": "Several narrow pale markings cross the dark visible trunk, while the hood and ventral surface have a different pattern; the underside is only partly shown.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:40:03.480278+00:00"
+    },
+    {
+      "image_id": "inat_722837555",
+      "species": "Naja mossambica",
+      "visible_pattern": 0,
+      "evidence": "The exposed brown body sections show no prominent repeated markings; the head and other regions are visible but some body is concealed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:40:03.480695+00:00"
+    },
+    {
+      "image_id": "inat_718408681",
+      "species": "Ovophis okinavensis",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark blotches contrast with the pale gray visible trunk; the ventral surface is not assessed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:40:03.481034+00:00"
+    },
+    {
+      "image_id": "inat_679353652",
+      "species": "Porthidium nasutum",
+      "visible_pattern": 1,
+      "evidence": "Repeated dark markings stand out on the exposed orange-brown coils; flash affects the apparent colors and portions of the snake are hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:40:42.461231+00:00"
+    },
+    {
+      "image_id": "inat_727553769",
+      "species": "Sistrurus catenatus",
+      "visible_pattern": 1,
+      "evidence": "Multiple dark pale-edged blotches are visible on the exposed body; some of the tail is concealed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:40:42.462073+00:00"
+    },
+    {
+      "image_id": "inat_759904371",
+      "species": "Trimeresurus insularis",
+      "visible_pattern": 0,
+      "evidence": "The exposed green coils show no prominent repeated markings; the tail and underside are not fully visible.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:40:42.462473+00:00"
+    },
+    {
+      "image_id": "inat_740775351",
+      "species": "Vipera aspis",
+      "visible_pattern": 1,
+      "evidence": "Dark transverse markings repeat along the exposed trunk; the tail and underside are not fully visible.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:40:42.462819+00:00"
+    },
+    {
+      "image_id": "inat_653885001",
+      "species": "Bothriechis bicolor",
+      "visible_pattern": 0,
+      "evidence": "The exposed green body has no prominent repeated markings; only a short section is visible and the eye appears cloudy.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:42:02.373282+00:00"
+    },
+    {
+      "image_id": "inat_481845481",
+      "species": "Trimeresurus purpureomaculatus",
+      "visible_pattern": 0,
+      "evidence": "The exposed dark gray trunk has no prominent repeated markings; parts are concealed by foliage and the tail is not shown.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:42:02.374742+00:00"
+    },
+    {
+      "image_id": "inat_524453791",
+      "species": "Vipera nikolskii",
+      "visible_pattern": 0,
+      "evidence": "The visible black coils show no prominent repeated markings; parts of the body are concealed.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-24T21:42:02.375570+00:00"
+    }
+  ]
+}

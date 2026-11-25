@@ -65,6 +65,16 @@ class CatalogTests(unittest.TestCase):
             self.assertFalse(image['file_available'])
             self.assertFalse(image['rendering_eligible'])
             self.assertEqual(image['species_link_status'], 'unresolved')
+            # A provider can return an explicit null even for a local,
+            # previously accepted image. It must not become a species match.
+            row['provider_species_name'] = None
+            (batch / 'images').mkdir()
+            (batch / 'images/missing.jpg').write_bytes(b'local test image')
+            (batch / 'manifest.json').write_text(json.dumps([row]))
+            image = next(i for s in build(root)['species'] for i in s['images'])
+            self.assertTrue(image['file_available'])
+            self.assertFalse(image['rendering_eligible'])
+            self.assertEqual(image['species_link_status'], 'unresolved')
             row['local_path'] = '../../outside.jpg'
             (batch / 'manifest.json').write_text(json.dumps([row]))
             with self.assertRaisesRegex(ValueError, 'Unsafe image path'):

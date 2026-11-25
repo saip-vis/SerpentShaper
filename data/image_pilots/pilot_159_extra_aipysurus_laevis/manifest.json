@@ -1,0 +1,116 @@
+[
+  {
+    "image_id": "inat_762644252",
+    "provider": "inaturalist",
+    "source_species_name": "Aipysurus laevis",
+    "lookup_name": "Aipysurus laevis",
+    "alias_reference": null,
+    "taxon_id": 35260,
+    "provider_species_name": "Aipysurus laevis",
+    "observed_taxon_name": "Aipysurus laevis",
+    "observation_id": 414288136,
+    "split_group": "inat_observation_414288136",
+    "source_page": "https://www.inaturalist.org/observations/414288136",
+    "photo_page": "https://www.inaturalist.org/photos/762644252",
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762644252/original.jpg",
+    "photo_license": "cc-by",
+    "license_reference": "https://www.inaturalist.org/pages/terms",
+    "license_version": null,
+    "attribution": "(c) dphone, some rights reserved (CC BY)",
+    "original_width": 1536,
+    "original_height": 2048,
+    "retrieved_at": "2026-11-24T20:26:26.975112+00:00",
+    "review_status": "rejected",
+    "framing": "unknown",
+    "viewpoint": "unknown",
+    "pose": "unknown",
+    "download_status": "downloaded",
+    "collection_batch": "pilot_159_extra_aipysurus_laevis",
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "injury",
+    "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
+    "local_path": "images/2ee32283e3caf59a8175e8473519e003610bde565f3d6ee9a71298f3e8024c1c.jpg",
+    "sha256": "2ee32283e3caf59a8175e8473519e003610bde565f3d6ee9a71298f3e8024c1c",
+    "downloaded_at": "2026-11-24T20:26:28.967949+00:00",
+    "byte_count": 2720128,
+    "content_type": "image/jpeg",
+    "exact_content_seen_elsewhere": false,
+    "body_condition": "injured",
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-24T21:02:58.300255+00:00",
+      "notes": "Original image inspected: severe visible damage or remains; excluded from typical healthy phenotype training."
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "reject",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-24T21:02:58.300524+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review"
+        },
+        "reason": "Original image inspected: severe visible damage or remains; excluded from typical healthy phenotype training."
+      }
+    ]
+  },
+  {
+    "image_id": "inat_717042534",
+    "provider": "inaturalist",
+    "source_species_name": "Aipysurus laevis",
+    "lookup_name": "Aipysurus laevis",
+    "alias_reference": null,
+    "taxon_id": 35260,
+    "provider_species_name": "Aipysurus laevis",
+    "observed_taxon_name": "Aipysurus laevis",
+    "observation_id": 391330062,
+    "split_group": "inat_observation_391330062",
+    "source_page": "https://www.inaturalist.org/observations/391330062",
+    "photo_page": "https://www.inaturalist.org/photos/717042534",
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/717042534/original.jpg",
+    "photo_license": "cc-by",
+    "license_reference": "https://www.inaturalist.org/pages/terms",
+    "license_version": null,
+    "attribution": "(c) Martin Rady, some rights reserved (CC BY)",
+    "original_width": 2048,
+    "original_height": 2048,
+    "retrieved_at": "2026-11-24T20:26:26.975112+00:00",
+    "review_status": "rejected",
+    "framing": "unknown",
+    "viewpoint": "unknown",
+    "pose": "unknown",
+    "download_status": "downloaded",
+    "collection_batch": "pilot_159_extra_aipysurus_laevis",
+    "rendering_training_excluded": true,
+    "rendering_exclusion_reason": "injury",
+    "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
+    "local_path": "images/2ceb3faf5735f65a4c9d4f70a6586677ad5ba609a5dadf1e6d86c20792fac9c3.jpg",
+    "sha256": "2ceb3faf5735f65a4c9d4f70a6586677ad5ba609a5dadf1e6d86c20792fac9c3",
+    "downloaded_at": "2026-11-24T20:26:30.766048+00:00",
+    "byte_count": 3493104,
+    "content_type": "image/jpeg",
+    "exact_content_seen_elsewhere": false,
+    "body_condition": "injured",
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-24T21:02:58.301420+00:00",
+      "notes": "Original image inspected: severe visible damage or remains; excluded from typical healthy phenotype training."
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "reject",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-24T21:02:58.301424+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review"
+        },
+        "reason": "Original image inspected: severe visible damage or remains; excluded from typical healthy phenotype training."
+      }
+    ]
+  }
+]

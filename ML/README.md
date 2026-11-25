@@ -12,7 +12,7 @@ The [five-species source review](research_updates/pilot_five_species_review.md) 
 
 ## Current audit
 
-The reproducible audit in `data_audit.json` contains 174 source species labels (not necessarily unique taxa), 276 structurally eligible proteomic profiles and 1,213 locally available photo records. Of those labels, 137 have both an eligible proteomic profile and at least one available image. Availability does not mean an image has passed the review gate.
+The earlier reproducible snapshot in `data_audit.json` contains 174 source species labels (not necessarily unique taxa), 276 structurally eligible proteomic profiles and 1,213 locally available photo records. Of those labels, 137 had both an eligible proteomic profile and at least one available image at that time. The later [catalog follow-up](../reports/image_research/catalog_followup_2026_notes.md) downloaded 599 additional photos. An assistant conducted a [contact-sheet screen](../reports/image_research/catalog_photo_screen_2026.md) of all 599, rejecting 36 after viewing the originals; 45 of the new photos were subsequently accepted after individual inspection, and 518 remain unreviewed and excluded from training. A visual candidate is a priority for further review, not an acceptance. [Current morphology readiness](learned_morphology/readiness.json) reports the gate counts. Availability does not mean an image has passed the review gate.
 
 `pilot_manifest.json` selects five source labels for an initial comparison:
 

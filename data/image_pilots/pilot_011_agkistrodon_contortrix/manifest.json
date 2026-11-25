@@ -128,9 +128,9 @@
     "original_width": 2048,
     "original_height": 1536,
     "retrieved_at": "2026-11-20T08:40:46.012387+00:00",
-    "review_status": "unreviewed",
-    "framing": "unknown",
-    "viewpoint": "unknown",
+    "review_status": "accepted",
+    "framing": "partial_body",
+    "viewpoint": "oblique",
     "pose": "unknown",
     "download_status": "downloaded",
     "local_path": "images/7743fe17f7cbd4ef0490606ca884888fb9eb7c58b53b179f5cac00b67345193f.jpg",
@@ -139,9 +139,44 @@
     "byte_count": 745200,
     "content_type": "image/jpeg",
     "collection_batch": "pilot_011_agkistrodon_contortrix",
-    "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
-    "review_id": "Agkistrodon_contortrix04"
+    "rendering_training_excluded": false,
+    "review_id": "Agkistrodon_contortrix04",
+    "species_confidence": "confirmed",
+    "body_condition": "no_visible_injury",
+    "reference_only_exception": false,
+    "review_issues": [],
+    "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Multiple reddish-brown crossbands on the visible flank; the remaining body is concealed under rocks.",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-24T21:22:53.572597+00:00",
+      "category": "candidate",
+      "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Multiple reddish-brown crossbands on the visible flank; the remaining body is concealed under rocks."
+    },
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-24T21:22:53.572597+00:00",
+      "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Multiple reddish-brown crossbands on the visible flank; the remaining body is concealed under rocks.",
+      "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+      "provider_identification_count": 2,
+      "provider_most_agree": true,
+      "cache_file": "data/image_pilots/pilot_011_agkistrodon_contortrix/api_cache/bb9e9535e9bd68bf2f5caba74688aee61e31838fa84dca78e518c149f272394b.json"
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "accept",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-24T21:22:53.572597+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review",
+          "species_confidence": null,
+          "body_condition": null
+        },
+        "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Multiple reddish-brown crossbands on the visible flank; the remaining body is concealed under rocks."
+      }
+    ]
   },
   {
     "image_id": "inat_134233",

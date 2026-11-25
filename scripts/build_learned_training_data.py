@@ -32,6 +32,8 @@ def source_image_allowed(image):
             and not image.get('rendering_training_excluded')
             and not image.get('reference_only_exception')
             and not image.get('duplicate_of')
+            and not image.get('exact_content_seen_elsewhere')
+            and image.get('rendering_exclusion_reason') not in {'duplicate_content_pending_review', 'exact_duplicate'}
             and image.get('suitability_screening', {}).get('category') not in {'rejected','supplemental'}
             and bool(image.get('observation_id')))
 

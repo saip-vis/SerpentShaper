@@ -555,8 +555,8 @@
     "ML/learned_morphology/body_patch_samples.json": "b39d4bbfe1b7adaad8a26b2334aa9e7a0fc638bf08be36a182ea0317afe24885",
     "ML/learned_morphology/body_patch_measurements.json": "4acb9dceb3bce039f171d8653c8accd7fabba54644ad50dcb35d2c320c9b1158",
     "scripts/train_photo_color_pilot.py": "45772e676294ff33fd7dc37276a953dfd200d35a4b59fb5f86e9daf0406e3d2d",
-    "scripts/train_learned_morphology.py": "43754901c0682e9678564aadd2e099223716f4bed0bfa73fa2c00f38a3750865",
-    "scripts/build_learned_training_data.py": "55bd5e8b11aa8ed4c44607a8ed3118d7dfd4fcc5abc463cfebbfefc3718057bb",
+    "scripts/train_learned_morphology.py": "33d39d0151f07aab67c1a7aae0a799a0bc53f87dd73ddee7c255d6f70135263c",
+    "scripts/build_learned_training_data.py": "6cab21021f42135f3f3b298d779ddb8f028656d4257dba3fb7a964c93ef50214",
     "data/image_pilots/pilot_002_coastal_taipan/manifest.json": "2bda966746785ad673db7e2a574036dcba012d96d569a88c8440b487d41c0d5a",
     "data/image_pilots/pilot_003_black_mamba/manifest.json": "335c6fab59daa4e5ba91fe1113a7eec2d11d70caf9726ebe74047c8baeed8275",
     "data/image_pilots/pilot_004_western_diamondback/manifest.json": "86bf26c7541dea7c2d2a03b325676207dd4d1d02eebafecabbb335a712839866",
@@ -574,7 +574,7 @@
     "ML/image_traits/pilot_observations.json": "44db4da14a80dce58bea69f59a3674c84afdfa9603f4c31410b062a568f10a2b",
     "ML/image_traits/pattern_holdout.json": "f897d713ed888c6aaa1dff6612224fb02975150737974f5f380c2635d6309614",
     "ML/pilot_image_review.json": "7858dafb93a913dcc36acbeab30c20a17b3be744f34214c13ffea4d71e182b05",
-    "scripts/build_learned_training_data.py": "55bd5e8b11aa8ed4c44607a8ed3118d7dfd4fcc5abc463cfebbfefc3718057bb"
+    "scripts/build_learned_training_data.py": "6cab21021f42135f3f3b298d779ddb8f028656d4257dba3fb7a964c93ef50214"
   },
   "versions": {
     "numpy": "2.4.6",

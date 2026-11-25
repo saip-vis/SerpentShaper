@@ -13,7 +13,9 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def name_key(value):
-    return ' '.join(value.replace('_', ' ').split()).casefold()
+    # Provider metadata may explicitly contain null, not just omit the key.
+    # An unknown name must remain unresolved rather than matching a species.
+    return ' '.join((value or '').replace('_', ' ').split()).casefold()
 
 
 def build(root):

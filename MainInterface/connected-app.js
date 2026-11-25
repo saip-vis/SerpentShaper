@@ -15,11 +15,13 @@ for(const photo of window.SERPENT_CONNECTED_MODEL?.photo_sources||[]){
   const attribution=document.createElement('span');attribution.textContent=` · ${photo.attribution}`;item.append(attribution);$('photo-list').append(item);
 }
 function addSourceCards(list,sources){
+  const totalMagnitude=currentSources.reduce((sum,source)=>sum+source.score,0);
   for(const source of sources){
     const card=document.createElement('article');card.className='source-card';
     const heading=document.createElement('h4');heading.textContent=source.common_name?`${source.common_name} — ${source.species}`:source.species;card.append(heading);
     const effect=document.createElement('p');effect.className='source-effect';
-    effect.textContent=`Raw shape contribution: ${source.score.toFixed(3)}. Strongest effect: ${source.largest.change>=0?'increases':'decreases'} ${source.largest.label} by ${(Math.abs(source.largest.change)*100).toFixed(2)} illustration-scale points before clamping.`;card.append(effect);
+    const relativeShare=totalMagnitude>0?100*source.score/totalMagnitude:0;
+    effect.textContent=`${relativeShare.toFixed(1)}% of displayed model contribution magnitude (raw: ${source.score.toFixed(3)}). Strongest effect: ${source.largest.change>=0?'increases':'decreases'} ${source.largest.label} by ${(Math.abs(source.largest.change)*100).toFixed(2)} illustration-scale points before clamping.`;card.append(effect);
     function profileLine(profile){
       const row=document.createElement('p');row.className='source-profile';
       const record=profileById.get(profile.profile_id),prefix=record?`Source row ${record.source_row}`:profile.profile_id;
@@ -28,6 +30,17 @@ function addSourceCards(list,sources){
     }
     card.append(profileLine(source.profiles[0]));
     if(source.profiles.length>1){const more=document.createElement('details');more.className='profile-more';more.open=expandedSpecies.has(source.species);more.addEventListener('toggle',()=>{if(more.open)expandedSpecies.add(source.species);else expandedSpecies.delete(source.species);});const summary=document.createElement('summary');summary.textContent=`Show ${source.profiles.length-1} more venom profile${source.profiles.length===2?'':'s'}`;more.append(summary);for(const profile of source.profiles.slice(1))more.append(profileLine(profile));card.append(more);}
+    const observation=window.SERPENT_REVIEWED_PHOTO_EVIDENCE?.evidence_by_species?.[source.species];
+    if(observation){
+      const details=document.createElement('details');details.className='profile-more';
+      const summary=document.createElement('summary');summary.textContent='View a reviewed photo observation';details.append(summary);
+      const note=document.createElement('p');note.className='source-profile';
+      note.textContent=`${observation.evidence} This photo is a reference for this source label; it does not calculate the shape contribution. Species identification is based on source records, not independent expert verification.`;details.append(note);
+      if(typeof observation.photo_page==='string'&&/^https:\/\/www\.inaturalist\.org\/photos\/\d+$/.test(observation.photo_page)){
+        const link=document.createElement('a');link.href=observation.photo_page;link.target='_blank';link.rel='noopener noreferrer';link.textContent='View the source photo';details.append(link);
+      }
+      const credit=document.createElement('p');credit.className='source-profile';credit.textContent=observation.attribution||'';details.append(credit);card.append(details);
+    }
     list.append(card);
   }
 }
@@ -89,7 +102,13 @@ for(const c of controls){
   const wrap=document.createElement('div');wrap.className='value-wrap';const input=document.createElement('input');input.type='number';input.id=label.htmlFor;input.min='0';input.max='100';input.step='.1';input.placeholder='—';input.setAttribute('aria-label',`${c.label} percentage`);
   const percent=document.createElement('span');percent.textContent='%';wrap.append(input,percent);head.append(label,wrap);
   const slider=document.createElement('input');slider.type='range';slider.min='0';slider.max='100';slider.step='.1';slider.value='0';slider.setAttribute('aria-label',`${c.label} percentage slider`);
-  const row=document.createElement('div');row.className='slider-row';row.append(slider);box.append(head,row);$('controls').append(box);inputs.set(c.id,{input,slider});
+  const row=document.createElement('div');row.className='slider-row';row.append(slider);box.append(head,row);
+  if(c.definition||c.boundaries){
+    const about=document.createElement('details');about.className='toxin-about';
+    const summary=document.createElement('summary');summary.textContent=`About ${c.short_label}`;about.append(summary);
+    const description=document.createElement('p');description.textContent=[c.definition,c.boundaries].filter(Boolean).join(' ');about.append(description);box.append(about);
+  }
+  $('controls').append(box);inputs.set(c.id,{input,slider});
   function apply(raw,fromSlider,deferSources=false){
     const value=raw===''?null:Number(raw);
     if(value!==null&&(!Number.isFinite(value)||value<0||value>100)){invalid.add(c.id);input.setAttribute('aria-invalid','true');limitNotice='';}

@@ -28,7 +28,8 @@ class LearnedMorphologyTests(unittest.TestCase):
         base={'review_status':'accepted','observation_id':101}
         self.assertTrue(source_image_allowed(base))
         for update in ({'review_status':'unreviewed'},{'rendering_training_excluded':True},
-                       {'reference_only_exception':True},{'duplicate_of':'other'},
+                       {'reference_only_exception':True},{'duplicate_of':'other'}, {'exact_content_seen_elsewhere':True},
+                       {'rendering_exclusion_reason':'duplicate_content_pending_review'},
                        {'suitability_screening':{'category':'supplemental'}},{'observation_id':None}):
             self.assertFalse(source_image_allowed({**base,**update}))
 

@@ -1,0 +1,1350 @@
+{
+  "created_at": "2026-11-24T20:25:28.025292+00:00",
+  "species": [
+    {
+      "species": "Agkistrodon bilineatus",
+      "folder": "pilot_155_extra_agkistrodon_bilineatus",
+      "selected": 5,
+      "downloaded": 5,
+      "failures": 0,
+      "pending_review": 4,
+      "status": "completed"
+    },
+    {
+      "species": "Agkistrodon contortrix",
+      "folder": "pilot_156_extra_agkistrodon_contortrix",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Agkistrodon piscivorus",
+      "folder": "pilot_157_extra_agkistrodon_piscivorus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Agkistrodon taylori",
+      "folder": "pilot_158_extra_agkistrodon_taylori",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Aipysurus laevis",
+      "folder": "pilot_159_extra_aipysurus_laevis",
+      "selected": 2,
+      "downloaded": 2,
+      "failures": 0,
+      "pending_review": 2,
+      "status": "completed"
+    },
+    {
+      "species": "Aspidelaps lubricus",
+      "folder": "pilot_160_extra_aspidelaps_lubricus",
+      "selected": 4,
+      "downloaded": 4,
+      "failures": 0,
+      "pending_review": 4,
+      "status": "completed"
+    },
+    {
+      "species": "Aspidelaps scutatus",
+      "folder": "pilot_161_extra_aspidelaps_scutatus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Atropoides picadoi",
+      "folder": "pilot_162_extra_atropoides_picadoi",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bitis arietans",
+      "folder": "pilot_163_extra_bitis_arietans",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bitis caudalis",
+      "folder": "pilot_164_extra_bitis_caudalis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bitis gabonica",
+      "folder": "pilot_165_extra_bitis_gabonica",
+      "selected": 2,
+      "downloaded": 2,
+      "failures": 0,
+      "pending_review": 2,
+      "status": "completed"
+    },
+    {
+      "species": "Bitis nasicornis",
+      "folder": "pilot_166_extra_bitis_nasicornis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothriechis aurifer",
+      "folder": "pilot_167_extra_bothriechis_aurifer",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothriechis bicolor",
+      "folder": "pilot_168_extra_bothriechis_bicolor",
+      "selected": 1,
+      "downloaded": 1,
+      "failures": 0,
+      "pending_review": 1,
+      "status": "completed"
+    },
+    {
+      "species": "Bothriechis marchi",
+      "folder": "pilot_169_extra_bothriechis_marchi",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothriechis nigroviridis",
+      "folder": "pilot_170_extra_bothriechis_nigroviridis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothriechis schlegelii",
+      "folder": "pilot_171_extra_bothriechis_schlegelii",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothriechis supraciliaris",
+      "folder": "pilot_172_extra_bothriechis_supraciliaris",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothriechis thalassinus",
+      "folder": "pilot_173_extra_bothriechis_thalassinus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrocophias campbelli",
+      "folder": "pilot_174_extra_bothrocophias_campbelli",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops alternatus",
+      "folder": "pilot_175_extra_bothrops_alternatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops asper",
+      "folder": "pilot_176_extra_bothrops_asper",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops atrox",
+      "folder": "pilot_177_extra_bothrops_atrox",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops ayerbei",
+      "folder": "pilot_178_extra_bothrops_ayerbei",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops barnetti",
+      "folder": "pilot_179_extra_bothrops_barnetti",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops caribbaeus",
+      "folder": "pilot_180_extra_bothrops_caribbaeus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops colombiensis",
+      "folder": "pilot_181_extra_bothrops_colombiensis",
+      "status": "failed",
+      "error": "ValueError: Bothrops colombiensis: taxon was not uniquely resolved"
+    },
+    {
+      "species": "Bothrops cotiara",
+      "folder": "pilot_182_extra_bothrops_cotiara",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops diporus",
+      "folder": "pilot_183_extra_bothrops_diporus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops erythromelas",
+      "folder": "pilot_184_extra_bothrops_erythromelas",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops insularis",
+      "folder": "pilot_185_extra_bothrops_insularis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops jararaca",
+      "folder": "pilot_186_extra_bothrops_jararaca",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops jararacussu",
+      "folder": "pilot_187_extra_bothrops_jararacussu",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops lanceolatus",
+      "folder": "pilot_188_extra_bothrops_lanceolatus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops leucurus",
+      "folder": "pilot_189_extra_bothrops_leucurus",
+      "selected": 3,
+      "downloaded": 3,
+      "failures": 0,
+      "pending_review": 3,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops neuwiedi",
+      "folder": "pilot_190_extra_bothrops_neuwiedi",
+      "selected": 3,
+      "downloaded": 3,
+      "failures": 0,
+      "pending_review": 3,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops pauloensis",
+      "folder": "pilot_191_extra_bothrops_pauloensis",
+      "selected": 3,
+      "downloaded": 3,
+      "failures": 0,
+      "pending_review": 3,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops pictus",
+      "folder": "pilot_192_extra_bothrops_pictus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops pirajai",
+      "folder": "pilot_193_extra_bothrops_pirajai",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bothrops punctatus",
+      "folder": "pilot_194_extra_bothrops_punctatus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bungarus caeruleus",
+      "folder": "pilot_195_extra_bungarus_caeruleus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bungarus candidus",
+      "folder": "pilot_196_extra_bungarus_candidus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bungarus fasciatus",
+      "folder": "pilot_197_extra_bungarus_fasciatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bungarus flaviceps",
+      "folder": "pilot_198_extra_bungarus_flaviceps",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Bungarus multicinctus",
+      "folder": "pilot_199_extra_bungarus_multicinctus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Bungarus sindanus",
+      "folder": "pilot_200_extra_bungarus_sindanus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Cerastes cerastes",
+      "folder": "pilot_201_extra_cerastes_cerastes",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Cerastes vipera",
+      "folder": "pilot_202_extra_cerastes_vipera",
+      "selected": 1,
+      "downloaded": 1,
+      "failures": 0,
+      "pending_review": 1,
+      "status": "completed"
+    },
+    {
+      "species": "Cerrophidion godmani",
+      "folder": "pilot_203_extra_cerrophidion_godmani",
+      "selected": 2,
+      "downloaded": 2,
+      "failures": 0,
+      "pending_review": 2,
+      "status": "completed"
+    },
+    {
+      "species": "Cerrophidion sasai",
+      "folder": "pilot_204_extra_cerrophidion_sasai",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus adamanteus",
+      "folder": "pilot_205_extra_crotalus_adamanteus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus atrox",
+      "folder": "pilot_206_extra_crotalus_atrox",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus basiliscus",
+      "folder": "pilot_207_extra_crotalus_basiliscus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus culminatus",
+      "folder": "pilot_208_extra_crotalus_culminatus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus durissus",
+      "folder": "pilot_209_extra_crotalus_durissus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus horridus",
+      "folder": "pilot_210_extra_crotalus_horridus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus oreganus",
+      "folder": "pilot_211_extra_crotalus_oreganus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus polystictus",
+      "folder": "pilot_212_extra_crotalus_polystictus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus scutulatus",
+      "folder": "pilot_213_extra_crotalus_scutulatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus simus",
+      "folder": "pilot_214_extra_crotalus_simus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus tigris",
+      "folder": "pilot_215_extra_crotalus_tigris",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus tzabcan",
+      "folder": "pilot_216_extra_crotalus_tzabcan",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Crotalus viridis",
+      "folder": "pilot_217_extra_crotalus_viridis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Cryptelytrops purpureomaculatus",
+      "folder": "pilot_218_extra_cryptelytrops_purpureomaculatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Daboia russelii",
+      "folder": "pilot_219_extra_daboia_russelii",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Daboia siamensis",
+      "folder": "pilot_220_extra_daboia_siamensis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Deinagkistrodon acutus",
+      "folder": "pilot_221_extra_deinagkistrodon_acutus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Dendroaspis angusticeps",
+      "folder": "pilot_222_extra_dendroaspis_angusticeps",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Dendroaspis polylepis",
+      "folder": "pilot_223_extra_dendroaspis_polylepis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Dispholidus typus",
+      "folder": "pilot_224_extra_dispholidus_typus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Echis carinatus",
+      "folder": "pilot_225_extra_echis_carinatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Echis ocellatus",
+      "folder": "pilot_226_extra_echis_ocellatus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Gloydius brevicaudus",
+      "folder": "pilot_227_extra_gloydius_brevicaudus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Hemachatus haemachatus",
+      "folder": "pilot_228_extra_hemachatus_haemachatus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Hydrophis curtus",
+      "folder": "pilot_229_extra_hydrophis_curtus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Hydrophis platurus",
+      "folder": "pilot_230_extra_hydrophis_platurus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Hydrophis schistosus",
+      "folder": "pilot_231_extra_hydrophis_schistosus",
+      "selected": 6,
+      "downloaded": 6,
+      "failures": 0,
+      "pending_review": 6,
+      "status": "completed"
+    },
+    {
+      "species": "Hypnale hypnale",
+      "folder": "pilot_232_extra_hypnale_hypnale",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Lachesis acrochorda",
+      "folder": "pilot_233_extra_lachesis_acrochorda",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Lachesis melanocephala",
+      "folder": "pilot_234_extra_lachesis_melanocephala",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Lachesis muta",
+      "folder": "pilot_235_extra_lachesis_muta",
+      "selected": 4,
+      "downloaded": 4,
+      "failures": 0,
+      "pending_review": 4,
+      "status": "completed"
+    },
+    {
+      "species": "Lachesis stenophrys",
+      "folder": "pilot_236_extra_lachesis_stenophrys",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Laticauda colubrina",
+      "folder": "pilot_237_extra_laticauda_colubrina",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Macrovipera lebetina",
+      "folder": "pilot_238_extra_macrovipera_lebetina",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Metlapilcoatlus nummifer",
+      "folder": "pilot_239_extra_metlapilcoatlus_nummifer",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micropechis ikaheka",
+      "folder": "pilot_240_extra_micropechis_ikaheka",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus alleni",
+      "folder": "pilot_241_extra_micrurus_alleni",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus altirostris",
+      "folder": "pilot_242_extra_micrurus_altirostris",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus browni",
+      "folder": "pilot_243_extra_micrurus_browni",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus clarki",
+      "folder": "pilot_244_extra_micrurus_clarki",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus corallinus",
+      "folder": "pilot_245_extra_micrurus_corallinus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus dumerilii",
+      "folder": "pilot_246_extra_micrurus_dumerilii",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus frontalis",
+      "folder": "pilot_247_extra_micrurus_frontalis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus lemniscatus",
+      "folder": "pilot_248_extra_micrurus_lemniscatus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus mipartitus",
+      "folder": "pilot_249_extra_micrurus_mipartitus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus mosquitensis",
+      "folder": "pilot_250_extra_micrurus_mosquitensis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus nigrocinctus",
+      "folder": "pilot_251_extra_micrurus_nigrocinctus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus paraensis",
+      "folder": "pilot_252_extra_micrurus_paraensis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus spixii",
+      "folder": "pilot_253_extra_micrurus_spixii",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus surinamensis",
+      "folder": "pilot_254_extra_micrurus_surinamensis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Micrurus tschudii",
+      "folder": "pilot_255_extra_micrurus_tschudii",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Montivipera raddei",
+      "folder": "pilot_256_extra_montivipera_raddei",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Naja annulifera",
+      "folder": "pilot_257_extra_naja_annulifera",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Naja atra",
+      "folder": "pilot_258_extra_naja_atra",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Naja haje",
+      "folder": "pilot_259_extra_naja_haje",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Naja kaouthia",
+      "folder": "pilot_260_extra_naja_kaouthia",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Naja katiensis",
+      "folder": "pilot_261_extra_naja_katiensis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Naja melanoleuca",
+      "folder": "pilot_262_extra_naja_melanoleuca",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Naja mossambica",
+      "folder": "pilot_263_extra_naja_mossambica",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Naja naja",
+      "folder": "pilot_264_extra_naja_naja",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Naja nigricollis",
+      "folder": "pilot_265_extra_naja_nigricollis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Naja nubiae",
+      "folder": "pilot_266_extra_naja_nubiae",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Naja pallida",
+      "folder": "pilot_267_extra_naja_pallida",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Naja sputatrix",
+      "folder": "pilot_268_extra_naja_sputatrix",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Notechis scutatus",
+      "folder": "pilot_269_extra_notechis_scutatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Ophiophagus hannah",
+      "folder": "pilot_270_extra_ophiophagus_hannah",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Ophryacus sphenophrys",
+      "folder": "pilot_271_extra_ophryacus_sphenophrys",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Ovophis convictus",
+      "folder": "pilot_272_extra_ovophis_convictus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Ovophis monticola",
+      "folder": "pilot_273_extra_ovophis_monticola",
+      "selected": 7,
+      "downloaded": 7,
+      "failures": 0,
+      "pending_review": 7,
+      "status": "completed"
+    },
+    {
+      "species": "Ovophis okinavensis",
+      "folder": "pilot_274_extra_ovophis_okinavensis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Ovophis tonkinensis",
+      "folder": "pilot_275_extra_ovophis_tonkinensis",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Oxyuranus scutellatus",
+      "folder": "pilot_276_extra_oxyuranus_scutellatus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Porthidium lansbergii",
+      "folder": "pilot_277_extra_porthidium_lansbergii",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Porthidium nasutum",
+      "folder": "pilot_278_extra_porthidium_nasutum",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Porthidium ophryomegas",
+      "folder": "pilot_279_extra_porthidium_ophryomegas",
+      "selected": 5,
+      "downloaded": 5,
+      "failures": 0,
+      "pending_review": 5,
+      "status": "completed"
+    },
+    {
+      "species": "Porthidium porrasi",
+      "folder": "pilot_280_extra_porthidium_porrasi",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Protobothrops flavoviridis",
+      "folder": "pilot_281_extra_protobothrops_flavoviridis",
+      "selected": 7,
+      "downloaded": 7,
+      "failures": 0,
+      "pending_review": 7,
+      "status": "completed"
+    },
+    {
+      "species": "Protobothrops kelomohy",
+      "folder": "pilot_282_extra_protobothrops_kelomohy",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Protobothrops mucrosquamatus",
+      "folder": "pilot_283_extra_protobothrops_mucrosquamatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Pseudechis australis",
+      "folder": "pilot_284_extra_pseudechis_australis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Pseudechis papuanus",
+      "folder": "pilot_285_extra_pseudechis_papuanus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Rhinobothryum bovallii",
+      "folder": "pilot_286_extra_rhinobothryum_bovallii",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Sistrurus catenatus",
+      "folder": "pilot_287_extra_sistrurus_catenatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Sistrurus miliarius",
+      "folder": "pilot_288_extra_sistrurus_miliarius",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Toxicocalamus longissimus",
+      "folder": "pilot_289_extra_toxicocalamus_longissimus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Trimeresurus albolabris",
+      "folder": "pilot_290_extra_trimeresurus_albolabris",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Trimeresurus insularis",
+      "folder": "pilot_291_extra_trimeresurus_insularis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Trimeresurus puniceus",
+      "folder": "pilot_292_extra_trimeresurus_puniceus",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Trimeresurus purpureomaculatus",
+      "folder": "pilot_293_extra_trimeresurus_purpureomaculatus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Trimeresurus stejnegeri",
+      "folder": "pilot_294_extra_trimeresurus_stejnegeri",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Trimeresurus wiroti",
+      "folder": "pilot_295_extra_trimeresurus_wiroti",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Tropidolaemus wagleri",
+      "folder": "pilot_296_extra_tropidolaemus_wagleri",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Vipera aspis",
+      "folder": "pilot_297_extra_vipera_aspis",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Vipera berus",
+      "folder": "pilot_298_extra_vipera_berus",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Vipera kaznakovi",
+      "folder": "pilot_299_extra_vipera_kaznakovi",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Vipera nikolskii",
+      "folder": "pilot_300_extra_vipera_nikolskii",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Vipera orlovi",
+      "folder": "pilot_301_extra_vipera_orlovi",
+      "selected": 0,
+      "downloaded": 0,
+      "failures": 0,
+      "pending_review": 0,
+      "status": "completed"
+    },
+    {
+      "species": "Vipera renardii",
+      "folder": "pilot_302_extra_vipera_renardii",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    },
+    {
+      "species": "Vipera ursinii",
+      "folder": "pilot_303_extra_vipera_ursinii",
+      "selected": 8,
+      "downloaded": 8,
+      "failures": 0,
+      "pending_review": 8,
+      "status": "completed"
+    }
+  ],
+  "status": "completed_with_gaps",
+  "per_species": 8,
+  "total_source_labels": 149,
+  "source": "iNaturalist research-grade observations; CC0/CC BY metadata; provider identity unverified",
+  "limit_note": "At most one new photo per previously unseen observation; bounded recent sample, not proof of global absence.",
+  "review_note": "All new records remain unreviewed and excluded from rendering and training pending review.",
+  "updated_at": "2026-11-24T20:54:40.132996+00:00"
+}

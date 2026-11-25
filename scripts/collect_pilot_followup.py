@@ -44,6 +44,9 @@ def collect(folder_name, name):
     seen_obs, seen_photos, seen_hashes = inventory(folder)
     seen_obs.update(r['observation_id'] for r in rows)
     seen_photos.update(r['image_id'] for r in rows)
+    # On resume, previously downloaded files in this same batch must also
+    # participate in content-duplicate detection for subsequent downloads.
+    seen_hashes.update(r['sha256'] for r in rows if r.get('sha256'))
     source_index = {t['source_name']:t for t in json.loads((ROOT/'reports/image_research/imaging_gaps.json').read_text())['taxa']}
     source = source_index[name]
     client = Client(folder/'api_cache')
@@ -109,7 +112,7 @@ def collect(folder_name, name):
     return {'species':name,'folder':folder_name,'selected':len(rows),
             'downloaded':sum(r.get('download_status')=='downloaded' for r in rows),
             'failures':sum(r.get('download_status')=='failed' for r in rows),
-            'pending_review':sum(r.get('rendering_exclusion_reason')=='pending_visual_review' for r in rows)}
+            'pending_review':sum(r.get('download_status')=='downloaded' and r.get('rendering_exclusion_reason')=='pending_visual_review' for r in rows)}
 
 
 def main():

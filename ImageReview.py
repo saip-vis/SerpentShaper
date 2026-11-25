@@ -55,6 +55,10 @@ def injury_locked(row):
             or row.get('body_condition') in {'injured', 'deformed'}
             or bool({'injury', 'deformation'} & set(row.get('review_issues', []))))
 
+def duplicate_locked(row):
+    return bool(row.get('duplicate_of') or row.get('exact_content_seen_elsewhere')
+                or row.get('rendering_exclusion_reason') in {'duplicate_content_pending_review', 'exact_duplicate'})
+
 def is_eligible(row):
     # Shared with the ingestion export; never infer acceptance from a download.
     from scripts.export_rendering_manifest import eligible
@@ -130,7 +134,7 @@ class ReviewStore:
         with self.lock:
             return [dict(image_id=r['image_id'], review_id=r.get('review_id', r['image_id']),
                          review_status=r.get('review_status', 'unreviewed'), observation_id=r['observation_id'],
-                         duplicate=bool(r.get('duplicate_of')), excluded=bool(r.get('rendering_training_excluded')))
+                         duplicate=duplicate_locked(r), excluded=bool(r.get('rendering_training_excluded')))
                     for r in self.read(batch) if r.get('download_status') == 'downloaded'
                     and (status == 'all' or r.get('review_status', 'unreviewed') == status)]
 
@@ -189,7 +193,7 @@ class ReviewStore:
         if decision == 'accept':
             if injured or row.get('reference_only_exception'):
                 raise ReviewError('An injury/deformity exclusion cannot be accepted for rendering. Reject it or document a unique reference-only use.')
-            if row.get('duplicate_of') or issues:
+            if duplicate_locked(row) or issues:
                 raise ReviewError('Resolve image issues first. Exact duplicate copies stay excluded; use the original record.')
             if values['species_confidence'] != 'confirmed' or values['body_condition'] != 'no_visible_injury':
                 raise ReviewError('Accept requires confirmed species identity and an explicit no-visible-injury assessment.')
@@ -218,7 +222,7 @@ class ReviewStore:
             row.pop('rendering_exclusion_reason', None)
         else:
             row['rendering_exclusion_reason'] = ('injury' if injured else
-                'exact_duplicate' if row.get('duplicate_of') else
+                'exact_duplicate' if duplicate_locked(row) else
                 'reference_only' if decision == 'reference' else
                 'rejected_by_user' if decision == 'reject' else 'pending_visual_review')
         row['suitability_screening'] = dict(reviewer='user', reviewed_on=timestamp(),

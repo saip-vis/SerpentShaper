@@ -10,6 +10,8 @@ def eligible(row):
             and not row.get('rendering_training_excluded', False)
             and not row.get('reference_only_exception', False)
             and not row.get('duplicate_of')
+            and not row.get('exact_content_seen_elsewhere')
+            and row.get('rendering_exclusion_reason') not in {'duplicate_content_pending_review', 'exact_duplicate'}
             and row.get('suitability_screening', {}).get('category') not in {'rejected', 'supplemental'})
 
 def main():

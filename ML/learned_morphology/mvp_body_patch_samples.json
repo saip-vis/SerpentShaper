@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "status": "expanded_development_experiment_not_connected",
+  "description": "Manually selected visible body patches; additional samples were selected after earlier development results. Crops do not represent a whole animal and are affected by lighting and patterns.",
+  "samples": [
+    {
+      "image_id": "inat_244026573",
+      "bbox": [
+        0.28,
+        0.472,
+        0.42,
+        0.49
+      ],
+      "note": "Flash/night image; partial body. Color is sensitive to lighting."
+    },
+    {
+      "image_id": "inat_2699122",
+      "bbox": [
+        0.56,
+        0.5,
+        0.62,
+        0.52
+      ],
+      "note": "Exposed body section near handling equipment; partial view."
+    },
+    {
+      "image_id": "inat_873868",
+      "bbox": [
+        0.405,
+        0.55,
+        0.62,
+        0.64
+      ],
+      "note": "Coiled dorsal body; region includes light and dark patterned scales."
+    },
+    {
+      "image_id": "inat_1904884",
+      "bbox": [
+        0.47,
+        0.52,
+        0.6,
+        0.6
+      ],
+      "note": "Coiled dorsal body; region includes markings."
+    },
+    {
+      "image_id": "inat_136221239",
+      "bbox": [
+        0.3,
+        0.43,
+        0.36,
+        0.45
+      ],
+      "note": "Visible dark dorsal body scales; sunlight and sheen influence this small patch."
+    },
+    {
+      "image_id": "inat_32528083",
+      "bbox": [
+        0.62,
+        0.66,
+        0.66,
+        0.69
+      ],
+      "note": "Visible pale patterned body scales; small region does not represent the full pattern."
+    },
+    {
+      "image_id": "inat_643481",
+      "bbox": [
+        0.73,
+        0.35,
+        0.76,
+        0.38
+      ],
+      "note": "Visible patterned dorsal body scales in strong light; not a whole-animal color."
+    },
+    {
+      "image_id": "inat_23736963",
+      "bbox": [
+        0.31,
+        0.7,
+        0.34,
+        0.72
+      ],
+      "note": "Visible body band including dark and pale scales; low-light color and highlights affect measurement."
+    },
+    {
+      "image_id": "inat_102607075",
+      "bbox": [
+        0.68,
+        0.8,
+        0.71,
+        0.83
+      ],
+      "note": "Visible orange body scales under flash; pattern, glare and lighting affect color."
+    },
+    {
+      "image_id": "inat_134223",
+      "bbox": [
+        0.53,
+        0.41,
+        0.58,
+        0.44
+      ],
+      "note": "Copper brown dorsal scales; photo lighting and markings affect color."
+    },
+    {
+      "image_id": "inat_757474922",
+      "bbox": [
+        0.54,
+        0.65,
+        0.59,
+        0.69
+      ],
+      "note": "Dark keeled scales in a patterned dorsal region; lighting affects color."
+    },
+    {
+      "image_id": "inat_724562887",
+      "bbox": [
+        0.58,
+        0.53,
+        0.63,
+        0.57
+      ],
+      "note": "Pale and gray scales at a marking border under flash."
+    },
+    {
+      "image_id": "inat_635550601",
+      "bbox": [
+        0.5,
+        0.43,
+        0.53,
+        0.45
+      ],
+      "note": "Brown dorsal scales from the visible anterior trunk in sunlight."
+    },
+    {
+      "image_id": "inat_762246263",
+      "bbox": [
+        0.54,
+        0.58,
+        0.57,
+        0.6
+      ],
+      "note": "Dark dorsal scales under bright daylight; color is not calibrated."
+    },
+    {
+      "image_id": "inat_761117078",
+      "bbox": [
+        0.31,
+        0.47,
+        0.38,
+        0.56
+      ],
+      "note": "Gray dorsal body in sunlight; head is hidden."
+    },
+    {
+      "image_id": "inat_762281686",
+      "bbox": [
+        0.61,
+        0.72,
+        0.7,
+        0.79
+      ],
+      "note": "Dark body scales between pale crossbands."
+    },
+    {
+      "image_id": "inat_759904371",
+      "bbox": [
+        0.57,
+        0.27,
+        0.62,
+        0.34
+      ],
+      "note": "Bright green dorsal coil; artificial light affects color."
+    },
+    {
+      "image_id": "inat_524453791",
+      "bbox": [
+        0.52,
+        0.5,
+        0.57,
+        0.55
+      ],
+      "note": "Dark exposed body in shade."
+    },
+    {
+      "image_id": "inat_694413715",
+      "bbox": [
+        0.24,
+        0.435,
+        0.28,
+        0.445
+      ],
+      "note": "Dark dorsal body on a sandy beach; illumination affects color."
+    },
+    {
+      "image_id": "inat_718408681",
+      "bbox": [
+        0.55,
+        0.49,
+        0.59,
+        0.52
+      ],
+      "note": "Gray dorsal body scales in a dark-marked region."
+    },
+    {
+      "image_id": "inat_727553769",
+      "bbox": [
+        0.4,
+        0.27,
+        0.44,
+        0.31
+      ],
+      "note": "Pale-edged brown markings on dorsal trunk."
+    }
+  ],
+  "removed_samples": [
+    {
+      "image_id": "inat_1767459",
+      "former_bbox": [
+        0.4,
+        0.38,
+        0.53,
+        0.44
+      ],
+      "reason": "Entire observation held due to unresolved visible tail condition."
+    }
+  ]
+}

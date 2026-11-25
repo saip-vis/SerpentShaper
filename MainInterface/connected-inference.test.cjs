@@ -45,10 +45,14 @@ class NodeMock{constructor(){this.children=[];this.events={};this.attrs={};this.
 const ids=['controls','total','balance-note','drawing','empty','dorsal','ventral','clear','download','explanation-summary','visual-traits','influences','source-status','source-list','more-sources','more-sources-label','source-list-more','photo-list','starting-species','starting-note','starting-reference','reference-title','reference-drawing'];
 const dom=Object.fromEntries(ids.map(id=>[id,new NodeMock()])),created=[];
 const document={getElementById:id=>dom[id],createElement:()=>{const x=new NodeMock();created.push(x);return x;}};
+scope.window.SERPENT_REVIEWED_PHOTO_EVIDENCE={evidence_by_species:Object.fromEntries(a.sourceContributions.slice(0,5).map((s,i)=>[s.species,{evidence:'Visible body evidence',attribution:'Credit',photo_page:i===0?'https://www.inaturalist.org/photos/123':'javascript:unsafe'}]))};
 const context={window:scope.window,document,ConnectedInference:I,DetailedConcept,SpeciesRenderer,SpeciesStarters,Number,Map,Set,Object};
 vm.runInNewContext(fs.readFileSync(__dirname+'/connected-app.js','utf8'),context);
 assert.equal(dom['photo-list'].children.length,model.provenance.photo_count);assert.match(dom['photo-list'].children[0].children[1].href,/^https:\/\/www\.inaturalist\.org\/photos\//);
 assert.equal(dom.drawing.hidden,true);assert.equal(dom['starting-species'].children.length,150,'one blank entry plus 149 species');
+assert.equal(dom.controls.children.length,data.controls.length);
+const toxinAbout=dom.controls.children[0].children.find(c=>c.className==='toxin-about');
+assert.ok(toxinAbout);assert.match(toxinAbout.children[0].textContent,/About 3FTx/);assert.match(toxinAbout.children[1].textContent,/functionally diverse/);
 assert.ok(dom['starting-species'].children.some(option=>option.textContent==='Western diamondback — Crotalus atrox'));
 const input=id=>created.find(e=>e.id===`component-${id}`);
 input('3ftx').value='25';input('3ftx').fire('input');assert.equal(dom.drawing.hidden,false);assert.match(dom['balance-note'].textContent,/Sparse/);
@@ -57,7 +61,13 @@ const before=dom.drawing.innerHTML;input('svsp').value='10';input('svsp').fire('
 input('svsp').value='0';input('svsp').fire('input');
 const withoutMetadata=s=>s.replace(/<metadata>.*?<\/metadata>/,'');
 assert.equal(withoutMetadata(dom.drawing.innerHTML),withoutMetadata(before),'the drawing must return to its original appearance while recording the explicit zero');
-assert.ok(dom.influences.children.length>0);assert.equal(dom['source-list'].children.length,5);assert.match(dom['source-list'].children[0].children[1].textContent,/raw shape contribution/i);assert.match(dom['source-list'].children[0].children[2].textContent,/Source row/);assert.match(dom['visual-traits'].textContent,/not probabilities/);
+assert.ok(dom.influences.children.length>0);assert.equal(dom['source-list'].children.length,5);assert.match(dom['source-list'].children[0].children[1].textContent,/model contribution magnitude/i);assert.match(dom['source-list'].children[0].children[2].textContent,/Source row/);assert.match(dom['visual-traits'].textContent,/not probabilities/);
+const totalSourceMagnitude=a.sourceContributions.reduce((sum,source)=>sum+source.score,0);
+assert.equal(parseFloat(dom['source-list'].children[0].children[1].textContent),Number((100*a.sourceContributions[0].score/totalSourceMagnitude).toFixed(1)),'displayed share uses every source, including collapsed sources');
+const photoDetails=dom['source-list'].children[0].children.find(c=>c.children.some(n=>/reviewed photo observation/.test(n.textContent)));
+assert.ok(photoDetails);assert.match(photoDetails.children[1].textContent,/does not calculate the shape contribution/);assert.equal(photoDetails.children[2].href,'https://www.inaturalist.org/photos/123');
+const unsafeDetails=dom['source-list'].children[1].children.find(c=>c.children.some(n=>/reviewed photo observation/.test(n.textContent)));
+assert.ok(unsafeDetails);assert.ok(unsafeDetails.children.every(c=>!c.href),'untrusted URLs never become links');
 assert.equal(dom['more-sources'].hidden,false);assert.equal(dom['source-list-more'].children.length,0);dom['more-sources'].open=true;dom['more-sources'].fire('toggle');assert.equal(dom['source-list-more'].children.length,a.sourceContributions.length-5);
 // A drag keeps the old influences marked as pending and release refreshes the
 // full ranking against the current venom, including an expanded source list.
@@ -70,6 +80,8 @@ const expectedSources=I.predict({...trial,svsp:10},model).sourceContributions;
 for(let i=0;i<5;i++)assert.equal(dom['source-list'].children[i].children[0].textContent,expectedSources[i].common_name?`${expectedSources[i].common_name} — ${expectedSources[i].species}`:expectedSources[i].species);
 assert.equal(dom['source-list-more'].children.length,expectedSources.length-5);
 assert.match(dom['source-list'].children[0].children[1].textContent,new RegExp(expectedSources[0].score.toFixed(3).replace('.','\\.')));
+const updatedMagnitude=expectedSources.reduce((sum,source)=>sum+source.score,0);
+assert.equal(parseFloat(dom['source-list'].children[0].children[1].textContent),Number((100*expectedSources[0].score/updatedMagnitude).toFixed(1)),'shares refresh after a slider is released');
 drag.value='0';drag.fire('input');drag.fire('pointerup');assert.equal(dom['source-status'].textContent,'');assert.equal(sourceSnapshot(),beforeDrag);
 dom.ventral.fire('click');assert.match(dom.drawing.innerHTML,/ventral study/);
 dom.clear.fire('click');assert.equal(dom.drawing.hidden,true);assert.equal(dom.total.textContent,'0%');

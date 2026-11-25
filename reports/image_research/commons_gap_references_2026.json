@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-11-24T20:36:33.007551+00:00",
+  "species": [
+    {
+      "species": "Bothriechis aurifer",
+      "folder": "pilot_316_commons_bothriechis_aurifer",
+      "status": "provider_error",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "stopped_provider_limit",
+  "per_species": 3,
+  "note": "Exact Commons categories; metadata-based candidate selection, not species/condition verification. Photos have no confirmed observation grouping and remain excluded from training.",
+  "updated_at": "2026-11-24T20:36:36.077022+00:00"
+}

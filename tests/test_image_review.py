@@ -88,6 +88,17 @@ class ImageReviewTests(unittest.TestCase):
         with self.assertRaisesRegex(ReviewError,'duplicate'):
             self.store.update(self.payload())
 
+    def test_exact_content_duplicate_flag_cannot_be_accepted(self):
+        self.row['exact_content_seen_elsewhere']=True
+        self.row['rendering_exclusion_reason']='duplicate_content_pending_review'
+        self.write([self.row])
+        with self.assertRaisesRegex(ReviewError,'duplicate'):
+            self.store.update(self.payload())
+        marked=self.store.update(self.payload(decision='flag',notes='Duplicate requires review.'))
+        self.assertEqual(marked['rendering_exclusion_reason'],'exact_duplicate')
+        with self.assertRaisesRegex(ReviewError,'duplicate'):
+            self.store.update(self.payload())
+
     def test_stale_revision_conflicts_without_overwriting(self):
         payload = self.payload()
         self.row['review_notes'] = 'A second reviewer changed this.'

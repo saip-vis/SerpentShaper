@@ -4,7 +4,7 @@ The intended path is **venom values → trained continuous visual controls → S
 
 ## Current status
 
-`python3 scripts/build_learned_training_data.py` produces `training_data.json` and reports current counts. The current collection contains 1,213 image records. Only 25 satisfy the existing accepted-and-not-excluded source gate; they cover eight source labels. **No numeric image-derived renderer-control annotations have been approved for training**, so the morphology join currently contains zero labeled training images and zero trainable control outputs. An accepted photo alone is not an approved trait label. The separate exploratory color experiment below has measured pixels, but does not supply these renderer-control annotations.
+`python3 scripts/build_learned_training_data.py` produces `training_data.json` and reports current counts. After the November 2026 follow-up, the collection contains 1,815 image metadata records, including 599 newly downloaded photos and three Commons candidates that were not downloaded. After a contact-sheet screen, 36 of the new photos were rejected following original-image inspection; 45 were subsequently accepted after individual inspection, and 518 remain unreviewed and excluded. Across all batches, 72 records satisfy the existing accepted-and-not-excluded source gate. **No numeric image-derived renderer-control annotations have been approved for training**, so the morphology join currently contains zero labeled training images and zero trainable control outputs. An accepted photo alone is not an approved trait label. The separate exploratory color experiment below has measured pixels, but does not supply these renderer-control annotations.
 
 The audit includes `candidate_images`, a triage queue for the already accepted photos. Ten currently have no known review blocks, but that is **not** an automatic approval of any trait annotation: visibility for each trait, identity, condition, and intended usage still need to be assessed. The existing provisional image-trait records and the previously held-out image observations remain excluded. Unreviewed photos are not automatically promoted. This queue can be used to prioritize assistant-supported review rather than asking someone to inspect every one of the 1,213 photos manually.
 
@@ -61,3 +61,16 @@ node --test MainInterface/learned-inference.test.cjs
 ```
 
 The morphology tests use synthetic data to check model mathematics, review gates, grouped evaluation, browser/Python inference parity, zero-input continuity and the preview. Passing them does not validate a full-snake model.
+
+## Expanded photo-color development experiment
+
+`expanded_body_patch_samples_2026.json` and `expanded_body_patch_measurements_2026.json` add five individually inspected, small visible-body crops to the nine-patch pilot. With 14 photos from 13 species, the [expanded development experiment](expanded_body_patch_experiment_2026.json) produced a leave-one-genus-out mean channel error of 34.2 on the 0–255 RGB scale, compared with 29.8 for the training-species mean baseline. Selection took place after the original experiment, so this is not an untouched test. The expanded coefficients have **not** been connected to the main interface; the earlier nine-patch model remains in use. Patches are affected by illumination and do not represent whole-animal color.
+
+The later [MVP development experiment](mvp_body_patch_experiment.json) adds seven manually inspected crops from the reviewed catalog follow-up: 21 patches across 20 source labels. The same genus-held-out comparison gives 38.8/255 mean channel error against 38.4/255 for the baseline. Additional examples were selected after earlier results, so this is not an independent evaluation. These coefficients are **not connected** to the product. The displayed model still uses its earlier nine-patch cue; neither experiment supports a claim that it predicts an entire animal's color.
+
+Reproduce the later experiment with the local photos, Pillow, NumPy, and scikit-learn:
+
+```sh
+python3 scripts/run_mvp_photo_color_experiment.py extract
+python3 scripts/run_mvp_photo_color_experiment.py train
+```
