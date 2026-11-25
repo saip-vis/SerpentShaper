@@ -8,7 +8,7 @@ Start with [the dataset report](reports/dataset_report.md).
 
 For ingestion, see [the cleaning report](reports/cleaning_report.md). The SQLite database and flat tables are in `data/processed/venom_diet_2023/`.
 
-The main [venom explorer](MainInterface/index.html) connects venom-family inputs directly to a trained experimental SVG concept and explains the model's responses. See [usage and limitations](MainInterface/README.md) and the [connected model's training report](ML/learned_morphology/connected_prototype.json). The earlier, more detailed reference-based renderer is preserved in the [research interface](MainInterface/research-interface.html).
+The [homepage](MainInterface/home.html) introduces the project and links to the [venom explorer](MainInterface/index.html), which connects venom-family inputs directly to a trained experimental SVG concept and explains the model's responses. The homepage's king cobra image is an AI-generated illustration, not a source photograph. See [usage and limitations](MainInterface/README.md) and the [connected model's training report](ML/learned_morphology/connected_prototype.json). The earlier, more detailed reference-based renderer is preserved in the [research interface](MainInterface/research-interface.html).
 
 To run the main interface with local PDF/text study search, run `./start_serpentshaper.sh` and open `http://127.0.0.1:8768/`. Study passages and optional literal-percentage suggestions remain local; users review and apply values explicitly. Optional retrieval-augmented answers use a separately installed local Ollama `llama3:latest` model and do not retrain the phenotype model. See the interface notes for limitations and dependencies.
 

@@ -32,6 +32,8 @@ class StudyServerTests(unittest.TestCase):
         with urlopen(request,timeout=4) as response:return json.load(response)
 
     def test_upload_search_clear_and_origin(self):
+        home=self.get('/');self.assertIn(b'SerpentShaper',home);self.assertIn(b'home.css',home)
+        self.assertTrue(self.get('/MainInterface/assets/forest-background.png').startswith(b'\x89PNG\r\n\x1a\n'))
         page=self.get('/MainInterface/index.html');self.assertIn(b'study-app.js',page)
         result=self.post('/api/study-upload',{'name':'research.txt','content':base64.b64encode(b'Venom PLA2: 35%.').decode()})
         self.assertEqual(result['name'],'research.txt')

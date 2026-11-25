@@ -1,0 +1,91 @@
+/* The experimental tool shares the homepage's forest palette. */
+:root{color-scheme:dark;--ink:#f1f5ec;--muted:#afc2b0;--line:#294034;--green:#b8dfb7;--mint:#203b2d;--paper:#08110d;--white:#101d16}
+body{background:radial-gradient(ellipse at 70% -20%,#193b29 0%,#0a1710 34%,#080f0c 72%);color:var(--ink)}
+a{color:#c6e5c1}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid #d6e9ad;outline-offset:3px}
+.topbar{background:#0a1811;border-bottom:1px solid #2a3c2e}
+.page{max-width:1510px}.intro{padding-top:42px;padding-bottom:32px}.intro h1{font-size:clamp(38px,4vw,56px);color:#f7f8f0}.intro p{font-size:16px;color:#b5c9b6}.eyebrow,.section-kicker,.field-label,.stage-label{color:#a4bfa4}.eyebrow-line{background:#bdd69f}
+.workspace.learned-workspace{gap:20px;grid-template-columns:minmax(280px,350px) minmax(380px,1fr)}
+.panel{background:#101e16;border:1px solid #293f30;box-shadow:0 16px 50px #0003;border-radius:12px}.input-panel{padding:26px 24px}.visual-panel{padding:26px}.panel h2{color:#f4f7ed;font-size:27px}.intro-copy,.muted{color:#bdcdbd;font-size:14px;line-height:1.6}.text-button{color:#c4e2bc;font-size:13px}.text-button:hover{color:#fff}
+select,.value-wrap,.study-search input{background:#172b1e;border-color:#3b5642;color:#f4f7ed}.select-wrap:after{border-color:#b4cbb3}.value-wrap input{color:#fff}.value-wrap span,.toxin-label small{color:#aec3ae}.toxin-label{color:#eff5eb;font-size:15px}.toxin-label small{font-size:12px}.field-note{color:#b3c7b4;font-size:13px}.toxin-about,.toxin-about p{color:#a9beaa;font-size:12px}.toxin-about summary,.clear-value{color:#c2debb}.slider-row input{accent-color:#b4d8a3;height:5px}.balance-title{color:#c0d2c0}.value-wrap input[aria-invalid=true]{color:#ffb5a7}
+.reference-tag{background:#233b29;color:#d0e6ca}.reference-tag span{background:#b2d69d}.stage-top h3{color:#f0f4ec}.segmented{background:#1d3023}.segmented button{color:#b4cbb7;font-size:12px}.segmented button[aria-pressed=true]{background:#bed9b4;color:#12291a;box-shadow:none}
+.stage{background:radial-gradient(ellipse at 50% 45%,#3d5140 0%,#263a2b 62%,#1b2c21 100%);border:1px solid #415b46}.stage-grid{background-image:linear-gradient(#acc3a91a 1px,transparent 1px),linear-gradient(90deg,#acc3a91a 1px,transparent 1px)}.empty-drawing{color:#d6e4d3}.visual-footer{color:#adc3af;font-size:12px}
+.snake-context,.starting-reference,.source-breakdown,.photo-references{background:#13251a;border-color:#34503b}.snake-context>p,.snake-context .context-credit,.starting-reference p,.source-intro,.source-footnote,.source-empty,.photo-references,.source-profile,.source-effect{color:#b9ccba}.snake-context #context-status{color:#d0e5c8}.context-grid>div,.source-card{background:#192f21;border-color:#3b5741}.context-grid dt{color:#a8c3a8}.context-grid .context-value{color:#f2f6ed}.context-grid dd,.context-grid .context-secondary,.context-grid .context-unavailable,.context-detail-text,.context-measurements li{color:#c0d1bf}.context-grid .context-caution{color:#e2d49f}.context-details,.context-measurements li{border-color:#3a5040}.context-details summary,.context-details a,.context-measurements strong,.context-credit a{color:#d1e9ca}
+.starting-reference summary,.source-breakdown>summary,.more-sources>summary,.profile-more>summary,.photo-references summary,.study-panel summary{color:#d1e8c9}.reference-stage{background:#263a2b}.source-card h4{color:#f0f6ec}.source-card a,.source-footnote a{color:#c7e6be}.disclaimer,.evidence-note,.study-applied:not(:empty){background:#1a3021;border-color:#35513c;color:#bfd0be}.disclaimer strong{color:#e0efda}.disclaimer-icon{border-color:#94b899;color:#d9ead4}.influences{color:#c6dfc0}.study-panel{color:#bdcdbd}.study-panel button:not(.text-button){background:#294532;border-color:#527b59;color:#f1f7ed}.study-result{background:#182a1e;border-color:#3a5540}.study-result h4{color:#f1f7ed}.study-search input::placeholder{color:#a8bca9}.study-applied p{color:#d6e5d1}
+@media(max-width:720px){.workspace.learned-workspace{display:flex}.visual-panel{padding:20px}.input-panel{padding:22px}.intro{padding-top:30px}.intro h1{font-size:38px}.study-search{flex-wrap:wrap}.study-search input{flex-basis:100%}}
+
+/* A quieter, editorial workspace, connected to the forest landing page. */
+:root{--ink:#f4f6ef;--muted:#b2c2b3;--line:#304338;--green:#dcebcf;--paper:#09130f;--white:#101e17}
+body{background:#09130f;color:var(--ink)}
+.topbar{height:84px;padding:0 clamp(24px,4.5vw,72px);background:#0a1913;border-bottom:1px solid rgba(213,231,209,.14)}
+.brand{gap:11px;font-size:.76rem;line-height:1;letter-spacing:.12em;font-weight:800}
+.brand span span{font-weight:800;color:inherit}
+.brand small{display:block;margin-top:.42rem;color:#a7bdaa;font-size:.55rem;font-weight:700;letter-spacing:.19em}
+.brand-icon{width:38px;height:38px;border-color:#dbe8c8;color:#f5f7ef;font-size:1.6rem}
+.tool-nav{gap:clamp(1.4rem,3.4vw,3.1rem)}
+.tool-nav a{padding:.8rem 0;color:#cddcce;font-size:.82rem;letter-spacing:.02em}
+.page{max-width:1600px;padding:0 clamp(24px,4.5vw,72px)}
+.intro{position:relative;isolation:isolate;min-height:230px;padding:57px 0 48px;align-items:end}
+.intro::before{content:'';position:absolute;z-index:-1;inset:0 calc(-1 * clamp(24px,4.5vw,72px)) -110px;background:linear-gradient(0deg,rgba(9,19,15,.78),rgba(9,19,15,.52)),url('assets/forest-background.png') center 46% / cover;mask-image:linear-gradient(to bottom,#000 0%,#000 35%,transparent 100%);pointer-events:none}
+.eyebrow,.section-kicker,.field-label,.stage-label{font-size:.7rem;letter-spacing:.16em;color:#a9c0a9}
+.eyebrow-line{width:27px;height:1px;background:#b8d1ae}
+.intro h1{margin-top:17px;font:400 clamp(2.8rem,4.7vw,4.5rem)/1.02 Georgia,serif;letter-spacing:-.045em;color:#f8faf4}
+.intro h1 span{color:#accda0}
+.intro p{margin-top:15px;color:#c3d0c1;font-size:1rem;line-height:1.5}
+.intro .intro-aside{max-width:250px;margin:0 0 4px;padding-left:20px;border-left:1px solid #6a806b;color:#bacbb9;font-size:.875rem;line-height:1.6}
+.workspace.learned-workspace{grid-template-columns:minmax(310px,360px) minmax(380px,1fr);gap:clamp(22px,2.3vw,36px);padding:36px 0 80px}
+.panel{border:0;border-radius:0;box-shadow:none;background:transparent}
+.input-panel{padding:25px 25px 30px;background:#112219;border:1px solid #2b4133}
+.panel-heading{align-items:end;padding-bottom:21px;border-bottom:1px solid #34493a}
+.panel h2{margin-top:9px;font:400 1.8rem/1.1 Georgia,serif;letter-spacing:-.025em}
+.text-button{font-size:.8rem;color:#d6e7ce;font-weight:650}
+.text-button:hover{color:#fff;text-decoration:underline}
+.intro-copy{margin:20px 0 24px;color:#bdcbbb;font-size:.875rem;line-height:1.65}
+.field-label{margin-bottom:10px;font-size:.7rem;letter-spacing:.12em}
+select,.value-wrap,.study-search input{background:#0e1c15;border:1px solid #415a47;border-radius:2px;color:#f5f7f2}
+select{height:48px;font-size:.875rem;padding-left:13px}.select-wrap:after{top:18px}
+.field-note{font-size:.8rem;line-height:1.6;color:#b4c4b3}
+.control-list{gap:0;margin-top:25px;border-top:1px solid #34493a}
+.toxin{padding:19px 0 17px;border-bottom:1px solid #34493a}
+.toxin-label{font-size:.95rem;font-weight:700}.toxin-label small{margin-top:5px;color:#afc2ae;font-size:.75rem;line-height:1.35}
+.value-wrap{border-color:#405745}.value-wrap input{height:34px;width:46px;font-size:.875rem}.value-wrap span{font-size:.75rem}
+.slider-row{margin-top:14px}.slider-row input{height:5px;accent-color:#bdd7ad}
+.toxin-about,.toxin-about p{font-size:.75rem;line-height:1.55;color:#b4c5b3}.toxin-about{margin-top:10px}.toxin-about summary{color:#cfe2c9}
+.balance{border:0;margin-top:0;padding-top:20px}.balance-title{font-size:.875rem;color:#d0dfce}.balance-title strong{font-size:1.1rem}
+.visual-panel{padding:0;min-width:0}
+.visual-header{min-height:69px;align-items:center;border-bottom:1px solid #34483a;padding:0 0 21px}
+.reference-tag{padding:7px 9px;border:1px solid #506952;border-radius:0;background:transparent;color:#c9ddc4;font-size:.65rem;letter-spacing:.12em}
+.stage-top{align-items:center;margin:0;padding:21px 0 16px}
+.stage-label{font-size:.67rem}.stage-top h3{font:400 1.25rem Georgia,serif;color:#f1f5ee}
+.segmented{padding:3px;background:#14271c;border:1px solid #334d3b;border-radius:2px}
+.segmented button{min-height:34px;padding:7px 15px;border-radius:1px;font-size:.76rem;color:#c0d0bf}
+.segmented button[aria-pressed=true]{background:#dbe9d2;color:#183422}
+.stage{height:clamp(460px,46vw,640px);min-height:460px;border-radius:0;border:1px solid #354d3b;background:radial-gradient(ellipse at 50% 42%,#34483a 0%,#23352a 60%,#1a2c21 100%)}
+.stage-grid{opacity:.4;background-size:54px 54px;background-image:linear-gradient(#b6ceb41a 1px,transparent 1px),linear-gradient(90deg,#b6ceb41a 1px,transparent 1px)}
+.empty-drawing{max-width:290px;font:400 1.1rem/1.6 Georgia,serif;color:#d6e2d3}
+.visual-footer{margin-top:0;padding:13px 0 18px;border-bottom:1px solid #34483a;color:#b5c7b4;font-size:.75rem}
+.snake-context{margin-top:34px;padding:0;background:transparent;border:0;border-radius:0}
+.snake-context h3,.model-explanation h3{margin:9px 0 10px;font:400 1.8rem/1.15 Georgia,serif;color:#f5f7ef}
+.snake-context>p{max-width:64ch;color:#bccbbb;font-size:.875rem;line-height:1.6}
+.context-grid{gap:1px;background:#405444;border:1px solid #405444;margin:20px 0}
+.context-grid>div{min-height:130px;padding:20px;background:#14251b;border:0;border-radius:0}
+.context-grid dt{margin-bottom:12px;font-size:.7rem;letter-spacing:.13em}.context-grid .context-value{font-size:1rem;line-height:1.5}.context-grid .context-measure{font:400 1.65rem Georgia,serif}
+.context-grid .context-secondary,.context-grid .context-unavailable,.context-details{font-size:.8rem}
+.snake-context .context-credit{font-size:.75rem;line-height:1.6}
+.starting-reference,.source-breakdown,.photo-references{margin-top:14px;border:1px solid #364c3b;border-radius:0;background:#112219}
+.source-breakdown>summary,.starting-reference summary,.photo-references summary{font-size:.875rem}
+.source-breakdown>summary{padding:18px 20px}.starting-reference,.photo-references{padding:17px 20px}
+.source-card{border-radius:0}.disclaimer,.evidence-note{border-radius:0;font-size:.8rem;line-height:1.65}
+.model-explanation{margin-top:30px;padding-top:25px}.model-explanation>p,.influences,.study-panel{font-size:.8rem;line-height:1.65}
+.study-panel summary{font-size:.875rem}
+@media(max-width:900px){.workspace.learned-workspace{grid-template-columns:minmax(280px,320px) minmax(0,1fr);gap:20px}.intro .intro-aside{max-width:200px}}
+@media(max-width:720px){
+ .topbar{height:70px;padding:0 18px}.topbar .brand{font-size:.65rem;gap:.45rem}.topbar .brand-icon{width:30px;height:30px;font-size:1.25rem}.brand small{font-size:.48rem}.tool-nav{gap:.8rem}.tool-nav a{font-size:.72rem}
+ .page{padding:0 18px}.intro{min-height:0;padding:40px 0 34px}.intro h1{font-size:2.8rem}.intro .intro-aside{display:none}
+ .workspace.learned-workspace{display:flex;flex-direction:column;gap:26px;padding:25px 0 55px}.input-panel{padding:23px}.visual-panel{order:0;padding:0}.panel h2{font-size:1.65rem}.stage{height:390px;min-height:390px}.context-grid>div{min-height:0}.snake-context{margin-top:27px}
+}
+@media(max-width:375px){.topbar .brand-icon{display:none}.tool-nav{gap:.6rem}.stage-top{gap:8px}.segmented button{padding:7px 10px}}
+/* Keep the workspace within reach without sacrificing the page introduction. */
+@media(min-width:721px){.intro{min-height:190px;padding-top:38px;padding-bottom:35px}.intro h1{font-size:clamp(2.8rem,4.1vw,4rem)}.workspace.learned-workspace{padding-top:28px}}
+.mobile-jump{display:none}
+@media(max-width:720px){.mobile-jump{display:inline-block;margin-top:16px;padding:9px 0;color:#dcebcf;font-size:.8rem;font-weight:700;border-bottom:1px solid #9cb69b}.mobile-return{margin:4px 0 4px}}
+.reference-stage{overflow:hidden}.reference-stage svg{overflow:hidden}

@@ -36,10 +36,11 @@ def make_handler(index):
                     return self.write_json(200,{'results':index.search(q)})
                 except ValueError as exc: return self.write_json(400,{'error':str(exc)})
             if route.path=='/':
-                self.send_response(302);self.send_header('Location','/MainInterface/index.html');self.end_headers();return
+                self.send_response(302);self.send_header('Location','/MainInterface/home.html');self.end_headers();return
             path=Path(route.path.lstrip('/'))
+            is_page_asset=path.parts[:2]==('MainInterface','assets') and path.suffix.lower()=='.png'
             if (not path.parts or path.parts[0] not in {'MainInterface','PhysicalRendererTest'}
-                or path.suffix.lower() not in {'.html','.css','.js'}
+                or (path.suffix.lower() not in {'.html','.css','.js'} and not is_page_asset)
                 or '..' in path.parts):
                 return self.write_json(404,{'error':'Not found.'})
             resolved=(ROOT/path).resolve()
