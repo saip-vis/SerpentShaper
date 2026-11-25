@@ -131,21 +131,56 @@
     "original_width": 2048,
     "original_height": 1152,
     "retrieved_at": "2026-11-24T20:32:35.248756+00:00",
-    "review_status": "unreviewed",
-    "framing": "unknown",
-    "viewpoint": "unknown",
+    "review_status": "accepted",
+    "framing": "partial_body",
+    "viewpoint": "oblique",
     "pose": "unknown",
     "download_status": "downloaded",
     "collection_batch": "pilot_206_extra_crotalus_atrox",
-    "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
+    "rendering_training_excluded": false,
     "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
     "local_path": "images/7e8cd14d057b568f7e22e038af9d37356c07622d74e185420cc0aa7977b623ed.jpg",
     "sha256": "7e8cd14d057b568f7e22e038af9d37356c07622d74e185420cc0aa7977b623ed",
     "downloaded_at": "2026-11-24T20:32:42.853839+00:00",
     "byte_count": 2570011,
     "content_type": "image/jpeg",
-    "exact_content_seen_elsewhere": false
+    "exact_content_seen_elsewhere": false,
+    "species_confidence": "confirmed",
+    "body_condition": "no_visible_injury",
+    "reference_only_exception": false,
+    "review_issues": [],
+    "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed trunk and banded rattle are visible along a path; the head and adjacent body are partly hidden by vegetation.",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-25T04:35:19.683455+00:00",
+      "category": "candidate",
+      "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed trunk and banded rattle are visible along a path; the head and adjacent body are partly hidden by vegetation."
+    },
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-25T04:35:19.683455+00:00",
+      "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed trunk and banded rattle are visible along a path; the head and adjacent body are partly hidden by vegetation.",
+      "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+      "provider_identification_count": 3,
+      "provider_most_agree": true,
+      "cache_file": "data/image_pilots/pilot_206_extra_crotalus_atrox/api_cache/7a13e1a13479f320526f47e91c718ab5760278da30501d36337b8d61e07c42de.json"
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "accept",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-25T04:35:19.683455+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review",
+          "species_confidence": null,
+          "body_condition": null
+        },
+        "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed trunk and banded rattle are visible along a path; the head and adjacent body are partly hidden by vegetation."
+      }
+    ]
   },
   {
     "image_id": "inat_755295461",

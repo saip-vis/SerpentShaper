@@ -3,7 +3,7 @@
   "status": "assistant_observed_exploratory_labels_not_expert_verified",
   "target": "prominent repeated body markings visible in the photographed body section",
   "definition": "1 means at least three prominent repeated bands, blotches or similar markings are visible in the body region; 0 means no such prominent repeated markings are visible on an adequately visible body section. It does not describe hidden regions or assert absence in the species.",
-  "method": "Assistant visual inspection of accepted, unblocked local photos. Labels are preliminary, observation-level, and have not been independently verified. Existing source review and renderer-training decisions are unchanged. Seven additional examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Ten further patterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Eleven further patterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Two further examples, including one visibly unpatterned trunk, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples, including two visibly unpatterned trunks, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples, including one visibly unpatterned trunk, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Three further visibly unpatterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification.",
+  "method": "Assistant visual inspection of accepted, unblocked local photos. Labels are preliminary, observation-level, and have not been independently verified. Existing source review and renderer-training decisions are unchanged. Seven additional examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Ten further patterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Eleven further patterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Two further examples, including one visibly unpatterned trunk, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples, including two visibly unpatterned trunks, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Four further examples, including one visibly unpatterned trunk, were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Three further visibly unpatterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification. Two further visibly unpatterned examples were selected after the initial experiment and individually inspected; provider IDs are community assignments, not independent expert verification.",
   "records": [
     {
       "image_id": "inat_244026573",
@@ -412,6 +412,22 @@
       "evidence": "The visible black coils show no prominent repeated markings; parts of the body are concealed.",
       "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
       "reviewed_at": "2026-11-24T21:42:02.375570+00:00"
+    },
+    {
+      "image_id": "inat_684473507",
+      "species": "Dispholidus typus",
+      "visible_pattern": 0,
+      "evidence": "Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-25T04:33:52.764421+00:00"
+    },
+    {
+      "image_id": "inat_622823289",
+      "species": "Naja naja",
+      "visible_pattern": 0,
+      "evidence": "The visible brown trunk has small scale flecks but no prominent repeated large body markings; the raised hood and head are less sharp and the underside is partly obscured.",
+      "identity_basis": "research-grade provider community ID plus assistant visual check; not independently expert-verified",
+      "reviewed_at": "2026-11-25T04:33:52.765293+00:00"
     }
   ]
 }

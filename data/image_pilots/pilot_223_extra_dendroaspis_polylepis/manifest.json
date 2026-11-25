@@ -277,21 +277,56 @@
     "original_width": 2048,
     "original_height": 1536,
     "retrieved_at": "2026-11-24T20:36:11.055588+00:00",
-    "review_status": "unreviewed",
-    "framing": "unknown",
-    "viewpoint": "unknown",
+    "review_status": "accepted",
+    "framing": "partial_body",
+    "viewpoint": "oblique",
     "pose": "unknown",
     "download_status": "downloaded",
     "collection_batch": "pilot_223_extra_dendroaspis_polylepis",
-    "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
+    "rendering_training_excluded": false,
     "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
     "local_path": "images/4e32ce45fe6154bb7274f44ca3205937a5dde31fb6967b3ce39e5e34ef9c2c28.jpg",
     "sha256": "4e32ce45fe6154bb7274f44ca3205937a5dde31fb6967b3ce39e5e34ef9c2c28",
     "downloaded_at": "2026-11-24T20:36:23.909016+00:00",
     "byte_count": 2216624,
     "content_type": "image/jpeg",
-    "exact_content_seen_elsewhere": false
+    "exact_content_seen_elsewhere": false,
+    "species_confidence": "confirmed",
+    "body_condition": "no_visible_injury",
+    "reference_only_exception": false,
+    "review_issues": [],
+    "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed dark trunk and tail are visible; the head is distant and parts of the body are overlapped.",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-25T04:35:19.684821+00:00",
+      "category": "candidate",
+      "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed dark trunk and tail are visible; the head is distant and parts of the body are overlapped."
+    },
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-25T04:35:19.684821+00:00",
+      "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed dark trunk and tail are visible; the head is distant and parts of the body are overlapped.",
+      "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+      "provider_identification_count": 9,
+      "provider_most_agree": true,
+      "cache_file": "data/image_pilots/pilot_223_extra_dendroaspis_polylepis/api_cache/ef2101215935ebb6241988be77c6ae8f54065519c181caa71c604a21256b521e.json"
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "accept",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-25T04:35:19.684821+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review",
+          "species_confidence": null,
+          "body_condition": null
+        },
+        "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed dark trunk and tail are visible; the head is distant and parts of the body are overlapped."
+      }
+    ]
   },
   {
     "image_id": "inat_337896942",

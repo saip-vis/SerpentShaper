@@ -9,7 +9,7 @@ This is triage, not a full-resolution review of every photo or independent speci
 - Rejected after inspection of the original for clear damage or remains: **34**.
 - Rejected after inspection of the original because it shows only shed skin: **2**.
 
-The candidate and hold labels are original screening priorities, not acceptance decisions. Current manifest statuses are {'accepted': 45, 'rejected': 36, 'unreviewed': 518}. Some candidates received separate full-size reviews and were later accepted; check the manifests for the current decisions. Rejected photos remain on disk with provenance and review history and are excluded from training.
+The candidate and hold labels are original screening priorities, not acceptance decisions. Current manifest statuses are {'accepted': 51, 'rejected': 36, 'unreviewed': 512}. Some candidates received separate full-size reviews and were later accepted; check the manifests for the current decisions. Rejected photos remain on disk with provenance and review history and are excluded from training.
 
 The per-photo decisions and source links are in `ML/image_traits/assistant_catalog_screen_2026.json`. The separate `assistant_shortlist_screen_2026.json` includes 32 prioritized photos, some from older batches; its candidates overlap this catalog and should not be added to these totals.
 

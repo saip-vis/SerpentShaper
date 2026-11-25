@@ -4,9 +4,9 @@ This exploratory experiment asks whether venom categories linked by a source spe
 
 ## Evidence
 
-Fifty-three individually inspected photos from 53 observations and 53 source labels have visible-body annotations: 37 show prominent repeated markings, 16 do not. The initial eight-photo pilot was expanded by 45 photos after intermediate results were reviewed; four were specifically chosen to improve coverage of unpatterned examples. This is development data, **not an untouched test set**. See [labels and evidence](photo_pattern_pilot_labels.json) and [detailed results](photo_pattern_pilot_results.json).
+Fifty-five individually inspected photos from 55 observations and 55 source labels have visible-body annotations: 37 show prominent repeated markings, 18 do not. The initial eight-photo pilot was expanded by 47 photos after intermediate results were reviewed; four were specifically chosen to improve coverage of unpatterned examples. This is development data, **not an untouched test set**. See [labels and evidence](photo_pattern_pilot_labels.json) and [detailed results](photo_pattern_pilot_results.json).
 
-The 45 additional source decisions are recorded as assistant reviews in their manifests. They use iNaturalist research-grade community identifications and visual checks, not independent expert verification. They describe visible areas only; concealed parts could not be assessed. Venom profiles and photographs are associated by species label, not a shared individual. Species labels and license records may still need verification for the intended use.
+The 47 additional source decisions are recorded as assistant reviews in their manifests. They use iNaturalist research-grade community identifications and visual checks, not independent expert verification. They describe visible areas only; concealed parts could not be assessed. Venom profiles and photographs are associated by species label, not a shared individual. Species labels and license records may still need verification for the intended use.
 
 ## Development comparison
 
@@ -14,12 +14,12 @@ A fixed logistic regression and a training-species prevalence baseline were comp
 
 | Measure | Logistic regression | Prevalence baseline |
 | --- | ---: | ---: |
-| Brier score; lower is better | 0.355 | 0.231 |
-| Balanced accuracy at 0.5 threshold | 0.441 | 0.500 |
-| Recall on visibly unpatterned examples | 2/16 | 0/16 |
-| Recall on visibly patterned examples | 28/37 | 37/37 |
+| Brier score; lower is better | 0.382 | 0.243 |
+| Balanced accuracy at 0.5 threshold | 0.380 | 0.500 |
+| Recall on visibly unpatterned examples | 2/18 | 0/18 |
+| Recall on visibly patterned examples | 24/37 | 37/37 |
 
-The model underperformed this baseline on the development comparison. Fifty-three examples and one coarse pattern label do not establish a reliable result, so this model has **not** been connected to the main interface. These numbers describe a narrow photo-label task, not the accuracy of generating an imagined snake.
+The model underperformed this baseline on the development comparison. Fifty-five examples and one coarse pattern label do not establish a reliable result, so this model has **not** been connected to the main interface. These numbers describe a narrow photo-label task, not the accuracy of generating an imagined snake.
 
 ## Reproduce
 

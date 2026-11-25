@@ -20,21 +20,56 @@
     "original_width": 2048,
     "original_height": 1437,
     "retrieved_at": "2026-11-24T20:34:02.209660+00:00",
-    "review_status": "unreviewed",
-    "framing": "unknown",
-    "viewpoint": "unknown",
+    "review_status": "accepted",
+    "framing": "partial_body",
+    "viewpoint": "oblique",
     "pose": "unknown",
     "download_status": "downloaded",
     "collection_batch": "pilot_213_extra_crotalus_scutulatus",
-    "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
+    "rendering_training_excluded": false,
     "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
     "local_path": "images/b51d090c6b4b29f917d61c5a345c34e3e3d3d42c02b1b5595c45badeba7cce51.jpg",
     "sha256": "b51d090c6b4b29f917d61c5a345c34e3e3d3d42c02b1b5595c45badeba7cce51",
     "downloaded_at": "2026-11-24T20:34:04.642176+00:00",
     "byte_count": 1710540,
     "content_type": "image/jpeg",
-    "exact_content_seen_elsewhere": false
+    "exact_content_seen_elsewhere": false,
+    "species_confidence": "confirmed",
+    "body_condition": "no_visible_injury",
+    "reference_only_exception": false,
+    "review_issues": [],
+    "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Pale-edged dorsal markings and the rattle are visible; deep shadow and the coiled posture limit assessment of hidden regions.",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-25T04:35:19.684382+00:00",
+      "category": "candidate",
+      "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Pale-edged dorsal markings and the rattle are visible; deep shadow and the coiled posture limit assessment of hidden regions."
+    },
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-25T04:35:19.684382+00:00",
+      "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Pale-edged dorsal markings and the rattle are visible; deep shadow and the coiled posture limit assessment of hidden regions.",
+      "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+      "provider_identification_count": 4,
+      "provider_most_agree": true,
+      "cache_file": "data/image_pilots/pilot_213_extra_crotalus_scutulatus/api_cache/ce4e107aa94d0a688bd2f4dfcfbfa6c6d49f23c89c3d8892c0a8d62f57dbcec9.json"
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "accept",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-25T04:35:19.684382+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review",
+          "species_confidence": null,
+          "body_condition": null
+        },
+        "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Pale-edged dorsal markings and the rattle are visible; deep shadow and the coiled posture limit assessment of hidden regions."
+      }
+    ]
   },
   {
     "image_id": "inat_728452247",

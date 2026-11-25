@@ -823,7 +823,7 @@
     },
     {
       "path": "data/image_pilots/pilot_206_extra_crotalus_atrox/manifest.json",
-      "sha256": "c4ab103d106dab149a37bbfc3f73bf9af4735ae7108c3f7e4107a770404f4302"
+      "sha256": "0c01978cf9bb000a12056a5b4ebd99f1473e72839e6bd3d2cf675599c070c4c2"
     },
     {
       "path": "data/image_pilots/pilot_207_extra_crotalus_basiliscus/manifest.json",
@@ -851,7 +851,7 @@
     },
     {
       "path": "data/image_pilots/pilot_213_extra_crotalus_scutulatus/manifest.json",
-      "sha256": "1756d853ac2521c590e2d30e98e2ce02f14c1bcd2e3fc25a6a7384fbb1d3d6d4"
+      "sha256": "bfec6833e7f4865e5951bd50a1bf8776f74a8213eaa25d38d74efe22b225f93d"
     },
     {
       "path": "data/image_pilots/pilot_214_extra_crotalus_simus/manifest.json",
@@ -891,11 +891,11 @@
     },
     {
       "path": "data/image_pilots/pilot_223_extra_dendroaspis_polylepis/manifest.json",
-      "sha256": "3b5c44429adc61b57aba76a172aebcaa6eb5787610aab8d57e86d51b56ba1a09"
+      "sha256": "79ad7e30fa562e1973244bd04ef8bf16a1a5b2c885e685ba6d7c1a9a6ffbc239"
     },
     {
       "path": "data/image_pilots/pilot_224_extra_dispholidus_typus/manifest.json",
-      "sha256": "dae52fb832f7cf7daa7545147da7cf6846ee80df16c728a93392b92731beca5c"
+      "sha256": "d6bdd6905a6a7781064246bb3ae86406c157214d2c0e269b6cfe035637f3d705"
     },
     {
       "path": "data/image_pilots/pilot_225_extra_echis_carinatus/manifest.json",
@@ -979,7 +979,7 @@
     },
     {
       "path": "data/image_pilots/pilot_245_extra_micrurus_corallinus/manifest.json",
-      "sha256": "82c71fdb07dd07e12aac0a4d2722dde750d34b31fc71148a48074e38bc6b13f8"
+      "sha256": "4c044e1617524a9d2f376137d6f3276d09549643b6a25292767d2671333c4fc4"
     },
     {
       "path": "data/image_pilots/pilot_246_extra_micrurus_dumerilii/manifest.json",
@@ -1055,7 +1055,7 @@
     },
     {
       "path": "data/image_pilots/pilot_264_extra_naja_naja/manifest.json",
-      "sha256": "9243b97dae11666f4a989458dcd50f09a74758fdca0dd4a0ddc7223e792ab052"
+      "sha256": "2e9ed12183808294ac03f92df7c399b47cb397fe9af95fe2be5efbda2a74e63a"
     },
     {
       "path": "data/image_pilots/pilot_265_extra_naja_nigricollis/manifest.json",
@@ -28308,14 +28308,13 @@
           "original_width": 2048,
           "original_height": 1152,
           "retrieved_at": "2026-11-24T20:32:35.248756+00:00",
-          "review_status": "unreviewed",
-          "framing": "unknown",
-          "viewpoint": "unknown",
+          "review_status": "accepted",
+          "framing": "partial_body",
+          "viewpoint": "oblique",
           "pose": "unknown",
           "download_status": "downloaded",
           "collection_batch": "pilot_206_extra_crotalus_atrox",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
           "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
           "local_path": "data/image_pilots/pilot_206_extra_crotalus_atrox/images/7e8cd14d057b568f7e22e038af9d37356c07622d74e185420cc0aa7977b623ed.jpg",
           "sha256": "7e8cd14d057b568f7e22e038af9d37356c07622d74e185420cc0aa7977b623ed",
@@ -28323,10 +28322,46 @@
           "byte_count": 2570011,
           "content_type": "image/jpeg",
           "exact_content_seen_elsewhere": false,
+          "species_confidence": "confirmed",
+          "body_condition": "no_visible_injury",
+          "reference_only_exception": false,
+          "review_issues": [],
+          "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed trunk and banded rattle are visible along a path; the head and adjacent body are partly hidden by vegetation.",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-25T04:35:19.683455+00:00",
+            "category": "candidate",
+            "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed trunk and banded rattle are visible along a path; the head and adjacent body are partly hidden by vegetation."
+          },
+          "assistant_visual_review": {
+            "reviewer": "assistant",
+            "reviewed_at": "2026-11-25T04:35:19.683455+00:00",
+            "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed trunk and banded rattle are visible along a path; the head and adjacent body are partly hidden by vegetation.",
+            "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+            "provider_identification_count": 3,
+            "provider_most_agree": true,
+            "cache_file": "data/image_pilots/pilot_206_extra_crotalus_atrox/api_cache/7a13e1a13479f320526f47e91c718ab5760278da30501d36337b8d61e07c42de.json"
+          },
+          "review_history": [
+            {
+              "source": "assistant_visual_review",
+              "action": "accept",
+              "reviewer": "assistant",
+              "reviewed_at": "2026-11-25T04:35:19.683455+00:00",
+              "before": {
+                "review_status": "unreviewed",
+                "rendering_training_excluded": true,
+                "rendering_exclusion_reason": "pending_visual_review",
+                "species_confidence": null,
+                "body_condition": null
+              },
+              "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed trunk and banded rattle are visible along a path; the head and adjacent body are partly hidden by vegetation."
+            }
+          ],
           "manifest_path": "data/image_pilots/pilot_206_extra_crotalus_atrox/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_755295461",
@@ -28499,10 +28534,10 @@
         "ready_proteomic_profiles": 2,
         "image_records": 30,
         "available_images": 30,
-        "rendering_eligible_images": 8,
+        "rendering_eligible_images": 9,
         "review_statuses": {
-          "accepted": 10,
-          "unreviewed": 20
+          "accepted": 11,
+          "unreviewed": 19
         }
       },
       "link_status": "venom_and_images",
@@ -32627,14 +32662,13 @@
           "original_width": 2048,
           "original_height": 1437,
           "retrieved_at": "2026-11-24T20:34:02.209660+00:00",
-          "review_status": "unreviewed",
-          "framing": "unknown",
-          "viewpoint": "unknown",
+          "review_status": "accepted",
+          "framing": "partial_body",
+          "viewpoint": "oblique",
           "pose": "unknown",
           "download_status": "downloaded",
           "collection_batch": "pilot_213_extra_crotalus_scutulatus",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
           "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
           "local_path": "data/image_pilots/pilot_213_extra_crotalus_scutulatus/images/b51d090c6b4b29f917d61c5a345c34e3e3d3d42c02b1b5595c45badeba7cce51.jpg",
           "sha256": "b51d090c6b4b29f917d61c5a345c34e3e3d3d42c02b1b5595c45badeba7cce51",
@@ -32642,10 +32676,46 @@
           "byte_count": 1710540,
           "content_type": "image/jpeg",
           "exact_content_seen_elsewhere": false,
+          "species_confidence": "confirmed",
+          "body_condition": "no_visible_injury",
+          "reference_only_exception": false,
+          "review_issues": [],
+          "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Pale-edged dorsal markings and the rattle are visible; deep shadow and the coiled posture limit assessment of hidden regions.",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-25T04:35:19.684382+00:00",
+            "category": "candidate",
+            "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Pale-edged dorsal markings and the rattle are visible; deep shadow and the coiled posture limit assessment of hidden regions."
+          },
+          "assistant_visual_review": {
+            "reviewer": "assistant",
+            "reviewed_at": "2026-11-25T04:35:19.684382+00:00",
+            "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Pale-edged dorsal markings and the rattle are visible; deep shadow and the coiled posture limit assessment of hidden regions.",
+            "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+            "provider_identification_count": 4,
+            "provider_most_agree": true,
+            "cache_file": "data/image_pilots/pilot_213_extra_crotalus_scutulatus/api_cache/ce4e107aa94d0a688bd2f4dfcfbfa6c6d49f23c89c3d8892c0a8d62f57dbcec9.json"
+          },
+          "review_history": [
+            {
+              "source": "assistant_visual_review",
+              "action": "accept",
+              "reviewer": "assistant",
+              "reviewed_at": "2026-11-25T04:35:19.684382+00:00",
+              "before": {
+                "review_status": "unreviewed",
+                "rendering_training_excluded": true,
+                "rendering_exclusion_reason": "pending_visual_review",
+                "species_confidence": null,
+                "body_condition": null
+              },
+              "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Pale-edged dorsal markings and the rattle are visible; deep shadow and the coiled posture limit assessment of hidden regions."
+            }
+          ],
           "manifest_path": "data/image_pilots/pilot_213_extra_crotalus_scutulatus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_728452247",
@@ -32986,11 +33056,11 @@
         "ready_proteomic_profiles": 1,
         "image_records": 18,
         "available_images": 18,
-        "rendering_eligible_images": 1,
+        "rendering_eligible_images": 2,
         "review_statuses": {
           "rejected": 1,
-          "unreviewed": 16,
-          "accepted": 1
+          "unreviewed": 15,
+          "accepted": 2
         }
       },
       "link_status": "venom_and_images",
@@ -40664,14 +40734,13 @@
           "original_width": 2048,
           "original_height": 1536,
           "retrieved_at": "2026-11-24T20:36:11.055588+00:00",
-          "review_status": "unreviewed",
-          "framing": "unknown",
-          "viewpoint": "unknown",
+          "review_status": "accepted",
+          "framing": "partial_body",
+          "viewpoint": "oblique",
           "pose": "unknown",
           "download_status": "downloaded",
           "collection_batch": "pilot_223_extra_dendroaspis_polylepis",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
           "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
           "local_path": "data/image_pilots/pilot_223_extra_dendroaspis_polylepis/images/4e32ce45fe6154bb7274f44ca3205937a5dde31fb6967b3ce39e5e34ef9c2c28.jpg",
           "sha256": "4e32ce45fe6154bb7274f44ca3205937a5dde31fb6967b3ce39e5e34ef9c2c28",
@@ -40679,10 +40748,46 @@
           "byte_count": 2216624,
           "content_type": "image/jpeg",
           "exact_content_seen_elsewhere": false,
+          "species_confidence": "confirmed",
+          "body_condition": "no_visible_injury",
+          "reference_only_exception": false,
+          "review_issues": [],
+          "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed dark trunk and tail are visible; the head is distant and parts of the body are overlapped.",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-25T04:35:19.684821+00:00",
+            "category": "candidate",
+            "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed dark trunk and tail are visible; the head is distant and parts of the body are overlapped."
+          },
+          "assistant_visual_review": {
+            "reviewer": "assistant",
+            "reviewed_at": "2026-11-25T04:35:19.684821+00:00",
+            "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed dark trunk and tail are visible; the head is distant and parts of the body are overlapped.",
+            "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+            "provider_identification_count": 9,
+            "provider_most_agree": true,
+            "cache_file": "data/image_pilots/pilot_223_extra_dendroaspis_polylepis/api_cache/ef2101215935ebb6241988be77c6ae8f54065519c181caa71c604a21256b521e.json"
+          },
+          "review_history": [
+            {
+              "source": "assistant_visual_review",
+              "action": "accept",
+              "reviewer": "assistant",
+              "reviewed_at": "2026-11-25T04:35:19.684821+00:00",
+              "before": {
+                "review_status": "unreviewed",
+                "rendering_training_excluded": true,
+                "rendering_exclusion_reason": "pending_visual_review",
+                "species_confidence": null,
+                "body_condition": null
+              },
+              "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The exposed dark trunk and tail are visible; the head is distant and parts of the body are overlapped."
+            }
+          ],
           "manifest_path": "data/image_pilots/pilot_223_extra_dendroaspis_polylepis/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_337896942",
@@ -40732,11 +40837,11 @@
         "ready_proteomic_profiles": 1,
         "image_records": 30,
         "available_images": 30,
-        "rendering_eligible_images": 8,
+        "rendering_eligible_images": 9,
         "review_statuses": {
-          "accepted": 8,
+          "accepted": 9,
           "rejected": 4,
-          "unreviewed": 18
+          "unreviewed": 17
         }
       },
       "link_status": "venom_and_images",
@@ -42202,14 +42307,13 @@
           "original_width": 2048,
           "original_height": 1536,
           "retrieved_at": "2026-11-24T20:36:27.967483+00:00",
-          "review_status": "unreviewed",
-          "framing": "unknown",
-          "viewpoint": "unknown",
+          "review_status": "accepted",
+          "framing": "partial_body",
+          "viewpoint": "oblique",
           "pose": "unknown",
           "download_status": "downloaded",
           "collection_batch": "pilot_224_extra_dispholidus_typus",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
           "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
           "local_path": "data/image_pilots/pilot_224_extra_dispholidus_typus/images/3999978c254f5c97f7e8411da1da050c51f758abe050b068d51fcc32a5d1a87d.jpg",
           "sha256": "3999978c254f5c97f7e8411da1da050c51f758abe050b068d51fcc32a5d1a87d",
@@ -42217,10 +42321,46 @@
           "byte_count": 952401,
           "content_type": "image/jpeg",
           "exact_content_seen_elsewhere": false,
+          "species_confidence": "confirmed",
+          "body_condition": "no_visible_injury",
+          "reference_only_exception": false,
+          "review_issues": [],
+          "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden.",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-25T04:33:52.764421+00:00",
+            "category": "candidate",
+            "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden."
+          },
+          "assistant_visual_review": {
+            "reviewer": "assistant",
+            "reviewed_at": "2026-11-25T04:33:52.764421+00:00",
+            "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden.",
+            "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+            "provider_identification_count": 3,
+            "provider_most_agree": true,
+            "cache_file": "data/image_pilots/pilot_224_extra_dispholidus_typus/api_cache/bef42aeefa9a472ae54614dfad0773f4fc8950ec1bfed29777e29d0fa4551f19.json"
+          },
+          "review_history": [
+            {
+              "source": "assistant_visual_review",
+              "action": "accept",
+              "reviewer": "assistant",
+              "reviewed_at": "2026-11-25T04:33:52.764421+00:00",
+              "before": {
+                "review_status": "unreviewed",
+                "rendering_training_excluded": true,
+                "rendering_exclusion_reason": "pending_visual_review",
+                "species_confidence": null,
+                "body_condition": null
+              },
+              "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden."
+            }
+          ],
           "manifest_path": "data/image_pilots/pilot_224_extra_dispholidus_typus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         }
       ],
       "collection_notes": null,
@@ -42229,10 +42369,11 @@
         "ready_proteomic_profiles": 1,
         "image_records": 30,
         "available_images": 30,
-        "rendering_eligible_images": 0,
+        "rendering_eligible_images": 1,
         "review_statuses": {
-          "unreviewed": 26,
-          "rejected": 4
+          "unreviewed": 25,
+          "rejected": 4,
+          "accepted": 1
         }
       },
       "link_status": "venom_and_images",
@@ -53089,14 +53230,13 @@
           "original_width": 2048,
           "original_height": 1280,
           "retrieved_at": "2026-11-24T20:44:09.790632+00:00",
-          "review_status": "unreviewed",
-          "framing": "unknown",
-          "viewpoint": "unknown",
+          "review_status": "accepted",
+          "framing": "partial_body",
+          "viewpoint": "oblique",
           "pose": "unknown",
           "download_status": "downloaded",
           "collection_batch": "pilot_245_extra_micrurus_corallinus",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
           "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
           "local_path": "data/image_pilots/pilot_245_extra_micrurus_corallinus/images/abeddd7605581eaf922a3a120221d7a4755ba5068b208ab488a607d7be016740.jpg",
           "sha256": "abeddd7605581eaf922a3a120221d7a4755ba5068b208ab488a607d7be016740",
@@ -53104,10 +53244,46 @@
           "byte_count": 1105775,
           "content_type": "image/jpeg",
           "exact_content_seen_elsewhere": false,
+          "species_confidence": "confirmed",
+          "body_condition": "no_visible_injury",
+          "reference_only_exception": false,
+          "review_issues": [],
+          "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Red and black transverse bands with pale borders are visible on the extended body; the ventral surface is not assessed.",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-25T04:35:19.685211+00:00",
+            "category": "candidate",
+            "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Red and black transverse bands with pale borders are visible on the extended body; the ventral surface is not assessed."
+          },
+          "assistant_visual_review": {
+            "reviewer": "assistant",
+            "reviewed_at": "2026-11-25T04:35:19.685211+00:00",
+            "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Red and black transverse bands with pale borders are visible on the extended body; the ventral surface is not assessed.",
+            "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+            "provider_identification_count": 4,
+            "provider_most_agree": true,
+            "cache_file": "data/image_pilots/pilot_245_extra_micrurus_corallinus/api_cache/21331eac0596e4194093bdedbaf8e77cb4795149b2fe67f637bd0dfa5f7ea3a9.json"
+          },
+          "review_history": [
+            {
+              "source": "assistant_visual_review",
+              "action": "accept",
+              "reviewer": "assistant",
+              "reviewed_at": "2026-11-25T04:35:19.685211+00:00",
+              "before": {
+                "review_status": "unreviewed",
+                "rendering_training_excluded": true,
+                "rendering_exclusion_reason": "pending_visual_review",
+                "species_confidence": null,
+                "body_condition": null
+              },
+              "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Red and black transverse bands with pale borders are visible on the extended body; the ventral surface is not assessed."
+            }
+          ],
           "manifest_path": "data/image_pilots/pilot_245_extra_micrurus_corallinus/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_750586316",
@@ -53290,10 +53466,10 @@
         "ready_proteomic_profiles": 2,
         "image_records": 18,
         "available_images": 18,
-        "rendering_eligible_images": 1,
+        "rendering_eligible_images": 2,
         "review_statuses": {
-          "unreviewed": 17,
-          "accepted": 1
+          "unreviewed": 16,
+          "accepted": 2
         }
       },
       "link_status": "venom_and_images",
@@ -63196,14 +63372,13 @@
           "original_width": 1200,
           "original_height": 1600,
           "retrieved_at": "2026-11-24T20:47:06.851140+00:00",
-          "review_status": "unreviewed",
-          "framing": "unknown",
-          "viewpoint": "unknown",
+          "review_status": "accepted",
+          "framing": "partial_body",
+          "viewpoint": "oblique",
           "pose": "unknown",
           "download_status": "downloaded",
           "collection_batch": "pilot_264_extra_naja_naja",
-          "rendering_training_excluded": true,
-          "rendering_exclusion_reason": "pending_visual_review",
+          "rendering_training_excluded": false,
           "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
           "local_path": "data/image_pilots/pilot_264_extra_naja_naja/images/8977679f87083480b8d14a13f468e6d1b40faeea0ab7b3f2aa5b4730c772ffb3.jpg",
           "sha256": "8977679f87083480b8d14a13f468e6d1b40faeea0ab7b3f2aa5b4730c772ffb3",
@@ -63211,10 +63386,46 @@
           "byte_count": 240021,
           "content_type": "image/jpeg",
           "exact_content_seen_elsewhere": false,
+          "species_confidence": "confirmed",
+          "body_condition": "no_visible_injury",
+          "reference_only_exception": false,
+          "review_issues": [],
+          "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The visible brown trunk has small scale flecks but no prominent repeated large body markings; the raised hood and head are less sharp and the underside is partly obscured.",
+          "suitability_screening": {
+            "reviewer": "assistant",
+            "reviewed_on": "2026-11-25T04:33:52.765293+00:00",
+            "category": "candidate",
+            "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The visible brown trunk has small scale flecks but no prominent repeated large body markings; the raised hood and head are less sharp and the underside is partly obscured."
+          },
+          "assistant_visual_review": {
+            "reviewer": "assistant",
+            "reviewed_at": "2026-11-25T04:33:52.765293+00:00",
+            "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The visible brown trunk has small scale flecks but no prominent repeated large body markings; the raised hood and head are less sharp and the underside is partly obscured.",
+            "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+            "provider_identification_count": 3,
+            "provider_most_agree": true,
+            "cache_file": "data/image_pilots/pilot_264_extra_naja_naja/api_cache/a220ef46b76a7ad712d0b6d77470797dbc8965bd3cc50d87e810e5ca7242761a.json"
+          },
+          "review_history": [
+            {
+              "source": "assistant_visual_review",
+              "action": "accept",
+              "reviewer": "assistant",
+              "reviewed_at": "2026-11-25T04:33:52.765293+00:00",
+              "before": {
+                "review_status": "unreviewed",
+                "rendering_training_excluded": true,
+                "rendering_exclusion_reason": "pending_visual_review",
+                "species_confidence": null,
+                "body_condition": null
+              },
+              "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. The visible brown trunk has small scale flecks but no prominent repeated large body markings; the raised hood and head are less sharp and the underside is partly obscured."
+            }
+          ],
           "manifest_path": "data/image_pilots/pilot_264_extra_naja_naja/manifest.json",
           "file_available": true,
           "species_link_status": "exact_name",
-          "rendering_eligible": false
+          "rendering_eligible": true
         },
         {
           "image_id": "inat_622822292",
@@ -63264,10 +63475,11 @@
         "ready_proteomic_profiles": 11,
         "image_records": 30,
         "available_images": 30,
-        "rendering_eligible_images": 0,
+        "rendering_eligible_images": 1,
         "review_statuses": {
-          "unreviewed": 27,
-          "rejected": 3
+          "unreviewed": 26,
+          "rejected": 3,
+          "accepted": 1
         }
       },
       "link_status": "venom_and_images",
@@ -128547,7 +128759,7 @@
     "image_records": 1815,
     "available_images": 1812,
     "distinct_image_hashes": 1801,
-    "rendering_eligible_images": 72,
+    "rendering_eligible_images": 78,
     "unresolved_image_links": 3,
     "species_without_images": [
       "Ahaetulla prasina",

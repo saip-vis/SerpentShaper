@@ -5,13 +5,13 @@
   "threshold_note": "Minimums only permit a small grouped experiment; they do not establish scientific validity or production readiness.",
   "data_counts": {
     "image_records": 1815,
-    "not_eligible_under_source_gate": 1790,
-    "accepted_not_excluded": 25,
+    "not_eligible_under_source_gate": 1737,
+    "accepted_not_excluded": 78,
     "annotation_records": 0,
     "approved_joined_images": 0,
     "joined_source_species": 0,
     "joined_profile_image_rows": 0,
-    "accepted_photo_candidates_without_known_review_blocks": 10
+    "accepted_photo_candidates_without_known_review_blocks": 63
   },
   "targets": {
     "headWidth": {

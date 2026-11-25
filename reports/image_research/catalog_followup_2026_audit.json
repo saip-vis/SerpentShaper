@@ -4,9 +4,9 @@
   "attempted_species": 149,
   "downloaded_photos": 599,
   "review_status_counts": {
-    "accepted": 45,
+    "accepted": 51,
     "rejected": 36,
-    "unreviewed": 518
+    "unreviewed": 512
   },
   "species_with_downloads": 83,
   "zero_result_species": [

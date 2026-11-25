@@ -166,21 +166,56 @@
     "original_width": 2048,
     "original_height": 1280,
     "retrieved_at": "2026-11-24T20:44:09.790632+00:00",
-    "review_status": "unreviewed",
-    "framing": "unknown",
-    "viewpoint": "unknown",
+    "review_status": "accepted",
+    "framing": "partial_body",
+    "viewpoint": "oblique",
     "pose": "unknown",
     "download_status": "downloaded",
     "collection_batch": "pilot_245_extra_micrurus_corallinus",
-    "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
+    "rendering_training_excluded": false,
     "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
     "local_path": "images/abeddd7605581eaf922a3a120221d7a4755ba5068b208ab488a607d7be016740.jpg",
     "sha256": "abeddd7605581eaf922a3a120221d7a4755ba5068b208ab488a607d7be016740",
     "downloaded_at": "2026-11-24T20:44:18.477220+00:00",
     "byte_count": 1105775,
     "content_type": "image/jpeg",
-    "exact_content_seen_elsewhere": false
+    "exact_content_seen_elsewhere": false,
+    "species_confidence": "confirmed",
+    "body_condition": "no_visible_injury",
+    "reference_only_exception": false,
+    "review_issues": [],
+    "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Red and black transverse bands with pale borders are visible on the extended body; the ventral surface is not assessed.",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-25T04:35:19.685211+00:00",
+      "category": "candidate",
+      "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Red and black transverse bands with pale borders are visible on the extended body; the ventral surface is not assessed."
+    },
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-25T04:35:19.685211+00:00",
+      "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Red and black transverse bands with pale borders are visible on the extended body; the ventral surface is not assessed.",
+      "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+      "provider_identification_count": 4,
+      "provider_most_agree": true,
+      "cache_file": "data/image_pilots/pilot_245_extra_micrurus_corallinus/api_cache/21331eac0596e4194093bdedbaf8e77cb4795149b2fe67f637bd0dfa5f7ea3a9.json"
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "accept",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-25T04:35:19.685211+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review",
+          "species_confidence": null,
+          "body_condition": null
+        },
+        "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Red and black transverse bands with pale borders are visible on the extended body; the ventral surface is not assessed."
+      }
+    ]
   },
   {
     "image_id": "inat_750586316",

@@ -279,20 +279,55 @@
     "original_width": 2048,
     "original_height": 1536,
     "retrieved_at": "2026-11-24T20:36:27.967483+00:00",
-    "review_status": "unreviewed",
-    "framing": "unknown",
-    "viewpoint": "unknown",
+    "review_status": "accepted",
+    "framing": "partial_body",
+    "viewpoint": "oblique",
     "pose": "unknown",
     "download_status": "downloaded",
     "collection_batch": "pilot_224_extra_dispholidus_typus",
-    "rendering_training_excluded": true,
-    "rendering_exclusion_reason": "pending_visual_review",
+    "rendering_training_excluded": false,
     "collection_note": "One photo selected per previously unrepresented observation; identity and condition unverified.",
     "local_path": "images/3999978c254f5c97f7e8411da1da050c51f758abe050b068d51fcc32a5d1a87d.jpg",
     "sha256": "3999978c254f5c97f7e8411da1da050c51f758abe050b068d51fcc32a5d1a87d",
     "downloaded_at": "2026-11-24T20:36:42.683342+00:00",
     "byte_count": 952401,
     "content_type": "image/jpeg",
-    "exact_content_seen_elsewhere": false
+    "exact_content_seen_elsewhere": false,
+    "species_confidence": "confirmed",
+    "body_condition": "no_visible_injury",
+    "reference_only_exception": false,
+    "review_issues": [],
+    "review_notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden.",
+    "suitability_screening": {
+      "reviewer": "assistant",
+      "reviewed_on": "2026-11-25T04:33:52.764421+00:00",
+      "category": "candidate",
+      "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden."
+    },
+    "assistant_visual_review": {
+      "reviewer": "assistant",
+      "reviewed_at": "2026-11-25T04:33:52.764421+00:00",
+      "notes": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden.",
+      "identity_basis": "provider research-grade community identification plus assistant visual inspection; not independently expert-verified",
+      "provider_identification_count": 3,
+      "provider_most_agree": true,
+      "cache_file": "data/image_pilots/pilot_224_extra_dispholidus_typus/api_cache/bef42aeefa9a472ae54614dfad0773f4fc8950ec1bfed29777e29d0fa4551f19.json"
+    },
+    "review_history": [
+      {
+        "source": "assistant_visual_review",
+        "action": "accept",
+        "reviewer": "assistant",
+        "reviewed_at": "2026-11-25T04:33:52.764421+00:00",
+        "before": {
+          "review_status": "unreviewed",
+          "rendering_training_excluded": true,
+          "rendering_exclusion_reason": "pending_visual_review",
+          "species_confidence": null,
+          "body_condition": null
+        },
+        "reason": "Assistant inspected the original. No obvious injury in visible regions; concealed regions were not assessed. The recorded species is supported by the cached iNaturalist research-grade community ID and appearance; it is not an independent expert determination. Visible green dorsal coils have dark scale edges but no prominent repeated body markings; some underside is hidden."
+      }
+    ]
   }
 ]

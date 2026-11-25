@@ -4,7 +4,7 @@ Status: **completed_with_gaps**. Attempted 149 of 149 source labels; downloaded 
 
 These are bounded iNaturalist searches, not exhaustive searches. New photos initially remained excluded from training; subsequent decisions and exclusions are recorded in their manifests. Research-grade labels are provider identifications, not independent verification; recorded license codes and attributions require checking for intended reuse.
 
-Current downloaded photo review statuses: {'accepted': 45, 'rejected': 36, 'unreviewed': 518}.
+Current downloaded photo review statuses: {'accepted': 51, 'rejected': 36, 'unreviewed': 512}.
 
 Files flagged as duplicate content: 1. File/provenance audit issues: 0.
 
