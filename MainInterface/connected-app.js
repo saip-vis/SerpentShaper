@@ -84,17 +84,43 @@ function renderContext(concept,pending){
   const length=item.maximum_total_length_mm;
   contextFact('context-size',length?`${Number((length.value/1000).toFixed(3))} m`:null,length?'Reported maximum total length; not typical adult size.':null,[citation('Length',length)].filter(Boolean));
 }
+function exactReferenceSpecies(){
+  const sameValues=profileValues=>controls.every(c=>values[c.id]===profileValues[c.id]);
+  if(starting&&sameValues(startingValues))return starting.species;
+  // An entered zero is not the same as a source blank. Require at least three
+  // reported categories and a unique species before recognizing a typed profile.
+  if(controls.filter(c=>Number.isFinite(values[c.id])).length<3)return null;
+  const matching=new Set(window.SERPENT_VENOM_DATA.profiles.filter(profile=>
+    profile.species_name&&sameValues(SpeciesStarters.valuesForProfile(controls,profile))
+  ).map(profile=>profile.species_name));
+  return matching.size===1?[...matching][0]:null;
+}
 function renderLd50(concept,pending){
   const node=$('context-ld50');node.replaceChildren();
-  if(pending&&concept){node.textContent='Release the slider to update reference measurements.';return;}
+  if(pending){node.textContent='Release the slider to update reference measurements.';return;}
+  const exact=invalid.size?null:exactReferenceSpecies();
+  if(exact){
+    const result=Ld50Reference.forSpecies(exact);
+    if(!result){node.textContent=`No LD50 reference for ${exact} is available in the current source set.`;return;}
+    node.append(contextText('p','context-value context-measure',`${result.reference.value} mg/kg`));
+    node.append(contextText('p','context-secondary',`Mouse · intravenous · ${result.reference.reported}`));
+    node.append(contextText('p','context-caution','One published sample; values vary and this was not measured for this venom profile.'));
+    const details=contextDetails('context-ld50','Measurements & source');
+    details.append(contextText('p','context-detail-text',result.study.method+'.'));
+    const list=document.createElement('ul');list.className='context-measurements';
+    for(const record of result.records){const row=document.createElement('li');row.append(contextText('span','',record.reported),contextText('strong','',`${record.value} mg/kg`));list.append(row);}
+    details.append(list,contextText('p','context-detail-text','The first listed sample from the newest curated study is shown above. Results vary by sample and test; they are not paired with the entered venom profile or a prediction of human toxicity.'));
+    const link=document.createElement('a');link.href=result.study.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent=result.study.label;details.append(link);node.append(details);return;
+  }
   if(!concept){node.textContent='Enter venom values to compare published measurements.';return;}
   const result=Ld50Reference.estimate(currentSources);
   if(!result){node.textContent='Insufficient comparable measurements among the top five venom matches. More curated reference data is needed.';return;}
   node.append(contextText('p','context-value context-measure',`${result.min}–${result.max} mg/kg`));
-  node.append(contextText('p','context-secondary',`Mouse · intravenous · ${result.speciesCount} of 5 closest species`));
+  node.append(contextText('p','context-secondary',`Mouse · intravenous · ${result.speciesCount} of ${result.consideredCount} closest species`));
   node.append(contextText('p','context-caution','Reference measurements only; not a toxicity prediction.'));
   const details=contextDetails('context-ld50','Measurements & source');
   details.append(contextText('p','context-detail-text',result.study.method+'.'));
+  details.append(contextText('p','context-detail-text',`Closest species with measurements in this study: ${result.closestSpecies} (venom match #${result.closestRank}).`));
   const list=document.createElement('ul');list.className='context-measurements';
   for(const record of result.records){const row=document.createElement('li');row.append(contextText('span','',record.reported),contextText('strong','',`${record.value} mg/kg`));list.append(row);}
   details.append(list,contextText('p','context-detail-text','Range of published point estimates, not a confidence interval or human toxicity prediction. Samples are not paired with the entered profile.'));

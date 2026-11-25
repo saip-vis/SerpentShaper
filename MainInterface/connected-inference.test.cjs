@@ -159,11 +159,12 @@ assert.match(dom['context-prey'].children[0].textContent,/Neotoma/);
 assert.match(dom['context-prey'].children[1].children[1].textContent,/Squamatabase/);
 assert.match(dom['context-size'].children[0].textContent,/2\.337 m/);
 assert.match(dom['context-size'].children[1].textContent,/reported maximum/i);
-assert.match(dom['context-ld50'].children[0].textContent,/2\.1–5\.1 mg\/kg/);
-assert.match(dom['context-ld50'].children[2].textContent,/not a toxicity prediction/);
+assert.equal(dom['context-ld50'].children[0].textContent,'5.1 mg/kg');
+assert.match(dom['context-ld50'].children[1].textContent,/Crotalus atrox/);
+assert.match(dom['context-ld50'].children[2].textContent,/not measured for this venom profile/);
 const ld50Details=dom['context-ld50'].children[3];
 assert.equal(ld50Details.children[0].textContent,'Measurements & source');
-assert.equal(ld50Details.children[2].children.length,2);
+assert.equal(ld50Details.children[2].children.length,1);
 assert.equal(ld50Details.children[4].href,'https://pubmed.ncbi.nlm.nih.gov/12565759/');
 ld50Details.open=true;ld50Details.fire('toggle');dom.ventral.fire('click');
 assert.equal(dom['context-ld50'].children[3].open,true,'expanded sources stay open when the view updates');
@@ -171,11 +172,28 @@ const selectedAppearance=withoutMetadata(dom.drawing.innerHTML),selectedValues=S
 dom.clear.fire('click');assert.equal(dom['starting-reference'].hidden,true);
 for(const [id,value] of Object.entries(selectedValues)){if(value!==null){input(id).value=String(value);input(id).fire('input');}}
 assert.equal(withoutMetadata(dom.drawing.innerHTML),selectedAppearance,'the same venom produces the same concept from a blank start');
+assert.equal(dom['context-ld50'].children[0].textContent,'5.1 mg/kg','a uniquely matching typed profile receives the same species reference');
+input('svmp').value='49.6';input('svmp').fire('input');
+assert.notEqual(dom['context-ld50'].children[0]?.textContent,'5.1 mg/kg','editing the preset no longer presents its value as an exact-profile reference');
+input('svmp').value='49.7';input('svmp').fire('input');
 dom['starting-species'].value='Naja kaouthia';dom['starting-species'].fire('change');
+assert.equal(dom['context-ld50'].children[0].textContent,'0.23 mg/kg');
+assert.match(dom['context-ld50'].children[1].textContent,/Thailand/);
+assert.equal(dom['context-ld50'].children[3].children[2].children.length,2,'other same-species samples remain available');
 for(const id of Object.keys(selectedValues)){input(id).value='';input(id).fire('input');}
 for(const [id,value] of Object.entries(selectedValues)){input(id).value=value===null?'':String(value);input(id).fire('input');}
 assert.equal(withoutMetadata(dom.drawing.innerHTML),selectedAppearance,'changing a starting species does not pin the generated concept');
 assert.match(dom['starting-note'].textContent,/Edited starting profile/);
+// Every starting species must either show its own source or explicitly report
+// that it is unavailable, even when a source profile exceeds the input limit.
+for(const entry of SpeciesStarters.build(data,scope.window.SERPENT_PRESETS.presets)){
+  dom['starting-species'].value=entry.species;dom['starting-species'].fire('change');
+  const reference=Ld50Reference.forSpecies(entry.species);
+  if(reference){
+    assert.equal(dom['context-ld50'].children[0].textContent,`${reference.reference.value} mg/kg`,entry.species);
+    assert.ok(dom['context-ld50'].children[1].textContent.includes(reference.reference.reported),entry.species);
+  }else assert.match(dom['context-ld50'].textContent,/No LD50 reference/,entry.species);
+}
 const html=fs.readFileSync(__dirname+'/index.html','utf8');
 assert.match(html,/<select[^>]*id="starting-species"/i);assert.doesNotMatch(html,/render-mode/i);assert.match(html,/not measured from photos/);
 console.log('Trained Python/JS parity, explanations, zero reversal, surfaces and main-interface controls verified.');
