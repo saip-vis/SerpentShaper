@@ -10,6 +10,8 @@ For ingestion, see [the cleaning report](reports/cleaning_report.md). The SQLite
 
 The main [venom explorer](MainInterface/index.html) connects venom-family inputs directly to a trained experimental SVG concept and explains the model's responses. See [usage and limitations](MainInterface/README.md) and the [connected model's training report](ML/learned_morphology/connected_prototype.json). The earlier, more detailed reference-based renderer is preserved in the [research interface](MainInterface/research-interface.html).
 
+To run the main interface with local PDF/text study search, run `./start_serpentshaper.sh` and open `http://127.0.0.1:8768/`. Study passages and optional literal-percentage suggestions remain local; users review and apply values explicitly. Optional retrieval-augmented answers use a separately installed local Ollama `llama3:latest` model and do not retrain the phenotype model. See the interface notes for limitations and dependencies.
+
 To browse the cleaned data and test custom inputs locally, run `python3 InitialInterfaceTest.py` and open `http://127.0.0.1:8765`. See [interface usage and API](InitialInterfaceTest.md).
 
 The [venom input specification](docs/VenomInputSpecification.md) defines four primary and eight advanced controls available in the composition editor. Its biological phenotype output contract remains a draft; the connected model produces an experimental illustration rather than validated phenotype inference. Validate the catalog's database bindings with `python3 scripts/validate_input_spec.py`.

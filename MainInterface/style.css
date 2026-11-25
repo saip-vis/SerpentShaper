@@ -14,3 +14,10 @@
 .toxin-about summary::before{content:'›';display:inline-block;margin-right:5px;transition:transform .15s}
 .toxin-about[open] summary::before{transform:rotate(90deg)}
 .toxin-about p{margin:5px 0 0}
+.study-panel{border-top:1px solid var(--line);margin-top:24px;padding-top:16px;color:#526b5b;font-size:12px;line-height:1.6}
+.study-panel summary{cursor:pointer;color:#346b4c;font-weight:700;font-size:13px}
+.study-panel p{margin-top:9px}.study-panel .field-label{margin-top:15px}.study-panel input[type=file]{max-width:100%;font-size:12px}
+.study-panel button:not(.text-button){border:1px solid #b9d0bd;border-radius:5px;background:#edf5ed;color:#315d44;padding:7px 10px;font-size:12px;font-weight:650}
+.study-search{display:flex;gap:8px}.study-search input{min-width:0;flex:1;border:1px solid #d9e3da;border-radius:5px;padding:7px}
+.study-results{display:grid;gap:9px;margin-top:12px}.study-result{border:1px solid var(--line);border-radius:6px;padding:10px}.study-result h4{margin:0;color:var(--ink)}.study-result p{overflow-wrap:anywhere;white-space:pre-wrap}.study-result button{margin:8px 6px 0 0}
+.study-applied:not(:empty){margin-top:10px;padding:10px;background:#f4f8f2;border-radius:6px}.study-applied p{margin:3px 0 0;overflow-wrap:anywhere}
